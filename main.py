@@ -146,7 +146,6 @@ def getAIExplain():
             print("\n")
         except Exception as e:
             print("第" + str(k) + "个单词:" + word + " error:" + str(e))
-            #  delete file
             if os.path.exists("./markdown/" + word + ".md",):
                 os.remove("./markdown/" + word + ".md")
             if os.path.exists("./txt/" + word + ".txt",):
@@ -156,11 +155,6 @@ def getAIExplain():
 
 if __name__ == '__main__':
     getAIExplain()
-    # 使用示例
-    # txt_folder = 'txt'  # 替换为txt文件夹的路径
-    # markdown_folder = 'markdown'  # 替换为markdown文件夹的路径
-    #
-    # copy_txt_to_markdown(txt_folder, markdown_folder)
 
 
 
