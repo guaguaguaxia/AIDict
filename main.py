@@ -2,12 +2,12 @@
 import json
 import os.path
 import shutil
+import time
 
 import requests
-from openai import OpenAI
 
 
-def AIChat(word, api_key):
+def AIChat(word, model, api_key):
     questions = """我是一个正在学习英文的中国人，我希望深入地学习一个词汇，并从多个维度理解它。当我给出一个词汇时，请按照以下步骤为我详细解析：
 
 Step1: 全面定义
@@ -60,7 +60,7 @@ Step8: 个性化建议
     }
 
     data = {
-        "model": "gpt-4o",
+        "model": model,
         "messages": [{"role": "user", "content": questions}]
     }
 
@@ -114,29 +114,48 @@ def get_api_key():
         raise ("读取API key失败，请把 .env_example 文件修改成 .env 文件，并修改里面的API key:", e)
         return None
 
-def getGptExplain():
+def write_file(fila_name, content, model):
+    try:
+        with open(fila_name, 'w') as file:
+            file.write("### answered by " + model + "\n")
+            file.write(content)
+            file.close()
+        print(f"文件 {fila_name} 写入成功")
+    except Exception as e:
+        print(f"文件 {fila_name} 写入失败：{e}")
+def getAIExplain():
     f = open("all_word.txt", "r")
     k = 0
     api_key = get_api_key()
+    # model = "gpt-4o"
+    model = "grok-3"
     for i in f.readlines():
-        if k > 100:
-            break
-        k += 1
-        word = i.replace("\n","")
-        if os.path.exists("./markdown/" + word + ".md",):
-            print("第" + str(k) + "个单词:" + word + " exists")
+        word = i.replace("\n", "")
+        try:
+            k += 1
+            if os.path.exists("./markdown/" + word + ".md",):
+                print("第" + str(k) + "个单词:" + word + " exists")
+                continue
+            print("第" + str(k) + "个单词:" + word + " start...")
+            result = AIChat(word, model, api_key)
+            content = result['choices'][0]['message']['content']
+            write_file("./markdown/" + word + ".md", content, model)
+            write_file("./txt/" + word + ".txt", content, model)
+
+            print("第" + str(k) + "个单词:" + word + " end...")
+            print("\n")
+        except Exception as e:
+            print("第" + str(k) + "个单词:" + word + " error:" + str(e))
+            #  delete file
+            if os.path.exists("./markdown/" + word + ".md",):
+                os.remove("./markdown/" + word + ".md")
+            if os.path.exists("./txt/" + word + ".txt",):
+                os.remove("./txt/" + word + ".txt")
+            time.sleep(5)
             continue
-        print("第" + str(k) + "个单词:" + word + " start...")
-        result = AIChat(word, api_key)
-        print(result)
-        f1 = open("./markdown/" + word + ".md", "a+")
-        f1.write(result['choices'][0]['message']['content'])
-        f1.close()
-        print("第" + str(k) + "个单词:" + word + " end...")
-        print("\n")
 
 if __name__ == '__main__':
-    getGptExplain()
+    getAIExplain()
     # 使用示例
     # txt_folder = 'txt'  # 替换为txt文件夹的路径
     # markdown_folder = 'markdown'  # 替换为markdown文件夹的路径

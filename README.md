@@ -3,7 +3,7 @@
 
 # AIDICT
 
-这是一个通过请求 ChatGPT API 来获取英文单词详细解释的 Python 项目。该项目会将返回的单词解释保存到 `txt` 或 `markdown` 文件夹中。
+这是一个通过请求 AI API (GPT-4o、Grok-3等) 来获取英文单词详细解释的 Python 项目。该项目会将返回的单词解释保存到 `txt` 或 `markdown` 文件夹中。
 
 ## 功能
 
