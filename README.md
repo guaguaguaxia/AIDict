@@ -4,9 +4,6 @@
 
 这是一个通过请求 AI API (GPT-4o、Grok-3等) 来获取英文单词详细解释的 Python 项目。该项目会将返回的单词解释保存到 `txt` 或 `markdown` 文件夹中。
 
-⭐️ **如果您觉得这个项目有用，请给我们一个 Star！** ⭐️
-👉 **GitHub 仓库地址: [https://github.com/guaguaguaxia/AIDict](https://github.com/guaguaguaxia/AIDict)** 👈
-
 ## 功能
 
 - 使用 ChatGPT API 请求给定英文单词的详细解释。
