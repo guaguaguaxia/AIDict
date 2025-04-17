@@ -3,8 +3,7 @@ import Layout from '../../components/Layout';
 import Pronunciation from '../../components/Pronunciation';
 import WordExamples from '../../components/WordExamples';
 import RelatedWords from '../../components/RelatedWords';
-import WordQuiz from '../../components/WordQuiz';
-import Flashcard from '../../components/Flashcard';
+// 删除 WordQuiz 和 Flashcard 的导入
 import { getAllWordIds, getWordData } from '../../lib/words';
 
 export default function Word({ wordData }) {
@@ -48,36 +47,9 @@ export default function Word({ wordData }) {
           <RelatedWords word={wordData.word} />
         </div>
 
-        {/* Learning tools */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-          {/* Add flashcard component */}
-          <div>
-            <Flashcard word={wordData.word} />
-          </div>
-          
-          {/* Add interactive quiz component */}
-          <div>
-            <WordQuiz word={wordData.word} />
-          </div>
-        </div>
-
-        <div className="bg-blue-50 rounded-xl p-6 my-8">
-          <h2 className="text-xl font-semibold text-blue-800 mb-3">想学习更多？</h2>
-          <p className="text-gray-700 mb-4">
-            使用我们的学习资源扩展你的词汇量
-          </p>
-          <div className="flex flex-wrap gap-2">
-            <a href="#" className="px-4 py-2 bg-blue-100 hover:bg-blue-200 text-blue-800 rounded-md transition-colors">
-              练习题
-            </a>
-            <a href="#" className="px-4 py-2 bg-blue-100 hover:bg-blue-200 text-blue-800 rounded-md transition-colors">
-              单词卡片
-            </a>
-            <a href="#" className="px-4 py-2 bg-blue-100 hover:bg-blue-200 text-blue-800 rounded-md transition-colors">
-              测试自己
-            </a>
-          </div>
-        </div>
+        {/* 删除了 Learning tools、Flashcard 和 WordQuiz 组件 */}
+        
+        {/* 删除了 "想学习更多？" 部分 */}
 
         <div className="flex justify-between items-center py-4 border-t border-gray-200">
           <button 
@@ -95,19 +67,19 @@ export default function Word({ wordData }) {
   );
 }
 
-export async function getStaticPaths() {
-  const paths = getAllWordIds();
-  return {
-    paths,
-    fallback: false,
-  };
-}
-
 export async function getStaticProps({ params }) {
   const wordData = await getWordData(params.word);
   return {
     props: {
       wordData,
     },
+  };
+}
+
+export async function getStaticPaths() {
+  const paths = getAllWordIds();
+  return {
+    paths,
+    fallback: false,
   };
 }

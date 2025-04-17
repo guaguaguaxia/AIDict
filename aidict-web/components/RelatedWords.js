@@ -1,8 +1,11 @@
 import Link from 'next/link';
+import { useState, useEffect } from 'react';
 
 export default function RelatedWords({ word }) {
-  // These would normally be fetched from an API or database
-  // For now, we'll generate some mock related terms
+  const [relatedWords, setRelatedWords] = useState([]);
+  const [isClient, setIsClient] = useState(false);
+  
+  // 生成相关单词的函数
   const generateRelatedWords = (baseWord) => {
     // Common prefixes and suffixes to generate "related" words
     const prefixes = ['re', 'un', 'in', 'dis', 'over', 'under', 'pre', 'post'];
@@ -14,22 +17,37 @@ export default function RelatedWords({ word }) {
     
     const related = [];
     
-    // Add a prefix version
-    const randomPrefix = prefixes[Math.floor(Math.random() * prefixes.length)];
-    related.push(randomPrefix + baseWord);
+    // 为了避免水合错误，使用确定性算法而非随机算法
+    // 使用单词的第一个字符的字符码来确定选择哪个前缀和后缀
+    const charCode = baseWord.charCodeAt(0) || 0;
+    const prefixIndex = charCode % prefixes.length;
+    const suffixIndex = (charCode + 1) % suffixes.length;
     
-    // Add a suffix version
-    const randomSuffix = suffixes[Math.floor(Math.random() * suffixes.length)];
-    related.push(baseWord + randomSuffix);
+    related.push(prefixes[prefixIndex] + baseWord);
+    related.push(baseWord + suffixes[suffixIndex]);
     
-    // Add some "synonyms"
-    const shuffled = [...synonyms].sort(() => 0.5 - Math.random());
-    related.push(...shuffled.slice(0, 3));
+    // 选择固定的同义词，而不是随机打乱
+    const synStart = charCode % (synonyms.length - 3);
+    related.push(...synonyms.slice(synStart, synStart + 3));
     
-    return related.slice(0, 5); // Limit to 5 related words
+    return related.slice(0, 5); // 限制为5个相关单词
   };
   
-  const relatedWords = generateRelatedWords(word);
+  // 使用useEffect确保此代码只在客户端执行，避免水合不匹配
+  useEffect(() => {
+    setIsClient(true);
+    setRelatedWords(generateRelatedWords(word));
+  }, [word]);
+  
+  // 如果不是客户端，返回一个占位符以避免水合错误
+  if (!isClient) {
+    return (
+      <div className="mt-6">
+        <h3 className="text-lg font-medium text-gray-800 mb-3">相关单词</h3>
+        <div className="text-gray-500">加载相关单词中...</div>
+      </div>
+    );
+  }
 
   return (
     <div className="mt-6">
