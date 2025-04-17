@@ -1,4 +1,5 @@
 # Please install OpenAI SDK first: `pip3 install openai`
+import argparse
 import json
 import os.path
 import shutil
@@ -123,13 +124,17 @@ def write_file(fila_name, content, model):
         print(f"文件 {fila_name} 写入成功")
     except Exception as e:
         print(f"文件 {fila_name} 写入失败：{e}")
-def getAIExplain():
+def getAIExplain(API_KEY):
     f = open("all_word.txt", "r")
     k = 0
-    api_key = get_api_key()
+    api_key = API_KEY
+    if api_key is None:
+        api_key = get_api_key()
     # model = "gpt-4o"
     model = "grok-3"
     for i in f.readlines():
+        if k > 320:
+            break
         word = i.replace("\n", "")
         try:
             k += 1
@@ -154,7 +159,17 @@ def getAIExplain():
             continue
 
 if __name__ == '__main__':
-    getAIExplain()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--API_KEY",
+        dest="API_KEY",
+        type=str,
+        help="API_KEY",
+    )
+    options = parser.parse_args()
+    API_KEY = options.API_KEY
+
+    getAIExplain(API_KEY)
 
 
 
