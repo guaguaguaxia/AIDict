@@ -6,6 +6,13 @@ import { getAllFirstLetters, getWordsByFirstLetter, getFeaturedWords, getAllCate
 
 export default function Home({ firstLetters, wordsByLetter, featuredWords, categories }) {
   const [activeLetter, setActiveLetter] = useState(firstLetters[0] || 'a');
+  // 添加控制字母导航条显示/隐藏的状态
+  const [showAlphabetNav, setShowAlphabetNav] = useState(false);
+  
+  // 切换字母导航条显示/隐藏
+  const toggleAlphabetNav = () => {
+    setShowAlphabetNav(!showAlphabetNav);
+  };
   
   return (
     <Layout>
@@ -52,40 +59,46 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
               </div>
             </Link>
             
-            <div className="bg-indigo-600 text-white px-5 py-3 rounded-lg shadow-md hover:bg-indigo-700 transition-colors duration-200">
-              <div className="font-medium mb-1">按字母浏览</div>
-              <div className="flex flex-wrap justify-center gap-1">
-                {firstLetters.slice(0, 10).map((letter) => (
-                  <Link key={letter} href={`/letter/${letter}`} className="w-6 h-6 flex items-center justify-center bg-white bg-opacity-20 rounded-full text-xs hover:bg-opacity-30 transition-colors">
+            <button 
+              onClick={toggleAlphabetNav} 
+              className={`flex items-center px-5 py-3 rounded-lg shadow-md transition-colors duration-200 ${
+                showAlphabetNav ? 'bg-indigo-700 text-white' : 'bg-indigo-600 text-white hover:bg-indigo-700'
+              }`}
+            >
+              <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 4h13M3 8h9m-9 4h6m4 0l4-4m0 0l4 4m-4-4v12"></path>
+              </svg>
+              <div>
+                <span className="font-medium">按字母首字母浏览</span>
+                <p className="text-xs mt-1 text-blue-100">A-Z字母索引</p>
+              </div>
+            </button>
+          </div>
+          
+          {/* 字母导航条，根据showAlphabetNav状态控制显示/隐藏 */}
+          {showAlphabetNav && (
+            <div className="bg-white shadow-md rounded-lg p-4 overflow-x-auto mb-6">
+              <div className="flex justify-center flex-wrap">
+                {firstLetters.map((letter) => (
+                  <Link
+                    key={letter}
+                    href={`/letter/${letter}`}
+                    className={`px-3 py-2 m-1 rounded-md font-medium text-lg transition-colors duration-200 
+                      bg-gray-100 text-gray-700 hover:bg-gray-200`}
+                  >
                     {letter.toUpperCase()}
                   </Link>
                 ))}
-                <span className="text-xs flex items-center">...</span>
               </div>
             </div>
-          </div>
-          
-          <div className="bg-white shadow-md rounded-lg p-4 overflow-x-auto">
-            <div className="flex justify-center flex-wrap">
-              {firstLetters.map((letter) => (
-                <Link
-                  key={letter}
-                  href={`/letter/${letter}`}
-                  className={`px-3 py-2 m-1 rounded-md font-medium text-lg transition-colors duration-200 
-                    bg-gray-100 text-gray-700 hover:bg-gray-200`}
-                >
-                  {letter.toUpperCase()}
-                </Link>
-              ))}
-            </div>
-          </div>
+          )}
         </section>
 
         {/* 词汇分类预览 */}
         <section className="mb-10">
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-2xl font-bold text-gray-800">词汇分类</h2>
-
+  
           </div>
           
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
@@ -110,9 +123,7 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
                 <div className="bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-gray-100">
                   <h3 className="text-xl font-semibold text-gray-800 capitalize mb-2">{word}</h3>
                   
-                  <div className="mt-3 flex justify-end">
-                    <span className="text-blue-600 text-sm">查看详情 →</span>
-                  </div>
+
                 </div>
               </Link>
             ))}
