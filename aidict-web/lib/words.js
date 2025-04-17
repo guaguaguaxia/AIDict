@@ -8,6 +8,9 @@ let wordsCache = null;
 let wordsByLetterCache = null;
 let firstLettersCache = null;
 
+// 缓存精选词汇
+let featuredWordsCache = null;
+
 // 修复：直接使用项目内部的markdown文件夹
 const getWordsDirectory = () => {
   // 首先尝试使用项目内的markdown文件夹
@@ -154,6 +157,39 @@ export async function getWordData(word) {
     contentHtml,
     ...matterResult.data
   };
+}
+
+// 获取精选词汇列表
+export function getFeaturedWords() {
+  // 如果已有缓存，直接返回
+  if (featuredWordsCache !== null) {
+    return featuredWordsCache;
+  }
+  
+  const allWords = getAllWords();
+  
+  // 这里可以根据不同的策略来选择精选词汇
+  // 示例策略：选择一些常用且有教育价值的词汇
+  const importantWords = [
+    'academic', 'accomplish', 'generosity', 'obligation', 'prejudice', 
+    'oppression', 'tolerance', 'individualism', 'enthusiasm', 'equivalent',
+    'recognition', 'empathy', 'impact', 'inspire', 'leadership',
+    'correspondent', 'perspective', 'settlement', 'strategy' 
+  ];
+  
+  // 过滤出实际存在的词汇
+  featuredWordsCache = importantWords.filter(word => allWords.includes(word));
+  
+  // 如果精选词汇太少，从所有单词中随机添加一些
+  if (featuredWordsCache.length < 12) {
+    const additionalCount = 12 - featuredWordsCache.length;
+    const shuffled = [...allWords].sort(() => 0.5 - Math.random());
+    const additionalWords = shuffled.slice(0, additionalCount);
+    
+    featuredWordsCache = [...featuredWordsCache, ...additionalWords];
+  }
+  
+  return featuredWordsCache;
 }
 
 // Client-safe search function

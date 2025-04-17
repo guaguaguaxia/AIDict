@@ -133,15 +133,16 @@ def getAIExplain(API_KEY):
     # model = "gpt-4o"
     model = "grok-3"
     for i in f.readlines():
-        print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
-        if k > 332:
+        if k > 2:
             break
         word = i.replace("\n", "")
         try:
-            k += 1
+
             if os.path.exists("./markdown/" + word + ".md",):
-                print("第" + str(k) + "个单词:" + word + " exists")
+                # print("第" + str(k) + "个单词:" + word + " exists")
                 continue
+            k = k + 1
+            print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
             print("第" + str(k) + "个单词:" + word + " start...")
             result = AIChat(word, model, api_key)
             content = result['choices'][0]['message']['content']
