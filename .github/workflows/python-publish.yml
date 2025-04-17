@@ -40,3 +40,13 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 用于授权推送更改
+
+      # Step 6: 重新触发工作流
+      - name: Re-run workflow
+        if: success()  # 只有前面的步骤成功才会重新触发
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/python-publish.yml/dispatches \
+            -d '{"ref":"${{ github.ref }}"}'
