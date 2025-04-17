@@ -64,7 +64,6 @@ export default function LetterPage({ letter, words }) {
 
         <div className="mt-8 text-center">
           <p className="text-gray-600 mb-4">
-            浏览我们全面的词汇集合，提升您的词汇量。
           </p>
           <Link 
             href="/"
