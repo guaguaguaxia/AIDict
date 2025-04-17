@@ -1,11 +1,6 @@
 name: Run Python Script to Fetch API Data
 
 on:
-  push:
-    branches:
-      - master
-    paths:
-      - main.py
   workflow_dispatch:  # 允许手动触发工作流
 
 jobs:
