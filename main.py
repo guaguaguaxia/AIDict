@@ -126,7 +126,7 @@ def write_file(fila_name, content, model):
         print(f"文件 {fila_name} 写入失败：{e}")
 def getAIExplain(API_KEY):
     f = open("all_word.txt", "r")
-    k = 10
+    k = 1
     api_key = API_KEY
     if api_key is None:
         api_key = get_api_key()
@@ -137,7 +137,6 @@ def getAIExplain(API_KEY):
             break
         word = i.replace("\n", "")
         try:
-
             if os.path.exists("./markdown/" + word + ".md",):
                 # print("第" + str(k) + "个单词:" + word + " exists")
                 continue
