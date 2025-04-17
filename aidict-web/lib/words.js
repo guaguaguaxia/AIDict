@@ -8,11 +8,24 @@ let wordsCache = null;
 let wordsByLetterCache = null;
 let firstLettersCache = null;
 
+// 修复：直接使用项目内部的markdown文件夹
+const getWordsDirectory = () => {
+  // 首先尝试使用项目内的markdown文件夹
+  const internalPath = path.join(process.cwd(), 'markdown');
+  if (fs && fs.existsSync(internalPath)) {
+    return internalPath;
+  }
+  
+  // 如果内部路径不存在，可以尝试备用路径
+  // 在Vercel上，应该只会使用内部路径
+  const externalPath = path.join(process.cwd(), '..', 'markdown');
+  return externalPath;
+};
+
 // Check if we're running on the server side
 if (typeof window === 'undefined') {
   fs = require('fs');
-  // Define wordsDirectory only on server
-  const wordsDirectory = path.join(process.cwd(), '..', 'markdown');
+  // 不再在这里定义wordsDirectory
 } else {
   // We'll use a different approach for the client side
   console.log('Running on client side');
@@ -28,7 +41,7 @@ const ensureServer = () => {
 
 export function getAllWordIds() {
   const fs = ensureServer();
-  const wordsDirectory = path.join(process.cwd(), '..', 'markdown');
+  const wordsDirectory = getWordsDirectory(); // 使用新的获取路径方法
   const fileNames = fs.readdirSync(wordsDirectory);
   return fileNames.map(fileName => {
     return {
@@ -48,7 +61,14 @@ export function getAllWords() {
   // Only execute this on the server
   if (typeof window === 'undefined') {
     const fs = require('fs');
-    const wordsDirectory = path.join(process.cwd(), '..', 'markdown');
+    const wordsDirectory = getWordsDirectory(); // 使用新的获取路径方法
+    
+    // 如果目录不存在，返回空数组避免错误
+    if (!fs.existsSync(wordsDirectory)) {
+      console.warn(`警告: 单词目录 ${wordsDirectory} 不存在`);
+      return [];
+    }
+    
     const fileNames = fs.readdirSync(wordsDirectory);
     wordsCache = fileNames.map(fileName => {
       // Remove ".md" from file name to get id
@@ -103,8 +123,19 @@ export function getAllFirstLetters() {
 
 export async function getWordData(word) {
   const fs = ensureServer();
-  const wordsDirectory = path.join(process.cwd(), '..', 'markdown');
+  const wordsDirectory = getWordsDirectory(); // 使用新的获取路径方法
   const fullPath = path.join(wordsDirectory, `${word}.md`);
+  
+  // 文件不存在时提供友好提示
+  if (!fs.existsSync(fullPath)) {
+    return {
+      word,
+      contentHtml: `<p>抱歉，${word} 的内容暂不可用。</p>`,
+      title: word,
+      notFound: true
+    };
+  }
+  
   const fileContents = fs.readFileSync(fullPath, 'utf8');
 
   // Use gray-matter to parse the word metadata section
