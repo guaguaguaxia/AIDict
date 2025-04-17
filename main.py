@@ -160,6 +160,28 @@ def getAIExplain(API_KEY):
             time.sleep(5)
             continue
 
+
+def extract_english_words(input_file, output_file):
+    with open(input_file, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    # Extract English words (first word before any tab, space, or part-of-speech marker)
+    words = []
+    for line in lines:
+        # Split on whitespace and take the first element
+        word = line.strip().split()[0]
+        # Ensure it's a valid word (contains only letters, no special characters)
+        if word.isalpha():
+            words.append(word)
+
+    # Write words to output file, one per line
+    with open(output_file, 'w', encoding='utf-8') as f:
+        for word in words:
+            f.write(word + '\n')
+
+
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
