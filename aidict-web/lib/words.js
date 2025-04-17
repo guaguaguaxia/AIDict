@@ -2,57 +2,72 @@ import path from 'path';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-// We'll only import fs when running on the server
-let fs;
+// 缓存
 let wordsCache = null;
 let wordsByLetterCache = null;
 let firstLettersCache = null;
-
-// 缓存精选词汇
 let featuredWordsCache = null;
+let categoryWordsCache = {};
+let allCategoriesCache = null;
 
-// 修复：直接使用项目内部的markdown文件夹
+// 分类映射：英文名称到中文显示名称
+const categoryDisplayNames = {
+  'CET4': '大学英语四级词汇',
+  'CET6': '大学英语六级词汇',
+  'HIGH_SCHOOL': '高中英语词汇',
+  'MIDDLE_SCHOOL': '初中英语词汇',
+  'POSTGRADUATE': '研究生英语词汇',
+  'SAT': 'SAT考试词汇',
+  'TOFEL': '托福考试词汇'
+};
+
+// 安全地获取fs模块，仅在服务器端执行
+const getFs = () => {
+  if (typeof window === 'undefined') {
+    try {
+      // 动态导入
+      return require('fs');
+    } catch (e) {
+      console.error('无法导入fs模块:', e);
+      return null;
+    }
+  }
+  return null; // 客户端环境返回null
+};
+
+// 获取markdown文件夹路径
 const getWordsDirectory = () => {
-  // 首先尝试使用项目内的markdown文件夹
+  if (typeof window !== 'undefined') return ''; // 客户端返回空字符串
+  
+  const fs = getFs();
+  if (!fs) return '';
+
   const internalPath = path.join(process.cwd(), 'markdown');
-  if (fs && fs.existsSync(internalPath)) {
+  if (fs.existsSync(internalPath)) {
     return internalPath;
   }
   
-  // 如果内部路径不存在，可以尝试备用路径
-  // 在Vercel上，应该只会使用内部路径
-  const externalPath = path.join(process.cwd(), '..', 'markdown');
-  return externalPath;
+  return path.join(process.cwd(), '..', 'markdown');
 };
 
-// Check if we're running on the server side
-if (typeof window === 'undefined') {
-  fs = require('fs');
-  // 不再在这里定义wordsDirectory
-} else {
-  // We'll use a different approach for the client side
-  console.log('Running on client side');
-}
-
-// Helper function to ensure we're on the server
-const ensureServer = () => {
-  if (typeof window !== 'undefined') {
-    throw new Error('This function can only be called on the server side');
-  }
-  return require('fs');
+// 获取wordtxt目录路径
+const getWordTxtDirectory = () => {
+  if (typeof window !== 'undefined') return '';
+  return path.join(process.cwd(), 'wordtxt');
 };
 
 export function getAllWordIds() {
-  const fs = ensureServer();
-  const wordsDirectory = getWordsDirectory(); // 使用新的获取路径方法
+  const fs = getFs();
+  if (!fs) return [];
+  
+  const wordsDirectory = getWordsDirectory();
   const fileNames = fs.readdirSync(wordsDirectory);
-  return fileNames.map(fileName => {
-    return {
-      params: {
-        word: fileName.replace(/\.md$/, '')
-      }
-    };
-  });
+  
+  return fileNames.map(fileName => ({
+    params: {
+      word: fileName.replace(/\.md$/, '')
+    }
+  }));
 }
 
 export function getAllWords() {
@@ -63,8 +78,10 @@ export function getAllWords() {
 
   // Only execute this on the server
   if (typeof window === 'undefined') {
-    const fs = require('fs');
-    const wordsDirectory = getWordsDirectory(); // 使用新的获取路径方法
+    const fs = getFs();
+    if (!fs) return [];
+    
+    const wordsDirectory = getWordsDirectory();
     
     // 如果目录不存在，返回空数组避免错误
     if (!fs.existsSync(wordsDirectory)) {
@@ -86,15 +103,11 @@ export function getAllWords() {
 }
 
 export function getWordsByFirstLetter() {
-  // Return cached result if available
-  if (wordsByLetterCache !== null) {
-    return wordsByLetterCache;
-  }
+  if (wordsByLetterCache !== null) return wordsByLetterCache;
 
   const allWords = getAllWords();
   const wordsByLetter = {};
   
-  // Group words by their first letter
   allWords.forEach(word => {
     const firstLetter = word.charAt(0).toLowerCase();
     if (!wordsByLetter[firstLetter]) {
@@ -108,10 +121,7 @@ export function getWordsByFirstLetter() {
 }
 
 export function getAllFirstLetters() {
-  // Return cached result if available
-  if (firstLettersCache !== null) {
-    return firstLettersCache;
-  }
+  if (firstLettersCache !== null) return firstLettersCache;
   
   const allWords = getAllWords();
   const letters = new Set();
@@ -125,8 +135,15 @@ export function getAllFirstLetters() {
 }
 
 export async function getWordData(word) {
-  const fs = ensureServer();
-  const wordsDirectory = getWordsDirectory(); // 使用新的获取路径方法
+  const fs = getFs();
+  if (!fs) return {
+    word,
+    contentHtml: `<p>加载中...</p>`,
+    title: word,
+    loading: true
+  };
+  
+  const wordsDirectory = getWordsDirectory();
   const fullPath = path.join(wordsDirectory, `${word}.md`);
   
   // 文件不存在时提供友好提示
@@ -161,14 +178,10 @@ export async function getWordData(word) {
 
 // 获取精选词汇列表
 export function getFeaturedWords() {
-  // 如果已有缓存，直接返回
-  if (featuredWordsCache !== null) {
-    return featuredWordsCache;
-  }
+  if (featuredWordsCache !== null) return featuredWordsCache;
   
   const allWords = getAllWords();
   
-  // 这里可以根据不同的策略来选择精选词汇
   // 示例策略：选择一些常用且有教育价值的词汇
   const importantWords = [
     'academic', 'accomplish', 'generosity', 'obligation', 'prejudice', 
@@ -194,6 +207,105 @@ export function getFeaturedWords() {
 
 // Client-safe search function
 export function searchWords(query) {
-  // We'll make the actual search happen in the API route
-  return [];
+  return []; // 通过API实现搜索功能
+}
+
+// 获取所有可用的词汇分类
+export function getAllCategories() {
+  if (allCategoriesCache !== null) return allCategoriesCache;
+
+  if (typeof window === 'undefined') {
+    const fs = getFs();
+    if (!fs) return [];
+    
+    const wordTxtDirectory = getWordTxtDirectory();
+    
+    // 如果目录不存在，返回空数组避免错误
+    if (!fs.existsSync(wordTxtDirectory)) {
+      console.warn(`警告: 词汇分类目录 ${wordTxtDirectory} 不存在`);
+      return [];
+    }
+    
+    const fileNames = fs.readdirSync(wordTxtDirectory);
+    allCategoriesCache = fileNames.map(fileName => {
+      // Remove ".txt" from file name to get category
+      const category = fileName.replace(/\.txt$/, '');
+      return {
+        id: category,
+        name: categoryDisplayNames[category] || category
+      };
+    });
+    return allCategoriesCache;
+  }
+
+  return []; // 客户端返回空数组
+}
+
+// 根据分类获取单词列表
+export function getWordsByCategory(category) {
+  if (categoryWordsCache[category]) return categoryWordsCache[category];
+
+  if (typeof window === 'undefined') {
+    const fs = getFs();
+    if (!fs) return [];
+    
+    const wordTxtDirectory = getWordTxtDirectory();
+    const categoryPath = path.join(wordTxtDirectory, `${category}.txt`);
+    
+    // 如果文件不存在，返回空数组避免错误
+    if (!fs.existsSync(categoryPath)) {
+      console.warn(`警告: 词汇分类文件 ${categoryPath} 不存在`);
+      return [];
+    }
+    
+    const fileContents = fs.readFileSync(categoryPath, 'utf8');
+    const words = fileContents.split('\n')
+      .map(word => word.trim())
+      .filter(word => word.length > 0);
+    
+    categoryWordsCache[category] = words;
+    return words;
+  }
+
+  return []; // 客户端返回空数组
+}
+
+// 获取带分页的分类词汇
+export function getPaginatedWordsByCategory(category, page = 1, pageSize = 24) {
+  const allWords = getWordsByCategory(category);
+  const startIndex = (page - 1) * pageSize;
+  const endIndex = startIndex + pageSize;
+  
+  return {
+    words: allWords.slice(startIndex, endIndex),
+    totalWords: allWords.length,
+    totalPages: Math.ceil(allWords.length / pageSize)
+  };
+}
+
+// 检查单词是否存在于特定分类中
+export function isWordInCategory(word, category) {
+  const categoryWords = getWordsByCategory(category);
+  return categoryWords.includes(word);
+}
+
+// 获取单词所属的所有分类
+export function getCategoriesForWord(word) {
+  const allCategories = getAllCategories();
+  return allCategories
+    .filter(category => isWordInCategory(word, category.id))
+    .map(category => category.id);
+}
+
+// 获取所有分类的单词数量统计
+export function getCategoryWordCounts() {
+  const allCategories = getAllCategories();
+  const counts = {};
+  
+  allCategories.forEach(category => {
+    const words = getWordsByCategory(category.id);
+    counts[category.id] = words.length;
+  });
+  
+  return counts;
 }

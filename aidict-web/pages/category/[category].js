@@ -1,21 +1,18 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../../components/Layout';
-import { getAllFirstLetters, getWordsByFirstLetter } from '../../lib/words';
+import { getAllCategories, getPaginatedWordsByCategory } from '../../lib/words';
 
-// 每页显示的单词数量
-const PAGE_SIZE = 48;
-
-export default function LetterPage({ letter, words, currentPage, totalPages }) {
+export default function CategoryPage({ category, categoryName, paginatedWords, currentPage, totalPages }) {
   const router = useRouter();
   const [page, setPage] = useState(currentPage);
 
   // 处理页面切换
   const handlePageChange = (newPage) => {
     if (newPage >= 1 && newPage <= totalPages) {
-      router.push(`/letter/${letter}?page=${newPage}`);
+      router.push(`/category/${category}?page=${newPage}`);
     }
   };
 
@@ -114,49 +111,33 @@ export default function LetterPage({ letter, words, currentPage, totalPages }) {
   return (
     <Layout>
       <Head>
-        <title>以 {letter.toUpperCase()} 开头的单词 | AI 英语词典</title>
-        <meta name="description" content={`浏览所有以 ${letter.toUpperCase()} 开头的英文单词`} />
+        <title>{categoryName} | AI 英语词典</title>
+        <meta name="description" content={`浏览 ${categoryName} 的英语单词列表`} />
       </Head>
 
       <div className="max-w-6xl mx-auto">
         <div className="mb-6 flex flex-col sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">以 {letter.toUpperCase()} 开头的单词</h1>
+            <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">{categoryName}</h1>
             <p className="text-gray-600">
-              第 {currentPage} 页，共 {totalPages} 页，显示 {words.length} 个单词
+              第 {currentPage} 页，共 {totalPages} 页，总共 {paginatedWords.totalWords} 个单词
             </p>
           </div>
           
           <Link
-            href="/"
+            href="/categories"
             className="mt-4 sm:mt-0 inline-flex items-center text-blue-600 hover:text-blue-800"
           >
             <svg className="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7"></path>
             </svg>
-            返回首页
+            返回词汇分类
           </Link>
-        </div>
-
-        {/* 字母导航 */}
-        <div className="bg-white shadow-md rounded-lg p-4 mb-6 overflow-x-auto">
-          <div className="flex justify-center flex-wrap">
-            {getAllFirstLetters().map((l) => (
-              <Link
-                key={l}
-                href={`/letter/${l}?page=1`}
-                className={`px-3 py-2 m-1 rounded-md font-medium text-lg transition-colors duration-200 
-                  ${l === letter ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
-              >
-                {l.toUpperCase()}
-              </Link>
-            ))}
-          </div>
         </div>
 
         {/* 单词网格 */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 mb-8">
-          {words.map((word) => (
+          {paginatedWords.words.map((word) => (
             <Link 
               key={word} 
               href={`/word/${word}`}
@@ -181,26 +162,29 @@ export default function LetterPage({ letter, words, currentPage, totalPages }) {
 }
 
 export async function getServerSideProps({ params, query }) {
-  const { letter } = params;
+  const { category } = params;
   const page = parseInt(query.page || 1, 10);
   
-  // 获取词汇列表
-  const wordsByLetter = getWordsByFirstLetter();
-  const letterWords = wordsByLetter[letter.toLowerCase()] || [];
+  // 获取分类名称
+  const allCategories = getAllCategories();
+  const categoryInfo = allCategories.find(cat => cat.id === category);
   
-  // 计算分页信息
-  const totalWords = letterWords.length;
-  const totalPages = Math.ceil(totalWords / PAGE_SIZE);
-  const startIndex = (page - 1) * PAGE_SIZE;
-  const endIndex = startIndex + PAGE_SIZE;
-  const currentWords = letterWords.slice(startIndex, endIndex);
+  if (!categoryInfo) {
+    return {
+      notFound: true
+    };
+  }
+  
+  // 获取带分页的单词列表
+  const paginatedWords = getPaginatedWordsByCategory(category, page);
   
   return {
     props: {
-      letter: letter.toLowerCase(),
-      words: currentWords,
+      category,
+      categoryName: categoryInfo.name,
+      paginatedWords,
       currentPage: page,
-      totalPages,
+      totalPages: paginatedWords.totalPages
     }
   };
 }

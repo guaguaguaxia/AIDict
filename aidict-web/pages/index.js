@@ -2,9 +2,9 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../components/Layout';
-import { getAllFirstLetters, getWordsByFirstLetter, getFeaturedWords } from '../lib/words';
+import { getAllFirstLetters, getWordsByFirstLetter, getFeaturedWords, getAllCategories } from '../lib/words';
 
-export default function Home({ firstLetters, wordsByLetter, featuredWords }) {
+export default function Home({ firstLetters, wordsByLetter, featuredWords, categories }) {
   const [activeLetter, setActiveLetter] = useState(firstLetters[0] || 'a');
   
   return (
@@ -39,8 +39,32 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords }) {
           </div>
         </section>
 
-        {/* 字母选择导航 */}
+        {/* 浏览方式选择 */}
         <section className="mb-10">
+          <div className="flex flex-wrap justify-center gap-4 mb-6">
+            <Link href="/categories" className="flex items-center px-5 py-3 bg-blue-600 text-white rounded-lg shadow-md hover:bg-blue-700 transition-colors duration-200">
+              <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
+              </svg>
+              <div>
+                <span className="font-medium">按词汇分类浏览</span>
+                <p className="text-xs mt-1 text-blue-100">四六级、高中、托福等分类</p>
+              </div>
+            </Link>
+            
+            <div className="bg-indigo-600 text-white px-5 py-3 rounded-lg shadow-md hover:bg-indigo-700 transition-colors duration-200">
+              <div className="font-medium mb-1">按字母浏览</div>
+              <div className="flex flex-wrap justify-center gap-1">
+                {firstLetters.slice(0, 10).map((letter) => (
+                  <Link key={letter} href={`/letter/${letter}`} className="w-6 h-6 flex items-center justify-center bg-white bg-opacity-20 rounded-full text-xs hover:bg-opacity-30 transition-colors">
+                    {letter.toUpperCase()}
+                  </Link>
+                ))}
+                <span className="text-xs flex items-center">...</span>
+              </div>
+            </div>
+          </div>
+          
           <div className="bg-white shadow-md rounded-lg p-4 overflow-x-auto">
             <div className="flex justify-center flex-wrap">
               {firstLetters.map((letter) => (
@@ -57,10 +81,28 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords }) {
           </div>
         </section>
 
+        {/* 词汇分类预览 */}
+        <section className="mb-10">
+          <div className="flex items-center justify-between mb-4">
+            <h2 className="text-2xl font-bold text-gray-800">词汇分类</h2>
+
+          </div>
+          
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            {categories.slice(0, 10).map((category) => (
+              <Link key={category.id} href={`/category/${category.id}?page=1`}>
+                <div className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 h-full">
+                  <h3 className="text-lg font-semibold text-gray-800 mb-1">{category.name}</h3>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+
         {/* 精选词汇 */}
         <section>
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-3xl font-bold text-gray-800">精选词汇</h2>
+            <h2 className="text-2xl font-bold text-gray-800">精选词汇</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {featuredWords.map((word) => (
@@ -85,12 +127,14 @@ export async function getStaticProps() {
   const firstLetters = getAllFirstLetters();
   const wordsByLetter = getWordsByFirstLetter();
   const featuredWords = getFeaturedWords();
+  const categories = getAllCategories();
 
   return {
     props: {
       firstLetters,
       wordsByLetter,
       featuredWords,
+      categories,
     },
   };
 }
