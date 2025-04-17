@@ -157,4 +157,6 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 .env
-./aidict-web/node_modules
+aidict-web/node_modules
+aidict-web/.next
+
