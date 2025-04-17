@@ -133,7 +133,7 @@ def getAIExplain(API_KEY):
     # model = "gpt-4o"
     model = "grok-3"
     for i in f.readlines():
-        if k > 318:
+        if k > 400:
             break
         word = i.replace("\n", "")
         try:
