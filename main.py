@@ -126,7 +126,7 @@ def write_file(fila_name, content, model):
         print(f"文件 {fila_name} 写入失败：{e}")
 def getAIExplain(API_KEY):
     f = open("all_word.txt", "r")
-    k = 0
+    k = 10
     api_key = API_KEY
     if api_key is None:
         api_key = get_api_key()
