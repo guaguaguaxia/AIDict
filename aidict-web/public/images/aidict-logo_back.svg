@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <rect width="512" height="512" rx="64" fill="url(#paint0_linear)"/>
+  
+  <!-- Book pages -->
+  <path d="M140 130C140 123.373 145.373 118 152 118H360C366.627 118 372 123.373 372 130V382C372 388.627 366.627 394 360 394H152C145.373 394 140 388.627 140 382V130Z" fill="white"/>
+  
+  <!-- Dictionary pages lines -->
+  <path d="M160 160H352" stroke="#E0E0E0" stroke-width="4"/>
+  <path d="M160 190H352" stroke="#E0E0E0" stroke-width="4"/>
+  <path d="M160 220H352" stroke="#E0E0E0" stroke-width="4"/>
+  <path d="M160 250H270" stroke="#E0E0E0" stroke-width="4"/>
+  <path d="M160 280H250" stroke="#E0E0E0" stroke-width="4"/>
+  <path d="M160 310H290" stroke="#E0E0E0" stroke-width="4"/>
+  <path d="M160 340H310" stroke="#E0E0E0" stroke-width="4"/>
+  
+  <!-- AI circuit pattern -->
+  <path d="M300 250C300 250 320 250 330 260C340 270 350 320 360 330" stroke="#4F46E5" stroke-width="3"/>
+  <path d="M310 280C310 280 330 290 340 300" stroke="#4F46E5" stroke-width="3"/>
+  <path d="M290 310C290 310 320 330 340 340" stroke="#4F46E5" stroke-width="3"/>
+  <path d="M330 260C330 260 350 270 360 280" stroke="#4F46E5" stroke-width="3"/>
+  
+  <!-- Circuit nodes -->
+  <circle cx="330" cy="260" r="6" fill="#4F46E5"/>
+  <circle cx="360" cy="330" r="6" fill="#4F46E5"/>
+  <circle cx="340" cy="300" r="6" fill="#4F46E5"/>
+  <circle cx="340" cy="340" r="6" fill="#4F46E5"/>
+  <circle cx="360" cy="280" r="6" fill="#4F46E5"/>
+  
+  <!-- AI brain icon simplified -->
+  <path d="M340 210C340 182.386 317.614 160 290 160C262.386 160 240 182.386 240 210C240 237.614 262.386 260 290 260" stroke="#4F46E5" stroke-width="12" stroke-linecap="round"/>
+  <path d="M290 210H320" stroke="#4F46E5" stroke-width="12" stroke-linecap="round"/>
+  <path d="M270 190H300" stroke="#4F46E5" stroke-width="12" stroke-linecap="round"/>
+  <path d="M270 230H290" stroke="#4F46E5" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- "A" letter -->
+  <path d="M183 210L163 270H173L176 260H200L203 270H213L193 210H183ZM179 250L188 225L197 250H179Z" fill="#4F46E5"/>
+  
+  <!-- "I" letter -->
+  <path d="M223 210V270H233V210H223Z" fill="#4F46E5"/>
+  
+  <!-- Gradients and filters -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+</svg>

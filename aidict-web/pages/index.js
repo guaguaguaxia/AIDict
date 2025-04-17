@@ -12,7 +12,11 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords }) {
       <Head>
         <title>AI 英语词典 - 彻底理解一个英文单词</title>
         <meta name="description" content="一个由人工智能提供详细单词解释的英语词典" />
-        <link rel="icon" href="/favicon.ico" />
+        {/* 使用书本emoji作为favicon */}
+        <link
+          rel="icon"
+          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>"
+        />
       </Head>
 
       <div className="max-w-6xl mx-auto">
