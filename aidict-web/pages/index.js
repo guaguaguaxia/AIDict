@@ -119,10 +119,10 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
           </section>
         )}
 
-        {/* 精选词汇 */}
+        {/* 随机词汇 */}
         <section>
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-bold text-gray-800">精选词汇</h2>
+            <h2 className="text-2xl font-bold text-gray-800">随机词汇</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {featuredWords.map((word) => (
@@ -157,5 +157,7 @@ export async function getStaticProps() {
       categories,
       wordCounts,
     },
+    // 添加revalidate，每次访问都重新生成页面以获取新的随机词汇
+    revalidate: 1, // 每1秒可以重新生成一次页面
   };
 }

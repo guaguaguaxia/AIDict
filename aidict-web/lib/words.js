@@ -176,33 +176,22 @@ export async function getWordData(word) {
   };
 }
 
-// 获取精选词汇列表
+// 获取随机词汇列表
 export function getFeaturedWords() {
-  if (featuredWordsCache !== null) return featuredWordsCache;
-  
+  // Remove caching to ensure words change on each refresh
   const allWords = getAllWords();
   
-  // 示例策略：选择一些常用且有教育价值的词汇
-  const importantWords = [
-    'academic', 'accomplish', 'generosity', 'obligation', 'prejudice', 
-    'oppression', 'tolerance', 'individualism', 'enthusiasm', 'equivalent',
-    'recognition', 'empathy', 'impact', 'inspire', 'leadership',
-    'correspondent', 'perspective', 'settlement', 'strategy' 
-  ];
+  // 过滤出字母数量大于7的词汇
+  const longWords = allWords.filter(word => word.length > 7);
   
-  // 过滤出实际存在的词汇
-  featuredWordsCache = importantWords.filter(word => allWords.includes(word));
-  
-  // 如果精选词汇太少，从所有单词中随机添加一些
-  if (featuredWordsCache.length < 12) {
-    const additionalCount = 12 - featuredWordsCache.length;
-    const shuffled = [...allWords].sort(() => 0.5 - Math.random());
-    const additionalWords = shuffled.slice(0, additionalCount);
-    
-    featuredWordsCache = [...featuredWordsCache, ...additionalWords];
+  // 如果没有足够的长单词，就返回所有可用的长单词
+  if (longWords.length <= 15) {
+    return longWords;
   }
   
-  return featuredWordsCache;
+  // 随机打乱数组并选择前15个
+  const shuffled = [...longWords].sort(() => 0.5 - Math.random());
+  return shuffled.slice(0, 15);
 }
 
 // Client-safe search function
