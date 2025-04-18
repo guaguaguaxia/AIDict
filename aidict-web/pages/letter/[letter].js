@@ -8,10 +8,13 @@ import { getAllFirstLetters, getWordsByFirstLetter } from '../../lib/words';
 // 每页显示的单词数量
 const PAGE_SIZE = 48;
 
-export default function LetterPage({ letter, words, currentPage, totalPages }) {
+// 所有可能的英文字母
+const ALL_LETTERS = 'abcdefghijklmnopqrstuvwxyz'.split('');
+
+export default function LetterPage({ letter, words, currentPage, totalPages, allFirstLetters }) {
   const router = useRouter();
   const [page, setPage] = useState(currentPage);
-
+  
   // 处理页面切换
   const handlePageChange = (newPage) => {
     if (newPage >= 1 && newPage <= totalPages) {
@@ -119,12 +122,27 @@ export default function LetterPage({ letter, words, currentPage, totalPages }) {
       </Head>
 
       <div className="max-w-6xl mx-auto">
+        {/* 添加顶部字母导航栏 - 不带红框 */}
+        <div className="mb-6 bg-white shadow-md rounded-lg p-4">
+          <h2 className="text-lg font-semibold text-gray-800 mb-2">以 {letter.toUpperCase()} 开头的单词</h2>
+          <div className="flex flex-wrap">
+            {ALL_LETTERS.map((l) => (
+              <Link
+                key={l}
+                href={`/letter/${l}?page=1`}
+                className={`px-3 py-2 m-1 rounded-md font-medium transition-colors duration-200 
+                  ${l === letter ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
+              >
+                {l.toUpperCase()}
+              </Link>
+            ))}
+          </div>
+
+        </div>
+
         <div className="mb-6 flex flex-col sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-2">以 {letter.toUpperCase()} 开头的单词</h1>
-            <p className="text-gray-600">
-              第 {currentPage} 页，共 {totalPages} 页，显示 {words.length} 个单词
-            </p>
+            <h1 className="text-3xl md:text-4xl font-bold text-gray-800">以 {letter.toUpperCase()} 开头的单词</h1>
           </div>
           
           <Link
@@ -136,22 +154,6 @@ export default function LetterPage({ letter, words, currentPage, totalPages }) {
             </svg>
             返回首页
           </Link>
-        </div>
-
-        {/* 字母导航 */}
-        <div className="bg-white shadow-md rounded-lg p-4 mb-6 overflow-x-auto">
-          <div className="flex justify-center flex-wrap">
-            {getAllFirstLetters().map((l) => (
-              <Link
-                key={l}
-                href={`/letter/${l}?page=1`}
-                className={`px-3 py-2 m-1 rounded-md font-medium text-lg transition-colors duration-200 
-                  ${l === letter ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
-              >
-                {l.toUpperCase()}
-              </Link>
-            ))}
-          </div>
         </div>
 
         {/* 单词网格 */}
@@ -181,26 +183,44 @@ export default function LetterPage({ letter, words, currentPage, totalPages }) {
 }
 
 export async function getServerSideProps({ params, query }) {
-  const { letter } = params;
-  const page = parseInt(query.page || 1, 10);
-  
-  // 获取词汇列表
-  const wordsByLetter = getWordsByFirstLetter();
-  const letterWords = wordsByLetter[letter.toLowerCase()] || [];
-  
-  // 计算分页信息
-  const totalWords = letterWords.length;
-  const totalPages = Math.ceil(totalWords / PAGE_SIZE);
-  const startIndex = (page - 1) * PAGE_SIZE;
-  const endIndex = startIndex + PAGE_SIZE;
-  const currentWords = letterWords.slice(startIndex, endIndex);
-  
-  return {
-    props: {
-      letter: letter.toLowerCase(),
-      words: currentWords,
-      currentPage: page,
-      totalPages,
-    }
-  };
+  try {
+    const { letter } = params;
+    const page = parseInt(query.page || 1, 10);
+    
+    // 获取词汇列表
+    const wordsByLetter = getWordsByFirstLetter();
+    const letterWords = wordsByLetter[letter.toLowerCase()] || [];
+    
+    // 计算分页信息
+    const totalWords = letterWords.length;
+    const totalPages = Math.ceil(totalWords / PAGE_SIZE);
+    const startIndex = (page - 1) * PAGE_SIZE;
+    const endIndex = startIndex + PAGE_SIZE;
+    const currentWords = letterWords.slice(startIndex, endIndex);
+    
+    // 获取所有首字母
+    const allFirstLetters = getAllFirstLetters();
+    
+    return {
+      props: {
+        letter: letter.toLowerCase(),
+        words: currentWords,
+        currentPage: page,
+        totalPages,
+        allFirstLetters,
+      }
+    };
+  } catch (error) {
+    console.error("Error in getServerSideProps:", error);
+    return {
+      props: {
+        letter: params.letter.toLowerCase(),
+        words: [],
+        currentPage: 1,
+        totalPages: 1,
+        allFirstLetters: ALL_LETTERS,
+        error: "加载出错，请重试"
+      }
+    };
+  }
 }
