@@ -8,6 +8,9 @@ jobs:
     runs-on: ubuntu-latest  # 使用 GitHub 提供的 Ubuntu 环境
 
     steps:
+      - name: Wait for 5 seconds
+        run: sleep 5
+
       # Step 1: Checkout 代码
       - name: Checkout repository
         uses: actions/checkout@v2
