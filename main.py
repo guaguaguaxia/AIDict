@@ -147,7 +147,7 @@ def getAIExplain(API_KEY):
             result = AIChat(word, model, api_key)
             content = result['choices'][0]['message']['content']
             write_file("./markdown/" + word + ".md", content, model)
-            write_file("./txt/" + word + ".txt", content, model)
+            # write_file("./txt/" + word + ".txt", content, model)
 
             print("第" + str(k) + "个单词:" + word + " end...")
             print("\n")
@@ -155,8 +155,8 @@ def getAIExplain(API_KEY):
             print("第" + str(k) + "个单词:" + word + " error:" + str(e))
             if os.path.exists("./markdown/" + word + ".md",):
                 os.remove("./markdown/" + word + ".md")
-            if os.path.exists("./txt/" + word + ".txt",):
-                os.remove("./txt/" + word + ".txt")
+            # if os.path.exists("./txt/" + word + ".txt",):
+            #     os.remove("./txt/" + word + ".txt")
             time.sleep(5)
             continue
 
