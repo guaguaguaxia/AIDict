@@ -89,7 +89,7 @@ export default function Search() {
                 {results.map((word) => (
                   <li key={word} className="hover:bg-blue-50 transition-colors">
                     <Link 
-                      href={`/word/${word}`}
+                      href={`/word/${word}?from=search&q=${encodeURIComponent(q)}`}
                       className="block px-6 py-4 flex items-center justify-between"
                     >
                       <div>

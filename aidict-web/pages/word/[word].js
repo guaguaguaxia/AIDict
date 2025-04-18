@@ -3,6 +3,7 @@ import Layout from '../../components/Layout';
 import Pronunciation from '../../components/Pronunciation';
 import WordExamples from '../../components/WordExamples';
 import RelatedWords from '../../components/RelatedWords';
+import BreadcrumbNav from '../../components/BreadcrumbNav';
 import { getAllWordIds, getWordData } from '../../lib/words';
 
 export default function Word({ wordData }) {
@@ -14,6 +15,9 @@ export default function Word({ wordData }) {
       </Head>
 
       <div className="max-w-4xl mx-auto">
+        {/* 添加面包屑导航 */}
+        <BreadcrumbNav word={wordData.word} />
+        
         <div className="mb-6 flex items-center justify-between flex-wrap">
           <div className="flex items-center mb-3 md:mb-0">
             <h1 className="text-3xl md:text-4xl font-bold text-gray-800 capitalize mr-4">

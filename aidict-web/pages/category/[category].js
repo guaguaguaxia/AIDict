@@ -140,7 +140,7 @@ export default function CategoryPage({ category, categoryName, paginatedWords, c
           {paginatedWords.words.map((word) => (
             <Link 
               key={word} 
-              href={`/word/${word}`}
+              href={`/word/${word}?from=category&categoryId=${category}&categoryName=${encodeURIComponent(categoryName)}`}
               prefetch={false}
               className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 text-center"
             >

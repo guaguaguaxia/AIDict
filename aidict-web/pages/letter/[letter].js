@@ -161,7 +161,7 @@ export default function LetterPage({ letter, words, currentPage, totalPages, all
           {words.map((word) => (
             <Link 
               key={word} 
-              href={`/word/${word}`}
+              href={`/word/${word}?from=letter&letter=${letter}`}
               prefetch={false}
               className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 text-center"
             >
