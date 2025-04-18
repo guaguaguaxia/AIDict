@@ -3,10 +3,31 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../components/Layout';
 import { getAllFirstLetters, getWordsByFirstLetter, getFeaturedWords, getAllCategories, getCategoryWordCounts } from '../lib/words';
+import { useRouter } from 'next/router';
 
 export default function Home({ firstLetters, wordsByLetter, featuredWords, categories, wordCounts }) {
   // 添加状态控制当前浏览方式：'category'表示词汇分类，'alphabet'表示字母浏览
   const [browseMode, setBrowseMode] = useState('category');
+  const [randomWords, setRandomWords] = useState(featuredWords);
+  const [isLoading, setIsLoading] = useState(false);
+  const router = useRouter();
+  
+  // 刷新随机词汇而不刷新整个页面
+  const refreshRandomWords = async () => {
+    setIsLoading(true);
+    try {
+      // 使用fetch API获取新的随机词汇
+      const response = await fetch('/api/random-words');
+      if (response.ok) {
+        const newWords = await response.json();
+        setRandomWords(newWords);
+      }
+    } catch (error) {
+      console.error('获取随机词汇失败:', error);
+    } finally {
+      setIsLoading(false);
+    }
+  };
   
   return (
     <Layout>
@@ -123,9 +144,24 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
         <section>
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-2xl font-bold text-gray-800">随机词汇</h2>
+            <button 
+              onClick={refreshRandomWords} 
+              disabled={isLoading}
+              className={`px-4 py-2 ${isLoading ? 'bg-gray-400' : 'bg-blue-600 hover:bg-blue-500'} text-white rounded-md transition duration-300 flex items-center`}
+            >
+              {isLoading ? (
+                <>
+                  <svg className="animate-spin -ml-1 mr-2 h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  加载中...
+                </>
+              ) : '换一批'}
+            </button>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {featuredWords.map((word) => (
+            {randomWords.map((word) => (
               <Link key={word} href={`/word/${word}`} prefetch={false} className="block">
                 <div className="bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-gray-100">
                   <h3 className="text-xl font-semibold text-gray-800 capitalize mb-2">{word}</h3>
