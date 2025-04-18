@@ -2,9 +2,9 @@ import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../components/Layout';
-import { getAllFirstLetters, getWordsByFirstLetter, getFeaturedWords, getAllCategories } from '../lib/words';
+import { getAllFirstLetters, getWordsByFirstLetter, getFeaturedWords, getAllCategories, getCategoryWordCounts } from '../lib/words';
 
-export default function Home({ firstLetters, wordsByLetter, featuredWords, categories }) {
+export default function Home({ firstLetters, wordsByLetter, featuredWords, categories, wordCounts }) {
   const [activeLetter, setActiveLetter] = useState(firstLetters[0] || 'a');
   // 添加控制字母导航条显示/隐藏的状态
   const [showAlphabetNav, setShowAlphabetNav] = useState(false);
@@ -98,14 +98,17 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
         <section className="mb-10">
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-2xl font-bold text-gray-800">词汇分类</h2>
-  
+            <Link href="/categories" className="text-blue-600 hover:text-blue-800 text-sm font-medium">
+              查看全部 →
+            </Link>
           </div>
           
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
             {categories.slice(0, 10).map((category) => (
               <Link key={category.id} href={`/category/${category.id}?page=1`}>
-                <div className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 h-full">
-                  <h3 className="text-lg font-semibold text-gray-800 mb-1">{category.name}</h3>
+                <div className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 h-full flex flex-col">
+                  <h3 className="text-lg font-semibold text-gray-800 mb-2">{category.name}</h3>
+                  <p className="text-gray-600 text-base">{wordCounts[category.id] || 0} 个单词</p>
                 </div>
               </Link>
             ))}
@@ -122,8 +125,9 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
               <Link key={word} href={`/word/${word}`} className="block">
                 <div className="bg-white rounded-lg p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-gray-100">
                   <h3 className="text-xl font-semibold text-gray-800 capitalize mb-2">{word}</h3>
-                  
-
+                  <div className="mt-3 flex justify-end">
+                    <span className="text-blue-600 text-sm">查看详情 →</span>
+                  </div>
                 </div>
               </Link>
             ))}
@@ -139,6 +143,7 @@ export async function getStaticProps() {
   const wordsByLetter = getWordsByFirstLetter();
   const featuredWords = getFeaturedWords();
   const categories = getAllCategories();
+  const wordCounts = getCategoryWordCounts();
 
   return {
     props: {
@@ -146,6 +151,7 @@ export async function getStaticProps() {
       wordsByLetter,
       featuredWords,
       categories,
+      wordCounts,
     },
   };
 }
