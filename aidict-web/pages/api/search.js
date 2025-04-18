@@ -10,7 +10,8 @@ export default function handler(req, res) {
   
   try {
     // Get all words from the markdown directory
-    const wordsDirectory = path.join(process.cwd(), '..', 'markdown');
+    // const wordsDirectory = path.join(process.cwd(), '..', 'markdown');
+    const wordsDirectory = path.join(process.cwd(), '..', 'aidict-web', 'markdown');
     const fileNames = fs.readdirSync(wordsDirectory);
     
     const words = fileNames.map(fileName => fileName.replace(/\.md$/, ''));
