@@ -137,24 +137,25 @@ def getAIExplain(API_KEY):
         if k > 10:
             break
         word = i.replace("\n", "")
+        markdown_word_path = "./aidict-web/markdown" + "/" + word + ".md"
         try:
-            if os.path.exists("./markdown/" + word + ".md",):
-                # print("第" + str(k) + "个单词:" + word + " exists")
+            if os.path.exists(markdown_word_path,):
+                print("第" + str(k) + "个单词:" + word + " exists")
                 continue
             k = k + 1
             print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
             print("第" + str(k) + "个单词:" + word + " start...")
             result = AIChat(word, model, api_key)
             content = result['choices'][0]['message']['content']
-            write_file("./markdown/" + word + ".md", content, model)
+            write_file(markdown_word_path, content, model)
             # write_file("./txt/" + word + ".txt", content, model)
 
             print("第" + str(k) + "个单词:" + word + " end...")
             print("\n")
         except Exception as e:
             print("第" + str(k) + "个单词:" + word + " error:" + str(e))
-            if os.path.exists("./markdown/" + word + ".md",):
-                os.remove("./markdown/" + word + ".md")
+            if os.path.exists(markdown_word_path,):
+                os.remove(markdown_word_path)
             # if os.path.exists("./txt/" + word + ".txt",):
             #     os.remove("./txt/" + word + ".txt")
             time.sleep(5)
