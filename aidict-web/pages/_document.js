@@ -4,16 +4,17 @@ export default function Document() {
   return (
     <Html lang="zh-CN">
       <Head>
-        {/* Tailwind CSS现已在_app.js中通过本地文件引入 */}
+        {/* 使用本地字体文件替代Google Fonts */}
+        <link rel="stylesheet" href="/styles/fontsgoogleapis" />
         
-        {/* 加载Google字体 */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        {/* 移除Google字体链接 */}
+        {/* <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" /> */}
         
-        {/* 添加资源提示，保持这部分优化 */}
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
-        <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+        {/* 移除不需要的DNS预获取 */}
+        {/* <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://fonts.gstatic.com" /> */}
       </Head>
       <body className="bg-gray-50">
         <Main />
