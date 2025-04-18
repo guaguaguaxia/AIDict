@@ -4,6 +4,7 @@ import Pronunciation from '../../components/Pronunciation';
 import WordExamples from '../../components/WordExamples';
 import RelatedWords from '../../components/RelatedWords';
 import BreadcrumbNav from '../../components/BreadcrumbNav';
+import FloatingBackButton from '../../components/FloatingBackButton';
 import { getAllWordIds, getWordData } from '../../lib/words';
 
 export default function Word({ wordData }) {
@@ -50,6 +51,9 @@ export default function Word({ wordData }) {
             返回
           </button>
         </div>
+
+        {/* 添加悬浮返回按钮 */}
+        <FloatingBackButton />
       </div>
     </Layout>
   );
