@@ -5,26 +5,45 @@ export default function Pronunciation({ word }) {
   const [isPlayingUK, setIsPlayingUK] = useState(false);
   const audioRefUS = useRef(null);
   const audioRefUK = useRef(null);
+  const [audioLoaded, setAudioLoaded] = useState({ us: false, uk: false });
   
-  // 有道词典API URL构建
+  // 有道词典API URL构建 - 只在需要时构建URL
   const getYoudaoAudioUrl = (type, word) => {
     return `https://dict.youdao.com/dictvoice?type=${type}&audio=${encodeURIComponent(word)}`;
   };
 
-  // 美式发音
+  // 美式发音 - 按需加载
   const handlePlayUSPronunciation = () => {
-    if (audioRefUS.current) {
-      setIsPlayingUS(true);
-      audioRefUS.current.play();
+    // 第一次点击时创建音频元素
+    if (!audioLoaded.us) {
+      if (!audioRefUS.current) {
+        audioRefUS.current = new Audio();
+        audioRefUS.current.onended = () => handleAudioEnded('us');
+        audioRefUS.current.onerror = () => setIsPlayingUS(false);
+      }
+      audioRefUS.current.src = getYoudaoAudioUrl(0, word);
+      setAudioLoaded({...audioLoaded, us: true});
     }
+    
+    setIsPlayingUS(true);
+    audioRefUS.current.play();
   };
   
-  // 英式发音
+  // 英式发音 - 按需加载
   const handlePlayUKPronunciation = () => {
-    if (audioRefUK.current) {
-      setIsPlayingUK(true);
-      audioRefUK.current.play();
+    // 第一次点击时创建音频元素
+    if (!audioLoaded.uk) {
+      if (!audioRefUK.current) {
+        audioRefUK.current = new Audio();
+        audioRefUK.current.onended = () => handleAudioEnded('uk');
+        audioRefUK.current.onerror = () => setIsPlayingUK(false);
+      }
+      audioRefUK.current.src = getYoudaoAudioUrl(1, word);
+      setAudioLoaded({...audioLoaded, uk: true});
     }
+    
+    setIsPlayingUK(true);
+    audioRefUK.current.play();
   };
   
   // 音频播放结束事件处理
@@ -38,19 +57,7 @@ export default function Pronunciation({ word }) {
   
   return (
     <div className="flex items-center space-x-2">
-      {/* 隐藏的音频元素 */}
-      <audio
-        ref={audioRefUS}
-        src={getYoudaoAudioUrl(0, word)}
-        onEnded={() => handleAudioEnded('us')}
-        onError={() => setIsPlayingUS(false)}
-      />
-      <audio
-        ref={audioRefUK}
-        src={getYoudaoAudioUrl(1, word)}
-        onEnded={() => handleAudioEnded('uk')}
-        onError={() => setIsPlayingUK(false)}
-      />
+      {/* 不再预先加载音频元素 */}
       
       {/* 美式发音按钮 */}
       <button 
