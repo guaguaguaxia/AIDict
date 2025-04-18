@@ -5,14 +5,8 @@ import Layout from '../components/Layout';
 import { getAllFirstLetters, getWordsByFirstLetter, getFeaturedWords, getAllCategories, getCategoryWordCounts } from '../lib/words';
 
 export default function Home({ firstLetters, wordsByLetter, featuredWords, categories, wordCounts }) {
-  const [activeLetter, setActiveLetter] = useState(firstLetters[0] || 'a');
-  // 添加控制字母导航条显示/隐藏的状态
-  const [showAlphabetNav, setShowAlphabetNav] = useState(false);
-  
-  // 切换字母导航条显示/隐藏
-  const toggleAlphabetNav = () => {
-    setShowAlphabetNav(!showAlphabetNav);
-  };
+  // 添加状态控制当前浏览方式：'category'表示词汇分类，'alphabet'表示字母浏览
+  const [browseMode, setBrowseMode] = useState('category');
   
   return (
     <Layout>
@@ -46,23 +40,34 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
           </div>
         </section>
 
-        {/* 浏览方式选择 */}
-        <section className="mb-10">
-          <div className="flex flex-wrap justify-center gap-4 mb-6">
-            <Link href="/categories" className="flex items-center px-5 py-3 bg-blue-600 text-white rounded-lg shadow-md hover:bg-blue-700 transition-colors duration-200">
+        {/* 浏览方式选择Tabs */}
+        <section className="mb-8 border border-gray-200 rounded-lg shadow-sm overflow-hidden">
+          <div className="flex">
+            {/* 按词汇分类浏览Tab */}
+            <button 
+              onClick={() => setBrowseMode('category')} 
+              className={`flex-1 py-4 px-6 flex items-center justify-center transition-all duration-300 ${
+                browseMode === 'category' 
+                  ? 'bg-blue-600 text-white' 
+                  : 'bg-white text-gray-700 hover:bg-gray-50'
+              }`}
+            >
               <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
               </svg>
               <div>
                 <span className="font-medium">按词汇分类浏览</span>
-                <p className="text-xs mt-1 text-blue-100">四六级、高中、托福等分类</p>
+                <p className="text-xs mt-1 opacity-80">四六级、高中、托福等分类</p>
               </div>
-            </Link>
+            </button>
             
+            {/* 按字母浏览Tab */}
             <button 
-              onClick={toggleAlphabetNav} 
-              className={`flex items-center px-5 py-3 rounded-lg shadow-md transition-colors duration-200 ${
-                showAlphabetNav ? 'bg-indigo-700 text-white' : 'bg-indigo-600 text-white hover:bg-indigo-700'
+              onClick={() => setBrowseMode('alphabet')} 
+              className={`flex-1 py-4 px-6 flex items-center justify-center transition-all duration-300 ${
+                browseMode === 'alphabet' 
+                  ? 'bg-indigo-600 text-white' 
+                  : 'bg-white text-gray-700 hover:bg-gray-50'
               }`}
             >
               <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -70,21 +75,21 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
               </svg>
               <div>
                 <span className="font-medium">按字母首字母浏览</span>
-                <p className="text-xs mt-1 text-blue-100">A-Z字母索引</p>
+                <p className="text-xs mt-1 opacity-80">A-Z字母索引</p>
               </div>
             </button>
           </div>
-          
-          {/* 字母导航条，根据showAlphabetNav状态控制显示/隐藏 */}
-          {showAlphabetNav && (
-            <div className="bg-white shadow-md rounded-lg p-4 overflow-x-auto mb-6">
+
+          {/* 按字母浏览内容区域 */}
+          {browseMode === 'alphabet' && (
+            <div className="bg-white p-4 overflow-x-auto">
               <div className="flex justify-center flex-wrap">
                 {firstLetters.map((letter) => (
                   <Link
                     key={letter}
-                    href={`/letter/${letter}`}
-                    className={`px-3 py-2 m-1 rounded-md font-medium text-lg transition-colors duration-200 
-                      bg-gray-100 text-gray-700 hover:bg-gray-200`}
+                    href={`/letter/${letter}?page=1`}
+                    className="px-3 py-2 m-1 rounded-md font-medium text-lg transition-colors duration-200 
+                      bg-gray-100 text-gray-700 hover:bg-gray-200"
                   >
                     {letter.toUpperCase()}
                   </Link>
@@ -94,26 +99,25 @@ export default function Home({ firstLetters, wordsByLetter, featuredWords, categ
           )}
         </section>
 
-        {/* 词汇分类预览 */}
-        <section className="mb-10">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-2xl font-bold text-gray-800">词汇分类</h2>
-            <Link href="/categories" className="text-blue-600 hover:text-blue-800 text-sm font-medium">
-              查看全部 →
-            </Link>
-          </div>
-          
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-            {categories.slice(0, 10).map((category) => (
-              <Link key={category.id} href={`/category/${category.id}?page=1`}>
-                <div className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 h-full flex flex-col">
-                  <h3 className="text-lg font-semibold text-gray-800 mb-2">{category.name}</h3>
-                  <p className="text-gray-600 text-base">{wordCounts[category.id] || 0} 个单词</p>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </section>
+        {/* 词汇分类浏览内容区域 - 只有当browseMode为'category'时才显示 */}
+        {browseMode === 'category' && (
+          <section className="mb-10">
+            <div className="flex items-center mb-4">
+              <h2 className="text-2xl font-bold text-gray-800">词汇分类</h2>
+            </div>
+            
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+              {categories.slice(0, 10).map((category) => (
+                <Link key={category.id} href={`/category/${category.id}?page=1`}>
+                  <div className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 h-full flex flex-col">
+                    <h3 className="text-lg font-semibold text-gray-800 mb-2">{category.name}</h3>
+                    <p className="text-gray-600 text-base">{wordCounts[category.id] || 0} 个单词</p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* 精选词汇 */}
         <section>
