@@ -162,6 +162,7 @@ export default function LetterPage({ letter, words, currentPage, totalPages, all
             <Link 
               key={word} 
               href={`/word/${word}`}
+              prefetch={false}
               className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow duration-200 border border-gray-100 text-center"
             >
               <span className="text-lg font-medium text-gray-800">{word}</span>
