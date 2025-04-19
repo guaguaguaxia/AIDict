@@ -125,8 +125,11 @@ def write_file(fila_name, content, model):
         print(f"文件 {fila_name} 写入成功")
     except Exception as e:
         print(f"文件 {fila_name} 写入失败：{e}")
-def getAIExplain(API_KEY):
-    f = open("all_word.txt", "r")
+def getAIExplain(API_KEY, file_txt_name):
+    if file_txt_name is None:
+        file_txt_name = "all_word.txt"
+
+    f = open(file_txt_name, "r")
     k = 1
     api_key = API_KEY
     if api_key is None:
@@ -211,6 +214,31 @@ def merge_word_files():
 
     print(f"合并完成，共有 {len(all_words)} 个不重复单词写入到 all_word.txt")
 
+def split_words_by_alphabet(input_file, output_folder):
+    # 确保输出文件夹存在
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    # 初始化字母对应的文件内容字典
+    alphabet_files = {chr(i): [] for i in range(ord('A'), ord('Z') + 1)}
+
+    # 读取输入文件并分类单词
+    with open(input_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            word = line.strip()
+            if word:  # 确保不处理空行
+                first_letter = word[0].upper()
+                if first_letter in alphabet_files:
+                    alphabet_files[first_letter].append(word)
+
+    # 将分类后的单词写入对应的文件
+    for letter, words in alphabet_files.items():
+        output_file = os.path.join(output_folder, f"{letter}.txt")
+        with open(output_file, 'w', encoding='utf-8') as file:
+            file.write("\n".join(words))
+
+    print(f"单词已按首字母分成 26 份，保存在文件夹: {output_folder}")
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -220,10 +248,19 @@ if __name__ == '__main__':
         type=str,
         help="API_KEY",
     )
+
+    parser.add_argument(
+        "--FILETXTNAME",
+        dest="FILETXTNAME",
+        type=str,
+        help="FILETXTNAME",
+    )
+
     options = parser.parse_args()
     API_KEY = options.API_KEY
+    FILETXTNAME = options.FILETXTNAME
 
-    getAIExplain(API_KEY)
+    getAIExplain(API_KEY, FILETXTNAME)
 
 
 

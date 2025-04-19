@@ -1,4 +1,4 @@
-name: Run Python Script to Fetch API Data
+name: Run Python Script to Fetch All API Data
 
 on:
   workflow_dispatch:  # 允许手动触发工作流
@@ -30,7 +30,7 @@ jobs:
       # Step 4: 运行 Python 脚本
       - name: Run the script to fetch API data
         run: |
-          python main.py --API_KEY ${{ secrets.API_KEY }} 
+          python main.py --API_KEY ${{ secrets.API_KEY }} --FILETXTNAME /output_words/D.txt
 
       # Step 5: 提交结果到仓库（如果脚本生成新的文件）
       - name: Commit and push changes
