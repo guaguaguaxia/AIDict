@@ -1,4 +1,4 @@
-name: Run Python Script to Fetch All API Data
+name: Run Python Script to Fetch E API Data
 
 on:
   workflow_dispatch:  # 允许手动触发工作流
