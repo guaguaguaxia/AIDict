@@ -18,7 +18,9 @@ const categoryDisplayNames = {
   'MIDDLE_SCHOOL': '初中英语词汇',
   'POSTGRADUATE': '研究生英语词汇',
   'SAT': 'SAT考试词汇',
-  'TOFEL': '托福考试词汇'
+  'TOFEL': '托福考试词汇',
+  'CET4_core': '大学英语四级核心词汇'
+
 };
 
 // 安全地获取fs模块，仅在服务器端执行
