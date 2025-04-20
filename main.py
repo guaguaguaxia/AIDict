@@ -53,7 +53,8 @@ Step8: 个性化建议
 我给出的词汇是：%s""" % word
 
     # url = "https://api.openai.com/v1/chat/completions"
-    url = "https://openkey.cloud/v1/chat/completions"
+    # url = "https://openkey.cloud/v1/chat/completions"
+    url = "https://api.bltcy.ai/v1/chat/completions"
 
     headers = {
         'Content-Type': 'application/json',
@@ -163,81 +164,6 @@ def getAIExplain(API_KEY, file_txt_name):
             #     os.remove("./txt/" + word + ".txt")
             time.sleep(5)
             continue
-
-
-def extract_english_words(input_file, output_file):
-    with open(input_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-
-    # Extract English words (first word before any tab, space, or part-of-speech marker)
-    words = []
-    for line in lines:
-        # Split on whitespace and take the first element
-        word = line.strip().split()[0]
-        # Ensure it's a valid word (contains only letters, no special characters)
-        if word.isalpha():
-            words.append(word)
-
-    # Write words to output file, one per line
-    with open(output_file, 'w', encoding='utf-8') as f:
-        for word in words:
-            f.write(word + '\n')
-
-
-def merge_word_files():
-    # 获取当前目录下所有txt文件
-    word_files = glob.glob("./aidict-web/wordtxt/*.txt")
-    print("当前目录下所有txt文件:", word_files)
-
-    # 排除all_word.txt
-    if "all_word.txt" in word_files:
-        word_files.remove("all_word.txt")
-
-    # 存储所有单词的集合(用于去重)
-    all_words = set()
-
-    # 从每个文件读取单词
-    for file_name in word_files:
-        try:
-            with open(file_name, 'r', encoding='utf-8') as file:
-                for line in file:
-                    word = line.strip()
-                    if word:  # 确保不添加空行
-                        all_words.add(word)
-        except Exception as e:
-            print(f"读取文件 {file_name} 时出错: {e}")
-
-    # 将去重后的单词按字母顺序排序并写入新文件
-    with open("all_word.txt", 'w', encoding='utf-8') as output_file:
-        for word in sorted(all_words):
-            output_file.write(word + "\n")
-
-    print(f"合并完成，共有 {len(all_words)} 个不重复单词写入到 all_word.txt")
-
-def split_words_by_alphabet(input_file, output_folder):
-    # 确保输出文件夹存在
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-
-    # 初始化字母对应的文件内容字典
-    alphabet_files = {chr(i): [] for i in range(ord('A'), ord('Z') + 1)}
-
-    # 读取输入文件并分类单词
-    with open(input_file, 'r', encoding='utf-8') as file:
-        for line in file:
-            word = line.strip()
-            if word:  # 确保不处理空行
-                first_letter = word[0].upper()
-                if first_letter in alphabet_files:
-                    alphabet_files[first_letter].append(word)
-
-    # 将分类后的单词写入对应的文件
-    for letter, words in alphabet_files.items():
-        output_file = os.path.join(output_folder, f"{letter}.txt")
-        with open(output_file, 'w', encoding='utf-8') as file:
-            file.write("\n".join(words))
-
-    print(f"单词已按首字母分成 26 份，保存在文件夹: {output_folder}")
 
 
 if __name__ == '__main__':
