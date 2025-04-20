@@ -54,7 +54,9 @@ Step8: 个性化建议
 
     # url = "https://api.openai.com/v1/chat/completions"
     # url = "https://openkey.cloud/v1/chat/completions"
-    url = "https://api.bltcy.ai/v1/chat/completions"
+    # url = "https://api.bltcy.ai/v1/chat/completions"
+    url = "https://apis.bltcy.ai/v1/chat/completions"
+
 
     headers = {
         'Content-Type': 'application/json',
