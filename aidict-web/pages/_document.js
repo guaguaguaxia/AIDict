@@ -1,4 +1,4 @@
-import { Html, Head, Main, NextScript } from 'next/document'
+import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
   return (
@@ -15,11 +15,24 @@ export default function Document() {
         {/* 移除不需要的DNS预获取 */}
         {/* <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://fonts.gstatic.com" /> */}
+        
+        {/* Google tag (gtag.js) */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JNM2YM78NT"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-JNM2YM78NT');
+            `
+          }}
+        />
       </Head>
       <body className="bg-gray-50">
         <Main />
         <NextScript />
       </body>
     </Html>
-  )
+  );
 }
