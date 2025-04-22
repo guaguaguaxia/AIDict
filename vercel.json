@@ -5,7 +5,6 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "buildCommand": "npm install && npm run build",
-  "rootDirectory": "aidict-web",
   "github": {
     "silent": true
   }
