@@ -494,7 +494,6 @@ actuate
 acumen
 acute
 acutely
-ad
 adamant
 adapt
 adaptability
@@ -798,7 +797,6 @@ altruist
 altruistic
 alumina
 aluminium
-aluminum
 alumnus
 alveolar
 always
@@ -1069,7 +1067,6 @@ approve
 approximate
 approximately
 approximation
-april
 apron
 apt
 aptitude
@@ -1104,7 +1101,6 @@ archipelago
 architect
 architecture
 archive
-arctic
 ardent
 ardor
 arduous
@@ -1317,7 +1313,6 @@ auditory
 auger
 augment
 augur
-august
 aunt
 aural
 auricle
@@ -1345,7 +1340,6 @@ autocratic
 autograph
 automate
 automatic
-automatically
 automation
 automaton
 automobile
@@ -1404,7 +1398,6 @@ axle
 aye
 babble
 baboon
-baby
 bacchanalia
 bachelor
 back
@@ -1679,7 +1672,6 @@ beyond
 biannual
 bias
 biased
-bible
 bibliography
 bibliomania
 bibliophile
@@ -2138,7 +2130,6 @@ calculate
 calculation
 calculator
 calculus
-caledonian
 calendar
 caliber
 calibration
@@ -2304,7 +2295,6 @@ catharsis
 cathartic
 cathedral
 cathode
-catholic
 catholicity
 cattle
 caucasian
@@ -2490,7 +2480,6 @@ chimney
 chimp
 chimpanzee
 chin
-china
 chip
 chipmunk
 chips
@@ -2527,10 +2516,7 @@ choreograph
 choreographer
 choreography
 chorus
-christ
 christen
-christian
-christmas
 chromatic
 chromosome
 chromosphere
@@ -3559,7 +3545,6 @@ decease
 deceit
 deceitful
 deceive
-december
 decency
 decent
 deception
@@ -4321,11 +4306,9 @@ dy
 dye
 dyestuff
 dying
-dynamic
 dynamical
 dynamics
 dynamo
-dynasty
 dysfunction
 each
 eager
@@ -4348,7 +4331,6 @@ earthworm
 ease
 easily
 east
-easter
 eastern
 eastward
 eastwards
@@ -4427,7 +4409,6 @@ ego
 egocentric
 egoism
 egregious
-egyptian
 eight
 eighteen
 eighteenth
@@ -5055,7 +5036,6 @@ factual
 faculty
 fad
 fade
-fahrenheit
 fail
 failure
 faint
@@ -5078,7 +5058,6 @@ fallacy
 fallible
 fallout
 fallow
-false
 falsehood
 falsely
 falsify
@@ -5169,7 +5148,6 @@ feather
 feathery
 feature
 featureless
-february
 fecund
 federal
 federalist
@@ -5577,7 +5555,6 @@ fret
 fretful
 freudian
 friction
-friday
 fridge
 fried
 friend
@@ -5874,7 +5851,6 @@ go
 goal
 goat
 gobi
-god
 goddess
 gold
 golden
@@ -6069,7 +6045,6 @@ gymnasium
 gymnastic
 gymnastics
 gypsum
-gypsy
 gyrate
 gyration
 ha
@@ -6207,7 +6182,6 @@ headteacher
 heal
 healer
 healing
-health
 healthful
 healthy
 heap
@@ -6224,7 +6198,6 @@ heat
 heater
 heating
 heave
-heaven
 heavily
 heavy
 hectare
@@ -6825,7 +6798,6 @@ independently
 indeterminate
 index
 indicant
-indicate
 indication
 indicative
 indicator
@@ -7140,7 +7112,6 @@ internal
 internally
 international
 internationally
-internet
 internship
 interpersonal
 interplanetary
@@ -7255,7 +7226,6 @@ iridescent
 iridium
 irk
 irksome
-iron
 ironic
 ironically
 ironwork
@@ -7284,7 +7254,6 @@ irritate
 is
 island
 islander
-isle
 isochronous
 isolate
 isolation
@@ -7305,7 +7274,6 @@ jade
 jaded
 jail
 jam
-january
 jar
 jargon
 jaw
@@ -7366,17 +7334,14 @@ jug
 juggle
 juice
 juicy
-july
 jumble
 jump
 junction
 juncture
-june
 jungle
 junior
 juniper
 junk
-jupiter
 jurassic
 juridical
 jurisprudence
@@ -7849,7 +7814,6 @@ lore
 lorry
 lose
 loss
-lost
 lot
 lottery
 lotus
@@ -8022,7 +7986,6 @@ mar
 maraca
 marathon
 marble
-march
 margin
 marginal
 marginalize
@@ -8053,7 +8016,6 @@ marvel
 marvellous
 marvelous
 marvelously
-marxist
 masculine
 maser
 mask
@@ -8097,7 +8059,6 @@ maw
 mawkish
 maximize
 maximum
-may
 maybe
 mayor
 maze
@@ -8284,7 +8245,6 @@ mildly
 mile
 milestone
 milieu
-militant
 militarily
 militaristic
 military
@@ -8363,7 +8323,6 @@ mismanagement
 mismatch
 misnomer
 misrepresent
-miss
 missile
 missing
 mission
@@ -8428,7 +8387,6 @@ mollify
 mollusk
 molt
 molten
-mom
 moment
 momentarily
 momentary
@@ -8438,7 +8396,6 @@ mommy
 monarch
 monarchy
 monastery
-monday
 monetary
 money
 monition
@@ -8503,7 +8460,6 @@ mortify
 mortise
 mosaic
 mosque
-mosquito
 moss
 most
 mostly
@@ -8701,7 +8657,6 @@ negligible
 negligibly
 negotiate
 negotiation
-negro
 neighbor
 neighborhood
 neighbour
@@ -8710,7 +8665,6 @@ neighbouring
 neither
 nemesis
 neoclassical
-neolithic
 neologism
 neology
 neon
@@ -8866,7 +8820,6 @@ nouveau
 novel
 novelist
 novelty
-november
 novice
 now
 nowadays
@@ -8981,7 +8934,6 @@ oceanographic
 oceanography
 ocher
 octagon
-october
 octopus
 ocular
 odd
@@ -9303,12 +9255,10 @@ oxide
 oxidizable
 oxidize
 oxidizer
-oxygen
 oyster
 oystercatcher
 ozone
 pace
-pacific
 pacifier
 pacify
 pack
@@ -9336,7 +9286,6 @@ palate
 palatial
 pale
 paleoecologist
-paleolithic
 paleontologist
 palette
 palimpsest
@@ -9700,7 +9649,6 @@ phonic
 phonograph
 phosphate
 phosphorescence
-phosphorus
 photo
 photodissociation
 photoelectric
@@ -10435,7 +10383,6 @@ publish
 publisher
 pudding
 puddle
-pueblo
 puerile
 puff
 puffin
@@ -11323,7 +11270,6 @@ roe
 role
 roll
 roller
-roman
 romance
 romancer
 romanize
@@ -11402,7 +11348,6 @@ rut
 ruthless
 ruthlessly
 rye
-sac
 saccharine
 sack
 sacred
@@ -11500,8 +11445,6 @@ satisfactory
 satisfy
 saturate
 saturation
-saturday
-saturn
 sauce
 saucer
 saucy
@@ -11585,7 +11528,6 @@ scramble
 scrap
 scrape
 scraping
-scratch
 scream
 screen
 screening
@@ -11745,7 +11687,6 @@ separable
 separate
 separately
 separation
-september
 sequacious
 sequence
 sequent
@@ -12776,7 +12717,6 @@ sun
 sunbaked
 sunburnt
 sunburst
-sunday
 sundial
 sunflower
 sunglasses
@@ -13144,7 +13084,6 @@ texture
 than
 thank
 thankful
-thanksgiving
 that
 thaw
 the
@@ -13243,7 +13182,6 @@ thumb
 thunder
 thunderous
 thunderstorm
-thursday
 thus
 thwart
 tick
@@ -13532,7 +13470,6 @@ trout
 trove
 truck
 truculent
-true
 truism
 truly
 trumpet
@@ -13546,7 +13483,6 @@ tub
 tube
 tuberculosis
 tuck
-tuesday
 tug
 tuition
 tulip
@@ -13578,7 +13514,6 @@ tusk
 tutelage
 tutor
 tutorship
-tv
 twain
 twelfth
 twelve
@@ -13959,7 +13894,6 @@ utility
 utilization
 utilize
 utmost
-utopian
 utter
 utterance
 utterly
@@ -14057,7 +13991,6 @@ ventilation
 venture
 venturesome
 venue
-venus
 veracious
 veracity
 verb
@@ -14378,7 +14311,6 @@ what
 whatever
 whatsoever
 wheat
-wheel
 when
 whence
 whenever

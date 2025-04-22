@@ -75,40 +75,7 @@ Step8: 个性化建议
     return response.json()
 
 
-def copy_txt_to_markdown(txt_folder, markdown_folder):
-    # 确保目标文件夹存在，如果不存在就创建
-    if not os.path.exists(markdown_folder):
-        os.makedirs(markdown_folder)
 
-    # 遍历txt文件夹中的所有文件
-    for filename in os.listdir(txt_folder):
-        # 检查文件是否是txt文件
-        if filename.endswith('.txt'):
-            # 构建完整的源文件路径和目标文件路径
-            src_file = os.path.join(txt_folder, filename)
-            dest_file = os.path.join(markdown_folder, filename.replace('.txt', '.md'))
-
-            # 复制文件并重命名
-            shutil.copy(src_file, dest_file)
-            print(f"已将文件 {filename} 复制到 {dest_file}")
-
-
-def copy_md_to_txt(markdown_folder, txt_folder):
-    # 确保目标文件夹存在，如果不存在就创建
-    if not os.path.exists(txt_folder):
-        os.makedirs(txt_folder)
-
-    # 遍历markdown文件夹中的所有文件
-    for filename in os.listdir(markdown_folder):
-        # 检查文件是否是md文件
-        if filename.endswith('.md'):
-            # 构建完整的源文件路径和目标文件路径
-            src_file = os.path.join(markdown_folder, filename)
-            dest_file = os.path.join(txt_folder, filename.replace('.md', '.txt'))
-
-            # 复制文件并重命名
-            shutil.copy(src_file, dest_file)
-            print(f"已将文件 {filename} 复制到 {dest_file}")
 
 def get_api_key():
     try:
@@ -200,9 +167,12 @@ def getAIExplain(API_KEY, file_txt_name):
             result = AIChat(word, model, api_key)
             content = result['choices'][0]['message']['content']
 
+            data = [
+                {"word": word, "content": content}
+            ]
             # 将结果写入对应的 YML 文件
             with open(yml_file_path, 'a') as yml_file:
-                yaml.dump({word: word, "content": content}, yml_file, allow_unicode=True)
+                yaml.dump(data, yml_file, allow_unicode=True, default_flow_style=False)
 
             print(f"第{k}个单词: {word} end...\n")
             k += 1
@@ -211,6 +181,18 @@ def getAIExplain(API_KEY, file_txt_name):
             time.sleep(5)
             continue
 
+# 写一个all_word.txt去重的函数
+def remove_duplicates(input_file, output_file):
+    # 大小写不敏感去重
+    seen = set()
+    with open(input_file, 'r') as infile:
+        for line in infile:
+            # 将行转换为小写并去除空格
+            normalized_line = line.strip().lower()
+            if normalized_line not in seen:
+                seen.add(normalized_line)
+                with open(output_file, 'a') as outfile:
+                    outfile.write(line)
 
 
 if __name__ == '__main__':
@@ -235,6 +217,7 @@ if __name__ == '__main__':
 
     getAIExplain(API_KEY, FILETXTNAME)
     # get_exists_txt_file()
+    # remove_duplicates("./aidict-web/all_word.txt", "./aidict-web/all_word.txt")
 
 
 
