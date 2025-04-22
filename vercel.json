@@ -2,12 +2,10 @@
   "git": {
     "deploymentEnabled": false
   },
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": "aidict-web/.next",
+  "outputDirectory": ".next",
   "framework": "nextjs",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/aidict-web/$1" }
-  ],
+  "buildCommand": "npm install && npm run build",
+  "rootDirectory": "aidict-web",
   "github": {
     "silent": true
   }
