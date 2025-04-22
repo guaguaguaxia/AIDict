@@ -7,6 +7,7 @@ import shutil
 import time
 
 import requests
+import yaml
 
 
 def AIChat(word, model, api_key):
@@ -128,6 +129,39 @@ def write_file(fila_name, content, model):
         print(f"文件 {fila_name} 写入成功")
     except Exception as e:
         print(f"文件 {fila_name} 写入失败：{e}")
+
+def word_exists(word):
+    base_folder = "./aidict-web/markdown_yml"
+    file_name = base_folder + "/exists_txt_file.txt"
+    # 判断单词是否存在
+    if os.path.exists(file_name):
+        with open(file_name, 'r') as f:
+            lines = f.readlines()
+            for line in lines:
+                if line.strip() == word:
+                    return True
+    return False
+
+
+def get_exists_txt_file():
+    base_folder = "./aidict-web/markdown_yml"
+    # 获取当前目录下所有的yml文件
+    yml_files = glob.glob(os.path.join(base_folder, "*.yml"))
+    # 遍历每个yml文件
+    file_name = base_folder + "/exists_txt_file.txt"
+    # 如果文件存在，删除它
+    if os.path.exists(file_name):
+        os.remove(file_name)
+    for yml_file in yml_files:
+        # 生成所有已经存在的单词的txt文件
+        with open(file_name, 'a') as f:
+            with open(yml_file, 'r') as yml:
+                data = yaml.safe_load(yml)
+                for item in data:
+                    if isinstance(item, dict) and item.get("word"):
+                        f.write(item.get("word") + "\n")
+
+
 def getAIExplain(API_KEY, file_txt_name):
     if file_txt_name is None:
         file_txt_name = "all_word.txt"
@@ -139,33 +173,44 @@ def getAIExplain(API_KEY, file_txt_name):
         api_key = get_api_key()
     # model = "gpt-4o"
     model = "grok-3"
+    base_folder = "./aidict-web/markdown_yml"
+    get_exists_txt_file()
     for i in f.readlines():
         if k > 10:
             break
-        word = i.replace("\n", "")
-        markdown_word_path = "./aidict-web/markdown" + "/" + word + ".md"
+        word = i.strip()
+        if not word:
+            continue
+        first_letter = word[0].lower()  # 获取单词首字母并转换为小写
+        yml_file_path = os.path.join(base_folder, f"{first_letter}.yml")
+        exists = word_exists(word)
+        if exists:
+            print(f"单词 {word} 已存在于文件 {yml_file_path} 中，跳过处理。")
+            continue
         try:
-            if os.path.exists(markdown_word_path,):
-                print("第" + str(k) + "个单词:" + word + " exists")
-                continue
-            k = k + 1
             print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()))
-            print("第" + str(k) + "个单词:" + word + " start...")
+            print(f"第{k}个单词: {word} start...")
+
+            # 确保目标文件夹存在
+            yml_folder = os.path.dirname(yml_file_path)
+            if not os.path.exists(yml_folder):
+                os.makedirs(yml_folder)
+
+            # 调用 AIChat 获取单词解析结果
             result = AIChat(word, model, api_key)
             content = result['choices'][0]['message']['content']
-            write_file(markdown_word_path, content, model)
-            # write_file("./txt/" + word + ".txt", content, model)
 
-            print("第" + str(k) + "个单词:" + word + " end...")
-            print("\n")
+            # 将结果写入对应的 YML 文件
+            with open(yml_file_path, 'a') as yml_file:
+                yaml.dump({word: word, "content": content}, yml_file, allow_unicode=True)
+
+            print(f"第{k}个单词: {word} end...\n")
+            k += 1
         except Exception as e:
-            print("第" + str(k) + "个单词:" + word + " error:" + str(e))
-            if os.path.exists(markdown_word_path,):
-                os.remove(markdown_word_path)
-            # if os.path.exists("./txt/" + word + ".txt",):
-            #     os.remove("./txt/" + word + ".txt")
+            print(f"第{k}个单词: {word} error: {e}")
             time.sleep(5)
             continue
+
 
 
 if __name__ == '__main__':
@@ -189,8 +234,7 @@ if __name__ == '__main__':
     FILETXTNAME = options.FILETXTNAME
 
     getAIExplain(API_KEY, FILETXTNAME)
-
-
+    # get_exists_txt_file()
 
 
 
