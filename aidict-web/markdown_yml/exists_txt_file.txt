@@ -4599,6 +4599,16 @@ botanist
 botanize
 botany
 both
+bough
+boulder
+boule
+boulevard
+bounce
+bound
+bouquet
+bourgeois
+bovine
+bowdlerize
 Yale
 Yang
 yield
