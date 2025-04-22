@@ -2,14 +2,11 @@
   "git": {
     "deploymentEnabled": false
   },
-  "builds": [
-    {
-      "src": "aidict-web/package.json",
-      "use": "@vercel/next"
-    }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/aidict-web/$1" }
+  "buildCommand": "cd aidict-web && npm install && npm run build",
+  "outputDirectory": "aidict-web/.next",
+  "framework": "nextjs",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/aidict-web/$1" }
   ],
   "github": {
     "silent": true

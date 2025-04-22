@@ -45,18 +45,49 @@ const getWordsDirectory = () => {
   const fs = getFs();
   if (!fs) return '';
 
-  const internalPath = path.join(process.cwd(), 'markdown');
-  if (fs.existsSync(internalPath)) {
-    return internalPath;
+  // 尝试多个可能的路径
+  const possiblePaths = [
+    path.join(process.cwd(), 'markdown'),
+    path.join(process.cwd(), '..', 'markdown'),
+    path.join(process.cwd(), 'aidict-web', 'markdown'),
+    path.join(process.cwd(), 'public', 'markdown')
+  ];
+  
+  for (const testPath of possiblePaths) {
+    if (fs.existsSync(testPath)) {
+      console.log(`找到markdown目录: ${testPath}`);
+      return testPath;
+    }
   }
   
-  return path.join(process.cwd(), '..', 'markdown');
+  console.warn(`警告: 无法找到markdown目录，尝试了以下路径: ${possiblePaths.join(', ')}`);
+  return '';
 };
 
 // 获取wordtxt目录路径
 const getWordTxtDirectory = () => {
-  if (typeof window !== 'undefined') return '';
-  return path.join(process.cwd(), 'wordtxt');
+  if (typeof window !== 'undefined') return ''; // 客户端返回空字符串
+  
+  const fs = getFs();
+  if (!fs) return '';
+  
+  // 尝试多个可能的路径
+  const possiblePaths = [
+    path.join(process.cwd(), 'wordtxt'),
+    path.join(process.cwd(), '..', 'wordtxt'),
+    path.join(process.cwd(), 'aidict-web', 'wordtxt'),
+    path.join(process.cwd(), 'public', 'wordtxt')
+  ];
+  
+  for (const testPath of possiblePaths) {
+    if (fs.existsSync(testPath)) {
+      console.log(`找到wordtxt目录: ${testPath}`);
+      return testPath;
+    }
+  }
+  
+  console.warn(`警告: 无法找到wordtxt目录，尝试了以下路径: ${possiblePaths.join(', ')}`);
+  return '';
 };
 
 // 获取markdown_yml文件夹路径
@@ -66,12 +97,24 @@ const getWordYamlDirectory = () => {
   const fs = getFs();
   if (!fs) return '';
 
-  const internalPath = path.join(process.cwd(), 'markdown_yml');
-  if (fs.existsSync(internalPath)) {
-    return internalPath;
+  // 尝试多个可能的路径
+  const possiblePaths = [
+    path.join(process.cwd(), 'markdown_yml'),
+    path.join(process.cwd(), '..', 'markdown_yml'),
+    path.join(process.cwd(), 'aidict-web', 'markdown_yml'),
+    path.join(process.cwd(), 'public', 'markdown_yml')
+  ];
+  
+  for (const testPath of possiblePaths) {
+    if (fs.existsSync(testPath)) {
+      console.log(`找到YAML目录: ${testPath}`);
+      return testPath;
+    }
   }
   
-  return path.join(process.cwd(), '..', 'markdown_yml');
+  console.warn(`警告: 无法找到YAML目录，尝试了以下路径: ${possiblePaths.join(', ')}`);
+  // 最后一次尝试，返回一个可能存在的路径
+  return path.join(process.cwd(), 'markdown_yml');
 };
 
 // 从all_word.txt文件中获取所有单词
@@ -81,26 +124,38 @@ const getAllWordsFromFile = () => {
   const fs = getFs();
   if (!fs) return [];
   
-  // 尝试在当前工作目录和上级目录查找文件
-  let wordListPath = path.join(process.cwd(), 'all_word.txt');
-  if (!fs.existsSync(wordListPath)) {
-    wordListPath = path.join(process.cwd(), '..', 'all_word.txt');
+  // 尝试多个可能的路径
+  const possiblePaths = [
+    path.join(process.cwd(), 'all_word.txt'),
+    path.join(process.cwd(), '..', 'all_word.txt'),
+    path.join(process.cwd(), 'aidict-web', 'all_word.txt'),
+    path.join(process.cwd(), 'public', 'all_word.txt')
+  ];
+  
+  let wordListPath = null;
+  
+  for (const testPath of possiblePaths) {
+    if (fs.existsSync(testPath)) {
+      wordListPath = testPath;
+      console.log(`找到单词列表文件: ${testPath}`);
+      break;
+    }
   }
   
-  // 如果文件不存在，尝试在aidict-web目录下查找
-  if (!fs.existsSync(wordListPath)) {
-    wordListPath = path.join(process.cwd(), 'aidict-web', 'all_word.txt');
-  }
-  
-  if (!fs.existsSync(wordListPath)) {
-    console.warn(`警告: 单词列表文件 ${wordListPath} 不存在`);
+  if (!wordListPath) {
+    console.warn(`警告: 无法找到单词列表文件，尝试了以下路径: ${possiblePaths.join(', ')}`);
     return [];
   }
   
-  const fileContents = fs.readFileSync(wordListPath, 'utf8');
-  return fileContents.split('\n')
-    .map(word => word.trim())
-    .filter(word => word.length > 0);
+  try {
+    const fileContents = fs.readFileSync(wordListPath, 'utf8');
+    return fileContents.split('\n')
+      .map(word => word.trim())
+      .filter(word => word.length > 0);
+  } catch (error) {
+    console.error(`读取单词列表文件出错:`, error);
+    return [];
+  }
 };
 
 // 从YAML文件获取单个字母的所有单词
@@ -199,25 +254,66 @@ export function getAllFirstLetters() {
 
 export async function getWordData(word) {
   const fs = getFs();
-  if (!fs) return {
-    word,
-    contentHtml: `<p>加载中...</p>`,
-    title: word,
-    loading: true
-  };
+  if (!fs) {
+    console.error('无法获取文件系统模块');
+    return {
+      word,
+      contentHtml: `<p>加载中...</p>`,
+      title: word,
+      loading: true
+    };
+  }
+  
+  // 记录当前环境信息
+  console.log(`处理单词: ${word}，当前工作目录: ${process.cwd()}`);
+  console.log(`Vercel 环境: ${!!process.env.VERCEL}`);
   
   // 获取单词首字母
   const firstLetter = word.charAt(0).toLowerCase();
   
   // 获取YAML文件路径
   const yamlDirectory = getWordYamlDirectory();
+  console.log(`YAML目录路径: ${yamlDirectory}`);
   const yamlPath = path.join(yamlDirectory, `${firstLetter}.yml`);
+  console.log(`尝试读取文件: ${yamlPath}`);
   
   // 检查YAML文件是否存在
   if (!fs.existsSync(yamlPath)) {
+    console.error(`文件不存在: ${yamlPath}`);
+    
+    // 如果YAML文件不存在，尝试使用老的markdown文件
+    const wordsDirectory = getWordsDirectory();
+    const markdownPath = path.join(wordsDirectory, `${word}.md`);
+    
+    if (fs.existsSync(markdownPath)) {
+      console.log(`找到markdown文件，尝试使用: ${markdownPath}`);
+      try {
+        const fileContents = fs.readFileSync(markdownPath, 'utf8');
+        
+        // 使用gray-matter解析markdown文件的元数据部分
+        const matter = (await import('gray-matter')).default;
+        const matterResult = matter(fileContents);
+        
+        // 使用remark将markdown转换为HTML字符串
+        const processedContent = await remark()
+          .use(html)
+          .process(matterResult.content);
+        const contentHtml = processedContent.toString();
+        
+        return {
+          word,
+          contentHtml,
+          title: word,
+          ...matterResult.data
+        };
+      } catch (error) {
+        console.error(`读取markdown文件出错:`, error);
+      }
+    }
+    
     return {
       word,
-      contentHtml: `<p>抱歉，${word} 的内容暂不可用。</p>`,
+      contentHtml: `<p>抱歉，${word} 的内容暂不可用。无法找到数据文件。</p>`,
       title: word,
       notFound: true
     };
@@ -225,14 +321,21 @@ export async function getWordData(word) {
   
   try {
     // 读取并解析YAML文件
+    console.log(`开始读取YAML文件: ${yamlPath}`);
     const fileContents = fs.readFileSync(yamlPath, 'utf8');
+    console.log(`YAML文件读取成功，长度: ${fileContents.length}字节`);
+    
+    // 解析YAML数据
+    console.log('开始解析YAML数据...');
     const data = yaml.load(fileContents);
+    console.log(`YAML解析结果是数组: ${Array.isArray(data)}, 长度: ${Array.isArray(data) ? data.length : 0}`);
     
     // 在YAML数据中查找对应的单词
     if (Array.isArray(data)) {
-      const wordData = data.find(item => item.word.toLowerCase() === word.toLowerCase());
+      const wordData = data.find(item => item.word && item.word.toLowerCase() === word.toLowerCase());
       
       if (wordData) {
+        console.log(`在YAML中找到单词 ${word} 的数据`);
         // 我们已经有了Markdown内容，直接使用
         const contentMarkdown = wordData.content || '';
         
@@ -247,13 +350,17 @@ export async function getWordData(word) {
           contentHtml,
           title: word
         };
+      } else {
+        console.error(`在YAML数据中未找到单词 ${word}`);
       }
+    } else {
+      console.error(`YAML数据不是数组格式`);
     }
     
     // 如果在YAML中没有找到单词数据
     return {
       word,
-      contentHtml: `<p>抱歉，${word} 的内容暂不可用。</p>`,
+      contentHtml: `<p>抱歉，${word} 的内容暂不可用。在数据中未找到该单词。</p>`,
       title: word,
       notFound: true
     };
