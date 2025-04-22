@@ -1294,6 +1294,11 @@ attenuate
 attest
 attic
 attire
+attachment
+attorney
+attract
+attraction
+attractive
 dad
 daddy
 daguerreotype
@@ -4479,6 +4484,11 @@ burden
 bureau
 burn
 busy
+bookshelf
+bookshop
+bookstore
+boom
+boomer
 Yale
 Yang
 yield
