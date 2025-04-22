@@ -2,7 +2,7 @@
   "git": {
     "deploymentEnabled": false
   },
-  "buildCommand": "cd aidict-web && npm install && npm run build",
+  "buildCommand": "npm install && npm run build",
   "outputDirectory": "aidict-web/.next",
   "framework": "nextjs",
   "rewrites": [
