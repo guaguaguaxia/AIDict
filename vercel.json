@@ -1,5 +1,17 @@
 {
   "git": {
     "deploymentEnabled": false
+  },
+  "builds": [
+    {
+      "src": "aidict-web/package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/aidict-web/$1" }
+  ],
+  "github": {
+    "silent": true
   }
 }

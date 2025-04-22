@@ -5,7 +5,7 @@ import WordExamples from '../../components/WordExamples';
 import RelatedWords from '../../components/RelatedWords';
 import BreadcrumbNav from '../../components/BreadcrumbNav';
 import FloatingBackButton from '../../components/FloatingBackButton';
-import { getAllWordIds, getWordData } from '../../lib/words';
+import { getWordData } from '../../lib/words';
 
 export default function Word({ wordData }) {
   return (
@@ -59,7 +59,8 @@ export default function Word({ wordData }) {
   );
 }
 
-export async function getStaticProps({ params }) {
+// 将 getStaticProps 替换为 getServerSideProps
+export async function getServerSideProps({ params }) {
   const wordData = await getWordData(params.word);
   return {
     props: {
@@ -68,10 +69,4 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export async function getStaticPaths() {
-  const paths = getAllWordIds();
-  return {
-    paths,
-    fallback: false,
-  };
-}
+// 移除 getStaticPaths，因为使用 getServerSideProps 时不需要它
