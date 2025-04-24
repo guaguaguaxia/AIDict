@@ -54,7 +54,7 @@ Step8: 个性化建议
 我给出的词汇是：%s""" % word
 
     # url = "https://api.openai.com/v1/chat/completions"
-    url = "https://openkey.cloud/v1/chat/completions"
+    url = "https://openkey.red/v1/chat/completions"
     # url = "https://api.bltcy.ai/v1/chat/completions"
     # url = "https://apis.bltcy.ai/v1/chat/completions"
 
@@ -165,6 +165,7 @@ def getAIExplain(API_KEY, file_txt_name):
 
             # 调用 AIChat 获取单词解析结果
             result = AIChat(word, model, api_key)
+            print(result)
             content = result['choices'][0]['message']['content']
 
             data = [
@@ -215,7 +216,7 @@ if __name__ == '__main__':
     API_KEY = options.API_KEY
     FILETXTNAME = options.FILETXTNAME
 
-    getAIExplain(API_KEY, FILETXTNAME)
+    getAIExplain("sk-xYjSTR4bSd3sUSb6478542AcC7Df4964A2Db867cB81d1d3c", FILETXTNAME)
     # get_exists_txt_file()
     # remove_duplicates("./aidict-web/all_word.txt", "./aidict-web/all_word.txt")
 
