@@ -1,0 +1,53 @@
+```json
+{
+  "word": "considerably",
+  "definitions": [
+    {
+      "meaning": "相当大地；在很大程度上",
+      "usage": "用作副词，修饰形容词、动词或整个句子，表示程度显著或明显，常用于强调某事物的数量、程度或规模的增加或减少。",
+      "collocations": ["improve considerably", "differ considerably", "increase considerably"],
+      "examples": [
+        {
+          "scene": "一位中国学生在准备雅思考试时，经过几个月的刻苦学习，写作水平有了显著提升，老师在课堂上表扬了她。",
+          "chineseIdea": "想表达她的写作能力有了很大的进步，强调进步的程度。",
+          "sentenceWithBlank": "Her writing skills have @ @ after months of hard work.",
+          "fullEnglishSentence": "Her writing skills have 「improved considerably」 after months of hard work.",
+          "chineseTranslation": "她的写作技能在几个月的努力后「显著提升」了。",
+          "chinglishFix": "典型=典型中式英语：Her writing is very much better. 纠正：Her writing has improved considerably."
+        },
+        {
+          "scene": "一位中国工程师在公司会议上讨论两种技术方案，指出它们在性能和成本上的显著差异。",
+          "chineseIdea": "想说明两种方案在某些方面有很大的不同，突出差异的程度。",
+          "sentenceWithBlank": "The two proposals @ @ in terms of performance and cost.",
+          "fullEnglishSentence": "The two proposals 「differ considerably」 in terms of performance and cost.",
+          "chineseTranslation": "这两个提案在性能和成本方面「差异很大」。",
+          "chinglishFix": "典型中式英语：The two plans are very different. 纠正：The two proposals differ considerably."
+        }
+      ]
+    },
+    {
+      "meaning": "相当多地；大量地",
+      "usage": "用作副词，强调数量或范围的显著增加，常用于描述数量、规模或频率的明显变化。",
+      "collocations": ["grow considerably", "reduce considerably", "contribute considerably"],
+      "examples": [
+        {
+          "scene": "一位中国企业家在年度会议上向员工介绍公司过去一年的业务增长，特别提到出口市场的显著扩大。",
+          "chineseIdea": "想强调公司的出口业务在过去一年中大幅增长。",
+          "sentenceWithBlank": "Our export business has @ @ over the past year.",
+          "fullEnglishSentence": "Our export business has 「grown considerably」 over the past year.",
+          "chineseTranslation": "我们的出口业务在过去一年中「大幅增长」。",
+          "chinglishFix": "典型中式英语：Our export is much more. 纠正：Our export business has grown considerably."
+        },
+        {
+          "scene": "一位中国环保志愿者在社区活动中介绍垃圾分类项目，提到该项目显著减少了不可回收垃圾的数量。",
+          "chineseIdea": "想表达垃圾分类项目让不可回收垃圾的数量大幅减少，突出成果。",
+          "sentenceWithBlank": "The recycling program has @ @ the amount of non-recyclable waste.",
+          "fullEnglishSentence": "The recycling program has 「reduced considerably」 the amount of non-recyclable waste.",
+          "chineseTranslation": "这个回收项目「显著减少」了不可回收垃圾的数量。",
+          "chinglishFix": "典型中式英语：The waste is very less now. 纠正：The amount of waste has reduced considerably."
+        }
+      ]
+    }
+  ]
+}
+```

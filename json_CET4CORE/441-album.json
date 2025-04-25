@@ -1,0 +1,53 @@
+```json
+{
+  "word": "album",
+  "definitions": [
+    {
+      "meaning": "A collection of songs or musical recordings released together, usually on a single medium like a CD, vinyl, or digital format.",
+      "usage": "Refers to a compilation of music tracks by an artist or group, often with a thematic or stylistic coherence. Commonly used in contexts like music reviews, artist discographies, or casual conversations about music preferences.",
+      "collocations": ["release an album", "debut album", "concept album", "studio album"],
+      "examples": [
+        {
+          "scene": "在一个音乐爱好者的聚会上，大家正在讨论最近喜欢的音乐作品。一位朋友提到一个乐队的新作品，引起了大家的兴趣。",
+          "chineseIdea": "想要表达一个乐队刚刚推出了一组新的音乐作品，强调这是他们的首次亮相。",
+          "sentenceWithBlank": "The band just @ @ @ that’s getting a lot of attention.",
+          "fullEnglishSentence": "The band just 「released an album」 that’s getting a lot of attention.",
+          "chineseTranslation": "这个乐队刚刚「发布了一张专辑」，吸引了很多关注。",
+          "chinglishFix": "Chinglish: 'The band put out a music collection.' Correction: 'The band released an album.' (Note: 'Music collection' is vague and not idiomatic; 'album' is the specific term for a curated set of songs.)"
+        },
+        {
+          "scene": "在社交媒体上，一个粉丝在评论区为她最喜欢的歌手的新作品打call，特别提到这是歌手的第一部作品。",
+          "chineseIdea": "想表达对歌手首次推出的音乐作品的兴奋，强调这是他们职业生涯的起点。",
+          "sentenceWithBlank": "Her @ @ is absolutely stunning and shows her unique style!",
+          "fullEnglishSentence": "Her 「debut album」 is absolutely stunning and shows her unique style!",
+          "chineseTranslation": "她的「首张专辑」绝对惊艳，展现了她独特的风格！",
+          "chinglishFix": "Chinglish: 'Her first music album is great.' Correction: 'Her debut album is great.' (Note: 'First music album' is redundant and less natural; 'debut album' is the standard term for an artist’s first release.)"
+        }
+      ]
+    },
+    {
+      "meaning": "A book or collection used to store photographs, stamps, or other memorabilia, often organized for display or preservation.",
+      "usage": "Describes a physical or digital collection where items like photos or stamps are kept, often for sentimental or hobbyist purposes. Used in contexts like family memories, scrapbooking, or collecting hobbies.",
+      "collocations": ["photo album", "family album", "stamp album", "scrapbook album"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，奶奶拿出了一本装满老照片的册子，和大家分享过去的回忆。",
+          "chineseIdea": "想表达奶奶展示了一本保存了家庭老照片的册子，充满了怀旧情感。",
+          "sentenceWithBlank": "Grandma showed us her @ @ full of black-and-white pictures from the 1960s.",
+          "fullEnglishSentence": "Grandma showed us her 「photo album」 full of black-and-white pictures from the 1960s.",
+          "chineseTranslation": "奶奶给我们看了她的「相册」，里面全是1960年代的黑白照片。",
+          "chinglishFix": "Chinglish: 'Grandma showed us her picture book.' Correction: 'Grandma showed us her photo album.' (Note: 'Picture book' typically refers to children’s storybooks; 'photo album' is specific to photo collections.)"
+        },
+        {
+          "scene": "在一个集邮俱乐部的活动中，一个成员向大家展示他多年来收集的邮票，骄傲地介绍他的收藏。",
+          "chineseIdea": "想表达这个成员展示了一本专门用来存放邮票的册子，突出他的收藏成就。",
+          "sentenceWithBlank": "He proudly displayed his @ @ with rare stamps from around the world.",
+          "fullEnglishSentence": "He proudly displayed his 「stamp album」 with rare stamps from around the world.",
+          "chineseTranslation": "他自豪地展示了他的「邮票册」，里面有来自世界各地的稀有邮票。",
+          "chinglishFix": "Chinglish: 'He showed his stamp book.' Correction: 'He showed his stamp album.' (Note: 'Stamp book' is less precise; 'stamp album' is the conventional term for a curated stamp collection.)"
+        }
+      ]
+    }
+  ]
+}
+```

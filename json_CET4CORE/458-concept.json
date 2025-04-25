@@ -1,0 +1,53 @@
+```json
+{
+  "word": "concept",
+  "definitions": [
+    {
+      "meaning": "抽象的想法或概念",
+      "usage": "指一个抽象的、概括性的想法或理解，通常用来描述思想、理论或原则的基础。常见于学术、哲学、科学或日常讨论中。",
+      "collocations": ["grasp a concept", "introduce a concept", "core concept"],
+      "examples": [
+        {
+          "scene": "在一所大学的哲学课堂上，教授正在讲解存在主义的思想，学生们需要理解一个新的理论框架。",
+          "chineseIdea": "学生需要通过讨论和阅读，真正理解并内化存在主义的抽象思想。",
+          "sentenceWithBlank": "The professor asked the students to @ @ @ before moving on to the next topic.",
+          "fullEnglishSentence": "The professor asked the students to 「grasp a concept」 before moving on to the next topic.",
+          "chineseTranslation": "教授要求学生们在进入下一个话题前「掌握一个概念」。",
+          "chinglishFix": "典型中式英语：'Understand a concept deeply' → 纠正：'Grasp a concept'（更自然的表达，强调主动掌握）"
+        },
+        {
+          "scene": "在一家科技公司的产品发布会上，演讲者向观众介绍一种新的技术理念。",
+          "chineseIdea": "演讲者试图通过简单的语言和类比，让听众理解一个复杂的技术思想。",
+          "sentenceWithBlank": "The speaker used analogies to @ @ @ to the audience.",
+          "fullEnglishSentence": "The speaker used analogies to 「introduce a concept」 to the audience.",
+          "chineseTranslation": "演讲者使用类比来向观众「介绍一个概念」。",
+          "chinglishFix": "典型中式英语：'Explain a concept' → 纠正：'Introduce a concept'（更适合初次呈现新想法的场景）"
+        }
+      ]
+    },
+    {
+      "meaning": "产品或设计的构思",
+      "usage": "指在产品开发、设计或创意领域中，关于产品功能、外观或用途的初步想法或计划。常见于商业、设计和营销领域。",
+      "collocations": ["develop a concept", "test a concept", "innovative concept"],
+      "examples": [
+        {
+          "scene": "一家汽车公司正在设计一款新型电动车，团队在会议中讨论车辆的设计理念。",
+          "chineseIdea": "团队需要通过头脑风暴，提出并完善一个独特的车辆设计想法。",
+          "sentenceWithBlank": "The design team spent months @ @ @ for the new electric car.",
+          "fullEnglishSentence": "The design team spent months 「developing a concept」 for the new electric car.",
+          "chineseTranslation": "设计团队花了几个月时间「开发一个概念」来设计新型电动车。",
+          "chinglishFix": "典型中式英语：'Make a concept' → 纠正：'Develop a concept'（更贴合设计和创造的语境）"
+        },
+        {
+          "scene": "一家初创公司正在向投资人展示一款新应用程序的原型，强调其独特的功能。",
+          "chineseIdea": "公司需要通过用户测试，验证他们的应用程序想法是否可行。",
+          "sentenceWithBlank": "Before launching, they needed to @ @ @ with real users.",
+          "fullEnglishSentence": "Before launching, they needed to 「test a concept」 with real users.",
+          "chineseTranslation": "在发布之前，他们需要与真实用户「测试一个概念」。",
+          "chinglishFix": "典型中式英语：'Try a concept' → 纠正：'Test a concept'（更精确地表达验证过程）"
+        }
+      ]
+    }
+  ]
+}
+```
