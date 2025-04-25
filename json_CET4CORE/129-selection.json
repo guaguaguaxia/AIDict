@@ -1,0 +1,53 @@
+```json
+{
+  "word": "selection",
+  "definitions": [
+    {
+      "meaning": "挑选、选择（从多个选项中挑选出某一个或某几个的过程）",
+      "usage": "指从多个选项中根据标准或偏好挑选出某一个或某几个，常用于描述对人、物或抽象概念（如候选人、产品、课程等）的选择过程。",
+      "collocations": ["make a selection", "careful selection", "wide selection"],
+      "examples": [
+        {
+          "scene": "在一个大型超市里，小明站在货架前，面对各种品牌的巧克力，犹豫不决。他想买一块适合送给朋友的巧克力。",
+          "chineseIdea": "小明需要从众多巧克力中挑选一块最好的，考虑口味、包装和价格。",
+          "sentenceWithBlank": "After comparing the brands, he was able to @ @ @ of chocolate for his friend.",
+          "fullEnglishSentence": "After comparing the brands, he was able to 「make a selection」 of chocolate for his friend.",
+          "chineseTranslation": "在比较了各个品牌后，他终于「挑选出」了一块给朋友的巧克力。",
+          "chinglishFix": "典型中式英语：He selected a chocolate to his friend. 纠正：He made a selection of chocolate for his friend.（‘select to’不是自然表达，‘make a selection’更符合英语习惯。）"
+        },
+        {
+          "scene": "一家公司正在招聘新员工，HR经理正在筛选简历，准备面试候选人。",
+          "chineseIdea": "HR需要从众多申请者中仔细挑选出最适合岗位的人选。",
+          "sentenceWithBlank": "The HR team emphasized the importance of @ @ of candidates to ensure the best fit.",
+          "fullEnglishSentence": "The HR team emphasized the importance of 「careful selection」 of candidates to ensure the best fit.",
+          "chineseTranslation": "人力资源团队强调了「仔细挑选」候选人以确保最佳匹配的重要性。",
+          "chinglishFix": "典型中式英语：They careful select candidates. 纠正：They emphasized the careful selection of candidates.（‘careful select’语法错误，‘careful selection’是正确搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "可供选择的事物（指一系列可供挑选的选项或集合）",
+      "usage": "指某类事物中可供选择的具体选项集合，常用于描述商品、菜单、课程等提供的范围或种类。",
+      "collocations": ["wide selection", "limited selection", "variety of selection"],
+      "examples": [
+        {
+          "scene": "小红走进一家书店，发现店内有各种类型的书籍，从小说到学术书籍应有尽有。",
+          "chineseIdea": "小红被书店里丰富的书籍种类吸引，觉得可以找到自己喜欢的书。",
+          "sentenceWithBlank": "The bookstore offered a @ @ of books, catering to all kinds of readers.",
+          "fullEnglishSentence": "The bookstore offered a 「wide selection」 of books, catering to all kinds of readers.",
+          "chineseTranslation": "这家书店提供了「广泛的选择」书籍，满足了各种读者的需求。",
+          "chinglishFix": "典型中式英语：The bookstore has many selections of books. 纠正：The bookstore offers a wide selection of books.（‘many selections’不自然，‘wide selection’更地道。）"
+        },
+        {
+          "scene": "在一个小餐馆里，小李看着菜单，发现只有几种简单的菜品可以选择。",
+          "chineseIdea": "小李觉得菜单上的菜品种类有限，可能会影响他的用餐体验。",
+          "sentenceWithBlank": "The restaurant had a @ @ of dishes, which disappointed some customers.",
+          "fullEnglishSentence": "The restaurant had a 「limited selection」 of dishes, which disappointed some customers.",
+          "chineseTranslation": "这家餐厅的菜品「选择有限」，让一些顾客感到失望。",
+          "chinglishFix": "典型中式英语：The restaurant’s menu is very few. 纠正：The restaurant has a limited selection of dishes.（‘menu is very few’不地道，‘limited selection’更准确。）"
+        }
+      ]
+    }
+  ]
+}
+```

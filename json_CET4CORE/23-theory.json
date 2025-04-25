@@ -1,0 +1,53 @@
+```json
+{
+  "word": "theory",
+  "definitions": [
+    {
+      "meaning": "解释或描述某一现象或规律的系统性观点或假设，通常基于观察和推理",
+      "usage": "指学术或科学领域的系统性解释，通常用于描述尚未被完全证实但有一定依据的观点。常用于学术讨论、科学研究或哲学思考。",
+      "collocations": ["develop a theory", "test a theory", "support a theory", "propose a theory"],
+      "examples": [
+        {
+          "scene": "在一所大学的物理系课堂上，教授正在讲解量子力学的最新研究，学生们围绕一个新的假设展开讨论。",
+          "chineseIdea": "学生们希望通过实验和推理来构建一个新的解释框架，以解决当前物理学中的一些未解之谜。",
+          "sentenceWithBlank": "The research team worked tirelessly to @ @ @ about quantum entanglement.",
+          "fullEnglishSentence": "The research team worked tirelessly to 「develop a theory」 about quantum entanglement.",
+          "chineseTranslation": "研究团队不懈努力，以「构建一个关于量子纠缠的理论」。",
+          "chinglishFix": "典型中式英语：'make a theory'。纠正：应使用'develop a theory'，因为'develop'更准确地表达了逐步构建和完善的过程。"
+        },
+        {
+          "scene": "在一次科学研讨会上，研究人员展示了一组实验数据，试图验证一个关于气候变化的假设。",
+          "chineseIdea": "研究人员希望通过实验结果来检验他们的假设是否站得住脚。",
+          "sentenceWithBlank": "The scientists conducted experiments to @ @ @ on global warming.",
+          "fullEnglishSentence": "The scientists conducted experiments to 「test a theory」 on global warming.",
+          "chineseTranslation": "科学家们进行了实验，以「检验关于全球变暖的理论」。",
+          "chinglishFix": "典型中式英语：'check a theory'。纠正：应使用'test a theory'，因为'test'更常用于科学语境中表示验证假设。"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物的一般看法或猜想，未必有科学依据",
+      "usage": "指日常生活中对某事的推测或看法，通常不涉及严格的科学验证。常用于非正式场合，表达个人的想法或假设。",
+      "collocations": ["have a theory", "come up with a theory", "share a theory"],
+      "examples": [
+        {
+          "scene": "在咖啡馆里，两个朋友正在讨论为什么他们的共同好友最近行为怪异。",
+          "chineseIdea": "其中一个朋友猜测好友可能遇到了感情问题，想分享自己的推测。",
+          "sentenceWithBlank": "I @ @ @ that she’s been acting strange because of a breakup.",
+          "fullEnglishSentence": "I 「have a theory」 that she’s been acting strange because of a breakup.",
+          "chineseTranslation": "我「有一个猜想」，她最近行为怪异可能是因为分手了。",
+          "chinglishFix": "典型中式英语：'I think a theory'。纠正：应使用'have a theory'，表示个人推测或看法。"
+        },
+        {
+          "scene": "在家庭聚会上，孩子们讨论为什么他们的宠物猫总是半夜跑来跑去。",
+          "chineseIdea": "一个孩子突发奇想，猜测猫咪可能是在追逐看不见的东西。",
+          "sentenceWithBlank": "My little brother @ @ @ @ that the cat is chasing ghosts at night.",
+          "fullEnglishSentence": "My little brother 「came up with a theory」 that the cat is chasing ghosts at night.",
+          "chineseTranslation": "我弟弟「提出了一个猜想」，猫咪在夜里追逐鬼魂。",
+          "chinglishFix": "典型中式英语：'find a theory'。纠正：应使用'come up with a theory'，表示突发奇想或提出新想法。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "relieve",
+  "definitions": [
+    {
+      "meaning": "减轻或消除（痛苦、压力、焦虑等）",
+      "usage": "用作及物动词，表示通过某种方式减轻身体或心理上的不适或负担，常用于描述缓解疼痛、压力、紧张等。",
+      "collocations": ["relieve pain", "relieve stress", "relieve anxiety", "relieve tension"],
+      "examples": [
+        {
+          "scene": "小明因为工作压力大，头痛了一整天，同事建议他服用止痛药来缓解症状。",
+          "chineseIdea": "通过药物或其他方式让身体上的疼痛感减轻或消失。",
+          "sentenceWithBlank": "The medicine helped to @ @ quickly.",
+          "fullEnglishSentence": "The medicine helped to 「relieve pain」 quickly.",
+          "chineseTranslation": "这种药帮助他很快「缓解疼痛」。",
+          "chinglishFix": "典型中式英语：'The medicine made his pain less.' 纠正：'The medicine relieved his pain.'（用'relieve'更自然，表达主动减轻疼痛，而非被动描述疼痛减少）"
+        },
+        {
+          "scene": "小红因为考试临近感到非常紧张，她通过听音乐来放松心情。",
+          "chineseIdea": "通过某种活动或方式让心理上的紧张或压力得到缓解。",
+          "sentenceWithBlank": "Listening to music can effectively @ @ before a big exam.",
+          "fullEnglishSentence": "Listening to music can effectively 「relieve stress」 before a big exam.",
+          "chineseTranslation": "听音乐可以有效地在考试前「缓解压力」。",
+          "chinglishFix": "典型中式英语：'Music helps her stress smaller.' 纠正：'Music helps relieve her stress.'（'relieve stress'是固定搭配，避免用'smaller'等不自然的表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "解除或减轻（某人的职责或负担）",
+      "usage": "用作及物动词，表示通过替换或接替某人来减轻其职责或负担，常见于描述工作、岗位或责任的交接。",
+      "collocations": ["relieve someone of duty", "relieve someone of responsibility", "relieve someone of their post"],
+      "examples": [
+        {
+          "scene": "在一家公司中，经理因为长期超负荷工作而疲惫不堪，公司决定派一名新员工来接替他的一些职责。",
+          "chineseIdea": "通过安排其他人接手工作，让某人从繁重的职责中解脱出来。",
+          "sentenceWithBlank": "The company decided to @ @ @ @ to reduce his workload.",
+          "fullEnglishSentence": "The company decided to 「relieve him of duty」 to reduce his workload.",
+          "chineseTranslation": "公司决定「解除他的职责」以减轻他的工作负担。",
+          "chinglishFix": "典型中式英语：'The company let him not do the duty.' 纠正：'The company relieved him of his duty.'（'relieve of duty'是固定表达，避免用'let him not do'等生硬翻译）"
+        },
+        {
+          "scene": "在一支救援队中，小李连续工作了12小时，队长安排另一名队员来接替他的岗位。",
+          "chineseIdea": "通过替换某人，让其从当前的岗位或任务中解放出来休息。",
+          "sentenceWithBlank": "The team leader decided to @ @ @ @ @ to give him a break.",
+          "fullEnglishSentence": "The team leader decided to 「relieve him of his post」 to give him a break.",
+          "chineseTranslation": "队长决定「解除他的岗位」以让他休息。",
+          "chinglishFix": "典型中式英语：'The leader changed him from the post.' 纠正：'The leader relieved him of his post.'（'relieve of post'更符合英语习惯，避免用'change'等模糊表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "缓解或减轻（某种不利的局面或问题）",
+      "usage": "用作及物动词，表示通过采取措施来改善或减轻某种负面情况，如经济困难、资源短缺等。",
+      "collocations": ["relieve poverty", "relieve pressure", "relieve shortages"],
+      "examples": [
+        {
+          "scene": "一个村庄因为长期干旱而缺乏粮食，政府通过发放物资来帮助村民渡过难关。",
+          "chineseIdea": "通过提供资源或援助来改善贫困或物资匮乏的状况。",
+          "sentenceWithBlank": "The government launched a program to @ @ in rural areas.",
+          "fullEnglishSentence": "The government launched a program to 「relieve poverty」 in rural areas.",
+          "chineseTranslation": "政府启动了一项计划来「缓解贫困」在农村地区。",
+          "chinglishFix": "典型中式英语：'The government helps poor people less poor.' 纠正：'The government helps relieve poverty.'（'relieve poverty'是地道表达，避免用'less poor'等不自然的说法）"
+        },
+        {
+          "scene": "一家工厂因为订单过多，生产线压力巨大，公司决定增加人手来应对。",
+          "chineseIdea": "通过增加资源或调整策略来减轻系统或组织的压力。",
+          "sentenceWithBlank": "Hiring more workers helped to @ @ on the production line.",
+          "fullEnglishSentence": "Hiring more workers helped to 「relieve pressure」 on the production line.",
+          "chineseTranslation": "雇佣更多工人帮助「缓解压力」在生产线上。",
+          "chinglishFix": "典型中式英语：'More workers made the pressure smaller.' 纠正：'More workers helped relieve the pressure.'（'relieve pressure'是固定搭配，避免用'make smaller'等生硬表达）"
+        }
+      ]
+    }
+  ]
+}
+```

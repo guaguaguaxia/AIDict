@@ -1,0 +1,76 @@
+```json
+{
+  "word": "regular",
+  "definitions": [
+    {
+      "meaning": "定期的，有规律的",
+      "usage": "指某事按照固定的时间间隔或模式发生，通常用于描述习惯、事件或活动的频率。",
+      "collocations": ["regular basis", "regular intervals", "regular schedule"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的办公室里，小明每周一都会与团队开会，讨论项目进展。这种会议是固定的，大家都习惯了。",
+          "chineseIdea": "小明想表达团队的会议是按固定时间进行的，强调其规律性。",
+          "sentenceWithBlank": "We meet on a @ @ to discuss project updates.",
+          "fullEnglishSentence": "We meet on a 「regular basis」 to discuss project updates.",
+          "chineseTranslation": "我们「定期」开会讨论项目进展。",
+          "chinglishFix": "典型中式英语：'We every week meet to discuss.' 纠正：'We meet on a regular basis to discuss.'"
+        },
+        {
+          "scene": "小红在一家咖啡店工作，她的班次是每周固定的时间段，比如周一到周五的上午9点到下午3点。",
+          "chineseIdea": "小红想说明她的工作时间是有固定安排的，强调时间表的稳定性。",
+          "sentenceWithBlank": "She works at @ @ to maintain a consistent routine.",
+          "fullEnglishSentence": "She works at 「regular intervals」 to maintain a consistent routine.",
+          "chineseTranslation": "她「定期」工作以保持稳定的日常安排。",
+          "chinglishFix": "典型中式英语：'She every day works same time.' 纠正：'She works at regular intervals.'"
+        }
+      ]
+    },
+    {
+      "meaning": "普通的，常规的",
+      "usage": "指某事物是标准的、常见的或非特殊的，通常用于描述产品、类型或人。",
+      "collocations": ["regular customer", "regular size", "regular version"],
+      "examples": [
+        {
+          "scene": "小刚经常去街角的便利店买饮料，店员都认识他了，因为他几乎每天都会光顾。",
+          "chineseIdea": "小刚想表达自己是这家店的常客，强调他经常光顾的身份。",
+          "sentenceWithBlank": "He’s a @ @ at the convenience store.",
+          "fullEnglishSentence": "He’s a 「regular customer」 at the convenience store.",
+          "chineseTranslation": "他是便利店的「常客」。",
+          "chinglishFix": "典型中式英语：'He is often customer.' 纠正：'He is a regular customer.'"
+        },
+        {
+          "scene": "小美在超市买牛奶时，面对大瓶、小瓶和中瓶的选项，她选择了最常见的包装。",
+          "chineseIdea": "小美想说明她买了标准尺寸的牛奶，而不是特别大或小的。",
+          "sentenceWithBlank": "She bought the @ @ milk bottle.",
+          "fullEnglishSentence": "She bought the 「regular size」 milk bottle.",
+          "chineseTranslation": "她买了「常规尺寸」的牛奶瓶。",
+          "chinglishFix": "典型中式英语：'She bought normal size milk.' 纠正：'She bought the regular size milk.'"
+        }
+      ]
+    },
+    {
+      "meaning": "规则的，整齐的",
+      "usage": "指形状、排列或结构是对称的或整齐的，通常用于描述几何形状或物理排列。",
+      "collocations": ["regular shape", "regular pattern", "regular features"],
+      "examples": [
+        {
+          "scene": "小李在学习几何学时，老师展示了一个五边形，所有的边和角都是相等的。",
+          "chineseIdea": "小李想描述这个五边形的形状是完全对称的，强调其规则性。",
+          "sentenceWithBlank": "The pentagon has a @ @ with equal sides.",
+          "fullEnglishSentence": "The pentagon has a 「regular shape」 with equal sides.",
+          "chineseTranslation": "这个五边形有一个「规则形状」，所有边都相等。",
+          "chinglishFix": "典型中式英语：'The pentagon is same shape.' 纠正：'The pentagon has a regular shape.'"
+        },
+        {
+          "scene": "小芳在参观一个艺术展览时，注意到墙上的瓷砖排列成了一种整齐的网格。",
+          "chineseIdea": "小芳想表达瓷砖的排列非常整齐，强调其图案的规则性。",
+          "sentenceWithBlank": "The tiles form a @ @ on the wall.",
+          "fullEnglishSentence": "The tiles form a 「regular pattern」 on the wall.",
+          "chineseTranslation": "瓷砖在墙上形成一个「规则图案」。",
+          "chinglishFix": "典型中式英语：'The tiles make nice pattern.' 纠正：'The tiles form a regular pattern.'"
+        }
+      ]
+    }
+  ]
+}
+```
