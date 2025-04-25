@@ -1,0 +1,53 @@
+```json
+{
+  "word": "grave",
+  "definitions": [
+    {
+      "meaning": "墓地，坟墓",
+      "usage": "指埋葬死者的地方，通常用于描述物理的墓地或坟墓，带有严肃或庄重的语气。",
+      "collocations": ["visit a grave", "dig a grave", "mark a grave"],
+      "examples": [
+        {
+          "scene": "在一个安静的乡村墓地，秋天的落叶覆盖着地面，人们来到这里缅怀逝去的亲人。",
+          "chineseIdea": "表达对逝去亲人的思念，通常会去墓地献花或整理墓碑。",
+          "sentenceWithBlank": "Every year on Qingming Festival, she would @ @ @ to honor her late grandfather.",
+          "fullEnglishSentence": "Every year on Qingming Festival, she would 「visit a grave」 to honor her late grandfather.",
+          "chineseTranslation": "每年清明节，她都会「去墓地」缅怀她已故的祖父。",
+          "chinglishFix": "典型中式英语：'She go to grandfather's grave to memory him.' 纠正：'She visits her grandfather's grave to honor him.'（避免用'memory'代替'honor'，并注意动词形式。）"
+        },
+        {
+          "scene": "在一部历史剧中，村民们为了安葬一位英雄，聚集在山坡上准备墓地。",
+          "chineseIdea": "描述为某人准备墓地的行为，通常与尊重和纪念相关。",
+          "sentenceWithBlank": "The community came together to @ @ @ for the fallen soldier.",
+          "fullEnglishSentence": "The community came together to 「dig a grave」 for the fallen soldier.",
+          "chineseTranslation": "社区聚集在一起为阵亡的士兵「挖掘墓地」。",
+          "chinglishFix": "典型中式英语：'They dig a hole for the soldier.' 纠正：'They dig a grave for the soldier.'（'hole'过于笼统，'grave'更准确且符合语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "严重的，严肃的",
+      "usage": "形容某事物（通常是情况、问题或错误）极其重要或后果严重，常用于正式或书面语境。",
+      "collocations": ["grave concern", "grave mistake", "grave consequences"],
+      "examples": [
+        {
+          "scene": "在一场国际会议上，科学家们讨论气候变化对全球生态的威胁。",
+          "chineseIdea": "表达对某个问题的高度担忧，认为其影响深远。",
+          "sentenceWithBlank": "The panel expressed @ @ about the rapid loss of biodiversity.",
+          "fullEnglishSentence": "The panel expressed 「grave concern」 about the rapid loss of biodiversity.",
+          "chineseTranslation": "专家小组对生物多样性的迅速丧失表示「严重关切」。",
+          "chinglishFix": "典型中式英语：'They have big worry about biodiversity.' 纠正：'They expressed grave concern about biodiversity.'（'big worry'不够正式，'grave concern'更贴合语境。）"
+        },
+        {
+          "scene": "在公司会议中，经理警告团队忽视客户反馈可能导致的后果。",
+          "chineseIdea": "提醒某行为可能导致的严重后果，以引起重视。",
+          "sentenceWithBlank": "Ignoring the feedback could lead to @ @.",
+          "fullEnglishSentence": "Ignoring the feedback could lead to 「grave consequences」.",
+          "chineseTranslation": "忽视反馈可能会导致「严重后果」。",
+          "chinglishFix": "典型中式英语：'This will bring bad results.' 纠正：'This could lead to grave consequences.'（'bad results'过于简单，'grave consequences'更正式且强调严重性。）"
+        }
+      ]
+    }
+  ]
+}
+```

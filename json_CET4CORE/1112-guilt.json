@@ -1,0 +1,53 @@
+```json
+{
+  "word": "guilt",
+  "definitions": [
+    {
+      "meaning": "内疚或罪恶感，一种由于做错事或认为自己做错事而产生的痛苦情感",
+      "usage": "通常用作不可数名词，指个人因道德或伦理上的过错而感到的心理负担。常用于描述因行为、决定或疏忽导致的自我谴责。",
+      "collocations": ["feel a sense of", "overwhelmed by", "carry the burden of"],
+      "examples": [
+        {
+          "scene": "小明在一次考试中作弊，虽然没有被发现，但他每次看到成绩单时，都会感到一种沉重的心理压力。他觉得自己违背了诚实的原则。",
+          "chineseIdea": "小明觉得自己做了一件不道德的事情，这种感觉像一块石头压在心头，让他无法释怀。",
+          "sentenceWithBlank": "He couldn't shake the feeling that he had cheated his way to success, and it made him @ @ @ @.",
+          "fullEnglishSentence": "He couldn't shake the feeling that he had cheated his way to success, and it made him 「feel a sense of guilt」.",
+          "chineseTranslation": "他无法摆脱那种通过作弊获得成功的想法，这让他「感到深深的内疚」。",
+          "chinglishFix": "典型中式英语：'He feel very guilty heart.' 纠正：'He feels a strong sense of guilt.'（应使用正确的动词形式和搭配，避免直译'内疚的心'）。"
+        },
+        {
+          "scene": "丽丽忘记了帮朋友搬家，尽管她之前答应了。她知道朋友很需要帮助，但她却因为忙于自己的事情而忘记了。",
+          "chineseIdea": "丽丽觉得自己失信于朋友，这种背弃承诺的感觉让她觉得自己是个不可靠的人。",
+          "sentenceWithBlank": "She was @ @ @ for letting her friend down when she needed her the most.",
+          "fullEnglishSentence": "She was 「overwhelmed by guilt」 for letting her friend down when she needed her the most.",
+          "chineseTranslation": "她因为让朋友失望而「被内疚感淹没」，尤其是在朋友最需要她的时候。",
+          "chinglishFix": "典型中式英语：'She feel guilt very much.' 纠正：'She was overwhelmed by guilt.'（避免直译'感觉很多内疚'，使用正确的搭配和语态）。"
+        }
+      ]
+    },
+    {
+      "meaning": "罪行或责任，指某人因违法或不当行为而应承担的法律或道德责任",
+      "usage": "用作不可数名词或可数名词，指某人被判定犯有罪行或对某事负有责任。常用于法律、道德或正式语境。",
+      "collocations": ["prove someone’s", "admit one’s", "establish the"],
+      "examples": [
+        {
+          "scene": "在一场法庭审判中，检察官通过一系列证据，成功地向陪审团展示了被告确实犯下了罪行。",
+          "chineseIdea": "检察官希望通过证据让所有人相信被告是有罪的，从而让正义得到伸张。",
+          "sentenceWithBlank": "The prosecutor presented compelling evidence to @ @ @ in the case.",
+          "fullEnglishSentence": "The prosecutor presented compelling evidence to 「prove someone’s guilt」 in the case.",
+          "chineseTranslation": "检察官提出了令人信服的证据来「证明被告的罪行」。",
+          "chinglishFix": "典型中式英语：'The prosecutor prove he is guilty.' 纠正：'The prosecutor proved his guilt.'（应使用正确的名词形式'guilt'，避免直接用形容词'guilty'）。"
+        },
+        {
+          "scene": "小刚在公司项目中犯了严重错误，导致团队错失了一个重要客户。他在会议上公开承认了自己的失误。",
+          "chineseIdea": "小刚觉得自己必须站出来承担责任，而不是让团队为他的错误背黑锅。",
+          "sentenceWithBlank": "He stood up in the meeting to @ @ @ and apologized to the team.",
+          "fullEnglishSentence": "He stood up in the meeting to 「admit one’s guilt」 and apologized to the team.",
+          "chineseTranslation": "他在会议上站起来「承认自己的过错」并向团队道歉。",
+          "chinglishFix": "典型中式英语：'He admit he is wrong.' 纠正：'He admitted his guilt.'（应使用名词'guilt'并注意动词搭配，避免直译'承认他是错的'）。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "generalization",
+  "definitions": [
+    {
+      "meaning": "从具体实例中得出普遍结论或规律的过程",
+      "usage": "指通过观察具体事例，总结出适用于更广泛情况的规律或结论，常用于学术、科学或日常推理中。",
+      "collocations": ["make a generalization", "broad generalization", "sweeping generalization"],
+      "examples": [
+        {
+          "scene": "在一所大学的心理学课堂上，教授正在讲解人类行为的研究方法。学生们通过分析实验数据，尝试总结出某种行为的普遍规律。",
+          "chineseIdea": "通过观察部分人的行为，推测出可能适用于大多数人的行为模式。",
+          "sentenceWithBlank": "After analyzing the data, the professor encouraged us to @ @ @ about human behavior.",
+          "fullEnglishSentence": "After analyzing the data, the professor encouraged us to 「make a generalization」 about human behavior.",
+          "chineseTranslation": "在分析数据后，教授鼓励我们对人类行为「得出普遍结论」。",
+          "chinglishFix": "典型中式英语：'We make a general conclusion about behavior.' 纠正：'We make a generalization about behavior.'（'general conclusion' 不自然，'generalization' 更符合学术语境）"
+        },
+        {
+          "scene": "在公司会议中，团队正在讨论客户反馈。有人根据几个客户的意见，提出了一个可能适用于所有客户的结论，但同事提醒要谨慎。",
+          "chineseIdea": "根据部分客户的反馈，推测所有客户的普遍需求，但需要注意不要过于绝对。",
+          "sentenceWithBlank": "Based on a few complaints, he made a @ @ about customer preferences, which might be risky.",
+          "fullEnglishSentence": "Based on a few complaints, he made a 「broad generalization」 about customer preferences, which might be risky.",
+          "chineseTranslation": "基于几条投诉，他对客户偏好做出了「广泛的概括」，这可能有风险。",
+          "chinglishFix": "典型中式英语：'He made a wide conclusion about customers.' 纠正：'He made a broad generalization about customers.'（'wide conclusion' 不地道，'broad generalization' 是正确搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "将具体事物或概念扩展到更广泛的类别或范围",
+      "usage": "指将某一特定情况、规则或概念应用于更广泛的场景，常用于数学、计算机科学或理论讨论中。",
+      "collocations": ["apply a generalization", "form a generalization", "extend a generalization"],
+      "examples": [
+        {
+          "scene": "在编程课程中，老师讲解如何将一个算法从处理单一数据类型扩展到处理多种数据类型，以提高代码的灵活性。",
+          "chineseIdea": "将一个特定算法的适用范围扩大，使其能处理更多类型的数据。",
+          "sentenceWithBlank": "The instructor showed us how to @ @ @ to handle various data types efficiently.",
+          "fullEnglishSentence": "The instructor showed us how to 「apply a generalization」 to handle various data types efficiently.",
+          "chineseTranslation": "老师向我们展示了如何「应用普遍化方法」来高效处理多种数据类型。",
+          "chinglishFix": "典型中式英语：'We use a general method to handle data.' 纠正：'We apply a generalization to handle data.'（'general method' 过于模糊，'apply a generalization' 更精确）"
+        },
+        {
+          "scene": "在数学研讨会上，研究人员讨论如何将一个定理从二维空间扩展到三维或更高维空间，以解决更复杂的问题。",
+          "chineseIdea": "将一个数学定理的适用范围从特定维度扩展到更普遍的维度。",
+          "sentenceWithBlank": "The researcher proposed to @ @ @ to higher dimensions to solve the problem.",
+          "fullEnglishSentence": "The researcher proposed to 「extend a generalization」 to higher dimensions to solve the problem.",
+          "chineseTranslation": "研究人员提议将「普遍化方法扩展」到更高维度来解决问题。",
+          "chinglishFix": "典型中式英语：'We extend a general rule to higher dimensions.' 纠正：'We extend a generalization to higher dimensions.'（'general rule' 不够学术化，'generalization' 更适合数学语境）"
+        }
+      ]
+    }
+  ]
+}
+```

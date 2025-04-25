@@ -1,0 +1,76 @@
+```json
+{
+  "word": "hub",
+  "definitions": [
+    {
+      "meaning": "中心，枢纽（如交通、活动或信息的中心）",
+      "usage": "指一个地方或事物作为活动、交流或运输的中心点，常用于描述机场、城市、或网络等场景。",
+      "collocations": ["transportation hub", "financial hub", "tech hub", "global hub"],
+      "examples": [
+        {
+          "scene": "你正在和朋友讨论计划去东南亚旅行，提到新加坡作为一个重要的航空中转站。",
+          "chineseIdea": "我想表达新加坡是很多人飞往其他国家时的中转站，航班和旅客都集中在那里。",
+          "sentenceWithBlank": "Singapore is a major @ @ for flights connecting Asia and beyond.",
+          "fullEnglishSentence": "Singapore is a major 「transportation hub」 for flights connecting Asia and beyond.",
+          "chineseTranslation": "新加坡是连接亚洲及其他地区航班的主要「交通枢纽」。",
+          "chinglishFix": "典型中式英语：'Singapore is a very important airport center.' 纠正：'Singapore is a major transportation hub.'（避免直接翻译‘中心’为center，搭配transportation hub更自然。）"
+        },
+        {
+          "scene": "你在科技公司面试，面试官问你为什么想搬到硅谷工作。",
+          "chineseIdea": "我想表达硅谷是科技创新的中心，汇聚了很多科技公司和人才。",
+          "sentenceWithBlank": "Silicon Valley is known as a @ @ for innovation and startups.",
+          "fullEnglishSentence": "Silicon Valley is known as a 「tech hub」 for innovation and startups.",
+          "chineseTranslation": "硅谷以其创新和创业的「科技中心」而闻名。",
+          "chinglishFix": "典型中式英语：'Silicon Valley is technology center.' 纠正：'Silicon Valley is a tech hub.'（tech hub是更地道的表达，center显得生硬。）"
+        }
+      ]
+    },
+    {
+      "meaning": "轮毂（车轮的中心部分，连接轮轴）",
+      "usage": "指机械或车辆中轮子的中心部分，通常与车轴或轴承相关，常见于汽车、自行车等语境。",
+      "collocations": ["wheel hub", "hub assembly", "front hub"],
+      "examples": [
+        {
+          "scene": "你在自行车店修理自行车，店员提到前轮的中心部件需要更换。",
+          "chineseIdea": "我想表达前轮的中心部分坏了，需要换新的来保证轮子转动顺畅。",
+          "sentenceWithBlank": "The mechanic said the @ @ on my bike needs to be replaced.",
+          "fullEnglishSentence": "The mechanic said the 「front hub」 on my bike needs to be replaced.",
+          "chineseTranslation": "技师说我的自行车上的「前轮毂」需要更换。",
+          "chinglishFix": "典型中式英语：'The center of my bike wheel is broken.' 纠正：'The front hub on my bike needs to be replaced.'（center过于笼统，front hub更精确。）"
+        },
+        {
+          "scene": "你在汽车论坛上讨论轮胎安装问题，有人提到轮毂组件的质量很重要。",
+          "chineseIdea": "我想表达轮毂组件的质量会影响汽车的性能和安全。",
+          "sentenceWithBlank": "A good @ @ ensures better performance and safety for the car.",
+          "fullEnglishSentence": "A good 「hub assembly」 ensures better performance and safety for the car.",
+          "chineseTranslation": "一个好的「轮毂组件」能确保汽车更好的性能和安全性。",
+          "chinglishFix": "典型中式英语：'The wheel center part is very important.' 纠正：'A good hub assembly is crucial.'（hub assembly是专业术语，避免用模糊的part。）"
+        }
+      ]
+    },
+    {
+      "meaning": "网络或设备的连接中心（如USB集线器或网络集线器）",
+      "usage": "指计算机或电子设备中用于连接多个设备或网络的中心设备，常见于科技和IT语境。",
+      "collocations": ["USB hub", "network hub", "smart home hub"],
+      "examples": [
+        {
+          "scene": "你在网上购买电脑配件，注意到一个设备可以扩展USB接口。",
+          "chineseIdea": "我想表达这个设备可以让我连接更多的USB设备到电脑上。",
+          "sentenceWithBlank": "I bought a @ @ to connect more devices to my laptop.",
+          "fullEnglishSentence": "I bought a 「USB hub」 to connect more devices to my laptop.",
+          "chineseTranslation": "我买了一个「USB集线器」来连接更多设备到我的笔记本电脑。",
+          "chinglishFix": "典型中式英语：'I bought a USB center.' 纠正：'I bought a USB hub.'（center不适用于此，hub是正确术语。）"
+        },
+        {
+          "scene": "你在设置智能家居系统，朋友推荐一个设备来统一控制所有智能设备。",
+          "chineseIdea": "我想表达这个设备可以作为控制所有智能家居设备的中心。",
+          "sentenceWithBlank": "A @ @ @ can centralize control of all your smart devices.",
+          "fullEnglishSentence": "A 「smart home hub」 can centralize control of all your smart devices.",
+          "chineseTranslation": "一个「智能家居中心」可以集中控制你所有的智能设备。",
+          "chinglishFix": "典型中式英语：'A smart house center controls everything.' 纠正：'A smart home hub centralizes control.'（smart home hub是标准表达，house center不地道。）"
+        }
+      ]
+    }
+  ]
+}
+```
