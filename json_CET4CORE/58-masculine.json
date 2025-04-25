@@ -1,0 +1,53 @@
+```json
+{
+  "word": "masculine",
+  "definitions": [
+    {
+      "meaning": "具有男子气概的；雄性的",
+      "usage": "形容人、行为或特征具有传统上与男性相关的特质，如强壮、勇敢或阳刚。常用于描述外貌、性格或风格。",
+      "collocations": ["masculine charm", "masculine traits", "masculine energy"],
+      "examples": [
+        {
+          "scene": "在一个时尚派对上，朋友们讨论一位新来的男士，他穿着得体，举止自信，给人留下深刻印象。",
+          "chineseIdea": "这位男士展现出一种吸引人的气质，让人觉得他很有男子汉的魅力。",
+          "sentenceWithBlank": "His confident walk and sharp suit gave him a distinct @ @.",
+          "fullEnglishSentence": "His confident walk and sharp suit gave him a distinct 「masculine charm」.",
+          "chineseTranslation": "他自信的步伐和笔挺的西装赋予他一种独特的「男子魅力」。",
+          "chinglishFix": "典型中式英语：'He has a very man charm.' 纠正：'He has a strong masculine charm.'（避免直接翻译‘男人魅力’，使用更自然的搭配）"
+        },
+        {
+          "scene": "在一场户外活动中，一位男士主动带领团队攀登陡峭的山坡，展现出坚韧和领导力。",
+          "chineseIdea": "他的行为体现出一种典型的男子特质，比如勇敢和果断。",
+          "sentenceWithBlank": "His decisiveness and strength during the climb highlighted his @ @.",
+          "fullEnglishSentence": "His decisiveness and strength during the climb highlighted his 「masculine traits」.",
+          "chineseTranslation": "他在攀登中的果断和力量突显了他的「男子特质」。",
+          "chinglishFix": "典型中式英语：'He shows man characteristics.' 纠正：'He displays masculine traits.'（使用‘traits’而非‘characteristics’，更符合英语习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "语法上的阳性",
+      "usage": "在某些语言（如法语、西班牙语）中，用于描述名词、代词或形容词的语法性别为阳性。与阴性或中性相对。",
+      "collocations": ["masculine noun", "masculine pronoun", "masculine form"],
+      "examples": [
+        {
+          "scene": "在一堂法语课上，老师正在解释名词的性别规则，学生们在记录阳性名词的用法。",
+          "chineseIdea": "学生需要记住哪些名词属于阳性，以便正确使用冠词和形容词。",
+          "sentenceWithBlank": "In French, 'le livre' is classified as a @ @ because of its grammatical gender.",
+          "fullEnglishSentence": "In French, 'le livre' is classified as a 「masculine noun」 because of its grammatical gender.",
+          "chineseTranslation": "在法语中，‘le livre’被归类为「阳性名词」，因为它的语法性别。",
+          "chinglishFix": "典型中式英语：'It is a male noun.' 纠正：'It is a masculine noun.'（避免用‘male’描述语法性别，使用‘masculine’）"
+        },
+        {
+          "scene": "一位学生在学习西班牙语时，试图理解代词如何根据性别变化。",
+          "chineseIdea": "学生需要掌握代词的阳性形式，以便在句子中正确使用。",
+          "sentenceWithBlank": "In Spanish, 'él' is a @ @ used for male subjects.",
+          "fullEnglishSentence": "In Spanish, 'él' is a 「masculine pronoun」 used for male subjects.",
+          "chineseTranslation": "在西班牙语中，‘él’是一个用于男性主语的「阳性代词」。",
+          "chinglishFix": "典型中式英语：'It is a man pronoun.' 纠正：'It is a masculine pronoun.'（避免用‘man’代替‘masculine’）"
+        }
+      ]
+    }
+  ]
+}
+```

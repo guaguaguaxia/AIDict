@@ -1,0 +1,53 @@
+```json
+{
+  "word": "marginalize",
+  "definitions": [
+    {
+      "meaning": "使边缘化；使某人或某群体在社会、政治或经济上被排斥或失去重要性",
+      "usage": "通常指通过系统性或非系统性的方式，使某些人或群体在社会中被忽视、排斥或失去影响力。常用于描述对少数群体、弱势群体或边缘群体的不公平待遇。",
+      "collocations": ["marginalize a community", "marginalize a group", "marginalize an individual"],
+      "examples": [
+        {
+          "scene": "在一个快速发展的城市中，政府决定优先发展市中心的高端商业区，而忽视老旧社区的居民需求，导致这些居民感到被社会忽视。",
+          "chineseIdea": "政府政策倾向于富裕阶层，忽略了低收入社区的利益，导致这些居民感到被排斥。",
+          "sentenceWithBlank": "The government's urban development policies @ @ @, leaving them without access to new opportunities.",
+          "fullEnglishSentence": "The government's urban development policies 「marginalize a community」, leaving them without access to new opportunities.",
+          "chineseTranslation": "政府的城市发展政策「边缘化了一个社区」，使他们无法获得新的机会。",
+          "chinglishFix": "典型中式英语：'The government makes a community to be marginal.' 纠正：'The government marginalizes a community.'（避免使用'make...to be'结构，直接用动词marginalize表示动作。）"
+        },
+        {
+          "scene": "在一家大型科技公司中，管理层倾向于提拔年轻、精通技术的员工，而忽视经验丰富但技术稍弱的老员工。",
+          "chineseIdea": "公司文化偏向于技术导向，忽视了其他方面的贡献，导致一些员工感到被排挤。",
+          "sentenceWithBlank": "The company's promotion criteria @ @ @, causing resentment among senior staff.",
+          "fullEnglishSentence": "The company's promotion criteria 「marginalize a group」, causing resentment among senior staff.",
+          "chineseTranslation": "公司的晋升标准「边缘化了一群人」，引发了资深员工的不满。",
+          "chinglishFix": "典型中式英语：'The company lets a group feel marginal.' 纠正：'The company marginalizes a group.'（避免使用'let...feel'来表达边缘化，直接使用marginalize。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在讨论或决策中使某事或某人变得不重要或被忽视",
+      "usage": "指在对话、决策或活动中，故意或无意地降低某人或某事的地位或影响力，常用于学术、职场或政治语境。",
+      "collocations": ["marginalize a perspective", "marginalize a voice", "marginalize an issue"],
+      "examples": [
+        {
+          "scene": "在一场关于气候变化的国际会议上，发展中国家的代表提出了一些重要建议，但这些建议被主要大国忽视。",
+          "chineseIdea": "大国的主导地位使得小国的意见在会议中被忽略，显得不重要。",
+          "sentenceWithBlank": "The conference's focus on major economies @ @ @, limiting the discussion's scope.",
+          "fullEnglishSentence": "The conference's focus on major economies 「marginalized a perspective」, limiting the discussion's scope.",
+          "chineseTranslation": "会议对主要经济体的关注「边缘化了一种观点」，限制了讨论的范围。",
+          "chinglishFix": "典型中式英语：'The conference makes a perspective not important.' 纠正：'The conference marginalizes a perspective.'（避免使用'make...not important'，直接用marginalize表示边缘化。）"
+        },
+        {
+          "scene": "在一个团队会议中，讨论主要围绕市场营销策略，忽视了产品研发团队提出的技术问题。",
+          "chineseIdea": "团队领导更关注短期销售目标，导致技术问题在讨论中被忽视。",
+          "sentenceWithBlank": "The manager's focus on sales @ @ @, frustrating the engineering team.",
+          "fullEnglishSentence": "The manager's focus on sales 「marginalized an issue」, frustrating the engineering team.",
+          "chineseTranslation": "经理对销售的关注「边缘化了一个问题」，让工程团队感到沮丧。",
+          "chinglishFix": "典型中式英语：'The manager ignores an issue to be marginal.' 纠正：'The manager marginalizes an issue.'（避免使用'ignore...to be marginal'，直接用marginalize。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "negotiate",
+  "definitions": [
+    {
+      "meaning": "通过讨论达成协议或妥协",
+      "usage": "指双方或多方通过对话、协商来解决分歧、达成共识或签订协议，常用于商业、外交或个人事务中。",
+      "collocations": ["a contract", "a deal", "terms"],
+      "examples": [
+        {
+          "scene": "一家中国公司希望与美国供应商签订一份长期供货合同，双方在价格和交货时间上存在分歧。会议室里，双方代表正围绕合同细节展开激烈讨论。",
+          "chineseIdea": "中国公司希望以较低的价格锁定长期供货，同时确保交货时间灵活，而美国供应商则希望提高价格并固定交货周期。",
+          "sentenceWithBlank": "After weeks of discussions, they finally @ @ @ that satisfied both parties.",
+          "fullEnglishSentence": "After weeks of discussions, they finally 「negotiated a contract」 that satisfied both parties.",
+          "chineseTranslation": "经过数周的讨论，他们最终「达成了一份合同」，令双方都满意。",
+          "chinglishFix": "典型中式英语：'They discussed and made a contract.' 纠正：'They negotiated a contract.' 中式英语常忽略'negotiate'这一特定动词，而用模糊的'discuss'或'make'，导致表达不够精准。"
+        },
+        {
+          "scene": "在上海的一场国际贸易展会上，一家中国出口商与欧洲买家商谈一笔大订单，双方在付款条件和折扣上反复磋商。",
+          "chineseIdea": "中国出口商希望争取更有利的付款条件，比如延长付款期限，而欧洲买家则希望获得更高的折扣。",
+          "sentenceWithBlank": "The exporter worked hard to @ @ @ with favorable payment conditions.",
+          "fullEnglishSentence": "The exporter worked hard to 「negotiate a deal」 with favorable payment conditions.",
+          "chineseTranslation": "出口商努力「达成了一笔交易」，获得了有利的付款条件。",
+          "chinglishFix": "典型中式英语：'They talked to get a deal.'  Ros: 'They negotiated a deal.' 中式英语常使用'talk'或'get'这类泛化动词，忽略了'negotiate'在正式交易场景中的精确含义。"
+        }
+      ]
+    },
+    {
+      "meaning": "通过障碍或困难环境",
+      "usage": "指小心或巧妙地通过物理上的障碍、复杂地形或危险区域，常用于描述驾驶、行走或移动的场景。",
+      "collocations": ["a corner", "traffic", "a narrow path"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的北京早高峰，出租车司机需要在拥挤的街道上快速送乘客到机场，道路上满是自行车和行人。",
+          "chineseIdea": "司机需要灵活应对路况，快速但安全地穿过拥堵区域，同时避开行人和障碍物。",
+          "sentenceWithBlank": "The taxi driver skillfully @ @ @ to avoid a cyclist.",
+          "fullEnglishSentence": "The taxi driver skillfully 「negotiated a corner」 to avoid a cyclist.",
+          "chineseTranslation": "出租车司机熟练地「绕过一个拐角」以避开一名自行车手。",
+          "chinglishFix": "典型中式英语：'He turned the corner fast.' 纠正：'He negotiated a corner.' 中式英语常忽略'negotiate'在描述小心应对障碍时的特定含义，直接用'turn'显得不够生动。"
+        },
+        {
+          "scene": "在一个多山的旅游景点，游客们沿着一条陡峭狭窄的小路前往山顶，路上有碎石和树根。",
+          "chineseIdea": "游客需要小心翼翼地走过崎岖的小路，确保安全到达山顶，同时欣赏沿途风景。",
+          "sentenceWithBlank": "The hikers carefully @ @ @ to reach the summit.",
+          "fullEnglishSentence": "The hikers carefully 「negotiated a narrow path」 to reach the summit.",
+          "chineseTranslation": "徒步者小心地「通过了一条狭窄的小路」到达山顶。",
+          "chinglishFix": "典型中式英语：'They walked on the narrow path.' 纠正：'They negotiated a narrow path.' 中式英语常用'walk'而忽略'negotiate'在描述小心通过复杂地形时的精确用法。"
+        }
+      ]
+    }
+  ]
+}
+```

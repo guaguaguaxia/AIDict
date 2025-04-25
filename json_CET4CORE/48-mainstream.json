@@ -1,0 +1,76 @@
+```json
+{
+  "word": "mainstream",
+  "definitions": [
+    {
+      "meaning": "主流的；符合或代表大多数人的观点、趋势或实践",
+      "usage": "用作形容词，描述某事物是社会、文化或某个领域中最普遍或广泛接受的，通常与流行趋势、观点或行为相关。",
+      "collocations": ["mainstream media", "mainstream culture", "mainstream audience"],
+      "examples": [
+        {
+          "scene": "在一家咖啡店里，两个大学生正在讨论最近的新闻报道。他们谈到不同媒体如何报道同一事件。",
+          "chineseIdea": "他们想表达某个新闻来源代表了大多数人的观点，受到广泛关注。",
+          "sentenceWithBlank": "The @ @ covers stories that appeal to a wide range of people.",
+          "fullEnglishSentence": "The 「mainstream media」 covers stories that appeal to a wide range of people.",
+          "chineseTranslation": "「主流媒体」报道的故事吸引了广泛的人群。",
+          "chinglishFix": "典型中式英语：'The media of mainstream covers many stories.' 纠正：'Mainstream media covers a wide variety of stories.'（避免直接翻译‘主流的媒体’，使用自然的搭配‘mainstream media’）"
+        },
+        {
+          "scene": "一位老师在课堂上向学生介绍不同类型的音乐，讨论哪些音乐类型在年轻人中更受欢迎。",
+          "chineseIdea": "老师想说明某种音乐风格是当前社会中最流行和广泛接受的。",
+          "sentenceWithBlank": "Pop music is often considered part of the @ @ because it’s so widely enjoyed.",
+          "fullEnglishSentence": "Pop music is often considered part of the 「mainstream culture」 because it’s so widely enjoyed.",
+          "chineseTranslation": "流行音乐通常被认为是「主流文化」的一部分，因为它受到广泛喜爱。",
+          "chinglishFix": "典型中式英语：'Pop music is very mainstream culture.' 纠正：'Pop music is a big part of mainstream culture.'（避免重复使用‘mainstream’作为名词，正确使用搭配‘mainstream culture’）"
+        }
+      ]
+    },
+    {
+      "meaning": "主流的；属于或代表某个领域中主要趋势或常规方法",
+      "usage": "用作形容词，特指某个领域（如教育、科技、商业等）中最常见或标准的实践、方法或产品。",
+      "collocations": ["mainstream education", "mainstream technology", "mainstream approach"],
+      "examples": [
+        {
+          "scene": "一位家长在学校会议上与老师讨论孩子的学习方式，提到孩子可能需要特殊教育支持。",
+          "chineseIdea": "家长想表达孩子可能不适合学校中最常见的教学方式。",
+          "sentenceWithBlank": "Some children need extra support because they don’t thrive in @ @.",
+          "fullEnglishSentence": "Some children need extra support because they don’t thrive in 「mainstream education」.",
+          "chineseTranslation": "一些孩子需要额外的支持，因为他们在「主流教育」中无法茁壮成长。",
+          "chinglishFix": "典型中式英语：'Some kids can’t follow mainstream education system.' 纠正：'Some children struggle in mainstream education.'（避免冗长的‘education system’，使用简洁的‘mainstream education’）"
+        },
+        {
+          "scene": "一家科技公司的员工在会议上讨论是否采用最新的实验性技术还是继续使用标准技术。",
+          "chineseIdea": "员工想表达公司应该选择更广泛使用的技术，以确保兼容性和稳定性。",
+          "sentenceWithBlank": "We should stick to @ @ to ensure our products are reliable.",
+          "fullEnglishSentence": "We should stick to 「mainstream technology」 to ensure our products are reliable.",
+          "chineseTranslation": "我们应该坚持使用「主流技术」，以确保我们的产品可靠。",
+          "chinglishFix": "典型中式英语：'We use technology of mainstream for reliability.' 纠正：'We should use mainstream technology for reliability.'（避免不自然的‘technology of mainstream’，使用正确的搭配‘mainstream technology’）"
+        }
+      ]
+    },
+    {
+      "meaning": "主流；广泛接受的社会群体或趋势（名词用法）",
+      "usage": "用作名词，指代社会中大多数人所属的群体、趋势或文化，通常与‘非主流’（alternative）相对。",
+      "collocations": ["join the mainstream", "outside the mainstream", "part of the mainstream"],
+      "examples": [
+        {
+          "scene": "一位年轻的设计师在时尚杂志的采访中谈到自己的设计理念，强调自己不想迎合大众口味。",
+          "chineseIdea": "设计师想表达自己的作品与大多数人的偏好不同，更具独特性。",
+          "sentenceWithBlank": "My designs are meant to stand out because they’re @ @.",
+          "fullEnglishSentence": "My designs are meant to stand out because they’re 「outside the mainstream」.",
+          "chineseTranslation": "我的设计旨在脱颖而出，因为它们「脱离主流」。",
+          "chinglishFix": "典型中式英语：'My designs are not mainstream.' 纠正：'My designs are outside the mainstream.'（避免简单地否定‘mainstream’，使用更自然的搭配‘outside the mainstream’）"
+        },
+        {
+          "scene": "一位社会学家在讲座中分析过去几十年社会观念的变化，提到更多人接受了某些新观念。",
+          "chineseIdea": "社会学家想说明某些曾经小众的观点现在已经被大多数人接受。",
+          "sentenceWithBlank": "These ideas have become @ @ over the past few decades.",
+          "fullEnglishSentence": "These ideas have become 「part of the mainstream」 over the past few decades.",
+          "chineseTranslation": "这些观念在过去几十年里已成为「主流的一部分」。",
+          "chinglishFix": "典型中式英语：'These ideas are now mainstream ideas.' 纠正：'These ideas have become part of the mainstream.'（避免重复‘mainstream’，使用自然的搭配‘part of the mainstream’）"
+        }
+      ]
+    }
+  ]
+}
+```
