@@ -1,0 +1,53 @@
+```json
+{
+  "word": "unbearable",
+  "definitions": [
+    {
+      "meaning": "难以忍受的；无法承受的",
+      "usage": "形容某事物或情况让人感到极度不舒服、痛苦或无法继续忍受，常用于描述强烈的情感、物理感受或环境条件。",
+      "collocations": ["unbearable pain", "unbearable heat", "unbearable situation"],
+      "examples": [
+        {
+          "scene": "一个炎热的夏天，你在没有空调的房间里待了好几个小时，汗水不停地流，感觉整个人都要崩溃了。",
+          "chineseIdea": "描述一种让人无法忍受的高温环境，强调身体的不适和心理的烦躁。",
+          "sentenceWithBlank": "The @ @ in the room made it impossible to focus on anything.",
+          "fullEnglishSentence": "The 「unbearable heat」 in the room made it impossible to focus on anything.",
+          "chineseTranslation": "房间里「难以忍受的酷热」让人无法专注于任何事情。",
+          "chinglishFix": "典型中式英语：'The room is too hot to bear.' 纠正：'The unbearable heat in the room made it intolerable.' 说明：中式英语常直接用'too...to bear'，显得生硬，正确的表达应使用'unbearable'并搭配具体名词，如'heat'。"
+        },
+        {
+          "scene": "你在医院陪伴一位受伤的朋友，他因为手术后的疼痛而不断呻吟，你感到非常揪心。",
+          "chineseIdea": "描述身体上的剧烈疼痛，强调其严重程度让人难以承受。",
+          "sentenceWithBlank": "Seeing him endure @ @ was heart-wrenching.",
+          "fullEnglishSentence": "Seeing him endure 「unbearable pain」 was heart-wrenching.",
+          "chineseTranslation": "看到他忍受「难以忍受的疼痛」让人心痛。",
+          "chinglishFix": "典型中式英语：'His pain is too much.' 纠正：'He was suffering from unbearable pain.' 说明：中式英语常使用模糊的'too much'，而英语中更倾向于具体描述，如'unbearable pain'。"
+        }
+      ]
+    },
+    {
+      "meaning": "让人无法接受的；令人厌恶的",
+      "usage": "描述某人或某事的行为、态度或特质让人感到极度反感或无法接受，常用于表达强烈的负面评价。",
+      "collocations": ["unbearable arrogance", "unbearable rudeness", "unbearable behavior"],
+      "examples": [
+        {
+          "scene": "你在一次团队会议中，某位同事总是打断别人说话，自以为是地发表意见，完全不顾及他人的感受。",
+          "chineseIdea": "描述某人傲慢的态度让人感到愤怒和无法接受。",
+          "sentenceWithBlank": "His @ @ during the meeting frustrated everyone.",
+          "fullEnglishSentence": "His 「unbearable arrogance」 during the meeting frustrated everyone.",
+          "chineseTranslation": "他在会议中的「令人无法接受的傲慢」让大家都感到沮丧。",
+          "chinglishFix": "典型中式英语：'He is too proud in the meeting.' 纠正：'His unbearable arrogance in the meeting was frustrating.' 说明：中式英语常用'too proud'，但英语中更常用'arrogance'来具体描述这种态度。"
+        },
+        {
+          "scene": "你在餐厅用餐时，旁桌的顾客大声喧哗，甚至对服务员出言不逊，破坏了整个用餐氛围。",
+          "chineseIdea": "描述某人粗鲁的行为让人感到不快和难以忍受。",
+          "sentenceWithBlank": "The @ @ of the customers at the next table ruined our dinner.",
+          "fullEnglishSentence": "The 「unbearable rudeness」 of the customers at the next table ruined our dinner.",
+          "chineseTranslation": "旁边桌顾客的「令人无法接受的粗鲁」毁了我们的晚餐。",
+          "chinglishFix": "典型中式英语：'Their behavior is too bad.' 纠正：'Their unbearable rudeness was unacceptable.' 说明：中式英语常使用模糊的'too bad'，而英语中更倾向于具体描述，如'unbearable rudeness'。"
+        }
+      ]
+    }
+  ]
+}
+```

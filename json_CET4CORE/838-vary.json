@@ -1,0 +1,53 @@
+```json
+{
+  "word": "vary",
+  "definitions": [
+    {
+      "meaning": "在大小、数量、程度或性质上发生变化或不同",
+      "usage": "指事物在某些方面（如大小、数量、程度、性质等）存在差异或发生改变，常用于描述多样性或变化性。可用作不及物动词（无宾语）或及物动词（有宾语）。",
+      "collocations": ["vary widely", "vary greatly", "vary depending on"],
+      "examples": [
+        {
+          "scene": "在一个国际学校的课堂上，老师正在讨论不同国家的饮食习惯。学生们发现每个人喜欢的食物种类和口味都不一样。",
+          "chineseIdea": "描述不同人的饮食偏好在种类和口味上有很大差异。",
+          "sentenceWithBlank": "People’s food preferences @ @ from culture to culture.",
+          "fullEnglishSentence": "People’s food preferences 「vary widely」 from culture to culture.",
+          "chineseTranslation": "人们的饮食偏好从一种文化到另一种文化「差异很大」。",
+          "chinglishFix": "典型中式英语：'People’s food preferences are very different from culture to culture.' 纠正：使用'vary widely'更自然，强调变化的幅度和多样性。"
+        },
+        {
+          "scene": "在一家咖啡店，店员向顾客介绍不同种类的咖啡豆，解释它们的口感和浓度会因产地不同而有所变化。",
+          "chineseIdea": "说明咖啡的口感和浓度因产地而有很大不同。",
+          "sentenceWithBlank": "The taste and strength of coffee @ @ from one region to another.",
+          "fullEnglishSentence": "The taste and strength of coffee 「vary greatly」 from one region to another.",
+          "chineseTranslation": "咖啡的口感和浓度从一个地区到另一个地区「变化很大」。",
+          "chinglishFix": "典型中式英语：'Coffee taste is different by region.' 纠正：使用'vary greatly'更精确，且避免了不自然的'by region'，改为'from one region to another'。"
+        }
+      ]
+    },
+    {
+      "meaning": "根据特定条件或情况而变化",
+      "usage": "指某事物的性质、数量或程度会根据特定因素（如时间、地点、条件等）而改变，常用于描述因果关系或依赖性。通常搭配介词如‘depending on’或‘according to’。",
+      "collocations": ["vary depending on", "vary according to", "vary with"],
+      "examples": [
+        {
+          "scene": "在一家服装店，销售员向顾客解释不同尺码的衣服价格会因材质和品牌而有所不同。",
+          "chineseIdea": "说明衣服价格会因材质和品牌的不同而变化。",
+          "sentenceWithBlank": "The price of clothes @ @ @ the material and brand.",
+          "fullEnglishSentence": "The price of clothes 「varies depending on」 the material and brand.",
+          "chineseTranslation": "衣服的价格「取决于」材质和品牌。",
+          "chinglishFix": "典型中式英语：'Clothes price is different because of material and brand.' 纠正：使用'varies depending on'更简洁，符合英语表达习惯，且避免了'because of'的冗长。"
+        },
+        {
+          "scene": "在一个旅行社，导游向游客介绍某个景点的游览时间会因季节不同而有所调整。",
+          "chineseIdea": "说明游览时间会因季节的不同而有所变化。",
+          "sentenceWithBlank": "The visiting hours of the attraction @ @ @ the season.",
+          "fullEnglishSentence": "The visiting hours of the attraction 「vary according to」 the season.",
+          "chineseTranslation": "景点的游览时间「根据」季节而变化。",
+          "chinglishFix": "典型中式英语：'Visiting hours change by season.' 纠正：使用'vary according to'更正式且自然，'by season'不够地道，应改为'according to the season'。"
+        }
+      ]
+    }
+  ]
+}
+```

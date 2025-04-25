@@ -1,0 +1,76 @@
+```json
+{
+  "word": "visible",
+  "definitions": [
+    {
+      "meaning": "能够被看见的；看得见的",
+      "usage": "描述某物或某人可以在物理上被眼睛看到，通常用于描述物体、现象或人的存在。",
+      "collocations": ["clearly visible", "highly visible", "barely visible"],
+      "examples": [
+        {
+          "scene": "在一个晴朗的夜晚，你和朋友在乡下的一片空地上仰望星空，星星在夜空中闪烁。",
+          "chineseIdea": "你想表达星星在黑暗的天空中非常显眼，很容易被看到。",
+          "sentenceWithBlank": "The stars were @ @ in the night sky.",
+          "fullEnglishSentence": "The stars were 「clearly visible」 in the night sky.",
+          "chineseTranslation": "星星在夜空中「清晰可见」。",
+          "chinglishFix": "典型中式英语：'The stars can see clearly in the sky.' 纠正：'The stars are clearly visible in the sky.'（避免用'can see'描述被看见的状态，使用'visible'表示可见性。）"
+        },
+        {
+          "scene": "在一个雾气弥漫的早晨，你站在山顶俯瞰山谷，远处的村庄在雾中若隐若现。",
+          "chineseIdea": "你想描述村庄在浓雾中几乎看不见，只能隐约辨认。",
+          "sentenceWithBlank": "The village was @ @ through the thick fog.",
+          "fullEnglishSentence": "The village was 「barely visible」 through the thick fog.",
+          "chineseTranslation": "村庄在浓雾中「几乎看不见」。",
+          "chinglishFix": "典型中式英语：'The village is hard to see in the fog.' 纠正：'The village is barely visible in the fog.'（'hard to see'不够地道，'barely visible'更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "显而易见的；明显的",
+      "usage": "描述某事物（例如变化、效果或问题）在观察或分析中容易被注意到，强调显著性或可察觉性。",
+      "collocations": ["increasingly visible", "visibly apparent", "readily visible"],
+      "examples": [
+        {
+          "scene": "在公司年会上，CEO发表演讲后，员工们对新战略的积极反应非常明显。",
+          "chineseIdea": "你想表达员工的支持态度在他们的表情和讨论中越来越明显。",
+          "sentenceWithBlank": "The employees' support for the new strategy was @ @ during the meeting.",
+          "fullEnglishSentence": "The employees' support for the new strategy was 「increasingly visible」 during the meeting.",
+          "chineseTranslation": "员工对新战略的支持在会议期间「越来越明显」。",
+          "chinglishFix": "典型中式英语：'The employees' support can be seen more and more.' 纠正：'The employees' support was increasingly visible.'（避免用'can be seen'，'increasingly visible'更简洁且地道。）"
+        },
+        {
+          "scene": "你和朋友讨论一部电影，提到演员在表演中流露出的情感非常明显，让观众感同身受。",
+          "chineseIdea": "你想表达演员的情感在表演中显而易见，触动人心。",
+          "sentenceWithBlank": "The actor’s emotions were @ @ in every scene.",
+          "fullEnglishSentence": "The actor’s emotions were 「visibly apparent」 in every scene.",
+          "chineseTranslation": "演员的情感在每个场景中「显而易见」。",
+          "chinglishFix": "典型中式英语：'The actor’s emotions are very clear to see.' 纠正：'The actor’s emotions were visibly apparent.'（'clear to see'显得冗长，'visibly apparent'更符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "公开的；被广泛关注的",
+      "usage": "描述某人、某事或某现象在公众或特定群体中具有较高的曝光度或知名度，常用于社交、媒体或职业场景。",
+      "collocations": ["publicly visible", "widely visible", "prominently visible"],
+      "examples": [
+        {
+          "scene": "一位年轻的创业者在社交媒体上分享自己的创业故事，吸引了大量关注。",
+          "chineseIdea": "你想表达这位创业者的故事在网络上广为人知，受到广泛关注。",
+          "sentenceWithBlank": "Her startup journey became @ @ on social media.",
+          "fullEnglishSentence": "Her startup journey became 「widely visible」 on social media.",
+          "chineseTranslation": "她的创业故事在社交媒体上「广为人知」。",
+          "chinglishFix": "典型中式英语：'Her story is seen by many people online.' 纠正：'Her startup journey became widely visible on social media.'（'seen by many people'不够简练，'widely visible'更自然。）"
+        },
+        {
+          "scene": "在一个国际会议上，一位科学家因其突破性研究而受到高度赞扬。",
+          "chineseIdea": "你想表达这位科学家的工作在学术界中非常突出，备受瞩目。",
+          "sentenceWithBlank": "His research was @ @ in the academic community.",
+          "fullEnglishSentence": "His research was 「prominently visible」 in the academic community.",
+          "chineseTranslation": "他的研究在学术界中「非常突出」。",
+          "chinglishFix": "典型中式英语：'His research is very famous in academics.' 纠正：'His research was prominently visible in the academic community.'（'very famous'用词不当，'prominently visible'更准确。）"
+        }
+      ]
+    }
+  ]
+}
+```
