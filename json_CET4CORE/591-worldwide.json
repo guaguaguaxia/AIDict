@@ -1,0 +1,53 @@
+```json
+{
+  "word": "worldwide",
+  "definitions": [
+    {
+      "meaning": "遍及全球的；在全世界范围内",
+      "usage": "用作形容词或副词，描述某事物在全球范围内的分布、影响或发生。通常用于强调覆盖多个国家或地区的情况。",
+      "collocations": ["worldwide distribution", "worldwide recognition", "worldwide network"],
+      "examples": [
+        {
+          "scene": "一家中国的科技公司开发了一款新的智能手机应用，希望将其推广到全球市场。他们在多个国家设立了服务器，以确保用户能够快速访问。",
+          "chineseIdea": "公司希望这款应用能够在全球范围内被广泛使用，覆盖不同的国家和文化。",
+          "sentenceWithBlank": "The app gained popularity due to its effective @ @.",
+          "fullEnglishSentence": "The app gained popularity due to its effective 「worldwide distribution」.",
+          "chineseTranslation": "这款应用因其有效的「全球分发」而广受欢迎。",
+          "chinglishFix": "典型中式英语：'The app is popular in the world.' 纠正：'The app has gained worldwide popularity.'（避免直接翻译‘在世界上’，使用更自然的‘worldwide’表达全球范围。）"
+        },
+        {
+          "scene": "一位中国歌手在国际音乐节上表演，她的歌曲通过网络直播传遍了全球，吸引了来自不同国家的粉丝。",
+          "chineseIdea": "歌手的音乐和表演得到了全球观众的喜爱和认可。",
+          "sentenceWithBlank": "Her performance at the festival earned her @ @ from fans across the globe.",
+          "fullEnglishSentence": "Her performance at the festival earned her 「worldwide recognition」 from fans across the globe.",
+          "chineseTranslation": "她在音乐节上的表演为她赢得了来自全球粉丝的「全球认可」。",
+          "chinglishFix": "典型中式英语：'She is famous all over the world.' 纠正：'She has achieved worldwide fame.'（避免冗长的‘all over the world’，用‘worldwide’更简洁自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "全球性的；世界范围的",
+      "usage": "用作形容词，强调某事物具有全球规模或影响，常用于描述组织、事件或趋势的广泛性。",
+      "collocations": ["worldwide organization", "worldwide phenomenon", "worldwide impact"],
+      "examples": [
+        {
+          "scene": "一家中国的非营利组织致力于解决全球气候变化问题，他们与世界各地的科学家合作，共同研究可持续能源。",
+          "chineseIdea": "这个组织的工作不仅限于中国，而是与全球伙伴合作，解决共同的环境问题。",
+          "sentenceWithBlank": "Their efforts to combat climate change are supported by a @ @.",
+          "fullEnglishSentence": "Their efforts to combat climate change are supported by a 「worldwide organization」.",
+          "chineseTranslation": "他们对抗气候变化的努力得到了一个「全球组织」的支持。",
+          "chinglishFix": "典型中式英语：'They work with the world organization.' 纠正：'They collaborate with a worldwide organization.'（避免不准确的‘world organization’，用‘worldwide’强调全球性。）"
+        },
+        {
+          "scene": "中国的短视频平台在全球掀起了一股模仿舞蹈和挑战的热潮，年轻人在世界各地分享自己的创意视频。",
+          "chineseIdea": "这种社交媒体趋势已经超越国界，成为一种全球年轻人共同参与的文化现象。",
+          "sentenceWithBlank": "The dance challenge has become a @ @ among young people.",
+          "fullEnglishSentence": "The dance challenge has become a 「worldwide phenomenon」 among young people.",
+          "chineseTranslation": "这场舞蹈挑战已成为年轻人中的一种「全球现象」。",
+          "chinglishFix": "典型中式英语：'This is a popular thing in the world.' 纠正：'This has become a worldwide phenomenon.'（避免模糊的‘popular thing’，用‘phenomenon’和‘worldwide’更精确。）"
+        }
+      ]
+    }
+  ]
+}
+```

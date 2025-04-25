@@ -1,0 +1,53 @@
+```json
+{
+  "word": "unintended",
+  "definitions": [
+    {
+      "meaning": "非故意的，未计划的",
+      "usage": "形容某事并非有意为之，通常带有意外或无意识的含义，常用于描述结果、后果或影响。",
+      "collocations": ["unintended consequences", "unintended effect", "unintended impact"],
+      "examples": [
+        {
+          "scene": "一位经理在公司会议上宣布了一项新的政策，旨在提高员工的工作效率。然而，这项政策却意外导致员工感到压力过大，士气低落。",
+          "chineseIdea": "经理的本意是提升效率，但结果却带来了负面影响，这种结果是意外且非计划的。",
+          "sentenceWithBlank": "The new policy led to @ @, as employees felt overwhelmed.",
+          "fullEnglishSentence": "The new policy led to 「unintended consequences」, as employees felt overwhelmed.",
+          "chineseTranslation": "新政策导致了「非预期的后果」，因为员工感到压力过大。",
+          "chinglishFix": "典型中式英语：The new policy caused 'not wanted results.' 纠正：The new policy led to unintended consequences."
+        },
+        {
+          "scene": "一位程序员在更新软件时，试图修复一个小的漏洞，但却意外引入了新的问题，导致用户体验下降。",
+          "chineseIdea": "程序员的本意是改善软件，但却无意中造成了负面的影响。",
+          "sentenceWithBlank": "The software update had an @ @ on user satisfaction.",
+          "fullEnglishSentence": "The software update had an 「unintended effect」 on user satisfaction.",
+          "chineseTranslation": "软件更新对用户满意度产生了「非预期的效果」。",
+          "chinglishFix": "典型中式英语：The update made 'unexpected bad influence.' 纠正：The update had an unintended effect."
+        }
+      ]
+    },
+    {
+      "meaning": "无心的，未预料的",
+      "usage": "强调某行动或行为并非出于主观意愿，通常带有偶然或疏忽的含义，常用于描述行为或事件。",
+      "collocations": ["unintended mistake", "unintended offense", "unintended outcome"],
+      "examples": [
+        {
+          "scene": "在一次朋友聚会上，小明不小心提到一个敏感话题，导致气氛变得尴尬。他其实并没有恶意，只是无心之举。",
+          "chineseIdea": "小明的本意不是让大家尴尬，但他的无心评论却引发了不适。",
+          "sentenceWithBlank": "His comment caused an @ @, making everyone uncomfortable.",
+          "fullEnglishSentence": "His comment caused an 「unintended offense」, making everyone uncomfortable.",
+          "chineseTranslation": "他的评论造成了「无心的冒犯」，让大家感到不舒服。",
+          "chinglishFix": "典型中式英语：His words made 'not planned hurt.' 纠正：His comment caused an unintended offense."
+        },
+        {
+          "scene": "一位老师在课堂上试图用幽默的方式讲解知识，但却因为一个不恰当的例子，意外让学生感到困惑。",
+          "chineseIdea": "老师的本意是让课堂更生动，但无意中选错了例子，导致了意外的结果。",
+          "sentenceWithBlank": "The teacher’s example led to an @ @, confusing the students.",
+          "fullEnglishSentence": "The teacher’s example led to an 「unintended outcome」, confusing the students.",
+          "chineseTranslation": "老师的例子导致了「未预料的结果」，让学生感到困惑。",
+          "chinglishFix": "典型中式英语：The example caused 'not expected confusion.' 纠正：The example led to an unintended outcome."
+        }
+      ]
+    }
+  ]
+}
+```
