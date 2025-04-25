@@ -1,0 +1,53 @@
+```json
+{
+  "word": "define",
+  "definitions": [
+    {
+      "meaning": "To state or describe exactly the nature, scope, or meaning of something",
+      "usage": "Used when giving a clear explanation or description of what something is, often in formal or precise contexts like dictionaries, academic discussions, or legal documents.",
+      "collocations": ["define a term", "define the scope", "define a concept"],
+      "examples": [
+        {
+          "scene": "在大学课堂上，教授正在讲解哲学的基本概念，要求学生准确描述某些抽象词汇的含义。",
+          "chineseIdea": "学生需要清楚地解释一个哲学词汇的含义，比如‘自由’是什么。",
+          "sentenceWithBlank": "In today’s lecture, please @ @ @ of ‘freedom’ in your own words.",
+          "fullEnglishSentence": "In today’s lecture, please 「define a term」 of ‘freedom’ in your own words.",
+          "chineseTranslation": "在今天的讲座中，请用你自己的话「定义一个术语」‘自由’。",
+          "chinglishFix": "Chinglish: 'Explain what is freedom.' Correction: 'Define the term "freedom" in your own words.'"
+        },
+        {
+          "scene": "在一家公司的项目启动会议上，团队负责人需要明确项目的目标和范围，以确保所有成员理解。",
+          "chineseIdea": "负责人需要清晰地描述项目的工作范围，避免后期出现误解。",
+          "sentenceWithBlank": "Before we start, let’s @ @ @ of this project clearly.",
+          "fullEnglishSentence": "Before we start, let’s 「define the scope」 of this project clearly.",
+          "chineseTranslation": "在开始之前，让我们清楚地「定义范围」这个项目。",
+          "chinglishFix": "Chinglish: 'Tell the project’s range.' Correction: 'Define the scope of the project clearly.'"
+        }
+      ]
+    },
+    {
+      "meaning": "To make clear the outline or form of something; to mark the boundaries or limits",
+      "usage": "Used to describe making the edges, shape, or limits of something distinct, often in physical, visual, or metaphorical contexts.",
+      "collocations": ["define the boundaries", "define the shape", "define the limits"],
+      "examples": [
+        {
+          "scene": "在一个城市规划会议上，建筑师正在讨论如何划分新社区的区域。",
+          "chineseIdea": "需要明确地划分出不同区域的边界，比如住宅区和商业区。",
+          "sentenceWithBlank": "The urban planner needs to @ @ @ between residential and commercial zones.",
+          "fullEnglishSentence": "The urban planner needs to 「define the boundaries」 between residential and commercial zones.",
+          "chineseTranslation": "城市规划者需要「划定界限」住宅区和商业区之间。",
+          "chinglishFix": "Chinglish: 'Separate the lines of zones.' Correction: 'Define the boundaries between the zones.'"
+        },
+        {
+          "scene": "在一次艺术课上，老师指导学生如何用线条勾勒物体的形状。",
+          "chineseIdea": "学生需要通过绘画清晰地表现出物体的外形轮廓。",
+          "sentenceWithBlank": "Use bold lines to @ @ @ of the object in your sketch.",
+          "fullEnglishSentence": "Use bold lines to 「define the shape」 of the object in your sketch.",
+          "chineseTranslation": "使用粗线条来「勾勒形状」你的素描中的物体。",
+          "chinglishFix": "Chinglish: 'Draw the form of the object.' Correction: 'Define the shape of the object with bold lines.'"
+        }
+      ]
+    }
+  ]
+}
+```

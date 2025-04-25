@@ -1,0 +1,53 @@
+```json
+{
+  "word": "determination",
+  "definitions": [
+    {
+      "meaning": "坚定的意志或决心",
+      "usage": "指一个人在面对困难或挑战时坚持目标、不轻易放弃的心理状态。通常用于描述对某事的高度承诺或顽强的努力。",
+      "collocations": ["show determination", "with determination", "lack of determination"],
+      "examples": [
+        {
+          "scene": "一个年轻的学生正在准备一场重要的数学竞赛，面对复杂的题目，他感到非常沮丧，但仍然坚持每天练习。",
+          "chineseIdea": "他通过持续的努力和不放弃的态度，展现了对成功的强烈渴望。",
+          "sentenceWithBlank": "Despite the challenges, he @ @ to succeed in the competition.",
+          "fullEnglishSentence": "Despite the challenges, he 「showed determination」 to succeed in the competition.",
+          "chineseTranslation": "尽管面临挑战，他「展现了决心」要在竞赛中成功。",
+          "chinglishFix": "典型中式英语：'He very effort to success.' 纠正：'He showed great determination to succeed.'（避免直接翻译‘努力’为'effort'，应使用更贴切的'determination'来表达坚定意志。）"
+        },
+        {
+          "scene": "一位登山者在攀登一座陡峭的高山时，遇到了恶劣的天气，但他仍然继续前行，专注于登顶。",
+          "chineseIdea": "他凭借顽强的毅力和对目标的执着，克服了艰难的环境。",
+          "sentenceWithBlank": "He climbed the mountain @ @ despite the harsh weather.",
+          "fullEnglishSentence": "He climbed the mountain 「with determination」 despite the harsh weather.",
+          "chineseTranslation": "他「带着决心」攀登这座山，尽管天气恶劣。",
+          "chinglishFix": "典型中式英语：'He climb mountain very strong.' 纠正：'He climbed the mountain with determination.'（避免模糊的‘强’或‘努力’，使用‘with determination’表达坚定态度。）"
+        }
+      ]
+    },
+    {
+      "meaning": "决定或确定",
+      "usage": "指对某一事实、结果或情况的正式确认或决定，通常用于法律、科学或正式情境中。",
+      "collocations": ["make a determination", "final determination", "determination of"],
+      "examples": [
+        {
+          "scene": "一家公司正在调查一起员工投诉事件，经过详细的调查后，管理层需要对责任归属做出结论。",
+          "chineseIdea": "管理层需要通过分析证据，正式确认事件的责任方。",
+          "sentenceWithBlank": "After reviewing the evidence, the committee @ @ @ on the issue.",
+          "fullEnglishSentence": "After reviewing the evidence, the committee 「made a determination」 on the issue.",
+          "chineseTranslation": "在审查证据后，委员会对此问题「做出了决定」。",
+          "chinglishFix": "典型中式英语：'Committee decide the problem.' 纠正：'The committee made a determination on the issue.'（避免直接用‘decide’，‘make a determination’更适合正式决定。）"
+        },
+        {
+          "scene": "科学家们在实验室中分析一种新发现的化学物质，以确认其成分和性质。",
+          "chineseIdea": "他们通过实验和数据分析，确定了物质的具体特性。",
+          "sentenceWithBlank": "The researchers completed the @ @ the substance’s properties.",
+          "fullEnglishSentence": "The researchers completed the 「determination of」 the substance’s properties.",
+          "chineseTranslation": "研究人员完成了对物质属性的「确定」。",
+          "chinglishFix": "典型中式英语：'They finish to know the substance.' 纠正：'They completed the determination of the substance’s properties.'（避免模糊的‘know’或‘finish’，使用‘determination of’表示科学确认。）"
+        }
+      ]
+    }
+  ]
+}
+```

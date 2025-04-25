@@ -1,0 +1,53 @@
+```json
+{
+  "word": "emergence",
+  "definitions": [
+    {
+      "meaning": "出现、浮现，某事物开始存在或变得明显的过程",
+      "usage": "通常用于描述某事物（如现象、趋势、问题等）逐渐显现或变得显著，尤其在自然、社会或科学背景下。",
+      "collocations": ["the emergence of", "rapid emergence", "gradual emergence"],
+      "examples": [
+        {
+          "scene": "在一个快速发展的城市，新的科技公司如雨后春笋般涌现，改变了当地的经济格局。",
+          "chineseIdea": "描述一种新事物（比如公司或技术）逐渐出现在公众视野，并开始产生影响的过程。",
+          "sentenceWithBlank": "The @ @ @ new tech startups has transformed the city’s economy.",
+          "fullEnglishSentence": "The 「emergence of」 new tech startups has transformed the city’s economy.",
+          "chineseTranslation": "新科技初创公司的「出现」改变了城市的经济。",
+          "chinglishFix": "典型中式英语：'New tech startups appear'（直接翻译“出现”）。纠正：使用'the emergence of new tech startups'，更符合英语中描述某事物逐渐显现的习惯表达。"
+        },
+        {
+          "scene": "在一场全球会议上，专家们注意到一种新的消费趋势正在迅速形成，影响着市场策略。",
+          "chineseIdea": "强调某事物（比如趋势或模式）快速变得显著，引起广泛关注。",
+          "sentenceWithBlank": "Experts noted the @ @ of a new consumer trend during the conference.",
+          "fullEnglishSentence": "Experts noted the 「rapid emergence」 of a new consumer trend during the conference.",
+          "chineseTranslation": "专家们在会议上注意到一种新的消费趋势的「迅速出现」。",
+          "chinglishFix": "典型中式英语：'A new trend quickly appeared'（直接翻译“快速出现”）。纠正：使用'the rapid emergence of a new trend'，体现英语中趋势逐渐显现的正式表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "从隐藏或不明显的状态中显现出来",
+      "usage": "常用于描述某人、某物从隐蔽、未知或次要状态中脱颖而出，变得显著或为人所知，带有一种‘崭露头角’的含义。",
+      "collocations": ["emergence as", "emergence from", "sudden emergence"],
+      "examples": [
+        {
+          "scene": "一个年轻歌手在网络平台上发布了一首歌曲后，迅速走红，成为音乐界的新星。",
+          "chineseIdea": "描述某人从默默无闻到成为众人瞩目焦点的过程。",
+          "sentenceWithBlank": "Her @ @ a pop star was unexpected but туда: "Her 「emergence as」 a pop star was unexpected.",
+          "fullEnglishSentence": "Her 「emergence as」 a pop star was unexpected.",
+          "chineseTranslation": "她「作为」流行歌手的崭露头角出人意料。",
+          "chinglishFix": "典型中式英语：'She appeared as a pop star'（直接翻译“出现为”）。纠正：使用'emergence as a pop star'，更符合英语中描述崭露头角的习惯表达。"
+        },
+        {
+          "scene": "在一场危机中，一个默默无闻的员工提出了关键的解决方案，赢得了团队的尊重。",
+          "chineseIdea": "描述某人从不为人知的状态中脱颖而出，展现出能力和价值。",
+          "sentenceWithBlank": "His @ @ obscurity to leadership was remarkable.",
+          "fullEnglishSentence": "His 「emergence from」 obscurity to leadership was remarkable.",
+          "chineseTranslation": "他「从」默默无闻「到」领导地位的显现令人瞩目。",
+          "chinglishFix": "典型中式英语：'He appeared from unknown to leader'（直接翻译“从未知到领导”）。纠正：使用'emergence from obscurity to leadership'，更自然地表达从隐蔽到显著的过程。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "evolution",
+  "definitions": [
+    {
+      "meaning": "生物学上的进化，指物种通过遗传变异和自然选择随时间逐渐变化的过程",
+      "usage": "通常用于描述生物学中物种的起源和变化，常与自然选择、遗传、适应等概念相关联。",
+      "collocations": ["natural selection", "genetic mutation", "species adaptation"],
+      "examples": [
+        {
+          "scene": "在一所大学的生物学课堂上，教授正在讲解达尔文的理论，学生们讨论物种如何随着时间变化。",
+          "chineseIdea": "我想表达物种如何通过环境压力和遗传变化逐渐形成新的特性。",
+          "sentenceWithBlank": "The theory of @ @ explains how species evolve over time through survival of the fittest.",
+          "fullEnglishSentence": "The theory of 「natural selection」 explains how species evolve over time through survival of the fittest.",
+          "chineseTranslation": "「自然选择」的理论解释了物种如何通过适者生存随时间演变。",
+          "chinglishFix": "典型中式英语：'Species change by nature choose.' 纠正：'Species evolve through natural selection.'"
+        },
+        {
+          "scene": "在动物园的讲解活动中，导游向游客介绍某种鸟类的羽毛颜色如何因环境变化而不同。",
+          "chineseIdea": "我想说明这种鸟类的羽毛颜色变化是由于基因的变化导致的。",
+          "sentenceWithBlank": "The bird’s vibrant colors are a result of @ @ over generations.",
+          "fullEnglishSentence": "The bird’s vibrant colors are a result of 「genetic mutation」 over generations.",
+          "chineseTranslation": "这种鸟类鲜艳的颜色是世代「基因突变」的结果。",
+          "chinglishFix": "典型中式英语：'Bird color change by gene change.' 纠正：'The bird’s colors evolved due to genetic mutations.'"
+        }
+      ]
+    },
+    {
+      "meaning": "事物逐渐发展和改进的过程，常用于描述技术、思想或社会结构的变迁",
+      "usage": "常用于非生物学语境，指某事物（如技术、观念、文化等）随时间逐步发展和完善的过程。",
+      "col alapján": ["technological advancement", "cultural shift", "social change"],
+      "examples": [
+        {
+          "scene": "在科技公司的产品发布会上，发言人介绍智能手机从按键手机到触屏设备的变迁。",
+          "chineseIdea": "我想表达智能手机的功能和设计如何随时间显著改进。",
+          "sentenceWithBlank": "The @ @ of smartphones has transformed how we communicate.",
+          "fullEnglishSentence": "The 「technological advancement」 of smartphones has transformed how we communicate.",
+          "chineseTranslation": "智能手机的「技术进步」改变了我们的沟通方式。",
+          "chinglishFix": "典型中式英语：'Smartphone become better by technology.' 纠正：'Smartphones have evolved through technological advancements.'"
+        },
+        {
+          "scene": "在历史课上，老师讲解过去几十年间社会对环境保护态度的变化。",
+          "chineseIdea": "我想说明人们对环境保护的看法如何随时间变得更加重视。",
+          "sentenceWithBlank": "The @ @ in public attitudes has led to stronger environmental policies.",
+          "fullEnglishSentence": "The 「cultural shift」 in public attitudes has led to stronger environmental policies.",
+          "chineseTranslation": "公众态度的「文化转变」促成了更严格的环境政策。",
+          "chinglishFix": "典型中式英语：'People’s mind change to protect environment.' 纠正：'A cultural shift in attitudes has driven stronger environmental policies.'"
+        }
+      ]
+    }
+  ]
+}
+```
