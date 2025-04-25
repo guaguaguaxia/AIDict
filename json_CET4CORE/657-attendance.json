@@ -1,0 +1,53 @@
+```json
+{
+  "word": "attendance",
+  "definitions": [
+    {
+      "meaning": "参加或出席某活动或事件",
+      "usage": "指某人出现在特定场合，如会议、课堂、活动等，通常强调物理上的在场。常用于正式或半正式语境。",
+      "collocations": ["attend a meeting", "regular attendance", "mandatory attendance"],
+      "examples": [
+        {
+          "scene": "在一所大学里，教授正在点名，确保学生们都来上课。课堂出勤率直接影响学生的最终成绩。",
+          "chineseIdea": "学生需要亲自到教室上课，以确保他们在课程中积极参与。",
+          "sentenceWithBlank": "All students are expected to @ @ @ to ensure they stay engaged with the course material.",
+          "fullEnglishSentence": "All students are expected to 「attend a meeting」 to ensure they stay engaged with the course material.",
+          "chineseTranslation": "所有学生都被期望「参加会议」以确保他们与课程材料保持互动。",
+          "chinglishFix": "典型中式英语：'Students must join the class.' 纠正：'Join' 更常用于俱乐部或组织，课堂出勤应使用 'attend a class' 或 'be present in class'。"
+        },
+        {
+          "scene": "在一家公司，员工需要参加每周的团队会议，以讨论项目进展和分配任务。",
+          "chineseIdea": "员工按时参加会议，表明他们对工作的重视和责任感。",
+          "sentenceWithBlank": "Her @ @ shows her commitment to the team's goals.",
+          "fullEnglishSentence": "Her 「regular attendance」 shows her commitment to the team's goals.",
+          "chineseTranslation": "她的「定期出席」表明她对团队目标的承诺。",
+          "chinglishFix": "典型中式英语：'She always comes to meetings.' 纠正：'Come' 显得口语化且不够正式，'regular attendance' 更能体现持续性和正式性。"
+        }
+      ]
+    },
+    {
+      "meaning": "出勤率或出席人数",
+      "usage": "指某活动或场合的参与人数，或某人出勤的频率。常用于统计或描述整体参与情况。",
+      "collocations": ["high attendance", "low attendance", "track attendance"],
+      "examples": [
+        {
+          "scene": "在一场社区举办的慈善音乐会上，组织者惊讶地发现观众人数远远超过预期。",
+          "chineseIdea": "很多人来到现场支持慈善活动，显示了社区的凝聚力。",
+          "sentenceWithBlank": "The event saw @ @, with over 500 people showing up to support the cause.",
+          "fullEnglishSentence": "The event saw 「high attendance」, with over 500 people showing up to support the cause.",
+          "chineseTranslation": "活动有「高出勤率」，超过500人到场支持这项事业。",
+          "chinglishFix": "典型中式英语：'Many people attended.' 纠正：'Attend' 是动词，直接用在此处不够具体，'high attendance' 更适合描述人数统计。"
+        },
+        {
+          "scene": "在一所小学，老师使用电子系统记录学生的出勤情况，以便向家长报告。",
+          "chineseIdea": "学校需要监控学生是否按时上课，以确保教育质量。",
+          "sentenceWithBlank": "The school uses an app to @ @, making it easier to inform parents about absences.",
+          "fullEnglishSentence": "The school uses an app to 「track attendance」, making it easier to inform parents about absences.",
+          "chineseTranslation": "学校使用一个应用程序来「跟踪出勤」，使通知家长缺勤情况更加方便。",
+          "chinglishFix": "典型中式英语：'The school checks who comes to class.' 纠正：'Check' 和 'come' 显得过于简单，'track attendance' 更专业且符合语境。"
+        }
+      ]
+    }
+  ]
+}
+```

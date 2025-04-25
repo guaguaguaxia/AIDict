@@ -1,0 +1,53 @@
+```json
+{
+  "word": "council",
+  "definitions": [
+    {
+      "meaning": "由一群人组成的行政或顾问团体，通常在政府或组织中负责决策或提供建议",
+      "usage": "指一个正式的团体，通常由选举或任命的成员组成，负责管理、制定政策或提供建议，常用于地方政府、机构或组织。",
+      "collocations": ["city council", "student council", "advisory council"],
+      "examples": [
+        {
+          "scene": "在一个小城市里，居民们对新建一个大型购物中心的提案感到担忧。他们希望通过当地的管理机构表达意见，并希望这个机构能够重新考虑规划。",
+          "chineseIdea": "居民希望通过与负责城市事务的团体沟通，影响决策，保护社区环境。",
+          "sentenceWithBlank": "The residents voiced their concerns at the @ @ meeting.",
+          "fullEnglishSentence": "The residents voiced their concerns at the 「city council」 meeting.",
+          "chineseTranslation": "居民们在「市议会」会议上表达了他们的担忧。",
+          "chinglishFix": "典型中式英语：'The residents talked their worries in the city meeting.' 纠正：'The residents voiced their concerns at the city council meeting.'（使用'voiced concerns'表达正式诉求，明确'city council'为正确机构名称）"
+        },
+        {
+          "scene": "在一所大学里，学生们希望改善校园的餐饮服务。他们决定通过一个由学生代表组成的组织提出建议，并推动食堂增加健康食品选项。",
+          "chineseIdea": "学生希望通过代表他们的团体向学校管理层提出改进建议，解决实际问题。",
+          "sentenceWithBlank": "The @ @ organized a survey to gather opinions on campus dining.",
+          "fullEnglishSentence": "The 「student council」 organized a survey to gather opinions on campus dining.",
+          "chineseTranslation": "「学生会」组织了一项调查，收集关于校园餐饮的意见。",
+          "chinglishFix": "典型中式英语：'The student group made a survey for food.' 纠正：'The student council organized a survey to gather opinions on campus dining.'（明确'student council'为学生会，'organized a survey'更符合正式表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "顾问委员会或咨询团体，通常为特定领域或项目提供专业建议",
+      "usage": "指为特定目的而成立的顾问团体，通常由专家或利益相关者组成，提供专业意见或指导，常用于商业、学术或国际组织。",
+      "collocations": ["advisory council", "executive council", "research council"],
+      "examples": [
+        {
+          "scene": "一家科技公司正在开发一款新产品，但面临技术难题。他们组建了一个由行业专家组成的团队，为项目提供战略指导。",
+          "chineseIdea": "公司希望通过专家的建议解决技术问题并优化产品开发。",
+          "sentenceWithBlank": "The company consulted the @ @ for technical guidance.",
+          "fullEnglishSentence": "The company consulted the 「advisory council」 for technical guidance.",
+          "chineseTranslation": "公司向「顾问委员会」咨询了技术指导。",
+          "chinglishFix": "典型中式英语：'The company asked the expert group for help.' 纠正：'The company consulted the advisory council for technical guidance.'（'consulted'更适合正式咨询，'advisory council'明确团体性质）"
+        },
+        {
+          "scene": "一个国际组织正在研究气候变化的影响，需要资金支持来开展大型项目。他们向一个专门管理研究资金的机构提交了申请。",
+          "chineseIdea": "组织希望通过专业的资助机构获得支持，推动研究项目。",
+          "sentenceWithBlank": "The organization applied for funding from the @ @.",
+          "fullEnglishSentence": "The organization applied for funding from the 「research council」.",
+          "chineseTranslation": "该组织向「研究委员会」申请了资助。",
+          "chinglishFix": "典型中式英语：'The organization asked money from the research group.' 纠正：'The organization applied for funding from the research council.'（'applied for funding'为正确表达，'research council'更准确）"
+        }
+      ]
+    }
+  ]
+}
+```

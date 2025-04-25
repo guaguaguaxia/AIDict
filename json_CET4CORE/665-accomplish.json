@@ -1,0 +1,53 @@
+```json
+{
+  "word": "accomplish",
+  "definitions": [
+    {
+      "meaning": "成功完成某件事（通常指需要努力或技能的任务）",
+      "usage": "指通过努力、计划或技能实现目标或完成任务，常用于描述有一定挑战性或重要性的事情。",
+      "collocations": ["accomplish a goal", "accomplish a task", "accomplish a mission"],
+      "examples": [
+        {
+          "scene": "一位年轻人在公司努力工作，最终成功完成了一个重要的项目，得到了同事和上司的认可。",
+          "chineseIdea": "通过坚持不懈的努力，年轻人实现了自己的职业目标，证明了自己的能力。",
+          "sentenceWithBlank": "After months of hard work, she finally @ @ @ and earned a promotion.",
+          "fullEnglishSentence": "After months of hard work, she finally 「accomplished a goal」 and earned a promotion.",
+          "chineseTranslation": "经过几个月的努力，她终于「实现了一个目标」并获得了晋升。",
+          "chinglishFix": "典型中式英语：She finished a goal. 纠正：'Finish' 不适用于抽象目标，正确表达是 'accomplish a goal' 或 'achieve a goal'。"
+        },
+        {
+          "scene": "一名学生在学期末通过不懈努力，完成了所有作业和考试，取得了优异的成绩。",
+          "chineseIdea": "学生通过合理安排时间和专注学习，成功完成了学期的学习任务。",
+          "sentenceWithBlank": "By staying organized, he @ @ @ before the deadline.",
+          "fullEnglishSentence": "By staying organized, he 「accomplished a task」 before the deadline.",
+          "chineseTranslation": "通过保持条理，他「完成了一项任务」并在截止日期前提交。",
+          "chinglishFix": "典型中式英语：He finished a task very good. 纠正：'Finish' 虽可用于任务，但语气较平淡，且 'very good' 不自然。正确表达是 'accomplished a task successfully' 或 'completed a task well'。"
+        }
+      ]
+    },
+    {
+      "meaning": "达成某项成就或取得成功（强调结果的显著性）",
+      "usage": "指取得显著的成就或成功，常用于描述个人或团队在某领域取得的重大成果。",
+      "collocations": ["accomplish a feat", "accomplish great things", "accomplish a dream"],
+      "examples": [
+        {
+          "scene": "一位登山者在多次失败后，终于登上了世界最高的山峰，成为团队的骄傲。",
+          "chineseIdea": "登山者凭借毅力和勇气，克服重重困难，完成了非凡的壮举。",
+          "sentenceWithBlank": "With determination, she @ @ @ by reaching the summit.",
+          "fullEnglishSentence": "With determination, she 「accomplished a feat」 by reaching the summit.",
+          "chineseTranslation": "凭借决心，她「完成了一项壮举」，成功登顶。",
+          "chinglishFix": "典型中式英语：She finished a big thing. 纠正：'Finish a big thing' 过于笼统且不正式，正确表达是 'accomplished a feat' 或 'achieved a great accomplishment'。"
+        },
+        {
+          "scene": "一位创业者从小城市起步，通过多年努力建立了一家成功的企业。",
+          "chineseIdea": "创业者通过坚持梦想和不断创新，最终实现了自己的远大目标。",
+          "sentenceWithBlank": "Through years of hard work, he @ @ @ and built a thriving company.",
+          "fullEnglishSentence": "Through years of hard work, he 「accomplished a dream」 and built a thriving company.",
+          "chineseTranslation": "通过多年的努力，他「实现了一个梦想」，建立了一家蓬勃发展的公司。",
+          "chinglishFix": "典型中式英语：He finished his dream. 纠正：'Finish a dream' 不符合英语表达习惯，正确表达是 'accomplished a dream' 或 'realized a dream'。"
+        }
+      ]
+    }
+  ]
+}
+```

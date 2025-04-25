@@ -1,0 +1,76 @@
+```json
+{
+  "word": "convey",
+  "definitions": [
+    {
+      "meaning": "传递信息、想法或感情",
+      "usage": "指通过语言、文字、表情或行为等方式将信息、情感或意图传递给他人，常用于正式或非正式交流中。",
+      "collocations": ["convey a message", "convey an idea", "convey emotions"],
+      "examples": [
+        {
+          "scene": "在一场公司会议中，经理需要向团队解释新项目的目标和重要性。",
+          "chineseIdea": "经理希望通过清晰的语言和具体的例子，让团队理解项目的意义。",
+          "sentenceWithBlank": "The manager used a detailed presentation to @ @ @ to the team.",
+          "fullEnglishSentence": "The manager used a detailed presentation to 「convey a message」 to the team.",
+          "chineseTranslation": "经理通过详细的演示文稿向团队「传递信息」。",
+          "chinglishFix": "典型中式英语：'The manager used a presentation to tell the message.' 纠正：'Tell the message' 显得生硬且不地道，应改为 'convey a message' 以更自然地表达传递信息。"
+        },
+        {
+          "scene": "在一次朋友聚会上，小明分享了自己对未来职业的规划，引起了大家的共鸣。",
+          "chineseIdea": "小明希望通过自己的叙述，让朋友们感受到他的热情和决心。",
+          "sentenceWithBlank": "Xiaoming shared his career plans passionately to @ @ @ to his friends.",
+          "fullEnglishSentence": "Xiaoming shared his career plans passionately to 「convey an idea」 to his friends.",
+          "chineseTranslation": "小明热情地分享了他的职业规划，以向朋友们「传递想法」。",
+          "chinglishFix": "典型中式英语：'Xiaoming shared his plans to express his idea.' 纠正：'Express his idea' 不够具体且稍显冗余，'convey an idea' 更简洁且符合英语表达习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "运输或携带某物从一处到另一处",
+      "usage": "指物理上将物体或人从一个地点运送到另一个地点，通常用于描述交通工具或运输系统。",
+      "collocations": ["convey goods", "convey passengers", "convey materials"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的港口，货船正在装载来自世界各地的货物。",
+          "chineseIdea": "港口工作人员需要确保货物被安全地运输到目的地。",
+          "sentenceWithBlank": "The ship was used to @ @ @ from Asia to Europe.",
+          "fullEnglishSentence": "The ship was used to 「convey goods」 from Asia to Europe.",
+          "chineseTranslation": "这艘船被用来将「运输货物」从亚洲到欧洲。",
+          "chinglishFix": "典型中式英语：'The ship was used to send goods.' 纠正：'Send goods' 过于笼统且缺乏专业性，'convey goods' 更精确地描述运输过程。"
+        },
+        {
+          "scene": "在城市地铁系统中，新型列车被引入以提高运输效率。",
+          "chineseIdea": "地铁公司希望通过新列车更快地将乘客送达目的地。",
+          "sentenceWithBlank": "The new trains were designed to @ @ @ more efficiently.",
+          "fullEnglishSentence": "The new trains were designed to 「convey passengers」 more efficiently.",
+          "chineseTranslation": "新型列车被设计来更高效地「运输乘客」。",
+          "chinglishFix": "典型中式英语：'The trains carry people more efficiently.' 纠正：'Carry people' 虽然可理解，但 'convey passengers' 在交通语境中更正式且常见。"
+        }
+      ]
+    },
+    {
+      "meaning": "法律上转移财产或权利",
+      "usage": "在法律语境中，指将财产、土地或权利从一方正式转移到另一方，通常涉及书面文件。",
+      "collocations": ["convey property", "convey ownership", "convey a title"],
+      "examples": [
+        {
+          "scene": "在一场房产交易中，卖家需要将房子的所有权正式交给买家。",
+          "chineseIdea": "卖家通过签署法律文件，确保房子所有权合法转移。",
+          "sentenceWithBlank": "The seller signed a deed to @ @ @ to the buyer.",
+          "fullEnglishSentence": "The seller signed a deed to 「convey property」 to the buyer.",
+          "chineseTranslation": "卖家签署了一份契约，将「转移房产」给买家。",
+          "chinglishFix": "典型中式英语：'The seller gave the property to the buyer.' 纠正：'Gave the property' 过于口语化且缺乏法律正式性，'convey property' 是法律语境中的标准表达。"
+        },
+        {
+          "scene": "在一家公司并购中，原公司所有者需要将公司控制权移交。",
+          "chineseIdea": "原所有者通过法律程序正式将公司所有权移交新买家。",
+          "sentenceWithBlank": "The agreement was finalized to @ @ @ to the new owner.",
+          "fullEnglishSentence": "The agreement was finalized to 「convey ownership」 to the new owner.",
+          "chineseTranslation": "协议最终确定，将「转移所有权」给新业主。",
+          "chinglishFix": "典型中式英语：'The agreement was to pass ownership.' 纠正：'Pass ownership' 不够正式且不常用于法律语境，'convey ownership' 是更合适的表达。"
+        }
+      ]
+    }
+  ]
+}
+```
