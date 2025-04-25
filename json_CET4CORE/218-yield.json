@@ -1,0 +1,76 @@
+```json
+{
+  "word": "yield",
+  "definitions": [
+    {
+      "meaning": "生产或提供（农作物、产品、结果等）",
+      "usage": "主要用于描述农业、工业或自然过程中生产出某种产出，常与农作物、产品或数据相关。",
+      "collocations": ["high yield", "crop yield", "yield results"],
+      "examples": [
+        {
+          "scene": "一个中国农民在春季检查自己的稻田，观察水稻的生长情况，希望今年能有好的收成。",
+          "chineseIdea": "农民希望通过精心的耕作和施肥，让稻田生产更多的稻米。",
+          "sentenceWithBlank": "With improved farming techniques, the fields produced a @ @ this year.",
+          "fullEnglishSentence": "With improved farming techniques, the fields produced a 「high yield」 this year.",
+          "chineseTranslation": "通过改进农业技术，田地今年生产了「高产量」。",
+          "chinglishFix": "典型中式英语：'The fields give many rice.' 纠正：'The fields produced a high yield of rice.'"
+        },
+        {
+          "scene": "一位农业科学家在实验室中分析不同土壤对小麦生长的影响，记录每块实验田的收成数据。",
+          "chineseIdea": "科学家希望通过实验找到能让小麦产出更多的土壤类型。",
+          "sentenceWithBlank": "The new soil composition significantly increased the @ @ in our experiments.",
+          "fullEnglishSentence": "The new soil composition significantly increased the 「crop yield」 in our experiments.",
+          "chineseTranslation": "新的土壤成分显著提高了我们实验中的「作物产量」。",
+          "chinglishFix": "典型中式英语：'The soil makes more wheat.' 纠正：'The soil composition increased the crop yield.'"
+        }
+      ]
+    },
+    {
+      "meaning": "产生（利益、回报或效果）",
+      "usage": "常用于金融、投资或抽象情境中，指某事物带来回报、利润或某种结果。",
+      "collocations": ["yield a profit", "yield benefits", "yield positive outcomes"],
+      "examples": [
+        {
+          "scene": "一位中国投资者在研究股票市场，决定投资一家科技公司，希望获得长期回报。",
+          "chineseIdea": "投资者希望通过购买股票获得可观的财务回报。",
+          "sentenceWithBlank": "Her investment in the tech startup began to @ @ @ after two years.",
+          "fullEnglishSentence": "Her investment in the tech startup began to 「yield a profit」 after two years.",
+          "chineseTranslation": "她在科技初创公司的投资两年后开始「产生利润」。",
+          "chinglishFix": "典型中式英语：'Her money gives profit.' 纠正：'Her investment yielded a profit.'"
+        },
+        {
+          "scene": "一家公司实施新的员工培训计划，希望提高团队效率和协作能力。",
+          "chineseIdea": "公司希望培训能带来更好的工作表现和团队合作。",
+          "sentenceWithBlank": "The training program is expected to @ @ for the entire team.",
+          "fullEnglishSentence": "The training program is expected to 「yield benefits」 for the entire team.",
+          "chineseTranslation": "培训计划预计将为整个团队「带来益处」。",
+          "chinglishFix": "典型中式英语：'The training makes good results.' 纠正：'The training yields benefits.'"
+        }
+      ]
+    },
+    {
+      "meaning": "让步或屈服",
+      "usage": "指在压力、争论或竞争中放弃立场，或向某人/某事屈服，常见于描述人际关系或谈判。",
+      "collocations": ["yield to pressure", "yield to demands", "yield ground"],
+      "examples": [
+        {
+          "scene": "在家庭聚会上，父母与青少年孩子争论假期计划，父母最终妥协，同意孩子的选择。",
+          "chineseIdea": "父母不想继续争吵，决定顺从孩子的意愿。",
+          "sentenceWithBlank": "After hours of debate, the parents finally @ @ @ from their son.",
+          "fullEnglishSentence": "After hours of debate, the parents finally 「yielded to demands」 from their son.",
+          "chineseTranslation": "经过数小时的争论，父母最终「屈服于儿子的要求」。",
+          "chinglishFix": "典型中式英语：'Parents agree with son’s ask.' 纠正：'The parents yielded to their son’s demands.'"
+        },
+        {
+          "scene": "在商务谈判中，一家公司面对客户的强烈反对，决定在价格上做出让步。",
+          "chineseIdea": "公司为了达成交易，愿意在某些条件上妥协。",
+          "sentenceWithBlank": "To secure the deal, the company had to @ @ to the client’s objections.",
+          "fullEnglishSentence": "To secure the deal, the company had to 「yield ground」 to the client’s objections.",
+          "chineseTranslation": "为了达成交易，公司不得不对客户的反对意见「让步」。",
+          "chinglishFix": "典型中式英语：'The company gives up to client.' 纠正：'The company yielded ground to the client.'"
+        }
+      ]
+    }
+  ]
+}
+```
