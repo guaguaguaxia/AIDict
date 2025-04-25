@@ -1,0 +1,53 @@
+```json
+{
+  "word": "obstacle",
+  "definitions": [
+    {
+      "meaning": "物理或抽象的阻碍物，阻止前进或达成目标的事物",
+      "usage": "指任何形式的障碍，可以是具体的物体（如墙、栅栏），也可以是抽象的困难（如语言障碍、财务问题）。常用于描述需要克服的挑战。",
+      "collocations": ["face an obstacle", "overcome an obstacle", "remove an obstacle"],
+      "examples": [
+        {
+          "scene": "一个年轻人在准备马拉松比赛时，训练场地附近正在施工，道路被封锁，他需要绕路跑步，增加了训练难度。",
+          "chineseIdea": "他意识到施工封路是一个需要解决的困难，因为它干扰了他的训练计划。",
+          "sentenceWithBlank": "The construction work meant he had to @ @ @ every day, slowing his progress.",
+          "fullEnglishSentence": "The construction work meant he had to 「face an obstacle」 every day, slowing his progress.",
+          "chineseTranslation": "施工意味着他每天都要「面对一个障碍」，这减缓了他的进度。",
+          "chinglishFix": "中式英语：'He met a problem in his training.' 纠正：'He faced an obstacle in his training.'（'meet a problem' 不够具体，且不常用于描述挑战，'face an obstacle' 更自然。）"
+        },
+        {
+          "scene": "一名学生申请国外大学，但她的家庭经济状况有限，学费和生活费成为她实现梦想的阻碍。",
+          "chineseIdea": "她需要找到方法来解决经济困难，以继续她的学业目标。",
+          "sentenceWithBlank": "She worked hard to @ @ @ posed by her financial situation.",
+          "fullEnglishSentence": "She worked hard to 「overcome an obstacle」 posed by her financial situation.",
+          "chineseTranslation": "她努力工作以「克服一个障碍」，这个障碍是由她的经济状况造成的。",
+          "chinglishFix": "中式英语：'She tried to solve the money problem.' 纠正：'She worked to overcome the financial obstacle.'（'solve the money problem' 听起来生硬，'overcome the financial obstacle' 更符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "竞赛中的障碍物，特指体育活动中设置的物体",
+      "usage": "在体育比赛（如障碍赛跑、越野赛）中，指需要跨越或绕过的物理物体，如栏杆、绳网等。",
+      "collocations": ["clear an obstacle", "navigate an obstacle", "set up an obstacle"],
+      "examples": [
+        {
+          "scene": "在一场学校运动会的障碍赛跑中，学生需要跳过栏杆、爬过绳网，比赛充满挑战。",
+          "chineseIdea": "参赛者需要快速而熟练地通过这些设置好的物体，以赢得比赛。",
+          "sentenceWithBlank": "He trained daily to @ @ @ smoothly during the race.",
+          "fullEnglishSentence": "He trained daily to 「clear an obstacle」 smoothly during the race.",
+          "chineseTranslation": "他每天训练以在比赛中「清除一个障碍」时更加顺畅。",
+          "chinglishFix": "中式英语：'He practiced to pass the barrier.' 纠正：'He practiced to clear the obstacle.'（'pass the barrier' 不常用于体育场景，'clear the obstacle' 是更地道的表达。）"
+        },
+        {
+          "scene": "一个户外团队建设活动中，员工需要合作通过一个复杂的绳网和木板组成的挑战区域。",
+          "chineseIdea": "团队需要策略性地移动身体，以顺利通过这些人为设置的物体。",
+          "sentenceWithBlank": "The team worked together to @ @ @ with minimal delays.",
+          "fullEnglishSentence": "The team worked together to 「navigate an obstacle」 with minimal delays.",
+          "chineseTranslation": "团队合作以「导航一个障碍」，尽量减少延误。",
+          "chinglishFix": "中式英语：'They tried to go through the barrier.' 纠正：'They worked to navigate the obstacle.'（'go through the barrier' 不够精确，'navigate the obstacle' 更适合描述团队协作通过复杂障碍。）"
+        }
+      ]
+    }
+  ]
+}
+```

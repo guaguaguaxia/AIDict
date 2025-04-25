@@ -1,0 +1,76 @@
+```json
+{
+  "word": "primary",
+  "definitions": [
+    {
+      "meaning": "主要的，最重要的",
+      "usage": "指某事物在重要性、优先级或地位上居于首位，通常用于描述最基本或最核心的内容。",
+      "collocations": ["primary concern", "primary goal", "primary source"],
+      "examples": [
+        {
+          "scene": "在一场公司会议中，讨论年度计划时，经理需要强调最重要的任务。",
+          "chineseIdea": "经理想要表达某个目标是公司当前最优先考虑的事情。",
+          "sentenceWithBlank": "Our @ @ this year is to improve customer satisfaction.",
+          "fullEnglishSentence": "Our 「primary goal」 this year is to improve customer satisfaction.",
+          "chineseTranslation": "我们今年的「主要目标」是提升客户满意度。",
+          "chinglishFix": "典型中式英语：'Our first goal is improve customer satisfaction.' 纠正：'Our primary goal is to improve customer satisfaction.'（注意使用'primary'而非'first'，并添加不定式'to'）"
+        },
+        {
+          "scene": "在学术研究中，学生需要引用最权威的资料来支持论点。",
+          "chineseIdea": "学生想要说明他们依赖的是最可靠的信息来源。",
+          "sentenceWithBlank": "We relied on a @ @ for our historical data.",
+          "fullEnglishSentence": "We relied on a 「primary source」 for our historical data.",
+          "chineseTranslation": "我们依赖「主要来源」获取历史数据。",
+          "chinglishFix": "典型中式英语：'We used main source for data.' 纠正：'We relied on a primary source for our historical data.'（使用'primary source'作为固定搭配，注意冠词'a'和介词'on'）"
+        }
+      ]
+    },
+    {
+      "meaning": "初级的，基础的",
+      "usage": "指某事物处于起始阶段或基础层次，通常用于描述教育、发展阶段或基本结构。",
+      "collocations": ["primary education", "primary stage", "primary level"],
+      "examples": [
+        {
+          "scene": "在家长会上，老师向家长介绍学校的教学体系，提到孩子最初的学习阶段。",
+          "chineseIdea": "老师想说明孩子在6-12岁接受的是基础教育。",
+          "sentenceWithBlank": "Children receive @ @ between the ages of 6 and 12.",
+          "fullEnglishSentence": "Children receive 「primary education」 between the ages of 6 and 12.",
+          "chineseTranslation": "孩子们在6到12岁之间接受「初等教育」。",
+          "chinglishFix": "典型中式英语：'Children study basic education at 6 to 12.' 纠正：'Children receive primary education between the ages of 6 and 12.'（使用'primary education'，注意'receive'和介词'between'）"
+        },
+        {
+          "scene": "在项目开发会议上，工程师讨论产品设计的初期阶段。",
+          "chineseIdea": "工程师想表达目前项目还处于初步设计阶段。",
+          "sentenceWithBlank": "The project is still in its @ @ of development.",
+          "fullEnglishSentence": "The project is still in its 「primary stage」 of development.",
+          "chineseTranslation": "该项目仍处于其「初步阶段」的开发中。",
+          "chinglishFix": "典型中式英语：'The project is in first stage.' 纠正：'The project is still in its primary stage of development.'（使用'primary stage'，注意'its'和介词'of'）"
+        }
+      ]
+    },
+    {
+      "meaning": "原始的，最初的",
+      "usage": "指某事物是最早的或未经加工的，通常用于描述原始数据、原始材料或最初的状态。",
+      "collocations": ["primary data", "primary material", "primary evidence"],
+      "examples": [
+        {
+          "scene": "在科学研究中，研究人员需要收集最原始的数据来分析实验结果。",
+          "chineseIdea": "研究人员想要说明他们直接从实验中获取的数据是最可靠的。",
+          "sentenceWithBlank": "We collected @ @ directly from the experiments.",
+          "fullEnglishSentence": "We collected 「primary data」 directly from the experiments.",
+          "chineseTranslation": "我们直接从实验中收集了「原始数据」。",
+          "chinglishFix": "典型中式英语：'We got original data from experiments.' 纠正：'We collected primary data directly from the experiments.'（使用'primary data'，注意'collected'和'directly'）"
+        },
+        {
+          "scene": "在法庭上，律师需要提供最直接的证据来支持案件。",
+          "chineseIdea": "律师想强调他们提供的证据是直接从现场获取的。",
+          "sentenceWithBlank": "The lawyer presented @ @ from the crime scene.",
+          "fullEnglishSentence": "The lawyer presented 「primary evidence」 from the crime scene.",
+          "chineseTranslation": "律师展示了来自犯罪现场的「原始证据」。",
+          "chinglishFix": "典型中式英语：'The lawyer showed main evidence.' 纠正：'The lawyer presented primary evidence from the crime scene.'（使用'primary evidence'，注意'presented'和介词'from'）"
+        }
+      ]
+    }
+  ]
+}
+```
