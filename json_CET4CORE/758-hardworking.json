@@ -1,0 +1,53 @@
+```json
+{
+  "word": "hardworking",
+  "definitions": [
+    {
+      "meaning": "努力工作，勤奋",
+      "usage": "形容一个人在工作或任务中投入大量努力，表现出坚持和奉献的精神。通常用于正面评价某人的职业态度或学习态度。",
+      "collocations": ["hardworking employee", "hardworking student", "hardworking team"],
+      "examples": [
+        {
+          "scene": "在一个忙碌的科技公司中，一位年轻程序员每天加班到深夜，调试代码，确保项目按时完成。同事们都对他的努力印象深刻。",
+          "chineseIdea": "描述一个人在职场上非常努力，愿意花额外时间完成任务，展现出职业精神。",
+          "sentenceWithBlank": "Everyone admires her because she is a @ @ who always meets deadlines.",
+          "fullEnglishSentence": "Everyone admires her because she is a 「hardworking employee」 who always meets deadlines.",
+          "chineseTranslation": "大家都钦佩她，因为她是一个「勤奋的员工」，总是按时完成任务。",
+          "chinglishFix": "典型中式英语：She is a very effort worker. 纠正：She is a very hardworking employee."
+        },
+        {
+          "scene": "在一所大学里，一名学生每天在图书馆学习到很晚，认真准备考试，同时还参加课外活动，展现出极高的自律性。",
+          "chineseIdea": "描述一个学生在学业上非常用功，不仅努力学习，还能平衡其他活动。",
+          "sentenceWithBlank": "He balances academics and extracurriculars as a @ @.",
+          "fullEnglishSentence": "He balances academics and extracurriculars as a 「hardworking student」.",
+          "chineseTranslation": "他作为一个「勤奋的学生」，平衡了学业和课外活动。",
+          "chinglishFix": "典型中式英语：He is a study hard student. 纠正：He is a hardworking student."
+        }
+      ]
+    },
+    {
+      "meaning": "辛勤劳作（体力劳动）",
+      "usage": "强调某人在体力劳动或重复性工作中付出大量努力，通常用于描述蓝领工作者或从事繁重劳动的人。",
+      "collocations": ["hardworking farmer", "hardworking laborer", "hardworking crew"],
+      "examples": [
+        {
+          "scene": "在一个乡村的农田里，一位农民每天清晨开始耕作，直到傍晚，辛勤地种植和收获庄稼，以养活家人。",
+          "chineseIdea": "描述一个农民通过体力劳动不懈努力，维持生计。",
+          "sentenceWithBlank": "The village respects him as a @ @ who toils daily in the fields.",
+          "fullEnglishSentence": "The village respects him as a 「hardworking farmer」 who toils daily in the fields.",
+          "chineseTranslation": "村里人尊敬他，因为他是一个「勤劳的农民」，每天在田里辛勤劳作。",
+          "chinglishFix": "典型中式英语：He is a work hard farmer. 纠正：He is a hardworking farmer."
+        },
+        {
+          "scene": "在一个建筑工地上，一组工人顶着烈日搬运材料，长时间工作以确保工程进度，他们的努力让项目顺利推进。",
+          "chineseIdea": "描述一群工人在艰苦条件下坚持劳动，体现团队合作和耐力。",
+          "sentenceWithBlank": "The project succeeded thanks to the @ @ who worked tirelessly.",
+          "fullEnglishSentence": "The project succeeded thanks to the 「hardworking crew」 who worked tirelessly.",
+          "chineseTranslation": "项目成功多亏了「勤劳的团队」，他们不知疲倦地工作。",
+          "chinglishFix": "典型中式英语：They are effort workers. 纠正：They are a hardworking crew."
+        }
+      ]
+    }
+  ]
+}
+```

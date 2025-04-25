@@ -1,0 +1,99 @@
+```json
+{
+  "word": "grain",
+  "definitions": [
+    {
+      "meaning": "谷物；粮食",
+      "usage": "指小麦、稻米、玉米等可食用的农作物种子，通常用于描述农业产品或食品原料。",
+      "collocations": ["a grain of rice", "whole grain bread", "grain storage"],
+      "examples": [
+        {
+          "scene": "在一个农贸市场，一个摊主正在向顾客介绍自家的农产品，强调其新鲜和天然。",
+          "chineseIdea": "想表达某种谷物非常小巧但营养丰富，适合烹饪。",
+          "sentenceWithBlank": "Each @ @ @ is tiny but packed with nutrients.",
+          "fullEnglishSentence": "Each 「a grain of rice」 is tiny but packed with nutrients.",
+          "chineseTranslation": "每「一粒米」都很小但营养丰富。",
+          "chinglishFix": "典型中式英语：'Every rice grain is small but has many nutrients.' 纠正：'Each grain of rice is tiny but packed with nutrients.'（避免逐字翻译，使用更自然的表达'packed with'）。"
+        },
+        {
+          "scene": "在超市的健康食品区，一个人在向朋友推荐一种面包，强调其健康益处。",
+          "chineseIdea": "想说明这种面包是用天然谷物制成的，适合健康饮食。",
+          "sentenceWithBlank": "This @ @ @ is made from natural ingredients and is great for a healthy diet.",
+          "fullEnglishSentence": "This 「whole grain bread」 is made from natural ingredients and is great for a healthy diet.",
+          "chineseTranslation": "这种「全麦面包」是用天然原料制成的，非常适合健康饮食。",
+          "chinglishFix": "典型中式英语：'This bread of whole grain is healthy.' 纠正：'This whole grain bread is great for a healthy diet.'（避免不自然的'of'结构，搭配更地道的表达）。"
+        }
+      ]
+    },
+    {
+      "meaning": "颗粒；细小部分",
+      "usage": "指任何微小的颗粒状物质，如沙子、盐或粉末，常用于描述物质的细小单位。",
+      "collocations": ["a grain of sand", "a grain of salt", "fine grain texture"],
+      "examples": [
+        {
+          "scene": "在海边，一个孩子在玩沙子，试图数清沙子颗粒的数量。",
+          "chineseIdea": "想表达沙子颗粒非常细小，难以计数。",
+          "sentenceWithBlank": "It’s impossible to count every @ @ @ on this beach.",
+          "fullEnglishSentence": "It’s impossible to count every 「a grain of sand」 on this beach.",
+          "chineseTranslation": "这片海滩上每一「粒沙子」都不可能数得清。",
+          "chinglishFix": "典型中式英语：'Every sand grain cannot be counted.' 纠正：'It’s impossible to count every grain of sand.'（避免生硬的逐字翻译，使用更自然的表达）。"
+        },
+        {
+          "scene": "在厨房里，一个人在调味汤时，提醒朋友不要放太多盐。",
+          "chineseIdea": "想提醒只需加一点点盐就够了。",
+          "sentenceWithBlank": "Just add @ @ @ to the soup, or it’ll be too salty.",
+          "fullEnglishSentence": "Just add 「a grain of salt」 to the soup, or it’ll be too salty.",
+          "chineseTranslation": "只需往汤里加「一粒盐」，否则会太咸。",
+          "chinglishFix": "典型中式英语：'Put one salt grain in the soup.' 纠正：'Just add a grain of salt to the soup.'（避免不自然的'one salt grain'，使用更地道的表达）。"
+        }
+      ]
+    },
+    {
+      "meaning": "纹理；质地（尤指木材或皮革）",
+      "usage": "指材料表面自然的纹路或图案，常见于描述木材、皮革等的质感。",
+      "collocations": ["wood grain pattern", "against the grain", "fine grain leather"],
+      "examples": [
+        {
+          "scene": "在一个家具店，店员向顾客介绍一张木桌，强调其独特的纹理。",
+          "chineseIdea": "想突出木桌的天然纹理让它看起来更美观。",
+          "sentenceWithBlank": "The @ @ @ on this table gives it a unique and elegant look.",
+          "fullEnglishSentence": "The 「wood grain pattern」 on this table gives it a unique and elegant look.",
+          "chineseTranslation": "这张桌子上的「木纹图案」赋予它独特而优雅的外观。",
+          "chinglishFix": "典型中式英语：'The grain of wood makes the table beautiful.' 纠正：'The wood grain pattern gives the table a unique and elegant look.'（避免不自然的'grain of wood'，使用更具体的搭配）。"
+        },
+        {
+          "scene": "在一个木工车间，师傅在教徒弟如何切割木材以避免毛边。",
+          "chineseIdea": "想说明逆着纹理切割会导致木材表面不平整。",
+          "sentenceWithBlank": "Cutting @ @ @ will make the wood surface rough.",
+          "fullEnglishSentence": "Cutting 「against the grain」 will make the wood surface rough.",
+          "chineseTranslation": "「逆着纹理」切割会使木头表面粗糙。",
+          "chinglishFix": "典型中式英语：'Cut opposite the grain is bad.' 纠正：'Cutting against the grain will make the wood surface rough.'（避免不自然的'opposite'，使用更地道的表达）。"
+        }
+      ]
+    },
+    {
+      "meaning": "微量；极少量（抽象概念）",
+      "usage": "用于比喻极少量的抽象事物，如真相、怀疑等，常用于固定短语中。",
+      "collocations": ["a grain of truth", "a grain of doubt", "not a grain of sense"],
+      "examples": [
+        {
+          "scene": "在一次讨论中，一个人质疑朋友的故事，但承认其中可能有部分真实。",
+          "chineseIdea": "想表达虽然故事听起来夸张，但可能有一点真实成分。",
+          "sentenceWithBlank": "There might be @ @ @ in his wild story, but I’m not sure.",
+          "fullEnglishSentence": "There might be 「a grain of truth」 in his wild story, but I’m not sure.",
+          "chineseTranslation": "他的离奇故事里可能有「一丝真相」，但我不确定。",
+          "chinglishFix": "典型中式英语：'His story has a little truth grain.' 纠正：'There might be a grain of truth in his story.'（避免逐字翻译，使用更自然的搭配）。"
+        },
+        {
+          "scene": "在考试前，一个学生对自己的准备感到不安，朋友试图安慰他。",
+          "chineseIdea": "想表达没有理由感到怀疑，因为已经准备充分。",
+          "sentenceWithBlank": "There’s not @ @ @ in your worries; you’ve studied hard.",
+          "fullEnglishSentence": "There’s not 「a grain of doubt」 in your worries; you’ve studied hard.",
+          "chineseTranslation": "你的担忧没有「一丝怀疑」的理由，你已经很努力地学习了。",
+          "chinglishFix": "典型中式英语：'You don’t need to doubt a grain.' 纠正：'There’s not a grain of doubt in your worries.'（避免不自然的表达，使用更地道的搭配）。"
+        }
+      ]
+    }
+  ]
+}
+```

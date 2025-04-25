@@ -1,0 +1,76 @@
+```json
+{
+  "word": "generate",
+  "definitions": [
+    {
+      "meaning": "产生，生成（尤指能源、电力、收入等）",
+      "usage": "指通过某种过程或机制创造或生产出具体的事物，如电力、收入、数据等，通常与技术、商业或科学场景相关。",
+      "collocations": ["generate electricity", "generate revenue", "generate data"],
+      "examples": [
+        {
+          "scene": "在一个新能源公司的会议上，工程师们正在讨论如何利用风能来为城市供电。",
+          "chineseIdea": "通过风力涡轮机将风能转化为电能，为城市提供可持续的能源。",
+          "sentenceWithBlank": "The new wind turbines can @ @ efficiently.",
+          "fullEnglishSentence": "The new wind turbines can 「generate electricity」 efficiently.",
+          "chineseTranslation": "新型风力涡轮机可以高效地「产生电力」。",
+          "chinglishFix": "典型中式英语：'Make electricity' → 纠正：'Generate electricity'，因为'make'在描述能源生产时不常用，'generate'更准确且专业。"
+        },
+        {
+          "scene": "一家初创公司正在向投资者展示他们的商业计划，强调他们的盈利能力。",
+          "chineseIdea": "通过在线广告和订阅服务，公司能够持续创造收入。",
+          "sentenceWithBlank": "Our platform will @ @ through targeted ads.",
+          "fullEnglishSentence": "Our platform will 「generate revenue」 through targeted ads.",
+          "chineseTranslation": "我们的平台将通过定向广告「产生收入」。",
+          "chinglishFix": "典型中式英语：'Earn money' → 纠正：'Generate revenue'，因为'earn money'更偏向个人收入，而'generate revenue'更适合描述商业收入。"
+        }
+      ]
+    },
+    {
+      "meaning": "引起，激发（某种情绪、反应或行为）",
+      "usage": "指通过行动、事件或言论引发某种情绪、兴趣或反应，通常用于描述社会、文化或心理现象。",
+      "collocations": ["generate interest", "generate enthusiasm", "generate controversy"],
+      "examples": [
+        {
+          "scene": "一个新电影的预告片在社交媒体上发布，吸引了大量粉丝的关注。",
+          "chineseIdea": "预告片的独特风格和明星阵容让人们对电影充满期待。",
+          "sentenceWithBlank": "The trailer managed to @ @ among fans.",
+          "fullEnglishSentence": "The trailer managed to 「generate interest」 among fans.",
+          "chineseTranslation": "这部预告片成功地在粉丝中「引起兴趣」。",
+          "chinglishFix": "典型中式英语：'Make people interested' → 纠正：'Generate interest'，因为'make people interested'显得冗长且不够地道，'generate interest'更简洁自然。"
+        },
+        {
+          "scene": "一位政治家在电视辩论中发表了关于税收改革的激进观点，引发了公众热议。",
+          "chineseIdea": "他的言论因为挑战传统观念而引发了广泛的争论。",
+          "sentenceWithBlank": "His bold statements @ @ in the media.",
+          "fullEnglishSentence": "His bold statements 「generated controversy」 in the media.",
+          "chineseTranslation": "他大胆的言论在媒体中「引发了争议」。",
+          "chinglishFix": "典型中式英语：'Cause argument' → 纠正：'Generate controversy'，因为'cause argument'不够正式，且'controversy'更准确地描述公众争论。"
+        }
+      ]
+    },
+    {
+      "meaning": "创建，生成（信息、内容或产品）",
+      "usage": "指通过计算、设计或其他方法创造出新的内容或产品，常见于技术、艺术或写作领域。",
+      "collocations": ["generate content", "generate ideas", "generate reports"],
+      "examples": [
+        {
+          "scene": "一个营销团队在为新产品发布会准备社交媒体内容。",
+          "chineseIdea": "团队需要快速制作吸引人的帖子来宣传产品。",
+          "sentenceWithBlank": "We need to @ @ for our campaign.",
+          "fullEnglishSentence": "We need to 「generate content」 for our campaign.",
+          "chineseTranslation": "我们需要为我们的活动「创建内容」。",
+          "chinglishFix": "典型中式英语：'Make content' → 纠正：'Generate content'，因为'make content'较为笼统，'generate content'更常用于描述创作过程。"
+        },
+        {
+          "scene": "在公司头脑风暴会议上，员工们被要求提出创新的解决方案。",
+          "chineseIdea": "通过集思广益，团队希望提出新的创意来解决问题。",
+          "sentenceWithBlank": "The team was asked to @ @ during the meeting.",
+          "fullEnglishSentence": "The team was asked to 「generate ideas」 during the meeting.",
+          "chineseTranslation": "团队被要求在会议中「提出创意」。",
+          "chinglishFix": "典型中式英语：'Think of ideas' → 纠正：'Generate ideas'，因为'think of ideas'较为口语化，'generate ideas'更适合正式或专业场景。"
+        }
+      ]
+    }
+  ]
+}
+```

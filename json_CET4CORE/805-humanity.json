@@ -1,0 +1,53 @@
+```json
+{
+  "word": "humanity",
+  "definitions": [
+    {
+      "meaning": "人类作为一个整体，指所有的人",
+      "usage": "指代全体人类，通常用于讨论人类的共同特质、历史、成就或命运，常出现在哲学、科学或社会讨论中。",
+      "collocations": ["benefit of humanity", "future of humanity", "progress of humanity"],
+      "examples": [
+        {
+          "scene": "在一场关于人工智能的国际会议上，科学家们讨论技术如何影响人类的未来。",
+          "chineseIdea": "人工智能的发展可能会改变人类的命运，带来新的可能性。",
+          "sentenceWithBlank": "AI research should prioritize the @ @ @ over individual gains.",
+          "fullEnglishSentence": "AI research should prioritize the 「benefit of humanity」 over individual gains.",
+          "chineseTranslation": "人工智能研究应优先考虑「人类的福祉」而非个人利益。",
+          "chinglishFix": "典型中式英语：'AI should help human's benefit.' 纠正：'AI should prioritize the benefit of humanity.'（避免用 'human' 单数，改为 'humanity' 表示全体人类；搭配 'benefit of' 更自然。）"
+        },
+        {
+          "scene": "一位历史学家在纪录片中讲述人类如何通过合作应对全球挑战。",
+          "chineseIdea": "人类的历史是通过共同努力推动进步的故事。",
+          "sentenceWithBlank": "Collaboration has shaped the @ @ @ in remarkable ways.",
+          "fullEnglishSentence": "Collaboration has shaped the 「progress of humanity」 in remarkable ways.",
+          "chineseTranslation": "合作以显著的方式塑造了「人类的进步」。",
+          "chinglishFix": "典型中式英语：'Human's progress is because of cooperation.' 纠正：'The progress of humanity has been shaped by collaboration.'（避免 'human's'，用 'humanity' 表示整体；搭配 'progress of' 更地道。）"
+        }
+      ]
+    },
+    {
+      "meaning": "仁慈、同情心或人性，指对他人表现出善良和关怀的品质",
+      "usage": "强调对他人的同情、宽容或慷慨行为，常用于描述个人或群体的道德品质，出现在伦理、文学或日常语境中。",
+      "collocations": ["act of humanity", "sense of humanity", "show humanity"],
+      "examples": [
+        {
+          "scene": "在一场自然灾害后，志愿者们为受灾群众提供食物和庇护。",
+          "chineseIdea": "志愿者通过无私的帮助展现了对受难者的关怀。",
+          "sentenceWithBlank": "Providing shelter to the victims was a true @ @ @.",
+          "fullEnglishSentence": "Providing shelter to the victims was a true 「act of humanity」.",
+          "chineseTranslation": "为受害者提供庇护是真正的「人道行为」。",
+          "chinglishFix": "典型中式英语：'This is a human's kind action.' 纠正：'This is a true act of humanity.'（避免 'human's kind action'，用 'act of humanity' 更贴合英语表达习惯。）"
+        },
+        {
+          "scene": "一位老师在课堂上教导学生如何理解他人的感受。",
+          "chineseIdea": "培养同理心是教育的重要部分，能让学生更具人性。",
+          "sentenceWithBlank": "Teaching empathy helps students develop a @ @ @.",
+          "fullEnglishSentence": "Teaching empathy helps students develop a 「sense of humanity」.",
+          "chineseTranslation": "教授同理心帮助学生培养「人性意识」。",
+          "chinglishFix": "典型中式英语：'Teach students to have human feeling.' 纠正：'Teach students to develop a sense of humanity.'（避免 'human feeling'，用 'sense of humanity' 更自然且准确。）"
+        }
+      ]
+    }
+  ]
+}
+```

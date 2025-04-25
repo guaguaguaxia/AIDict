@@ -1,0 +1,53 @@
+```json
+{
+  "word": "garage",
+  "definitions": [
+    {
+      "meaning": "A building or indoor space for parking or storing vehicles",
+      "usage": "Refers to a structure, often attached to or separate from a house, used primarily to house cars, motorcycles, or other vehicles. It can also imply a space for vehicle-related activities like maintenance.",
+      "collocations": ["park in the garage", "store in the garage", "convert into a garage", "clean out the garage"],
+      "examples": [
+        {
+          "scene": "一个家庭在周末整理家中杂物，决定把车停在专门的地方以腾出空间。",
+          "chineseIdea": "想把车停到一个安全、专用的空间，同时整理家中其他物品。",
+          "sentenceWithBlank": "After cleaning the house, they decided to @ @ @ to make room for the new furniture.",
+          "fullEnglishSentence": "After cleaning the house, they decided to 「park in the garage」 to make room for the new furniture.",
+          "chineseTranslation": "清理房子后，他们决定「把车停在车库里」以腾出空间放置新家具。",
+          "chinglishFix": "Chinglish: 'Put the car in the garage room.' Correction: 'Park the car in the garage.' Explanation: 'Garage room' is redundant and unnatural; 'park' is the standard verb for placing a vehicle in a garage."
+        },
+        {
+          "scene": "一个年轻人搬进新家，发现车库里堆满了旧物品，决定重新利用这个空间。",
+          "chineseIdea": "希望把杂物存放在一个地方，腾出空间给其他用途。",
+          "sentenceWithBlank": "He moved the old boxes to @ @ @ so he could set up a home gym.",
+          "fullEnglishSentence": "He moved the old boxes to 「store in the garage」 so he could set up a home gym.",
+          "chineseTranslation": "他把旧箱子搬去「存放在车库里」，以便设置一个家庭健身房。",
+          "chinglishFix": "Chinglish: 'Keep things in the garage place.' Correction: 'Store things in the garage.' Explanation: 'Garage place' is awkward and unnecessary; 'store' is the appropriate verb for keeping items in a space like a garage."
+        }
+      ]
+    },
+    {
+      "meaning": "A place where vehicles are repaired or serviced",
+      "usage": "Refers to a commercial establishment or workshop where vehicles, such as cars or trucks, are repaired, serviced, or maintained by mechanics.",
+      "collocations": ["take to the garage", "fix at the garage", "work in the garage"],
+      "examples": [
+        {
+          "scene": "一个上班族发现自己的车在路上抛锚，决定送到专业的地方修理。",
+          "chineseIdea": "需要把车送到一个专门修理的地方，让专业人员处理。",
+          "sentenceWithBlank": "When the car broke down, she had to @ @ @ for repairs.",
+          "fullEnglishSentence": "When the car broke down, she had to 「take to the garage」 for repairs.",
+          "chineseTranslation": "当车抛锚时，她不得不「送到车库修理」。",
+          "chinglishFix": "Chinglish: 'Bring the car to repair shop.' Correction: 'Take the car to the garage.' Explanation: 'Repair shop' is less specific and not the most common term; 'take' is the standard verb for bringing a vehicle to a repair facility."
+        },
+        {
+          "scene": "一位车主发现车辆引擎有异响，决定请专业人员检查并修理。",
+          "chineseIdea": "希望车辆的问题能在专业场所得到解决。",
+          "sentenceWithBlank": "The mechanic said they could @ @ @ by the end of the day.",
+          "fullEnglishSentence": "The mechanic said they could 「fix at the garage」 by the end of the day.",
+          "chineseTranslation": "修理工说他们可以在一天结束前「在车库修好」。",
+          "chinglishFix": "Chinglish: 'Repair the car in the fix place.' Correction: 'Fix the car at the garage.' Explanation: 'Fix place' is vague and unnatural; 'garage' is the precise term for a vehicle repair shop, and 'fix' is commonly used."
+        }
+      ]
+    }
+  ]
+}
+```
