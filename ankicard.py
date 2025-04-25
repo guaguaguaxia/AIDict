@@ -160,7 +160,6 @@ def get_json_data(API_KEY, start_alpha_list):
         used_list = start_alpha_list.split(",")
 
     for i in f.readlines():
-        k = k + 1
         if k > 5:
             break
         word = i.strip()
@@ -178,6 +177,7 @@ def get_json_data(API_KEY, start_alpha_list):
                 continue
         except FileNotFoundError:
             pass
+        k = k + 1
         try:
             response = AIChat(word, model, api_key)
             content = response['choices'][0]['message']['content']
