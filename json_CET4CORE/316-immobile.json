@@ -1,0 +1,53 @@
+```json
+{
+  "word": "immobile",
+  "definitions": [
+    {
+      "meaning": "无法移动的；固定的",
+      "usage": "描述人、物体或抽象事物由于物理、情感或外部限制而无法移动或改变位置。",
+      "collocations": ["stand immobile", "remain immobile", "completely immobile"],
+      "examples": [
+        {
+          "scene": "在一个寒冷的冬夜，一个人站在公交车站，风雪交加，周围一片寂静。",
+          "chineseIdea": "这个人因为寒冷和等待公交车的焦虑，感觉身体僵硬，无法动弹。",
+          "sentenceWithBlank": "He @ @ in the freezing snow, waiting for the bus that never came.",
+          "fullEnglishSentence": "He 「stood immobile」 in the freezing snow, waiting for the bus that never came.",
+          "chineseTranslation": "他在冰冷的雪中「站着一动不动」，等待永远不来的公交车。",
+          "chinglishFix": "典型中式英语：'He stand no move in the snow.' 纠正：'He stood immobile in the snow.'（使用正确的动词时态和词汇，表达更自然的英语。）"
+        },
+        {
+          "scene": "在一场激烈的争吵后，房间里充满了紧张的气氛，两个人面对面站着。",
+          "chineseIdea": "争吵让他们的情绪僵化，彼此都不愿意先开口或移动。",
+          "sentenceWithBlank": "They @ @, staring at each other in silence.",
+          "fullEnglishSentence": "They 「remained immobile」, staring at each other in silence.",
+          "chineseTranslation": "他们「一动不动地站着」，默默地对视。",
+          "chinglishFix": "典型中式英语：'They stay no move.' 纠正：'They remained immobile.'（避免直译，使用更贴合英语表达的词汇和结构。）"
+        }
+      ]
+    },
+    {
+      "meaning": "静止的；不流动的",
+      "usage": "常用于描述液体、资产或其他非物理实体的停滞状态，或经济、进程等的停滞。",
+      "collocations": ["virtually immobile", "economically immobile", "socially immobile"],
+      "examples": [
+        {
+          "scene": "在一个经济衰退的小镇，年轻人的生活似乎被困住了，没有新的工作机会。",
+          "chineseIdea": "年轻人的社会地位和经济状况停滞不前，缺乏上升的希望。",
+          "sentenceWithBlank": "The youth in the town felt @ @, with no opportunities for advancement.",
+          "fullEnglishSentence": "The youth in the town felt 「economically immobile」, with no opportunities for advancement.",
+          "chineseTranslation": "镇上的年轻人感到「经济上停滞不前」，没有晋升的机会。",
+          "chinglishFix": "典型中式英语：'The youth no change in economy.' 纠正：'The youth felt economically immobile.'（使用更精确的形容词和搭配，表达清晰。）"
+        },
+        {
+          "scene": "在一个讨论社会阶层流动性的课堂上，老师提到一些群体的困境。",
+          "chineseIdea": "某些社会群体因制度限制，难以改变自己的社会地位。",
+          "sentenceWithBlank": "Many people in that society were @ @, trapped by rigid class structures.",
+          "fullEnglishSentence": "Many people in that society were 「socially immobile」, trapped by rigid class structures.",
+          "chineseTranslation": "那个社会中的许多人「社会地位停滞」，被僵化的阶级结构所困。",
+          "chinglishFix": "典型中式英语：'They cannot move in society.' 纠正：'They were socially immobile.'（避免模糊表达，使用专业术语。）"
+        }
+      ]
+    }
+  ]
+}
+```
