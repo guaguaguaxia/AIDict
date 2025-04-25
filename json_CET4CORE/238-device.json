@@ -1,0 +1,53 @@
+```json
+{
+  "word": "device",
+  "definitions": [
+    {
+      "meaning": "一种用于特定目的的工具或设备，通常是机械或电子的",
+      "usage": "指代具有特定功能的物理设备，如电子产品、机械工具等，常用于描述科技产品或实用工具",
+      "collocations": ["electronic device", "smart device", "medical device"],
+      "examples": [
+        {
+          "scene": "小明在咖啡店里工作，店里刚购置了一台新的咖啡机，店员们都在讨论它的功能。",
+          "chineseIdea": "想表达这台新机器非常先进，能自动完成很多任务。",
+          "sentenceWithBlank": "The new coffee machine is an incredibly advanced @ @.",
+          "fullEnglishSentence": "The new coffee machine is an incredibly advanced 「electronic device」.",
+          "chineseTranslation": "这台新咖啡机是一个非常先进的「电子设备」。",
+          "chinglishFix": "典型中式英语：This coffee machine is a very high-tech machine. 纠正：This coffee machine is a highly advanced electronic device."
+        },
+        {
+          "scene": "李华在科技展会上看到一款可以远程控制家电的设备，觉得很适合自己的智能家居。",
+          "chineseIdea": "想表达这个设备很智能，可以通过手机控制家里的一切。",
+          "sentenceWithBlank": "This @ @ allows you to control your home appliances from anywhere.",
+          "fullEnglishSentence": "This 「smart device」 allows you to control your home appliances from anywhere.",
+          "chineseTranslation": "这个「智能设备」让你可以从任何地方控制家里的电器。",
+          "chinglishFix": "典型中式英语：This device is very smart to control home things. 纠正：This smart device enables remote control of home appliances."
+        }
+      ]
+    },
+    {
+      "meaning": "一种计划、方法或策略，通常用于实现特定目标",
+      "usage": "指代非物理的手段或策略，常用于描述文学手法、修辞技巧或解决问题的方法",
+      "collocations": ["literary device", "rhetorical device", "mnemonic device"],
+      "examples": [
+        {
+          "scene": "在英语课上，老师讲解莎士比亚的戏剧，提到他如何使用修辞手法吸引观众。",
+          "chineseIdea": "想表达莎士比亚用了一种写作技巧来让故事更有吸引力。",
+          "sentenceWithBlank": "Shakespeare often used metaphor as a @ @ to engage his audience.",
+          "fullEnglishSentence": "Shakespeare often used metaphor as a 「literary device」 to engage his audience.",
+          "chineseTranslation": "莎士比亚经常使用隐喻作为一种「文学手法」来吸引观众。",
+          "chinglishFix": "典型中式英语：Shakespeare used metaphor to make story interesting. 纠正：Shakespeare employed metaphor as a literary device to captivate his audience."
+        },
+        {
+          "scene": "小红在准备考试时，发现了一种记忆单词的方法，通过联想来记住复杂的词汇。",
+          "chineseIdea": "想表达这种方法帮助她快速记住大量信息。",
+          "sentenceWithBlank": "She created a @ @ to recall vocabulary more effectively.",
+          "fullEnglishSentence": "She created a 「mnemonic device」 to recall vocabulary more effectively.",
+          "chineseTranslation": "她创造了一种「记忆方法」来更有效地回忆词汇。",
+          "chinglishFix": "典型中式英语：She made a way to remember words fast. 纠正：She developed a mnemonic device to memorize vocabulary efficiently."
+        }
+      ]
+    }
+  ]
+}
+```

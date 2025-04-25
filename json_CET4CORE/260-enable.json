@@ -1,0 +1,53 @@
+```json
+{
+  "word": "enable",
+  "definitions": [
+    {
+      "meaning": "使能够；赋予能力或权限",
+      "usage": "指通过提供手段、资源或权限，使某人或某事能够完成某项任务或实现某目标。常用于描述技术、政策、法律或工具如何赋予能力。",
+      "collocations": ["enable access to", "enable someone to do something", "enable communication"],
+      "examples": [
+        {
+          "scene": "在一个科技公司中，团队正在开发一款新的移动应用程序，旨在帮助视障人士更方便地使用智能手机。公司通过引入语音识别技术，让用户可以通过语音指令操作应用。",
+          "chineseIdea": "通过技术手段，让视障人士也能轻松使用智能手机，获取信息或完成日常任务。",
+          "sentenceWithBlank": "The new app @ @ @ online resources for visually impaired users.",
+          "fullEnglishSentence": "The new app 「enables access to」 online resources for visually impaired users.",
+          "chineseTranslation": "这款新应用「使视障用户能够访问」在线资源。",
+          "chinglishFix": "典型中式英语：This app makes visually impaired users can access online resources. 纠正：This app enables visually impaired users to access online resources."
+        },
+        {
+          "scene": "在一所国际学校，学校为来自不同国家的学生提供了多语言支持系统，包括在线翻译工具和双语教材，以帮助非英语母语的学生更好地融入课堂。",
+          "chineseIdea": "通过提供语言工具和资源，帮助非英语母语的学生参与课堂学习，克服语言障碍。",
+          "sentenceWithBlank": "The multilingual system @ @ @ participate in class discussions confidently.",
+          "fullEnglishSentence": "The multilingual system 「enables students to participate」 in class discussions confidently.",
+          "chineseTranslation": "多语言系统「使学生能够自信地参与」课堂讨论。",
+          "chinglishFix": "典型中式英语：This system lets students can participate in discussions. 纠正：This system enables students to participate in discussions."
+        }
+      ]
+    },
+    {
+      "meaning": "激活或启动（设备、功能等）",
+      "usage": "指在技术或设备环境中，通过设置或操作使某功能或设备开始运行。常用于描述软件、硬件或系统的功能激活。",
+      "collocations": ["enable a feature", "enable a setting", "enable notifications"],
+      "examples": [
+        {
+          "scene": "小明刚买了一款智能手表，他发现手表的运动跟踪功能默认是关闭的。他进入设置菜单，找到运动跟踪选项并将其打开，以便记录每天的步数和卡路里消耗。",
+          "chineseIdea": "通过调整设备设置，启动手表的运动跟踪功能，以便记录健康数据。",
+          "sentenceWithBlank": "He @ @ @ on his smartwatch to track his daily steps.",
+          "fullEnglishSentence": "He 「enabled a feature」 on his smartwatch to track his daily steps.",
+          "chineseTranslation": "他在智能手表上「启用了一项功能」来跟踪每天的步数。",
+          "chinglishFix": "典型中式英语：He opened a feature on his smartwatch. 纠正：He enabled a feature on his smartwatch."
+        },
+        {
+          "scene": "在一家咖啡店，店员正在设置新的点单系统。系统默认不发送订单确认通知，店员进入后台设置，将通知功能打开，以便顾客下单后能收到确认信息。",
+          "chineseIdea": "通过调整系统设置，激活通知功能，确保顾客收到订单确认。",
+          "sentenceWithBlank": "The cashier @ @ @ to ensure customers receive order confirmations.",
+          "fullEnglishSentence": "The cashier 「enabled notifications」 to ensure customers receive order confirmations.",
+          "chineseTranslation": "收银员「启用了通知功能」以确保顾客收到订单确认。",
+          "chinglishFix": "典型中式英语：The cashier turned on notifications for customers confirm orders. 纠正：The cashier enabled notifications to ensure customers receive order confirmations."
+        }
+      ]
+    }
+  ]
+}
+```

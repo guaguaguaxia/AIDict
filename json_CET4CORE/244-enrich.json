@@ -1,0 +1,53 @@
+```json
+{
+  "word": "enrich",
+  "definitions": [
+    {
+      "meaning": "使内容更充实或更有意义",
+      "usage": "常用于描述通过添加信息、经验或资源使某事物（如知识、生活、文化等）变得更有价值或更有深度。",
+      "collocations": ["enrich the experience", "enrich knowledge", "enrich the curriculum"],
+      "examples": [
+        {
+          "scene": "一位老师在课堂上引入互动游戏和视频来让学生更投入学习。",
+          "chineseIdea": "老师希望通过多样化的教学方法让学生的学习过程更有趣、更深刻。",
+          "sentenceWithBlank": "By incorporating games and videos, the teacher aims to @ @ @ for her students.",
+          "fullEnglishSentence": "By incorporating games and videos, the teacher aims to 「enrich the experience」 for her students.",
+          "chineseTranslation": "通过引入游戏和视频，老师旨在为学生「丰富体验」。",
+          "chinglishFix": "典型中式英语：'make the experience more rich' 纠正：'enrich the experience'，因为'enrich'比'make...rich'更自然，符合英语表达习惯。"
+        },
+        {
+          "scene": "一位大学生参加了一个关于全球文化的讲座，学到了很多新知识。",
+          "chineseIdea": "大学生希望通过讲座拓宽自己的视野，增加对世界的了解。",
+          "sentenceWithBlank": "The lecture on global cultures helped @ @ for the students.",
+          "fullEnglishSentence": "The lecture on global cultures helped 「enrich knowledge」 for the students.",
+          "chineseTranslation": "关于全球文化的讲座帮助学生「丰富知识」。",
+          "chinglishFix": "典型中式英语：'add knowledge' 纠正：'enrich knowledge'，因为'enrich'更能表达知识的深化和增值，而非简单增加。"
+        }
+      ]
+    },
+    {
+      "meaning": "提高物质或资源的质量或价值",
+      "usage": "常用于描述通过增加营养、财富或物质成分使某事物（如土壤、食品、财富等）变得更好或更有价值。",
+      "collocations": ["enrich the soil", "enrich the diet", "enrich the material"],
+      "examples": [
+        {
+          "scene": "一位农民在田里施加有机肥料以改善土壤质量。",
+          "chineseIdea": "农民希望通过肥料让土壤更肥沃，从而提高农作物的产量。",
+          "sentenceWithBlank": "Adding organic compost can significantly @ @ @ for better crop growth.",
+          "fullEnglishSentence": "Adding organic compost can significantly 「enrich the soil」 for better crop growth.",
+          "chineseTranslation": "添加有机堆肥可以显著「改良土壤」，促进作物生长。",
+          "chinglishFix": "典型中式英语：'make the soil better' 纠正：'enrich the soil'，因为'enrich'更具体地表达土壤肥力的提升。"
+        },
+        {
+          "scene": "一位营养师建议在日常饮食中加入更多水果和蔬菜。",
+          "chineseIdea": "营养师希望通过增加营养成分让客户的饮食更健康。",
+          "sentenceWithBlank": "Including more fruits and vegetables can @ @ @ for improved health.",
+          "fullEnglishSentence": "Including more fruits and vegetables can 「enrich the diet」 for improved health.",
+          "chineseTranslation": "加入更多水果和蔬菜可以「丰富饮食」，改善健康。",
+          "chinglishFix": "典型中式英语：'make the diet more healthy' 纠正：'enrich the diet'，因为'enrich'更能表达营养价值的提升，而非泛泛的'健康'。"
+        }
+      ]
+    }
+  ]
+}
+```
