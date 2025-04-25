@@ -1,0 +1,61 @@
+```json
+{
+  "word": "preferentially",
+  "definitions": [
+    {
+      "meaning": "以优先的方式；更倾向于",
+      "usage": "副词，用于描述某事物以优先或更有利的地位被选择或对待，常用于正式或学术语境，如描述政策、分配资源或选择对象的倾向性。",
+      "collocations": [
+        "treat preferentially",
+        "allocate preferentially",
+        "select preferentially"
+      ],
+      "examples": [
+        {
+          "scene": "在一个公司的资源分配会议上，管理层讨论如何在多个项目之间分配有限的预算。由于某些项目对公司战略目标更重要，他们决定优先分配资金。",
+          "chineseIdea": "优先考虑某些项目，确保它们获得更多资源以保证成功。",
+          "sentenceWithBlank": "The board decided to @ @ @ the projects that align with our long-term goals.",
+          "fullEnglishSentence": "The board decided to 「treat preferentially」 the projects that align with our long-term goals.",
+          "chineseTranslation": "董事会决定「优先对待」与我们长期目标一致的项目。",
+          "chinglishFix": "典型中式英语：'Give first to important projects.' 纠正：'Treat important projects preferentially.'"
+        },
+        {
+          "scene": "在大学招生过程中，招生办公室需要从众多申请者中选择学生。由于校友子女通常对学校有更强的忠诚度，学校可能会优先考虑这些申请者。",
+          "chineseIdea": "优先选择某些申请者，因为他们与学校有特殊联系。",
+          "sentenceWithBlank": "The university tends to @ @ @ legacy applicants during admissions.",
+          "fullEnglishSentence": "The university tends to 「select preferentially」 legacy applicants during admissions.",
+          "chineseTranslation": "大学在招生时倾向于「优先选择」校友子女申请者。",
+          "chinglishFix": "典型中式英语：'Choose legacy students first.' 纠正：'Select legacy applicants preferentially.'"
+        }
+      ]
+    },
+    {
+      "meaning": "以优待的方式；在竞争中给予优势",
+      "usage": "副词，用于描述在竞争性环境中某一方因政策、规则或偏见而获得更有利的待遇，常用于经济、法律或社会政策讨论。",
+      "collocations": [
+        "benefit preferentially",
+        "distribute preferentially",
+        "access preferentially"
+      ],
+      "examples": [
+        {
+          "scene": "在政府制定经济刺激计划时，决定向小型企业提供更多的贷款支持，因为这些企业对当地经济复苏至关重要。",
+          "chineseIdea": "让某些企业在经济支持中获得更多机会以促进整体经济。",
+          "sentenceWithBlank": "The stimulus package was designed to @ @ @ small businesses.",
+          "fullEnglishSentence": "The stimulus package was designed to 「benefit preferentially」 small businesses.",
+          "chineseTranslation": "刺激计划旨在「优先惠及」小型企业。",
+          "chinglishFix": "典型中式英语：'Give small businesses more help.' 纠正：'Benefit small businesses preferentially.'"
+        },
+        {
+          "scene": "在公共住房分配中，政府决定优先为低收入家庭提供住房，以确保他们能够负担得起安全的住所。",
+          "chineseIdea": "优先将资源分配给更需要的人群以解决社会不公。",
+          "sentenceWithBlank": "The housing program allows low-income families to @ @ @ affordable units.",
+          "fullEnglishSentence": "The housing program allows low-income families to 「access preferentially」 affordable units.",
+          "chineseTranslation": "住房计划允许低收入家庭「优先获得」负担得起的住房。",
+          "chinglishFix": "典型中式英语：'Give low-income families houses first.' 纠正：'Allow low-income families to access affordable units preferentially.'"
+        }
+      ]
+    }
+  ]
+}
+```

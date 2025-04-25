@@ -1,0 +1,53 @@
+```json
+{
+  "word": "obtain",
+  "definitions": [
+    {
+      "meaning": "获取，获得（某物，通常通过努力或正式手段）",
+      "usage": "指通过购买、请求、努力或其他正式途径获得有形或无形的东西，常用于正式或书面语境。",
+      "collocations": ["obtain a degree", "obtain permission", "obtain information", "obtain a visa"],
+      "examples": [
+        {
+          "scene": "小明是一名大学生，即将完成学业。他努力学习，完成了所有课程和考试，准备拿到学位证书。",
+          "chineseIdea": "小明想要通过自己的学术努力，正式获得大学学位，证明自己的能力。",
+          "sentenceWithBlank": "After years of hard work, Xiaoming was able to @ @ @ from his university.",
+          "fullEnglishSentence": "After years of hard work, Xiaoming was able to 「obtain a degree」 from his university.",
+          "chineseTranslation": "经过多年的努力，小明终于从大学「获得了学位」。",
+          "chinglishFix": "典型中式英语：'I want to get degree.' 纠正：'I want to obtain a degree.'（'get' 过于口语化，且不适合正式语境；'obtain' 更适合表示通过努力或正式途径获得。）"
+        },
+        {
+          "scene": "小红在公司计划组织一次户外活动，但需要得到老板的同意才能使用公司场地。",
+          "chineseIdea": "小红需要正式请求老板的批准，以确保活动可以顺利进行。",
+          "sentenceWithBlank": "Before organizing the event, Xiaohong had to @ @ from her boss.",
+          "fullEnglishSentence": "Before organizing the event, Xiaohong had to 「obtain permission」 from her boss.",
+          "chineseTranslation": "在组织活动之前，小红必须从老板那里「获得许可」。",
+          "chinglishFix": "典型中式英语：'I need to get boss's agree.' 纠正：'I need to obtain permission from my boss.'（'get agree' 是错误的表达，'permission' 是更自然的词，且搭配 'obtain' 更正式。）"
+        }
+      ]
+    },
+    {
+      "meaning": "得到，达成（某种状态、结果或信息）",
+      "usage": "指通过某种方式（如调查、研究或交流）得到信息、结果或某种状态，常用于学术、法律或技术性语境。",
+      "collocations": ["obtain results", "obtain evidence", "obtain data"],
+      "examples": [
+        {
+          "scene": "李教授正在进行一项关于气候变化的研究，他通过实验和数据分析来得出结论。",
+          "chineseIdea": "李教授希望通过科学实验，获取可靠的研究结果来支持他的理论。",
+          "sentenceWithBlank": "Through extensive experiments, Professor Li was able to @ @ for his climate study.",
+          "fullEnglishSentence": "Through extensive experiments, Professor Li was able to 「obtain results」 for his climate study.",
+          "chineseTranslation": "通过广泛的实验，李教授为他的气候研究「获得了结果」。",
+          "chinglishFix": "典型中式英语：'I get some results from experiment.' 纠正：'I obtained results from the experiment.'（'get' 过于泛化，'obtain' 在学术语境中更精确，且搭配 'results' 更自然。）"
+        },
+        {
+          "scene": "一名律师在处理案件时，需要从证人那里收集相关信息以支持辩护。",
+          "chineseIdea": "律师需要通过询问和调查，获取足够的证据来证明客户的清白。",
+          "sentenceWithBlank": "The lawyer worked tirelessly to @ @ from the witnesses.",
+          "fullEnglishSentence": "The lawyer worked tirelessly to 「obtain evidence」 from the witnesses.",
+          "chineseTranslation": "律师不懈地努力从证人那里「获得证据」。",
+          "chinglishFix": "典型中式英语：'I want to get some proofs.' 纠正：'I want to obtain evidence.'（'proofs' 不适合此语境，'evidence' 是法律术语，且搭配 'obtain' 更正式。）"
+        }
+      ]
+    }
+  ]
+}
+```

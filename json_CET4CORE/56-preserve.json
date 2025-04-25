@@ -1,0 +1,76 @@
+```json
+{
+  "word": "preserve",
+  "definitions": [
+    {
+      "meaning": "保护或维持某物，使其免受损害或破坏",
+      "usage": "常用于描述保护自然环境、文物、文化传统或保持某事物原状的场景。搭配多与需要保护的具体对象连用。",
+      "collocations": ["preserve the environment", "preserve cultural heritage", "preserve natural resources"],
+      "examples": [
+        {
+          "scene": "一位环保志愿者在社区组织活动，倡导减少塑料使用，以保护当地生态系统。",
+          "chineseIdea": "志愿者希望通过减少污染和资源浪费，让自然环境得以长期维持。",
+          "sentenceWithBlank": "She urged everyone to take action to @ @ @.",
+          "fullEnglishSentence": "She urged everyone to take action to 「preserve the environment」.",
+          "chineseTranslation": "她呼吁大家采取行动「保护环境」。",
+          "chinglishFix": "典型中式英语：'Protect environment' 纠正：'Preserve the environment'（使用‘preserve’更强调长期维持和保护的含义）。"
+        },
+        {
+          "scene": "一个历史博物馆的负责人正在向游客介绍修复古代文物的努力。",
+          "chineseIdea": "负责人希望通过专业修复，让古代文化遗迹得以保存供后代欣赏。",
+          "sentenceWithBlank": "Our team works tirelessly to @ @ @ for future generations.",
+          "fullEnglishSentence": "Our team works tirelessly to 「preserve cultural heritage」 for future generations.",
+          "chineseTranslation": "我们的团队不懈努力，以「保护文化遗产」供后代欣赏。",
+          "chinglishFix": "典型中式英语：'Keep cultural heritage' 纠正：'Preserve cultural heritage'（‘preserve’更适合表示保护珍贵事物的语境）。"
+        }
+      ]
+    },
+    {
+      "meaning": "保存食物，通过特定方法防止其变质",
+      "usage": "常用于描述通过腌制、冷冻或罐装等方式延长食物保质期的行为。搭配多与食物或保存方法相关。",
+      "collocations": ["preserve food", "preserve fruit", "preserve in jars"],
+      "examples": [
+        {
+          "scene": "一位家庭主妇在秋季收获大量水果后，决定制作果酱以延长水果的食用时间。",
+          "chineseIdea": "主妇希望通过加工水果，确保其在冬季也能食用。",
+          "sentenceWithBlank": "She spent the weekend learning how to @ @ to make jams.",
+          "fullEnglishSentence": "She spent the weekend learning how to 「preserve fruit」 to make jams.",
+          "chineseTranslation": "她花了整个周末学习如何「保存水果」来制作果酱。",
+          "chinglishFix": "典型中式英语：'Save fruit' 纠正：'Preserve fruit'（‘preserve’更具体指通过加工保存食物）。"
+        },
+        {
+          "scene": "一个乡村家庭在制作传统腌菜，准备过冬。",
+          "chineseIdea": "家庭通过腌制蔬菜，确保在寒冷的月份有足够的食物储备。",
+          "sentenceWithBlank": "They used special techniques to @ @ @ for the winter.",
+          "fullEnglishSentence": "They used special techniques to 「preserve in jars」 for the winter.",
+          "chineseTranslation": "他们使用特殊技术「在罐子里保存」以备冬用。",
+          "chinglishFix": "典型中式英语：'Put in jars to keep' 纠正：'Preserve in jars'（‘preserve’更准确描述食物的保存过程）。"
+        }
+      ]
+    },
+    {
+      "meaning": "保持或维持某种状态、品质或特性",
+      "usage": "用于描述维持抽象事物，如和平、健康、名誉等的状态。搭配多与抽象名词连用。",
+      "collocations": ["preserve peace", "preserve health", "preserve reputation"],
+      "examples": [
+        {
+          "scene": "一位外交官在国际会议上努力调解冲突各方。",
+          "chineseIdea": "外交官希望通过谈判维持地区的稳定与和平。",
+          "sentenceWithBlank": "His efforts were crucial to @ @ in the region.",
+          "fullEnglishSentence": "His efforts were crucial to 「preserve peace」 in the region.",
+          "chineseTranslation": "他的努力对「维持和平」至关重要。",
+          "chinglishFix": "典型中式英语：'Keep peace' 纠正：'Preserve peace'（‘preserve’更正式，强调长期维持）。"
+        },
+        {
+          "scene": "一位公众人物在面对丑闻时试图挽回公众信任。",
+          "chineseIdea": "公众人物希望通过公开道歉和行动，维持自己的良好形象。",
+          "sentenceWithBlank": "She took immediate action to @ @ after the controversy.",
+          "fullEnglishSentence": "She took immediate action to 「preserve reputation」 after the controversy.",
+          "chineseTranslation": "她在争议后立即采取行动以「维护声誉」。",
+          "chinglishFix": "典型中式英语：'Protect reputation' 纠正：'Preserve reputation'（‘preserve’更适合表示维持抽象品质的语境）。"
+        }
+      ]
+    }
+  ]
+}
+```

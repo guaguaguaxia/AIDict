@@ -1,0 +1,53 @@
+```json
+{
+  "word": "psychologist",
+  "definitions": [
+    {
+      "meaning": "研究人类心理和行为的科学家或专业人士，通常通过观察、实验或分析来研究心理过程和行为",
+      "usage": "指从事心理学研究的专业人士，可能在学术机构、医疗机构或其他环境中工作，研究领域包括认知、情感、行为等",
+      "collocations": ["clinical psychologist", "consult a psychologist", "work as a psychologist"],
+      "examples": [
+        {
+          "scene": "一位大学生因为学业压力过大，感到焦虑和失眠，决定向专业人士寻求帮助。她预约了一位在学校心理咨询中心工作的专家。",
+          "chineseIdea": "大学生希望通过与专业人士交谈，了解自己的情绪问题并找到应对压力的方法。",
+          "sentenceWithBlank": "She decided to @ @ for help with her anxiety.",
+          "fullEnglishSentence": "She decided to 「consult a psychologist」 for help with her anxiety.",
+          "chineseTranslation": "她决定「咨询心理学家」来帮助她处理焦虑。",
+          "chinglishFix": "典型中式英语：'She went to see a psychology doctor.' 纠正：'She consulted a psychologist.'（英语中不常称心理学家为'psychology doctor'，而是用'psychologist'或'clinical psychologist'等专业术语）"
+        },
+        {
+          "scene": "一家公司在员工中发现士气低落，管理层决定聘请一位专家来分析团队动态并提出改进建议。这位专家在组织心理学领域有丰富经验。",
+          "chineseIdea": "公司希望通过专业分析，改善员工的工作环境和团队合作。",
+          "sentenceWithBlank": "The company hired someone to @ @ @ to improve team morale.",
+          "fullEnglishSentence": "The company hired someone to 「work as a psychologist」 to improve team morale.",
+          "chineseTranslation": "公司聘请了一位「担任心理学家」的人来提升团队士气。",
+          "chinglishFix": "典型中式英语：'The company invited a psychologist to do work.' 纠正：'The company hired a psychologist to work on team morale.'（英语中'hire'和'work as'更自然，且需明确工作内容）"
+        }
+      ]
+    },
+    {
+      "meaning": "在临床环境中为个体提供心理咨询或治疗的专业人士，通常帮助患者处理心理健康问题，如抑郁、焦虑或创伤",
+      "usage": "指经过专业培训的心理学家，通常持有执照，在医院、诊所或私人诊所中为客户提供治疗或咨询服务",
+      "collocations": ["see a psychologist", "licensed psychologist", "therapy with a psychologist"],
+      "examples": [
+        {
+          "scene": "一位年轻妈妈在生完孩子后感到情绪低落，无法应对日常生活的压力。她的医生建议她与一位专业人士定期交谈以缓解症状。",
+          "chineseIdea": "妈妈希望通过专业帮助，学会管理自己的情绪，恢复正常生活。",
+          "sentenceWithBlank": "Her doctor recommended that she @ @ @ to address her postpartum depression.",
+          "fullEnglishSentence": "Her doctor recommended that she 「see a psychologist」 to address her postpartum depression.",
+          "chineseTranslation": "她的医生建议她「看心理学家」来处理产后抑郁。",
+          "chinglishFix": "典型中式英语：'She needs to find a psychology teacher.' 纠正：'She should see a psychologist.'（英语中不称心理学家为'teacher'，且'see'是寻求咨询的自然表达）"
+        },
+        {
+          "scene": "一位青少年在学校遭遇欺凌，变得沉默寡言，父母决定带他去一位专业人士那里接受治疗，以帮助他重建自信。",
+          "chineseIdea": "父母希望通过专业治疗，帮助孩子走出心理阴影，重新变得开朗。",
+          "sentenceWithBlank": "His parents arranged for him to start @ @ @ to rebuild his confidence.",
+          "fullEnglishSentence": "His parents arranged for him to start 「therapy with a psychologist」 to rebuild his confidence.",
+          "chineseTranslation": "他的父母安排他开始「与心理学家进行治疗」以重建自信。",
+          "chinglishFix": "典型中式英语：'He went to a psychologist for talking.' 纠正：'He started therapy with a psychologist.'（英语中'therapy'是心理治疗的常见表达，'for talking'过于模糊）"
+        }
+      ]
+    }
+  ]
+}
+```
