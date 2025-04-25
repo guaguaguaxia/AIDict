@@ -1,0 +1,53 @@
+```json
+{
+  "word": "connectivity",
+  "definitions": [
+    {
+      "meaning": "网络连接的能力或状态，特指设备或系统通过网络相互通信的能力",
+      "usage": "常用于描述互联网、移动网络、或其他通信技术的连接质量、范围或可靠性，常见于科技、通信和信息技术领域。",
+      "collocations": ["high-speed connectivity", "wireless connectivity", "global connectivity"],
+      "examples": [
+        {
+          "scene": "在一个咖啡店里，小明尝试用笔记本电脑连接Wi-Fi，但信号很弱，网页加载缓慢。他向店员询问网络情况。",
+          "chineseIdea": "小明想表达网络速度很快或很慢，强调连接的顺畅程度。",
+          "sentenceWithBlank": "The café advertised @ @ @, but my laptop struggled to load even a single page.",
+          "fullEnglishSentence": "The café advertised 「high-speed connectivity」, but my laptop struggled to load even a single page.",
+          "chineseTranslation": "这家咖啡店宣传「高速连接」，但我的笔记本电脑连一个网页都加载不了。",
+          "chinglishFix": "典型中式英语：'The network speed is very quick.' 纠正：'The network offers high-speed connectivity.'"
+        },
+        {
+          "scene": "在一场科技展会上，公司代表向客户介绍他们的最新路由器，强调其覆盖范围和连接稳定性。",
+          "chineseIdea": "公司想突出他们的产品能提供无缝的、无线网络体验。",
+          "sentenceWithBlank": "Our new router ensures @ @ @ across large homes and offices.",
+          "fullEnglishSentence": "Our new router ensures 「wireless connectivity」 across large homes and offices.",
+          "chineseTranslation": "我们的新路由器确保在大型住宅和办公室中提供「无线连接」。",
+          "chinglishFix": "典型中式英语：'Our router has strong signal.' 纠正：'Our router provides reliable wireless connectivity.'"
+        }
+      ]
+    },
+    {
+      "meaning": "人与人、组织或事物之间建立联系或相互关联的状态",
+      "usage": "用于描述社会、经济或生态系统中个体或群体之间的互动、联系或合作，常见于社会学、商业或生态学语境。",
+      "collocations": ["social connectivity", "economic connectivity", "community connectivity"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，组织者希望通过举办文化节来促进邻里之间的交流和联系。",
+          "chineseIdea": "组织者想表达活动能让社区居民更紧密地联系在一起。",
+          "sentenceWithBlank": "The cultural festival aims to foster @ @ @ among residents.",
+          "fullEnglishSentence": "The cultural festival aims to foster 「social connectivity」 among residents.",
+          "chineseTranslation": "文化节旨在促进居民之间的「社交联系」。",
+          "chinglishFix": "典型中式英语：'The festival makes people more close.' 纠正：'The festival fosters social connectivity among residents.'"
+        },
+        {
+          "scene": "在一场国际贸易会议上，发言人讨论如何通过基础设施建设加强各国之间的经济联系。",
+          "chineseIdea": "发言人想强调基础设施对促进国家间经济合作的重要性。",
+          "sentenceWithBlank": "Investing in transportation networks can enhance @ @ @ between nations.",
+          "fullEnglishSentence": "Investing in transportation networks can enhance 「economic connectivity」 between nations.",
+          "chineseTranslation": "投资于交通网络可以增强国家之间的「经济联系」。",
+          "chinglishFix": "典型中式英语：'Transportation makes countries more connected.' 纠正：'Transportation networks enhance economic connectivity between nations.'"
+        }
+      ]
+    }
+  ]
+}
+```
