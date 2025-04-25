@@ -1,0 +1,53 @@
+```json
+{
+  "word": "physics",
+  "definitions": [
+    {
+      "meaning": "研究自然界基本规律和现象的科学",
+      "usage": "指一门研究物质、能量、力及其相互作用的学科，通常与数学密切相关，涵盖力学、热学、光学、电磁学、量子力学等分支。",
+      "collocations": ["study physics", "quantum physics", "theoretical physics", "apply physics"],
+      "examples": [
+        {
+          "scene": "一个大学生在图书馆准备期末考试，周围堆满了教科书和笔记。他专注于研究自然界的规律，尤其是力学部分的内容。",
+          "chineseIdea": "这个学生想要深入理解物体运动和力的关系，希望通过学习这门科学来解释现实世界中的现象。",
+          "sentenceWithBlank": "She decided to @ @ to better understand the laws of motion.",
+          "fullEnglishSentence": "She decided to 「study physics」 to better understand the laws of motion.",
+          "chineseTranslation": "她决定「学习物理」以更好地理解运动定律。",
+          "chinglishFix": "中式英语：She wants to learn physics knowledge. 纠正：She wants to study physics."
+        },
+        {
+          "scene": "一位高中生在物理课上被老师的问题难住了，老师正在讲解光的行为，学生试图将理论知识与现实联系起来。",
+          "chineseIdea": "学生希望通过这门学科了解光是如何传播的，以及为什么会发生折射和反射。",
+          "sentenceWithBlank": "The teacher encouraged students to explore @ @ to explain light behavior.",
+          "fullEnglishSentence": "The teacher encouraged students to explore 「quantum physics」 to explain light behavior.",
+          "chineseTranslation": "老师鼓励学生探索「量子物理」来解释光的行为。",
+          "chinglishFix": "中式英语：Teacher let us study quantum physics knowledge. 纠正：The teacher encouraged us to explore quantum physics."
+        }
+      ]
+    },
+    {
+      "meaning": "某事物运作的原理或机制",
+      "usage": "用来描述某个系统、设备或现象的内在规律或工作方式，通常是非正式用法，常见于比喻性表达。",
+      "collocations": ["physics of", "understand the physics", "basic physics"],
+      "examples": [
+        {
+          "scene": "一位工程师在向团队解释一辆新型电动车的工作原理，试图用简单的语言让非技术人员也能理解。",
+          "chineseIdea": "工程师想说明电池和电机如何协同工作，强调背后的基本机制。",
+          "sentenceWithBlank": "He explained the @ @ the car’s battery system in simple terms.",
+          "fullEnglishSentence": "He explained the 「physics of」 the car’s battery system in simple terms.",
+          "chineseTranslation": "他用简单的术语解释了汽车电池系统的「工作原理」。",
+          "chinglishFix": "中式英语：He explained the physics knowledge of the battery. 纠正：He explained the physics of the battery system."
+        },
+        {
+          "scene": "一个运动爱好者在健身房与教练讨论如何提高投篮命中率，教练提到球的轨迹和力量的运用。",
+          "chineseIdea": "教练希望通过讲解球的运动轨迹，让学员明白如何控制力度和角度。",
+          "sentenceWithBlank": "The coach helped him @ @ @ of shooting a basketball accurately.",
+          "fullEnglishSentence": "The coach helped him 「understand the basic physics」 of shooting a basketball accurately.",
+          "chineseTranslation": "教练帮助他「理解投篮准确的基本原理」。",
+          "chinglishFix": "中式英语：Coach teach me basketball physics. 纠正：The coach helped me understand the basic physics of basketball."
+        }
+      ]
+    }
+  ]
+}
+```

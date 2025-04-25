@@ -1,0 +1,53 @@
+```json
+{
+  "word": "qualification",
+  "definitions": [
+    {
+      "meaning": "证明某人具备特定技能、知识或能力的官方认证或条件",
+      "usage": "指通过考试、培训或其他评估获得的证书、文凭或能力证明，常用于描述教育或职业背景。",
+      "collocations": ["academic qualification", "professional qualification", "required qualification"],
+      "examples": [
+        {
+          "scene": "小明在准备申请一所英国大学的研究生项目，学校要求提交学术成绩和相关证书。",
+          "chineseIdea": "小明需要证明自己有足够的学术背景来胜任研究生课程。",
+          "sentenceWithBlank": "To apply for the master’s program, you must submit your @ @ along with your transcript.",
+          "fullEnglishSentence": "To apply for the master’s program, you must submit your 「academic qualification」 along with your transcript.",
+          "chineseTranslation": "申请硕士课程，你必须提交你的「学术资质」和成绩单。",
+          "chinglishFix": "典型中式英语：'You need give your study certificate.' 纠正：'You need to submit your academic qualifications.'"
+        },
+        {
+          "scene": "一家公司在招聘广告中列出了对候选人的学历和证书要求。",
+          "chineseIdea": "公司希望确保应聘者具备完成工作所需的知识和技能。",
+          "sentenceWithBlank": "Candidates must hold a @ @ in accounting or a related field.",
+          "fullEnglishSentence": "Candidates must hold a 「professional qualification」 in accounting or a related field.",
+          "chineseTranslation": "候选人必须持有会计或相关领域的「专业资质」。",
+          "chinglishFix": "典型中式英语：'You must have accounting certificate.' 纠正：'You must hold a professional qualification in accounting.'"
+        }
+      ]
+    },
+    {
+      "meaning": "限制或条件，用于限定某事物的适用范围或有效性",
+      "usage": "指对某项陈述、规则或协议的限制性说明，常用于正式或法律语境。",
+      "collocations": ["without qualification", "subject to qualification", "important qualification"],
+      "examples": [
+        {
+          "scene": "在一场商业谈判中，双方达成协议，但其中一方提出了一些限制性条款。",
+          "chineseIdea": "一方希望明确协议的适用范围，避免未来产生误解。",
+          "sentenceWithBlank": "We agree to the terms, but @ @ regarding the delivery timeline.",
+          "fullEnglishSentence": "We agree to the terms, but 「subject to qualification」 regarding the delivery timeline.",
+          "chineseTranslation": "我们同意这些条款，但关于交货时间有「附加条件」。",
+          "chinglishFix": "典型中式英语：'We agree, but have some limits.' 纠正：'We agree, but subject to qualifications regarding the terms.'"
+        },
+        {
+          "scene": "一位教授在学术会议上提出了一种理论，但强调它并非通用的结论。",
+          "chineseIdea": "教授希望澄清自己的观点在某些情况下可能不适用。",
+          "sentenceWithBlank": "This theory holds true @ @ in specific contexts.",
+          "fullEnglishSentence": "This theory holds true 「without qualification」 in specific contexts.",
+          "chineseTranslation": "在特定情况下，这一理论「毫无保留地」成立。",
+          "chinglishFix": "典型中式英语：'This theory is true, no conditions.' 纠正：'This theory holds true without qualification.'"
+        }
+      ]
+    }
+  ]
+}
+```
