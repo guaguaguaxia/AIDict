@@ -1,0 +1,76 @@
+```json
+{
+  "word": "contract",
+  "definitions": [
+    {
+      "meaning": "书面或口头的法律协议，通常涉及双方承诺的义务",
+      "usage": "作为名词，指具有法律约束力的协议，通常用于商业、劳动或服务领域；作为动词，指签订或达成这样的协议。",
+      "collocations": ["sign a contract", "breach a contract", "negotiate a contract"],
+      "examples": [
+        {
+          "scene": "一位中国留学生在英国找到一份兼职工作，雇主要求他签署劳动协议以明确工作职责和薪资。",
+          "chineseIdea": "学生需要正式同意工作条件，确保双方权益得到保护。",
+          "sentenceWithBlank": "Before starting the job, he had to @ @ @ with the employer.",
+          "fullEnglishSentence": "Before starting the job, he had to 「sign a contract」 with the employer.",
+          "chineseTranslation": "在开始工作之前，他必须与雇主「签署合同」。",
+          "chinglishFix": "典型中式英语：'He must sign a paper with the boss.' 纠正：'He must sign a contract with the employer.'（中式英语常将'合同'简化为'paper'，显得不专业。）"
+        },
+        {
+          "scene": "一家中国公司在与外国供应商合作时，双方经过多次谈判后达成协议，明确供货条款。",
+          "chineseIdea": "双方需要通过谈判达成一致，确保合作顺利进行。",
+          "sentenceWithBlank": "The company spent weeks @ @ @ with the supplier.",
+          "fullEnglishSentence": "The company spent weeks 「negotiating a contract」 with the supplier.",
+          "chineseTranslation": "公司花了数周与供应商「谈判合同」。",
+          "chinglishFix": "典型中式英语：'The company talked a contract with the supplier.' 纠正：'The company negotiated a contract with the supplier.'（中式英语常误用'talk'代替'negotiate'，忽略正式谈判的语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "身体或物体因外力或自然原因而缩小或紧缩",
+      "usage": "作为动词，指物体或肌肉因压力、温度变化或其他原因而体积或长度减少；也可用于描述抽象事物的缩小，如范围或数量。",
+      "collocations": ["contract muscles", "contract in size", "contract due to cold"],
+      "examples": [
+        {
+          "scene": "一位中国游客在冬天参观加拿大，注意到金属栏杆在低温下发生了轻微变形。",
+          "chineseIdea": "低温导致金属材料收缩，尺寸略有变化。",
+          "sentenceWithBlank": "The metal railings @ @ @ when the temperature dropped.",
+          "fullEnglishSentence": "The metal railings 「contracted in size」 when the temperature dropped.",
+          "chineseTranslation": "金属栏杆在温度下降时「缩小了尺寸」。",
+          "chinglishFix": "典型中式英语：'The railings become smaller because of cold.' 纠正：'The railings contracted in size due to the cold.'（中式英语常使用过于简单的'become smaller'，缺乏专业术语。）"
+        },
+        {
+          "scene": "一位健身爱好者在健身房锻炼时，教练指导他如何正确发力以增强肌肉。",
+          "chineseIdea": "通过控制肌肉的收缩和放松，可以有效锻炼身体。",
+          "sentenceWithBlank": "The coach instructed him to @ @ @ during the exercise.",
+          "fullEnglishSentence": "The coach instructed him to 「contract muscles」 during the exercise.",
+          "chineseTranslation": "教练指导他在锻炼时「收缩肌肉」。",
+          "chinglishFix": "典型中式英语：'He must tight his muscles.' 纠正：'He must contract his muscles.'（中式英语常误用'tight'代替'contract'，不符合健身术语。）"
+        }
+      ]
+    },
+    {
+      "meaning": "感染疾病，通常指通过接触或传播而得病",
+      "usage": "作为动词，指因暴露于病原体而患上某种疾病，通常用于传染病或特定疾病的语境。",
+      "collocations": ["contract a disease", "contract an infection", "contract a virus"],
+      "examples": [
+        {
+          "scene": "一位中国学生在国外留学期间，因未接种疫苗而在流感季感染了流感。",
+          "chineseIdea": "没有防护措施可能导致感染疾病，尤其在病毒高发期。",
+          "sentenceWithBlank": "He @ @ @ because he didn’t get vaccinated.",
+          "fullEnglishSentence": "He 「contracted a virus」 because he didn’t get vaccinated.",
+          "chineseTranslation": "他因为没有接种疫苗而「感染了病毒」。",
+          "chinglishFix": "典型中式英语：'He got a virus.' 纠正：'He contracted a virus.'（中式英语常用'get'，显得不够正式且模糊。）"
+        },
+        {
+          "scene": "一位中国游客在热带地区旅行时，因蚊虫叮咬而感染了一种当地疾病。",
+          "chineseIdea": "在特定环境中，缺乏防护可能导致感染疾病。",
+          "sentenceWithBlank": "She @ @ @ after being bitten by mosquitoes.",
+          "fullEnglishSentence": "She 「contracted a disease」 after being bitten by mosquitoes.",
+          "chineseTranslation": "她在被蚊子叮咬后「感染了疾病」。",
+          "chinglishFix": "典型中式英语：'She caught a sickness from mosquitoes.' 纠正：'She contracted a disease from mosquito bites.'（中式英语常用'catch'或'sickness'，不够精确。）"
+        }
+      ]
+    }
+  ]
+}
+```

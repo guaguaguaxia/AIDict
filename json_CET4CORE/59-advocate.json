@@ -1,0 +1,53 @@
+```json
+{
+  "word": "advocate",
+  "definitions": [
+    {
+      "meaning": "公开支持或推荐某事物或某人",
+      "usage": "作为动词，表示公开支持某种观点、政策或行动，通常用于正式或半正式场合，如辩论、政策讨论或公开演讲；作为名词，指支持者或辩护者，常用于描述为某事业或群体发声的人。",
+      "collocations": ["advocate for change", "advocate human rights", "advocate a policy"],
+      "examples": [
+        {
+          "scene": "在一场关于环境保护的社区会议上，一位居民站出来发言，呼吁大家采取行动减少塑料污染。",
+          "chineseIdea": "这位居民希望通过表达支持环保的立场，激励社区采取实际措施，比如减少使用一次性塑料制品。",
+          "sentenceWithBlank": "She passionately @ @ @ to reduce plastic waste in our community.",
+          "fullEnglishSentence": "She passionately 「advocated for change」 to reduce plastic waste in our community.",
+          "chineseTranslation": "她热情地「倡导变革」以减少我们社区的塑料浪费。",
+          "chinglishFix": "典型中式英语：She suggests to change for less plastic. 纠正：She advocates for change to reduce plastic waste.（中式英语常使用过于简单的'suggest'或缺少搭配，需用'advocate for'表达公开支持。）"
+        },
+        {
+          "scene": "一位非政府组织的成员在国际会议上发言，强调保护濒危物种的重要性。",
+          "chineseIdea": "这位成员希望通过公开支持保护濒危物种的行动，促使各国政府采取更严格的法律措施。",
+          "sentenceWithBlank": "He tirelessly @ @ @ to protect endangered species.",
+          "fullEnglishSentence": "He tirelessly 「advocated human rights」 to protect endangered species.",
+          "chineseTranslation": "他不懈地「倡导人权」以保护濒危物种。",
+          "chinglishFix": "典型中式英语：He speaks for animal rights. 纠正：He advocates human rights to protect endangered species.（中式英语常误用'speak for'，应使用'advocate'搭配具体目标。）"
+        }
+      ]
+    },
+    {
+      "meaning": "为某人辩护或代表某人发言",
+      "usage": "作为动词，表示在法律、道德或社会情境中为某人或某群体辩护或代言，通常涉及正式的代表性角色；作为名词，指辩护律师或代言人，常见于法律或正式讨论中。",
+      "collocations": ["advocate for a client", "advocate on behalf of", "advocate a cause"],
+      "examples": [
+        {
+          "scene": "在法庭上，一位律师为一位被错误指控的年轻人辩护，试图证明他的清白。",
+          "chineseIdea": "律师希望通过强有力的辩护，让法官和陪审团相信被告是无辜的，从而避免不公正的判决。",
+          "sentenceWithBlank": "The lawyer skillfully @ @ @ to ensure justice was served.",
+          "fullEnglishSentence": "The lawyer skillfully 「advocated for a client」 to ensure justice was served.",
+          "chineseTranslation": "律师巧妙地「为客户辩护」以确保正义得到伸张。",
+          "chinglishFix": "典型中式英语：The lawyer speaks for his client. 纠正：The lawyer advocates for his client.（中式英语常误用'speak for'，应使用'advocate for'表示正式辩护。）"
+        },
+        {
+          "scene": "在一次学校会议上，一位家长代表弱势学生群体发言，要求学校提供更多支持。",
+          "chineseIdea": "这位家长希望通过代表这些学生发声，推动学校为他们提供更好的资源和机会。",
+          "sentenceWithBlank": "She confidently @ @ @ to secure better resources for disadvantaged students.",
+          "fullEnglishSentence": "She confidently 「advocated on behalf of」 to secure better resources for disadvantaged students.",
+          "chineseTranslation": "她自信地「代表…发言」以确保为弱势学生争取更好的资源。",
+          "chinglishFix": "典型中式英语：She talks for the students. 纠正：She advocates on behalf of the students.（中式英语常用'talk for'，但'advocate on behalf of'更正式且符合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```
