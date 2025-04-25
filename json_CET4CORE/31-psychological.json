@@ -1,0 +1,53 @@
+```json
+{
+  "word": "psychological",
+  "definitions": [
+    {
+      "meaning": "与心理或精神状态相关的",
+      "usage": "形容与人类思维、情感、行为或精神状态相关的事物，常用于描述心理过程、心理健康或心理影响。",
+      "collocations": ["psychological impact", "psychological support", "psychological disorder"],
+      "examples": [
+        {
+          "scene": "一位大学生因为学业压力过大，感到焦虑和失眠，决定寻求专业的帮助。",
+          "chineseIdea": "描述学业压力对学生精神状态的负面影响，强调心理层面的后果。",
+          "sentenceWithBlank": "The intense pressure from exams had a significant @ @ on her mental health.",
+          "fullEnglishSentence": "The intense pressure from exams had a significant 「psychological impact」 on her mental health.",
+          "chineseTranslation": "考试的巨大压力对她的心理健康产生了显著的「心理影响」。",
+          "chinglishFix": "典型中式英语：'The exam pressure made her psychology bad.' 纠正：'The exam pressure had a negative psychological impact on her.'"
+        },
+        {
+          "scene": "一位朋友在亲人去世后情绪低落，你建议他寻求专业人士的帮助来缓解悲伤。",
+          "chineseIdea": "建议通过专业帮助来改善心理状态，强调心理支持的作用。",
+          "sentenceWithBlank": "After her loss, she was encouraged to seek @ @ to cope with her grief.",
+          "fullEnglishSentence": "After her loss, she was encouraged to seek 「psychological support」 to cope with her grief.",
+          "chineseTranslation": "在失去亲人后，她被鼓励寻求「心理支持」来应对悲伤。",
+          "chinglishFix": "典型中式英语：'She needs psychology help.' 纠正：'She needs psychological support.'"
+        }
+      ]
+    },
+    {
+      "meaning": "涉及心理学或心理研究的",
+      "usage": "形容与心理学学科、研究或理论相关的内容，常用于学术或专业场景。",
+      "collocations": ["psychological research", "psychological theory", "psychological assessment"],
+      "examples": [
+        {
+          "scene": "一所大学的研究团队正在研究儿童如何处理复杂情绪，他们发表了一篇关于这一主题的论文。",
+          "chineseIdea": "描述心理学领域的学术研究，强调研究儿童情绪的过程。",
+          "sentenceWithBlank": "The team conducted extensive @ @ to understand how children process emotions.",
+          "fullEnglishSentence": "The team conducted extensive 「psychological research」 to understand how children process emotions.",
+          "chineseTranslation": "该团队进行了广泛的「心理学研究」，以了解儿童如何处理情绪。",
+          "chinglishFix": "典型中式英语：'They did psychology study on kids.' 纠正：'They conducted psychological research on children.'"
+        },
+        {
+          "scene": "一位心理咨询师使用标准化工具来评估客户的焦虑水平，以制定治疗计划。",
+          "chineseIdea": "描述心理学中用于评估心理状态的专业方法。",
+          "sentenceWithBlank": "The therapist used a @ @ to evaluate the client’s anxiety levels.",
+          "fullEnglishSentence": "The therapist used a 「psychological assessment」 to evaluate the client’s anxiety levels.",
+          "chineseTranslation": "治疗师使用「心理评估」来评估客户的焦虑水平。",
+          "chinglishFix": "典型中式英语：'The doctor checked her psychology.' 纠正：'The therapist conducted a psychological assessment.'"
+        }
+      ]
+    }
+  ]
+}
+```

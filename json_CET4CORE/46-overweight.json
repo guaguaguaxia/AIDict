@@ -1,0 +1,53 @@
+```json
+{
+  "word": "overweight",
+  "definitions": [
+    {
+      "meaning": "体重超标，超过正常或健康的体重",
+      "usage": "形容一个人或动物的体重超过健康标准，通常与健康问题相关。常用于医疗、健身或日常生活场景。",
+      "collocations": ["be significantly overweight", "become dangerously overweight", "tackle being overweight"],
+      "examples": [
+        {
+          "scene": "在一次体检中，医生与患者讨论健康问题，提到体重超标可能导致的风险。",
+          "chineseIdea": "医生希望患者意识到体重问题，并建议采取行动以改善健康。",
+          "sentenceWithBlank": "The doctor warned that if you @ @ @, it could lead to serious health issues like diabetes.",
+          "fullEnglishSentence": "The doctor warned that if you 「are significantly overweight」, it could lead to serious health issues like diabetes.",
+          "chineseTranslation": "医生警告说，如果你「体重严重超标」，可能会导致糖尿病等严重健康问题。",
+          "chinglishFix": "典型中式英语：'Your weight is too heavy.' 纠正：'You are significantly overweight.'"
+        },
+        {
+          "scene": "朋友在健身房聊天，讨论如何通过锻炼和饮食控制体重。",
+          "chineseIdea": "朋友鼓励彼此采取措施，避免体重进一步超标。",
+          "sentenceWithBlank": "She’s been working out daily to @ @ @ and feel healthier.",
+          "fullEnglishSentence": "She’s been working out daily to 「tackle being overweight」 and feel healthier.",
+          "chineseTranslation": "她每天锻炼以「应对体重超标」并感觉更健康。",
+          "chinglishFix": "典型中式英语：'She exercises to reduce fat.' 纠正：'She’s working out to tackle being overweight.'"
+        }
+      ]
+    },
+    {
+      "meaning": "超过规定重量的（物品、行李等）",
+      "usage": "形容物品或行李超过规定重量限制，常用于旅行、运输或物流场景。",
+      "collocations": ["pay for overweight luggage", "charge for overweight baggage", "avoid carrying overweight items"],
+      "examples": [
+        {
+          "scene": "在机场值机柜台，乘客发现行李超重，需要支付额外费用。",
+          "chineseIdea": "乘客试图减少行李重量以避免额外费用，但发现很难做到。",
+          "sentenceWithBlank": "The airline staff informed her that she’d have to @ @ @ because her suitcase exceeded the limit.",
+          "fullEnglishSentence": "The airline staff informed her that she’d have to 「pay for overweight luggage」 because her suitcase exceeded the limit.",
+          "chineseTranslation": "航空公司工作人员告诉她，她必须「为超重行李付费」，因为她的行李箱超出了限制。",
+          "chinglishFix": "典型中式英语：'Your luggage is too heavy to pay.' 纠正：'You need to pay for overweight luggage.'"
+        },
+        {
+          "scene": "在准备国际搬家时，一个人在打包时意识到需要控制物品重量。",
+          "chineseIdea": "为了节省运输费用，尽量减少超重物品。",
+          "sentenceWithBlank": "He carefully packed to @ @ @ during the move.",
+          "fullEnglishSentence": "He carefully packed to 「avoid carrying overweight items」 during the move.",
+          "chineseTranslation": "他小心打包以「避免携带超重物品」在搬家期间。",
+          "chinglishFix": "典型中式英语：'He packed to not heavy things.' 纠正：'He packed to avoid carrying overweight items.'"
+        }
+      ]
+    }
+  ]
+}
+```

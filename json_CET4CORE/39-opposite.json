@@ -1,0 +1,76 @@
+```json
+{
+  "word": "opposite",
+  "definitions": [
+    {
+      "meaning": "在位置、方向或性质上相对的；对立的",
+      "usage": "指两个事物在空间、方向、性质或意义上完全相反，通常用于描述物理位置或抽象概念的对立关系。",
+      "collocations": ["opposite side", "opposite direction", "opposite effect"],
+      "examples": [
+        {
+          "scene": "你在北京的一个公园散步，朋友指着一条路的尽头说，咖啡店在路的另一边。",
+          "chineseIdea": "咖啡店在路的对面，强调空间上的相对位置。",
+          "sentenceWithBlank": "The coffee shop is on the @ @ of the road.",
+          "fullEnglishSentence": "The coffee shop is on the 「opposite side」 of the road.",
+          "chineseTranslation": "咖啡店在路的「对面」。",
+          "chinglishFix": "Chinglish: The coffee shop is in the across side of the road.\nCorrect: The coffee shop is on the opposite side of the road."
+        },
+        {
+          "scene": "你在上海开车，导航告诉你需要掉头，因为你走错了方向。",
+          "chineseIdea": "需要朝相反的方向行驶，强调方向的对立。",
+          "sentenceWithBlank": "You need to turn around and drive in the @ @.",
+          "fullEnglishSentence": "You need to turn around and drive in the 「opposite direction」.",
+          "chineseTranslation": "你需要掉头，朝「相反的方向」行驶。",
+          "chinglishFix": "Chinglish: You should drive to the contrary direction.\nCorrect: You should drive in the opposite direction."
+        }
+      ]
+    },
+    {
+      "meaning": "完全不同的；相反的",
+      "usage": "指两个事物在性质、特点或行为上完全不同，强调对比或矛盾。",
+      "collocations": ["opposite opinion", "opposite approach", "opposite result"],
+      "examples": [
+        {
+          "scene": "在广州的一个团队会议上，你和同事对如何推广新产品有不同看法。",
+          "chineseIdea": "你认为应该用社交媒体推广，而同事认为传统广告更好，观点完全相反。",
+          "sentenceWithBlank": "My colleague has an @ @ on how to market the product.",
+          "fullEnglishSentence": "My colleague has an 「opposite opinion」 on how to market the product.",
+          "chineseTranslation": "我的同事对如何推广产品有「相反的观点」。",
+          "chinglishFix": "Chinglish: My colleague has a different idea about marketing.\nCorrect: My colleague has an opposite opinion on how to market the product."
+        },
+        {
+          "scene": "在深圳的一个课堂讨论中，学生们讨论两种学习方法的优劣。",
+          "chineseIdea": "有人认为自学效果好，有人认为需要老师指导，方法完全不同。",
+          "sentenceWithBlank": "Self-study and guided learning are often seen as @ @ to education.",
+          "fullEnglishSentence": "Self-study and guided learning are often seen as 「opposite approaches」 to education.",
+          "chineseTranslation": "自学和指导学习常被视为教育的「相反方法」。",
+          "chinglishFix": "Chinglish: Self-study and guided learning are two different ways.\nCorrect: Self-study and guided learning are opposite approaches to education."
+        }
+      ]
+    },
+    {
+      "meaning": "对面的；另一边的（名词用法）",
+      "usage": "作为名词，指位于对面的事物或人，常用于描述空间上的相对位置。",
+      "collocations": ["the opposite", "exact opposite", "polar opposite"],
+      "examples": [
+        {
+          "scene": "在杭州的一个咖啡馆，你和朋友坐在靠窗的座位，讨论窗外对面大楼的建筑风格。",
+          "chineseIdea": "你想表达对面的大楼看起来很现代，强调对面的位置。",
+          "sentenceWithBlank": "The building on @ is very modern.",
+          "fullEnglishSentence": "The building on 「the opposite」 is very modern.",
+          "chineseTranslation": "「对面」的大楼非常现代。",
+          "chinglishFix": "Chinglish: The building at the across is modern.\nCorrect: The building on the opposite is very modern."
+        },
+        {
+          "scene": "在成都的一个聚会上，你描述一个朋友的性格和你完全不同。",
+          "chineseIdea": "你想说这个朋友的性格是你的完全相反，强调性格的对立。",
+          "sentenceWithBlank": "Her personality is the @ @ of mine.",
+          "fullEnglishSentence": "Her personality is the 「exact opposite」 of mine.",
+          "chineseTranslation": "她的性格是我的「完全相反」。",
+          "chinglishFix": "Chinglish: Her personality is very different from mine.\nCorrect: Her personality is the exact opposite of mine."
+        }
+      ]
+    }
+  ]
+}
+```
