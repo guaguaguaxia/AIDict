@@ -1,0 +1,76 @@
+```json
+{
+  "word": "lap",
+  "definitions": [
+    {
+      "meaning": "大腿上平坦的区域（当人坐下时）",
+      "usage": "指一个人坐下时，大腿形成的平坦区域，通常用于描述某物被放置在这个区域上，或者某人坐在另一个人的腿上。",
+      "collocations": ["sit on someone's lap", "rest on the lap", "hold in the lap", "fall into the lap"],
+      "examples": [
+        {
+          "scene": "在一个温馨的家庭聚会上，客厅里挤满了人，孩子们在寻找可以坐的地方。小明看到他的姑姑坐在沙发上，笑着跑过去，想和她一起分享座位。",
+          "chineseIdea": "小明想要坐在姑姑的大腿上，表达亲密和依赖的感觉。",
+          "sentenceWithBlank": "The child happily @ @ @姑姑的@ to share a cozy moment.",
+          "fullEnglishSentence": "The child happily 「sat on姑姑的lap」 to share a cozy moment.",
+          "chineseTranslation": "孩子开心地「坐在姑姑的大腿上」分享温馨的时刻。",
+          "chinglishFix": "典型中式英语：'The child sit on aunt's leg.' 纠正：'The child sat on the aunt's lap.'（使用'sit on someone's lap'这一固定搭配，且注意时态和冠词。）"
+        },
+        {
+          "scene": "在一个安静的图书馆里，小丽坐在窗边的椅子上，膝盖上放着一本厚厚的书。她专注于阅读，周围的世界仿佛都安静了。",
+          "chineseIdea": "小丽把书放在大腿上，沉浸在阅读中，体现一种舒适的姿势。",
+          "sentenceWithBlank": "She carefully @ @ @her@ while reading a novel.",
+          "fullEnglishSentence": "She carefully 「rested on her lap」 while reading a novel.",
+          "chineseTranslation": "她小心地把书「放在她的大腿上」一边读小说。",
+          "chinglishFix": "典型中式英语：'She put the book on her leg.' 纠正：'She rested the book on her lap.'（'rest on the lap'更自然，'leg'不如'lap'贴合语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "赛道或泳池的一次完整圈",
+      "usage": "在体育比赛（如跑步、游泳或赛车）中，指绕赛道或泳池一圈的行为，通常用于计数完成的圈数。",
+      "collocations": ["complete a lap", "run a lap", "swim a lap", "final lap"],
+      "examples": [
+        {
+          "scene": "在学校的运动会上，小刚参加400米跑步比赛。每次绕操场跑一圈后，他都会听到教练在终点线旁喊他的名字，鼓励他继续。",
+          "chineseIdea": "小刚需要跑完一整圈操场，体现比赛中的努力和坚持。",
+          "sentenceWithBlank": "He pushed himself to @ @ @ around the track.",
+          "fullEnglishSentence": "He pushed himself to 「complete a lap」 around the track.",
+          "chineseTranslation": "他努力让自己「完成一圈」绕着跑道跑。",
+          "chinglishFix": "典型中式英语：'He finished one circle.' 纠正：'He completed a lap.'（'complete a lap'是体育场景的正确表达，'circle'不够专业。）"
+        },
+        {
+          "scene": "在一个炎热的夏日，小红在社区游泳池练习游泳。她计划游10圈来提高耐力，每次游完一圈后都会在池边稍作休息。",
+          "chineseIdea": "小红在泳池里游完一圈，展现她的训练计划。",
+          "sentenceWithBlank": "She felt accomplished after @ @ @ in the pool.",
+          "fullEnglishSentence": "She felt accomplished after 「swimming a lap」 in the pool.",
+          "chineseTranslation": "她在泳池里「游完一圈」后感到很有成就感。",
+          "chinglishFix": "典型中式英语：'She swam one round.' 纠正：'She swam a lap.'（'swim a lap'是游泳场景的标准表达，'round'不够准确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "液体舔食或拍打的声音/动作",
+      "usage": "描述动物（如狗、猫）用舌头舔食液体，或水波轻拍岸边、船体的动作或声音，带有轻柔、重复的意象。",
+      "collocations": ["lap at the shore", "lap up water", "lap against the boat", "gently lap"],
+      "examples": [
+        {
+          "scene": "在一个宁静的湖边，小明带着他的小狗去散步。湖水轻轻地拍打着岸边的石头，发出柔和的声音。",
+          "chineseIdea": "湖水轻拍岸边，营造出平静的氛围。",
+          "sentenceWithBlank": "The water @ @ @the@, creating a soothing sound.",
+          "fullEnglishSentence": "The water 「lapped at the shore」, creating a soothing sound.",
+          "chineseTranslation": "水「拍打着岸边」，制造出舒缓的声音。",
+          "chinglishFix": "典型中式英语：'The water hit the shore.' 纠正：'The water lapped at the shore.'（'lap at'更能体现轻柔的动作，'hit'显得过于强烈。）"
+        },
+        {
+          "scene": "在家里吃完晚饭后，小丽把一碗牛奶放在地上，她的小猫咪立刻跑过来，兴奋地舔着牛奶。",
+          "chineseIdea": "小猫快速舔食牛奶，体现它的满足和喜爱。",
+          "sentenceWithBlank": "The kitten eagerly @ @ @from the bowl.",
+          "fullEnglishSentence": "The kitten eagerly 「lapped up water」 from the bowl.",
+          "chineseTranslation": "小猫急切地从碗里「舔食牛奶」。",
+          "chinglishFix": "典型中式英语：'The cat drank the milk.' 纠正：'The cat lapped up the milk.'（'lap up'更生动地描述猫舔食的动作，'drink'不够具体。）"
+        }
+      ]
+    }
+  ]
+}
+```

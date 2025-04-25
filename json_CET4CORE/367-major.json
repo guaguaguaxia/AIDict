@@ -1,0 +1,76 @@
+```json
+{
+  "word": "major",
+  "definitions": [
+    {
+      "meaning": "主要的，重要的",
+      "usage": "用作形容词，表示某事物在规模、重要性或程度上的显著性，常用于描述具有重要影响或占主导地位的事物。",
+      "collocations": ["major issue", "major role", "major impact"],
+      "examples": [
+        {
+          "scene": "在一场公司会议中，管理层正在讨论公司未来发展的关键问题。",
+          "chineseIdea": "某个问题被认为是公司战略中最重要的事情，需要优先解决。",
+          "sentenceWithBlank": "The CEO highlighted that the @ @ is the company's top priority this year.",
+          "fullEnglishSentence": "The CEO highlighted that the 「major issue」 is the company's top priority this year.",
+          "chineseTranslation": "首席执行官强调，「主要问题」是公司今年的首要任务。",
+          "chinglishFix": "典型中式英语：'This is a very big problem.' 纠正：'This is a major issue.'（用'major issue'更准确地表达重要性，而不是模糊的'big'）"
+        },
+        {
+          "scene": "在一部电影的制作过程中，导演讨论某个演员的贡献。",
+          "chineseIdea": "某个演员在电影的成功中扮演了非常重要的角色。",
+          "sentenceWithBlank": "The lead actor played a @ @ in the film's success.",
+          "fullEnglishSentence": "The lead actor played a 「major role」 in the film's success.",
+          "chineseTranslation": "主演在电影的成功中扮演了「主要角色」。",
+          "chinglishFix": "典型中式英语：'He is very important in the movie.' 纠正：'He played a major role in the movie.'（用'major role'更具体地描述贡献，而不是笼统的'important'）"
+        }
+      ]
+    },
+    {
+      "meaning": "主修（学术领域的专业）",
+      "usage": "用作名词，指大学或学院学生选择的主要学科或专业；也可用作动词，表示选择某学科作为主修。",
+      "collocations": ["major in", "double major", "declare a major"],
+      "examples": [
+        {
+          "scene": "大学新生在咨询学术顾问，讨论自己的专业选择。",
+          "chineseIdea": "学生决定专注于某个学科，比如计算机科学，作为自己的主修方向。",
+          "sentenceWithBlank": "She decided to @ @ computer science to pursue her passion for technology.",
+          "fullEnglishSentence": "She decided to 「major in」 computer science to pursue her passion for technology.",
+          "chineseTranslation": "她决定「主修」计算机科学，以追求她对科技的热情。",
+          "chinglishFix": "典型中式英语：'She studies computer science as her main subject.' 纠正：'She majors in computer science.'（用'major in'更符合英语中描述专业的习惯）"
+        },
+        {
+          "scene": "两个大学生在宿舍聊天，讨论他们的学业计划。",
+          "chineseIdea": "一个学生提到自己同时主修两个专业，以拓宽职业选择。",
+          "sentenceWithBlank": "He is ambitious and plans to pursue a @ @ in biology and chemistry.",
+          "fullEnglishSentence": "He is ambitious and plans to pursue a 「double major」 in biology and chemistry.",
+          "chineseTranslation": "他很有抱负，计划在生物学和化学上追求「双主修」。",
+          "chinglishFix": "典型中式英语：'He studies two main subjects.' 纠正：'He is pursuing a double major.'（用'double major'更精确地表达同时主修两个专业的概念）"
+        }
+      ]
+    },
+    {
+      "meaning": "主要的，重大的（变化或差异）",
+      "usage": "用作形容词，强调某事物在性质、程度或范围上的显著变化或差异，常用于正式或技术性语境。",
+      "collocations": ["major change", "major difference", "major overhaul"],
+      "examples": [
+        {
+          "scene": "一家科技公司发布新产品，强调其与上一代产品的显著改进。",
+          "chineseIdea": "新产品在功能上有了很大的改进，吸引了消费者的注意。",
+          "sentenceWithBlank": "The new model introduces a @ @ in design and performance.",
+          "fullEnglishSentence": "The new model introduces a 「major change」 in design and performance.",
+          "chineseTranslation": "新款车型在设计和性能上引入了「重大变化」。",
+          "chinglishFix": "典型中式英语：'The new model is very different.' 纠正：'The new model introduces a major change.'（用'major change'更准确地强调变化的显著性）"
+        },
+        {
+          "scene": "一名工程师向团队汇报项目进展，提到系统的全面升级。",
+          "chineseIdea": "系统的重新设计需要大量的工作，是一次彻底的改造。",
+          "sentenceWithBlank": "The system requires a @ @ to meet modern standards.",
+          "fullEnglishSentence": "The system requires a 「major overhaul」 to meet modern standards.",
+          "chineseTranslation": "系统需要一次「重大改造」以符合现代标准。",
+          "chinglishFix": "典型中式英语：'The system needs a big repair.' 纠正：'The system needs a major overhaul.'（用'major overhaul'更专业地描述全面升级）"
+        }
+      ]
+    }
+  ]
+}
+```

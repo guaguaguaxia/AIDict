@@ -1,0 +1,53 @@
+```json
+{
+  "word": "moral",
+  "definitions": [
+    {
+      "meaning": "与道德或伦理原则有关的，涉及对错或善恶的判断",
+      "usage": "形容词，常用于描述行为、决定、故事或人物的伦理性质，表示是否符合道德标准。",
+      "collocations": ["moral dilemma", "moral obligation", "moral values"],
+      "examples": [
+        {
+          "scene": "一位年轻人在公司面临裁员决定，领导要求他隐瞒真相以保护公司形象，但他内心挣扎于是否应该说实话。",
+          "chineseIdea": "他感到困惑，因为说实话可能导致公司损失，但隐瞒真相违背他的良心。",
+          "sentenceWithBlank": "He faced a @ @ about whether to tell the truth or protect the company.",
+          "fullEnglishSentence": "He faced a 「moral dilemma」 about whether to tell the truth or protect the company.",
+          "chineseTranslation": "他面临一个「道德困境」，不知道是该说实话还是保护公司。",
+          "chinglishFix": "典型中式英语：'He has a moral problem.' 纠正：'He faces a moral dilemma.'（'problem'过于模糊，'dilemma'更精确地表达两难选择）"
+        },
+        {
+          "scene": "一位医生在资源有限的医院中，必须决定优先救治哪位病人，感到责任重大。",
+          "chineseIdea": "医生认为自己有责任根据伦理原则做出公平的决定。",
+          "sentenceWithBlank": "She felt a @ @ to prioritize patients based on fairness.",
+          "fullEnglishSentence": "She felt a 「moral obligation」 to prioritize patients based on fairness.",
+          "chineseTranslation": "她感到一种「道德义务」，要根据公平原则优先救治病人。",
+          "chinglishFix": "典型中式英语：'She must do the moral thing.' 纠正：'She felt a moral obligation.'（'do the moral thing'过于笼统，'moral obligation'更具体地表达责任感）"
+        }
+      ]
+    },
+    {
+      "meaning": "故事或经历中传达的教训或教益",
+      "usage": "名词，通常指寓言、故事或经验教训中总结出的道德或行为指导。",
+      "collocations": ["moral of the story", "learn a moral", "teach a moral"],
+      "examples": [
+        {
+          "scene": "一位母亲给孩子讲《乌鸦和狐狸》的寓言故事，故事结束后她解释其中的教训。",
+          "chineseIdea": "母亲希望孩子明白，不要轻易被别人的奉承所迷惑。",
+          "sentenceWithBlank": "The @ @ @ is that you should not trust flattery.",
+          "fullEnglishSentence": "The 「moral of the story」 is that you should not trust flattery.",
+          "chineseTranslation": "这个「故事的寓意」是你不应该相信奉承。",
+          "chinglishFix": "典型中式英语：'The story’s lesson is...' 纠正：'The moral of the story is...'（'lesson'虽然正确，但'moral'更常用于寓言的教益）"
+        },
+        {
+          "scene": "一位老师在课堂上分享自己年轻时因过度自信而失败的经历，希望学生从中吸取教训。",
+          "chineseIdea": "老师想让学生明白，谦虚和谨慎能避免不必要的错误。",
+          "sentenceWithBlank": "Her experience helped the students @ @ @ about humility.",
+          "fullEnglishSentence": "Her experience helped the students 「learn a moral」 about humility.",
+          "chineseTranslation": "她的经历帮助学生「学到一个教训」，关于谦虚的重要性。",
+          "chinglishFix": "典型中式英语：'Her story teaches students a lesson.' 纠正：'Her experience helped students learn a moral.'（'teach a lesson'可能有惩罚意味，'learn a moral'更贴合吸取教益）"
+        }
+      ]
+    }
+  ]
+}
+```
