@@ -1,0 +1,53 @@
+```json
+{
+  "word": "liberation",
+  "definitions": [
+    {
+      "meaning": "从束缚、压迫或限制中获得自由",
+      "usage": "通常指个人、群体或国家从政治、社会或心理压迫中解脱出来，强调摆脱控制或限制的状态。",
+      "collocations": ["achieve liberation", "fight for liberation", "celebrate liberation"],
+      "examples": [
+        {
+          "scene": "一个国家在经历了多年的殖民统治后，终于通过抗争获得了独立，人民走上街头欢庆。",
+          "chineseIdea": "摆脱外来统治，获得自主权和自由。",
+          "sentenceWithBlank": "After decades of struggle, the nation finally @ @ from colonial rule.",
+          "fullEnglishSentence": "After decades of struggle, the nation finally 「achieved liberation」 from colonial rule.",
+          "chineseTranslation": "经过数十年的斗争，这个国家终于从殖民统治中「获得了解放」。",
+          "chinglishFix": "典型中式英语：The country got freedom from colony. 纠正：The nation achieved liberation from colonial rule."
+        },
+        {
+          "scene": "一群活动家组织游行，呼吁结束对少数群体的系统性歧视。",
+          "chineseIdea": "通过集体行动争取平等和自由。",
+          "sentenceWithBlank": "The activists gathered to @ @ @ against systemic oppression.",
+          "fullEnglishSentence": "The activists gathered to 「fight for liberation」 against systemic oppression.",
+          "chineseTranslation": "活动家们聚集起来，为反对系统性压迫而「争取解放」。",
+          "chinglishFix": "典型中式英语：They want to fight for free. 纠正：They are fighting for liberation from oppression."
+        }
+      ]
+    },
+    {
+      "meaning": "个人从心理或情感束缚中解脱",
+      "usage": "指个人通过自我反思、治疗或经历某种转变，摆脱内心的限制或负担，获得精神上的自由。",
+      "collocations": ["find liberation", "experience liberation", "seek liberation"],
+      "examples": [
+        {
+          "scene": "一个年轻人通过心理咨询，学会放下过去的创伤，开始拥抱新的生活。",
+          "chineseIdea": "从心理负担中解脱，重新获得内心的平静与自由。",
+          "sentenceWithBlank": "Through therapy, she was able to @ @ from her past traumas.",
+          "fullEnglishSentence": "Through therapy, she was able to 「find liberation」 from her past traumas.",
+          "chineseTranslation": "通过心理治疗，她终于从过去的创伤中「找到了解放」。",
+          "chinglishFix": "典型中式英语：She got free from her past. 纠正：She found liberation from her past traumas."
+        },
+        {
+          "scene": "一个人在旅行中放下对未来的焦虑，感受到前所未有的轻松。",
+          "chineseIdea": "通过新的经历摆脱内心的不安，获得精神上的自由。",
+          "sentenceWithBlank": "During her travels, she @ @ from the constant worry about the future.",
+          "fullEnglishSentence": "During her travels, she 「experienced liberation」 from the constant worry about the future.",
+          "chineseTranslation": "在旅行中，她从对未来的持续担忧中「体验到了解放」。",
+          "chinglishFix": "典型中式英语：She felt free in travel. 纠正：She experienced liberation during her travels."
+        }
+      ]
+    }
+  ]
+}
+```

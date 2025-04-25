@@ -1,0 +1,53 @@
+```json
+{
+  "word": "miscalculation",
+  "definitions": [
+    {
+      "meaning": "错误的计算或判断",
+      "usage": "指在数学计算、计划或判断中出现错误，通常导致不准确的结果或错误的决策。",
+      "collocations": ["make a miscalculation", "serious miscalculation", "costly miscalculation"],
+      "examples": [
+        {
+          "scene": "在公司会议中，项目经理正在讨论一个新产品的市场投放计划，但由于对消费者需求的错误估计，导致计划失败。",
+          "chineseIdea": "项目经理以为市场需求很高，但实际上消费者对产品兴趣不大，这是一个严重的错误判断。",
+          "sentenceWithBlank": "The project manager @ @ @ in estimating the market demand, leading to the product’s failure.",
+          "fullEnglishSentence": "The project manager 「made a miscalculation」 in estimating the market demand, leading to the product’s failure.",
+          "chineseTranslation": "项目经理在估计市场需求时「做出了错误判断」，导致了产品的失败。",
+          "chinglishFix": "典型中式英语：'The manager calculated wrong about the market.' 纠正：'The manager made a miscalculation in estimating the market.'"
+        },
+        {
+          "scene": "在国际象棋比赛中，一位选手因为低估了对手的策略，错过了一个关键的移动机会。",
+          "chineseIdea": "选手以为对手会采取简单的走法，但对手的策略更复杂，这是一个严重的错误。",
+          "sentenceWithBlank": "Underestimating the opponent’s strategy proved to be a @ @ in the chess match.",
+          "fullEnglishSentence": "Underestimating the opponent’s strategy proved to be a 「serious miscalculation」 in the chess match.",
+          "chineseTranslation": "低估对手的策略在国际象棋比赛中被证明是一个「严重的错误判断」。",
+          "chinglishFix": "典型中式英语：'He judged wrong in the game.' 纠正：'He made a serious miscalculation in the game.'"
+        }
+      ]
+    },
+    {
+      "meaning": "计划或行动中的失误",
+      "usage": "指在计划、策略或行动中因错误估计形势而导致的不利后果，常用于描述政治、商业或军事中的失策。",
+      "collocations": ["political miscalculation", "strategic miscalculation", "gross miscalculation"],
+      "examples": [
+        {
+          "scene": "在政治竞选中，一位候选人错误地认为某个政策会受到选民欢迎，但实际上引发了强烈反对。",
+          "chineseIdea": "候选人以为新政策会吸引更多支持者，但忽略了选民的实际需求，这是一个严重的失误。",
+          "sentenceWithBlank": "The candidate’s new policy was a @ @ that alienated many voters.",
+          "fullEnglishSentence": "The candidate’s new policy was a 「political miscalculation」 that alienated many voters.",
+          "chineseTranslation": "候选人的新政策是一个「政治失误」，疏远了许多选民。",
+          "chinglishFix": "典型中式英语：'The policy was a wrong decision.' 纠正：'The policy was a political miscalculation.'"
+        },
+        {
+          "scene": "在军事行动中，指挥官错误估计了敌方的兵力，导致部队陷入困境。",
+          "chineseIdea": "指挥官以为敌方兵力薄弱，但实际上对方有强大的后援，这是一个严重的战略错误。",
+          "sentenceWithBlank": "The commander’s underestimation of the enemy’s strength was a @ @ that led to heavy losses.",
+          "fullEnglishSentence": "The commander’s underestimation of the enemy’s strength was a 「strategic miscalculation」 that led to heavy losses.",
+          "chineseTranslation": "指挥官对敌方实力的低估是一个「战略失误」，导致了重大损失。",
+          "chinglishFix": "典型中式英语：'He made a wrong plan in the battle.' 纠正：'He made a strategic miscalculation in the battle.'"
+        }
+      ]
+    }
+  ]
+}
+```

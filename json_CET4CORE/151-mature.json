@@ -1,0 +1,76 @@
+```json
+{
+  "word": "mature",
+  "definitions": [
+    {
+      "meaning": "成熟的；成年或充分发展的（人、动物、植物等）",
+      "usage": "描述人、动物或植物在身体、心理或行为上达到完全发展的状态，常用于表示某人具备成年人的责任感或智慧，或某物已完全生长。",
+      "collocations": ["mature adult", "mature decision", "mature attitude"],
+      "examples": [
+        {
+          "scene": "一位年轻人在家庭聚会上被长辈夸奖，因为他在面对家庭经济困难时主动承担了更多责任，而不是像以前那样只顾玩乐。",
+          "chineseIdea": "他展现了成年人的稳重和担当，不再像孩子那样只考虑自己。",
+          "sentenceWithBlank": "Everyone praised him for being a @ @ at such a young age.",
+          "fullEnglishSentence": "Everyone praised him for being a 「mature adult」 at such a young age.",
+          "chineseTranslation": "大家都称赞他这么年轻就表现得像一个「成熟的成年人」。",
+          "chinglishFix": "典型中式英语：'He is very adult.' 纠正：'He is a mature adult.'（避免直接用'adult'，应使用'mature'来形容成熟度）"
+        },
+        {
+          "scene": "一位职场新人面对团队冲突时，没有情绪化地争吵，而是冷静地提出解决方案，赢得了同事的尊重。",
+          "chineseIdea": "他展现了理智和稳重，处理问题的方式让人觉得他很有智慧。",
+          "sentenceWithBlank": "Her colleagues admired her for making a @ @ in a heated situation.",
+          "fullEnglishSentence": "Her colleagues admired her for making a 「mature decision」 in a heated situation.",
+          "chineseTranslation": "她的同事们很欣赏她在激烈的情况下做出了「成熟的决定」。",
+          "chinglishFix": "典型中式英语：'She decided very good.' 纠正：'She made a mature decision.'（避免模糊的'good'，用'mature'准确描述决定 quality）"
+        }
+      ]
+    },
+    {
+      "meaning": "深思熟虑的；经过充分考虑的（决定、行为等）",
+      "usage": "描述决定、行为或想法经过深思熟虑，体现出理性和稳重，常用于正式或严肃的语境。",
+      "collocations": ["mature reflection", "mature approach", "mature understanding"],
+      "examples": [
+        {
+          "scene": "一位学生在选择大学专业时，没有盲目跟随朋友的选择，而是花时间研究自己的兴趣和职业前景，最终选择了适合自己的方向。",
+          "chineseIdea": "他通过深入思考做出了理性的选择，而不是冲动行事。",
+          "sentenceWithBlank": "After @ @, he chose a major that aligned with his long-term goals.",
+          "fullEnglishSentence": "After 「mature reflection」, he chose a major that aligned with his long-term goals.",
+          "chineseTranslation": "在「成熟的反思」之后，他选择了一个符合他长期目标的专业。",
+          "chinglishFix": "典型中式英语：'He thinked a lot and decided.' 纠正：'After mature reflection, he decided.'（避免不规范的'thinked'，用'mature reflection'体现深思熟虑）"
+        },
+        {
+          "scene": "一位经理在公司面临危机时，没有急于裁员，而是通过与员工沟通和分析数据，制定了更人性化的应对策略。",
+          "chineseIdea": "他用理性和全面的方式解决问题，而不是草率决定。",
+          "sentenceWithBlank": "Her 「mature approach」 to the crisis earned her team’s trust.",
+          "fullEnglishSentence": "Her @ @ to the crisis earned her team’s trust.",
+          "chineseTranslation": "她对危机的「成熟的处理方式」赢得了团队的信任。",
+          "chinglishFix": "典型中式英语：'She solved the problem very mature.' 纠正：'She took a mature approach to the problem.'（避免语法错误的'mature'直接作副词，用'mature approach'）"
+        }
+      ]
+    },
+    {
+      "meaning": "到期；成熟（金融或商业用语，如债券、投资等）",
+      "usage": "在金融或商业语境中，指债券、投资或其他金融产品达到可以兑现或支付的阶段。",
+      "collocations": ["mature bond", "mature investment", "mature market"],
+      "examples": [
+        {
+          "scene": "一位投资者在银行咨询时，得知他多年前购买的债券已经到了可以兑现的日期，可以领取本金和利息。",
+          "chineseIdea": "他的投资终于到了可以兑现的时候，意味着他可以获得回报。",
+          "sentenceWithBlank": "The @ @ he purchased years ago is now ready to be cashed out.",
+          "fullEnglishSentence": "The 「mature bond」 he purchased years ago is now ready to be cashed out.",
+          "chineseTranslation": "他多年前购买的「到期债券」现在可以兑现了。",
+          "chinglishFix": "典型中式英语：'His bond is old and can take money.'wreck 纠正：'His mature bond can now be cashed out.'（避免模糊的'old'和'take money'，用'mature bond'和'cash out'）"
+        },
+        {
+          "scene": "一家公司在分析市场时发现，某个新兴市场的需求已经稳定，适合进行大规模投资。",
+          "chineseIdea": "这个市场已经发展到稳定的阶段，可以放心投入资源。",
+          "sentenceWithBlank": "The company decided to invest heavily in the @ @.",
+          "fullEnglishSentence": "The company decided to invest heavily in the 「mature market」.",
+          "chineseTranslation": "公司决定在「成熟市场」中大力投资。",
+          "chinglishFix": "典型中式英语：'The market is good and stable.' 纠正：'The market is mature.'（避免泛泛的'good'，用'mature market'精确描述市场状态）"
+        }
+      ]
+    }
+  ]
+}
+```

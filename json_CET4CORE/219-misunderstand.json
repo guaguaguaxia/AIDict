@@ -1,0 +1,53 @@
+```json
+{
+  "word": "misunderstand",
+  "definitions": [
+    {
+      "meaning": "错误地理解或误解某人的意思或意图",
+      "usage": "指对某人的话语、行为或意图产生错误的理解，通常发生在沟通中，可能由于语言、文化或语境差异导致。",
+      "collocations": ["misunderstand someone's intentions", "misunderstand the situation", "misunderstand instructions"],
+      "examples": [
+        {
+          "scene": "在工作场所，小明收到一封来自外国同事的电子邮件，邮件中提到‘Let’s wrap this up by Friday.’ 小明以为是要在周五前完成所有工作，但其实同事的意思是希望在周五前确认项目的初步计划。",
+          "chineseIdea": "小明错误地理解了同事的意图，以为是要完成全部任务，而不是仅仅确认计划。",
+          "sentenceWithBlank": "He @ @ @ when he thought the email meant finishing the entire project by Friday.",
+          "fullEnglishSentence": "He 「misunderstood someone's intentions」 when he thought the email meant finishing the entire project by Friday.",
+          "chineseTranslation": "他「误解了别人的意图」，以为邮件的意思是要在周五前完成整个项目。",
+          "chinglishFix": "典型中式英语：'He wrong understood the email.' 纠正：'He misunderstood the email.'"
+        },
+        {
+          "scene": "在英语课堂上，老师要求学生‘Summarize the article in your own words.’ 小红以为老师是要逐字翻译文章，而不是用自己的语言概括内容。",
+          "chineseIdea": "小红错误地理解了老师的要求，以为是翻译而不是总结。",
+          "sentenceWithBlank": "She @ @ @ by translating the article word for word instead of summarizing it.",
+          "fullEnglishSentence": "She 「misunderstood the situation」 by translating the article word for word instead of summarizing it.",
+          "chineseTranslation": "她「误解了情况」，逐字翻译了文章而不是总结。",
+          "chinglishFix": "典型中式英语：'She mistake the teacher's meaning.' 纠正：'She misunderstood the teacher's instructions.'"
+        }
+      ]
+    },
+    {
+      "meaning": "对信息、规则或指示的错误理解",
+      "usage": "指对书面或口头传达的具体信息、规则或指示的错误解读，通常导致行动上的偏差。",
+      "collocations": ["misunderstand the rules", "misunderstand directions", "misunderstand the question"],
+      "examples": [
+        {
+          "scene": "小刚参加一个国际象棋比赛，裁判说‘Touch-move rule applies.’ 小刚以为这意味着他可以随意移动棋子，但实际上规则要求触摸棋子后必须移动它。",
+          "chineseIdea": "小刚错误地理解了比赛规则，以为可以自由移动棋子，而不是必须移动触摸的棋子。",
+          "sentenceWithBlank": "He @ @ @ and moved pieces freely during the chess match.",
+          "fullEnglishSentence": "He 「misunderstood the rules」 and moved pieces freely during the chess match.",
+          "chineseTranslation": "他「误解了规则」，在国际象棋比赛中随意移动棋子。",
+          "chinglishFix": "典型中式英语：'He not understand the rule correctly.' 纠正：'He misunderstood the rule.'"
+        },
+        {
+          "scene": "小丽在导航软件上看到‘Turn left in 200 meters.’ 她以为是立刻左转，结果错过了正确的路口。",
+          "chineseIdea": "小丽错误地理解了导航的指示，以为是立即左转，而不是在200米后左转。",
+          "sentenceWithBlank": "She @ @ @ and turned left too early while driving.",
+          "fullEnglishSentence": "She 「misunderstood directions」 and turned left too early while driving.",
+          "chineseTranslation": "她「误解了方向」，开车时过早左转。",
+          "chinglishFix": "典型中式英语：'She mistake the navigation.' 纠正：'She misunderstood the navigation instructions.'"
+        }
+      ]
+    }
+  ]
+}
+```
