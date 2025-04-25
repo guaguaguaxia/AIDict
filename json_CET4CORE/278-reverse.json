@@ -1,0 +1,76 @@
+```json
+{
+  "word": "reverse",
+  "definitions": [
+    {
+      "meaning": "to change the direction, order, or position to the opposite",
+      "usage": "Used as a verb to describe the action of turning something the opposite way or changing its order, often in physical or abstract contexts like direction, sequence, or decisions.",
+      "collocations": ["reverse the order", "reverse the decision", "reverse the trend"],
+      "examples": [
+        {
+          "scene": "在一场会议中，团队正在讨论新产品的发布顺序。由于市场反馈，经理决定调整原定的计划。",
+          "chineseIdea": "经理想要改变原先确定的产品发布顺序，以便更好地适应市场需求。",
+          "sentenceWithBlank": "After reviewing the feedback, the manager decided to @ @ @ of the product launches.",
+          "fullEnglishSentence": "After reviewing the feedback, the manager decided to 「reverse the order」 of the product launches.",
+          "chineseTranslation": "在审阅反馈后，经理决定「颠倒顺序」产品发布。",
+          "chinglishFix": "Chinglish: 'Change back the order' → Correct: 'Reverse the order' (避免直接翻译'change back'，用'reverse'更自然)"
+        },
+        {
+          "scene": "在一家公司里，管理层做出了一个不受欢迎的决定，导致员工不满。经过抗议，他们重新考虑了政策。",
+          "chineseIdea": "管理层希望取消之前的决定，采取新的政策来安抚员工。",
+          "sentenceWithBlank": "Due to the protests, the board voted to @ @ @ made last week.",
+          "fullEnglishSentence": "Due to the protests, the board voted to 「reverse the decision」 made last week.",
+          "chineseTranslation": "由于抗议，董事会投票决定「撤销决定」上周做出的。",
+          "chinglishFix": "Chinglish: 'Take back the decision' → Correct: 'Reverse the decision' (避免用'take back'，'reverse'更正式且贴合语境)"
+        }
+      ]
+    },
+    {
+      "meaning": "to move something, especially a vehicle, backward",
+      "usage": "Used as a verb to describe the action of moving a vehicle in the opposite direction, typically backward, as in driving.",
+      "collocations": ["reverse the car", "reverse into a space", "reverse out of"],
+      "examples": [
+        {
+          "scene": "在一个拥挤的停车场，司机需要小心地将车倒进一个狭窄的停车位。",
+          "chineseIdea": "司机需要把车向后移动，进入一个狭小的停车位。",
+          "sentenceWithBlank": "Carefully, she tried to @ @ @ to park perfectly.",
+          "fullEnglishSentence": "Carefully, she tried to 「reverse into a space」 to park perfectly.",
+          "chineseTranslation": "她小心地试图「倒进停车位」以完美停车。",
+          "chinglishFix": "Chinglish: 'Drive back into a space' → Correct: 'Reverse into a space' ('reverse'特指倒车，'drive back'不够精确)"
+        },
+        {
+          "scene": "在一个狭窄的巷子里，司机发现前面是死路，必须后退到主路上。",
+          "chineseIdea": "司机需要将车向后移动，退出巷子回到主路。",
+          "sentenceWithBlank": "Realizing it was a dead end, he had to @ @ @ the alley.",
+          "fullEnglishSentence": "Realizing it was a dead end, he had to 「reverse out of」 the alley.",
+          "chineseTranslation": "意识到是死胡同，他不得不「倒出」巷子。",
+          "chinglishFix": "Chinglish: 'Back out the alley' → Correct: 'Reverse out of the alley' (加上'of'更符合英语习惯)"
+        }
+      ]
+    },
+    {
+      "meaning": "the opposite or contrary of something",
+      "usage": "Used as a noun to refer to the opposite side, situation, or outcome of something, often in abstract or mechanical contexts.",
+      "collocations": ["in reverse", "the reverse side", "the reverse effect"],
+      "examples": [
+        {
+          "scene": "在一次辩论中，学生被要求从相反的立场进行论证，以锻炼他们的思维能力。",
+          "chineseIdea": "学生需要从相反的角度思考问题，以展示不同的观点。",
+          "sentenceWithBlank": "To challenge their thinking, the teacher asked them to argue @ @.",
+          "fullEnglishSentence": "To challenge their thinking, the teacher asked them to argue 「in reverse」.",
+          "chineseTranslation": "为了挑战他们的思维，老师要求他们「反向」辩论。",
+          "chinglishFix": "Chinglish: 'From the opposite' → Correct: 'In reverse' ('in reverse'更简洁且符合英语表达)"
+        },
+        {
+          "scene": "在制作手工书时，学生需要检查纸张的背面是否有错误。",
+          "chineseIdea": "学生需要查看纸张的另一面，确保没有印刷错误。",
+          "sentenceWithBlank": "She flipped the page to check @ @ @ for mistakes.",
+          "fullEnglishSentence": "She flipped the page to check 「the reverse side」 for mistakes.",
+          "chineseTranslation": "她翻过页面检查「背面」是否有错误。",
+          "chinglishFix": "Chinglish: 'The back side' → Correct: 'The reverse side' ('reverse side'更常用于书面或正式语境)"
+        }
+      ]
+    }
+  ]
+}
+```
