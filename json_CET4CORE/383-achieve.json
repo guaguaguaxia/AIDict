@@ -1,0 +1,53 @@
+```json
+{
+  "word": "achieve",
+  "definitions": [
+    {
+      "meaning": "成功完成或实现（目标、任务等）",
+      "usage": "指通过努力、技能或坚持不懈达到某个具体目标，通常用于描述个人或团队在学业、事业或个人追求中的成功。",
+      "collocations": ["achieve a goal", "achieve success", "achieve excellence"],
+      "examples": [
+        {
+          "scene": "一名大学生在学期末通过刻苦学习，终于在期末考试中取得了优异的成绩。",
+          "chineseIdea": "通过长时间的努力学习，学生想要在考试中获得高分，证明自己的能力。",
+          "sentenceWithBlank": "Through months of hard work, she was able to @ @ @ in her final exams.",
+          "fullEnglishSentence": "Through months of hard work, she was able to 「achieve a goal」 in her final exams.",
+          "chineseTranslation": "通过几个月的努力，她在期末考试中「实现了一个目标」。",
+          "chinglishFix": "典型中式英语：She reached her aim in the exam. 纠正：She achieved her goal in the exam.（'reach an aim' 不如 'achieve a goal' 自然且常见）"
+        },
+        {
+          "scene": "一家初创公司在激烈的市场竞争中，通过创新产品赢得了客户的青睐，逐渐崭露头角。",
+          "chineseIdea": "公司希望通过独特的产品设计和营销策略，在行业中获得认可和市场份额。",
+          "sentenceWithBlank": "The startup’s innovative approach helped it @ @ in a competitive market.",
+          "fullEnglishSentence": "The startup’s innovative approach helped it 「achieve success」 in a competitive market.",
+          "chineseTranslation": "这家初创公司的创新方法帮助它在竞争激烈的市场中「取得了成功」。",
+          "chinglishFix": "典型中式英语：The company got success in the market. 纠正：The company achieved success in the market.（'get success' 不符合英语习惯，应使用 'achieve success'）"
+        }
+      ]
+    },
+    {
+      "meaning": "达到或获得（某种状态、水平或结果）",
+      "usage": "指通过努力达到某种特定的状态、水平或结果，常用于描述抽象或量化的成就，如平衡、效率或某种标准。",
+      "collocations": ["achieve a balance", "achieve efficiency", "achieve recognition"],
+      "examples": [
+        {
+          "scene": "一位职场妈妈在努力平衡工作和家庭生活后，终于找到了一种适合自己的生活方式。",
+          "chineseIdea": "她希望在职业发展和照顾家庭之间找到一种和谐的状态，让生活更有条理。",
+          "sentenceWithBlank": "After years of effort, she finally managed to @ @ @ between work and family.",
+          "fullEnglishSentence": "After years of effort, she finally managed to 「achieve a balance」 between work and family.",
+          "chineseTranslation": "经过多年的努力，她终于在工作和家庭之间「达到了平衡」。",
+          "chinglishFix": "典型中式英语：She found a balance for work and family. 纠正：She achieved a balance between work and family.（'find a balance' 虽可接受，但 'achieve a balance' 更强调努力的过程）"
+        },
+        {
+          "scene": "一位年轻的艺术家通过多年的创作和展览，逐渐在艺术界获得了认可。",
+          "chineseIdea": "艺术家希望自己的作品被更多人看到，并因此在行业中建立声誉。",
+          "sentenceWithBlank": "Her unique style and dedication helped her @ @ in the art community.",
+          "fullEnglishSentence": "Her unique style and dedication helped her 「achieve recognition」 in the art community.",
+          "chineseTranslation": "她独特的风格和专注让她在艺术界「获得了认可」。",
+          "chinglishFix": "典型中式英语：She got recognition in the art world. 纠正：She achieved recognition in the art world.（'get recognition' 较为口语化，'achieve recognition' 更正式且常见）"
+        }
+      ]
+    }
+  ]
+}
+```

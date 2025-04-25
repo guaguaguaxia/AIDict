@@ -1,0 +1,61 @@
+```json
+{
+  "word": "amaze",
+  "definitions": [
+    {
+      "meaning": "使惊讶，使震惊",
+      "usage": "用作及物动词，表示引起某人强烈的惊讶或震撼，通常指由于某事超出预期或令人印象深刻。",
+      "collocations": [
+        "absolutely amaze",
+        "never cease to amaze",
+        "amaze everyone"
+      ],
+      "examples": [
+        {
+          "scene": "在一个科技展览会上，一位工程师展示了一款能够自主飞行的无人机，观众们都被它的精准控制和复杂动作惊呆了。",
+          "chineseIdea": "描述某件令人印象深刻的事物或表现，让人们感到非常惊讶。",
+          "sentenceWithBlank": "The drone’s performance @ @ @ the audience with its precision.",
+          "fullEnglishSentence": "The drone’s performance 「absolutely amazed」 the audience with its precision.",
+          "chineseTranslation": "无人机的表演以其精准度「完全震撼了」观众。",
+          "chinglishFix": "典型中式英语：'The drone let people very surprise.' 纠正：'The drone absolutely amazed people.'"
+        },
+        {
+          "scene": "一位朋友分享了她在短时间内学会多种语言的经历，讲述她如何在一年内掌握了三门外语。",
+          "chineseIdea": "表达某人持续令人惊讶的能力或成就。",
+          "sentenceWithBlank": "Her ability to learn languages @ @ @ @ @ me.",
+          "fullEnglishSentence": "Her ability to learn languages 「never ceases to amaze」 me.",
+          "chineseTranslation": "她学习语言的能力「总是让我惊讶」。",
+          "chinglishFix": "典型中式英语：'Her language skill always surprise me.' 纠正：'Her language skills never cease to amaze me.'"
+        }
+      ]
+    },
+    {
+      "meaning": "使困惑，使惊奇（带有不解或敬佩）",
+      "usage": "用作及物动词，表示某事或某人因其独特或难以理解的特性而令人感到惊奇，通常带有一种敬佩或不解的情绪。",
+      "collocations": [
+        "amaze at the complexity",
+        "amaze with creativity",
+        "truly amaze"
+      ],
+      "examples": [
+        {
+          "scene": "在一场艺术展览中，观众们被一幅由数千个小碎片拼成的画作震惊，惊叹于它的复杂性和细节。",
+          "chineseIdea": "描述对某事物复杂或精妙特性的惊叹。",
+          "sentenceWithBlank": "Visitors were @ @ @ @ @ of the mosaic artwork.",
+          "fullEnglishSentence": "Visitors were 「amazed at the complexity」 of the mosaic artwork.",
+          "chineseTranslation": "参观者对马赛克艺术品的「复杂性感到惊叹」。",
+          "chinglishFix": "典型中式英语：'The artwork’s complex make people shock.' 纠正：'The complexity of the artwork amazed people.'"
+        },
+        {
+          "scene": "一个年轻的设计师在时装秀上展示了一系列充满奇思妙想的设计，观众被她的创意深深打动。",
+          "chineseIdea": "表达对某人创造力的高度赞叹。",
+          "sentenceWithBlank": "The designer @ @ @ @ @ with her bold designs.",
+          "fullEnglishSentence": "The designer 「amazed with creativity」 her bold designs.",
+          "chineseTranslation": "这位设计师以她大胆的设计「展现了惊艳的创造力」。",
+          "chinglishFix": "典型中式英语：'Her designs very creative and surprise.' 纠正：'Her creative designs truly amazed everyone.'"
+        }
+      ]
+    }
+  ]
+}
+```
