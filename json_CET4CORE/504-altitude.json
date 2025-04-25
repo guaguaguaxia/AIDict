@@ -1,0 +1,53 @@
+```json
+{
+  "word": "altitude",
+  "definitions": [
+    {
+      "meaning": "高度（通常指海拔高度，描述某物相对于海平面或其他参考平面的垂直距离）",
+      "usage": "常用于描述地理位置、飞行高度或登山等场景，表示某物在垂直方向上的位置，通常以米或英尺为单位。",
+      "collocations": ["high altitude", "c cruising altitude", "gain altitude"],
+      "examples": [
+        {
+          "scene": "一个登山爱好者在攀登珠穆朗玛峰时，与队友讨论当前的垂直位置。",
+          "chineseIdea": "想表达他们已经爬到了一个很高的位置，可能会面临氧气稀薄的问题。",
+          "sentenceWithBlank": "We've climbed to a @ @, so we need to be cautious about oxygen levels.",
+          "fullEnglishSentence": "We've climbed to a 「high altitude」, so we need to be cautious about oxygen levels.",
+          "chineseTranslation": "我们已经爬到了一个「很高的高度」，所以需要小心氧气水平。",
+          "chinglishFix": "中式英语：'We climb very high place.' 纠正：'We've climbed to a high altitude.'（避免直接翻译'高的地方'，使用正确的术语altitude）"
+        },
+        {
+          "scene": "一名飞行员在飞机起飞后向塔台报告飞机的飞行高度。",
+          "chineseIdea": "想说明飞机已经达到了一个稳定的飞行高度，可以开始巡航。",
+          "sentenceWithBlank": "The plane has reached its @ @, and we are ready to begin cruising.",
+          "fullEnglishSentence": "The plane has reached its 「cruising altitude」, and we are ready to begin cruising.",
+          "chineseTranslation": "飞机已经达到了它的「巡航高度」，我们准备开始巡航。",
+          "chinglishFix": "中式英语：'Plane go to high height.' 纠正：'The plane has reached its cruising altitude.'（避免用'go to high height'，使用专业术语cruising altitude）"
+        }
+      ]
+    },
+    {
+      "meaning": "高度（指抽象的程度、级别或重要性，类似于'高度'在中文中的引申意义）",
+      "usage": "在比喻或抽象语境中，表示某事物的程度、地位或重要性，通常用于正式或书面语言。",
+      "collocations": ["new altitude", "reach an altitude", "soar to an altitude"],
+      "examples": [
+        {
+          "scene": "一家科技公司在发布突破性产品后，讨论其市场地位的提升。",
+          "chineseIdea": "想表达公司因为新产品而达到了一个新的市场高度或地位。",
+          "sentenceWithBlank": "With this innovation, our company has soared to a @ @ in the industry.",
+          "fullEnglishSentence": "With this innovation, our company has soared to a 「new altitude」 in the industry.",
+          "chineseTranslation": "凭借这项创新，我们公司在行业中达到了一个「新的高度」。",
+          "chinglishFix": "中式英语：'Our company become very high.' 纠正：'Our company has soared to a new altitude.'（避免用'become very high'，使用比喻性表达new altitude）"
+        },
+        {
+          "scene": "一名演讲者在TED演讲中描述人类科学的进步。",
+          "chineseIdea": "想说明科学的进步让人类知识达到了前所未有的水平。",
+          "sentenceWithBlank": "Scientific discoveries have enabled humanity to @ @ @ of understanding.",
+          "fullEnglishSentence": "Scientific discoveries have enabled humanity to 「soar to an altitude」 of understanding.",
+          "chineseTranslation": "科学发现使人类能够「达到一个理解的高度」。",
+          "chinglishFix": "中式英语：'Science make us know very high.' 纠正：'Scientific discoveries have enabled humanity to soar to an altitude of understanding.'（避免用'know very high'，使用更自然的比喻表达）"
+        }
+      ]
+    }
+  ]
+}
+```

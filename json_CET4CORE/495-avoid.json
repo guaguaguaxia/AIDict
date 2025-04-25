@@ -1,0 +1,76 @@
+```json
+{
+  "word": "avoid",
+  "definitions": [
+    {
+      "meaning": "故意躲开或避免某人、某事或某物",
+      "usage": "指有意采取行动以防止与某人、某事或某物接触，常用于不想面对不愉快、不安全或不希望的情况。",
+      "collocations": ["eye contact", "traffic jams", "conflict", "danger"],
+      "examples": [
+        {
+          "scene": "在公司会议中，小明注意到同事小李总是试图主导讨论，但他不想与小李发生争执，因此选择不直接回应小李的观点。",
+          "chineseIdea": "小明想保持会议的和谐，避免与小李的直接对抗，所以他选择不看小李的眼睛，而是专注于自己的笔记。",
+          "sentenceWithBlank": "To keep the meeting peaceful, Xiaoming tried to @ @ with Xiaoli by focusing on his notes.",
+          "fullEnglishSentence": "To keep the meeting peaceful, Xiaoming tried to 「avoid eye contact」 with Xiaoli by focusing on his notes.",
+          "chineseTranslation": "为了保持会议的和平，小明通过专注于自己的笔记来「避免眼神接触」与小李。",
+          "chinglishFix": "典型中式英语：'He not look at Xiaoli's eyes to escape conflict.' 纠正：'He avoided eye contact with Xiaoli to prevent conflict.'"
+        },
+        {
+          "scene": "小红每天早上开车去公司，但她发现早高峰时段的道路非常拥堵，因此她选择走一条稍远的路线以绕开主干道的拥堵。",
+          "chineseIdea": "小红希望准时到达公司，不想被堵在路上，所以她特意选择一条不那么拥挤的路线。",
+          "sentenceWithBlank": "To arrive at work on time, Xiaohong took a longer route to @ @.",
+          "fullEnglishSentence": "To arrive at work on time, Xiaohong took a longer route to 「avoid traffic jams」.",
+          "chineseTranslation": "为了准时到达公司，小红选择了一条较远的路线以「避免交通拥堵」。",
+          "chinglishFix": "典型中式英语：'She go other road to not meet traffic.' 纠正：'She took another route to avoid traffic jams.'"
+        }
+      ]
+    },
+    {
+      "meaning": "防止某事发生",
+      "usage": "指采取措施以阻止不希望的事件或结果发生，常用于描述预防问题或风险的行动。",
+      "collocations": ["accidents", "misunderstandings", "problems", "delays"],
+      "examples": [
+        {
+          "scene": "在组织一场户外婚礼时，小刚担心可能会下雨，因此他提前租了帐篷以防天气突变。",
+          "chineseIdea": "小刚希望婚礼顺利进行，不想因为下雨而导致混乱，所以他做了预防措施。",
+          "sentenceWithBlank": "To ensure the wedding went smoothly, Xiaogang rented tents to @.",
+          "fullEnglishSentence": "To ensure the wedding went smoothly, Xiaogang rented tents to 「avoid accidents」.",
+          "chineseTranslation": "为了确保婚礼顺利进行，小刚租了帐篷以「避免意外」。",
+          "chinglishFix": "典型中式英语：'He prepare tents to not have rain problem.' 纠正：'He rented tents to avoid accidents due to rain.'"
+        },
+        {
+          "scene": "在团队项目中，小美注意到组员之间对任务分配有不同意见，她决定召开一次会议以明确每个人的职责。",
+          "chineseIdea": "小美希望项目顺利推进，不想因为沟通不清而导致误解，所以她主动澄清任务。",
+          "sentenceWithBlank": "To keep the project on track, Xiaomei held a meeting to @.",
+          "fullEnglishSentence": "To keep the project on track, Xiaomei held a meeting to 「avoid misunderstandings」.",
+          "chineseTranslation": "为了让项目顺利进行，小美召开了一次会议以「避免误解」。",
+          "chinglishFix": "典型中式英语：'She make meeting to not have wrong understand.' 纠正：'She held a meeting to avoid misunderstandings.'"
+        }
+      ]
+    },
+    {
+      "meaning": "避免做某事（通常是不想做或不应该做的事情）",
+      "usage": "指有意不去做某件具体的事情，通常与动名词（gerund）搭配，用于描述推迟、不愿或不适合做某事的情况。",
+      "collocations": ["making mistakes", "being late", "answering questions", "taking risks"],
+      "examples": [
+        {
+          "scene": "小华正在准备一场重要的考试，她知道粗心可能会导致失分，因此她仔细检查每一道题目。",
+          "chineseIdea": "小华希望在考试中取得好成绩，不想因为粗心而丢分，所以她格外认真。",
+          "sentenceWithBlank": "To score well on the exam, Xiaohua double-checked her answers to @ @.",
+          "fullEnglishSentence": "To score well on the exam, Xiaohua double-checked her answers to 「avoid making mistakes」.",
+          "chineseTranslation": "为了在考试中取得好成绩，小华仔细检查答案以「避免犯错」。",
+          "chinglishFix": "典型中式英语：'She check answers to not wrong.' 纠正：'She checked her answers to avoid making mistakes.'"
+        },
+        {
+          "scene": "在一次记者会上，小张被问到一个敏感问题，他不想直接回答以免引起争议，因此他巧妙地转移了话题。",
+          "chineseIdea": "小张希望保持中立，不想因为回答敏感问题而引发不必要的讨论，所以他绕开了问题。",
+          "sentenceWithBlank": "During the press conference, Xiaozhang skillfully changed the topic to @ @.",
+          "fullEnglishSentence": "During the press conference, Xiaozhang skillfully changed the topic to 「avoid answering questions」.",
+          "chineseTranslation": "在记者会上，小张巧妙地转换话题以「避免回答问题」。",
+          "chinglishFix": "典型中式英语：'He not answer question to escape trouble.' 纠正：'He changed the topic to avoid answering questions.'"
+        }
+      ]
+    }
+  ]
+}
+```

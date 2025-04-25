@@ -1,0 +1,53 @@
+```json
+{
+  "word": "critic",
+  "definitions": [
+    {
+      "meaning": "评论家，专门对艺术、文学、电影等作品进行评价或分析的人",
+      "usage": "指从事专业评论的人，通常在报纸、杂志、网站或电视上发表对艺术作品、表演或文学的分析和看法，语气可以是中性、褒义或贬义，取决于语境。",
+      "collocations": ["film critic", "art critic", "literary critic"],
+      "examples": [
+        {
+          "scene": "一位电影爱好者在周末去电影院看了一部新上映的科幻电影，回家后在社交媒体上搜索关于这部电影的评价，发现了一篇专业评论家的文章，文章详细分析了电影的剧情和特效。",
+          "chineseIdea": "想了解专业人士对电影的看法，觉得他们的分析能帮助自己更深入理解作品。",
+          "sentenceWithBlank": "The @ @ wrote a detailed review of the new sci-fi movie, praising its visuals but questioning its storyline.",
+          "fullEnglishSentence": "The 「film critic」 wrote a detailed review of the new sci-fi movie, praising its visuals but questioning its storyline.",
+          "chineseTranslation": "这位「电影评论家」写了一篇关于新科幻电影的详细评论，称赞了它的视觉效果，但质疑了它的故事情节。",
+          "chinglishFix": "典型中式英语：'The movie commenter said the movie is good.' 纠正：'The film critic praised the movie’s visuals.'（避免使用'commenter'，因为它不常用于指专业评论家；'critic'更准确。）"
+        },
+        {
+          "scene": "一位大学生在准备艺术史的论文时，阅读了一本关于印象派绘画的书籍，书中引用了一位专业评论家对莫奈作品的评价，帮助她理解画作的风格。",
+          "chineseIdea": "希望通过专业人士的分析，深入了解艺术作品的背景和意义。",
+          "sentenceWithBlank": "An @ @ described Monet’s paintings as revolutionary for their use of light and color.",
+          "fullEnglishSentence": "An 「art critic」 described Monet’s paintings as revolutionary for their use of light and color.",
+          "chineseTranslation": "一位「艺术评论家」形容莫奈的画作因其对光线和色彩的运用而具有革命性。",
+          "chinglishFix": "典型中式英语：'The art judge said Monet’s painting is very special.' 纠正：'The art critic described Monet’s paintings as revolutionary.'（'judge'不适合指评论家，'critic'更贴切；避免空洞的'special'，用更具体的'revolutionary'。）"
+        }
+      ]
+    },
+    {
+      "meaning": "批评者，对某人或某事提出负面评价或反对意见的人",
+      "usage": "指对某人、某事或某政策持批评态度的人，通常带有负面或反对的含义，常见于描述对政治、社会或个人行为的批评。",
+      "collocations": ["vocal critic", "harsh critic", "outspoken critic"],
+      "examples": [
+        {
+          "scene": "一位市民对当地政府的新交通政策不满，认为它会导致更多拥堵。他在社区论坛上看到一位知名人士公开批评这项政策，引起了广泛讨论。",
+          "chineseIdea": "觉得有人站出来公开反对不合理的政策很勇敢，想了解更多他们的观点。",
+          "sentenceWithBlank": "The @ @ of the new traffic policy argued that it would worsen congestion in the city.",
+          "fullEnglishSentence": "The 「vocal critic」 of the new traffic policy argued that it would worsen congestion in the city.",
+          "chineseTranslation": "新交通政策的「强烈批评者」认为它会加剧城市交通拥堵。",
+          "chinglishFix": "典型中式英语：'The person who not like policy said it’s bad.' 纠正：'The vocal critic of the policy argued it would worsen congestion.'（避免模糊的'person who not like'，用'vocal critic'更精准；'bad'过于简单，需更具体的表达。）"
+        },
+        {
+          "scene": "在公司会议上，经理提出了一项新的工作流程，但一位同事直言不讳地指出这项流程可能降低效率，引起了大家的思考。",
+          "chineseIdea": "希望通过提出问题来改进计划，而不是盲目接受。",
+          "sentenceWithBlank": "An @ @ of the proposed workflow warned that it could reduce productivity.",
+          "fullEnglishSentence": "An 「outspoken critic」 of the proposed workflow warned that it could reduce productivity.",
+          "chineseTranslation": "拟议工作流程的「直言批评者」警告说它可能会降低生产力。",
+          "chinglishFix": "典型中式英语：'The worker who disagree said the plan no good.' 纠正：'The outspoken critic warned that the plan could reduce productivity.'（'worker who disagree'不自然，'outspoken critic'更符合语境；'no good'应改为更具体的'reduce productivity'。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "benefit",
+  "definitions": [
+    {
+      "meaning": "有利的结果或优势",
+      "usage": "指某事物带来的好处、利益或积极影响，常用于描述对个人、团体或情况的正面效果。",
+      "collocations": ["reap the benefits", "enjoy the benefits", "mutual benefit"],
+      "examples": [
+        {
+          "scene": "一位职场新人小李在公司参加了一个为期三个月的培训项目，学习了新的技能，之后在工作中表现出色，得到了领导的认可。",
+          "chineseIdea": "小李通过培训获得了技能提升，这让他在工作中更有竞争力，收获了职业上的回报。",
+          "sentenceWithBlank": "By completing the training program, Xiao Li was able to @ @ @ of improved skills and career growth.",
+          "fullEnglishSentence": "By completing the training program, Xiao Li was able to 「reap the benefits」 of improved skills and career growth.",
+          "chineseTranslation": "通过完成培训项目，小李能够「收获回报」，提升了技能并实现了职业成长。",
+          "chinglishFix": "典型中式英语：'Xiao Li got benefits from training.' 纠正：'Xiao Li reaped the benefits of the training.' 原因：'got benefits' 过于笼统，缺乏具体搭配，'reap the benefits' 是更自然的表达，强调收获成果。"
+        },
+        {
+          "scene": "一家公司引入了弹性工作制，员工可以自由安排工作时间，这让大家感到工作与生活的平衡得到了改善。",
+          "chineseIdea": "员工因为新政策而感受到工作环境的改善，生活多样化的工作时间安排带来的便利让他们更满意。",
+          "sentenceWithBlank": "The new flexible work policy allows employees to @ @ @ of a better work-life balance.",
+          "fullEnglishSentence": "The new flexible work policy allows employees to 「enjoy the benefits」 of a better work-life balance.",
+          "chineseTranslation": "新的弹性工作政策让员工能够「享受更好工作与生活平衡的便利」。",
+          "chinglishFix": "典型中式英语：'Employees can get better balance from the policy.' 纠正：'Employees can enjoy the benefits of a better work-life balance.' 原因：'get better balance' 表达不自然，'enjoy the benefits' 是更地道的搭配，强调体验到正面效果。"
+        }
+      ]
+    },
+    {
+      "meaning": "经济上的资助或福利",
+      "usage": "指政府或机构提供的经济支持，如失业救济、医疗保险等，通常与社会保障相关。",
+      "collocations": ["receive benefits", "social benefits", "unemployment benefits"],
+      "examples": [
+        {
+          "scene": "小张因为公司裁员失去了工作，政府为他提供了为期六个月的失业救济金，帮助他度过难关。",
+          "chineseIdea": "小张在失业期间获得了政府的经济支持，这让他能够支付基本生活费用。",
+          "sentenceWithBlank": "After losing his job, Xiao Zhang began to @ @ from the government to cover his living expenses.",
+          "fullEnglishSentence": "After losing his job, Xiao Zhang began to 「receive benefits」 from the government to cover his living expenses.",
+          "chineseTranslation": "在失去工作后，小张开始「领取救济金」，以支付生活费用。",
+          "chinglishFix": "典型中式英语：'Xiao Zhang got money from government.' 纠正：'Xiao Zhang received benefits from the government.' 原因：'got money' 过于直白且不专业，'receive benefits' 是描述社会福利的常见表达。"
+        },
+        {
+          "scene": "一位单亲妈妈小王依靠政府提供的社会福利，得以支付孩子的教育费用和医疗保险。",
+          "chineseIdea": "小王通过政府的资助，能够确保孩子的基本生活和教育需求得到满足。",
+          "sentenceWithBlank": "As a single mother, Xiao Wang relies on @ @ to support her child’s education and healthcare.",
+          "fullEnglishSentence": "As a single mother, Xiao Wang relies on 「social benefits」 to support her child’s education and healthcare.",
+          "chineseTranslation": "作为单亲妈妈，小王依靠「社会福利」来支持孩子的教育和医疗。",
+          "chinglishFix": "典型中式英语：'Xiao Wang uses government help for her child.' 纠正：'Xiao Wang relies on social benefits for her child’s support.' 原因：'government help' 过于模糊，'social benefits' 是更精确的术语，符合语境。"
+        }
+      ]
+    }
+  ]
+}
+```
