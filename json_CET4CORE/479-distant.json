@@ -1,0 +1,76 @@
+```json
+{
+  "word": "distant",
+  "definitions": [
+    {
+      "meaning": "物理上远处的，遥远的",
+      "usage": "描述在空间上远离某个地点、物体或人，通常指物理距离较远。",
+      "collocations": ["distant place", "distant star", "distant memory"],
+      "examples": [
+        {
+          "scene": "一个中国学生在咖啡馆与朋友聊天，谈到自己计划去一个遥远的地方旅行，比如南极。",
+          "chineseIdea": "想表达某个地方非常遥远，几乎像是另一个世界，强调距离带来的神秘感。",
+          "sentenceWithBlank": "The @ @ I want to visit feels like it’s on another planet.",
+          "fullEnglishSentence": "The 「distant place」 I want to visit feels like it’s on another planet.",
+          "chineseTranslation": "我想去的那个「遥远的地方」感觉像是另一个星球。",
+          "chinglishFix": "典型中式英语：'The place is very far.' 纠正：'The place is far away' 或 'It’s a distant place'，以更自然地表达距离感。"
+        },
+        {
+          "scene": "一个天文爱好者在夜晚观察星空，向朋友描述天空中闪烁的星星。",
+          "chineseIdea": "想表达星星离我们非常遥远，但它们的光芒依然可见，带有一种浪漫的情感。",
+          "sentenceWithBlank": "That @ @ twinkles brightly despite being so far away.",
+          "fullEnglishSentence": "That 「distant star」 twinkles brightly despite being so far away.",
+          "chineseTranslation": "那颗「遥远的星星」尽管那么远，依然闪耀着光芒。",
+          "chinglishFix": "典型中式英语：'The star is very far.' 纠正：'It’s a distant star'，更符合英语中描述遥远天体的习惯表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "时间上久远的，遥远的",
+      "usage": "描述在时间上远离现在，通常指很久以前的事件、记忆等。",
+      "collocations": ["distant past", "distant future", "distant memory"],
+      "examples": [
+        {
+          "scene": "一个中国学生在历史课上讨论古代文明，比如秦朝，感叹时间久远。",
+          "chineseIdea": "想表达某个历史时期非常久远，现代人难以完全理解当时的生活。",
+          "sentenceWithBlank": "Life in the @ @ seems almost unimaginable to us now.",
+          "fullEnglishSentence": "Life in the 「distant past」 seems almost unimaginable to us now.",
+          "chineseTranslation": "「遥远的过去」的生活对我们来说几乎无法想象。",
+          "chinglishFix": "典型中式英语：'The past is very long.' 纠正：'It’s the distant past'，更自然地表达时间上的遥远。"
+        },
+        {
+          "scene": "一个朋友在聚会上回忆童年趣事，感叹那些记忆已经模糊。",
+          "chineseIdea": "想表达童年的回忆已经变得模糊，仿佛是很久以前的事情。",
+          "sentenceWithBlank": "Those moments are just a @ @ now, barely clear in my mind.",
+          "fullEnglishSentence": "Those moments are just a 「distant memory」 now, barely clear in my mind.",
+          "chineseTranslation": "那些时刻现在只是「遥远的记忆」，在脑海中几乎不清晰了。",
+          "chinglishFix": "典型中式英语：'The memory is very old.' 纠正：'It’s a distant memory'，更贴合英语中对久远记忆的表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "情感上疏远的，冷淡的",
+      "usage": "描述人与人之间在情感或关系上的疏远，通常带有冷漠或不亲近的含义。",
+      "collocations": ["distant relative", "distant manner", "distant relationship"],
+      "examples": [
+        {
+          "scene": "一个中国学生在家庭聚会上见到一个很少联系的亲戚，感觉彼此不熟。",
+          "chineseIdea": "想表达这个亲戚虽然有血缘关系，但因为不常联系，感觉很陌生。",
+          "sentenceWithBlank": "She’s just a @ @ to me; we’ve never been close.",
+          "fullEnglishSentence": "She’s just a 「distant relative」 to me; we’ve never been close.",
+          "chineseTranslation": "她对我来说只是个「远房亲戚」，我们从不亲近。",
+          "chinglishFix": "典型中式英语：'She is my far relative.' 纠正：'She’s a distant relative'，更符合英语中描述远亲的表达。"
+        },
+        {
+          "scene": "一个员工在公司会议后与同事讨论，觉得新来的经理态度冷淡。",
+          "chineseIdea": "想表达经理给人的感觉不热情，显得疏远，难以接近。",
+          "sentenceWithBlank": "The new manager has a @ @ that makes people hesitant to approach her.",
+          "fullEnglishSentence": "The new manager has a 「distant manner」 that makes people hesitant to approach her.",
+          "chineseTranslation": "新经理的「冷淡态度」让人犹豫不敢接近她。",
+          "chinglishFix": "典型中式英语：'She is very cold.' 纠正：'She has a distant manner'，更准确地描述情感上的疏远。"
+        }
+      ]
+    }
+  ]
+}
+```

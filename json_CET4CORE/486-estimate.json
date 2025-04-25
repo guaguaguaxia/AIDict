@@ -1,0 +1,53 @@
+```json
+{
+  "word": "estimate",
+  "definitions": [
+    {
+      "meaning": "对数量、程度或价值的粗略计算或判断",
+      "usage": "通常用作动词，表示通过分析或猜测来大致判断某事物的数量、成本、时间等；也可用作名词，表示这种判断的结果。",
+      "collocations": ["make an estimate", "rough estimate", "accurate estimate"],
+      "examples": [
+        {
+          "scene": "在一个建筑项目会议上，项目经理需要快速判断新大楼的建造成本，以便与客户讨论预算。",
+          "chineseIdea": "项目经理想要给客户一个大致的成本数字，但还没有详细的计算。",
+          "sentenceWithBlank": "Based on the initial plans, we can @ @ @ of the construction costs for the client.",
+          "fullEnglishSentence": "Based on the initial plans, we can 「make an estimate」 of the construction costs for the client.",
+          "chineseTranslation": "根据初步计划，我们可以为客户「大致估算」建筑成本。",
+          "chinglishFix": "典型中式英语：'We can guess the cost for the client.' 纠正：'Guess'显得随意且不专业，应使用'make an estimate'表示正式的估算。"
+        },
+        {
+          "scene": "一个朋友问你在装修房子时需要多少时间，你根据经验给出一个大致的答案。",
+          "chineseIdea": "你想告诉朋友一个大致的时间范围，但不想承诺具体的日期。",
+          "sentenceWithBlank": "It’s hard to say exactly, but I can give you a @ @ of about two months.",
+          "fullEnglishSentence": "It’s hard to say exactly, but I can give you a 「rough estimate」 of about two months.",
+          "chineseTranslation": "很难说确切时间，但我可以给你一个「粗略估算」，大约两个月。",
+          "chinglishFix": "典型中式英语：'I think maybe two months.' 纠正：'Think maybe'显得不确定且口语化，应使用'rough estimate'表达大致的判断。"
+        }
+      ]
+    },
+    {
+      "meaning": "对某人或某事物的价值、能力或品质的评价",
+      "usage": "通常用作名词，指对某人或某事物整体价值的看法或判断，常用于正式或文学语境。",
+      "collocations": ["high estimate", "low estimate", "public estimate"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，学者们讨论一位历史人物的贡献，试图评估他在历史中的地位。",
+          "chineseIdea": "学者们想表达对这位历史人物的高度评价，认为他的贡献被广泛认可。",
+          "sentenceWithBlank": "Many historians hold a @ @ of his contributions to science and culture.",
+          "fullEnglishSentence": "Many historians hold a 「high estimate」 of his contributions to science and culture.",
+          "chineseTranslation": "许多历史学家对他的科学与文化贡献持「高度评价」。",
+          "chinglishFix": "典型中式英语：'He is very good in history.' 纠正：'Very good'过于简单且模糊，应使用'high estimate'表达正式的评价。"
+        },
+        {
+          "scene": "在公司年会上，经理提到一位员工在团队中的价值，但公众对他的看法并不一致。",
+          "chineseIdea": "经理想说明公众对这位员工的评价不完全正面，存在争议。",
+          "sentenceWithBlank": "Despite his achievements, the @ @ of his leadership skills remains divided.",
+          "fullEnglishSentence": "Despite his achievements, the 「public estimate」 of his leadership skills remains divided.",
+          "chineseTranslation": "尽管他有成就，公众对他的领导能力的「评价」仍然存在分歧。",
+          "chinglishFix": "典型中式英语：'People think different about him.' 纠正：'Think different'语法错误且表达模糊，应使用'public estimate'表示公众的整体看法。"
+        }
+      ]
+    }
+  ]
+}
+```

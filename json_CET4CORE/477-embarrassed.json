@@ -1,0 +1,53 @@
+```json
+{
+  "word": "embarrassed",
+  "definitions": [
+    {
+      "meaning": "感到尴尬或难堪，通常因为某事让自己显得愚蠢或不合适",
+      "usage": "描述一个人在社交场合或特定情境中因自身行为、言语或外在因素而感到不自在或羞愧的情绪，常用于描述轻至中度的羞耻感。",
+      "collocations": ["feel embarrassed", "look embarrassed", "get embarrassed"],
+      "examples": [
+        {
+          "scene": "你在一个朋友聚会上，不小心把红酒洒在了白色地毯上，所有人都看着你，你感到脸红心跳，想找个地方躲起来。",
+          "chineseIdea": "你觉得自己很丢脸，因为你的失误让大家的目光都集中在你身上，你希望能赶紧转移注意力。",
+          "sentenceWithBlank": "I couldn’t help but @ @ after spilling the wine in front of everyone.",
+          "fullEnglishSentence": "I couldn’t help but 「feel embarrassed」 after spilling the wine in front of everyone.",
+          "chineseTranslation": "我不由得「感到尴尬」，因为在大家面前把酒洒了。",
+          "chinglishFix": "典型中式英语：'I feel very shame.' 纠正：'I feel embarrassed.'（'Shame'通常指更深的羞耻感，而'embarrassed'更适合描述这种轻度的社交尴尬。）"
+        },
+        {
+          "scene": "你在课堂上被老师点名回答问题，但你完全没听课，答不上来，同学们都在窃笑，你低下了头。",
+          "chineseIdea": "你觉得自己很没面子，因为当众暴露了自己的无知，想赶紧结束这个局面。",
+          "sentenceWithBlank": "When I couldn’t answer the question, I started to @ @ in front of the class.",
+          "fullEnglishSentence": "When I couldn’t answer the question, I started to 「look embarrassed」 in front of the class.",
+          "chineseTranslation": "当我答不出问题时，我在全班面前开始「显得尴尬」。",
+          "chinglishFix": "典型中式英语：'My face is red.' 纠正：'I looked embarrassed.'（'My face is red'只是描述物理现象，而'look embarrassed'更准确传达了情绪状态。）"
+        }
+      ]
+    },
+    {
+      "meaning": "因经济或资源匮乏而感到困窘或为难",
+      "usage": "用于描述因缺乏金钱、物资或其他资源而导致的不便或窘迫感，通常带有一定程度的无奈或羞耻。",
+      "collocations": ["be embarrassed for", "financially embarrassed"],
+      "examples": [
+        {
+          "scene": "你和朋友去餐厅吃饭，轮到你付账时发现钱包里没带够现金，刷卡又失败，只能让朋友先垫付。",
+          "chineseIdea": "你觉得很没面子，因为自己没能力支付账单，内心有些羞愧和无奈。",
+          "sentenceWithBlank": "I was @ @ @ money when I couldn’t pay the bill at the restaurant.",
+          "fullEnglishSentence": "I was 「embarrassed for」 money when I couldn’t pay the bill at the restaurant.",
+          "chineseTranslation": "当我付不起餐厅账单时，我因「缺钱而感到窘迫」。",
+          "chinglishFix": "典型中式英语：'I have no money, so I feel bad.' 纠正：'I was embarrassed for money.'（'Feel bad'过于模糊，而'embarrassed for money'更具体地表达了因经济窘迫的尴尬。）"
+        },
+        {
+          "scene": "你开了一家小店，但最近生意不好，供应商催款，而你连货款都付不起，感到很为难。",
+          "chineseIdea": "你觉得自己很失败，因为无法维持生意，面对供应商的催促让你感到羞耻。",
+          "sentenceWithBlank": "The shop was @ @ due to poor sales, and I couldn’t settle the supplier’s invoice.",
+          "fullEnglishSentence": "The shop was 「financially embarrassed」 due to poor sales, and I couldn’t settle the supplier’s invoice.",
+          "chineseTranslation": "由于销售不佳，店铺「经济上陷入窘境」，我无法支付供应商的账单。",
+          "chinglishFix": "典型中式英语：'My shop has no money.' 纠正：'My shop was financially embarrassed.'（'Has no money'过于直白，缺乏正式语境，而'financially embarrassed'更专业。）"
+        }
+      ]
+    }
+  ]
+}
+```

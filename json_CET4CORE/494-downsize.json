@@ -1,0 +1,53 @@
+```json
+{
+  "word": "downsize",
+  "definitions": [
+    {
+      "meaning": "减少公司规模或员工数量，通常指裁员或缩减业务以降低成本",
+      "usage": "主要用于商业或组织管理语境，指通过裁员、关闭部门或减少运营规模来降低开支。常用于描述企业在经济压力下采取的措施。",
+      "collocations": ["downsize operations", "downsize the workforce", "downsize a department"],
+      "examples": [
+        {
+          "scene": "一家制造公司在全球经济衰退期间面临订单减少，管理层决定减少生产线的规模以降低成本。",
+          "chineseIdea": "公司希望通过减少生产线和员工数量来应对财务压力，确保长期盈利。",
+          "sentenceWithBlank": "Due to declining sales, the company decided to @ @ in several factories.",
+          "fullEnglishSentence": "Due to declining sales, the company decided to 「downsize operations」 in several factories.",
+          "chineseTranslation": "由于销售额下降，公司决定在几家工厂「缩减运营」。",
+          "chinglishFix": "典型中式英语：'make the company smaller'。纠正：使用'downsize operations'或'reduce the scale of operations'来表达缩减公司规模的商业行为。"
+        },
+        {
+          "scene": "一家科技创业公司因资金短缺，决定裁减部分员工以维持核心项目的运营。",
+          "chineseIdea": "公司希望通过裁员来集中资源，确保关键产品开发能够继续进行。",
+          "sentenceWithBlank": "To stay afloat, the startup had to @ @ @ to focus on its main product.",
+          "fullEnglishSentence": "To stay afloat, the startup had to 「downsize the workforce」 to focus on its main product.",
+          "chineseTranslation": "为了维持运营，这家初创公司不得不「裁减员工」以专注于其主打产品。",
+          "chinglishFix": "典型中式英语：'cut people'。纠正：使用'downsize the workforce'或'lay off employees'来更专业地表达裁员行为。"
+        }
+      ]
+    },
+    {
+      "meaning": "缩小某物的尺寸或规模，通常指物理对象或生活方式",
+      "usage": "用于描述减少物品、房屋或生活方式的规模，常与简约生活或环保理念相关。常见于日常对话或描述个人选择。",
+      "collocations": ["downsize a home", "downsize possessions", "downsize lifestyle"],
+      "examples": [
+        {
+          "scene": "一对退休夫妇决定卖掉大房子，搬到小公寓以减少维护成本和简化生活。",
+          "chineseIdea": "他们希望通过住进更小的房子来降低生活开支，享受更轻松的生活方式。",
+          "sentenceWithBlank": "After retiring, they chose to @ @ to a cozy apartment.",
+          "fullEnglishSentence": "After retiring, they chose to 「downsize a home」 to a cozy apartment.",
+          "chineseTranslation": "退休后，他们选择「缩小住所」搬到一个舒适的公寓。",
+          "chinglishFix": "典型中式英语：'live in a smaller house'。纠正：使用'downsize a home'来更自然地表达搬到更小住所的行为。"
+        },
+        {
+          "scene": "一个年轻人受到极简主义的影响，决定清理衣柜，只保留必要的衣物。",
+          "chineseIdea": "他希望通过减少物品拥有量来简化生活，专注于更有意义的事情。",
+          "sentenceWithBlank": "Inspired by minimalism, he decided to @ @ to live more simply.",
+          "fullEnglishSentence": "Inspired by minimalism, he decided to 「downsize possessions」 to live more simply.",
+          "chineseTranslation": "受到极简主义的启发，他决定「减少物品」以更简单地生活。",
+          "chinglishFix": "典型中式英语：'throw away things'。纠正：使用'downsize possessions'或'reduce belongings'来表达减少个人物品的行为。"
+        }
+      ]
+    }
+  ]
+}
+```

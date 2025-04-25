@@ -1,0 +1,53 @@
+```json
+{
+  "word": "exception",
+  "definitions": [
+    {
+      "meaning": "例外，异常情况，指某事物或人不符合一般规则或模式",
+      "usage": "常用于描述某人或某事不符合普遍规律、标准或预期的情况，可能出现在正式或非正式语境中，常与介词 'to' 或 'from' 搭配。",
+      "collocations": ["make an exception", "with the exception of", "without exception"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理讨论一项新政策，要求所有员工必须在早上9点前到办公室。有一个员工因为家住很远，请求特殊安排。",
+          "chineseIdea": "这个员工希望公司能为他打破常规，允许他晚点到，因为他的情况特殊。",
+          "sentenceWithBlank": "After considering his situation, the manager decided to @ @ @ for him.",
+          "fullEnglishSentence": "After considering his situation, the manager decided to 「make an exception」 for him.",
+          "chineseTranslation": "在考虑了他的情况后，经理决定为他「破例」。",
+          "chinglishFix": "典型中式英语：'Give him a special case.' 纠正：'Make an exception for him.' 中式英语常直接翻译为'特殊情况'或'特殊案例'，显得生硬，正确的表达是用'make an exception'来表示打破规则。"
+        },
+        {
+          "scene": "在学校里，老师要求所有学生穿校服，但有一个国际学生因为文化背景不同，提出可以穿自己的传统服装。",
+          "chineseIdea": "老师同意为这个学生特殊对待，允许他不按常规穿校服。",
+          "sentenceWithBlank": "The teacher agreed to @ @ @ for the international student.",
+          "fullEnglishSentence": "The teacher agreed to 「make an exception」 for the international student.",
+          "chineseTranslation": "老师同意为这个国际学生「破例」。",
+          "chinglishFix": "典型中式英语：'Allow him a different rule.' 纠正：'Make an exception for him.' 中式英语常试图直译为'不同的规则'或'特殊规则'，但英语中'make an exception'是更自然的表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "反对，异议，指对某决定或陈述提出不同意见",
+      "usage": "主要用于法律或正式语境，表示对某项裁决、声明或提议表示反对，常见于书面语或专业讨论中。",
+      "collocations": ["take exception to", "raise an exception", "file an exception"],
+      "examples": [
+        {
+          "scene": "在法庭上，律师对法官的某项裁决提出质疑，认为其不公平。",
+          "chineseIdea": "律师认为法官的决定有问题，正式提出反对意见。",
+          "sentenceWithBlank": "The lawyer decided to @ @ @ the judge’s ruling.",
+          "fullEnglishSentence": "The lawyer decided to 「take exception to」 the judge’s ruling.",
+          "chineseTranslation": "律师决定对法官的裁决「提出异议」。",
+          "chinglishFix": "典型中式英语：'Oppose to the judge’s decision.' 纠正：'Take exception to the judge’s ruling.' 中式英语常误用'oppose'或直接加'to'，而'take exception to'是法律或正式语境中的正确搭配。"
+        },
+        {
+          "scene": "在公司内部会议中，员工对新制定的加班政策表示不满，认为其不合理。",
+          "chineseIdea": "员工公开表达对政策的反对，觉得它对员工不利。",
+          "sentenceWithBlank": "Several employees chose to @ @ @ the new overtime policy.",
+          "fullEnglishSentence": "Several employees chose to 「take exception to」 the new overtime policy.",
+          "chineseTranslation": "几位员工选择对新的加班政策「提出异议」。",
+          "chinglishFix": "典型中式英语：'Disagree the policy.' 纠正：'Take exception to the policy.' 中式英语常省略介词或用'disagree'直接表达，显得不正式，'take exception to'更适合正式场合。"
+        }
+      ]
+    }
+  ]
+}
+```
