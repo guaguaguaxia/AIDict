@@ -1,0 +1,53 @@
+```json
+{
+  "word": "conservation",
+  "definitions": [
+    {
+      "meaning": "保护自然资源或环境，防止其被破坏或浪费",
+      "usage": "指通过有意识的努力来保护自然资源（如水、森林、野生动物等）或环境，以确保其可持续性。常用于环保、生态和可持续发展领域。",
+      "collocations": ["energy conservation", "wildlife conservation", "water conservation"],
+      "examples": [
+        {
+          "scene": "一个社区组织了一场活动，鼓励居民减少用电，以应对夏季的高峰用电需求。",
+          "chineseIdea": "通过关闭不必要的电器和使用节能设备来减少能源消耗。",
+          "sentenceWithBlank": "The community launched a campaign to promote @ @ through efficient appliances.",
+          "fullEnglishSentence": "The community launched a campaign to promote 「energy conservation」 through efficient appliances.",
+          "chineseTranslation": "社区发起了一场运动，通过高效电器来促进「能源保护」。",
+          "chinglishFix": "典型中式英语：'Save energy'（过于简单，缺乏具体语境）。纠正：Use 'energy conservation' to emphasize systematic efforts in reducing energy use."
+        },
+        {
+          "scene": "一个学校组织学生参观当地的自然保护区，学习如何保护濒危动物。",
+          "chineseIdea": "通过建立保护区和限制狩猎来保护珍稀动物免受灭绝。",
+          "sentenceWithBlank": "Students learned about @ @ during their trip to the nature reserve.",
+          "fullEnglishSentence": "Students learned about 「wildlife conservation」 during their trip to the nature reserve.",
+          "chineseTranslation": "学生们在自然保护区之旅中学习了「野生动物保护」。",
+          "chinglishFix": "典型中式英语：'Protect animals'（过于笼统）。纠正：Use 'wildlife conservation' to specify efforts in preserving animal species."
+        }
+      ]
+    },
+    {
+      "meaning": "保存或维护某物（如文化遗产、艺术品或历史建筑）的完整性",
+      "usage": "指通过修复、保护或小心维护来防止文化遗产、艺术品或历史建筑的损坏或丢失。常用于博物馆、历史保护或艺术领域。",
+      "collocations": ["heritage conservation", "art conservation", "building conservation"],
+      "examples": [
+        {
+          "scene": "一座古老的寺庙因为风化和游客破坏而受损，当地政府决定修复它。",
+          "chineseIdea": "通过修缮和限制游客数量来保护历史建筑的原始风貌。",
+          "sentenceWithBlank": "The government funded a project for @ @ to preserve the ancient temple.",
+          "fullEnglishSentence": "The government funded a project for 「heritage conservation」 to preserve the ancient temple.",
+          "chineseTranslation": "政府资助了一个「遗产保护」项目，以保存古老寺庙。",
+          "chinglishFix": "典型中式英语：'Keep old building'（表达不准确）。纠正：Use 'heritage conservation' to highlight systematic preservation of cultural sites."
+        },
+        {
+          "scene": "一家博物馆雇佣专家来修复一幅因时间而褪色的名画。",
+          "chineseIdea": "通过专业的修复技术让艺术品恢复原貌并延长其寿命。",
+          "sentenceWithBlank": "The museum hired specialists for @ @ to restore the faded painting.",
+          "fullEnglishSentence": "The museum hired specialists for 「art conservation」 to restore the faded painting.",
+          "chineseTranslation": "博物馆雇佣了专家进行「艺术保护」，以修复褪色的画作。",
+          "chinglishFix": "典型中式英语：'Fix old picture'（过于口语化且不专业）。纠正：Use 'art conservation' to describe professional restoration of artworks."
+        }
+      ]
+    }
+  ]
+}
+```

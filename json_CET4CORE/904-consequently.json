@@ -1,0 +1,53 @@
+```json
+{
+  "word": "consequently",
+  "definitions": [
+    {
+      "meaning": "因此，作为结果",
+      "usage": "用作副词，表示某事是前述事件或情况的逻辑结果，常用于连接因果关系的句子，语气较为正式，常见于书面语或正式口语。",
+      "collocations": ["as a result", "lead to", "result in"],
+      "examples": [
+        {
+          "scene": "一位学生因为没有认真复习考试，导致成绩不理想，老师在课堂上分析原因。",
+          "chineseIdea": "学生想表达因为自己没有努力学习，所以考试成绩不好。",
+          "sentenceWithBlank": "She didn’t study hard, and @ @ @, she failed the exam.",
+          "fullEnglishSentence": "She didn’t study hard, and 「as a result」, she failed the exam.",
+          "chineseTranslation": "她没有努力学习，「因此」，她考试不及格。",
+          "chinglishFix": "典型中式英语：She no study hard, so she fail exam. 纠正：She didn’t study hard, and as a result, she failed the exam.（需添加连接词和正确的时态）"
+        },
+        {
+          "scene": "公司因为市场竞争激烈，未能实现销售目标，经理在会议上总结问题。",
+          "chineseIdea": "经理想说明由于竞争激烈，销售目标没有达成。",
+          "sentenceWithBlank": "The market was highly competitive, and @ @ @, we didn’t meet our sales targets.",
+          "fullEnglishSentence": "The market was highly competitive, and 「as a result」, we didn’t meet our sales targets.",
+          "chineseTranslation": "市场竞争非常激烈，「因此」，我们没有达到销售目标。",
+          "chinglishFix": "典型中式英语：Market very compete, so we no reach sales goal. 纠正：The market was highly competitive, and as a result, we didn’t meet our sales targets.（需使用正确的语法和逻辑连接词）"
+        }
+      ]
+    },
+    {
+      "meaning": "随后，随之而来",
+      "usage": "用作副词，表示某事紧随另一事件发生，强调时间上的先后顺序，较为少见但在特定语境中使用，语气中立。",
+      "collocations": ["follow from", "stem from", "arise from"],
+      "examples": [
+        {
+          "scene": "一场暴风雨导致道路被洪水淹没，交通随后受到严重影响。",
+          "chineseIdea": "想表达暴风雨发生后，交通问题随之而来。",
+          "sentenceWithBlank": "The storm caused flooding, and the traffic problems @ @ @.",
+          "fullEnglishSentence": "The storm caused flooding, and the traffic problems 「followed from」 it.",
+          "chineseTranslation": "暴风雨引发了洪水，交通问题「随之而来」。",
+          "chinglishFix": "典型中式英语：Storm make flood, so traffic bad. 纠正：The storm caused flooding, and the traffic problems followed from it.（需明确因果和时间顺序）"
+        },
+        {
+          "scene": "一家公司推出了新产品，市场需求随后快速增长。",
+          "chineseIdea": "想说明新产品发布后，市场需求迅速增加。",
+          "sentenceWithBlank": "The company launched a new product, and the demand @ @ @.",
+          "fullEnglishSentence": "The company launched a new product, and the demand 「arose from」 it.",
+          "chineseTranslation": "公司推出了一款新产品，需求「随之而来」。",
+          "chinglishFix": "典型中式英语：Company make new product, so demand big. 纠正：The company launched a new product, and the demand arose from it.（需使用正确的动词和逻辑连接）"
+        }
+      ]
+    }
+  ]
+}
+```
