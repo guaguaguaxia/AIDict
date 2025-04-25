@@ -144,7 +144,6 @@ def write_file(fila_name, content, model):
 
 def get_json_data(API_KEY, start_alpha_list):
     f = open("./aidict-web/wordtxt/CET4_core.txt", "r")
-    k = 0
     api_key = API_KEY
     if api_key is None:
         api_key = get_env_value('api_key')
@@ -158,9 +157,11 @@ def get_json_data(API_KEY, start_alpha_list):
         used_list = alpha_list
     if start_alpha_list is not None:
         used_list = start_alpha_list.split(",")
-
+    k = 0
+    m = 0
     for i in f.readlines():
-        if k > 5:
+        k = k + 1
+        if m > 5:
             break
         word = i.strip()
         start_alpha = word[0].lower()
@@ -177,8 +178,8 @@ def get_json_data(API_KEY, start_alpha_list):
                 continue
         except FileNotFoundError:
             pass
-        k = k + 1
         try:
+            m = m + 1
             response = AIChat(word, model, api_key)
             content = response['choices'][0]['message']['content']
             # 创建文件
