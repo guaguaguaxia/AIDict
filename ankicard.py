@@ -161,6 +161,8 @@ def get_json_data(API_KEY, start_alpha_list):
 
     for i in f.readlines():
         k = k + 1
+        if k > 5:
+            break
         word = i.strip()
         start_alpha = word[0].lower()
         if start_alpha not in used_list:
