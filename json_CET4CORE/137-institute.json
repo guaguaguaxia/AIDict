@@ -1,0 +1,53 @@
+```json
+{
+  "word": "institute",
+  "definitions": [
+    {
+      "meaning": "作为名词，指一个组织或机构，通常与教育、研究或专业活动相关",
+      "usage": "常指具有特定目的的正式机构，如学术研究机构、培训机构或专业协会，强调组织的结构性和权威性。",
+      "collocations": ["research institute", "educational institute", "professional institute"],
+      "examples": [
+        {
+          "scene": "在一所大学里，学生们正在讨论一个专门研究人工智能的机构，这个机构与全球顶尖科技公司合作。",
+          "chineseIdea": "想表达某个机构专注于前沿科技研究，并且在业内有很高的声誉。",
+          "sentenceWithBlank": "The university collaborates with a prestigious @ @ to advance AI technologies.",
+          "fullEnglishSentence": "The university collaborates with a prestigious 「research institute」 to advance AI technologies.",
+          "chineseTranslation": "这所大学与一个享有盛誉的「研究机构」合作，推进人工智能技术。",
+          "chinglishFix": "典型中式英语：'The university work with a study place for AI.' 纠正：'Study place' 过于模糊且不正式，应使用 'research institute' 来准确表达专业研究机构。"
+        },
+        {
+          "scene": "一位工程师在职业会议上介绍一个为工程师提供认证和培训的机构。",
+          "chineseIdea": "想说明某个机构为专业人士提供技能提升和资格认证。",
+          "sentenceWithBlank": "The @ @ offers certifications for engineers seeking career advancement.",
+          "fullEnglishSentence": "The 「professional institute」 offers certifications for engineers seeking career advancement.",
+          "chineseTranslation": "这个「专业机构」为寻求职业发展的工程师提供认证。",
+          "chinglishFix": "典型中式英语：'The place for engineers give certificate.' 纠正：'Place' 和 'give certificate' 显得口语化和不专业，应使用 'professional institute' 和 'offers certifications'。"
+        }
+      ]
+    },
+    {
+      "meaning": "作为动词，指正式设立、建立或启动某事物（如规则、政策、程序等）",
+      "usage": "强调某事物被正式引入或确立，通常用于正式或法律语境，如建立新政策、改革或程序。",
+      "collocations": ["institute a policy", "institute reforms", "institute a program"],
+      "examples": [
+        {
+          "scene": "一家公司为了提高员工福祉，决定正式推行一项新的健康计划。",
+          "chineseIdea": "想表达公司郑重地启动了一项新的举措来改善员工的生活质量。",
+          "sentenceWithBlank": "The company decided to @ @ @ to improve employee well-being.",
+          "fullEnglishSentence": "The company decided to 「institute a program」 to improve employee well-being.",
+          "chineseTranslation": "公司决定「设立一个项目」来改善员工的福祉。",
+          "chinglishFix": "典型中式英语：'The company start a plan for employee health.' 纠正：'Start a plan' 缺乏正式感，且 'plan' 不如 'program' 具体，应使用 'institute a program'。"
+        },
+        {
+          "scene": "政府为了应对环境问题，正式引入了一项新的环保法规。",
+          "chineseIdea": "想说明政府通过 想表达政府郑重地颁布了一项新法律来解决环境问题。",
+          "sentenceWithBlank": "The government plans to @ @ to address environmental concerns.",
+          "fullEnglishSentence": "The government plans to 「institute a policy」 to address environmental concerns.",
+          "chineseTranslation": "政府计划「制定一项政策」来解决环境问题。",
+          "chinglishFix": "典型中式英语：'The government make a rule for environment.' 纠正：'Make a rule' 过于简单且不正式，应使用 'institute a policy' 来体现正式性和权威性。"
+        }
+      ]
+    }
+  ]
+}
+```

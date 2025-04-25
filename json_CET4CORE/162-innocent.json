@@ -1,0 +1,76 @@
+```json
+{
+  "word": "innocent",
+  "definitions": [
+    {
+      "meaning": "无辜的；没有罪的",
+      "usage": "描述一个人在法律、道德或特定事件中没有过错或责任，通常用于法庭、争论或道德判断的语境。",
+      "collocations": ["prove innocent", "declare innocent", "plead innocent"],
+      "examples": [
+        {
+          "scene": "法庭上，一名被告在接受审判后被发现没有犯罪证据，律师为他辩护，强调他的清白。",
+          "chineseIdea": "被告在案件中没有参与任何违法行为，法庭需要确认他的无辜。",
+          "sentenceWithBlank": "After a thorough investigation, the court was able to @ @ in the case.",
+          "fullEnglishSentence": "After a thorough investigation, the court was able to 「prove innocent」 the defendant in the case.",
+          "chineseTranslation": "经过彻底调查，法庭能够「证明无辜」被告在此案中。",
+          "chinglishFix": "典型中式英语：'He is proved no guilty.' 纠正：'He was proven innocent.'（注意使用正确的搭配和被动语态。）"
+        },
+        {
+          "scene": "新闻报道中，一名被错误指控的人在多年后被官方宣布无罪，公众对此表示关注。",
+          "chineseIdea": "官方通过文件正式宣布某人没有犯下被指控的罪行。",
+          "sentenceWithBlank": "The government issued a statement to @ @ after new evidence emerged.",
+          "fullEnglishSentence": "The government issued a statement to 「declare innocent」 the man after new evidence emerged.",
+          "chineseTranslation": "政府发布声明，在新证据出现后「宣布无罪」该男子。",
+          "chinglishFix": "典型中式英语：'They say he is not guilty.' 纠正：'They declared him innocent.'（避免直接翻译，使用正式搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "天真无邪的；单纯的",
+      "usage": "描述一个人（通常是孩子）或行为表现出纯真、未经世故或没有恶意，通常带有正面情感色彩。",
+      "collocations": ["innocent child", "innocent smile", "innocent question"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，一个小女孩好奇地问为什么星星会发光，她的提问让大人们会心一笑。",
+          "chineseIdea": "小女孩的提问展现了她的单纯和对世界的好奇，没有任何复杂动机。",
+          "sentenceWithBlank": "Her @ @ about the stars made everyone smile at the family gathering.",
+          "fullEnglishSentence": "Her 「innocent question」 about the stars made everyone smile at the family gathering.",
+          "chineseTranslation": "她在家庭聚会上关于星星的「天真问题」让每个人都笑了。",
+          "chinglishFix": "典型中式英语：'She asked a naive question.' 纠正：'She asked an innocent question.'（'naive'带有轻微贬义，而'innocent'更适合形容孩子的纯真。）"
+        },
+        {
+          "scene": "在一个乡村学校，一个小男孩用真诚的笑容迎接新来的老师，展现了他的友好和纯真。",
+          "chineseIdea": "小男孩的笑容充满了真诚和单纯，给人温暖的感觉。",
+          "sentenceWithBlank": "The new teacher was touched by the boy’s @ @ on the first day of school.",
+          "fullEnglishSentence": "The new teacher was touched by the boy’s 「inn\":\"The new teacher was touched by the boy’s 「innocent smile」 on the first day of school.",
+          "chineseTranslation": "新老师在开学第一天被男孩的「天真笑容」感动了。",
+          "chinglishFix": "典型中式英语：'The boy had a pure smile.' 纠正：'The boy had an innocent smile.'（'pure'在描述笑容时不如'innocent'自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "无害的；没有恶意的",
+      "usage": "描述某事物、行为或言论没有造成伤害或不良后果，通常用于轻微或无意的情况。",
+      "collocations": ["innocent mistake", "innocent comment", "innocent prank"],
+      "examples": [
+        {
+          "scene": "在一次团队会议中，一名新员工误解了项目要求，提交了错误的报告，但同事们理解这只是无心之失。",
+          "chineseIdea": "新员工的错误是没有恶意的，只是因为缺乏经验。",
+          "sentenceWithBlank": "The manager reassured her that it was just an @ @ and could be fixed easily.",
+          "fullEnglishSentence": "The manager reassured her that it was just an 「innocent mistake」 and could be fixed easily.",
+          "chineseTranslation": "经理安慰她，这只是一个「无害的错误」，可以轻松修正。",
+          "chinglishFix": "典型中式英语：'It’s a small mistake.' 纠正：'It’s an innocent mistake.'（'small'只描述规模，'innocent'强调无恶意。）"
+        },
+        {
+          "scene": "在朋友聚会上，有人开了一个关于年龄的玩笑，虽然有些尴尬，但大家都明白这只是无伤大雅的玩笑。",
+          "chineseIdea": "这个玩笑没有恶意，只是为了活跃气氛。",
+          "sentenceWithBlank": "Everyone laughed at his @ @ about getting older, knowing it was meant in fun.",
+          "fullEnglishSentence": "Everyone laughed at his 「innocent comment」 about getting older, knowing it was meant in fun.",
+          "chineseTranslation": "大家都对他的关于变老的「无恶意评论」笑了，知道这是为了好玩。",
+          "chinglishFix": "典型中式英语：'He said a funny thing.' 纠正：'He made an innocent comment.'（'funny thing'过于模糊，'innocent comment'更具体。）"
+        }
+      ]
+    }
+  ]
+}
+```

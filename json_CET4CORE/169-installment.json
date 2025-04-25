@@ -1,0 +1,53 @@
+```json
+{
+  "word": "installment",
+  "definitions": [
+    {
+      "meaning": "分期付款的一部分",
+      "usage": "指为购买商品或服务而分期支付的固定金额，通常按月支付，直至全额付清。",
+      "collocations": ["make an installment", "pay in installments", "monthly installment"],
+      "examples": [
+        {
+          "scene": "小明在商场看中了一台新款笔记本电脑，但价格较高，他决定通过分期付款的方式购买。销售员向他介绍了每月的付款金额。",
+          "chineseIdea": "小明希望通过每月支付一小部分钱来减轻一次性付款的压力，同时能马上使用新电脑。",
+          "sentenceWithBlank": "To afford the laptop, Xiaoming decided to @ @ @ every month.",
+          "fullEnglishSentence": "To afford the laptop, Xiaoming decided to 「make an installment」 every month.",
+          "chineseTranslation": "为了买得起这台笔记本电脑，小明决定每月「支付一笔分期款」。",
+          "chinglishFix": "典型中式英语：'Xiaoming pay money every month for laptop.' 纠正：'Xiaoming makes an installment payment every month for the laptop.'"
+        },
+        {
+          "scene": "小红想买一辆新车，但全款支付有困难。她和汽车经销商签订了合同，同意在三年内分期付款。",
+          "chineseIdea": "小红希望通过分期的方式拥有新车，同时将付款压力分散到未来几年。",
+          "sentenceWithBlank": "Instead of paying upfront, Xiaohong chose to @ @ @ for her new car.",
+          "fullEnglishSentence": "Instead of paying upfront, Xiaohong chose to 「pay in installments」 for her new car.",
+          "chineseTranslation": "小红选择「分期付款」购买新车，而不是一次性付清。",
+          "chinglishFix": "典型中式英语：'Xiaohong buy car by month.' 纠正：'Xiaohong pays for the car in installments.'"
+        }
+      ]
+    },
+    {
+      "meaning": "连载作品的一部分",
+      "usage": "指小说、电视剧或其他作品分期发布或播出的一个部分，通常按章节或集数发布。",
+      "collocations": ["publish in installments", "release an installment", "latest installment"],
+      "examples": [
+        {
+          "scene": "李华是一名科幻小说迷，他订阅了一本杂志，每月都会收到一期新的小说章节。",
+          "chineseIdea": "李华期待每月阅读新的小说章节，享受故事逐渐展开的乐趣。",
+          "sentenceWithBlank": "The magazine decided to @ @ @ to keep readers engaged.",
+          "fullEnglishSentence": "The magazine decided to 「publish in installments」 to keep readers engaged.",
+          "chineseTranslation": "杂志决定「分期出版」以保持读者的兴趣。",
+          "chinglishFix": "典型中式英语：'Magazine give story every month.' 纠正：'The magazine publishes the story in installments.'"
+        },
+        {
+          "scene": "小刚追了一部热门电视剧，每周都会在流媒体平台上观看最新一集。",
+          "chineseIdea": "小刚迫不及待地想知道剧情发展，每次新集发布时都会第一时间观看。",
+          "sentenceWithBlank": "Fans eagerly awaited the @ @ @ of the popular TV series.",
+          "fullEnglishSentence": "Fans eagerly awaited the 「latest installment」 of the popular TV series.",
+          "chineseTranslation": "粉丝们热切期待热门电视剧的「最新一集」。",
+          "chinglishFix": "典型中式英语：'Fans wait new part of TV show.' 纠正：'Fans await the latest installment of the TV show.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ingredient",
+  "definitions": [
+    {
+      "meaning": "构成食物的原料或配料",
+      "usage": "指用于烹饪或制作食物的具体物质，通常是食物或饮料的一部分，常用于食谱或烹饪语境。",
+      "collocations": ["key ingredient", "secret ingredient", "essential ingredient"],
+      "examples": [
+        {
+          "scene": "一个家庭主妇在周末准备一顿丰盛的晚餐，她正在查看食谱，确认需要购买的材料。",
+          "chineseIdea": "她想知道这道菜需要哪些关键的配料，以确保味道完美。",
+          "sentenceWithBlank": "The recipe says that fresh herbs are the @ @ in this dish.",
+          "fullEnglishSentence": "The recipe says that fresh herbs are the 「key ingredient」 in this dish.",
+          "chineseTranslation": "食谱上说新鲜香草是这道菜的「关键配料」。",
+          "chinglishFix": "典型中式英语：'This dish's most important thing is fresh herbs.' 纠正：'Fresh herbs are the key ingredient in this dish.'"
+        },
+        {
+          "scene": "一个烘焙爱好者在朋友聚会上分享她自制的巧巧克力蛋糕，朋友们都很好奇蛋糕为什么这么美味。",
+          "chineseIdea": "她透露了一个特殊的配料让蛋糕味道独特。",
+          "sentenceWithBlank": "She revealed that a pinch of espresso powder was the @ @ in her chocolate cake.",
+          "fullEnglishSentence": "She revealed that a pinch of espresso powder was the 「secret ingredient」 in her chocolate cake.",
+          "chineseTranslation": "她透露一小撮浓缩咖啡粉是她巧克力蛋糕的「秘密配料」。",
+          "chinglishFix": "典型中式英语：'The cake has a special thing, espresso powder.' 纠正：'Espresso powder is the secret ingredient in the cake.'"
+        }
+      ]
+    },
+    {
+      "meaning": "构成某事物的要素或组成部分",
+      "usage": "指抽象意义上构成某事物的重要部分或因素，通常用于描述成功、关系、计划等的组成部分。",
+      "collocations": ["vital ingredient", "main ingredient", "crucial ingredient"],
+      "examples": [
+        {
+          "scene": "一个创业团队在讨论如何让他们的产品在市场上脱颖而出。",
+          "chineseIdea": "他们认为创新是产品成功的重要因素。",
+          "sentenceWithBlank": "The team agreed that innovation was the @ @ in their product’s success.",
+          "fullEnglishSentence": "The team agreed that innovation was the 「main ingredient」 in their product’s success.",
+          "chineseTranslation": "团队一致认为创新是他们产品成功的「主要因素」。",
+          "chinglishFix": "典型中式英语：'Innovation is the most important thing for success.' 纠正：'Innovation is the main ingredient in their success.'"
+        },
+        {
+          "scene": "一位老师在课堂上分享如何建立良好的人际关系。",
+          "chineseIdea": "她强调信任是关系中不可或缺的要素。",
+          "sentenceWithBlank": "She emphasized that trust is a @ @ in any strong relationship.",
+          "fullEnglishSentence": "She emphasized that trust is a 「crucial ingredient」 in any strong relationship.",
+          "chineseTranslation": "她强调信任是任何牢固关系的「关键因素」。",
+          "chinglishFix": "典型中式英语：'Trust is very important for relationship.' 纠正：'Trust is a crucial ingredient in any relationship.'"
+        }
+      ]
+    }
+  ]
+}
+```

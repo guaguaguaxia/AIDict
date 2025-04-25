@@ -1,0 +1,53 @@
+```json
+{
+  "word": "independently",
+  "definitions": [
+    {
+      "meaning": "不依赖他人或他物，以自主的方式",
+      "usage": "指一个人、组织或事物在行动、思考或运作时不依赖外部帮助、指导或资源，强调自主性和自我控制。",
+      "collocations": ["work independently", "think independently", "act independently"],
+      "examples": [
+        {
+          "scene": "在一个科技公司中，项目经理分配任务后，团队成员需要在规定时间内完成自己的部分，而无需他人持续指导。",
+          "chineseIdea": "员工需要凭借自己的能力和判断力完成任务，展现自主性。",
+          "sentenceWithBlank": "She was able to @ @ on the coding project without needing constant supervision.",
+          "fullEnglishSentence": "She was able to 「work independently」 on the coding project without needing constant supervision.",
+          "chineseTranslation": "她能够「独立工作」，完成编码项目，不需要持续的监督。",
+          "chinglishFix": "中式英语：She can work alone to finish the project. 纠正：She can work independently to complete the project.（‘work alone’强调独自一人，可能缺乏团队背景，而‘work independently’强调自主性。）"
+        },
+        {
+          "scene": "在大学课堂上，教授要求学生们针对一个社会问题提出自己的观点，而不是简单复述课本内容。",
+          "chineseIdea": "学生需要独立思考，形成自己的看法，而不是依赖他人的意见。",
+          "sentenceWithBlank": "Students are encouraged to @ @ and develop their own perspectives on the issue.",
+          "fullEnglishSentence": "Students are encouraged to 「think independently」 and develop their own perspectives on the issue.",
+          "chineseTranslation": "鼓励学生「独立思考」，并对问题形成自己的观点。",
+          "chinglishFix": "中式英语：Students should think by themselves. 纠正：Students should think independently.（‘think by themselves’显得生硬，缺乏强调自主判断的含义。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在统计或研究中，独立地，不受其他变量影响",
+      "usage": "常用于学术或科学语境，描述某个变量或因素在分析中与其他变量没有关联，强调独立性。",
+      "collocations": ["operate independently", "function independently", "assessed independently"],
+      "examples": [
+        {
+          "scene": "在一项心理学实验中，研究人员需要确保每个参与者的反应不受其他参与者的影响。",
+          "chineseIdea": "研究者希望每个参与者的表现是独立的，不被外部因素干扰。",
+          "sentenceWithBlank": "Each participant’s responses were designed to @ @ from the group’s influence.",
+          "fullEnglishSentence": "Each participant’s responses were designed to 「function independently」 from the group’s influence.",
+          "chineseTranslation": "每个参与者的反应都被设计为「独立运作」，不受群体影响。",
+          "chinglishFix": "中式英语：Each participant’s response is separate. 纠正：Each participant’s response functions independently.（‘separate’只表示分开，缺乏科学语境中的独立性含义。）"
+        },
+        {
+          "scene": "在一次医学研究中，评审专家需要对每份实验数据进行单独评估，以确保结果的客观性。",
+          "chineseIdea": "专家需要独立审查数据，避免受到其他评审者意见的影响。",
+          "sentenceWithBlank": "The data from each trial was @ @ to ensure unbiased results.",
+          "fullEnglishSentence": "The data from each trial was 「assessed independently」 to ensure unbiased results.",
+          "chineseTranslation": "每个试验的数据都被「独立评估」，以确保结果无偏见。",
+          "chinglishFix": "中式英语：The data is checked alone. 纠正：The data is assessed independently.（‘checked alone’缺乏学术严谨性，未能体现独立评估的含义。）"
+        }
+      ]
+    }
+  ]
+}
+```

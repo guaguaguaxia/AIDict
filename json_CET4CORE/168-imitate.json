@@ -1,0 +1,53 @@
+```json
+{
+  "word": "imitate",
+  "definitions": [
+    {
+      "meaning": "复制或模仿他人的行为、声音或外貌",
+      "usage": "指通过观察和复制来重现某人的动作、声音、表情或行为，通常带有学习、娱乐或嘲笑的目的。",
+      "collocations": ["imitate someone's behavior", "imitate a sound", "imitate an accent"],
+      "examples": [
+        {
+          "scene": "在一个热闹的学校操场上，孩子们正在玩耍。有一个小男孩看到他的朋友用一种滑稽的方式走路，觉得很有趣，于是决定跟着学。",
+          "chineseIdea": "小男孩想通过模仿朋友的走路方式来逗大家开心，同时也觉得这样可以显得自己很酷。",
+          "sentenceWithBlank": "The boy tried to @ @ @ to make his friends laugh.",
+          "fullEnglishSentence": "The boy tried to 「imitate someone's behavior」 to make his friends laugh.",
+          "chineseTranslation": "这个男孩试着「模仿别人的行为」来逗朋友们笑。",
+          "chinglishFix": "中式英语：He copied his friend's walk to funny everyone. 纠正：He imitated his friend's walk to make everyone laugh."
+        },
+        {
+          "scene": "在一个家庭聚会上，小女孩听到姑姑用一口浓重的南方口音说话，觉得很好玩，于是试着学着说几句话。",
+          "chineseIdea": "小女孩觉得姑姑的口音很特别，想通过模仿来体验那种说话的感觉，同时也想让大家觉得她很聪明。",
+          "sentenceWithBlank": "She loved to @ @ @ during the family gathering.",
+          "fullEnglishSentence": "She loved to 「imitate an accent」 during the family gathering.",
+          "chineseTranslation": "她在家庭聚会上喜欢「模仿口音」。",
+          "chinglishFix": "中式英语：She copied the accent to play. 纠正：She imitated the accent for fun."
+        }
+      ]
+    },
+    {
+      "meaning": "模仿或复制某物以再现其形式或效果",
+      "usage": "指通过复制某物的外观、功能或风格来制造类似的东西，常用于艺术、设计或技术领域。",
+      "collocations": ["imitate a style", "imitate a design", "imitate nature"],
+      "examples": [
+        {
+          "scene": "在一个艺术课堂上，老师要求学生们观察一幅名画，然后尝试画出类似的画作，学习大师的笔触和配色。",
+          "chineseIdea": "学生通过模仿大师的画风来理解艺术技巧，同时希望自己的作品也能有类似的美感。",
+          "sentenceWithBlank": "The students were asked to @ @ @ of a famous painter.",
+          "fullEnglishSentence": "The students were asked to 「imitate a style」 of a famous painter.",
+          "chineseTranslation": "学生们被要求「模仿一位著名画家的风格」。",
+          "chinglishFix": "中式英语：They copied the style of the painter. 纠正：They imitated the style of the painter."
+        },
+        {
+          "scene": "在一个科技展览中，一家公司展示了一种新型材料，这种材料可以像树叶一样通过光合作用产生能量。",
+          "chineseIdea": "公司希望通过模仿自然界的机制来创造可持续的能源解决方案，同时展示技术的创新性。",
+          "sentenceWithBlank": "The company developed a material to @ @ @ for energy production.",
+          "fullEnglishSentence": "The company developed a material to 「imitate nature」 for energy production.",
+          "chineseTranslation": "这家公司开发了一种材料来「模仿自然」以进行能量生产。",
+          "chinglishFix": "中式英语：The material copied nature to make energy. 纠正：The material imitated nature to produce energy."
+        }
+      ]
+    }
+  ]
+}
+```
