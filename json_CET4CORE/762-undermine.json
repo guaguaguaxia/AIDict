@@ -1,0 +1,61 @@
+```json
+{
+  "word": "undermine",
+  "definitions": [
+    {
+      "meaning": "削弱或破坏某事物的基础或力量（通常是逐渐或隐秘地）",
+      "usage": "常用于描述对信心、权威、计划或结构的逐渐侵蚀，强调隐秘或非直接的破坏过程。",
+      "collocations": [
+        "undermine confidence",
+        "undermine authority",
+        "undermine efforts"
+      ],
+      "examples": [
+        {
+          "scene": "在一个公司中，新来的经理总是公开质疑团队成员的决定，导致团队士气低落。",
+          "chineseIdea": "通过持续的批评或质疑，逐渐让团队对自己的能力失去信心。",
+          "sentenceWithBlank": "The new manager’s constant criticism began to @ @ in the team.",
+          "fullEnglishSentence": "The new manager’s constant criticism began to 「undermine confidence」 in the team.",
+          "chineseTranslation": "新经理的持续批评开始「削弱团队的信心」。",
+          "chinglishFix": "典型中式英语：'The manager’s words make team not confident.' 纠正：'The manager’s criticism undermines the team’s confidence.'（使用undermine更准确表达隐秘的削弱过程，并避免直接翻译‘使不自信’）"
+        },
+        {
+          "scene": "在一个项目中，团队成员之间缺乏沟通，导致整个计划的进展受阻。",
+          "chineseIdea": "由于内部问题，团队的努力被无意中破坏，计划无法顺利推进。",
+          "sentenceWithBlank": "Poor communication among team members started to @ @ to complete the project.",
+          "fullEnglishSentence": "Poor communication among team members started to 「undermine efforts」 to complete the project.",
+          "chineseTranslation": "团队成员之间的沟通不畅开始「破坏完成项目的努力」。",
+          "chinglishFix": "典型中式英语：'Bad communication destroy project work.' 纠正：'Poor communication undermines efforts to complete the project.'（使用undermine更精确，且搭配efforts更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "侵蚀或破坏（物理结构，如地基）",
+      "usage": "用于描述水流、风或其他自然力量对物理结构的逐渐破坏，通常涉及基础部分的侵蚀。",
+      "collocations": [
+        "undermine foundations",
+        "undermine structure",
+        "undermine stability"
+      ],
+      "examples": [
+        {
+          "scene": "在一座靠近河流的老房子旁，持续的洪水开始侵蚀地基，威胁房屋安全。",
+          "chineseIdea": "自然力量逐渐破坏房子的根基，可能导致倒塌。",
+          "sentenceWithBlank": "The continuous flooding began to @ @ of the old house.",
+          "fullEnglishSentence": "The continuous flooding began to 「undermine foundations」 of the old house.",
+          "chineseTranslation": "持续的洪水开始「侵蚀老房子的地基」。",
+          "chinglishFix": "典型中式英语：'Flood break house base.' 纠正：'The flooding undermines the foundations of the house.'（使用undermine和foundations更符合英语表达习惯）"
+        },
+        {
+          "scene": "在一个海边悬崖上，强风和海浪多年来侵蚀岩石，导致悬崖逐渐不稳。",
+          "chineseIdea": "自然环境对悬崖的稳定性构成威胁，可能会引发崩塌。",
+          "sentenceWithBlank": "Years of strong winds and waves have started to @ @ of the cliff.",
+          "fullEnglishSentence": "Years of strong winds and waves have started to 「undermine stability」 of the cliff.",
+          "chineseTranslation": "多年的强风和海浪开始「破坏悬崖的稳定性」。",
+          "chinglishFix": "典型中式英语：'Wind and waves make cliff not stable.' 纠正：'Winds and waves undermine the stability of the cliff.'（undermine和stability搭配更自然，且语法更准确）"
+        }
+      ]
+    }
+  ]
+}
+```

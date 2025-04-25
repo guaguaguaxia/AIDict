@@ -1,0 +1,76 @@
+```json
+{
+  "word": "valid",
+  "definitions": [
+    {
+      "meaning": "具有法律效力或符合法律要求的",
+      "usage": "指某事物（如文件、合同、执照等）在法律或正式规则下被认可并有效，通常用于描述官方认可的状态。",
+      "collocations": ["valid contract", "valid license", "valid passport"],
+      "examples": [
+        {
+          "scene": "你正在机场办理登机手续，工作人员需要检查你的护照以确保它在有效期内。",
+          "chineseIdea": "我想表达护照符合要求，可以用于旅行。",
+          "sentenceWithBlank": "The immigration officer checked if my @ @ was still in date.",
+          "fullEnglishSentence": "The immigration officer checked if my 「valid passport」 was still in date.",
+          "chineseTranslation": "移民官检查我的「有效护照」是否仍在有效期内。",
+          "chinglishFix": "典型中式英语：'My passport is useful.' 纠正：'My passport is valid.'（'useful'表示用途广泛，不适合描述护照的法律有效性）"
+        },
+        {
+          "scene": "你在国外驾驶租来的车，警察拦下你，要求查看你的驾驶执照。",
+          "chineseIdea": "我想说明我的驾照是合法的，可以用来开车。",
+          "sentenceWithBlank": "The police officer asked to see my @ @ to ensure I could drive legally.",
+          "fullEnglishSentence": "The police officer asked to see my 「valid license」 to ensure I could drive legally.",
+          "chineseTranslation": "警察要求查看我的「有效驾照」以确保我可以合法驾驶。",
+          "chinglishFix": "典型中式英语：'My license is good.' 纠正：'My license is valid.'（'good'过于笼统，无法准确表达法律有效性）"
+        }
+      ]
+    },
+    {
+      "meaning": "合理的、站得住脚的",
+      "usage": "指某观点、理由、论点等在逻辑上或事实上有根据，能够被接受或令人信服。",
+      "collocations": ["valid argument", "valid reason", "valid point"],
+      "examples": [
+        {
+          "scene": "你和朋友讨论是否应该推迟一次会议，你提出了一个理由，认为现在不是合适的时间。",
+          "chineseIdea": "我想表达推迟会议的理由是合理的。",
+          "sentenceWithBlank": "She agreed that I had a @ @ for delaying the meeting.",
+          "fullEnglishSentence": "She agreed that I had a 「valid reason」 for delaying the meeting.",
+          "chineseTranslation": "她同意我推迟会议有「合理理由」。",
+          "chinglishFix": "典型中式英语：'My reason is right.' 纠正：'My reason is valid.'（'right'更常用于道德或正确性，而'valid'强调逻辑上的合理性）"
+        },
+        {
+          "scene": "在课堂讨论中，你提出了一个关于环境保护的观点，老师对此表示认可。",
+          "chineseIdea": "我想说明我的观点是有根据的，值得考虑。",
+          "sentenceWithBlank": "The teacher praised me for raising a @ @ during the discussion.",
+          "fullEnglishSentence": "The teacher praised me for raising a 「valid point」 during the discussion.",
+          "chineseTranslation": "老师表扬我在讨论中提出了一个「有说服力的观点」。",
+          "chinglishFix": "典型中式英语：'My point is correct.' 纠正：'My point is valid.'（'correct'表示完全正确，而'valid'更强调观点站得住脚）"
+        }
+      ]
+    },
+    {
+      "meaning": "有效的、可用的",
+      "usage": "指某事物（如票据、优惠券、代码等）在特定时间或条件下可以使用，通常用于描述功能上的有效性。",
+      "collocations": ["valid ticket", "valid coupon", "valid code"],
+      "examples": [
+        {
+          "scene": "你去电影院看电影，工作人员需要确认你的电影票是否可以入场。",
+          "chineseIdea": "我想表达我的电影票是可以使用的。",
+          "sentenceWithBlank": "The usher checked if my @ @ allowed entry to the theater.",
+          "fullEnglishSentence": "The usher checked if my 「valid ticket」 allowed entry to the theater.",
+          "chineseTranslation": "检票员检查我的「有效票」是否允许进入影院。",
+          "chinglishFix": "典型中式英语：'My ticket is okay.' 纠正：'My ticket is valid.'（'okay'过于口语化，缺乏正式性）"
+        },
+        {
+          "scene": "你在网上购物时，输入了一个优惠码，但系统提示需要检查是否仍然可用。",
+          "chineseIdea": "我想确认我的优惠码是可以用的。",
+          "sentenceWithBlank": "I entered the @ @ to get a discount on my purchase.",
+          "fullEnglishSentence": "I entered the 「valid code」 to get a discount on my purchase.",
+          "chineseTranslation": "我输入了「有效代码」以获得购买折扣。",
+          "chinglishFix": "典型中式英语：'My code is working.' 纠正：'My code is valid.'（'working'表示功能正常，但'valid'更精准地表示代码在系统中的可用性）"
+        }
+      ]
+    }
+  ]
+}
+```
