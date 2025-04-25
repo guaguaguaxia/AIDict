@@ -171,7 +171,7 @@ def get_json_data(API_KEY, start_alpha_list):
         print(f"第 {k} 个单词：{word}")
         # 判断是否存在
         try:
-            with open(f"./json_CET4CORE/{str(k) + "-" + word}.json", 'r') as file:
+            with open(f"./json_CET4CORE/{str(k) + '-' + word}.json", 'r') as file:
                 print(f"文件 {str(k) + '-' + word}.json 已存在，跳过")
                 continue
         except FileNotFoundError:
@@ -181,7 +181,7 @@ def get_json_data(API_KEY, start_alpha_list):
             content = response['choices'][0]['message']['content']
             # 创建文件
 
-            write_file(f"./json_CET4CORE/{str(k) + "-" + word}.json", content, model)
+            write_file(f"./json_CET4CORE/{str(k) + '-' + word}.json", content, model)
         except Exception as e:
             print(response)
             print(f"获取单词 {word} 的解释失败：{e}")
