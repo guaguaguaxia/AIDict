@@ -1,0 +1,76 @@
+```json
+{
+  "word": "department",
+  "definitions": [
+    {
+      "meaning": "组织中的部门或分支，通常负责特定职能或任务",
+      "usage": "指公司、机构或政府内的职能单位，强调其组织结构中的分工，常用于正式或商业语境。",
+      "collocations": ["human resources department", "finance department", "marketing department"],
+      "examples": [
+        {
+          "scene": "一家大型科技公司正在进行年度预算规划，各个部门需要提交自己的预算报告。",
+          "chineseIdea": "描述公司内负责员工管理的单位如何参与预算规划。",
+          "sentenceWithBlank": "The @ @ @ is preparing a detailed report on employee training costs for the upcoming fiscal year.",
+          "fullEnglishSentence": "The 「human resources department」 is preparing a detailed report on employee training costs for the upcoming fiscal year.",
+          "chineseTranslation": "「人力资源部门」正在为下一财年准备一份关于员工培训费用的详细报告。",
+          "chinglishFix": "典型中式英语：'People department prepare report.' 纠正：'The human resources department is preparing a report.'（避免直接翻译‘人部门’，使用正确的专有名词）"
+        },
+        {
+          "scene": "一家零售公司的新产品发布会即将举行，负责推广的团队正在制定宣传策略。",
+          "chineseIdea": "描述负责市场推广的单位如何为新产品制定计划。",
+          "sentenceWithBlank": "The @ @ has collaborated with influencers to promote the new product line.",
+          "fullEnglishSentence": "The 「marketing department」 has collaborated with influencers to promote the new product line.",
+          "chineseTranslation": "「市场部门」已与网红合作推广新产品系列。",
+          "chinglishFix": "典型中式英语：'Sell department work with influencers.' 纠正：'The marketing department has collaborated with influencers.'（避免使用‘sell’直接翻译‘市场’，应使用‘marketing’）"
+        }
+      ]
+    },
+    {
+      "meaning": "政府或行政机构的部门，通常指国家级或地区级的管理单位",
+      "usage": "指政府或公共机构中负责特定领域事务的单位，常用于正式或官方语境。",
+      "collocations": ["Department of Education", "Department of Health", "Department of Defense"],
+      "examples": [
+        {
+          "scene": "政府正在制定新的教育政策，以提高全国的中小学教学质量。",
+          "chineseIdea": "描述负责教育事务的政府机构如何推动政策改革。",
+          "sentenceWithBlank": "The @ @ @ has introduced new guidelines for teacher training programs.",
+          "fullEnglishSentence": "The 「Department of Education」 has introduced new guidelines for teacher training programs.",
+          "chineseTranslation": "「教育部」为教师培训项目引入了新指南。",
+          "chinglishFix": "典型中式英语：'Education department make new rules.' 纠正：'The Department of Education has introduced new guidelines.'（避免使用‘make rules’，应使用更正式的‘introduce guidelines’）"
+        },
+        {
+          "scene": "一场公共卫生危机后，政府机构需要协调全国的医疗资源。",
+          "chineseIdea": "描述负责医疗事务的政府机构如何应对危机。",
+          "sentenceWithBlank": "The @ @ @ has allocated additional funds to hospitals in rural areas.",
+          "fullEnglishSentence": "The 「Department of Health」 has allocated additional funds to hospitals in rural areas.",
+          "chineseTranslation": "「卫生部」已为农村地区的医院分配了额外资金。",
+          "chinglishFix": "典型中式英语：'Health department give money to hospitals.' 纠正：'The Department of Health has allocated funds to hospitals.'（避免使用‘give money’，应使用‘allocate funds’表示正式拨款）"
+        }
+      ]
+    },
+    {
+      "meaning": "商店中的特定区域，通常按商品类型划分",
+      "usage": "指大型商店或超市中按商品类别划分的区域，常用于日常购物语境。",
+      "collocations": ["electronics department", "clothing department", "home goods department"],
+      "examples": [
+        {
+          "scene": "一位顾客在大型商场购物，想购买一台新电视。",
+          "chineseIdea": "描述顾客如何在卖电子产品的区域寻找商品。",
+          "sentenceWithBlank": "I found a great deal on a smart TV in the @ @.",
+          "fullEnglishSentence": "I found a great deal on a smart TV in the 「electronics department」.",
+          "chineseTranslation": "我在「电子产品区」找到了一款智能电视的超值优惠。",
+          "chinglishFix": "典型中式英语：'I buy TV in electric department.' 纠正：'I found a deal on a TV in the electronics department.'（避免使用‘electric’或‘buy’，应使用‘electronics’和‘found a deal’）"
+        },
+        {
+          "scene": "一位年轻妈妈在超市为孩子购买新衣服。",
+          "chineseIdea": "描述她在卖服装的区域挑选商品的情景。",
+          "sentenceWithBlank": "The @ @ had a wide selection of children’s winter jackets.",
+          "fullEnglishSentence": "The 「clothing department」 had a wide selection of children’s winter jackets.",
+          "chineseTranslation": "「服装区」有多种儿童冬季夹克可供选择。",
+          "chinglishFix": "典型中式英语：'Clothes department have many jackets.' 纠正：'The clothing department had a wide selection of jackets.'（避免使用‘clothes’和‘have many’，应使用‘clothing’和‘wide selection’）"
+        }
+      ]
+    }
+  ]
+}
+```

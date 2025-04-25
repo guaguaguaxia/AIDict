@@ -1,0 +1,53 @@
+```json
+{
+  "word": "dictator",
+  "definitions": [
+    {
+      "meaning": "一个拥有绝对权力，通常通过武力或非民主手段统治国家的人",
+      "usage": "通常用于描述政治领导者，强调其独裁统治和对权力的集中控制，常带有负面含义。",
+      "collocations": ["seize power", "impose a regime", "suppress dissent"],
+      "examples": [
+        {
+          "scene": "在历史课上，老师讲述了一个国家如何在20世纪初陷入混乱，随后一位领导人通过军事政变上台，建立了独裁统治。",
+          "chineseIdea": "描述一个领导人通过非正常手段获得最高权力，并掌控国家。",
+          "sentenceWithBlank": "The military leader managed to @ @ after a violent coup.",
+          "fullEnglishSentence": "The military leader managed to 「seize power」 after a violent coup.",
+          "chineseTranslation": "这位军事领导人通过暴力政变成功「夺取权力」。",
+          "chinglishFix": "典型中式英语：'He got the power by force.' 纠正：'He seized power through a coup.'（'got'过于笼统，'seize power'更准确地表达通过武力获取权力）"
+        },
+        {
+          "scene": "在新闻报道中，记者描述了一位领导人通过控制媒体和军队，强行建立了一种严格的统治模式。",
+          "chineseIdea": "强调领导人通过强制手段建立某种统治体系。",
+          "sentenceWithBlank": "The new ruler moved quickly to @ @ @ that silenced all opposition.",
+          "fullEnglishSentence": "The new ruler moved quickly to 「impose a regime」 that silenced all opposition.",
+          "chineseTranslation": "新统治者迅速「强加了一种政权」，压制了所有反对声音。",
+          "chinglishFix": "典型中式英语：'He made a new government.' 纠正：'He imposed a regime.'（'made'无法体现强制性，'impose a regime'更贴合独裁者强行建立统治的语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "在非政治语境中，指某人以专横或控制欲强的方式支配他人",
+      "usage": "常用于比喻性描述某人在特定环境中（例如工作、家庭或团队中）表现出过度控制的行为，带有批评意味。",
+      "collocations": ["act like a dictator", "rule with an iron fist", "dominate the conversation"],
+      "examples": [
+        {
+          "scene": "在公司会议中，一位经理总是打断别人的发言，强行决定所有事项，让团队成员感到压抑。",
+          "chineseIdea": "描述一个人在团队中表现得过于强势，完全掌控局面。",
+          "sentenceWithBlank": "The manager tends to @ @ @ @ during meetings, leaving no room for discussion.",
+          "fullEnglishSentence": "The manager tends to 「act like a dictator」 during meetings, leaving no room for discussion.",
+          "chineseTranslation": "这位经理在会议中倾向于「表现得像独裁者」，不给讨论留下任何空间。",
+          "chinglishFix": "典型中式英语：'He is very strong in meetings.' 纠正：'He acts like a dictator in meetings.'（'strong'表达模糊，'act like a dictator'更生动且准确地描述控制欲强的行为）"
+        },
+        {
+          "scene": "在家庭聚会上，一个人总是决定大家吃什么、玩什么，其他人只能听从。",
+          "chineseIdea": "强调某人在群体中以高压方式掌控决策。",
+          "sentenceWithBlank": "She always @ @ @ @ @, making everyone follow her plans.",
+          "fullEnglishSentence": "She always 「rules with an iron fist」, making everyone follow her plans.",
+          "chineseTranslation": "她总是「以铁腕统治」，让每个人都遵循她的计划。",
+          "chinglishFix": "典型中式英语：'She controls everything.' 纠正：'She rules with an iron fist.'（'controls'过于普通，'rule with an iron fist'更生动，强调专横的控制）"
+        }
+      ]
+    }
+  ]
+}
+```

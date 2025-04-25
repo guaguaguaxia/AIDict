@@ -1,0 +1,53 @@
+```json
+{
+  "word": "desire",
+  "definitions": [
+    {
+      "meaning": "强烈的渴望或愿望",
+      "usage": "指内心深处对某事物或某目标的强烈渴求，通常带有情感或动力驱动，常用于表达个人愿望、目标或热情。",
+      "collocations": ["burning desire", "strong desire", "deep desire"],
+      "examples": [
+        {
+          "scene": "小明是一个刚刚大学毕业的年轻人，他梦想成为一名顶尖的软件工程师。他每天都在学习编程，熬夜研究新技术，因为他对这个职业充满了热情。",
+          "chineseIdea": "小明对成为软件工程师有非常强烈的愿望，这种愿望推动他不断努力学习和提升自己。",
+          "sentenceWithBlank": "He has a @ @ to become a top software engineer, driving him to study relentlessly.",
+          "fullEnglishSentence": "He has a 「burning desire」 to become a top software engineer, driving him to study relentlessly.",
+          "chineseTranslation": "他对成为顶尖软件工程师有「强烈的渴望」，这驱使他不懈地学习。",
+          "chinglishFix": "中式英语：He very wants to be a software engineer. 纠正：He has a strong desire to become a software engineer.（'Very wants' 是不自然的表达，应使用 'desire' 等词汇表达强烈愿望。）"
+        },
+        {
+          "scene": "丽丽是一个热爱旅行的女孩，她计划明年去南美洲探索古老的印加文化遗址。她一直在攒钱并研究旅行路线，因为她对这次冒险充满期待。",
+          "chineseIdea": "丽丽对去南美洲旅行有强烈的愿望，这让她积极地为旅行做准备。",
+          "sentenceWithBlank": "Her @ @ to explore South America motivates her to save money and plan carefully.",
+          "fullEnglishSentence": "Her 「strong desire」 to explore South America motivates her to save money and plan carefully.",
+          "chineseTranslation": "她对探索南美洲的「强烈愿望」激励她存钱并认真计划。",
+          "chinglishFix": "中式英语：She really wants go to South America. 纠正：She has a strong desire to explore South America.（'Really wants go' 语法错误且不地道，应使用 'desire' 并注意动词形式。）"
+        }
+      ]
+    },
+    {
+      "meaning": "对某人或某物的性吸引力或浪漫渴望",
+      "usage": "指对某人产生的浪漫或性方面的吸引力，通常带有亲密或情感的色彩，常见于描述人际关系或浪漫情境。",
+      "collocations": ["feel desire", "physical desire", "overwhelming desire"],
+      "examples": [
+        {
+          "scene": "在一个安静的咖啡馆里，小刚第一次遇到了小美。她的微笑和谈吐让他心动，他感到一种无法抗拒的吸引力。",
+          "chineseIdea": "小刚对小美产生了强烈的浪漫吸引力，这种感觉让他想更多地了解她。",
+          "sentenceWithBlank": "He couldn’t help but @ @ for her after their first conversation.",
+          "fullEnglishSentence": "He couldn’t help but 「feel desire」 for her after their first conversation.",
+          "chineseTranslation": "在第一次交谈后，他忍不住对她「感到渴望」。",
+          "chinglishFix": "中式英语：He very likes her after talking. 纠正：He feels a strong desire for her after their conversation.（'Very likes' 不地道且无法表达浪漫吸引力，应使用 'desire'。）"
+        },
+        {
+          "scene": "在一场浪漫的烛光晚餐中，小红和她的男友对视，空气中弥漫着亲密的气氛。他们之间的感情在这一刻变得更加深厚。",
+          "chineseIdea": "小红和她的男友在浪漫的氛围中感受到彼此的强烈吸引力。",
+          "sentenceWithBlank": "The romantic setting ignited a @ @ between them.",
+          "fullEnglishSentence": "The romantic setting ignited a 「physical desire」 between them.",
+          "chineseTranslation": "浪漫的环境点燃了他们之间的「肉体渴望」。",
+          "chinglishFix": "中式英语：They feel very love in the dinner. 纠正：They felt a physical desire during the dinner.（'Very love' 不准确且不自然，应使用 'desire' 表达吸引力。）"
+        }
+      ]
+    }
+  ]
+}
+```
