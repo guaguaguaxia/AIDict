@@ -1,0 +1,53 @@
+```json
+{
+  "word": "compare",
+  "definitions": [
+    {
+      "meaning": "to examine two or more things to identify similarities and differences",
+      "usage": "Used when analyzing or evaluating objects, ideas, or qualities by looking at how they are alike or different, often in a detailed or systematic way.",
+      "collocations": ["compare to", "compare with", "compare and contrast"],
+      "examples": [
+        {
+          "scene": "在大学课堂上，教授要求学生分析两篇文学作品。学生需要找出两篇文章在主题和风格上的相同点和不同点。",
+          "chineseIdea": "学生想要通过仔细阅读，找出两篇文章在表达方式和核心思想上的异同，以完成一篇分析报告。",
+          "sentenceWithBlank": "In our literature class, we were asked to @ @ Shakespeare’s sonnets and modern poetry.",
+          "fullEnglishSentence": "In our literature class, we were asked to 「compare and contrast」 Shakespeare’s sonnets and modern poetry.",
+          "chineseTranslation": "在我们的文学课上，我们被要求「比较和对比」莎士比亚的十四行诗和现代诗歌。",
+          "chinglishFix": "Chinglish: 'We need to find the same and different of Shakespeare’s poems and modern poems.' Correction: 'We need to compare and contrast Shakespeare’s poems with modern poems.'"
+        },
+        {
+          "scene": "在购买手机时，消费者在两款手机之间犹豫不决，决定研究它们的性能和价格。",
+          "chineseIdea": "消费者希望通过查看两款手机的技术规格和价格，判断哪款更适合自己的需求。",
+          "sentenceWithBlank": "Before buying a new phone, I decided to @ @ the latest iPhone and a Samsung model.",
+          "fullEnglishSentence": "Before buying a new phone, I decided to 「compare with」 the latest iPhone and a Samsung model.",
+          "chineseTranslation": "在买新手机之前，我决定将最新的iPhone与三星型号「进行比较」。",
+          "chinglishFix": "Chinglish: 'I want to see which phone is better between iPhone and Samsung.' Correction: 'I want to compare the iPhone with the Samsung to see which is better.'"
+        }
+      ]
+    },
+    {
+      "meaning": "to liken or suggest something is similar to another thing, often for emphasis or illustration",
+      "usage": "Used to draw a figurative or metaphorical connection between two things to highlight a quality or characteristic, often in a poetic or rhetorical context.",
+      "collocations": ["compare to", "compared to"],
+      "examples": [
+        {
+          "scene": "在一次演讲中，演说者试图用一个比喻来激励听众，形容团队合作的力量。",
+          "chineseIdea": "演说者想通过将团队合作比作一个自然现象，来强调团结的重要性。",
+          "sentenceWithBlank": "In his speech, he @ @ teamwork an unstoppable river.",
+          "fullEnglishSentence": "In his speech, he 「compared to」 teamwork an unstoppable river.",
+          "chineseTranslation": "在他的演讲中，他将团队合作「比作」一条势不可挡的河流。",
+          "chinglishFix": "Chinglish: 'Teamwork is like a river that cannot stop.' Correction: 'He compared teamwork to an unstoppable river.'"
+        },
+        {
+          "scene": "在写作课上，学生尝试用一个生动的比喻来描述城市的喧嚣。",
+          "chineseIdea": "学生想通过将城市的喧闹声比作某种熟悉的事物，来让读者感受到城市的活力。",
+          "sentenceWithBlank": "In her essay, she @ @ the city’s noise a roaring lion.",
+          "fullEnglishSentence": "In her essay, she 「compared to」 the city’s noise a roaring lion.",
+          "chineseTranslation": "在她的文章中，她将城市的噪音「比作」一头咆哮的狮子。",
+          "chinglishFix": "Chinglish: 'The city’s noise is same as a lion’s roar.' Correction: 'She compared the city’s noise to a lion’s roar.'"
+        }
+      ]
+    }
+  ]
+}
+```

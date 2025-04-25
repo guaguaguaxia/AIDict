@@ -1,0 +1,76 @@
+```json
+{
+  "word": "critical",
+  "definitions": [
+    {
+      "meaning": "表示批评或挑剔",
+      "usage": "描述对某人或某事的不满、指出缺点或不足，常用于表达负面评价或分析问题。",
+      "collocations": ["be critical of", "highly critical", "overly critical"],
+      "examples": [
+        {
+          "scene": "在公司会议上，经理对团队的最新项目报告提出了意见，认为内容不够详尽。",
+          "chineseIdea": "经理觉得报告缺少关键数据，表达了不满，希望团队改进。",
+          "sentenceWithBlank": "The manager was @ @ @ the team's latest report due to its lack of detail.",
+          "fullEnglishSentence": "The manager was 「be critical of」 the team's latest report due to its lack of detail.",
+          "chineseTranslation": "经理「对……持批评态度」团队的最新报告，因为它缺乏细节。",
+          "chinglishFix": "典型中式英语：The manager criticized to the report. 纠正：The manager was critical of the report."
+        },
+        {
+          "scene": "在家庭聚会上，母亲对孩子的学习态度表示担忧，觉得他过于懒散。",
+          "chineseIdea": "母亲认为孩子没有认真对待学业，态度过于随意，需要更严格要求自己。",
+          "sentenceWithBlank": "The mother was @ @ about her son’s approach to studying.",
+          "fullEnglishSentence": "The mother was 「highly critical」 about her son’s approach to studying.",
+          "chineseTranslation": "母亲「高度批评」儿子对待学习的态度。",
+          "chinglishFix": "典型中式英语：The mother very criticized her son’s study. 纠正：The mother was highly critical of her son’s approach to studying."
+        }
+      ]
+    },
+    {
+      "meaning": "至关重要的",
+      "usage": "表示某事物在特定情境下极为重要，对结果有决定性影响，常用于强调必要性。",
+      "collocations": ["critical role", "critical factor", "critical moment"],
+      "examples": [
+        {
+          "scene": "在一场科技产品发布会上，团队讨论如何吸引消费者，营销策略被认为是成功的关键。",
+          "chineseIdea": "团队认为一个好的营销策略能决定产品是否受到市场欢迎。",
+          "sentenceWithBlank": "The marketing strategy played a @ @ in the product’s success.",
+          "fullEnglishSentence": "The marketing strategy played a 「critical role」 in the product’s success.",
+          "chineseTranslation": "营销策略在产品的成功中扮演了「关键角色」。",
+          "chinglishFix": "典型中式英语：The marketing strategy is very important role. 纠正：The marketing strategy played a critical role."
+        },
+        {
+          "scene": "在一场紧急救援行动中，团队需要在短时间内做出决策，以确保人员安全。",
+          "chineseIdea": "在救援中，迅速决定行动方案是拯救生命的关键时刻。",
+          "sentenceWithBlank": "The team faced a @ @ during the rescue operation.",
+          "fullEnglishSentence": "The team faced a 「critical moment」 during the rescue operation.",
+          "chineseTranslation": "团队在救援行动中面临「关键时刻」。",
+          "chinglishFix": "典型中式英语：The team met a very important time. 纠正：The team faced a critical moment."
+        }
+      ]
+    },
+    {
+      "meaning": "危急的，严重的",
+      "usage": "描述情况或状态非常危险或紧急，常用于医疗、事故或其他危急场景。",
+      "collocations": ["critical condition", "critical stage", "critical situation"],
+      "examples": [
+        {
+          "scene": "在医院急诊室，医生正在抢救一名车祸受伤的病人，情况非常危险。",
+          "chineseIdea": "病人因严重受伤，生命体征不稳定，医生需要立即采取行动。",
+          "sentenceWithBlank": "The patient was in a @ @ after the car accident.",
+          "fullEnglishSentence": "The patient was in a 「critical condition」 after the car accident.",
+          "chineseTranslation": "病人在车祸后处于「危急状态」。",
+          "chinglishFix": "典型中式英语：The patient was very dangerous condition. 纠正：The patient was in a critical condition."
+        },
+        {
+          "scene": "在一场工厂事故中，爆炸导致设备严重损坏，现场情况非常紧急。",
+          "chineseIdea": "事故引发了混乱，现场需要立即控制以防止进一步损失。",
+          "sentenceWithBlank": "The explosion caused a @ @ at the factory.",
+          "fullEnglishSentence": "The explosion caused a 「critical situation」 at the factory.",
+          "chineseTranslation": "爆炸在工厂造成了「危急情况」。",
+          "chinglishFix": "典型中式英语：The explosion made a very serious situation. 纠正：The explosion caused a critical situation."
+        }
+      ]
+    }
+  ]
+}
+```

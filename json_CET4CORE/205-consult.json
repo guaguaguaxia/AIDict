@@ -1,0 +1,54 @@
+```json
+{
+  "word": "consult",
+  "definitions": [
+    {
+      "meaning": "征求意见或建议",
+      "usage": "指与某人讨论以获取专业意见或建议，常用于正式或专业场景，如医疗、法律或商业领域。",
+      "collocations": ["consult a doctor", "consult an expert", "consult with colleagues"],
+      "examples": [
+        {
+          "scene": "一位中年男子因持续的胸痛感到担忧，决定去医院检查。",
+          "chineseIdea": "他想找专业人士确认自己的健康状况，以确保没有严重问题。",
+          "sentenceWithBlank": "He decided to @ @ @ to get a professional opinion on his chest pain.",
+          "fullEnglishSentence": "He decided to 「consult a doctor」 to get a professional opinion on his chest pain.",
+          "chineseTranslation": "他决定「咨询医生」以获得关于胸痛的专业意见。",
+          "chinglishFix": "典型中式英语：'He went to see a doctor for asking advice.' 纠正：'He consulted a doctor to seek professional advice.'"
+        },
+        {
+          "scene": "一家公司正在开发新产品，但技术团队对某些设计细节有疑问。",
+          "scene": "一家公司正在开发新产品，但技术团队对某些设计细节有疑问。",
+          "chineseIdea": "团队希望与行业专家交流，以确保设计符合标准。",
+          "sentenceWithBlank": "The team chose to @ @ @ to ensure the design met industry standards.",
+          "fullEnglishSentence": "The team chose to 「consult an expert」 to ensure the design met industry standards.",
+          "chineseTranslation": "团队选择「咨询专家」以确保设计符合行业标准。",
+          "chinglishFix": "典型中式英语：'They asked an expert for help.' 纠正：'They consulted an expert to ensure compliance with standards.'"
+        }
+      ]
+    },
+    {
+      "meaning": "查阅或参考资料",
+      "usage": "指查看书籍、文件或其他资源以获取信息，常用于学术或研究场景。",
+      "collocations": ["consult a dictionary", "consult a manual", "consult records"],
+      "examples": [
+        {
+          "scene": "一名学生在写论文时遇到一个生僻单词，不确定其准确含义。",
+          "chineseIdea": "他想通过查阅权威资源来确认单词的定义和用法。",
+          "sentenceWithBlank": "He decided to @ @ @ to understand the word’s precise meaning.",
+          "fullEnglishSentence": "He decided to 「consult a dictionary」 to understand the word’s precise meaning.",
+          "chineseTranslation": "他决定「查阅字典」以理解单词的确切含义。",
+          "chinglishFix": "典型中式英语：'He checked the dictionary for the word.' 纠正：'He consulted a dictionary to clarify the word’s meaning.'"
+        },
+        {
+          "scene": "一名工程师在修复老旧设备时，需要了解设备的原始设计参数。",
+          "chineseIdea": "他需要查看技术文档以获取准确信息。",
+          "sentenceWithBlank": "She needed to @ @ @ to find the equipment’s original specifications.",
+          "fullEnglishSentence": "She needed to 「consult a manual」 to find the equipment’s original specifications.",
+          "chineseTranslation": "她需要「查阅手册」以找到设备的原始规格。",
+          "chinglishFix": "典型中式英语：'She looked at the manual for information.' 纠正：'She consulted the manual to obtain the specifications.'"
+        }
+      ]
+    }
+  ]
+}
+```

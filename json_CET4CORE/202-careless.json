@@ -1,0 +1,53 @@
+```json
+{
+  "word": "careless",
+  "definitions": [
+    {
+      "meaning": "不小心，粗心",
+      "usage": "描述某人在做事时缺乏注意或谨慎，导致错误或事故。常用于描述行为、态度或结果。",
+      "collocations": ["careless mistake", "careless driver", "careless attitude"],
+      "examples": [
+        {
+          "scene": "一个学生在考试中因为没有仔细检查答案，导致丢了很多分。",
+          "chineseIdea": "学生因为粗心大意，在考试中犯了不该犯的错误。",
+          "sentenceWithBlank": "She made a @ @ in the exam because she didn’t double-check her answers.",
+          "fullEnglishSentence": "She made a 「careless mistake」 in the exam because she didn’t double-check her answers.",
+          "chineseTranslation": "她在考试中因为没有仔细检查答案而犯了「粗心的错误」。",
+          "chinglishFix": "典型中式英语：'She was not careful so she made a mistake.' 纠正：'She made a careless mistake because she didn’t double-check.'"
+        },
+        {
+          "scene": "一个员工在工作中因为没有认真核对数据，提交了错误的报告。",
+          "chineseIdea": "员工因为粗心，提交了错误的报告，影响了团队的工作。",
+          "sentenceWithBlank": "His @ @ led to an incorrect report being submitted to the manager.",
+          "fullEnglishSentence": "His 「careless attitude」 led to an incorrect report being submitted to the manager.",
+          "chineseTranslation": "他的「粗心态度」导致提交给经理的报告有误。",
+          "chinglishFix": "典型中式英语：'He was careless so the report was wrong.' 纠正：'His careless attitude resulted in an incorrect report.'"
+        }
+      ]
+    },
+    {
+      "meaning": "漫不经心，不在乎",
+      "usage": "描述某人对某事缺乏关心或重视，表现出漠不关心的态度。常用于描述情感或行为。",
+      "collocations": ["careless remark", "careless approach", "careless manner"],
+      "examples": [
+        {
+          "scene": "朋友聚会上，一个人随意发表评论，伤害了另一个人的感情。",
+          "chineseIdea": "某人因为不注意自己的言辞，伤害了朋友的感情。",
+          "sentenceWithBlank": "Her @ @ at the party upset her friend deeply.",
+          "fullEnglishSentence": "Her 「careless remark」 at the party upset her friend deeply.",
+          "chineseTranslation": "她在聚会上的「随意评论」深深地伤害了她的朋友。",
+          "chinglishFix": "典型中式英语：'She said something carelessly.' 纠正：'Her careless remark upset her friend.'"
+        },
+        {
+          "scene": "一个经理在会议中对员工的建议表现出漠不关心的态度。",
+          "chineseIdea": "经理对员工的建议不重视，显得敷衍。",
+          "sentenceWithBlank": "The manager’s @ @ discouraged the team from sharing ideas.",
+          "fullEnglishSentence": "The manager’s 「careless manner」 discouraged the team from sharing ideas.",
+          "chineseTranslation": "经理的「漫不经心的态度」让团队不愿意分享想法。",
+          "chinglishFix": "典型中式英语：'The manager was careless about the suggestions.' 纠正：'The manager’s careless manner discouraged the team.'"
+        }
+      ]
+    }
+  ]
+}
+```
