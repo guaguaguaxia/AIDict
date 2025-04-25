@@ -1,0 +1,53 @@
+```json
+{
+  "word": "publicize",
+  "definitions": [
+    {
+      "meaning": "使公众知晓，宣传，推广",
+      "usage": "指通过媒体、广告或其他公开方式让某事物（如产品、事件、成就等）为公众所知，通常带有推广或吸引注意的目的。",
+      "collocations": ["publicize an event", "publicize a product", "publicize a campaign"],
+      "examples": [
+        {
+          "scene": "一家初创公司刚刚开发了一款创新的环保产品，希望吸引更多消费者关注。他们决定通过社交媒体和新闻发布会来推广这款产品。",
+          "chineseIdea": "公司希望让更多人知道这款产品的独特功能和环保价值，以提升品牌知名度和销量。",
+          "sentenceWithBlank": "The startup hired a marketing team to @ @ @ on social media platforms.",
+          "fullEnglishSentence": "The startup hired a marketing team to 「publicize a product」 on social media platforms.",
+          "chineseTranslation": "这家初创公司雇佣了一个营销团队在社交媒体平台上「宣传一款产品」。",
+          "chinglishFix": "典型中式英语：'Make the product famous' 纠正：'Publicize the product'（'make famous' 过于模糊且不地道，'publicize' 更精准地表达通过媒体推广的行为）"
+        },
+        {
+          "scene": "一个非营利组织正在筹备一场慈善跑步活动，为了吸引更多参与者和捐款，他们通过电视广告和社区海报进行宣传。",
+          "chineseIdea": "组织希望通过广泛的宣传让更多人了解活动的目的，鼓励社区居民参与并支持慈善事业。",
+          "sentenceWithBlank": "The organization created TV ads to @ @ @ and encourage donations.",
+          "fullEnglishSentence": "The organization created TV ads to 「publicize an event」 and encourage donations.",
+          "chineseTranslation": "该组织制作了电视广告来「宣传一个活动」并鼓励捐款。",
+          "chinglishFix": "典型中式英语：'Let people know the event' 纠正：'Publicize the event'（'let people know' 过于口语化和泛泛，'publicize' 更正式且强调推广行为）"
+        }
+      ]
+    },
+    {
+      "meaning": "公开，公布（信息或事实）",
+      "usage": "指将原本未公开的信息（例如研究结果、丑闻、数据等）公之于众，通常强调信息的披露而非推广。",
+      "collocations": ["publicize a report", "publicize findings", "publicize a scandal"],
+      "examples": [
+        {
+          "scene": "一家研究机构完成了一项关于气候变化的重要研究，研究人员希望通过新闻媒体让公众了解他们的发现。",
+          "chineseIdea": "研究人员希望通过公布研究结果，引起社会对气候变化问题的重视。",
+          "sentenceWithBlank": "The institute held a press conference to @ @ @ on climate change.",
+          "fullEnglishSentence": "The institute held a press conference to 「publicize findings」 on climate change.",
+          "chineseTranslation": "该研究所举行了一场新闻发布会来「公布关于气候变化的发现」。",
+          "chinglishFix": "典型中式英语：'Show the findings to public' 纠正：'Publicize the findings'（'show to public' 语法不地道且缺乏正式性，'publicize' 更准确地表达公开信息的行为）"
+        },
+        {
+          "scene": "一名记者发现了一家大型公司的财务丑闻，决定通过报纸文章揭露这些不为人知的事实。",
+          "chineseIdea": "记者希望通过公开这些信息，让公众了解公司的不当行为并推动问责。",
+          "sentenceWithBlank": "The journalist wrote an article to @ @ @ involving the company’s finances.",
+          "fullEnglishSentence": "The journalist wrote an article to 「publicize a scandal」 involving the company’s finances.",
+          "chineseTranslation": "这位记者写了一篇文章来「公开涉及公司财务的丑闻」。",
+          "chinglishFix": "典型中式英语：'Tell the scandal to everyone' 纠正：'Publicize the scandal'（'tell to everyone' 过于直白且不正式，'publicize' 更适合描述通过媒体公开的行为）"
+        }
+      ]
+    }
+  ]
+}
+```

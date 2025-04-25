@@ -1,0 +1,53 @@
+```json
+{
+  "word": "phenomenon",
+  "definitions": [
+    {
+      "meaning": "A fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question.",
+      "usage": "Refers to observable events or occurrences, often in scientific, social, or natural contexts, where the focus is on something remarkable or unusual.",
+      "collocations": ["natural phenomenon", "social phenomenon", "cultural phenomenon"],
+      "examples": [
+        {
+          "scene": "在一个科学课堂上，老师正在向学生们展示一场实验，实验中水在低温下突然凝固。学生们对此感到惊讶，老师解释这是自然界中的一种现象。",
+          "chineseIdea": "描述一种可以观察到的自然事件，通常带有某种令人好奇或需要解释的特点。",
+          "sentenceWithBlank": "The sudden freezing of water at a low temperature is a fascinating @ @.",
+          "fullEnglishSentence": "The sudden freezing of water at a low temperature is a fascinating 「natural phenomenon」.",
+          "chineseTranslation": "水在低温下突然凝固是一种引人入胜的「自然现象」。",
+          "chinglishFix": "Chinglish: 'Water freeze sudden is a nature thing.' Correction: 'The sudden freezing of water is a natural phenomenon.'"
+        },
+        {
+          "scene": "在一场关于城市发展的讨论会上，专家们讨论了年轻人大量涌向大城市寻找工作的问题，称其为一种社会趋势。",
+          "chineseIdea": "描述一种在社会中普遍发生且引人注目的趋势或行为模式。",
+          "sentenceWithBlank": "The migration of young people to urban areas has become a widespread @ @.",
+          "fullEnglishSentence": "The migration of young people to urban areas has become a widespread 「social phenomenon」.",
+          "chineseTranslation": "年轻人向城市地区迁移已成为一种普遍的「社会现象」。",
+          "chinglishFix": "Chinglish: 'Young people go city is a society thing.' Correction: 'The migration of young people to cities is a social phenomenon.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A remarkable person, thing, or event.",
+      "usage": "Describes someone or something extraordinary, often in a positive or impressive sense, such as a prodigy or an exceptional occurrence.",
+      "collocations": ["global phenomenon", "pop culture phenomenon", "literary phenomenon"],
+      "examples": [
+        {
+          "scene": "在一场音乐节上，观众们被一位年轻歌手的表演深深吸引，她的歌曲迅速在全球走红，成为一种文化热潮。",
+          "chineseIdea": "描述某人或某事因其非凡的表现或影响力而在全球范围内引起轰动。",
+          "sentenceWithBlank": "Her music has taken the world by storm, making her a true @ @.",
+          "fullEnglishSentence": "Her music has taken the world by storm, making her a true 「global phenomenon」.",
+          "chineseTranslation": "她的音乐席卷全球，使她成为一个真正的「全球现象」。",
+          "chinglishFix": "Chinglish: 'Her music very famous is a world thing.' Correction: 'Her music has made her a global phenomenon.'"
+        },
+        {
+          "scene": "在一场文学讨论会上，读者们热烈讨论一本新出版的小说，这本书因其独特的叙事风格迅速成为畅销书。",
+          "chineseIdea": "描述某件作品因其卓越的品质而在文学领域引起广泛关注。",
+          "sentenceWithBlank": "The novel’s innovative storytelling has made it a @ @.",
+          "fullEnglishSentence": "The novel’s innovative storytelling has made it a 「literary phenomenon」.",
+          "chineseTranslation": "这部小说创新的叙事方式使其成为一个「文学现象」。",
+          "chinglishFix": "Chinglish: 'This book very good is a literature thing.' Correction: 'This book has become a literary phenomenon.'"
+        }
+      ]
+    }
+  ]
+}
+```

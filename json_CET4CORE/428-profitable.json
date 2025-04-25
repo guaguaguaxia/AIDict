@@ -1,0 +1,53 @@
+```json
+{
+  "word": "profitable",
+  "definitions": [
+    {
+      "meaning": "能够带来经济利益或收益的",
+      "usage": "通常用于描述商业活动、投资或任何产生金钱回报的行为或实体。常与生意、投资、项目等搭配。",
+      "collocations": ["make a profit", "highly profitable", "profitable venture"],
+      "examples": [
+        {
+          "scene": "一位年轻创业者在中国的一个科技展会上展示自己的新产品，吸引了投资者的注意。",
+          "chineseIdea": "创业者希望通过展示产品，证明自己的公司有潜力赚取大量金钱。",
+          "sentenceWithBlank": "Her startup was able to @ @ @ after launching the innovative app.",
+          "fullEnglishSentence": "Her startup was able to 「make a profit」 after launching the innovative app.",
+          "chineseTranslation": "她的初创公司在推出创新应用后能够「赚取利润」。",
+          "chinglishFix": "典型中式英语：Her company can earn money. 纠正：Her startup was able to make a profit."
+        },
+        {
+          "scene": "一位投资者在咖啡店与朋友讨论最近的股票投资。",
+          "chineseIdea": "投资者想说明某个股票交易带来了非常好的回报。",
+          "sentenceWithBlank": "The tech stock he invested in turned out to be @ @.",
+          "fullEnglishSentence": "The tech stock he invested in turned out to be 「highly profitable」.",
+          "chineseTranslation": "他投资的科技股票结果「非常有利可图」。",
+          "chinglishFix": "典型中式英语：This stock makes big money. 纠正：This stock is highly profitable."
+        }
+      ]
+    },
+    {
+      "meaning": "有益的，有回报的（非经济意义）",
+      "usage": "描述某活动、经历或关系在知识、经验或情感上带来回报，通常用于非商业语境。",
+      "collocations": ["prove profitable", "mutually profitable", "profitable discussion"],
+      "examples": [
+        {
+          "scene": "一名学生在大学参加了一个关于人工智能的研讨会，学到了很多新知识。",
+          "chineseIdea": "学生觉得这次研讨会让他在学术上受益匪浅。",
+          "sentenceWithBlank": "Attending the AI seminar @ @ for his research project.",
+          "fullEnglishSentence": "Attending the AI seminar 「proved profitable」 for his research project.",
+          "chineseTranslation": "参加人工智能研讨会对他研究项目「颇有回报」。",
+          "chinglishFix": "典型中式英语：This seminar gives me much knowledge. 纠正：This seminar proved profitable for my studies."
+        },
+        {
+          "scene": "两个公司的高管在一次会议上讨论未来的合作计划。",
+          "chineseIdea": "高管们希望这次讨论能为双方带来长期的合作机会。",
+          "sentenceWithBlank": "The meeting led to a @ @ for both companies.",
+          "fullEnglishSentence": "The meeting led to a 「profitable discussion」 for both companies.",
+          "chineseTranslation": "这次会议促成了对两家公司都「富有成果的讨论」。",
+          "chinglishFix": "典型中式英语：This meeting is good for us. 纠正：This meeting led to a profitable discussion."
+        }
+      ]
+    }
+  ]
+}
+```
