@@ -1,0 +1,53 @@
+```json
+{
+  "word": "crucial",
+  "definitions": [
+    {
+      "meaning": "对某事或某人的成功、有效性或生存极为重要",
+      "usage": "用作形容词，通常描述对结果有决定性影响的事物、时刻或因素，常见于正式或半正式语境，如讨论关键决策、重要因素或生死攸关的情况。",
+      "collocations": ["play a role", "make a difference", "at a moment"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，团队正在讨论如何在竞争激烈的市场中推出新产品。产品经理强调市场调研的重要性。",
+          "chineseIdea": "产品经理认为，深入的市场调研是确保产品成功的关键，因为它能帮助团队了解客户需求和市场趋势。",
+          "sentenceWithBlank": "Thorough market research @ @ @ in ensuring the product’s success.",
+          "fullEnglishSentence": "Thorough market research 「plays a crucial role」 in ensuring the product’s success.",
+          "chineseTranslation": "深入的市场调研在确保产品成功方面「发挥了关键作用」。",
+          "chinglishFix": "典型中式英语：Market research is very important to play a role. 纠正：Market research plays a crucial role."
+        },
+        {
+          "scene": "在一场国际会议上，谈判代表们正在讨论气候变化协议的条款。主席强调达成共识的紧迫性。",
+          "chineseIdea": "主席认为，现在是达成协议的关键时刻，因为时间紧迫，全球气候问题刻不容缓。",
+          "sentenceWithBlank": "We are @ @ @, and consensus must be reached now to address climate change.",
+          "fullEnglishSentence": "We are 「at a crucial moment」, and consensus must be reached now to address climate change.",
+          "chineseTranslation": "我们正「处于关键时刻」，必须现在达成共识以应对气候变化。",
+          "chinglishFix": "典型中式英语：This is a very important time. 纠正：This is a crucial moment."
+        }
+      ]
+    },
+    {
+      "meaning": "在特定情境下具有决定性或关键性的影响",
+      "usage": "用作形容词，强调某事物在特定情境下对结果的决定性影响，常用于描述比赛、决策或事件中的关键点，语气可能稍显戏剧化或强调。",
+      "collocations": ["prove to be", "in determining",Inside the square brackets, you listed collocations for the second meaning of "crucial." However, there are only two collocations provided: "prove to be" and "in determining." According to the user's requirements, you need to provide at least three collocations for each meaning. Please provide an additional collocation for this meaning to meet the requirement. "turn out to be"],
+      "examples": [
+        {
+          "scene": "在一场足球比赛的决赛中，比赛进入点球大战，最后一名球员的射门将决定冠军归属。",
+          "chineseIdea": "球员知道这一脚射门至关重要，因为它将决定整个团队的努力是否能赢得冠军。",
+          "sentenceWithBlank": "The final penalty kick @ @ @ the deciding factor in the championship.",
+          "fullEnglishSentence": "The final penalty kick 「proved to be crucial」 in the championship.",
+          "chineseTranslation": "最后一次点球「被证明是关键的」在锦标赛中。",
+          "chinglishFix": "典型中式英语：The penalty kick is very important. 纠正：The penalty kick proved to be crucial."
+        },
+        {
+          "scene": "在一家初创公司，创始人正在向投资人展示商业计划，强调技术创新对吸引客户的重要性。",
+          "chineseIdea": "创始人认为，独特的技术优势是吸引客户和确保市场地位的关键。",
+          "sentenceWithBlank": "Our unique technology @ @ @ whether we can secure a strong market position.",
+          "fullEnglishSentence": "Our unique technology 「is crucial in determining」 whether we can secure a strong market position.",
+          "chineseTranslation": "我们独特的技术「在决定」我们能否确保强大市场地位方面至关重要。",
+          "chinglishFix": "典型中式英语：Technology is very important to decide market position. 纠正：Technology is crucial in determining market position."
+        }
+      ]
+    }
+  ]
+}
+```
