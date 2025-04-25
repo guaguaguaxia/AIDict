@@ -1,0 +1,53 @@
+```json
+{
+  "word": "geographic",
+  "definitions": [
+    {
+      "meaning": "与地理或地理学相关的，描述地球表面特征、位置或分布的",
+      "usage": "用作形容词，通常描述与地理位置、地球特征、区域分布或空间关系相关的事物，常用于学术、科学或描述性的语境中。",
+      "collocations": ["geographic location", "geographic distribution", "geographic features"],
+      "examples": [
+        {
+          "scene": "一位城市规划师在会议中向团队介绍一个新项目的选址分析，强调地点的自然条件和交通便利性。",
+          "chineseIdea": "规划师想表达这个地方的具体位置对项目成功至关重要，提到它的经纬度、周边环境等。",
+          "sentenceWithBlank": "The @ @ of this site makes it ideal for the new logistics hub.",
+          "fullEnglishSentence": "The 「geographic location」 of this site makes it ideal for the new logistics hub.",
+          "chineseTranslation": "这个地点的「地理位置」使其成为新物流中心的理想选择。",
+          "chinglishFix": "典型中式英语：'This place's geography position is good.' 纠正：'The geographic location of this place is ideal.'"
+        },
+        {
+          "scene": "一位生态学家在研究报告中描述某种濒危物种的栖息地分布，强调其在特定地区的集中性。",
+          "chineseIdea": "生态学家想说明这种动物的分布区域受地理条件限制，集中在某些特定地区。",
+          "sentenceWithBlank": "The @ @ of this species is limited to the northern highlands.",
+          "fullEnglishSentence": "The 「geographic distribution」 of this species is limited to the northern highlands.",
+          "chineseTranslation": "这一物种的「地理分布」仅限于北部高地。",
+          "chinglishFix": "典型中式英语：'This animal's geography spread is small.' 纠正：'The geographic distribution of this animal is limited.'"
+        }
+      ]
+    },
+    {
+      "meaning": "与地图绘制或地理信息系统（GIS）相关的",
+      "usage": "用作形容词，描述与地图制作、地理数据分析或空间信息技术相关的内容，常用于技术性或专业性语境。",
+      "collocations": ["geographic information", "geographic data", "geographic mapping"],
+      "examples": [
+        {
+          "scene": "一位地理信息系统工程师在向客户展示如何使用新软件来分析城市交通流量，强调数据的可视化功能。",
+          "chineseIdea": "工程师想说明这个软件可以整合多种空间数据，帮助客户更好地理解交通模式。",
+          "sentenceWithBlank": "This software processes @ @ to create detailed traffic flow visualizations.",
+          "fullEnglishSentence": "This software processes 「geographic information」 to create detailed traffic flow visualizations.",
+          "chineseTranslation": "该软件处理「地理信息」以创建详细的交通流量可视化。",
+          "chinglishFix": "典型中式英语：'This software handles geography data.' 纠正：'This software processes geographic information.'"
+        },
+        {
+          "scene": "一位研究人员在学术会议上分享如何通过卫星影像绘制偏远地区的地图，突出技术的精确性。",
+          "chineseIdea": "研究人员想强调这项技术能准确地将卫星数据转化为地图，展示地形和人类活动。",
+          "sentenceWithBlank": "Our team used satellite imagery for precise @ @ of the remote valley.",
+          "fullEnglishSentence": "Our team used satellite imagery for precise 「geographic mapping」 of the remote valley.",
+          "chineseTranslation": "我们团队使用卫星影像对偏远山谷进行精确的「地理测绘」。",
+          "chinglishFix": "典型中式英语：'We did geography drawing for the valley.' 纠正：'We conducted geographic mapping of the valley.'"
+        }
+      ]
+    }
+  ]
+}
+```

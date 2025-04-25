@@ -1,0 +1,53 @@
+```json
+{
+  "word": "genuine",
+  "definitions": [
+    {
+      "meaning": "真实的，真正的（指某物或某人真实无假，非伪造或模仿）",
+      "usage": "描述某物或某人的真实性，常用于强调某物不是假冒的，或某人的情感、意图是真诚的。常用于正式或半正式语境，也可用于日常对话。",
+      "collocations": ["genuine leather", "genuine interest", "genuine smile"],
+      "examples": [
+        {
+          "scene": "在一家高端皮具店，顾客正在挑选皮包，店员向顾客介绍一款皮包的材质。",
+          "chineseIdea": "店员想表达这个包是用真皮制作的，不是人造革，以突出其高质量和价值。",
+          "sentenceWithBlank": "This bag is made of @ @, so it’s durable and feels luxurious.",
+          "fullEnglishSentence": "This bag is made of 「genuine leather」, so it’s durable and feels luxurious.",
+          "chineseTranslation": "这个包是用「真皮」制作的，所以它很耐用且手感奢华。",
+          "chinglishFix": "典型中式英语：'This bag is real leather.' 纠正：'Real leather' 听起来不够地道，建议用 'genuine leather'，因为这是描述真皮制品的常用搭配。"
+        },
+        {
+          "scene": "在一次朋友聚会上，有人分享了自己的职业规划，另一个朋友对此表现出浓厚的兴趣。",
+          "chineseIdea": "朋友想表达自己对这个话题的兴趣是真心的，不是敷衍或客套。",
+          "sentenceWithBlank": "I have a @ @ in your career plans; tell me more!",
+          "fullEnglishSentence": "I have a 「genuine interest」 in your career plans; tell me more!",
+          "chineseTranslation": "我对你的职业规划有「真正的兴趣」，多说说吧！",
+          "chinglishFix": "典型中式英语：'I very interest in your plan.' 纠正：英语中表达兴趣时，通常用 'have a genuine interest' 而非 'very interest'，且 'interest' 后接 'in'。"
+        }
+      ]
+    },
+    {
+      "meaning": "真诚的，诚恳的（指人的情感、态度或行为发自内心）",
+      "usage": "描述人的情感、态度或行为是真诚的，不虚伪。常用于描述人际交往中的真挚情感或意图，适用于正式和非正式语境。",
+      "collocations": ["genuine concern", "genuine effort", "genuine apology"],
+      "examples": [
+        {
+          "scene": "在工作中，同事因为项目失误向团队道歉，试图表达自己的歉意是真心的。",
+          "chineseIdea": "同事想表明自己的道歉是发自内心的，不是为了应付或掩饰错误。",
+          "sentenceWithBlank": "I owe you all a @ @ for the mistake in the project.",
+          "fullEnglishSentence": "I owe you all a 「genuine apology」 for the mistake in the project.",
+          "chineseTranslation": "我欠大家一个「真诚的道歉」，因为项目中的错误。",
+          "chinglishFix": "典型中式英语：'I’m very sorry for my mistake.' 纠正：'Very sorry' 显得单薄，'genuine apology' 更能表达真诚的歉意，且是常见搭配。"
+        },
+        {
+          "scene": "在学校，老师注意到一个学生最近情绪低落，私下找学生谈话，表达关心。",
+          "chineseIdea": "老师想表达自己对学生情况的关心是真心的，不是例行公事。",
+          "sentenceWithBlank": "I have a @ @ for your well-being, and I’m here to help.",
+          "fullEnglishSentence": "I have a 「genuine concern」 for your well-being, and I’m here to help.",
+          "chineseTranslation": "我对你的幸福有「真心的关心」，我在这里帮助你。",
+          "chinglishFix": "典型中式英语：'I care you very much.' 纠正：'Care you' 语法错误，'genuine concern for' 是表达真心关切的正确搭配。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "honesty",
+  "definitions": [
+    {
+      "meaning": "The quality of being truthful and sincere",
+      "usage": "Refers to a person's character or behavior when they tell the truth, act sincerely, and avoid deception.",
+      "collocations": ["in all honesty", "brutal honesty", "complete honesty"],
+      "examples": [
+        {
+          "scene": "在一次团队会议中，领导询问项目进展，员工选择坦白地分享真实情况，而不是掩饰问题。",
+          "chineseIdea": "员工希望通过坦诚表达对团队的尊重，并希望问题能被及时解决。",
+          "sentenceWithBlank": "I must say, @ @ @, the project is behind schedule due to resource constraints.",
+          "fullEnglishSentence": "I must say, 「in all honesty」, the project is behind schedule due to resource constraints.",
+          "chineseTranslation": "我必须说，「老实说」，由于资源限制，项目进度落后了。",
+          "chinglishFix": "Chinglish: 'I say true, project is late.' Correct: 'In all honesty, the project is behind schedule.'"
+        },
+        {
+          "scene": "朋友之间讨论感情问题时，一个人直言不讳地分享自己的看法，而不是敷衍了事。",
+          "chineseIdea": "朋友希望通过直率的表达帮助对方看清问题，尽管可能会让对方不舒服。",
+          "sentenceWithBlank": "With @ @, I think you deserve someone who respects you more.",
+          "fullEnglishSentence": "With 「brutal honesty」, I think you deserve someone who respects you more.",
+          "chineseTranslation": "以「残酷的坦诚」来说，我认为你值得一个更尊重你的人。",
+          "chinglishFix": "Chinglish: 'I say real, you need better person.' Correct: 'With brutal honesty, I think you deserve someone who respects you more.'"
+        }
+      ]
+    },
+    {
+      "meaning": "Moral integrity and fairness in actions",
+      "usage": "Describes behavior that adheres to ethical principles, such as being fair, just, and trustworthy in dealings with others.",
+      "collocations": ["intellectual honesty", "personal honesty", "absolute honesty"],
+      "examples": [
+        {
+          "scene": "在学术ව "scene": "在一场学术讨论中，研究者承认自己的实验数据有限，而不是夸大结果。",
+          "chineseIdea": "研究者希望通过承认局限性，保持学术的严谨性和可信度。",
+          "sentenceWithBlank": "Maintaining @ @ requires admitting the limitations of our study.",
+          "fullEnglishSentence": "Maintaining 「intellectual honesty」 requires admitting the limitations of our study.",
+          "chineseTranslation": "保持「学术诚信」需要承认我们研究的局限性。",
+          "chinglishFix": "Chinglish: 'We must true in study.' Correct: 'Maintaining intellectual honesty requires admitting the limitations of our study.'"
+        },
+        {
+          "scene": "在商业谈判中，卖家坦白告知买家产品的潜在缺点，而不是隐瞒。",
+          "chineseIdea": "卖家希望通过诚实的行为建立长期信任，而不是只追求短期利益。",
+          "sentenceWithBlank": "His @ @ in disclosing the product's flaws earned the buyer's trust.",
+          "fullEnglishSentence": "His 「absolute honesty」 in disclosing the product's flaws earned the buyer's trust.",
+          "chineseTranslation": "他在披露产品缺陷时的「绝对诚实」赢得了买家的信任。",
+          "chinglishFix": "Chinglish: 'He very true about product bad.' Correct: 'His absolute honesty in disclosing the product's flaws earned the buyer's trust.'"
+        }
+      ]
+    }
+  ]
+}
+```
