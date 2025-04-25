@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ensure",
+  "definitions": [
+    {
+      "meaning": "保证某事发生或某状态得以维持",
+      "usage": "常用于表示采取措施以确保某结果或状态，通常与具体行动或条件相关，常出现在正式或半正式语境中。",
+      "collocations": ["ensure safety", "ensure compliance", "ensure success", "ensure quality"],
+      "examples": [
+        {
+          "scene": "在一个工厂的会议室里，经理正在向员工强调安全生产的重要性，因为最近发生了一起小型事故。",
+          "chineseIdea": "经理希望通过新的安全措施来防止未来发生事故，强调保护员工的生命安全。",
+          "sentenceWithBlank": "We must implement new protocols to @ @.",
+          "fullEnglishSentence": "We must implement new protocols to 「ensure safety」.",
+          "chineseTranslation": "我们必须实施新协议以「确保安全」。",
+          "chinglishFix": "典型中式英语：'We must make sure the safety.' 纠正：'We must ensure safety.'（'make sure' 更口语化，且搭配不自然；'ensure' 更正式且直接）"
+        },
+        {
+          "scene": "在一家科技公司，项目经理在与团队讨论如何按时完成一个重要项目，确保客户满意。",
+          "chineseIdea": "经理希望通过合理分配资源和严格的时间管理来保证项目的成功交付。",
+          "sentenceWithBlank": "Proper resource allocation will help @ @.",
+          "fullEnglishSentence": "Proper resource allocation will help 「ensure success」.",
+          "chineseTranslation": "适当的资源分配将有助于「确保成功」。",
+          "chinglishFix": "典型中式英语：'We need to guarantee the success.' 纠正：'We need to ensure success.'（'guarantee' 更常用于产品或合同，'ensure' 更适合抽象结果）"
+        }
+      ]
+    },
+    {
+      "meaning": "确保某人获得某物或某事被完成",
+      "usage": "强调为某人或某事提供必要条件或资源，使其能够实现或获得，通常带有主动促成的含义。",
+      "collocations": ["ensure access", "ensure delivery", "ensure participation"],
+      "examples": [
+        {
+          "scene": "在一次社区活动中，组织者讨论如何让所有居民都能参与，包括行动不便的老人。",
+          "chineseIdea": "组织者希望通过提供交通工具和无障碍设施，让每个人都能参加活动。",
+          "sentenceWithBlank": "We need to provide transportation to @ @ for everyone.",
+          "fullEnglishSentence": "We need to provide transportation to 「ensure access」 for everyone.",
+          "chineseTranslation": "我们需要提供交通工具以「确保每个人都能参与」。",
+          "chinglishFix": "典型中式英语：'We must let everyone join.' 纠正：'We must ensure access for everyone.'（'let' 缺乏具体行动，'ensure access' 更明确且专业）"
+        },
+        {
+          "scene": "在一个电商仓库中，主管正在安排双十一促销期间的物流，以保证货物准时送达。",
+          "chineseIdea": "主管希望通过增加物流人员和优化配送路线来保证订单按时送达客户手中。",
+          "sentenceWithBlank": "Extra staff will @ @ of all orders on time.",
+          "fullEnglishSentence": "Extra staff will 「ensure delivery」 of all orders on time.",
+          "chineseTranslation": "额外的员工将「确保所有订单按时送达」。",
+          "chinglishFix": "典型中式英语：'We must send all orders on time.' 纠正：'We must ensure delivery of all orders on time.'（'send' 过于简单，'ensure delivery' 更强调结果的实现）"
+        }
+      ]
+    }
+  ]
+}
+```

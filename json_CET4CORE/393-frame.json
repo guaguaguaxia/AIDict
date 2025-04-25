@@ -1,0 +1,143 @@
+```json
+{
+  "word": "frame",
+  "definitions": [
+    {
+      "meaning": "名词：框架、结构（如画框、眼镜框或建筑结构）",
+      "usage": "指物理的框架，如支撑结构或装饰性边框，常用于描述有形物体的边界或支撑部分。",
+      "collocations": ["picture frame", "window frame", "metal frame"],
+      "examples": [
+        {
+          "scene": "你在一家艺术品商店，看到一幅美丽的油画，店员建议你为画选择一个合适的边框以提升整体效果。",
+          "chineseIdea": "你想表达这幅画需要一个精致的边框来突出它的美感。",
+          "sentenceWithBlank": "This painting would look stunning with a @ @.",
+          "fullEnglishSentence": "This painting would look stunning with a 「picture frame」.",
+          "chineseTranslation": "这幅画如果配上一个「画框」会显得非常惊艳。",
+          "chinglishFix": "典型中式英语：'This painting needs a frame to put it.' 纠正：'This painting would look stunning with a picture frame.'（避免使用'put it'，改为更自然的搭配和表达）"
+        },
+        {
+          "scene": "你在装修新家，设计师建议为客厅的窗户选择一个坚固的框架，以确保安全和美观。",
+          "chineseIdea": "你想说明窗户的框架需要既实用又美观。",
+          "sentenceWithBlank": "We need a durable and stylish @ @ for the living room.",
+          "fullEnglishSentence": "We need a durable and stylish 「window frame」 for the living room.",
+          "chineseTranslation": "我们需要为客厅选择一个耐用且时尚的「窗框」。",
+          "chinglishFix": "典型中式英语：'The window needs a frame to be strong.' 纠正：'We need a durable and stylish window frame.'（避免生硬的'be strong'，使用更自然的形容词搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "名词：框架、视角（如思维框架或讨论的范围）",
+      "usage": "指抽象的概念，如思维方式、讨论的范围或某事的背景，常用于学术、心理或社交语境。",
+      "collocations": ["frame of reference", "frame of mind", "conceptual frame"],
+      "examples": [
+        {
+          "scene": "你在和朋友讨论如何看待生活中的挑战，朋友提到每个人看待问题的方式都不同。",
+          "chineseIdea": "你想表达每个人都有自己的参照标准来理解世界。",
+          "sentenceWithBlank": "Everyone has their own @ @ @ to understand the world.",
+          "fullEnglishSentence": "Everyone has their own 「frame of reference」 to understand the world.",
+          "chineseTranslation": "每个人都有自己的「参照框架」来理解世界。",
+          "chinglishFix": "典型中式英语：'Everyone has their thinking frame.' 纠正：'Everyone has their own frame of reference.'（避免直译'thinking frame'，使用标准搭配）"
+        },
+        {
+          "scene": "你在参加一个心理咨询课程，老师提到你的情绪状态会影响决策。",
+          "chineseIdea": "你想说明一个人的心理状态会影响他们的行为。",
+          "sentenceWithBlank": "Your @ @ @ greatly influences how you make decisions.",
+          "fullEnglishSentence": "Your 「frame of mind」 greatly influences how you make decisions.",
+          "chineseTranslation": "你的「心理状态」极大地影响你的决策方式。",
+          "chinglishFix": "典型中式英语：'Your mind frame affects your decisions.' 纠正：'Your frame of mind greatly influences how you make decisions.'（'mind frame'不地道，改为'frame of mind'）"
+        }
+      ]
+    },
+    {
+      "meaning": "动词：构造、表达（以某种方式呈现或组织信息）",
+      "usage": "指通过语言或行动以特定方式表达或呈现某事，常用于描述如何组织思想、问题或叙述。",
+      "collocations": ["frame a question", "frame an argument", "frame a narrative"],
+      "examples": [
+        {
+          "scene": "你在准备一场辩论，导师建议你用清晰的方式提出问题以吸引观众的注意力。",
+          "chineseIdea": "你想说明提问的方式会影响听众的反应。",
+          "sentenceWithBlank": "How you @ @ @ can shape the audience’s response.",
+          "fullEnglishSentence": "How you 「frame a question」 can shape the audience’s response.",
+          "chineseTranslation": "你如何「提出问题」会影响听众的反应。",
+          "chinglishFix": "典型中式英语：'How you make a question affects the audience.' 纠正：'How you frame a question can shape the audience’s response.'（'make a question'不地道，改为'frame a question'）"
+        },
+        {
+          "scene": "你在写一篇关于环保的文章，编辑建议你用积极的叙述方式来激励读者。",
+          "ch nació
+
+System: ```json
+{
+  "word": "frame",
+  "definitions": [
+    {
+      "meaning": "名词：框架、结构（如画框、眼镜框或建筑结构）",
+      "usage": "指物理的框架，如支撑结构或装饰性边框，常用于描述有形物体的边界或支撑部分。",
+      "collocations": ["picture frame", "window frame", "metal frame"],
+      "examples": [
+        {
+          "scene": "你在一家艺术品商店，看到一幅美丽的油画，店员建议你为画选择一个合适的边框以提升整体效果。",
+          "chineseIdea": "你想表达这幅画需要一个精致的边框来突出它的美感。",
+          "sentenceWithBlank": "This painting would look stunning with a @ @.",
+          "fullEnglishSentence": "This painting would look stunning with a 「picture frame」.",
+          "chineseTranslation": "这幅画如果配上一个「画框」会显得非常惊艳。",
+          "chinglishFix": "典型中式英语：'This painting needs a frame to put it.' 纠正：'This painting would look stunning with a picture frame.'（避免使用'put it'，改为更自然的搭配和表达）"
+        },
+        {
+          "scene": "你在装修新家，设计师建议为客厅的窗户选择一个坚固的框架，以确保安全和美观。",
+          "chineseIdea": "你想说明窗户的框架需要既实用又美观。",
+          "sentenceWithBlank": "We need a durable and stylish @ @ for the living room.",
+          "fullEnglishSentence": "We need a durable and stylish 「window frame」 for the living room.",
+          "chineseTranslation": "我们需要为客厅选择一个耐用且时尚的「窗框」。",
+          "chinglishFix": "典型中式英语：'The window needs a frame to be strong.' 纠正：'We need a durable and stylish window frame.'（避免生硬的'be strong'，使用更自然的形容词搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "名词：框架、视角（如思维框架或讨论的范围）",
+      "usage": "指抽象的概念，如思维方式、讨论的范围或某事的背景，常用于学术、心理或社交语境。",
+      "collocations": ["frame of reference", "frame of mind", "conceptual frame"],
+      "examples": [
+        {
+          "scene": "你在和朋友讨论如何看待生活中的挑战，朋友提到每个人看待问题的方式都不同。",
+          "chineseIdea": "你想表达每个人都有自己的参照标准来理解世界。",
+          "sentenceWithBlank": "Everyone has their own @ @ @ to understand the world.",
+          "fullEnglishSentence": "Everyone has their own 「frame of reference」 to understand the world.",
+          "chineseTranslation": "每个人都有自己的「参照框架」来理解世界。",
+          "chinglishFix": "典型中式英语：'Everyone has their thinking frame.' 纠正：'Everyone has their own frame of reference.'（避免直译'thinking frame'，使用标准搭配）"
+        },
+        {
+          "scene": "你在参加一个心理咨询课程，老师提到你的情绪状态会影响决策。",
+          "chineseIdea": "你想说明一个人的心理状态会影响他们的行为。",
+          "sentenceWithBlank": "Your @ @ @ greatly influences how you make decisions.",
+          "fullEnglishSentence": "Your 「frame of mind」 greatly influences how you make decisions.",
+          "chineseTranslation": "你的「心理状态」极大地影响你的决策方式。",
+          "chinglishFix": "典型中式英语：'Your mind frame affects your decisions.' 纠正：'Your frame of mind greatly influences how you make decisions.'（'mind frame'不地道，改为'frame of mind'）"
+        }
+      ]
+    },
+    {
+      "meaning": "动词：构造、表达（以某种方式呈现或组织信息）",
+      "usage": "指通过语言或行动以特定方式表达或呈现某事，常用于描述如何组织思想、问题或叙述。",
+      "collocations": ["frame a question", "frame an argument", "frame a narrative"],
+      "examples": [
+        {
+          "scene": "你在准备一场辩论，导师建议你用清晰的方式提出问题以吸引观众的注意力。",
+          "chineseIdea": "你想说明提问的方式会影响听众的反应。",
+          "sentenceWithBlank": "How you @ @ @ can shape the audience’s response.",
+          "fullEnglishSentence": "How you 「frame a question」 can shape the audience’s response.",
+          "chineseTranslation": "你如何「提出问题」会影响听众的反应。",
+          "chinglishFix": "典型中式英语：'How you make a question affects the audience.' 纠正：'How you frame a question can shape the audience’s response.'（'make a question'不地道，改为'frame a question'）"
+        },
+        {
+          "scene": "你在写一篇关于环保的文章，编辑建议你用积极的叙述方式来激励读者。",
+          "chineseIdea": "你想说明叙述的方式可以让读者更有动力采取行动。",
+          "sentenceWithBlank": "A positive @ @ @ can inspire readers to take action.",
+          "fullEnglishSentence": "A positive 「frame a narrative」 can inspire readers to take action.",
+          "chineseTranslation": "一个积极的「叙述框架」可以激励读者采取行动。",
+          "chinglishFix": "典型中式英语：'A good story frame makes readers act.' 纠正：'A positive frame a narrative can inspire readers to take action.'（'story frame'和'make'不自然，改为'frame a narrative'和'inspire'）"
+        }
+      ]
+    }
+  ]
+}
+```

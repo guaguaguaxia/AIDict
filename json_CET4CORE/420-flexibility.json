@@ -1,0 +1,76 @@
+```json
+{
+  "word": "flexibility",
+  "definitions": [
+    {
+      "meaning": "能够轻松改变或适应不同情况的能力",
+      "usage": "常用于描述一个人、计划或系统在面对变化时的适应能力，通常带有正面含义，强调随机应变。",
+      "collocations": ["show flexibility", "require flexibility", "offer flexibility"],
+      "examples": [
+        {
+          "scene": "在一个快速发展的科技公司，团队成员需要快速适应新项目的需求。员工小李被分配到一个新项目，需要在短时间内学习新技能并调整工作方式。",
+          "chineseIdea": "小李需要在面对新任务时表现出能够快速调整自己的能力，以确保项目顺利进行。",
+          "sentenceWithBlank": "To succeed in this fast-paced environment, Li needs to @ @ in adapting to new tasks.",
+          "fullEnglishSentence": "To succeed in this fast-paced environment, Li needs to 「show flexibility」 in adapting to new tasks.",
+          "chineseTranslation": "要在这个快节奏的环境中取得成功，小李需要在适应新任务时「展现灵活性」。",
+          "chinglishFix": "典型中式英语：'Li must be very flexible to change.' 纠正：'Li needs to show flexibility in adapting to changes.'（避免直接用'flexible'，而是用搭配'show flexibility'更自然。）"
+        },
+        {
+          "scene": "在规划一次家庭旅行时，由于天气预报显示可能会下雨，家人需要调整行程，决定是否去室内景点。",
+          "chineseIdea": "家人需要在面对天气变化时表现出调整计划的能力，以确保旅行顺利。",
+          "sentenceWithBlank": "The sudden weather change means the family must @ @ in their travel plans.",
+          "fullEnglishSentence": "The sudden weather change means the family must 「show flexibility」 in their travel plans.",
+          "chineseTranslation": "突如其来的天气变化意味着家人必须在旅行计划中「展现灵活性」。",
+          "chinglishFix": "典型中式英语：'The family must change flexibly.' 纠正：'The family must show flexibility in changing plans.'（'flexibly'不常用于此，'show flexibility'更符合英语习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "身体或物体的可弯曲性或弹性",
+      "usage": "常用于描述身体的柔韧性（如瑜伽或运动中）或物体的物理特性（如材料），强调物理上的可弯曲或伸展能力。",
+      "collocations": ["improve flexibility", "increase flexibility", "maintain flexibility"],
+      "examples": [
+        {
+          "scene": "小张报名参加了一个瑜伽课程，希望通过练习提高身体的柔韧性，以便在日常生活中更轻松地活动。",
+          "chineseIdea": "小张希望通过瑜伽训练让身体更柔软，减少运动中的僵硬感。",
+          "sentenceWithBlank": "Through regular yoga practice, Zhang hopes to @ @ in her joints and muscles.",
+          "fullEnglishSentence": "Through regular yoga practice, Zhang hopes to 「improve flexibility」 in her joints and muscles.",
+          "chineseTranslation": "通过定期练习瑜伽，小张希望「提高柔韧性」，让关节和肌肉更灵活。",
+          "chinglishFix": "典型中式英语：'Zhang wants to make her body more flexible.' 纠正：'Zhang aims to improve flexibility in her body.'（'improve flexibility'是更常见的表达，具体且自然。）"
+        },
+        {
+          "scene": "在选择新家具时，小王发现一款可折叠的椅子很适合小户型公寓，因为它可以根据需要调整形状。",
+          "chineseIdea": "小王希望家具能够根据空间需求进行调整，增加使用的便利性。",
+          "sentenceWithBlank": "The foldable chair is ideal because it helps @ @ in small living spaces.",
+          "fullEnglishSentence": "The foldable chair is ideal because it helps 「increase flexibility」 in small living spaces.",
+          "chineseTranslation": "这款折叠椅很理想，因为它能帮助在小户型空间中「增加灵活性」。",
+          "chinglishFix": "典型中式英语：'The chair can flexibly change.' 纠正：'The chair increases flexibility in space usage.'（'flexibly change'不自然，'increase flexibility'更贴合语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在规则、政策或安排中的灵活性",
+      "usage": "常用于描述工作安排、政策或协议中允许调整或变通的特性，强调非刚性。",
+      "collocations": ["provide flexibility", "allow flexibility", "ensure flexibility"],
+      "examples": [
+        {
+          "scene": "一家公司为了吸引更多员工，决定允许员工选择在家或办公室工作，以适应不同的生活需求。",
+          "chineseIdea": "公司希望通过调整工作方式，让员工能够更自由地安排时间。",
+          "sentenceWithBlank": "The new policy will @ @ for employees to balance work and personal life.",
+          "fullEnglishSentence": "The new policy will 「provide flexibility」 for employees to balance work and personal life.",
+          "chineseTranslation": "新政策将为员工「提供灵活性」，以平衡工作和个人生活。",
+          "chinglishFix": "典型中式英语：'The policy gives employees flexible work.' 纠正：'The policy provides flexibility for employees’ work schedules.'（'provide flexibility'更精确，符合英语表达习惯。）"
+        },
+        {
+          "scene": "在与客户谈判合同时，小李的团队提出了一些可调整的条款，以适应客户的预算限制。",
+          "chineseIdea": "小李希望通过灵活的条款让合同更具吸引力，同时满足客户需求。",
+          "sentenceWithBlank": "By offering adjustable terms, the team can @ @ in negotiations.",
+          "fullEnglishSentence": "By offering adjustable terms, the team can 「ensure flexibility」 in negotiations.",
+          "chineseTranslation": "通过提供可调整的条款，团队可以在谈判中「确保灵活性」。",
+          "chinglishFix": "典型中式英语：'The team makes the contract flexible.' 纠正：'The team ensures flexibility in the contract terms.'（'ensure flexibility'更符合正式商务英语。）"
+        }
+      ]
+    }
+  ]
+}
+```
