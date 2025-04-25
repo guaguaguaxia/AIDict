@@ -1,0 +1,53 @@
+```json
+{
+  "word": "additional",
+  "definitions": [
+    {
+      "meaning": "额外的，附加的",
+      "usage": "指在已有基础上增加的，通常用于描述数量、程度或范围的扩展，常用于正式或中性语境。",
+      "collocations": ["additional cost", "additional information", "additional time"],
+      "examples": [
+        {
+          "scene": "在一家公司里，项目经理正在与客户讨论一个新项目的预算。客户询问是否有额外的费用需要考虑。",
+          "chineseIdea": "想表达项目可能会因为某些额外的工作而产生更多的费用。",
+          "sentenceWithBlank": "Please note that there may be @ @ for any custom features you request.",
+          "fullEnglishSentence": "Please note that there may be 「additional cost」 for any custom features you request.",
+          "chineseTranslation": "请注意，您请求的任何定制功能可能会产生「额外费用」。",
+          "chinglishFix": "典型中式英语：'More cost' 或 'Extra money'。纠正：使用 'additional cost' 来表达正式且自然的额外费用。"
+        },
+        {
+          "scene": "在学校里，老师正在给学生布置作业，要求学生提交更多的资料来支持他们的论点。",
+          "chineseIdea": "想表达学生需要提供更多的资料来完善他们的作业。",
+          "sentenceWithBlank": "You need to provide @ @ to support your arguments in the essay.",
+          "fullEnglishSentence": "You need to provide 「additional information」 to support your arguments in the essay.",
+          "chineseTranslation": "你需要在文章中提供「额外信息」来支持你的论点。",
+          "chinglishFix": "典型中式英语：'More information' 或 'Add information'。纠正：使用 'additional information' 更符合学术或正式语境。"
+        }
+      ]
+    },
+    {
+      "meaning": "补充的，增补的",
+      "usage": "指为了完善或补充已有内容而增加的部分，通常用于书面语或技术性语境。",
+      "collocations": ["additional resources", "additional support", "additional details"],
+      "examples": [
+        {
+          "scene": "在一次线上课程中，老师发现学生对某个话题感到困惑，决定提供更多的学习材料。",
+          "chineseIdea": "想表达为了帮助学生理解，会提供更多的学习资料。",
+          "sentenceWithBlank": "I will upload @ @ to help you better understand the topic.",
+          "fullEnglishSentence": "I will upload 「additional resources」 to help you better understand the topic.",
+          "chineseTranslation": "我将上传「补充资源」以帮助你更好地理解这个话题。",
+          "chinglishFix": "典型中式英语：'More resources' 或 'Extra materials'。纠正：使用 'additional resources' 更显得专业且自然。"
+        },
+        {
+          "scene": "在一家技术公司，客户服务团队接到客户电话，客户要求了解产品的更多细节。",
+          "chineseIdea": "想表达可以提供更多的细节来解答客户的疑问。",
+          "sentenceWithBlank": "We can provide @ @ if you have any further questions about the product.",
+          "fullEnglishSentence": "We can provide 「additional details」 if you have any further questions about the product.",
+          "chineseTranslation": "如果您对产品有进一步的问题，我们可以提供「补充细节」。",
+          "chinglishFix": "典型中式英语：'More details' 或 'Add details'。纠正：使用 'additional details' 更符合客户服务中的正式表达。"
+        }
+      ]
+    }
+  ]
+}
+```

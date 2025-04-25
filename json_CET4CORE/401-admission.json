@@ -1,0 +1,76 @@
+```json
+{
+  "word": "admission",
+  "definitions": [
+    {
+      "meaning": "被允许进入某地或机构",
+      "usage": "指获得进入某个地方、机构或活动的许可，通常用于学校、大学、医院或活动场所的准入。",
+      "collocations": ["gain admission", "secure admission", "grant admission"],
+      "examples": [
+        {
+          "scene": "一名中国学生正在申请国外大学，经历了漫长的准备和考试后，终于收到了大学的录取通知书。",
+          "chineseIdea": "学生通过努力获得了进入理想大学的机会，体现了奋斗后被认可的喜悦。",
+          "sentenceWithBlank": "After months of hard work, she was thrilled to @ @ to her dream university.",
+          "fullEnglishSentence": "After months of hard work, she was thrilled to 「gain admission」 to her dream university.",
+          "chineseTranslation": "经过几个月的努力，她兴奋地「获得了入学许可」进入她梦想中的大学。",
+          "chinglishFix": "典型中式英语：She 'entered' the university. 纠正：'Enter' 仅指物理进入，而 'gain admission' 更准确地表达被学校正式接受。"
+        },
+        {
+          "scene": "一名游客来到一个热门博物馆，但由于人太多，入口处有严格的限制，只有提前预约的人才能进入。",
+          "chineseIdea": "游客通过提前准备获得了进入博物馆的机会，强调规则和许可的重要性。",
+          "sentenceWithBlank": "Only those with prior reservations could @ @ to the museum.",
+          "fullEnglishSentence": "Only those with prior reservations could 「secure admission」 to the museum.",
+          "chineseTranslation": "只有提前预约的人才能「确保进入」博物馆。",
+          "chinglishFix": "典型中式英语：They 'got in' the museum. 纠正：'Get in' 过于口语且不正式，'secure admission' 更适合描述正式准入。"
+        }
+      ]
+    },
+    {
+      "meaning": "承认或供认某事",
+      "usage": "指公开或正式承认某事实、错误或真相，通常带有一定的严肃性或情感色彩。",
+      "collocations": ["make an admission", "public admission", "full admission"],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，一个人因为之前的误解而向家人坦白了自己的真实感受，希望修复关系。",
+          "chineseIdea": "通过坦诚的沟通，承认自己的错误或感受，以重建信任。",
+          "sentenceWithBlank": "During the gathering, he decided to @ @ @ of his mistakes to clear the air.",
+          "fullEnglishSentence": "During the gathering, he decided to 「make an admission」 of his mistakes to clear the air.",
+          "chineseTranslation": "在聚会上，他决定「承认」自己的错误以消除误解。",
+          "chinglishFix": "典型中式英语：He 'say sorry' for his fault. 纠正：'Say sorry' 仅表达道歉，'make an admission' 更强调正式承认错误。"
+        },
+        {
+          "scene": "一家公司在新闻发布会上公开承认产品存在缺陷，以挽回消费者的信任。",
+          "chineseIdea": "公司通过公开透明的方式承认问题，展现责任感。",
+          "sentenceWithBlank": "The company issued a @ @ to address the product’s flaws.",
+          "fullEnglishSentence": "The company issued a 「public admission」 to address the product’s flaws.",
+          "chineseTranslation": "公司发布了一份「公开承认」来解决产品缺陷问题。",
+          "chinglishFix": "典型中式英语：The company 'say' the product is bad. 纠正：'Say' 过于简单，'public admission' 更能体现正式声明。"
+        }
+      ]
+    },
+    {
+      "meaning": "入场费或入场券",
+      "usage": "指进入某些场所（如博物馆、游乐园）所需的费用或票务。",
+      "collocations": ["charge admission", "free admission", "pay admission"],
+      "examples": [
+        {
+          "scene": "一个家庭计划周末去动物园游玩，但在入口处发现需要购买门票才能进入。",
+          "chineseIdea": "支付一定的费用以获得进入场所的权利，体现门票的价值。",
+          "sentenceWithBlank": "The zoo @ @ for adults, but children under five enter for free.",
+          "fullEnglishSentence": "The zoo 「charges admission」 for adults, but children under five enter for free.",
+          "chineseTranslation": "动物园对成人「收取门票」，但五岁以下儿童免费进入。",
+          "chinglishFix": "典型中式英语：The zoo 'ask money' to enter. 纠正：'Ask money' 不自然，'charge admission' 是正确的表达。"
+        },
+        {
+          "scene": "一个社区举办了一场免费的户外音乐会，吸引了许多居民前来观看。",
+          "chineseIdea": "免费的活动让更多人有机会参与，体现社区的包容性。",
+          "sentenceWithBlank": "The concert offered @ @ to encourage community participation.",
+          "fullEnglishSentence": "The concert offered 「free admission」 to encourage community participation.",
+          "chineseTranslation": "音乐会提供「免费入场」以鼓励社区参与。",
+          "chinglishFix": "典型中式英语：The concert is 'no money' to enter. 纠正：'No money' 不准确，'free admission' 是更自然的表达。"
+        }
+      ]
+    }
+  ]
+}
+```

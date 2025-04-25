@@ -1,0 +1,76 @@
+```json
+{
+  "word": "code",
+  "definitions": [
+    {
+      "meaning": "计算机程序的指令集",
+      "usage": "指用编程语言编写的指令，用于控制计算机执行特定任务。通常用于描述软件开发或编程活动。",
+      "collocations": ["write code", "debug code", "run code"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的办公室里，小明正在为一个新项目开发一款手机应用。他坐在电脑前，专注于编写程序，确保应用能够正常运行。",
+          "chineseIdea": "小明想要通过编写程序指令，让手机应用实现特定的功能，比如显示用户输入的内容。",
+          "sentenceWithBlank": "She spent hours @ @ to create a user-friendly app.",
+          "fullEnglishSentence": "She spent hours 「writing code」 to create a user-friendly app.",
+          "chineseTranslation": "她花了几个小时「编写程序」来创建一个用户友好的应用。",
+          "chinglishFix": "典型中式英语：She spent hours to write program. 纠正：She spent hours writing code.（‘write program’不地道，应使用‘write code’，且注意动名词形式。）"
+        },
+        {
+          "scene": "在一个编程马拉松活动中，小红发现她的程序出现了错误，导致输出结果不正确。她需要检查并修复问题。",
+          "chineseIdea": "小红希望通过检查程序指令，找出错误并修复，以确保程序正常运行。",
+          "sentenceWithBlank": "He carefully @ @ to fix the error in the software.",
+          "fullEnglishSentence": "He carefully 「debugged code」 to fix the error in the software.",
+          "chineseTranslation": "他仔细地「调试程序」以修复软件中的错误。",
+          "chinglishFix": "典型中式英语：He checked the program to repair it. 纠正：He debugged the code to fix it.（‘repair program’不常用于编程语境，应使用‘debug code’。）"
+        }
+      ]
+    },
+    {
+      "meaning": "密码或代码",
+      "usage": "指一组符号、数字或字母，用于加密信息、解锁设备或传递秘密信息。通常用于安全或通信领域。",
+      "collocations": ["enter a code", "break a code", "secret code"],
+      "examples": [
+        {
+          "scene": "小刚在机场使用自助值机设备，需要输入航空公司的预订代码才能打印登机牌。",
+          "chineseIdea": "小刚需要输入一串特定的数字或字母组合，以完成值机流程。",
+          "sentenceWithBlank": "You need to @ @ @ to access your boarding pass.",
+          "fullEnglishSentence": "You need to 「enter a code」 to access your boarding pass.",
+          "chineseTranslation": "你需要「输入代码」来获取你的登机牌。",
+          "chinglishFix": "典型中式英语：You need to input password to get boarding pass. 纠正：You need to enter a code to access your boarding pass.（‘password’通常指账户密码，而‘code’更适合指预订代码，且‘get’改为‘access’更正式。）"
+        },
+        {
+          "scene": "在一部间谍电影中，特工收到一封加密信息，需要破解其中的代码以了解任务详情。",
+          "chineseIdea": "特工希望通过分析符号或数字，解开隐藏的信息。",
+          "sentenceWithBlank": "The spy worked tirelessly to @ @ @ and uncover the hidden message.",
+          "fullEnglishSentence": "The spy worked tirelessly to 「break a code」 and uncover the hidden message.",
+          "chineseTranslation": "间谍不懈地努力「破解代码」以揭示隐藏的信息。",
+          "chinglishFix": "典型中式英语：The spy tried to solve the password. 纠正：The spy worked to break the code.（‘solve password’不准确，‘break a code’是破解加密信息的正确表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "规则或标准",
+      "usage": "指一组规定或准则，用于规范行为或指导实践，常用于法律、道德或职业领域。",
+      "collocations": ["follow a code", "code of conduct", "ethical code"],
+      "examples": [
+        {
+          "scene": "在一家国际公司的新员工培训中，小李学习了公司的行为准则，要求员工在工作中保持诚信和专业。",
+          "chineseIdea": "小李需要遵守公司制定的行为规范，以确保工作符合道德和职业标准。",
+          "sentenceWithBlank": "All employees must @ @ @ to maintain professionalism.",
+          "fullEnglishSentence": "All employees must 「follow a code」 to maintain professionalism.",
+          "chineseTranslation": "所有员工必须「遵守准则」以保持专业性。",
+          "chinglishFix": "典型中式英语：All employees must obey the rule. 纠正：All employees must follow a code.（‘obey the rule’过于笼统，‘follow a code’更具体，指行为准则。）"
+        },
+        {
+          "scene": "在一所学校，老师向学生介绍学校的纪律规范，强调尊重他人和诚实的重要性。",
+          "chineseIdea": "老师希望学生遵循学校的规定，以营造一个公平和尊重的学习环境。",
+          "sentenceWithBlank": "The school enforces a strict @ @ @ to promote respect and honesty.",
+          "fullEnglishSentence": "The school enforces a strict 「code of conduct」 to promote respect and honesty.",
+          "chineseTranslation": "学校执行严格的「行为准则」以促进尊重和诚实。",
+          "chinglishFix": "典型中式英语：The school has a strict rule of behavior. 纠正：The school enforces a strict code of conduct.（‘rule of behavior’不地道，‘code of conduct’是固定表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

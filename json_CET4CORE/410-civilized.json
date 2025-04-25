@@ -1,0 +1,53 @@
+```json
+{
+  "word": "civilized",
+  "definitions": [
+    {
+      "meaning": "具有高度文化和社会发展的",
+      "usage": "描述社会、群体或行为具有礼貌、进步和文化修养，通常与野蛮或原始相对。",
+      "collocations": ["civilized society", "civilized behavior", "civilized world"],
+      "examples": [
+        {
+          "scene": "在一个国际会议上，各国代表讨论全球气候变化问题，展现出合作与尊重的态度。",
+          "chineseIdea": "强调一个群体在交流中表现出高水平的礼仪和理性，符合现代社会的标准。",
+          "sentenceWithBlank": "The delegates worked together to create a @ @, demonstrating mutual respect.",
+          "fullEnglishSentence": "The delegates worked together to create a 「civilized society」, demonstrating mutual respect.",
+          "chineseTranslation": "代表们共同努力创造一个「文明社会」，展现了相互尊重。",
+          "chinglishFix": "中式英语：They make a very civilization society. 纠正：They contribute to a civilized society."
+        },
+        {
+          "scene": "在一次家庭聚会上，大家即使有不同意见，也能心平气和地讨论，而不是争吵。",
+          "chineseIdea": "描述人们在互动中保持冷静和礼貌，体现出教养。",
+          "sentenceWithBlank": "Despite their differences, they maintained @ @ during the discussion.",
+          "fullEnglishSentence": "Despite their differences, they maintained 「civilized behavior」 during the discussion.",
+          "chineseTranslation": "尽管意见不同，他们在讨论中保持了「文明行为」。",
+          "chinglishFix": "中式英语：They have very civilization behavior. 纠正：They exhibit civilized behavior."
+        }
+      ]
+    },
+    {
+      "meaning": "礼貌的，有教养的",
+      "usage": "用于描述个人的行为或态度，强调礼貌、克制和尊重他人的举止。",
+      "collocations": ["civilized manner", "civilized conversation", "civilized debate"],
+      "examples": [
+        {
+          "scene": "在咖啡馆里，两个陌生人因为座位问题发生小争执，但他们通过冷静对话解决了问题。",
+          "chineseIdea": "突出个人在冲突中保持礼貌和尊重的态度，避免粗鲁或冲动。",
+          "sentenceWithBlank": "They resolved the issue in a @ @, avoiding any escalation.",
+          "fullEnglishSentence": "They resolved the issue in a 「civilized manner」, avoiding any escalation.",
+          "chineseTranslation": "他们以「文明的方式」解决了问题，避免了事态升级。",
+          "chinglishFix": "中式英语：They solve it very civilizedly. 纠正：They resolved it in a civilized manner."
+        },
+        {
+          "scene": "在一场学术研讨会上，学者们针对某个争议话题展开激烈但尊重的讨论。",
+          "chineseIdea": "强调在观点冲突时，参与者依然保持理性和礼貌的交流方式。",
+          "sentenceWithBlank": "The scholars engaged in a @ @, respecting each other’s views.",
+          "fullEnglishSentence": "The scholars engaged in a 「civilized debate」, respecting each other’s views.",
+          "chineseTranslation": "学者们进行了一场「文明的辩论」，尊重彼此的观点。",
+          "chinglishFix": "中式英语：They have a very civilization debate. 纠正：They conducted a civilized debate."
+        }
+      ]
+    }
+  ]
+}
+```
