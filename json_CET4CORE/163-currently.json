@@ -1,0 +1,53 @@
+```json
+{
+  "word": "currently",
+  "definitions": [
+    {
+      "meaning": "现在，此刻",
+      "usage": "用作副词，表示某事正在发生或存在于说话的当下时刻，常用于描述当前的状态、情况或行动。",
+      "collocations": ["be currently working on", "currently available", "currently living in"],
+      "examples": [
+        {
+          "scene": "某人在一次线上会议中向同事介绍自己正在进行的项目，强调当下正在专注的工作。",
+          "chineseIdea": "想表达自己正在忙于某个具体的任务，强调现在的时间点。",
+          "sentenceWithBlank": "I @ @ @ a new marketing campaign for our product.",
+          "fullEnglishSentence": "I 「am currently working on」 a new marketing campaign for our product.",
+          "chineseTranslation": "我「现在正在忙于」我们产品的新营销活动。",
+          "chinglishFix": "典型中式英语：'I now work on a new campaign.' 纠正：'I am currently working on a new campaign.'（'now' 在此语境中显得不够正式，且不如 'currently' 精确。）"
+        },
+        {
+          "scene": "某人在社交媒体上更新自己的居住状态，向朋友分享自己现在的生活地点。",
+          "chineseIdea": "想告诉别人自己现阶段住在某个地方，强调当前的居住情况。",
+          "sentenceWithBlank": "She @ @ @ New York with her family.",
+          "fullEnglishSentence": "She 「is currently living in」 New York with her family.",
+          "chineseTranslation": "她「现在住在」纽约和家人一起。",
+          "chinglishFix": "典型中式英语：'She now live in New York.' 纠正：'She is currently living in New York.'（'now' 使用不恰当，且语法错误，需用 'currently' 且注意动词形式。）"
+        }
+      ]
+    },
+    {
+      "meaning": "目前，暂时",
+      "usage": "用作副词，表示某事在现阶段有效或适用，但可能不是永久的状态，常用于描述临时的安排、趋势或情况。",
+      "collocations": ["currently under review", "currently experiencing", "currently out of stock"],
+      "examples": [
+        {
+          "scene": "某人在公司内部邮件中说明某个项目的审批状态，强调项目暂时处于待定阶段。",
+          "chineseIdea": "想说明某件事目前还在评估中，尚未有最终结果。",
+          "sentenceWithBlank": "The proposal @ @ @ by the management team.",
+          "fullEnglishSentence": "The proposal 「is currently under review」 by the management team.",
+          "chineseTranslation": "该提案「目前正在审核中」由管理团队负责。",
+          "chinglishFix": "典型中式英语：'The proposal is now reviewing.' 纠正：'The proposal is currently under review.'（'now reviewing' 语法错误，需用被动语态并用 'currently' 表达临时状态。）"
+        },
+        {
+          "scene": "某人在网购时发现想买的商品暂时缺货，网站上显示了库存状态。",
+          "chineseIdea": "想说明某件商品暂时无法购买，但未来可能会有货。",
+          "sentenceWithBlank": "This item @ @ @ due to high demand.",
+          "fullEnglishSentence": "This item 「is currently out of stock」 due to high demand.",
+          "chineseTranslation": "该商品「目前缺货」由于需求量大。",
+          "chinglishFix": "典型中式英语：'This item now no stock.' 纠正：'This item is currently out of stock.'（'no stock' 不符合英语表达习惯，需用 'out of stock' 并搭配 'currently'。）"
+        }
+      ]
+    }
+  ]
+}
+```

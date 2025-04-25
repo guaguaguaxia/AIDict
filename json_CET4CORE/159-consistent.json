@@ -1,0 +1,53 @@
+```json
+{
+  "word": "consistent",
+  "definitions": [
+    {
+      "meaning": "始终如一的，持续一致的",
+      "usage": "描述某人、某事或某物在行为、表现、质量等方面保持稳定、不变或符合预期。",
+      "collocations": ["consistent performance", "consistent quality", "consistent results", "consistent approach"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，员工小李负责开发一款手机应用程序。他的经理定期检查他的工作进度，发现小李每次提交的代码都保持高水平，没有明显的质量波动。",
+          "chineseIdea": "小李的代码质量总是很好，没有忽高忽低的情况，体现了一种稳定的表现。",
+          "sentenceWithBlank": "His manager praised him for his @ @ in coding.",
+          "fullEnglishSentence": "His manager praised him for his 「consistent performance」 in coding.",
+          "chineseTranslation": "他的经理表扬他在编码中「始终如一的表现」。",
+          "chinglishFix": "典型中式英语：'His coding is always same good.' 纠正：'His coding consistently maintains high quality.'"
+        },
+        {
+          "scene": "小张在一家咖啡店工作，每天都要冲泡咖啡。顾客们特别喜欢她冲泡的咖啡，因为每次喝到的口感都几乎一模一样。",
+          "chineseIdea": "小张冲泡的咖啡味道总是稳定，不会今天浓明天淡，给顾客可靠的体验。",
+          "sentenceWithBlank": "Customers love her coffee for its @ @.",
+          "fullEnglishSentence": "Customers love her coffee for its 「consistent quality」.",
+          "chineseTranslation": "顾客们喜欢她的咖啡因为它「始终如一的品质」。",
+          "chinglishFix": "典型中式英语：'Her coffee always same taste.' 纠正：'Her coffee always has a consistent taste.'"
+        }
+      ]
+    },
+    {
+      "meaning": "一致的，符合的",
+      "usage": "描述某事物与另一事物在观点、事实、标准等方面相符或不矛盾。",
+      "collocations": ["consistent with", "consistent across", "consistent standards"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，研究人员小王展示了他的实验数据。他的结论与之前发表的理论研究完全吻合，赢得了同行们的认可。",
+          "chineseIdea": "小王的实验结果和已有理论没有冲突，完全匹配，说明他的研究可靠。",
+          "sentenceWithBlank": "His findings were @ @ the established theory.",
+          "fullEnglishSentence": "His findings were 「consistent with」 the established theory.",
+          "chineseTranslation": "他的发现「与」已有的理论「一致」。",
+          "chinglishFix": "典型中式英语：'His findings same with theory.' 纠正：'His findings are consistent with the theory.'"
+        },
+        {
+          "scene": "一家跨国公司在不同国家的分部需要遵守相同的服务标准。总部派出的审核团队发现，所有分部的客户反馈都符合总部的规定。",
+          "chineseIdea": "每个分部的服务水平都和总部的要求一样，体现出统一的标准。",
+          "sentenceWithBlank": "The service quality was @ @ all branches.",
+          "fullEnglishSentence": "The service quality was 「consistent across」 all branches.",
+          "chineseTranslation": "服务质量在所有分部「一致」。",
+          "chinglishFix": "典型中式英语：'All branches service is same.' 纠正：'The service is consistent across all branches.'"
+        }
+      ]
+    }
+  ]
+}
+```

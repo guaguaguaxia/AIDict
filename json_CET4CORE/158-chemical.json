@@ -1,0 +1,53 @@
+```json
+{
+  "word": "chemical",
+  "definitions": [
+    {
+      "meaning": "与化学或化学物质有关的",
+      "usage": "形容词，用于描述与化学科学、化学物质或化学过程相关的事物，常出现在科学、工业或环境相关的语境中。",
+      "collocations": ["chemical reaction", "chemical compound", "chemical industry"],
+      "examples": [
+        {
+          "scene": "在高中化学课堂上，老师正在向学生们展示如何通过实验观察不同物质之间的反应，学生们对此非常好奇。",
+          "chineseIdea": "想表达某些物质在特定条件下会发生变化，生成新的物质。",
+          "sentenceWithBlank": "The teacher demonstrated how a @ @ leads to the formation of new substances.",
+          "fullEnglishSentence": "The teacher demonstrated how a 「chemical reaction」 leads to the formation of new substances.",
+          "chineseTranslation": "老师展示了「化学反应」如何导致新物质的形成。",
+          "chinglishFix": "中式英语：Some materials make reaction to become new things. 纠正：Certain substances undergo a chemical reaction to form new compounds."
+        },
+        {
+          "scene": "在一家制药公司的实验室中，研究人员正在分析一种新药的成分，讨论其分子结构。",
+          "chineseIdea": "想说明一种由多个元素组成的物质是药物开发的关键。",
+          "sentenceWithBlank": "The researchers analyzed the structure of a new @ @ for drug development.",
+          "fullEnglishSentence": "The researchers analyzed the structure of a new 「chemical compound」 for drug development.",
+          "chineseTranslation": "研究人员分析了一种用于药物开发的新的「化学化合物」的结构。",
+          "chinglishFix": "中式英语：They study a chemical thing for medicine. 纠正：They examined a chemical compound for pharmaceutical purposes."
+        }
+      ]
+    },
+    {
+      "meaning": "化学物质",
+      "usage": "名词，指由化学过程产生的物质，常见于工业、农业或日常生活中，如清洁剂、农药等。",
+      "collocations": ["hazardous chemical", "household chemical", "industrial chemical"],
+      "examples": [
+        {
+          "scene": "在一家超市中，清洁用品区域的标签提醒顾客注意某些产品的危险性，建议小心使用。",
+          "chineseIdea": "想提醒人们有些清洁产品可能对健康有害，需要小心存放。",
+          "sentenceWithBlank": "The label warned that the product was a @ @ and should be kept out of reach of children.",
+          "fullEnglishSentence": "The label warned that the product was a 「hazardous chemical」 and should be kept out of reach of children.",
+          "chineseTranslation": "标签警告说该产品是一种「危险化学品」，应放置在儿童无法触及的地方。",
+          "chinglishFix": "中式英语：This is dangerous chemical thing, don’t let kids touch. 纠正：This is a hazardous chemical and should be kept away from children."
+        },
+        {
+          "scene": "在一个家庭中，父母在整理清洁用品时，讨论如何安全存放洗涤剂和漂白剂。",
+          "chineseIdea": "想表达日常生活中使用的某些产品需要妥善保存以确保安全。",
+          "sentenceWithBlank": "They stored the @ @ in a locked cabinet to ensure safety.",
+          "fullEnglishSentence": "They stored the 「household chemical」 in a locked cabinet to ensure safety.",
+          "chineseTranslation": "他们将「家用化学品」存放在一个上锁的柜子里以确保安全。",
+          "chinglishFix": "中式英语：We put chemical stuff in a safe place. 纠正：We store household chemicals in a secure location."
+        }
+      ]
+    }
+  ]
+}
+```

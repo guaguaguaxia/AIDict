@@ -1,0 +1,53 @@
+```json
+{
+  "word": "award",
+  "definitions": [
+    {
+      "meaning": "授予奖项或荣誉",
+      "usage": "用作动词，表示正式给予某人奖项、荣誉或奖励，通常与比赛、成就或贡献相关。用作名词时，指代奖项本身，如奖杯、证书或奖金。",
+      "collocations": ["win an award", "receive an award", "present an award"],
+      "examples": [
+        {
+          "scene": "在学校一年一度的颁奖典礼上，学生们因为学术或体育方面的出色表现而受到表彰。",
+          "chineseIdea": "想要表达某人因为努力学习而获得了一个学术奖项。",
+          "sentenceWithBlank": "She @ @ @ for her outstanding performance in mathematics.",
+          "fullEnglishSentence": "She 「won an award」 for her outstanding performance in mathematics.",
+          "chineseTranslation": "她因为在数学方面的出色表现「赢得了一个奖项」。",
+          "chinglishFix": "典型中式英语：She got a prize for math. 纠正：She won an award for her outstanding performance in mathematics.（‘got a prize’过于模糊，缺少正式感和具体性）"
+        },
+        {
+          "scene": "在公司年会上，管理层会表彰年度最佳员工，并颁发证书和奖金。",
+          "chineseIdea": "想要表达一位员工因为工作表现优异而被授予奖项。",
+          "sentenceWithBlank": "The manager @ @ @ to the employee of the year.",
+          "fullEnglishSentence": "The manager 「presented an award」 to the employee of the year.",
+          "chineseTranslation": "经理向年度最佳员工「颁发了一个奖项」。",
+          "chinglishFix": "典型中式英语：The manager gave a prize to the best worker. 纠正：The manager presented an award to the employee of the year.（‘gave a prize’不够正式，且‘worker’不如‘employee’常见）"
+        }
+      ]
+    },
+    {
+      "meaning": "判给或裁定（法律或合同中的金钱、权利等）",
+      "usage": "用作动词，通常在法律或正式场景中，表示通过裁决或决定将金钱、权利或合同授予某人。用作名词时，指裁定的结果，如赔偿金或合同。",
+      "collocations": ["award a contract", "award damages", "award custody"],
+      "examples": [
+        {
+          "scene": "一家建筑公司在竞标中胜出，获得了政府的大型基础设施项目。",
+          "chineseIdea": "想要表达政府将一个大型项目合同授予某家公司。",
+          "sentenceWithBlank": "The government @ @ @ to the most competitive bidder.",
+          "fullEnglishSentence": "The government 「awarded a contract」 to the most competitive bidder.",
+          "chineseTranslation": "政府将一份合同「授予」了最具竞争力的投标者。",
+          "chinglishFix": "典型中式英语：The government gave the contract to the company. 纠正：The government awarded a contract to the most competitive bidder.（‘gave’缺乏正式性，‘awarded’更符合法律或商业语境）"
+        },
+        {
+          "scene": "在法庭上，法官裁定受害者应获得一笔赔偿金以弥补损失。",
+          "chineseIdea": "想要表达法庭决定给某人一笔赔偿金。",
+          "sentenceWithBlank": "The court @ @ to the victim for their losses.",
+          "fullEnglishSentence": "The court 「awarded damages」 to the victim for their losses.",
+          "chineseTranslation": "法庭为受害者的损失「裁定了赔偿金」。",
+          "chinglishFix": "典型中式英语：The court gave money to the victim. 纠正：The court awarded damages to the victim for their losses.（‘gave money’过于口语化且不准确，‘awarded damages’是法律术语）"
+        }
+      ]
+    }
+  ]
+}
+```
