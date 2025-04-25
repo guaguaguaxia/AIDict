@@ -1,0 +1,53 @@
+```json
+{
+  "word": "similar",
+  "definitions": [
+    {
+      "meaning": "具有相似之处但不完全相同",
+      "usage": "用来描述两个或多个事物在某些方面具有共同点，但并非完全一样，通常用于比较人、物、情况或概念。",
+      "collocations": ["similar to", "similar in", "strikingly similar"],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，小明和他的表弟发现他们都喜欢玩同一款电子游戏。",
+          "chineseIdea": "小明想表达他和表弟在兴趣爱好上有相似之处。",
+          "sentenceWithBlank": "My cousin and I are @ @ playing the same video game.",
+          "fullEnglishSentence": "My cousin and I are 「similar in」 playing the same video game.",
+          "chineseTranslation": "我和我的表弟在玩同一款电子游戏方面「很相似」。",
+          "chinglishFix": "典型中式英语：'Me and my cousin same play game.' 纠正：'My cousin and I are similar in playing the same game.'"
+        },
+        {
+          "scene": "小红在学校英语课上比较两本小说的主题，指出它们在叙述风格上有共同点。",
+          "chineseIdea": "小红想说明两本小说的叙述方式有相似之处。",
+          "sentenceWithBlank": "The narrative styles of these two novels are @ @.",
+          "fullEnglishSentence": "The narrative styles of these two novels are 「similar to」 each other.",
+          "chineseTranslation": "这两本小说的叙述风格「彼此相似」。",
+          "chinglishFix": "典型中式英语：'Two books' style is same.' 纠正：'The narrative styles of these two novels are similar to each other.'"
+        }
+      ]
+    },
+    {
+      "meaning": "几乎相同，近似",
+      "usage": "强调两个或多个事物在外观、性质或功能上非常接近，差异微小，常用于描述更具体的相似性。",
+      "collocations": ["very similar", "almost similar", "remarkably similar"],
+      "examples": [
+        {
+          "scene": "小刚在商场挑选手机，发现两款手机的外观几乎一模一样。",
+          "chineseIdea": "小刚想表达两款手机在设计上非常接近。",
+          "sentenceWithBlank": "The designs of these two phones are @ @.",
+          "fullEnglishSentence": "The designs of these two phones are 「very similar」.",
+          "chineseTranslation": "这两款手机的设计「非常相似」。",
+          "chinglishFix": "典型中式英语：'This two phones look same.' 纠正：'The designs of these two phones are very similar.'"
+        },
+        {
+          "scene": "小丽在咖啡店比较两杯咖啡的味道，觉得它们的口感几乎没有差别。",
+          "chineseIdea": "小丽想说明两杯咖啡的味道几乎一样。",
+          "sentenceWithBlank": "The flavors of these two coffees are @ @.",
+          "fullEnglishSentence": "The flavors of these two coffees are 「almost similar」.",
+          "chineseTranslation": "这两杯咖啡的味道「几乎相同」。",
+          "chinglishFix": "典型中式英语：'Two coffees taste same.' 纠正：'The flavors of these two coffees are almost similar.'"
+        }
+      ]
+    }
+  ]
+}
+```

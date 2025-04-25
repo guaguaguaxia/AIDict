@@ -1,0 +1,53 @@
+```json
+{
+  "word": "transform",
+  "definitions": [
+    {
+      "meaning": "彻底改变某事物的形式、外观或性质",
+      "usage": "指通过显著的改变使某事物在外观、结构或本质上发生根本性变化，常用于描述物理、抽象或系统的改变。",
+      "collocations": ["transform into", "transform the way", "transform through"],
+      "examples": [
+        {
+          "scene": "一位年轻的设计师在一家传统服装公司工作，她希望通过引入大胆的色彩和现代剪裁来改变品牌的形象。",
+          "chineseIdea": "她想让品牌从老旧的风格变成时尚前卫的形象，吸引年轻消费者。",
+          "sentenceWithBlank": "Her innovative designs helped @ @ a modern fashion icon.",
+          "fullEnglishSentence": "Her innovative designs helped 「transform into」 a modern fashion icon.",
+          "chineseTranslation": "她的创新设计帮助品牌「转变为」一个现代时尚偶像。",
+          "chinglishFix": "典型中式英语：'Her designs changed the brand to a fashion icon.' 纠正：'Her designs transformed the brand into a fashion icon.'（使用'transform into'更能表达彻底转变的含义，且搭配更自然。）"
+        },
+        {
+          "scene": "一家科技公司在开发一款新软件，希望改变用户与设备互动的方式，提升用户体验。",
+          "chineseIdea": "公司希望通过新软件让用户操作设备的方式变得更直观、更高效。",
+          "sentenceWithBlank": "The new software will @ @ @ people interact with their devices.",
+          "fullEnglishSentence": "The new software will 「transform the way」 people interact with their devices.",
+          "chineseTranslation": "新软件将「改变人们与设备互动的方式」。",
+          "chinglishFix": "典型中式英语：'The software changes how people use devices.' 纠正：'The software transforms the way people interact with their devices.'（'transform the way'更强调方式的根本改变，且更符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在数学或技术中将数据、图形等从一种形式转换为另一种形式",
+      "usage": "常用于数学、计算机科学或工程领域，描述将某一组数据、图形或函数通过特定规则转换为另一种形式的过程。",
+      "collocations": ["transform data", "transform coordinates", "transform using"],
+      "examples": [
+        {
+          "scene": "一位数据分析师在处理大规模数据集时，需要将原始数据转换为更适合可视化的格式。",
+          "chineseIdea": "分析师希望通过转换让数据更容易被理解和展示。",
+          "sentenceWithBlank": "She used a Python script to @ @ for better visualization.",
+          "fullEnglishSentence": "She used a Python script to 「transform data」 for better visualization.",
+          "chineseTranslation": "她使用Python脚本「转换数据」以实现更好的可视化。",
+          "chinglishFix": "典型中式英语：'She changed data for visualization.' 纠正：'She transformed data for better visualization.'（'transform data'是专业术语，强调技术性转换。）"
+        },
+        {
+          "scene": "一位工程师在设计3D模型时，需要将坐标系从笛卡尔坐标转换为极坐标以简化计算。",
+          "chineseIdea": "工程师希望通过转换坐标系让计算过程更高效。",
+          "sentenceWithBlank": "The software can @ @ to simplify calculations.",
+          "fullEnglishSentence": "The software can 「transform coordinates」 to simplify calculations.",
+          "chineseTranslation": "该软件可以「转换坐标」以简化计算。",
+          "chinglishFix": "典型中式英语：'The software changes coordinates.' 纠正：'The software transforms coordinates to simplify calculations.'（'transform coordinates'是数学领域的固定搭配。）"
+        }
+      ]
+    }
+  ]
+}
+```

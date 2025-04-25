@@ -1,0 +1,53 @@
+```json
+{
+  "word": "subsidize",
+  "definitions": [
+    {
+      "meaning": "为某事物提供财政支持，通常由政府或机构支付部分费用以降低成本或鼓励某项活动",
+      "usage": "常用于描述政府、企业或组织通过资助来支持特定行业、服务或群体，通常涉及经济或社会政策。",
+      "collocations": ["subsidize public transport", "subsidize healthcare", "subsidize education", "subsidize farmers"],
+      "examples": [
+        {
+          "scene": "在中国的一个大城市，政府为了鼓励市民使用环保的交通方式，决定对公交和地铁票价进行补贴，让更多人选择公共交通而不是私家车。",
+          "chineseIdea": "政府通过降低公交地铁的票价来吸引更多市民使用这些服务，从而减少交通拥堵和空气污染。",
+          "sentenceWithBlank": "The government decided to @ @ @ to make buses and subways more affordable for citizens.",
+          "fullEnglishSentence": "The government decided to 「subsidize public transport」 to make buses and subways more affordable for citizens.",
+          "chineseTranslation": "政府决定「补贴公共交通」，使公交车和地铁对市民来说更便宜。",
+          "chinglishFix": "典型中式英语：'The government give money to public transport.' 纠正：'The government subsidizes public transport.'（应使用'subsidize'表示资助，而非模糊的'give money'。）"
+        },
+        {
+          "scene": "在一个农业大省，政府为了支持本地农民，决定对种植特定作物的农民提供财政援助，以应对市场价格波动。",
+          "chineseIdea": "通过资助农民，政府希望稳定农业生产，确保粮食安全并提高农民的收入。",
+          "sentenceWithBlank": "To support local agriculture, the province chose to @ @ to help them cope with low market prices.",
+          "fullEnglishSentence": "To support local agriculture, the province chose to 「subsidize farmers」 to help them cope with low market prices.",
+          "chineseTranslation": "为了支持本地农业，该省选择「补贴农民」，帮助他们应对低市场价格。",
+          "chinglishFix": "典型中式英语：'The government pay farmers to plant crops.' 纠正：'The government subsidizes farmers to plant crops.'（'pay'显得过于直接，'subsidize'更准确地表达政府资助的含义。）"
+        }
+      ]
+    },
+    {
+      "meaning": "为某人或某组织的活动提供资金支持，通常是为了帮助其维持运营或实现目标",
+      "usage": "常用于描述个人、组织或企业为某个项目、活动或个人提供经济援助，通常带有支持或促进的意图。",
+      "collocations": ["subsidize a project", "subsidize research", "subsidize a startup"],
+      "examples": [
+        {
+          "scene": "在一所大学里，学校为了支持一个关于可再生能源的研究项目，决定为研究团队提供额外的资金，以覆盖设备和人员的费用。",
+          "chineseIdea": "学校希望通过资助研究项目，鼓励创新并推动绿色能源技术的发展。",
+          "sentenceWithBlank": "The university agreed to @ @ @ to cover the costs of equipment and staff.",
+          "fullEnglishSentence": "The university agreed to 「subsidize a project」 to cover the costs of equipment and staff.",
+          "chineseTranslation": "大学同意「补贴一个项目」，以覆盖设备和员工的费用。",
+          "chinglishFix": "典型中式英语：'The university give money to the project.' 纠正：'The university subsidizes the project.'（'give money'过于笼统，'subsidize'更精确地表达资助行为。）"
+        },
+        {
+          "scene": "在创业孵化器中，一家大型科技公司决定为一家有潜力的初创公司提供资金，帮助其开发新产品并进入市场。",
+          "chineseIdea": "通过资助初创公司，大公司希望培育创新并可能从中获得未来的合作机会。",
+          "sentenceWithBlank": "The tech giant offered to @ @ @ to help it develop its innovative product.",
+          "fullEnglishSentence": "The tech giant offered to 「subsidize a startup」 to help it develop its innovative product.",
+          "chineseTranslation": "这家科技巨头提出「补贴一家初创公司」，以帮助其开发创新产品。",
+          "chinglishFix": "典型中式英语：'The company support the startup with money.' 纠正：'The company subsidizes the startup.'（'support with money'不够正式，'subsidize'更贴合资助的含义。）"
+        }
+      ]
+    }
+  ]
+}
+```

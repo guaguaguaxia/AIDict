@@ -1,0 +1,53 @@
+```json
+{
+  "word": "sophisticated",
+  "definitions": [
+    {
+      "meaning": "复杂的；精密的",
+      "usage": "形容事物（通常是技术、系统或设备）具有高度复杂性或先进性，通常涉及尖端技术或设计。",
+      "collocations": ["sophisticated technology", "sophisticated system", "sophisticated design"],
+      "examples": [
+        {
+          "scene": "在一场科技展会上，一家公司在展示他们的最新人工智能产品。这款产品能够通过复杂的算法分析用户行为，并提供个性化的建议。",
+          "chineseIdea": "描述一种非常先进的技术，能够处理大量数据并以智能的方式运行。",
+          "sentenceWithBlank": "The company showcased a product powered by @ @, which amazed the audience with its capabilities.",
+          "fullEnglishSentence": "The company showcased a product powered by 「sophisticated technology」, which amazed the audience with its capabilities.",
+          "chineseTranslation": "该公司展示了一款由「精密技术」驱动的产品，其功能令观众惊叹。",
+          "chinglishFix": "典型中式英语：'The technology is very high.' 纠正：'The technology is highly advanced and sophisticated.'"
+        },
+        {
+          "scene": "一家汽车制造公司在发布会上介绍他们的新款电动车，强调其自动驾驶功能依赖于一个复杂的控制系统。",
+          "chineseIdea": "描述一个高度复杂的系统，能够无缝协调多个功能以提升用户体验。",
+          "sentenceWithBlank": "The new electric car features a @ @ that enables fully autonomous driving.",
+          "fullEnglishSentence": "The new electric car features a 「sophisticated system」 that enables fully autonomous driving.",
+          "chineseTranslation": "这款新型电动车配备了一个「复杂系统」，能够实现完全自动驾驶。",
+          "chinglishFix": "典型中式英语：'The system is very strong.' 纠正：'The system is highly sophisticated and efficient.'"
+        }
+      ]
+    },
+    {
+      "meaning": "世故的；老练的",
+      "usage": "形容人或其行为、品味、举止显得见多识广、优雅或精于世故，通常带有一种成熟或高雅的气质。",
+      "collocations": ["sophisticated taste", "sophisticated manner", "sophisticated audience"],
+      "examples": [
+        {
+          "scene": "在一场高端艺术品拍卖会上，一位买家以其对艺术的深刻理解和独特的品味吸引了众人的注意。",
+          "chineseIdea": "描述一个人在艺术或文化方面有高雅的品味，展现出见多识广的特质。",
+          "sentenceWithBlank": "Her @ @ in art impressed everyone at the auction.",
+          "fullEnglishSentence": "Her 「sophisticated taste」 in art impressed everyone at the auction.",
+          "chineseTranslation": "她在艺术方面的「高雅品味」给拍卖会上的每个人留下了深刻印象。",
+          "chinglishFix": "典型中式英语：'Her taste is very high.' 纠正：'She has a refined and sophisticated taste.'"
+        },
+        {
+          "scene": "在一场国际商务晚宴上，一位年轻的企业家以其从容的举止和流利的多语言交流能力赢得了客户的尊重。",
+          "chineseIdea": "描述一个人在社交场合中表现得非常老练，举止优雅且得体。",
+          "sentenceWithBlank": "He handled the conversation with a @ @ that charmed all the guests.",
+          "fullEnglishSentence": "He handled the conversation with a 「sophisticated manner」 that charmed all the guests.",
+          "chineseTranslation": "他以一种「老练的举止」应对交谈，迷住了所有宾客。",
+          "chinglishFix": "典型中式英语：'His manner is very good.' 纠正：'He conducted himself with a sophisticated and graceful manner.'"
+        }
+      ]
+    }
+  ]
+}
+```
