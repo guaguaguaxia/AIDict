@@ -1,0 +1,53 @@
+```json
+{
+  "word": "penalty",
+  "definitions": [
+    {
+      "meaning": "惩罚，处罚（通常指法律、规则或比赛中的正式惩罚）",
+      "usage": "指因违反法律、规则或协议而受到的惩罚，可能包括罚款、监禁或比赛中的点球等。常用于法律、体育或正式场合。",
+      "collocations": ["pay a penalty", "impose a penalty", "face a penalty"],
+      "examples": [
+        {
+          "scene": "在一个公司中，员工小李因为多次迟到，违反了公司的考勤规定。公司决定对他进行经济处罚。",
+          "chineseIdea": "小李需要为自己的行为承担后果，公司通过扣除部分工资来警告他遵守规则。",
+          "sentenceWithBlank": "Due to his repeated tardiness, Li was required to @ @ @.",
+          "fullEnglishSentence": "Due to his repeated tardiness, Li was required to 「pay a penalty」.",
+          "chineseTranslation": "由于他多次迟到，小李被要求「支付罚款」。",
+          "chinglishFix": "典型中式英语：'He must pay a punish.' 纠正：'Pay a punish' 不正确，英语中用 'pay a penalty' 或 'pay a fine' 表示支付罚款。"
+        },
+        {
+          "scene": "在一场足球比赛中，一名球员在禁区内犯规，裁判判罚点球，对方球队获得了一次得分机会。",
+          "chineseIdea": "裁判通过判罚点球来惩罚犯规行为，同时给对方球队一个公平的机会。",
+          "sentenceWithBlank": "After the foul in the penalty area, the referee decided to @ @ @ on the offending team.",
+          "fullEnglishSentence": "After the foul in the penalty area, the referee decided to 「impose a penalty」 on the offending team.",
+          "chineseTranslation": "在禁区内犯规后，裁判决定对犯规球队「施加点球」。",
+          "chinglishFix": "典型中式英语：'The referee gives a penalty kick.' 纠正：'Give a penalty kick' 不够正式，正确表达是 'impose a penalty' 或 'award a penalty kick'。"
+        }
+      ]
+    },
+    {
+      "meaning": "不利后果，代价（指因某种行为或选择导致的负面结果）",
+      "usage": "指因某种行为、决定或情况而付出的代价，通常是抽象的，如时间、机会或情感上的损失。常用于描述因错误决定或行为导致的不良结果。",
+      "collocations": ["suffer a penalty", "incur a penalty", "avoid a penalty"],
+      "examples": [
+        {
+          "scene": "小张为了赶项目进度，选择熬夜加班，最终导致身体疲惫，工作效率下降。",
+          "chineseIdea": "小张为了短期目标牺牲了健康，这让他付出了更大的代价。",
+          "sentenceWithBlank": "By working late nights, Zhang had to @ @ @ in terms of his health.",
+          "fullEnglishSentence": "By working late nights, Zhang had to 「suffer a penalty」 in terms of his health.",
+          "chineseTranslation": "通过熬夜工作，小张在健康方面不得不「承受代价」。",
+          "chinglishFix": "典型中式英语：'He paid a price for his health.' 纠正：'Pay a price' 虽可行，但 'suffer a penalty' 更强调因行为导致的负面后果。"
+        },
+        {
+          "scene": "一家公司为了快速推出新产品，忽略了市场调研，结果产品不受欢迎，损失了大量资金。",
+          "chineseIdea": "公司急于求成，忽视了准备工作，最终导致了经济上的重大损失。",
+          "sentenceWithBlank": "By rushing the product launch, the company @ @ @ due to poor market reception.",
+          "fullEnglishSentence": "By rushing the product launch, the company 「incurred a penalty」 due to poor market reception.",
+          "chineseTranslation": "由于匆忙推出产品，公司因市场反应不佳而「招致损失」。",
+          "chinglishFix": "典型中式英语：'The company got a penalty.' 纠正：'Get a penalty' 不适用于此语境，'incur a penalty' 更准确，表示因行为导致的后果。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "preference",
+  "definitions": [
+    {
+      "meaning": "更喜欢某事物或倾向于选择某事物而非其他",
+      "usage": "指对某人、某事或某物的喜爱或优先选择，通常用于表达个人倾向或偏好，常与介词for搭配。",
+      "collocations": ["have a preference for", "show a preference for", "express a preference for"],
+      "examples": [
+        {
+          "scene": "在一家咖啡店里，你和朋友正在点单。朋友问你更喜欢喝哪种咖啡，你想表达自己更偏向于拿铁。",
+          "chineseIdea": "我想说我更喜欢拿铁，而不是美式咖啡，因为拿铁口感更柔和。",
+          "sentenceWithBlank": "When it comes to coffee, I usually @ @ @ lattes over Americanos.",
+          "fullEnglishSentence": "When it comes to coffee, I usually 「have a preference for」 lattes over Americanos.",
+          "chineseTranslation": "说到咖啡，我通常「更喜欢」拿铁而不是美式咖啡。",
+          "chinglishFix": "中式英语：I more like latte. 纠正：I have a preference for lattes or I prefer lattes."
+        },
+        {
+          "scene": "在公司会议中，经理询问团队成员对新项目的工作方式有什么倾向。你想表达更倾向于远程工作。",
+          "chineseIdea": "我想说相比办公室工作，我更倾向于远程工作，因为它更灵活。",
+          "sentenceWithBlank": "Given the choice, I would @ @ @ remote work due to its flexibility.",
+          "fullEnglishSentence": "Given the choice, I would 「show a preference for」 remote work due to its flexibility.",
+          "chineseTranslation": "如果可以选择，我会「更倾向于」远程工作，因为它更灵活。",
+          "chinglishFix": "中式英语：I want remote work better. 纠正：I show a preference for remote work or I prefer remote work."
+        }
+      ]
+    },
+    {
+      "meaning": "优先权或优待",
+      "usage": "指在某些情况下给予某人或某事优先考虑或特殊待遇，常用于正式或法律语境，与介词to搭配。",
+      "collocations": ["give preference to", "receive preference over", "grant preference to"],
+      "examples": [
+        {
+          "scene": "在机场办理登机手续时，你注意到航空公司优先为头等舱乘客办理手续。",
+          "chineseIdea": "我想表达航空公司优先为头等舱乘客办理登机手续，而不是经济舱乘客。",
+          "sentenceWithBlank": "The airline tends to @ @ @ first-class passengers during check-in.",
+          "fullEnglishSentence": "The airline tends to 「give preference to」 first-class passengers during check-in.",
+          "chineseTranslation": "航空公司在办理登机手续时往往「优先考虑」头等舱乘客。",
+          "chinglishFix": "中式英语：Airline let first-class passengers first. 纠正：The airline gives preference to first-class passengers."
+        },
+        {
+          "scene": "在大学招生过程中，招生官讨论是否优先录取本地学生。你想表达本地学生可能会被优先录取。",
+          "chineseIdea": "我想说相比外地学生，本地学生可能会被优先考虑。",
+          "sentenceWithBlank": "Local students often @ @ @ out-of-state applicants in the admission process.",
+          "fullEnglishSentence": "Local students often 「receive preference over」 out-of-state applicants in the admission process.",
+          "chineseTranslation": "在招生过程中，本地学生通常「优先于」外州申请者。",
+          "chinglishFix": "中式英语：Local students have more priority. 纠正：Local students receive preference over others."
+        }
+      ]
+    }
+  ]
+}
+```

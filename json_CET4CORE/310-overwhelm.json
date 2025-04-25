@@ -1,0 +1,76 @@
+```json
+{
+  "word": "overwhelm",
+  "definitions": [
+    {
+      "meaning": "使不知所措；压倒",
+      "usage": "指由于情感、任务或信息的数量或强度过大而感到无法应对，通常带有强烈的心理或情绪压力。",
+      "collocations": ["be overwhelmed by", "feel overwhelmed with", "overwhelm with"],
+      "examples": [
+        {
+          "scene": "一个大学生小李在期末考试周面临多门课程的复习任务，同时还要准备一场重要的社团演讲。他感到压力巨大，无法同时处理所有事情。",
+          "chineseIdea": "小李被堆积如山的任务压得喘不过气，觉得自己完全无法应对。",
+          "sentenceWithBlank": "The student @ @ the sheer volume of assignments and responsibilities.",
+          "fullEnglishSentence": "The student 「was overwhelmed by」 the sheer volume of assignments and responsibilities.",
+          "chineseTranslation": "这个学生「被」作业和责任的巨大数量「压倒了」。",
+          "chinglishFix": "典型中式英语：'He is too much work to handle.' 纠正：'He is overwhelmed by the amount of work.'"
+        },
+        {
+          "scene": "一位新手妈妈小王在照顾新生儿的同时，还要处理家务和工作邮件。她感到精疲力尽，无法平衡所有事务。",
+          "chineseIdea": "小王觉得自己被各种责任淹没，内心充满无助感。",
+          "sentenceWithBlank": "The new mother @ @ the demands of childcare and work.",
+          "fullEnglishSentence": "The new mother 「felt overwhelmed with」 the demands of childcare and work.",
+          "chineseTranslation": "这位新妈妈「感到被」育儿和工作需求「压倒了」。",
+          "chinglishFix": "典型中式英语：'She has too many things to do.' 纠正：'She feels overwhelmed with all her responsibilities.'"
+        }
+      ]
+    },
+    {
+      "meaning": "（情感）使充满；使深受感动",
+      "usage": "指某种强烈的情感（如爱、悲伤、感恩等）涌上心头，使人感到被情感完全占据。",
+      "collocations": ["overwhelm with emotion", "overwhelm with gratitude", "overwhelm with joy"],
+      "examples": [
+        {
+          "scene": "在一场婚礼上，新娘小张听到新郎的感人誓词，泪水止不住地流下来，内心充满了幸福和感动。",
+          "chineseIdea": "小张被新郎的话深深打动，幸福感让她几乎无法言语。",
+          "sentenceWithBlank": "The bride @ @ @ during the groom’s heartfelt speech.",
+          "fullEnglishSentence": "The bride 「was overwhelmed with emotion」 during the groom’s heartfelt speech.",
+          "chineseTranslation": "新娘在听到新郎真挚的演讲时「被情感淹没了」。",
+          "chinglishFix": "典型中式英语：'She is very moved.' 纠正：'She was overwhelmed with emotion.'"
+        },
+        {
+          "scene": "一位志愿者小陈在帮助贫困儿童后，收到孩子们亲手写的感谢信，信中的真诚让他感动得几乎落泪。",
+          "chineseIdea": "小陈被孩子们的感恩之心深深触动，内心充满了温暖。",
+          "sentenceWithBlank": "The volunteer @ @ @ after reading the children’s thank-you letters.",
+          "fullEnglishSentence": "The volunteer 「was overwhelmed with gratitude」 after reading the children’s thank-you letters.",
+          "chineseTranslation": "志愿者在读完孩子们的感谢信后「被感恩之情淹没了」。",
+          "chinglishFix": "典型中式英语：'He feels very thankful.' 纠正：'He was overwhelmed with gratitude.'"
+        }
+      ]
+    },
+    {
+      "meaning": "击败；征服",
+      "usage": "指在竞争、战斗或对抗中以压倒性优势击败对手，通常用于描述军事或体育场景。",
+      "collocations": ["overwhelm the enemy", "overwhelm the opponent", "overwhelm in battle"],
+      "examples": [
+        {
+          "scene": "在一场足球比赛中，主队凭借强大的进攻和防守，在上半场就以4:0的比分领先客队，让对手毫无还手之力。",
+          "chineseIdea": "主队以绝对优势压制了客队，展现了无可匹敌的实力。",
+          "sentenceWithBlank": "The home team @ @ @ with their aggressive tactics.",
+          "fullEnglishSentence": "The home team 「overwhelmed the opponent」 with their aggressive tactics.",
+          "chineseTranslation": "主队凭借激进的战术「压倒了对手」。",
+          "chinglishFix": "典型中式英语：'They win the opponent easily.' 纠正：'They overwhelmed the opponent.'"
+        },
+        {
+          "scene": "在一场历史战役中，一支装备精良的军队利用人数优势和先进武器，迅速击败了敌方部队。",
+          "chineseIdea": "这支军队以压倒性的力量击溃了敌人，取得了决定性胜利。",
+          "sentenceWithBlank": "The army @ @ @ with superior firepower.",
+          "fullEnglishSentence": "The army 「overwhelmed the enemy」 with superior firepower.",
+          "chineseTranslation": "这支军队凭借强大的火力「压倒了敌人」。",
+          "chinglishFix": "典型中式英语：'They beat the enemy very strong.' 纠正：'They overwhelmed the enemy.'"
+        }
+      ]
+    }
+  ]
+}
+```

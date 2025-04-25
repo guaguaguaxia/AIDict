@@ -1,0 +1,53 @@
+```json
+{
+  "word": "previously",
+  "definitions": [
+    {
+      "meaning": "在之前的时间，早先",
+      "usage": "用作副词，表示某事发生在过去某个时间点或某事件之前，通常用于描述时间顺序或状态的改变。",
+      "collocations": ["previously mentioned", "previously known", "previously reported"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，主持人正在介绍一项研究的背景，提到之前已经讨论过的一些内容。",
+          "chineseIdea": "想表达某些内容在之前的讨论中已经被提及，以提醒听众这是已知信息。",
+          "sentenceWithBlank": "As @ @ in the introduction, the study focuses on renewable energy.",
+          "fullEnglishSentence": "As 「previously mentioned」 in the introduction, the study focuses on renewable energy.",
+          "chineseTranslation": "正如引言中「之前提到的」，这项研究聚焦于可再生能源。",
+          "chinglishFix": "典型中式英语：'Before mentioned in the introduction...' 纠正：使用 'previously mentioned'，因为 'before' 通常不用作副词修饰过去的事件，而 'previously' 是更自然的表达。"
+        },
+        {
+          "scene": "在一份公司报告中，作者提到一些已经公开的数据，以支持当前的分析。",
+          "chineseIdea": "想说明某些信息在过去已被知晓，以强调其可靠性和背景。",
+          "sentenceWithBlank": "The issue was @ @ in last year’s annual report.",
+          "fullEnglishSentence": "The issue was 「previously known」 in last year’s annual report.",
+          "chineseTranslation": "这个问题在去年的年度报告中「早已知晓」。",
+          "chinglishFix": "典型中式英语：'Already known before...' 纠正：使用 'previously known'，因为 'already' 更强调当前状态，而 'previously' 更适合描述过去的时间点。"
+        }
+      ]
+    },
+    {
+      "meaning": "先前，以前的身份或状态",
+      "usage": "用作副词，描述某人在过去的时间里所处的身份、状态或角色，通常用于对比现在的情况。",
+      "collocations": ["previously held", "previously worked", "previously served"],
+      "examples": [
+        {
+          "scene": "在一次求职面试中，面试官询问候选人过去的职业经历，候选人提到自己曾经担任过某个职位。",
+          "chineseIdea": "想说明自己过去担任过某个重要角色，以展示相关经验。",
+          "sentenceWithBlank": "I @ @ the position of marketing manager at a startup.",
+          "fullEnglishSentence": "I 「previously held」 the position of marketing manager at a startup.",
+          "chineseTranslation": "我「之前担任过」一家初创公司的市场经理职位。",
+          "chinglishFix": "典型中式英语：'I before held the position...' 纠正：使用 'previously held'，因为 'before' 不适合直接修饰动词，而 'previously' 是更地道的副词用法。"
+        },
+        {
+          "scene": "在一场校友聚会上，某人介绍一位朋友时提到他过去的工作经历，以说明他的职业转变。",
+          "chineseIdea": "想表达某人过去曾在某个领域工作，以突出其多样化的职业背景。",
+          "sentenceWithBlank": "She @ @ as a software engineer before becoming a teacher.",
+          "fullEnglishSentence": "She 「previously worked」 as a software engineer before becoming a teacher.",
+          "chineseTranslation": "她在成为教师之前「之前工作过」软件工程师。",
+          "chinglishFix": "典型中式英语：'She worked before as a software engineer...' 纠正：使用 'previously worked'，因为 'before' 放在句中显得不自然，而 'previously' 更符合英语的习惯表达。"
+        }
+      ]
+    }
+  ]
+}
+```
