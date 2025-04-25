@@ -1,0 +1,53 @@
+```json
+{
+  "word": "advice",
+  "definitions": [
+    {
+      "meaning": "意见或建议，通常是为了帮助某人做出决定或解决问题",
+      "usage": "作为不可数名词，用于提供指导或推荐的看法，常用于正式或非正式场合，搭配动词如give, offer, seek, follow等",
+      "collocations": ["give advice", "seek advice", "follow advice"],
+      "examples": [
+        {
+          "scene": "一位大学生在选择职业方向时感到迷茫，向导师咨询。",
+          "chineseIdea": "学生希望得到关于未来职业选择的指导。",
+          "sentenceWithBlank": "My professor @ @ on how to choose a career path.",
+          "fullEnglishSentence": "My professor 「gave advice」 on how to choose a career path.",
+          "chineseTranslation": "我的教授「提供了建议」，关于如何选择职业道路。",
+          "chinglishFix": "典型中式英语：'My professor give me some suggest.' 纠正：'My professor gave me some advice.'（注意：suggest是动词，suggestion是可数名词，而advice是不可数名词，且give advice是固定搭配。）"
+        },
+        {
+          "scene": "朋友之间讨论如何改善英语口语水平。",
+          "chineseIdea": "一个人想知道如何提升口语能力，另一个朋友提出建议。",
+          "sentenceWithBlank": "You should @ @ from a native speaker to improve your pronunciation.",
+          "fullEnglishSentence": "You should 「seek advice」 from a native speaker to improve your pronunciation.",
+          "chineseTranslation": "你应该向母语者「寻求建议」来提高你的发音。",
+          "chinglishFix": "典型中式英语：'You should ask a native speaker for suggestion.' 纠正：'You should seek advice from a native speaker.'（注意：ask for suggestion不如seek advice地道，且advice更常用于此语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "正式通知或建议，通常在商业或法律场景中使用",
+      "usage": "作为不可数名词，指书面或正式的指导或信息，常用于商业、法律或技术领域，搭配如receive, provide等",
+      "collocations": ["receive advice", "provide advice", "act on advice"],
+      "examples": [
+        {
+          "scene": "一家公司在收到律师关于合同条款的正式建议后，决定修改合同。",
+          "chineseIdea": "公司需要专业意见来确保合同符合法律要求。",
+          "sentenceWithBlank": "We @ @ from our lawyer regarding the contract terms.",
+          "fullEnglishSentence": "We 「received advice」 from our lawyer regarding the contract terms.",
+          "chineseTranslation": "我们从律师那里「收到了建议」，关于合同条款。",
+          "chinglishFix": "典型中式英语：'We got some suggestions from our lawyer.' 纠正：'We received advice from our lawyer.'（注意：suggestions是可数名词，且在此语境中receive advice更正式、更恰当。）"
+        },
+        {
+          "scene": "一位客户在咨询财务顾问后，决定调整投资组合。",
+          "chineseIdea": "客户希望根据专业建议优化投资策略。",
+          "sentenceWithBlank": "The financial advisor @ @ to help optimize my portfolio.",
+          "fullEnglishSentence": "The financial advisor 「provided advice」 to help optimize my portfolio.",
+          "chineseTranslation": "财务顾问「提供了建议」来帮助优化我的投资组合。",
+          "chinglishFix": "典型中式英语：'The advisor give me some ideas.' 纠正：'The advisor provided advice.'（注意：ideas不够正式，且provide advice是更自然的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

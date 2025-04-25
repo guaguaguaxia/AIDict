@@ -1,0 +1,53 @@
+```json
+{
+  "word": "accumulate",
+  "definitions": [
+    {
+      "meaning": "逐渐聚集或增加（物质、财富等）",
+      "usage": "指随着时间推移，物质、财富或数量的逐渐增加，通常用于描述有形的积累，如金钱、物品或资源。",
+      "collocations": ["accumulate wealth", "accumulate dust", "accumulate experience"],
+      "examples": [
+        {
+          "scene": "一个年轻人在职业生涯早期努力工作，希望通过储蓄和投资来实现财务自由。他每个月都会存下一部分工资，并投资于股票和基金。",
+          "chineseIdea": "通过持续的努力和储蓄，年轻人希望自己的财富能够逐渐增长，最终实现经济独立。",
+          "sentenceWithBlank": "Over the years, he managed to @ @ through consistent saving and smart investments.",
+          "fullEnglishSentence": "Over the years, he managed to 「accumulate wealth」 through consistent saving and smart investments.",
+          "chineseTranslation": "多年来，他通过持续储蓄和明智投资设法「积累了财富」。",
+          "chinglishFix": "典型中式英语：He saved money to 'add wealth'. 纠正：'Accumulate wealth' is more natural, as it conveys gradual growth over time."
+        },
+        {
+          "scene": "一个老旧的图书馆角落里，书架上堆满了多年未被清理的书籍，书本上覆盖着一层厚厚的灰尘。",
+          "chineseIdea": "由于长时间无人打扫，灰尘在物体表面慢慢堆积，形成一层明显的覆盖物。",
+          "sentenceWithBlank": "The books in the corner of the library had begun to @ @ due to years of neglect.",
+          "fullEnglishSentence": "The books in the corner of the library had begun to 「accumulate dust」 due to years of neglect.",
+          "chineseTranslation": "图书馆角落的书由于多年无人打理，已经开始「积满灰尘」。",
+          "chinglishFix": "典型中式英语：The books 'gathered dust'. 纠正：'Accumulate dust' is more precise for describing the gradual buildup of dust."
+        }
+      ]
+    },
+    {
+      "meaning": "积累（抽象事物，如知识、经验等）",
+      "usage": "指通过学习、实践或经历逐渐获得无形的素质或能力，如知识、技能或经验，常用于描述个人成长或职业发展。",
+      "collocations": ["accumulate knowledge", "accumulate skills", "accumulate experience"],
+      "examples": [
+        {
+          "scene": "一位软件工程师在多个项目中工作，参与了从前端到后端的开发任务，逐渐成为团队中的技术骨干。",
+          "chineseIdea": "通过参与不同的项目，工程师不断学习新技术，积累了丰富的专业经验。",
+          "sentenceWithBlank": "By working on diverse projects, she was able to @ @ that made her a valuable team member.",
+          "fullEnglishSentence": "By working on diverse projects, she was able to 「accumulate experience」 that made her a valuable team member.",
+          "chineseTranslation": "通过参与多样化的项目，她能够「积累经验」，这使她成为团队中宝贵的成员。",
+          "chinglishFix": "典型中式英语：She 'got experience' from projects. 纠正：'Accumulate experience' emphasizes the gradual and continuous process."
+        },
+        {
+          "scene": "一个大学生在暑期实习期间，每天阅读行业报告并与导师讨论，逐渐对市场分析有了深入的了解。",
+          "chineseIdea": "通过阅读和讨论，学生逐渐掌握了关于某个领域的系统性知识。",
+          "sentenceWithBlank": "During her internship, she worked hard to @ @ by reading reports and discussing with her mentor.",
+          "fullEnglishSentence": "During her internship, she worked hard to 「accumulate knowledge」 by reading reports and discussing with her mentor.",
+          "chineseTranslation": "在实习期间，她通过阅读报告和与导师讨论，努力「积累知识」。",
+          "chinglishFix": "典型中式英语：She 'learned knowledge' during internship. 纠正：'Accumulate knowledge' is more idiomatic for describing the process of gradual learning."
+        }
+      ]
+    }
+  ]
+}
+```

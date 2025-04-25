@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ambitious",
+  "definitions": [
+    {
+      "meaning": "有雄心的，渴望成功的",
+      "usage": "描述一个人对成功、成就或目标有强烈的渴望，通常伴随着努力和计划",
+      "collocations": ["pursue a goal", "set high standards", "achieve success"],
+      "examples": [
+        {
+          "scene": "一个年轻人在公司年会上向同事分享自己的职业规划，表达对未来发展的渴望。",
+          "chineseIdea": "他想表达自己有清晰的目标，并且愿意为之努力奋斗。",
+          "sentenceWithBlank": "She’s determined to @ @ @ in her career, no matter the challenges.",
+          "fullEnglishSentence": "She’s determined to 「pursue a goal」 in her career, no matter the challenges.",
+          "chineseTranslation": "她决心在职业生涯中「追求目标」，无论遇到什么挑战。",
+          "chinglishFix": "典型中式英语：'She wants to chase her target.' 纠正：'Target' 在此语境中不如 'goal' 自然，'chase' 更常用于具体物体，而 'pursue' 更适合抽象目标。"
+        },
+        {
+          "scene": "一位学生在课堂上讨论自己希望进入顶尖大学，并为此制定了详细的学习计划。",
+          "chineseIdea": "他希望通过严格要求自己来实现梦想。",
+          "sentenceWithBlank": "He always @ @ @ for himself to get into a top university.",
+          "fullEnglishSentence": "He always 「sets high standards」 for himself to get into a top university.",
+          "chineseTranslation": "他总是为自己「设定高标准」，以进入顶尖大学。",
+          "chinglishFix": "典型中式英语：'He makes high rules for himself.' 纠正：'Rules' 不适合表达个人标准，'set high standards' 是更自然的搭配。"
+        }
+      ]
+    },
+    {
+      "meaning": "有野心的，规模宏大的",
+      "usage": "描述计划、项目或目标需要大量资源、时间或努力，带有一定的挑战性",
+      "collocations": ["launch a project", "undertake a venture", "implement a plan"],
+      "examples": [
+        {
+          "scene": "一家科技公司宣布开发一款全新的智能产品，需要大量资金和团队合作。",
+          "chineseIdea": "公司希望通过这个项目展示自己的创新能力。",
+          "sentenceWithBlank": "The company is ready to @ @ @ that could revolutionize the industry.",
+          "fullEnglishSentence": "The company is ready to 「launch a project」 that could revolutionize the industry.",
+          "chineseTranslation": "公司准备「启动一个项目」，这可能会彻底改变行业。",
+          "chinglishFix": "典型中式英语：'The company wants to start a big work.' 纠正：'Work' 过于笼统，'start' 不如 'launch' 正式，'launch a project' 是更专业的表达。"
+        },
+        {
+          "scene": "一个城市规划团队讨论建设一座现代化高铁站的提案。",
+          "chineseIdea": "他们希望这个计划能提升城市的交通和经济水平。",
+          "sentenceWithBlank": "The team proposed to @ @ @ to modernize the city’s infrastructure.",
+          "fullEnglishSentence": "The team proposed to 「implement a plan」 to modernize the city’s infrastructure.",
+          "chineseTranslation": "团队提议「实施一个计划」来现代化城市的基础设施。",
+          "chinglishFix": "典型中式英语：'The team wants to do a plan.' 纠正：'Do a plan' 不符合英语习惯，'implement a plan' 是更准确的表达。"
+        }
+      ]
+    }
+  ]
+}
+```
