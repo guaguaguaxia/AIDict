@@ -1,0 +1,76 @@
+```json
+{
+  "word": "peer",
+  "definitions": [
+    {
+      "meaning": "同龄人或地位相当的人",
+      "usage": "指与某人年龄、地位、能力或社会阶层相似的人，常用于描述朋友、同事或竞争对手之间的关系。",
+      "collocations": ["peer group", "peer pressure", "peer review"],
+      "examples": [
+        {
+          "scene": "在一个中学里，学生们正在讨论周末的计划。每个人都想融入某个群体，受到朋友的影响。",
+          "chineseIdea": "青少年常常会受到周围朋友的影响，做出一些选择，比如穿什么衣服或听什么音乐。",
+          "sentenceWithBlank": "Teenagers often face @ @ when they try to fit in with their friends.",
+          "fullEnglishSentence": "Teenagers often face 「peer pressure」 when they try to fit in with their friends.",
+          "chineseTranslation": "青少年在试图融入朋友圈时，常常面临「同伴压力」。",
+          "chinglishFix": "典型中式英语：'Friends' pressure' 或 'pressure from same age people'。纠正：使用 'peer pressure'，这是一个固定搭配，表示来自同龄人的社会压力。"
+        },
+        {
+          "scene": "在一个大学社团中，成员们正在组织一场活动。他们希望活动能吸引更多同龄人参与。",
+          "chineseIdea": "社团希望吸引更多有相同兴趣的学生，形成一个紧密的群体。",
+          "sentenceWithBlank": "The club is planning an event to attract students from their @ @.",
+          "fullEnglishSentence": "The club is planning an event to attract students from their 「peer group」.",
+          "chineseTranslation": "这个社团正在计划一场活动，以吸引来自他们的「同龄群体」的学生。",
+          "chinglishFix": "典型中式英语：'same age group' 或 'friends group'。纠正：使用 'peer group'，指年龄或兴趣相似的群体。"
+        }
+      ]
+    },
+    {
+      "meaning": "仔细看或凝视",
+      "usage": "描述某人因为好奇、疑惑或难以看清而专注地注视某物，常用于描述动作或行为。",
+      "collocations": ["peer into", "peer through", "peer at"],
+      "examples": [
+        {
+          "scene": "在一个雾蒙蒙的清晨，一个人站在公交车站，试图看清远处的路牌。",
+          "chineseIdea": "因为雾气很重，这个人需要努力去看清楚远处的物体。",
+          "sentenceWithBlank": "She squinted and @ @ the foggy street to read the sign.",
+          "fullEnglishSentence": "She squinted and 「peered into」 the foggy street to read the sign.",
+          "chineseTranslation": "她眯着眼睛「凝视」着雾蒙蒙的街道，试图读路牌。",
+          "chinglishFix": "典型中式英语：'look hard into' 或 'stare into'。纠正：使用 'peer into'，表示因为难以看清而仔细注视。"
+        },
+        {
+          "scene": "在一个博物馆里，一个孩子站在展柜前，试图看清楚里面的古老文物。",
+          "chineseIdea": "孩子对展品很好奇，想更清楚地看到细节。",
+          "sentenceWithBlank": "The child @ @ the glass case to see the artifact more clearly.",
+          "fullEnglishSentence": "The child 「peered through」 the glass case to see the artifact more clearly.",
+          "chineseTranslation": "孩子「透过」玻璃展柜仔细看，想更清楚地看到文物。",
+          "chinglishFix": "典型中式英语：'look through glass' 或 'see through case'。纠正：使用 'peer through'，表示透过某物仔细观察。"
+        }
+      ]
+    },
+    {
+      "meaning": "贵族（尤指英国贵族）",
+      "usage": "指拥有贵族头衔的人，常见于英国的传统社会或历史语境，通常与政治或社会地位相关。",
+      "collocations": ["hereditary peer", "life peer", "peer of the realm"],
+      "examples": [
+        {
+          "scene": "在一个关于英国历史的课堂上，老师正在讲解上议院的组成。",
+          "chineseIdea": "上议院里有一些人因为家族传承而获得贵族身份，参与国家事务。",
+          "sentenceWithBlank": "The House of Lords includes many @ @ who inherit their titles.",
+          "fullEnglishSentence": "The House of Lords includes many 「hereditary peers」 who inherit their titles.",
+          "chineseTranslation": "上议院包括许多「世袭贵族」，他们继承了自己的头衔。",
+          "chinglishFix": "典型中式英语：'noble people' 或 'inherited noble'。纠正：使用 'hereditary peer'，特指英国世袭的贵族成员。"
+        },
+        {
+          "scene": "在一场关于现代英国政治的讨论中，有人提到一些人被授予贵族身份以表彰贡献。",
+          "chineseIdea": "一些对国家有重大贡献的人会被授予贵族头衔，参与政治。",
+          "sentenceWithBlank": "She was appointed a @ @ for her contributions to science.",
+          "fullEnglishSentence": "She was appointed a 「life peer」 for her contributions to science.",
+          "chineseTranslation": "她因对科学的贡献被任命为「终身贵族」。",
+          "chinglishFix": "典型中式英语：'noble for life' 或 'permanent noble'。纠正：使用 'life peer'，指非世袭的终身贵族身份。"
+        }
+      ]
+    }
+  ]
+}
+```

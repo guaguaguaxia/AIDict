@@ -1,0 +1,76 @@
+```json
+{
+  "word": "passive",
+  "definitions": [
+    {
+      "meaning": "被动的；消极的；不采取主动行动的",
+      "usage": "描述一个人、态度或行为缺乏主动性，倾向于接受或顺从而非主导或反抗。",
+      "collocations": ["passive attitude", "passive role", "passive resistance"],
+      "examples": [
+        {
+          "scene": "在公司会议中，张伟被要求分享他对新项目的看法，但他总是保持沉默，等待别人先发表意见。",
+          "chineseIdea": "张伟不想主动表达意见，觉得自己只需要听从领导的安排就好。",
+          "sentenceWithBlank": "His @ @ in meetings often frustrates his colleagues who expect more input.",
+          "fullEnglishSentence": "His 「passive attitude」 in meetings often frustrates his colleagues who expect more input.",
+          "chineseTranslation": "他在会议中的「被动态度」常常让期待他更多贡献的同事感到沮丧。",
+          "chinglishFix": "典型中式英语：'He is very passive in meetings.' 纠正：'He adopts a passive attitude in meetings.'（更具体地描述行为或态度）"
+        },
+        {
+          "scene": "在团队合作中，李娜被分配到一个小组，但她只完成别人分配给她的任务，从不主动提出建议或承担额外责任。",
+          "chineseIdea": "李娜觉得自己只要做好分内事就够了，不需要主动争取更多工作。",
+          "sentenceWithBlank": "She took a @ @ in the project, only doing what was assigned to her.",
+          "fullEnglishSentence": "She took a 「passive role」 in the project, only doing what was assigned to her.",
+          "chineseTranslation": "她在项目中扮演了「被动角色」，只完成分配给她的任务。",
+          "chinglishFix": "典型中式英语：'She is passive in the project.' 纠正：'She played a passive role in the project.'（使用更自然的搭配和语义）"
+        }
+      ]
+    },
+    {
+      "meaning": "被动的（语法术语）；被动语态",
+      "usage": "在英语语法中，指句子中主语是动作的接受者，而非执行者，通常由助动词be加上动词的过去分词构成。",
+      "collocations": ["passive voice", "passive construction", "passive form"],
+      "examples": [
+        {
+          "scene": "在英语课堂上，老师正在讲解如何将主动语态的句子改为被动语态，例如'The chef cooks the meal'改为'The meal is cooked by the chef'。",
+          "chineseIdea": "学生需要理解动作的接受者成为主语，突出动作本身而非执行者。",
+          "sentenceWithBlank": "The teacher explained how to use the @ @ in writing formal reports.",
+          "fullEnglishSentence": "The teacher explained how to use the 「passive voice」 in writing formal reports.",
+          "chineseTranslation": "老师讲解了如何在撰写正式报告时使用「被动语态」。",
+          "chinglishFix": "典型中式英语：'The teacher taught us passive sentence.' 纠正：'The teacher explained the use of the passive voice.'（更准确的术语和搭配）"
+        },
+        {
+          "scene": "在学术写作中，王明被要求修改他的论文，因为他过多使用了主动语态，而老师建议在某些部分使用被动语态以显得更客观。",
+          "chineseIdea": "王明需要让论文的语言更正式，强调研究过程而非研究者。",
+          "sentenceWithBlank": "The professor suggested using a @ @ to make the paper sound more objective.",
+          "fullEnglishSentence": "The professor suggested using a 「passive construction」 to make the paper sound more objective.",
+          "chineseTranslation": "教授建议使用「被动结构」使论文听起来更客观。",
+          "chinglishFix": "典型中式英语：'The professor said use passive.' 纠正：'The professor recommended using passive constructions.'（更自然的表达和术语）"
+        }
+      ]
+    },
+    {
+      "meaning": "被动的；不起化学反应的",
+      "usage": "在科学或技术语境中，指某物质在特定条件下不与其他物质发生化学反应。",
+      "collocations": ["passive metal", "passive layer", "passive cooling"],
+      "examples": [
+        {
+          "scene": "在化学实验室中，实验员选择使用不锈钢容器，因为它在酸性环境下不会轻易发生反应。",
+          "chineseIdea": "实验员需要确保容器材质稳定，不会干扰实验结果。",
+          "sentenceWithBlank": "They used a @ @ for the experiment to avoid unwanted reactions.",
+          "fullEnglishSentence": "They used a 「passive metal」 for the experiment to avoid unwanted reactions.",
+          "chineseTranslation": "他们使用了一种「惰性金属」进行实验，以避免不必要的反应。",
+          "chinglishFix": "典型中式英语：'They used a metal that is passive.' 纠正：'They used a passive metal.'（更简洁且符合科学术语）"
+        },
+        {
+          "scene": "在电子产品设计中，工程师选择了一种散热方式，依靠自然对流而非风扇来降低设备温度。",
+          "chineseIdea": "工程师希望设计更安静、更节能的散热系统。",
+          "sentenceWithBlank": "The device relies on @ @ to maintain optimal temperatures.",
+          "fullEnglishSentence": "The device relies on 「passive cooling」 to maintain optimal temperatures.",
+          "chineseTranslation": "该设备依靠「被动散热」来保持最佳温度。",
+          "chinglishFix": "典型中式英语：'The device uses passive cool.' 纠正：'The device employs passive cooling.'（更专业的术语和动词搭配）"
+        }
+      ]
+    }
+  ]
+}
+```

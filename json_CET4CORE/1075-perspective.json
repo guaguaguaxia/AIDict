@@ -1,0 +1,76 @@
+```json
+{
+  "word": "perspective",
+  "definitions": [
+    {
+      "meaning": "看待事物的方式或观点",
+      "usage": "指某人看待或理解事物的主观方式，通常与个人经历、背景或立场有关。常用于描述对问题、事件或情况的不同看法。",
+      "collocations": ["from a different perspective", "gain a new perspective", "put into perspective"],
+      "examples": [
+        {
+          "scene": "在公司会议中，团队正在讨论一个新产品的市场策略。产品经理分享了消费者的反馈，试图让团队从用户的角度思考问题。",
+          "chineseIdea": "产品经理希望团队能够站在消费者的立场上，重新审视产品的设计和推广方式，以更好地满足市场需求。",
+          "sentenceWithBlank": "By looking at the feedback, we can @ @ @ @ on the product’s design.",
+          "fullEnglishSentence": "By looking at the feedback, we can 「see it from a different perspective」 on the product’s design.",
+          "chineseTranslation": "通过查看反馈，我们可以「从不同的角度」看待产品的设计。",
+          "chinglishFix": "典型中式英语：'We can look the product in another angle.' 纠正：'We can see it from a different perspective.'（用'perspective'而非'angle'，并搭配'from...perspective'更自然。）"
+        },
+        {
+          "scene": "一位刚从国外旅行回来的朋友在聚会上分享她在异国文化中的见闻，提到这次旅行让她对生活有了新的认识。",
+          "chineseIdea": "朋友想表达旅行让她跳出日常生活的框架，用全新的眼光看待自己的生活和价值观。",
+          "sentenceWithBlank": "Traveling abroad helped her @ @ @ @ on life.",
+          "fullEnglishSentence": "Traveling abroad helped her 「gain a new perspective」 on life.",
+          "chineseTranslation": "出国旅行帮助她「获得新的视角」来看待生活。",
+          "chinglishFix": "典型中式英语：'Travel let her have a new view for life.' 纠正：'Traveling helped her gain a new perspective on life.'（'perspective'比'view'更贴合语境，搭配'gain'和'on'更地道。）"
+        }
+      ]
+    },
+    {
+      "meaning": "透视法（绘画或艺术中的技巧）",
+      "usage": "在艺术或建筑领域，指通过特定的绘画技巧使二维画面呈现出三维空间的深度和距离感。常用于描述绘画、摄影或设计的视觉效果。",
+      "collocations": ["linear perspective", "aerial perspective", "create a sense of perspective"],
+      "examples": [
+        {
+          "scene": "在艺术课上，老师正在讲解文艺复兴时期的绘画技巧，强调如何通过线条的汇聚来表现物体的远近。",
+          "chineseIdea": "老师想让学生理解如何通过特定的线条排列，营造出画面中物体之间的空间感和深度。",
+          "sentenceWithBlank": "Renaissance artists mastered @ @ to show depth in their paintings.",
+          "fullEnglishSentence": "Renaissance artists mastered 「linear perspective」 to show depth in their paintings.",
+          "chineseTranslation": "文艺复兴时期的艺术家掌握了「线性透视」来表现画作中的深度。",
+          "chinglishFix": "典型中式英语：'They used lines to make deep in paintings.' 纠正：'They used linear perspective to show depth in paintings.'（'perspective'是专业术语，搭配'linear'更准确。）"
+        },
+        {
+          "scene": "一位摄影师在指导学生如何拍摄城市建筑，建议通过调整角度来增强画面的空间感。",
+          "chineseIdea": "摄影师希望学生通过特定的拍摄角度，让照片中的建筑物看起来更有立体感和层次感。",
+          "sentenceWithBlank": "By adjusting the angle, you can @ @ @ @ in your photos.",
+          "fullEnglishSentence": "By adjusting the angle, you can 「create a sense of perspective」 in your photos.",
+          "chineseTranslation": "通过调整角度，你可以在照片中「营造出透视感」。",
+          "chinglishFix": "典型中式英语：'Change angle to make photo have space.' 纠正：'Adjust the angle to create a sense of perspective.'（用'create a sense of perspective'更符合摄影术语。）"
+        }
+      ]
+    },
+    {
+      "meaning": "客观或相对的判断（使某事物显得不那么重要或严重）",
+      "usage": "指通过比较或重新评估，使某问题或情况在更大的背景下显得不那么重要或严重。常用于建议某人冷静看待问题。",
+      "collocations": ["put into perspective", "keep in perspective", "lose perspective"],
+      "examples": [
+        {
+          "scene": "一位学生因为考试失利而非常沮丧，老师安慰他，提醒他考试只是人生中的一小部分。",
+          "chineseIdea": "老师想让学生明白，考试成绩并不是人生的全部，失败可以通过更大的背景来重新看待。",
+          "sentenceWithBlank": "This is just one test; you need to @ @ @ by thinking about your future goals.",
+          "fullEnglishSentence": "This is just one test; you need to 「put it into perspective」 by thinking about your future goals.",
+          "chineseTranslation": "这只是一次考试，你需要通过思考未来目标来「客观看待它」。",
+          "chinglishFix": "典型中式英语：'You should see it in a big picture.' 纠正：'You should put it into perspective.'（'put into perspective'是固定表达，比'big picture'更精确。）"
+        },
+        {
+          "scene": "在家庭聚会上，父母因为孩子的小争吵而焦虑，祖母笑着说这些小事长大后都不重要。",
+          "chineseIdea": "祖母想让父母放松心情，通过长远的角度看待孩子之间的矛盾，认识到这些争吵只是暂时的。",
+          "sentenceWithBlank": "These arguments seem big now, but you’ll @ @ @ when they grow up.",
+          "fullEnglishSentence": "These arguments seem big now, but you’ll 「keep them in perspective」 when they grow up.",
+          "chineseTranslation": "这些争吵现在看似严重，但当他们长大后，你会「保持客观态度」。",
+          "chinglishFix": "典型中式英语：'You will know it’s small thing later.' 纠正：'You’ll keep it in perspective later.'（'keep in perspective'更能表达冷静看待的意思。）"
+        }
+      ]
+    }
+  ]
+}
+```
