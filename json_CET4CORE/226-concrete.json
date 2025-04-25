@@ -1,0 +1,76 @@
+```json
+{
+  "word": "concrete",
+  "definitions": [
+    {
+      "meaning": "具体的；明确的（形容词，指非抽象的、实际的事物或想法）",
+      "usage": "用作形容词，描述某事物明确、具体、可感知，通常与抽象概念相对。常用于描述计划、证据、例子等。",
+      "collocations": ["concrete evidence", "concrete example", "concrete plan"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理要求团队提出可行的解决方案，而不是空洞的想法。",
+          "chineseIdea": "经理希望听到明确的、实际的建议，能够直接实施。",
+          "sentenceWithBlank": "We need some @ @ to support your proposal.",
+          "fullEnglishSentence": "We need some 「concrete evidence」 to support your proposal.",
+          "chineseTranslation": "我们需要一些「具体的证据」来支持你的提案。",
+          "chinglishFix": "典型中式英语：'We need some real evidence.' 纠正：'Real' 在此不够精确，'concrete' 更能表达明确的、可感知的证据。"
+        },
+        {
+          "scene": "在课堂上，老师要求学生用实际的例子来解释一个复杂的理论。",
+          "chineseIdea": "老师希望学生通过具体的实例让理论更易懂。",
+          "sentenceWithBlank": "Can you provide a @ @ to illustrate this concept?",
+          "fullEnglishSentence": "Can you provide a 「concrete example」 to illustrate this concept?",
+          "chineseTranslation": "你能提供一个「具体的例子」来说明这个概念吗？",
+          "chinglishFix": "典型中式英语：'Can you give a clear example?' 纠正：'Clear' 侧重清晰，'concrete' 更强调实际可感知的例子。"
+        }
+      ]
+    },
+    {
+      "meaning": "混凝土（名词，指建筑材料）",
+      "usage": "用作不可数名词，指由水泥、沙子、水等混合制成的建筑材料，常用于建筑、道路等。",
+      "collocations": ["reinforced concrete", "pour concrete", "concrete slab"],
+      "examples": [
+        {
+          "scene": "在建筑工地上，工人正在为新大楼的地基施工。",
+          "chineseIdea": "工人需要将混合好的材料倒入模具中，形成坚固的地基。",
+          "sentenceWithBlank": "They used @ @ for the foundation of the building.",
+          "fullEnglishSentence": "They used 「reinforced concrete」 for the foundation of the building.",
+          "chineseTranslation": "他们使用「钢筋混凝土」作为大楼的地基。",
+          "chinglishFix": "典型中式英语：'They used strong concrete.' 纠正：'Strong' 不够具体，'reinforced concrete' 是专业术语，指添加钢筋的混凝土。"
+        },
+        {
+          "scene": "在修路时，工程队需要将材料铺平并等待其凝固。",
+          "chineseIdea": "工程队将液态的材料倒入路面模具，等待硬化。",
+          "sentenceWithBlank": "The workers will @ @ for the new highway tomorrow.",
+          "fullEnglishSentence": "The workers will 「pour concrete」 for the new highway tomorrow.",
+          "chineseTranslation": "工人明天将为新高速公路「浇筑混凝土」。",
+          "chinglishFix": "典型中式英语：'The workers will put concrete.' 纠正：'Put' 不准确，'pour concrete' 是描述施工中倒入液态混凝土的正确表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "使具体化；凝固（动词，指使某事物变得具体或固定）",
+      "usage": "用作动词，较为正式，描述将抽象想法具体化或使某物凝固成型。常用于书面语或技术语境。",
+      "collocations": ["concrete an idea", "concrete a plan", "concrete a surface"],
+      "examples": [
+        {
+          "scene": "在项目策划会上，团队需要将初步的想法转化为可执行的方案。",
+          "chineseIdea": "团队希望将模糊的概念变成具体的行动计划。",
+          "sentenceWithBlank": "Our goal is to @ @ @ into a detailed strategy.",
+          "fullEnglishSentence": "Our goal is to 「concrete an idea」 into a detailed strategy.",
+          "chineseTranslation": "我们的目标是将「一个想法具体化」为详细的策略。",
+          "chinglishFix": "典型中式英语：'We want to make an idea clear.' 纠正：'Make clear' 侧重清晰，'concrete an idea' 强调将抽象概念转化为具体形式。"
+        },
+        {
+          "scene": "在建筑施工中，工人需要确保材料在模具中凝固成型。",
+          "chineseIdea": "工人希望材料在模具中硬化，形成坚固的结构。",
+          "sentenceWithBlank": "They need to @ @ @ to ensure durability.",
+          "fullEnglishSentence": "They need to 「concrete a surface」 to ensure durability.",
+          "chineseTranslation": "他们需要「使表面凝固」以确保耐用性。",
+          "chinglishFix": "典型中式英语：'They need to harden a surface.' 纠正：'Harden' 过于笼统，'concrete a surface' 是更专业的术语，指材料凝固成型。"
+        }
+      ]
+    }
+  ]
+}
+```

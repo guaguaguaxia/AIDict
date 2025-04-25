@@ -1,0 +1,76 @@
+```json
+{
+  "word": "critical",
+  "definitions": [
+    {
+      "meaning": "表达批评或不赞成的",
+      "usage": "形容某人对某事或某人持批评态度，通常指挑剔或负面评价",
+      "collocations": ["critical of", "highly critical", "overly critical"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理对团队提交的项目报告提出质疑，认为内容不够详尽。",
+          "chineseIdea": "经理觉得报告有很多不足之处，直接表达了不满。",
+          "sentenceWithBlank": "The manager was @ @ the team's report, pointing out several flaws.",
+          "fullEnglishSentence": "The manager was 「critical of」 the team's report, pointing out several flaws.",
+          "chineseTranslation": "经理对团队的报告「持批评态度」，指出了几个缺陷。",
+          "chinglishFix": "典型中式英语：'The manager criticized to the report.' 纠正：'The manager was critical of the report.'（'criticize'是动词，'critical'是形容词，搭配介词'of'更自然。）"
+        },
+        {
+          "scene": "在家庭聚会上，姑姑对侄子的职业选择发表意见，认为他应该选更稳定的工作。",
+          "chineseIdea": "姑姑觉得侄子的选择不明智，语气中带有强烈的批评。",
+          "sentenceWithBlank": "My aunt was @ @ about my career path, saying it was too risky.",
+          "fullEnglishSentence": "My aunt was 「highly critical」 about my career path, saying it was too risky.",
+          "chineseTranslation": "姑姑对我的职业道路「极为挑剔」，说它太冒险了。",
+          "chinglishFix": "典型中式英语：'My aunt very criticized my career.' 纠正：'My aunt was highly critical of my career.'（避免用'very criticized'，用'highly critical'更地道。）"
+        }
+      ]
+    },
+    {
+      "meaning": "至关重要的",
+      "usage": "形容某事物对某情况或结果极其重要，起到决定性作用",
+      "collocations": ["critical role", "critical factor", "critical moment"],
+      "examples": [
+        {
+          "scene": "在一场国际谈判中，团队需要在最后一天达成协议，否则合作将失败。",
+          "chineseIdea": "团队的努力在最后一天尤为重要，直接影响谈判结果。",
+          "sentenceWithBlank": "The team's effort played a @ @ in securing the deal on the final day.",
+          "fullEnglishSentence": "The team's effort played a 「critical role」 in securing the deal on the final day.",
+          "chineseTranslation": "团队的努力在最后一天「发挥了关键作用」，确保了协议的达成。",
+          "chinglishFix": "典型中式英语：'The team's effort was very important role.' 纠正：'The team's effort played a critical role.'（'important role'太平淡，'critical role'更强调关键性。）"
+        },
+        {
+          "scene": "在医院的手术室中，医生需要在几分钟内做出决定以挽救患者生命。",
+          "chineseIdea": "医生的快速决策在紧急情况下尤为重要。",
+          "sentenceWithBlank": "The doctor's decision was a @ @ in saving the patient's life.",
+          "fullEnglishSentence": "The doctor's decision was a 「critical factor」 in saving the patient's life.",
+          "chineseTranslation": "医生的决定是挽救患者生命的「关键因素」。",
+          "chinglishFix": "典型中式英语：'The doctor's decision was very key.' 纠正：'The doctor's decision was a critical factor.'（'very key'不地道，'critical factor'更精确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "危急的，严重的",
+      "usage": "形容某人或某事处于危险或紧急状态，尤指医疗或紧急情况",
+      "collocations": ["critical condition", "critical situation", "critical stage"],
+      "examples": [
+        {
+          "scene": "车祸后，伤者被紧急送往医院，医生表示情况非常危险。",
+          "chineseIdea": "伤者的生命体征不稳定，随时可能恶化。",
+          "sentenceWithBlank": "After the accident, the patient was in a @ @ and needed immediate surgery.",
+          "fullEnglishSentence": "After the accident, the patient was in a 「critical condition」 and needed immediate surgery.",
+          "chineseTranslation": "事故后，患者处于「危急状态」，需要立即手术。",
+          "chinglishFix": "典型中式英语：'The patient was very dangerous condition.' 纠正：'The patient was in a critical condition.'（'dangerous condition'不准确，'critical condition'是医学术语。）"
+        },
+        {
+          "scene": "工厂发生重大设备故障，可能导致生产全面停工。",
+          "chineseIdea": "设备问题非常严重，可能会影响整个生产流程。",
+          "sentenceWithBlank": "The equipment failure created a @ @ that threatened the entire production line.",
+          "fullEnglishSentence": "The equipment failure created a 「critical situation」 that threatened the entire production line.",
+          "chineseTranslation": "设备故障造成了一个「危急情况」，威胁到整个生产线。",
+          "chinglishFix": "典型中式英语：'The failure made a very urgent situation.' 纠正：'The failure created a critical situation.'（'urgent'不够具体，'critical situation'更贴合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

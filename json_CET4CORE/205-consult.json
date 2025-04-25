@@ -1,0 +1,53 @@
+```json
+{
+  "word": "consult",
+  "definitions": [
+    {
+      "meaning": "寻求意见或建议",
+      "usage": "指与某人讨论以获取专业意见、建议或信息，通常用于正式或专业场合，如咨询专家、医生或律师。",
+      "collocations": ["consult a doctor", "consult an expert", "consult with colleagues"],
+      "examples": [
+        {
+          "scene": "小明最近身体不适，经常感到疲倦和头痛。他决定去医院检查，以确保没有严重问题。",
+          "chineseIdea": "小明想找一个专业的医生来了解自己的健康状况，并得到治疗建议。",
+          "sentenceWithBlank": "After feeling unwell for weeks, he decided to @ @ @ for advice.",
+          "fullEnglishSentence": "After feeling unwell for weeks, he decided to 「consult a doctor」 for advice.",
+          "chineseTranslation": "在感到不适几周后，他决定「咨询医生」以获得建议。",
+          "chinglishFix": "典型中式英语：'He went to see a doctor to ask his health.' 纠正：'He consulted a doctor about his health.'（'ask his health' 不符合英语表达习惯，改为 consult 表示正式寻求建议。）"
+        },
+        {
+          "scene": "公司正在开发一个新产品，但团队在技术方案上意见不一，项目经理建议找业内权威人士提供指导。",
+          "chineseIdea": "项目经理希望通过与专业人士交流，找到最优的技术解决方案。",
+          "sentenceWithBlank": "To resolve the technical debate, the manager arranged to @ @ @.",
+          "fullEnglishSentence": "To resolve the technical debate, the manager arranged to 「consult an expert」.",
+          "chineseTranslation": "为了解决技术争议，经理安排「咨询专家」。",
+          "chinglishFix": "典型中式英语：'The manager asked an expert for technical problems.' 纠正：'The manager consulted an expert on technical issues.'（'ask for technical problems' 表达不自然，consult on 表示针对某问题咨询。）"
+        }
+      ]
+    },
+    {
+      "meaning": "查阅或参考",
+      "usage": "指查看资料、书籍或信息源以获取信息，通常用于学术、研究或日常查询场景，如查阅字典或地图。",
+      "collocations": ["consult a dictionary", "consult a map", "consult the manual"],
+      "examples": [
+        {
+          "scene": "小红在写英语作文时，遇到一个不确定的单词，想确认它的拼写和用法。",
+          "chineseIdea": "小红希望通过查字典来确保用词准确，避免错误。",
+          "sentenceWithBlank": "Unsure about the word’s spelling, she decided to @ @ @.",
+          "fullEnglishSentence": "Unsure about the word’s spelling, she decided to 「consult a dictionary」.",
+          "chineseTranslation": "不确定单词的拼写，她决定「查阅字典」。",
+          "chinglishFix": "典型中式英语：'She looked the dictionary for the word.' 纠正：'She consulted a dictionary for the word.'（'look the dictionary' 不正确，consult 或 look up 是查阅的正确表达。）"
+        },
+        {
+          "scene": "张伟和朋友计划一次自驾游，但对路线不熟悉，他决定查看地图以确定最佳路径。",
+          "chineseIdea": "张伟想通过查看地图来规划行程，确保旅途顺利。",
+          "sentenceWithBlank": "To plan the road trip, he needed to @ @ @ for directions.",
+          "fullEnglishSentence": "To plan the road trip, he needed to 「consult a map」 for directions.",
+          "chineseTranslation": "为了规划自驾游，他需要「查阅地图」以确定方向。",
+          "chinglishFix": "典型中式英语：'He checked the map to find the way.' 纠正：'He consulted a map to find the route.'（'find the way' 略显口语化，consult a map 和 route 更正式且符合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```
