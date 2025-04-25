@@ -1,0 +1,76 @@
+```json
+{
+  "word": "threaten",
+  "definitions": [
+    {
+      "meaning": "表示要对某人或某物造成伤害、损失或不利后果",
+      "usage": "通常用作及物动词，表示通过言语或行动表达对某人或某事的威胁，可能涉及身体、情感、财产等方面。常用于描述恐吓、警告或潜在危险。",
+      "collocations": ["to harm", "with violence", "legal action"],
+      "examples": [
+        {
+          "scene": "在一个安静的小镇上，一名居民因为邻居的狗经常跑到自己院子里破坏花坛，决定与邻居交涉。邻居态度恶劣，居民情绪激动地说了一些过激的话。",
+          "chineseIdea": "表达愤怒并警告对方如果不解决问题会采取进一步行动。",
+          "sentenceWithBlank": "If you don't control your dog, I will @ @ you!",
+          "fullEnglishSentence": "If you don't control your dog, I will 「threaten to harm」 you!",
+          "chineseTranslation": "如果你不控制你的狗，我会「威胁要伤害」你！",
+          "chinglishFix": "典型中式英语：'I will give you harm.' 纠正：'I will threaten to harm you.'（中式英语常直接翻译‘伤害’，忽略‘威胁’的表达）"
+        },
+        {
+          "scene": "在一家公司内部，两名员工因为项目分配不均发生争执。一名员工愤怒地警告另一名员工，声称会采取极端措施。",
+          "chineseIdea": "警告对方如果不改变行为，将面临严重后果。",
+          "sentenceWithBlank": "Stop taking credit for my work, or I’ll @ @ you!",
+          "fullEnglishSentence": "Stop taking credit for my work, or I’ll 「threaten with violence」 you!",
+          "chineseTranslation": "别再抢我的功劳，否则我会「用暴力威胁」你！",
+          "chinglishFix": "典型中式英语：'I will use violence to you.' 纠正：'I will threaten you with violence.'（中式英语常忽略‘威胁’的动词形式，直接使用后果）"
+        }
+      ]
+    },
+    {
+      "meaning": "预示某事可能发生，通常指不好的结果",
+      "usage": "用作及物动词或不及物动词，表示某事（通常是负面事件）即将来临或有发生的可能，常用于描述自然现象、经济形势或其他不可控因素。",
+      "collocations": ["to disrupt", "with rain", "economic stability"],
+      "examples": [
+        {
+          "scene": "在一个春天的早晨，家庭计划去郊外野餐，但天空开始变得阴沉，风也越来越大，家人担心计划可能泡汤。",
+          "chineseIdea": "描述天气变化可能导致户外活动无法进行。",
+          "sentenceWithBlank": "Those dark clouds @ @ our picnic plans.",
+          "fullEnglishSentence": "Those dark clouds 「threaten to disrupt」 our picnic plans.",
+          "chineseTranslation": "那些乌云「威胁要打乱」我们的野餐计划。",
+          "chinglishFix": "典型中式英语：'The clouds will destroy our picnic.' 纠正：'The clouds threaten to disrupt our picnic.'（中式英语常使用过于强烈的词，如‘破坏’，而非‘威胁打乱’）"
+        },
+        {
+          "scene": "在一个沿海城市，气象部门发布预警，称未来几天可能有强降雨，市民开始为可能的洪水做准备。",
+          "chineseIdea": "描述天气预报中潜在的不利条件。",
+          "sentenceWithBlank": "The forecast says a storm will @ @ this weekend.",
+          "fullEnglishSentence": "The forecast says a storm will 「threaten with rain」 this weekend.",
+          "chineseTranslation": "天气预报说这个周末会有暴风雨「威胁要带来大雨」。",
+          "chinglishFix": "典型中式英语：'The storm will bring rain to us.' 纠正：'The storm threatens to bring rain.'（中式英语常忽略‘威胁’的预期感，直接描述结果）"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物构成危险或不利影响",
+      "usage": "用作及物动词，表示某事物（人、事件、情况）可能损害或危及另一事物，常用于描述抽象或具体的风险。",
+      "collocations": ["the environment", "public safety", "job security"],
+      "examples": [
+        {
+          "scene": "在一个工业城市，市民对新建的化工厂表示担忧，因为它可能污染当地的河流和空气。",
+          "chineseIdea": "表达对某项发展可能损害自然资源的担忧。",
+          "sentenceWithBlank": "The new factory could @ @ local ecosystems.",
+          "fullEnglishSentence": "The new factory could 「threaten the environment」 of local ecosystems.",
+          "chineseTranslation": "新工厂可能会「威胁当地生态系统的环境」。",
+          "chinglishFix": "典型中式英语：'The factory will hurt environment.' 纠正：'The factory threatens the environment.'（中式英语常使用‘伤害’等词，忽略‘威胁’的潜在性）"
+        },
+        {
+          "scene": "在一家科技公司，由于市场竞争加剧和高管决策失误，员工们开始担心自己的工作稳定性。",
+          "chineseIdea": "描述外部因素可能导致个人利益受损。",
+          "sentenceWithBlank": "The company’s poor performance continues to @ @ for many employees.",
+          "fullEnglishSentence": "The company’s poor performance continues to 「threaten job security」 for many employees.",
+          "chineseTranslation": "公司的糟糕表现继续「威胁许多员工的工作保障」。",
+          "chinglishFix": "典型中式英语：'The company makes job not safe.' 纠正：'The company threatens job security.'（中式英语常使用描述性语言，忽略‘威胁’的动词用法）"
+        }
+      ]
+    }
+  ]
+}
+```

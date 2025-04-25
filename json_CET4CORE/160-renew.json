@@ -1,0 +1,76 @@
+```json
+{
+  "word": "renew",
+  "definitions": [
+    {
+      "meaning": "延长或恢复某事物（如合同、订阅、许可证等）的有效期或状态",
+      "usage": "常用于描述正式或官方的协议、许可、会员资格等需要通过某些程序或费用来延续其有效性的事物。",
+      "collocations": ["renew a contract", "renew a subscription", "renew a license"],
+      "examples": [
+        {
+          "scene": "一位在中国的程序员小李，他的公司与一家海外客户的三年期软件开发合同即将到期。客户对合作非常满意，决定继续合作。小李的老板要求他准备相关文件以延长合同。",
+          "chineseIdea": "小李需要处理一些文书工作，确保与客户的合作关系能够继续下去，这涉及到更新或延长之前的协议。",
+          "sentenceWithBlank": "We need to @ @ @ with our overseas client to continue the project.",
+          "fullEnglishSentence": "We need to 「renew a contract」 with our overseas client to continue the project.",
+          "chineseTranslation": "我们需要与海外客户「续签合同」以继续这个项目。",
+          "chinglishFix": "典型中式英语：'We need to continue the contract.' 纠正：'Continue the contract' 听起来不自然，因为英语中通常不说 'continue' 一个合同，而是用 'renew' 来表示延长或更新合同的有效期。正确表达是 'renew a contract'。"
+        },
+        {
+          "scene": "小张是个热爱阅读的大学生，订阅了一家在线电子书平台的年度会员。她收到平台提醒，订阅即将在一个月后到期，需要决定是否继续使用服务。",
+          "chineseIdea": "小张需要决定是否继续支付费用以保持她的电子书阅读权限，这涉及到延长她的会员资格。",
+          "sentenceWithBlank": "She decided to @ @ @ to keep accessing her favorite e-books.",
+          "fullEnglishSentence": "She decided to 「renew a subscription」 to keep accessing her favorite e-books.",
+          "chineseTranslation": "她决定「续订订阅」以继续访问她喜欢的电子书。",
+          "chinglishFix": "典型中式英语：'She continued her subscription.' 纠正：'Continue a subscription' 不符合英语习惯，英语中更常用 'renew' 来表示延长订阅的有效期。正确表达是 'renew a subscription'。"
+        }
+      ]
+    },
+    {
+      "meaning": "使某事物恢复活力、新鲜感或能量",
+      "usage": "常用于描述抽象的概念，如兴趣、能量、热情、信心等，表示通过某种方式让这些事物重新变得活跃或强烈。",
+      "collocations": ["renew energy", "renew interest", "renew confidence"],
+      "examples": [
+        {
+          "scene": "小王是一名中学英语老师，最近感到教学有些乏味。她参加了一个国际教师培训项目，学习了新的教学方法，感觉自己对教学的热情被重新点燃。",
+          "chineseIdea": "小王通过学习新方法，重新找回了教学的动力和活力。",
+          "sentenceWithBlank": "The training program helped her @ @ @ to try new teaching methods.",
+          "fullEnglishSentence": "The training program helped her 「renew energy」 to try new teaching methods.",
+          "chineseTranslation": "培训项目帮助她「重焕活力」，尝试新的教学方法。",
+          "chinglishFix": "典型中式英语：'The training gave her new energy.' 纠正：'Give new energy' 不够具体，且不如 'renew energy' 更能表达恢复原有活力的含义。正确表达是 'renew energy'。"
+        },
+        {
+          "scene": "小明是一个热爱旅行的年轻人，但过去一年因工作忙碌而暂停了旅行。最近他计划了一次短途旅行，重新激发了对探索新地方的兴趣。",
+          "chineseIdea": "小明通过一次旅行，重新点燃了他对探索世界的热情。",
+          "sentenceWithBlank": "The short trip helped him @ @ @ in exploring new places.",
+          "fullEnglishSentence": "The short trip helped him 「renew interest」 in exploring new places.",
+          "chineseTranslation": "这次短途旅行帮助他「重燃兴趣」，去探索新的地方。",
+          "chinglishFix": "典型中式英语：'The trip made him interested again.' 纠正：'Make interested again' 显得生硬，英语中更常用 'renew interest' 来表达重新激发的兴趣。正确表达是 'renew interest'。"
+        }
+      ]
+    },
+    {
+      "meaning": "替换或修复某物，使其恢复到新的状态",
+      "usage": "常用于描述物理对象，如设备、家具或资源，需要通过替换或修复来使其恢复到良好或新的状态。",
+      "collocations": ["renew equipment", "renew furniture", "renew resources"],
+      "examples": [
+        {
+          "scene": "一家小型工厂的老板发现他们的生产设备已经使用了十年，效率低下。他决定投资购买新机器，以提高生产能力。",
+          "chineseIdea": "老板希望通过更换老旧设备，让工厂的生产线恢复到高效状态。",
+          "sentenceWithBlank": "The factory decided to @ @ @ to improve production efficiency.",
+          "fullEnglishSentence": "The factory decided to 「renew equipment」 to improve production efficiency.",
+          "chineseTranslation": "工厂决定「更新设备」以提高生产效率。",
+          "chinglishFix": "典型中式英语：'The factory changed equipment.' 纠正：'Change equipment' 显得过于笼统，英语中更常用 'renew equipment' 来表示替换或更新设备以恢复其功能。正确表达是 'renew equipment'。"
+        },
+        {
+          "scene": "小李刚搬进一间老房子，发现客厅的家具已经破旧不堪。她决定购买一些新家具，让房子看起来焕然一新。",
+          "chineseIdea": "小李希望通过更换旧家具，让房子的整体氛围变得更加现代和舒适。",
+          "sentenceWithBlank": "She planned to @ @ @ to make the living room look modern.",
+          "fullEnglishSentence": "She planned to 「renew furniture」 to make the living room look modern.",
+          "chineseTranslation": "她计划「更换家具」让客厅看起来更现代。",
+          "chinglishFix": "典型中式英语：'She wanted to change the furniture.' 纠正：'Change the furniture' 虽然可以理解，但不如 'renew furniture' 更能表达通过替换使之焕然一新的含义。正确表达是 'renew furniture'。"
+        }
+      ]
+    }
+  ]
+}
+```

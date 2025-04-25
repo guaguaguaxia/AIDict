@@ -1,0 +1,53 @@
+```json
+{
+  "word": "suppose",
+  "definitions": [
+    {
+      "meaning": "假设，认为（表示对某事物的猜测或假定，通常基于有限信息）",
+      "usage": "用作动词，表示对某事作出假设或猜测，常用于表达推测或假定某事为真，常与that从句或疑问词连用。",
+      "collocations": ["suppose that", "suppose something to be", "I suppose"],
+      "examples": [
+        {
+          "scene": "在一个咖啡馆里，你和朋友讨论明天的天气预报，但你觉得预报可能不准，想表达自己的猜测。",
+          "chineseIdea": "你想说你猜测明天可能会下雨，尽管天气预报说会是晴天。",
+          "sentenceWithBlank": "I @ @ it might rain tomorrow, even though the forecast says it’ll be sunny.",
+          "fullEnglishSentence": "I 「suppose that」 it might rain tomorrow, even though the forecast says it’ll be sunny.",
+          "chineseTranslation": "我「猜想」明天可能会下雨，尽管天气预报说是晴天。",
+          "chinglishFix": "典型中式英语：'I think maybe it will rain tomorrow.' 纠正：'I suppose it might rain tomorrow.'（'think maybe'显得不够地道，'suppose'更适合表达不确定的猜测）"
+        },
+        {
+          "scene": "你在和同事讨论一个新项目的可行性，基于目前的信息，你想表达对项目成功可能性的假设。",
+          "chineseIdea": "你想表达你认为这个项目可能是可行的，但需要更多数据支持。",
+          "sentenceWithBlank": "We can @ @ @ true for now, but we’ll need more data to confirm.",
+          "fullEnglishSentence": "We can 「suppose something to be」 true for now, but we’ll need more data to confirm.",
+          "chineseTranslation": "我们现在可以「假设某事为真」，但我们需要更多数据来确认。",
+          "chinglishFix": "典型中式英语：'We think it is true now.' 纠正：'We can suppose it to be true for now.'（'think'过于直接，'suppose to be'更适合表达假设状态）"
+        }
+      ]
+    },
+    {
+      "meaning": "应该，应当（表示某种期望或义务，通常带有轻微的责备或建议语气）",
+      "usage": "用作动词，表示某人应该做某事，常见于口语中，带有轻微的批评或提醒语气，常与不定式连用。",
+      "collocations": ["be supposed to do", "be supposed to be", "not supposed to"],
+      "examples": [
+        {
+          "scene": "你发现你的室友又忘记把垃圾拿出去，而这是他应该做的事情，你想提醒他。",
+          "chineseIdea": "你想表达他应该把垃圾拿出去，因为这是他的职责。",
+          "sentenceWithBlank": "You @ @ @ @ the trash out today—it’s your turn.",
+          "fullEnglishSentence": "You 「are supposed to do」 the trash out today—it’s your turn.",
+          "chineseTranslation": "你今天「应该」把垃圾拿出去——轮到你了。",
+          "chinglishFix": "典型中式英语：'You must take the trash out.' 纠正：'You’re supposed to take the trash out.'（'must'过于强制，'be supposed to'更适合表达约定或职责）"
+        },
+        {
+          "scene": "你在学校里看到一个同学在图书馆大声讲话，你想提醒他这里应该保持安静。",
+          "chineseIdea": "你想告诉他图书馆应该是安静的地方，不应该大声说话。",
+          "sentenceWithBlank": "You @ @ @ talk loudly in the library—it’s a quiet zone.",
+          "fullEnglishSentence": "You 「aren’t supposed to」 talk loudly in the library—it’s a quiet zone.",
+          "chineseTranslation": "你「不应该」在图书馆大声说话——这里是安静区域。",
+          "chinglishFix": "典型中式英语：'You cannot talk loudly here.' 纠正：'You’re not supposed to talk loudly in the library.'（'cannot'过于绝对，'not supposed to'更符合规则提醒的语气）"
+        }
+      ]
+    }
+  ]
+}
+```

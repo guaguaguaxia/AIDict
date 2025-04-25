@@ -1,0 +1,76 @@
+```json
+{
+  "word": "takeoff",
+  "definitions": [
+    {
+      "meaning": "飞机起飞",
+      "usage": "指飞机离开地面开始飞行的行为，通常用于航空领域的正式或日常语境。",
+      "collocations": ["smooth takeoff", "delayed takeoff", "successful takeoff"],
+      "examples": [
+        {
+          "scene": "你在机场候机大厅，听到广播宣布你的航班即将起飞。你看着窗外，飞机正在跑道上加速。",
+          "chineseIdea": "描述飞机离开地面的动作，强调过程平稳且令人期待。",
+          "sentenceWithBlank": "The pilot announced that the plane would have a @ @ soon.",
+          "fullEnglishSentence": "The pilot announced that the plane would have a 「smooth takeoff」 soon.",
+          "chineseTranslation": "飞行员宣布飞机很快将进行「平稳起飞」。",
+          "chinglishFix": "典型中式英语：'The plane will fly up smoothly.' 纠正：'The plane will have a smooth takeoff.'（'fly up'不够具体，航空术语中常用'takeoff'描述起飞动作。）"
+        },
+        {
+          "scene": "你和朋友讨论最近一次飞行经历，提到因为天气原因，航班推迟了起飞时间。",
+          "chineseIdea": "表达起飞因外部因素被推迟，带有轻微的抱怨情绪。",
+          "sentenceWithBlank": "Due to the storm, our flight experienced a @ @.",
+          "fullEnglishSentence": "Due to the storm, our flight experienced a 「delayed takeoff」.",
+          "chineseTranslation": "由于暴风雨，我们的航班经历了「起飞延误」。",
+          "chinglishFix": "典型中式英语：'The plane was late to fly.' 纠正：'The flight experienced a delayed takeoff.'（'late to fly'模糊且不专业，'delayed takeoff'更符合航空语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "经济或事业的腾飞/迅速发展",
+      "usage": "比喻某事物（如经济、事业或项目）快速增长或成功起步，常用于商业或描述趋势的语境。",
+      "collocations": ["economic takeoff", "career takeoff", "rapid takeoff"],
+      "examples": [
+        {
+          "scene": "你在新闻报道中读到中国某个城市因科技产业而经济迅速增长，成为全国关注的焦点。",
+          "chineseIdea": "描述一个地区经济快速起飞，强调速度和成就。",
+          "sentenceWithBlank": "The city’s tech industry led to an @ @ in the past decade.",
+          "fullEnglishSentence": "The city’s tech industry led to an 「economic takeoff」 in the past decade.",
+          "chineseTranslation": "该市的科技产业在过去十年引发了「经济腾飞」。",
+          "chinglishFix": "典型中式英语：'The city’s economy fly high.' 纠正：'The city experienced an economic takeoff.'（'fly high'不适合描述经济，'takeoff'更贴合快速发展的比喻。）"
+        },
+        {
+          "scene": "你和同事讨论一个初创公司，因为获得大额投资而迅速扩张。",
+          "chineseIdea": "强调公司因外部助力而快速起步，带有赞叹的语气。",
+          "sentenceWithBlank": "After securing funding, the startup saw a @ @.",
+          "fullEnglishSentence": "After securing funding, the startup saw a 「rapid takeoff」.",
+          "chineseTranslation": "在获得资金后，这家初创公司迎来了「迅速腾飞」。",
+          "chinglishFix": "典型中式英语：'The company grow very fast.' 纠正：'The company experienced a rapid takeoff.'（'grow very fast'缺乏比喻色彩，'takeoff'更生动且专业。）"
+        }
+      ]
+    },
+    {
+      "meaning": "模仿或戏仿",
+      "usage": "指对某人或某事进行幽默的模仿或讽刺性表演，常用于娱乐或社交场合。",
+      "collocations": ["funny takeoff", "clever takeoff", "satirical takeoff"],
+      "examples": [
+        {
+          "scene": "你在看一档喜剧节目，演员模仿某位名人，观众笑声不断。",
+          "chineseIdea": "描述演员通过夸张表演模仿名人，带来幽默效果。",
+          "sentenceWithBlank": "The comedian’s @ @ of the politician had everyone laughing.",
+          "fullEnglishSentence": "The comedian’s 「funny takeoff」 of the politician had everyone laughing.",
+          "chineseTranslation": "喜剧演员对政客的「搞笑模仿」让大家都笑了。",
+          "chinglishFix": "典型中式英语：'The comedian copy the politician funny.' 纠正：'The comedian did a funny takeoff of the politician.'（'copy'不准确，'takeoff'更适合描述幽默模仿。）"
+        },
+        {
+          "scene": "你在朋友聚会上，有人模仿电影中的经典场景，逗得大家捧腹大笑。",
+          "chineseIdea": "表达模仿表演的巧妙和娱乐性，突出创意的成分。",
+          "sentenceWithBlank": "Her @ @ of the movie scene was spot-on.",
+          "fullEnglishSentence": "Her 「clever takeoff」 of the movie scene was spot-on.",
+          "chineseTranslation": "她对电影场景的「巧妙模仿」非常到位。",
+          "chinglishFix": "典型中式英语：'She act the movie scene very good.' 纠正：'She did a clever takeoff of the movie scene.'（'act'和'very good'不够具体，'takeoff'更适合描述创意模仿。）"
+        }
+      ]
+    }
+  ]
+}
+```
