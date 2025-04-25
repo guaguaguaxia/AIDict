@@ -1,0 +1,53 @@
+```json
+{
+  "word": "apartment",
+  "definitions": [
+    {
+      "meaning": "A set of rooms for living in, typically on one floor of a building",
+      "usage": "Refers to a residential unit within a larger building, often rented, used for living purposes. Common in urban settings.",
+      "collocations": ["rent an apartment", "live in an apartment", "furnished apartment"],
+      "examples": [
+        {
+          "scene": "一个刚搬到上海的年轻人正在和朋友讨论租房情况。",
+          "chineseIdea": "年轻人想表达自己找到了一处适合居住的地方，租金合理。",
+          "sentenceWithBlank": "I was so relieved when I finally managed to @ @ @ in the city center.",
+          "fullEnglishSentence": "I was so relieved when I finally managed to 「rent an apartment」 in the city center.",
+          "chineseTranslation": "当我终于在市中心「租到一间公寓」时，我松了一口气。",
+          "chinglishFix": "Chinglish: 'I rent a house in city.' Correction: 'I rent an apartment in the city.' (In urban contexts, 'apartment' is more precise than 'house' for a flat in a building.)"
+        },
+        {
+          "scene": "一个家庭在讨论他们的新住所，强调已经配齐家具。",
+          "chineseIdea": "家庭成员想表达他们的新家已经准备好，可以直接入住。",
+          "sentenceWithBlank": "We were thrilled to find a @ @ that had everything we needed.",
+          "fullEnglishSentence": "We were thrilled to find a 「furnished apartment」 that had everything we needed.",
+          "chineseTranslation": "我们很兴奋地找到了一间「带家具的公寓」，里面有我们需要的一切。",
+          "chinglishFix": "Chinglish: 'We find a house with furniture.' Correction: 'We found a furnished apartment.' ('Furnished apartment' is the standard term for a flat equipped with furniture.)"
+        }
+      ]
+    },
+    {
+      "meaning": "A single room or set of rooms used for a specific purpose, often luxurious or historical",
+      "usage": "Refers to a grand or specialized suite of rooms, often in a palace, mansion, or historical building, used for official or private purposes.",
+      "collocations": ["private apartment", "royal apartment", "state apartment"],
+      "examples": [
+        {
+          "scene": "一个导游在故宫向游客介绍皇帝的私人居所。",
+          "chineseIdea": "导游想说明这些房间是皇帝的私人空间，装饰豪华。",
+          "sentenceWithBlank": "These rooms were the emperor’s @ @, reserved for his personal use.",
+          "fullEnglishSentence": "These rooms were the emperor’s 「private apartment」, reserved for his personal use.",
+          "chineseTranslation": "这些房间是皇帝的「私人居所」，专供他个人使用。",
+          "chinglishFix": "Chinglish: 'This is emperor’s private house.' Correction: 'These are the emperor’s private apartments.' ('Apartment' in this context refers to a suite of rooms, not a standalone house.)"
+        },
+        {
+          "scene": "一个历史学家在描述欧洲宫殿中的正式接待区域。",
+          "chineseIdea": "历史学家想表达这些房间是为国家仪式准备的，富丽堂皇。",
+          "sentenceWithBlank": "The palace’s @ @ were used for official ceremonies and receptions.",
+          "fullEnglishSentence": "The palace’s 「state apartment」 were used for official ceremonies and receptions.",
+          "chineseTranslation": "宫殿的「国事套房」用于官方仪式和接待。",
+          "chinglishFix": "Chinglish: 'The palace has big rooms for ceremonies.' Correction: 'The palace’s state apartments are used for ceremonies.' ('State apartment' is the specific term for such grand rooms.)"
+        }
+      ]
+    }
+  ]
+}
+```

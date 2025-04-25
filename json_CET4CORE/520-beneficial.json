@@ -1,0 +1,53 @@
+```json
+{
+  "word": "beneficial",
+  "definitions": [
+    {
+      "meaning": "有利的，有益的（对某人或某事有积极影响）",
+      "usage": "通常用于描述对健康、发展、成功或幸福有积极作用的事物或行为，常见于正式或半正式语境。",
+      "collocations": ["be beneficial to", "prove beneficial", "mutually beneficial"],
+      "examples": [
+        {
+          "scene": "一位学生在准备大学入学考试时，老师建议她每天阅读英文文章以提高词汇量。",
+          "chineseIdea": "学生想通过阅读英文文章来提升自己的英语水平，认为这会对考试成绩有帮助。",
+          "sentenceWithBlank": "Reading English articles every day can @ @ @ her vocabulary and comprehension skills.",
+          "fullEnglishSentence": "Reading English articles every day can 「be beneficial to」 her vocabulary and comprehension skills.",
+          "chineseTranslation": "每天阅读英文文章可以「对她的词汇量和理解能力有益」。",
+          "chinglishFix": "典型中式英语：'Read English articles is good for her vocabulary.' 纠正：'Reading English articles is beneficial to her vocabulary.'（使用'beneficial to'更符合英语表达习惯，且语法正确。）"
+        },
+        {
+          "scene": "一家公司决定为员工提供免费的健身房会员资格，以提高员工的健康水平和工作效率。",
+          "chineseIdea": "公司认为健康的员工能更高效地工作，健身房会员资格对员工和公司都有好处。",
+          "sentenceWithBlank": "Offering free gym memberships has @ @ for both employee health and productivity.",
+          "fullEnglishSentence": "Offering free gym memberships has 「proved beneficial」 for both employee health and productivity.",
+          "chineseTranslation": "提供免费健身房会员资格已被证明「对员工健康和生产力有益」。",
+          "chinglishFix": "典型中式英语：'Give free gym is good to employees.' 纠正：'Offering free gym memberships is beneficial to employees.'（使用'prove beneficial'更自然，动词形式也更准确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "互利的（双方或多方都能从中获益）",
+      "usage": "常用于描述合作、交易或关系中各方都能获得好处的场景，常见于商业或外交语境。",
+      "collocations": ["mutually beneficial", "beneficial agreement", Beneficial partnership"],
+      "examples": [
+        {
+          "scene": "两家公司达成了一项合作协议，共享技术和市场资源，以扩大市场份额。",
+          "chineseIdea": "两家公司希望通过合作实现双赢，共同提升竞争力。",
+          "sentenceWithBlank": "The collaboration between the two companies has been @ @, allowing both to expand their market share.",
+          "fullEnglishSentence": "The collaboration between the two companies has been 「mutually beneficial」, allowing both to expand their market share.",
+          "chineseTranslation": "两家公司之间的合作一直是「互利的」，使双方都能扩大市场份额。",
+          "chinglishFix": "典型中式英语：'The cooperation is good for both.' 纠正：'The collaboration is mutually beneficial.'（'mutually beneficial'更精确地表达双方共同获益的概念。）"
+        },
+        {
+          "scene": "一个城市与邻近城市签订了旅游资源共享协议，促进双方旅游业发展。",
+          "chineseIdea": "两个城市希望通过共享旅游资源吸引更多游客，带动经济增长。",
+          "sentenceWithBlank": "The tourism agreement has created a @ @ that boosts both cities' economies.",
+          "fullEnglishSentence": "The tourism agreement has created a 「beneficial partnership」 that boosts both cities' economies.",
+          "chineseTranslation": "旅游协议建立了一个「有益的伙伴关系」，促进了两个城市的经济发展。",
+          "chinglishFix": "典型中式英语：'The agreement helps both cities very much.' 纠正：'The agreement fosters a beneficial partnership for both cities.'（'beneficial partnership'更符合正式语境，且表达更地道。）"
+        }
+      ]
+    }
+  ]
+}
+```

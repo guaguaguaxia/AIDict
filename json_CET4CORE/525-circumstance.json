@@ -1,0 +1,53 @@
+```json
+{
+  "word": "circumstance",
+  "definitions": [
+    {
+      "meaning": "情况；环境；条件",
+      "usage": "指影响某事或某人的一组事实、条件或环境，通常是客观存在的背景或情境。",
+      "collocations": ["under the circumstances", "in these circumstances", "due to circumstances"],
+      "examples": [
+        {
+          "scene": "一位学生因为家庭经济困难，无法支付学费，正在与学校商量解决方案。",
+          "chineseIdea": "学生想表达由于当前的经济状况，无法继续学业，希望学校能理解。",
+          "sentenceWithBlank": "Given the financial difficulties, continuing education is challenging @ @ @.",
+          "fullEnglishSentence": "Given the financial difficulties, continuing education is challenging 「under the circumstances」.",
+          "chineseTranslation": "鉴于经济困难，继续学业在「当前情况下」很有挑战性。",
+          "chinglishFix": "典型中式英语：'Because my family's situation, I can't study.' 纠正：'Due to my family's financial circumstances, I am unable to continue my studies.'"
+        },
+        {
+          "scene": "一位员工因为公司突然裁员，失去了工作，正在向朋友解释情况。",
+          "chineseIdea": "员工想说明由于公司裁员的特殊情况，他暂时无法找到新工作。",
+          "sentenceWithBlank": "Finding a new job is tough @ @ @.",
+          "fullEnglishSentence": "Finding a new job is tough 「in these circumstances」.",
+          "chineseTranslation": "在「这些情况下」找新工作很困难。",
+          "chinglishFix": "典型中式英语：'Because company cut people, I no job.' 纠正：'Due to the company's layoffs, finding a job is difficult under these circumstances.'"
+        }
+      ]
+    },
+    {
+      "meaning": "事件；境况；细节",
+      "usage": "指特定的事件、事实或某事的具体细节，通常用来描述某件事情的来龙去脉。",
+      "collocations": ["extenuating circumstances", "unforeseen circumstances", "in certain circumstances"],
+      "examples": [
+        {
+          "scene": "一位律师在法庭上为客户辩护，试图说明客户的行为有特殊原因。",
+          "chineseIdea": "律师想表达客户的行为是由于特殊的事件或情况导致的。",
+          "sentenceWithBlank": "The client's actions were justified due to @ @.",
+          "fullEnglishSentence": "The client's actions were justified due to 「extenuating circumstances」.",
+          "chineseTranslation": "客户的行动由于「特殊情况」而被证明是正当的。",
+          "chinglishFix": "典型中式英语：'He do that because some special things.' 纠正：'His actions were due to extenuating circumstances.'"
+        },
+        {
+          "scene": "一家公司因供应链问题取消了产品发布会，向客户发送道歉信。",
+          "chineseIdea": "公司想解释由于意外事件，发布会不得不取消。",
+          "sentenceWithBlank": "The product launch was canceled because of @ @.",
+          "fullEnglishSentence": "The product launch was canceled because of 「unforeseen circumstances」.",
+          "chineseTranslation": "产品发布会因「意外情况」而取消。",
+          "chinglishFix": "典型中式英语：'We cancel because some sudden things.' 纠正：'The launch was canceled due to unforeseen circumstances.'"
+        }
+      ]
+    }
+  ]
+}
+```
