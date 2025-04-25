@@ -1,0 +1,53 @@
+```json
+{
+  "word": "motivation",
+  "definitions": [
+    {
+      "meaning": "内在或外在的驱动力，促使个人采取行动或追求目标",
+      "usage": "常用于描述个人或群体因某种原因（如奖励、兴趣、责任感）而采取行动的心理状态。可以指内在动机（如个人兴趣）或外在动机（如金钱奖励）。",
+      "collocations": ["find motivation", "lack motivation", "provide motivation", "intrinsic motivation", "extrinsic motivation"],
+      "examples": [
+        {
+          "scene": "一名大学生临近考试，但因为课程内容枯燥而提不起学习的兴趣。他在网上看到了一位学长分享的学习经验，提到通过设定小目标可以让自己更有动力。",
+          "chineseIdea": "通过设定小目标或找到学习的意义来激发内在的驱动力。",
+          "sentenceWithBlank": "After watching the video, he was able to @ @ to study harder for his exams.",
+          "fullEnglishSentence": "After watching the video, he was able to 「find motivation」 to study harder for his exams.",
+          "chineseTranslation": "在看完视频后，他能够「找到动力」更努力地为考试学习。",
+          "chinglishFix": "典型中式英语：'He got power to study.' 纠正：'Power' 过于抽象且不自然，应使用 'motivation' 来表达驱动力，如 'He found motivation to study.'"
+        },
+        {
+          "scene": "一家公司的员工因为长期重复的工作感到疲惫，士气低落。经理决定引入奖励机制，比如表现优秀的员工可以获得额外的假期。",
+          "chineseIdea": "通过外在的奖励来激发员工的工作热情。",
+          "sentenceWithBlank": "The new bonus system helped employees who previously @ @ to engage more with their tasks.",
+          "fullEnglishSentence": "The new bonus system helped employees who previously 「lacked motivation」 to engage more with their tasks.",
+          "chineseTranslation": "新的奖励机制帮助那些之前「缺乏动力」的员工更积极地投入工作。",
+          "chinglishFix": "典型中式英语：'They have no energy to work.' 纠正：'Energy' 在此不合适，应使用 'motivation'，如 'They lacked motivation to work.'"
+        }
+      ]
+    },
+    {
+      "meaning": "激励他人的行为或原因，特指通过语言、行动或奖励来激发他人",
+      "usage": "常用于描述某人或某事作为激励源，促使他人行动。常见于管理、教育或团队合作场景。",
+      "collocations": ["serve as motivation", "give motivation", "draw motivation"],
+      "examples": [
+        {
+          "scene": "一名高中生在运动会上看到队友奋力拼搏，拿下接力赛冠军。这让他决定更加认真地训练，争取明年也能获奖。",
+          "chineseIdea": "他人的成功或努力可以成为激励自己前进的动力。",
+          "sentenceWithBlank": "His teammate’s victory 「@ @ @」 for him to train harder.",
+          "fullEnglishSentence": "His teammate’s victory 「served as motivation」 for him to train harder.",
+          "chineseTranslation": "他队友的胜利「成为动力」，让他更加努力训练。",
+          "chinglishFix": "典型中式英语：'His teammate’s win gave him power.' 纠正：'Power' 不适合表达激励，应使用 'motivation'，如 'His teammate’s victory served as motivation.'"
+        },
+        {
+          "scene": "一名销售经理在团队会议上分享了一位客户对产品的积极反馈，鼓励团队继续保持高质量的服务。",
+          "chineseIdea": "通过正面反馈激励团队保持工作热情。",
+          "sentenceWithBlank": "The customer’s feedback 「@ @」 to the team to maintain their high standards.",
+          "fullEnglishSentence": "The customer’s feedback 「gave motivation」 to the team to maintain their high standards.",
+          "chineseTranslation": "客户的反馈「给予动力」，让团队保持高标准。",
+          "chinglishFix": "典型中式英语：'The feedback made the team excited.' 纠正：'Excited' 过于情绪化且不准确，应使用 'motivation'，如 'The feedback gave motivation to the team.'"
+        }
+      ]
+    }
+  ]
+}
+```

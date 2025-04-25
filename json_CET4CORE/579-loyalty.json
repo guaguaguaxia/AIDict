@@ -1,0 +1,53 @@
+```json
+{
+  "word": "loyalty",
+  "definitions": [
+    {
+      "meaning": "对某人、某组织或某信念的忠诚、忠实",
+      "usage": "指对某人、某团体或某事业的坚定支持或承诺，通常涉及情感上的依附或义务感，常用于描述人际关系、商业关系或对国家的忠诚。",
+      "collocations": ["undying loyalty", "pledge loyalty", "demonstrate loyalty"],
+      "examples": [
+        {
+          "scene": "在一个历史悠久的家族企业中，年轻的继承人面对是否继续家族传统的抉择。他感受到来自祖辈的期望，希望他能坚守家族的价值观。",
+          "chineseIdea": "他希望表达自己对家族传统的坚定承诺，即使面对现代化的诱惑也不会动摇。",
+          "sentenceWithBlank": "Despite the challenges, he showed @ @ to the family’s legacy.",
+          "fullEnglishSentence": "Despite the challenges, he showed 「undying loyalty」 to the family’s legacy.",
+          "chineseTranslation": "尽管面临挑战，他对家族遗产表现出了「坚定不移的忠诚」。",
+          "chinglishFix": "典型中式英语：'He is very loyal for family tradition.' 纠正：'He shows undying loyalty to the family tradition.'（避免用介词'for'，用'to'表示忠诚的对象；'loyal'改为具体搭配'undying loyalty'更自然。）"
+        },
+        {
+          "scene": "在一个政治活动中，新当选的官员在公开演讲中向支持者承诺，将始终与他们的利益站在一起。",
+          "chineseIdea": "他想表达对选民的坚定支持，表明自己会信守竞选时的承诺。",
+          "sentenceWithBlank": "In his speech, he vowed to @ @ to the voters who supported him.",
+          "fullEnglishSentence": "In his speech, he vowed to 「pledge loyalty」 to the voters who supported him.",
+          "chineseTranslation": "在演讲中，他誓言对支持他的选民「宣誓忠诚」。",
+          "chinglishFix": "典型中式英语：'He promises loyal to voters.' 纠正：'He pledges loyalty to the voters.'（'promise'不常与'loyalty'搭配，'pledge loyalty'是固定表达；'loyal'需改为'loyalty'作为名词。）"
+        }
+      ]
+    },
+    {
+      "meaning": "对品牌、产品或服务的持续支持或偏好",
+      "usage": "常用于商业或市场营销语境，指消费者对某一品牌或产品的持续购买或偏好，通常与信任和习惯相关。",
+      "collocations": ["brand loyalty", "customer loyalty", "foster loyalty"],
+      "examples": [
+        {
+          "scene": "一家咖啡店通过提供会员积分和个性化服务，吸引顾客反复光顾，即使附近有更便宜的竞争对手。",
+          "chineseIdea": "店家希望顾客因为对品牌的信任和喜爱而持续选择他们的服务。",
+          "sentenceWithBlank": "Their rewards program helps build @ @ among regular customers.",
+          "fullEnglishSentence": "Their rewards program helps build 「brand loyalty」 among regular customers.",
+          "chineseTranslation": "他们的奖励计划有助于在常客中建立「品牌忠诚度」。",
+          "chinglishFix": "典型中式英语：'This program makes customers loyal to brand.' 纠正：'This program fosters brand loyalty among customers.'（'make loyal'不自然，'foster brand loyalty'是常见搭配；注意介词'among'用于群体。）"
+        },
+        {
+          "scene": "一家在线购物平台通过快速配送和优质客服，赢得了一批长期用户，即使价格略高他们仍选择该平台。",
+          "chineseIdea:" "平台希望通过优质服务让用户持续选择他们，形成长期的信任关系。",
+          "sentenceWithBlank": "Excellent service is key to maintaining @ @ in a competitive market.",
+          "fullEnglishSentence": "Excellent service is key to maintaining 「customer loyalty」 in a competitive market.",
+          "chineseTranslation": "优质的服务是在竞争市场中保持「客户忠诚度」的关键。",
+          "chinglishFix": "典型中式英语：'Good service keeps customers loyal.' 纠正：'Excellent service maintains customer loyalty.'（'keep loyal'不够正式，'maintain customer loyalty'更常见；'good'改为'excellent'更符合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "misguided",
+  "definitions": [
+    {
+      "meaning": "错误的或被误导的判断或行为，通常因为缺乏正确的信息或理解",
+      "usage": "形容某人的行为、决定或信念由于错误的信息、理解或判断而偏离正确方向，常用于批评或表示遗憾的语境。",
+      "collocations": ["misguided attempt", "misguided belief", "misguided policy"],
+      "examples": [
+        {
+          "scene": "一位年轻人在社交媒体上看到一些关于快速致富的建议，决定辞职并投入所有积蓄到一个看似有前景的加密货币项目中，但最终发现这是一个骗局。",
+          "chineseIdea": "他以为这个项目能让他一夜暴富，但实际上他被虚假信息误导了。",
+          "sentenceWithBlank": "His @ @ to get rich quick led to a huge financial loss.",
+          "fullEnglishSentence": "His 「misguided attempt」 to get rich quick led to a huge financial loss.",
+          "chineseTranslation": "他「错误的尝试」想一夜暴富导致了巨大的财务损失。",
+          "chinglishFix": "典型中式英语：'His wrong try to rich fast failed.' 纠正：'His misguided attempt to get rich quick failed.'（'wrong try'不地道，'rich fast'应为'get rich quick'，动词搭配更自然。）"
+        },
+        {
+          "scene": "一位学生在准备英语考试时，坚信只需要背单词就能得高分，因此忽略了语法和写作练习，结果考试成绩很差。",
+          "chineseIdea": "她以为只背单词就够了，但这种想法完全错了。",
+          "sentenceWithBlank": "Her @ @ that vocabulary alone would ensure success was proven wrong.",
+          "fullEnglishSentence": "Her 「misguided belief」 that vocabulary alone would ensure success was proven wrong.",
+          "chineseTranslation": "她「错误的信念」认为只背单词就能成功被证明是错的。",
+          "chinglishFix": "典型中式英语：'Her wrong thinking about vocabulary was incorrect.' 纠正：'Her misguided belief about vocabulary was proven wrong.'（'wrong thinking'不地道，'belief'更贴合语境，'proven wrong'更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "对某人或某事的不恰当引导或错误指导，通常指给予错误的建议或方向",
+      "usage": "形容某人或某群体被他人错误地引导或指导，导致行动或决定偏离正轨，常用于描述教育、领导或建议中的失误。",
+      "collocations": ["misguided advice", "misguided effort", "misguided leadership"],
+      "examples": [
+        {
+          "scene": "一位新手经理在团队项目中接受了一个朋友的建议，决定采用一种不适合团队的复杂软件工具，结果项目进度严重滞后。",
+          "chineseIdea": "他以为这个工具会提高效率，但实际上这个建议完全不适合他的团队。",
+          "sentenceWithBlank": "The manager followed @ @ and wasted months on an unsuitable tool.",
+          "fullEnglishSentence": "The manager followed 「misguided advice」 and wasted months on an unsuitable tool.",
+          "chineseTranslation": "经理听从了「错误的建议」，在不合适的工具上浪费了几个月。",
+          "chinglishFix": "典型中式英语：'He took bad advice and lost time.' 纠正：'He followed misguided advice and wasted months.'（'bad advice'过于笼统，'misguided advice'更具体，'lost time'不如'wasted months'精确。）"
+        },
+        {
+          "scene": "一位志愿者组织负责人试图通过举办一场豪华的筹款活动来吸引捐款，但由于活动成本过高，反而导致组织资金短缺。",
+          "chineseIdea": "他以为豪华活动会吸引更多捐款，但这种努力完全背离了初衷。",
+          "sentenceWithBlank": "The organizer’s @ @ to host a lavish event backfired spectacularly.",
+          "fullEnglishSentence": "The organizer’s 「misguided effort」 to host a lavish event backfired spectacularly.",
+          "chineseTranslation": "组织者的「错误努力」举办一场豪华活动反而彻底失败。",
+          "chinglishFix": "典型中式英语：'His wrong effort for event failed badly.' 纠正：'His misguided effort to host a lavish event backfired spectacularly.'（'wrong effort'不地道，'misguided effort'更自然，'failed badly'不如'backfired spectacularly'生动。）"
+        }
+      ]
+    }
+  ]
+}
+```
