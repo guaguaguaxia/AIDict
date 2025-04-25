@@ -1,0 +1,76 @@
+```json
+{
+  "word": "confirm",
+  "definitions": [
+    {
+      "meaning": "证实或证明某事为真",
+      "usage": "用于验证信息、事实或情况的真实性，常用于正式或半正式场合，如商务、法律或日常对话中。",
+      "collocations": ["confirm a booking", "confirm the details", "confirm an appointment"],
+      "examples": [
+        {
+          "scene": "你在一家餐厅通过电话预订了座位，挂断电话前，餐厅服务员需要确保你的预订信息无误。",
+          "chineseIdea": "服务员想要确保你的预订时间和人数是正确的，以避免任何误解。",
+          "sentenceWithBlank": "Can you please @ @ @ for tomorrow at 7 PM?",
+          "fullEnglishSentence": "Can you please 「confirm a booking」 for tomorrow at 7 PM?",
+          "chineseTranslation": "请你确认一下明天晚上7点的「预订」吗？",
+          "chinglishFix": "典型中式英语：Please sure the booking. 纠正：Please confirm the booking."
+        },
+        {
+          "scene": "你和同事正在准备一场重要的会议，负责人要求你核对会议的时间和地点。",
+          "chineseIdea": "你需要检查并验证会议的具体信息，确保所有细节都准确无误。",
+          "sentenceWithBlank": "I’ll call the venue to @ @ @ of the meeting.",
+          "fullEnglishSentence": "I’ll call the venue to 「confirm the details」 of the meeting.",
+          "chineseTranslation": "我会打电话给场地确认会议的「细节」。",
+          "chinglishFix": "典型中式英语：I will check the meeting’s information. 纠正：I will confirm the details of the meeting."
+        }
+      ]
+    },
+    {
+      "meaning": "正式批准或认可",
+      "usage": "用于表示正式同意或批准某事，如合同、职位或决定，通常出现在正式文件或场合中。",
+      "collocations": ["confirm an order", "confirm a position", "confirm a decision"],
+      "examples": [
+        {
+          "scene": "你在网上购买了一件商品，支付完成后，卖家发送了一封邮件，确保你的订单已进入处理流程。",
+          "chineseIdea": "卖家需要正式通知你，订单已经接受并开始处理。",
+          "sentenceWithBlank": "We are pleased to @ @ @ for your recent purchase.",
+          "fullEnglishSentence": "We are pleased to 「confirm an order」 for your recent purchase.",
+          "chineseTranslation": "我们很高兴为您的近期购买「确认订单」。",
+          "chinglishFix": "典型中式英语：We agree your order. 纠正：We confirm your order."
+        },
+        {
+          "scene": "你在公司申请了一个新职位，经过面试后，人力资源部门发邮件通知你已被录用。",
+          "chineseIdea": "人力资源部门需要正式通知你，你已经被选为该职位的候选人。",
+          "sentenceWithBlank": "We are delighted to @ @ @ as our new Marketing Manager.",
+          "fullEnglishSentence": "We are delighted to 「confirm a position」 as our new Marketing Manager.",
+          "chineseTranslation": "我们很高兴「确认职位」，您将成为我们的新市场经理。",
+          "chinglishFix": "典型中式英语：We decide you for the job. 纠正：We confirm your position."
+        }
+      ]
+    },
+    {
+      "meaning": "加强或巩固（信念、感觉等）",
+      "usage": "用于表示某事进一步强化了某种观点、信念或感觉，常用于描述抽象的情感或认知。",
+      "collocations": ["confirm a belief", "confirm a suspicion", "confirm a feeling"],
+      "examples": [
+        {
+          "scene": "你听说一个朋友可能在背后说你坏话，后来你发现了一些证据，证实了你的猜测。",
+          "chineseIdea": "你原本只是怀疑，但现在有了证据，让你更加确信自己的想法。",
+          "sentenceWithBlank": "The messages I found @ @ @ that she was talking behind my back.",
+          "fullEnglishSentence": "The messages I found 「confirmed a suspicion」 that she was talking behind my back.",
+          "chineseTranslation": "我找到的信息「证实了怀疑」，她在背后说我坏话。",
+          "chinglishFix": "典型中式英语：The messages prove I doubt her. 纠正：The messages confirm my suspicion about her."
+        },
+        {
+          "scene": "你参加了一场关于环保的讲座，演讲者的观点让你更加坚定了自己对环保的信念。",
+          "chineseIdea": "讲座的内容让你更加相信保护环境的重要性。",
+          "sentenceWithBlank": "The speaker’s words @ @ @ in the importance of sustainability.",
+          "fullEnglishSentence": "The speaker’s words 「confirmed a belief」 in the importance of sustainability.",
+          "chineseTranslation": "演讲者的话「坚定了信念」，可持续发展的确很重要。",
+          "chinglishFix": "典型中式英语：The speaker makes me more believe environment. 纠正：The speaker confirmed my belief in environmental protection."
+        }
+      ]
+    }
+  ]
+}
+```

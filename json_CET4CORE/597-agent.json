@@ -1,0 +1,76 @@
+```json
+{
+  "word": "agent",
+  "definitions": [
+    {
+      "meaning": "代表或代理人，为他人或组织处理事务",
+      "usage": "指某人代表另一人或实体进行谈判、交易或执行特定任务，常用于商业、法律或娱乐行业。",
+      "collocations": ["act as an agent", "real estate agent", "travel agent", "secret agent"],
+      "examples": [
+        {
+          "scene": "你在一家房地产公司工作，客户需要购买一套房子，但他们没有时间亲自看房或处理文件，因此委托了一位专业人士来代表他们。",
+          "chineseIdea": "客户希望有人能代替他们完成买房的所有流程，包括看房、谈判和签署合同。",
+          "sentenceWithBlank": "She was hired to @ @ @ for the couple, handling all the paperwork and negotiations.",
+          "fullEnglishSentence": "She was hired to 「act as an agent」 for the couple, handling all the paperwork and negotiations.",
+          "chineseTranslation": "她被雇来为这对夫妇「充当代理人」，处理所有文书工作和谈判。",
+          "chinglishFix": "中式英语：She is their agent to buy house. 纠正：She acts as their agent to handle the home purchase."
+        },
+        {
+          "scene": "你正在计划一次海外旅行，但对目的地的酒店和行程安排不熟悉，因此你联系了一位专业人士来帮助你规划。",
+          "chineseIdea": "希望有人能帮你安排机票、酒店和旅游行程，省去自己研究的麻烦。",
+          "sentenceWithBlank": "The @ @ helped us book flights and hotels for our trip to Europe.",
+          "fullEnglishSentence": "The 「travel agent」 helped us book flights and hotels for our trip to Europe.",
+          "chineseTranslation": "「旅行代理人」帮我们预订了去欧洲的机票和酒店。",
+          "chinglishFix": "中式英语：He is a travel agent to book tickets. 纠正：He is a travel agent who helps book tickets."
+        }
+      ]
+    },
+    {
+      "meaning": "特工或间谍，为政府或组织执行秘密任务",
+      "usage": "指在情报、军事或执法领域中执行秘密或特殊任务的人，常出现在电影、文学或新闻报道中。",
+      "collocations": ["secret agent", "double agent", "undercover agent", "field agent"],
+      "examples": [
+        {
+          "scene": "在一部间谍电影中，主角需要潜入敌方基地获取机密情报，任务充满危险且需要高度保密。",
+          "chineseIdea": "主角是一个受过特殊训练的人，能够在敌人不知情的情况下完成任务。",
+          "sentenceWithBlank": "The @ @ was sent to infiltrate the organization and gather critical information.",
+          "fullEnglishSentence": "The 「secret agent」 was sent to infiltrate the organization and gather critical information.",
+          "chineseTranslation": "「特工」被派去渗透该组织并收集关键情报。",
+          "chinglishFix": "中式英语：He is a secret agent to spy. 纠正：He is a secret agent tasked with espionage."
+        },
+        {
+          "scene": "在一次警方行动中，一名警员需要伪装成罪犯，与犯罪团伙接触以获取他们的计划。",
+          "chineseIdea": "警方需要有人混入犯罪团伙，获取内部信息，同时不暴露自己的真实身份。",
+          "sentenceWithBlank": "The @ @ posed as a buyer to gain the trust of the smugglers.",
+          "fullEnglishSentence": "The 「undercover agent」 posed as a buyer to gain the trust of the smugglers.",
+          "chineseTranslation": "「卧底特工」伪装成买家以赢得走私者的信任。",
+          "chinglishFix": "中式英语：He is an undercover agent to pretend buyer. 纠正：He is an undercover agent posing as a buyer."
+        }
+      ]
+    },
+    {
+      "meaning": "作用物或因素，引起某种变化或效果",
+      "usage": "指在科学、技术或抽象语境中，作为引起某种结果的物质、力量或因素，常用于描述化学、物理或比喻性场景。",
+      "collocations": ["cleaning agent", "chemical agent", "change agent", "bonding agent"],
+      "examples": [
+        {
+          "scene": "你在家打扫卫生，发现厨房的油渍很难清理，因此购买了一种专门的清洁产品来帮助去除污渍。",
+          "chineseIdea": "需要一种强效的清洁产品，能快速分解油渍，让厨房恢复干净。",
+          "sentenceWithBlank": "This @ @ is highly effective at removing grease from kitchen surfaces.",
+          "fullEnglishSentence": "This 「cleaning agent」 is highly effective at removing grease from kitchen surfaces.",
+          "chineseTranslation": "这种「清洁剂」在去除厨房表面的油渍方面非常有效。",
+          "chinglishFix": "中式英语：This is a cleaning agent to clean oil. 纠正：This cleaning agent effectively removes grease."
+        },
+        {
+          "scene": "在一家公司中，新上任的经理带来了许多创新的改革，推动了团队效率的提升。",
+          "chineseIdea": "新经理通过引入新方法和激励员工，成为了公司变革的推动力。",
+          "sentenceWithBlank": "The new manager acted as a @ @, transforming the company’s workflow.",
+          "fullEnglishSentence": "The new manager acted as a 「change agent」, transforming the company’s workflow.",
+          "chineseTranslation": "新经理作为一个「变革推动者」，转变了公司的工作流程。",
+          "chinglishFix": "中式英语：He is a change agent to change company. 纠正：He is a change agent driving company transformation."
+        }
+      ]
+    }
+  ]
+}
+```

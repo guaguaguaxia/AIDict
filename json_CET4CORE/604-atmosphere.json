@@ -1,0 +1,53 @@
+```json
+{
+  "word": "atmosphere",
+  "definitions": [
+    {
+      "meaning": "地球周围的气体层",
+      "usage": "指包裹地球的空气层，常用于科学、气象或环境相关的语境中，描述空气的组成、状态或现象。",
+      "collocations": ["polluted atmosphere", "upper atmosphere", "atmospheric pressure"],
+      "examples": [
+        {
+          "scene": "在一个关于环境保护的课堂上，老师正在讲解工业污染对地球的影响，学生们讨论如何减少排放。",
+          "chineseIdea": "工业活动释放的污染物会破坏地球周围的空气层，导致气候变化。",
+          "sentenceWithBlank": "The heavy industrial emissions have created a @ @, harming both ecosystems and human health.",
+          "fullEnglishSentence": "The heavy industrial emissions have created a 「polluted atmosphere」, harming both ecosystems and human health.",
+          "chineseTranslation": "重工业排放造成了一个「污染的大气」，对生态系统和人类健康造成了伤害。",
+          "chinglishFix": "典型中式英语：'The industry makes the air dirty.' 纠正：'Industrial emissions pollute the atmosphere.'"
+        },
+        {
+          "scene": "一个气象学家在电视节目中解释为什么高空飞行时飞机需要特别的设备来应对环境变化。",
+          "chineseIdea": "在地球高空，空气稀薄，气压和温度都会发生显著变化。",
+          "sentenceWithBlank": "Pilots must account for changes in the @ @ when flying at high altitudes.",
+          "fullEnglishSentence": "Pilots must account for changes in the 「upper atmosphere」 when flying at high altitudes.",
+          "chineseTranslation": "飞行员在高空飞行时必须考虑「高层大气」的变化。",
+          "chinglishFix": "典型中式英语：'The high air is different.' 纠正：'The upper atmosphere has different conditions.'"
+        }
+      ]
+    },
+    {
+      "meaning": "某场所或情境的情绪或氛围",
+      "usage": "描述一个地方、事件或社交场合给人的感觉或情绪，常用于描述抽象的心理或情感环境。",
+      "collocations": ["relaxed atmosphere", "tense atmosphere", "festive atmosphere"],
+      "examples": [
+        {
+          "scene": "在一个咖啡馆里，朋友们围坐在一起，享受着轻松的周末时光，背景音乐轻柔地播放。",
+          "chineseIdea": "这个地方让人感到舒适和放松，非常适合聊天和休息。",
+          "sentenceWithBlank": "The soft lighting and gentle music created a @ @ in the café.",
+          "fullEnglishSentence": "The soft lighting and gentle music created a 「relaxed atmosphere」 in the café.",
+          "chineseTranslation": "柔和的灯光和轻音乐在咖啡馆里营造了一种「轻松的氛围」。",
+          "chinglishFix": "典型中式英语：'The café feels relax.' 纠正：'The café has a relaxed atmosphere.'"
+        },
+        {
+          "scene": "在一个公司会议室里，团队正在讨论一个棘手的项目问题，气氛变得有些压抑。",
+          "chineseIdea": "由于意见分歧和时间压力，会议室里的气氛变得紧张。",
+          "sentenceWithBlank": "The disagreement among team members led to a @ @ during the meeting.",
+          "fullEnglishSentence": "The disagreement among team members led to a 「tense atmosphere」 during the meeting.",
+          "chineseTranslation": "团队成员之间的分歧导致会议期间出现了一种「紧张的氛围」。",
+          "chinglishFix": "典型中式英语：'The meeting is nervous.' 纠正：'The meeting had a tense atmosphere.'"
+        }
+      ]
+    }
+  ]
+}
+```
