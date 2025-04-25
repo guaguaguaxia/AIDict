@@ -1,0 +1,53 @@
+```json
+{
+  "word": "alternative",
+  "definitions": [
+    {
+      "meaning": "可供选择的，替代的",
+      "usage": "指提供另一种选择或可能性，通常用于描述可以替代现有选项的事物或方法。",
+      "collocations": ["alternative approach", "alternative solution", "alternative energy"],
+      "examples": [
+        {
+          "scene": "一家公司正在讨论如何提高生产效率，经理提出了一个新的工作流程。",
+          "chineseIdea": "经理认为可以通过改变工作流程来提高效率，提出了一个不同的方法。",
+          "sentenceWithBlank": "We should consider an @ @ to improve our productivity.",
+          "fullEnglishSentence": "We should consider an 「alternative approach」 to improve our productivity.",
+          "chineseTranslation": "我们应该考虑一种「替代方法」来提高生产效率。",
+          "chinglishFix": "中式英语：We should try another way for productivity. 纠正：We should consider an alternative approach to improve our productivity."
+        },
+        {
+          "scene": "一群学生在讨论如何解决校园停车位不足的问题，有人建议使用共享单车。",
+          "chineseIdea": "学生认为共享单车可以减少对停车位的需求，是一种可行的解决方案。",
+          "sentenceWithBlank": "Using bikes could be an @ @ to the parking issue.",
+          "fullEnglishSentence": "Using bikes could be an 「alternative solution」 to the parking issue.",
+          "chineseTranslation": "使用自行车可以是解决停车问题的「替代解决方案」。",
+          "chinglishFix": "中式英语：Bikes can solve parking problem. 纠正：Using bikes could be an alternative solution to the parking issue."
+        }
+      ]
+    },
+    {
+      "meaning": "非传统的，另类的",
+      "usage": "指与主流或传统不同的风格、方法或生活方式，常用于描述标新立异或非正统的事物。",
+      "collocations": ["alternative lifestyle", "alternative music", "alternative medicine"],
+      "examples": [
+        {
+          "scene": "一个年轻人决定放弃城市生活，搬到乡下种植有机蔬菜。",
+          "chineseIdea": "这个年轻人想要过一种与城市快节奏不同的生活，选择了一种非传统的生活方式。",
+          "sentenceWithBlank": "She chose an @ @ by moving to the countryside.",
+          "fullEnglishSentence": "She chose an 「alternative lifestyle」 by moving to the countryside.",
+          "chineseTranslation": "她通过搬到乡下选择了「另类生活方式」。",
+          "chinglishFix": "中式英语：She wants a different life in village. 纠正：She chose an alternative lifestyle by moving to the countryside."
+        },
+        {
+          "scene": "一个朋友向你推荐一种非传统的治疗方法，比如针灸，来缓解慢性疼痛。",
+          "chineseIdea": "朋友认为针灸可以作为西药之外的另一种选择来治疗疼痛。",
+          "sentenceWithBlank": "Have you tried @ @ for your back pain?",
+          "fullEnglishSentence": "Have you tried 「alternative medicine」 for your back pain?",
+          "chineseTranslation": "你有没有尝试过「替代医学」来治疗背痛？",
+          "chinglishFix": "中式英语：You can use other medicine for pain. 纠正：Have you tried alternative medicine for your back pain?"
+        }
+      ]
+    }
+  ]
+}
+```

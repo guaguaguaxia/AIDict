@@ -1,0 +1,53 @@
+```json
+{
+  "word": "affectionate",
+  "definitions": [
+    {
+      "meaning": "表达爱或喜欢的感情，温柔亲切的",
+      "usage": "通常用来形容一个人或其行为表现出温暖、关爱或亲密的情感，常用于人与人之间（如家人、朋友、恋人）或人与宠物之间的关系。",
+      "collocations": ["an affectionate gesture", "an affectionate smile", "an affectionate tone"],
+      "examples": [
+        {
+          "scene": "在一个温馨的家庭聚会上，母亲在厨房忙碌后，坐在沙发上，轻轻地抚摸着女儿的头发，脸上带着温柔的笑容。",
+          "chineseIdea": "母亲通过身体接触和温暖的表情，向女儿传递深深的爱和关怀。",
+          "sentenceWithBlank": "The mother showed her love with @ @ @ towards her daughter.",
+          "fullEnglishSentence": "The mother showed her love with 「an affectionate gesture」 towards her daughter.",
+          "chineseTranslation": "母亲通过「温柔的举动」向女儿表达了她的爱。",
+          "chinglishFix": "典型中式英语：The mother used a kind action to her daughter. 纠正：The mother showed her love with an affectionate gesture towards her daughter."
+        },
+        {
+          "scene": "在一个安静的咖啡馆里，一对老夫妇对坐着，丈夫微笑着对妻子说话，声音里充满了柔情。",
+          "chineseIdea": "丈夫用温暖的语气和微笑表达对妻子的深情和关怀。",
+          "sentenceWithBlank": "The husband spoke to his wife in @ @ @, full of warmth.",
+          "fullEnglishSentence": "The husband spoke to his wife in 「an affectionate tone」, full of warmth.",
+          "chineseTranslation": "丈夫用「充满深情的语气」对妻子说话，充满了温暖。",
+          "chinglishFix": "典型中式英语：The husband used a warm voice to his wife. 纠正：The husband spoke to his wife in an affectionate tone."
+        }
+      ]
+    },
+    {
+      "meaning": "充满感情的，深情的（尤指书面表达或信件）",
+      "usage": "常用于描述书信、话语或文字表达中带有深情或亲密的情感，特别是在正式或亲密的书面交流中。",
+      "collocations": ["an affectionate letter", "an affectionate nickname", "an affectionate message"],
+      "examples": [
+        {
+          "scene": "一个大学生在国外留学，写了一封长信给远在家乡的父母，信中充满了思念和感恩。",
+          "chineseIdea": "学生通过信件表达对父母的深厚感情，用亲切的语言拉近距离。",
+          "sentenceWithBlank": "The student sent @ @ @ to their parents, filled with love and gratitude.",
+          "fullEnglishSentence": "The student sent 「an affectionate letter」 to their parents, filled with love and gratitude.",
+          "chineseTranslation": "学生给父母寄了一封「充满深情的信」，满载爱与感恩。",
+          "chinglishFix": "典型中式英语：The student wrote a warm letter to their parents. 纠正：The student sent an affectionate letter to their parents."
+        },
+        {
+          "scene": "在一个朋友的生日派对上，主持人读了一段写在卡片上的祝福，称呼寿星为一个亲昵的绰号。",
+          "chineseIdea": "通过亲昵的称呼，表达对朋友的喜爱和亲近感。",
+          "sentenceWithBlank": "The host used @ @ @ to address the birthday friend, showing closeness.",
+          "fullEnglishSentence": "The host used 「an affectionate nickname」 to address the birthday friend, showing closeness.",
+          "chineseTranslation": "主持人用「亲昵的昵称」称呼生日朋友，表现出亲近感。",
+          "chinglishFix": "典型中式英语：The host called the friend with a kind name. 纠正：The host used an affectionate nickname to address the friend."
+        }
+      ]
+    }
+  ]
+}
+```

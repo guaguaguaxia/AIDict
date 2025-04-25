@@ -1,0 +1,76 @@
+```json
+{
+  "word": "column",
+  "definitions": [
+    {
+      "meaning": "报纸或杂志中的专栏文章",
+      "usage": "指定期在报纸、杂志或网站上刊登的文章，通常由特定作者撰写，主题固定，如评论、建议或个人见解。",
+      "collocations": ["write a column", "read a column", "weekly column", "opinion column"],
+      "examples": [
+        {
+          "scene": "一位年轻的中国记者在一家英文报纸工作，负责每周撰写一篇关于科技趋势的文章，吸引了许多科技爱好者的关注。",
+          "chineseIdea": "记者通过定期文章分享对科技行业的见解，表达个人观点，并与读者互动。",
+          "sentenceWithBlank": "She was excited to @ @ @ for the newspaper about emerging tech trends.",
+          "fullEnglishSentence": "She was excited to 「write a column」 for the newspaper about emerging tech trends.",
+          "chineseTranslation": "她很兴奋能为报纸「撰写专栏」文章，介绍新兴科技趋势。",
+          "chinglishFix": "Chinglish: She is happy to write article for newspaper every week. Correct: She is excited to write a column for the newspaper weekly."
+        },
+        {
+          "scene": "一位在中国的外国留学生订阅了一份英文杂志，每周都会阅读一篇关于文化差异的文章，觉得很有启发。",
+          "chineseIdea": "通过阅读定期文章，了解不同文化的独特视角，拓宽视野。",
+          "sentenceWithBlank": "He always looks forward to @ @ @ on cultural insights in the magazine.",
+          "fullEnglishSentence": "He always looks forward to 「reading a column」 on cultural insights in the magazine.",
+          "chineseTranslation": "他总是期待「阅读专栏」文章，了解杂志中的文化见解。",
+          "chinglishFix": "Chinglish: He likes to read article about culture every week. Correct: He enjoys reading a column on culture every week."
+        }
+      ]
+    },
+    {
+      "meaning": "建筑中的柱子或圆柱",
+      "usage": "指建筑物中垂直的结构，用于支撑或装饰，常出现在古典建筑或现代设计中。",
+      "collocations": ["marble column", "stone column", "supporting column", "decorative column"],
+      "examples": [
+        {
+          "scene": "一位中国游客在希腊雅典参观帕特农神庙，被宏伟的石柱震撼，忍不住拍照留念。",
+          "chineseIdea": "这些柱子不仅是建筑的支撑，还象征着古希腊文化的庄严与美感。",
+          "sentenceWithBlank": "The ancient temple was adorned with impressive @ @ that stood tall for centuries.",
+          "fullEnglishSentence": "The ancient temple was adorned with impressive 「marble columns」 that stood tall for centuries.",
+          "chineseTranslation": "这座古老的神庙装饰着令人印象深刻的「大理石柱」，它们屹立了数个世纪。",
+          "chinglishFix": "Chinglish: The temple has many stone sticks. Correct: The temple is supported by many stone columns."
+        },
+        {
+          "scene": "一位建筑系的学生在设计一座现代博物馆时，决定加入几根装饰性的柱子来提升美感。",
+          "chineseIdea": "通过柱子的设计，增加建筑的艺术感和空间层次。",
+          "sentenceWithBlank": "Her museum design included several @ @ to enhance its aesthetic appeal.",
+          "fullEnglishSentence": "Her museum design included several 「decorative columns」 to enhance its aesthetic appeal.",
+          "chineseTranslation": "她的博物馆设计包括几根「装饰柱」，以增强其美学吸引力。",
+          "chinglishFix": "Chinglish: She put some columns for beauty. Correct: She incorporated decorative columns to enhance the beauty."
+        }
+      ]
+    },
+    {
+      "meaning": "表格或列表中的一列",
+      "usage": "指表格、数据库或电子表格中垂直排列的数据，通常用于组织信息。",
+      "collocations": ["fill in a column", "add a column", "sort a column", "data column"],
+      "examples": [
+        {
+          "scene": "一位中国大学生在用Excel整理实习公司的销售数据，需要在表格中添加一列来记录销售额。",
+          "chineseIdea": "通过在表格中增加一列，清晰地展示额外的数据，方便分析。",
+          "sentenceWithBlank": "She decided to @ @ @ to the spreadsheet to track sales figures.",
+          "fullEnglishSentence": "She decided to 「add a column」 to the spreadsheet to track sales figures.",
+          "chineseTranslation": "她决定在电子表格中「添加一列」来跟踪销售数据。",
+          "chinglishFix": "Chinglish: She put one more line in the table. Correct: She added a column to the table."
+        },
+        {
+          "scene": "一位程序员在设计数据库时，需要对客户信息表格中的一列进行排序，以便快速查找。",
+          "chineseIdea": "通过对表格中的一列排序，提高数据检索的效率。",
+          "sentenceWithBlank": "He needed to @ @ @ in the database to organize the customer names alphabetically.",
+          "fullEnglishSentence": "He needed to 「sort a column」 in the database to organize the customer names alphabetically.",
+          "chineseTranslation": "他需要对数据库中的「一列进行排序」，以按字母顺序组织客户姓名。",
+          "chinglishFix": "Chinglish: He arrange one line in database. Correct: He sorted a column in the database."
+        }
+      ]
+    }
+  ]
+}
+```

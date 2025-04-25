@@ -1,0 +1,53 @@
+```json
+{
+  "word": "convenient",
+  "definitions": [
+    {
+      "meaning": "适合的，便利的，方便的（指事物或行动易于使用、节省时间或努力）",
+      "usage": "常用于描述某事物、地点或时间安排对某人来说省时省力，强调实用性和易用性。通常作形容词，放在名词前或与系动词搭配（如is convenient）。",
+      "collocations": ["convenient location", "convenient time", "convenient access", "convenient way"],
+      "examples": [
+        {
+          "scene": "你在上海工作，计划周末去超市购物。因为工作繁忙，你希望找一家离家近、停车方便的超市，这样可以节省时间。",
+          "chineseIdea": "你想表达这家超市的位置对你来说很方便，因为它离家近且容易到达。",
+          "sentenceWithBlank": "The supermarket has a @ @, so I can get there quickly after work.",
+          "fullEnglishSentence": "The supermarket has a 「convenient location」, so I can get there quickly after work.",
+          "chineseTranslation": "这家超市有一个「方便的位置」，所以我下班后可以很快到达。",
+          "chinglishFix": "典型中式英语：'This supermarket is very near, so it is convenient.' 纠正：'This supermarket has a convenient location, so I can get there easily.'（避免直接用'near'，用'convenient location'更自然。）"
+        },
+        {
+          "scene": "你和朋友计划聚会，但大家的工作时间不同。你提议在周六晚上见面，因为这个时间对大多数人来说都合适。",
+          "chineseIdea": "你想说明周六晚上是一个方便的时间，因为大家都有空。",
+          "sentenceWithBlank": "Let’s meet on Saturday evening since it’s a @ @ for everyone.",
+          "fullEnglishSentence": "Let’s meet on Saturday evening since it’s a 「convenient time」 for everyone.",
+          "chineseTranslation": "我们周六晚上见面吧，因为这是一个对大家来说「方便的时间」。",
+          "chinglishFix": "典型中式英语：'Saturday evening is good because everyone is free.' 纠正：'Saturday evening is a convenient time because everyone is available.'（用'convenient time'更符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "近便的，方便的（指物理上的接近，某事物在附近且易于到达）",
+      "usage": "强调某事物因地理位置近而方便，通常用于描述商店、设施等地点的物理便利性。常与介词to或for连用，如convenient to a place或convenient for someone。",
+      "collocations": ["convenient to the station", "convenient for shopping", "convenient parking"],
+      "examples": [
+        {
+          "scene": "你刚搬到北京的一个新小区，发现附近有一个地铁站，走路只需五分钟。你觉得这个位置对通勤很方便。",
+          "chineseIdea": "你想表达这个小区离地铁站很近，方便出行。",
+          "sentenceWithBlank": "My new apartment is @ @ @ @, which makes commuting easy.",
+          "fullEnglishSentence": "My new apartment is 「convenient to the station」, which makes commuting easy.",
+          "chineseTranslation": "我的新公寓「离车站很近」，这让通勤变得很方便。",
+          "chinglishFix": "典型中式英语：'My apartment is near the station, so it’s convenient.' 纠正：'My apartment is convenient to the station, making commuting easy.'（使用'convenient to'更地道，句式更流畅。）"
+        },
+        {
+          "scene": "你在杭州旅游，住的酒店附近有很多商场和餐馆。你觉得这个酒店的位置对购物和吃饭都很方便。",
+          "chineseIdea": "你想说明酒店的位置便于购物，因为周边有很多商店。",
+          "sentenceWithBlank": "The hotel is @ @ @, so I can buy souvenirs easily.",
+          "fullEnglishSentence": "The hotel is 「convenient for shopping」, so I can buy souvenirs easily.",
+          "chineseTranslation": "这家酒店「便于购物」，所以我可以轻松买到纪念品。",
+          "chinglishFix": "典型中式英语：'The hotel is good for shopping because it’s near shops.' 纠正：'The hotel is convenient for shopping, so I can easily buy souvenirs.'（用'convenient for'更简洁自然。）"
+        }
+      ]
+    }
+  ]
+}
+```
