@@ -1,0 +1,53 @@
+```json
+{
+  "word": "technician",
+  "definitions": [
+    {
+      "meaning": "从事技术工作或修理的专业人员，通常涉及操作、维护或修理设备或系统",
+      "usage": "指在特定领域具有专业技能的人，通常涉及实际操作，如修理电子设备、维护机械或处理技术问题。常见于科技、医疗、工程等行业。",
+      "collocations": ["skilled technician", "service technician", "repair technician", "lab technician"],
+      "examples": [
+        {
+          "scene": "在一间繁忙的汽车修理厂中，客户将一辆出现引擎故障的车送来修理。工作人员正在检查引擎并与客户沟通问题。",
+          "chineseIdea": "需要一个有经验的人来检查和修复汽车的复杂问题，确保车辆恢复正常运行。",
+          "sentenceWithBlank": "The @ @ diagnosed the engine issue and fixed it within hours.",
+          "fullEnglishSentence": "The 「skilled technician」 diagnosed the engine issue and fixed it within hours.",
+          "chineseTranslation": "「熟练的技术人员」诊断了引擎问题并在几小时内修复了它。",
+          "chinglishFix": "典型中式英语：'The technical person fixed the car.' 纠正：'The skilled technician repaired the vehicle.'（避免使用模糊的'technical person'，用更具体且自然的'skilled technician'，动词'fixed'在正式语境中可用'repaired'替换。）"
+        },
+        {
+          "scene": "在一栋办公楼中，空调系统突然停止工作，员工感到不适。物业管理公司派人来检查和修复系统。",
+          "chineseIdea": "需要一个专业人员来检查空调设备，找出故障原因并进行修复。",
+          "sentenceWithBlank": "They called a @ @ to inspect the malfunctioning air conditioning unit.",
+          "fullEnglishSentence": "They called a 「service technician」 to inspect the malfunctioning air conditioning unit.",
+          "chineseTranslation": "他们叫来了一名「服务技术人员」来检查故障的空调设备。",
+          "chinglishFix": "典型中式英语：'They found a fix person for the air conditioner.' 纠正：'They called a service technician for the air conditioner.'（避免使用不自然的'fix person'，用'service technician'更贴合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在实验室或医疗环境中操作设备或进行技术性实验的专业人员",
+      "usage": "指在科学或医疗领域从事技术性工作的人员，如操作实验设备、进行测试或处理样本。通常需要专业培训，常见于医院、研究机构等。",
+      "collocations": ["medical technician", "laboratory technician", "dental technician", "radiology technician"],
+      "examples": [
+        {
+          "scene": "在一所大学的化学实验室中，学生们正在进行一项复杂的实验，但需要专业人员协助操作精密仪器。",
+          "chineseIdea": "需要一个熟悉实验设备的人来帮助学生完成实验并确保结果准确。",
+          "sentenceWithBlank": "The @ @ carefully calibrated the equipment before the experiment began.",
+          "fullEnglishSentence": "The 「laboratory technician」 carefully calibrated the equipment before the experiment began.",
+          "chineseTranslation": "「实验室技术人员」在实验开始前仔细校准了设备。",
+          "chinglishFix": "典型中式英语：'The lab worker adjusted the machine.' 纠正：'The laboratory technician calibrated the equipment.'（'lab worker'过于笼统，'calibrated'比'adjusted'更准确地描述技术性动作。）"
+        },
+        {
+          "scene": "在一家医院的放射科，患者需要进行X光检查，专业人员操作机器并确保图像清晰。",
+          "chineseIdea": "需要一个懂得如何使用放射设备的人来完成检查并提供准确的影像。",
+          "sentenceWithBlank": "The @ @ operated the X-ray machine with precision.",
+          "fullEnglishSentence": "The 「radiology technician」 operated the X-ray machine with precision.",
+          "chineseTranslation": "「放射技术人员」精确地操作了X光机。",
+          "chinglishFix": "典型中式英语：'The X-ray worker used the machine.' 纠正：'The radiology technician operated the X-ray machine.'（'X-ray worker'不地道，'radiology technician'是标准术语，'operated'比'used'更专业。）"
+        }
+      ]
+    }
+  ]
+}
+```

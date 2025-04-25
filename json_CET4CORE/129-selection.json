@@ -1,0 +1,76 @@
+```json
+{
+  "word": "selection",
+  "definitions": [
+    {
+      "meaning": "挑选或选择某人或某物的行为",
+      "usage": "指从多个选项中挑选出合适的人、物或内容，通常涉及比较和判断，常用于招聘、购物、比赛等场景。",
+      "collocations": ["make a selection", "careful selection", "wide selection"],
+      "examples": [
+        {
+          "scene": "在一家时尚服装店里，顾客正在挑选适合晚宴的礼服。店员推荐了几件款式不同的裙子，顾客需要从中选择一件。",
+          "chineseIdea": "顾客希望找到一件既优雅又适合自己身材的礼服，因此需要仔细比较每件衣服的款式、颜色和价格。",
+          "sentenceWithBlank": "The customer took her time to @ @ @ from the dresses displayed.",
+          "fullEnglishSentence": "The customer took her time to 「make a selection」 from the dresses displayed.",
+          "chineseTranslation": "顾客花时间从展示的裙子中「做出选择」。",
+          "chinglishFix": "典型中式英语：'She choose one dress from many dresses.' 纠正：'She made a selection from the dresses displayed.'（避免直接用'choose'，用'make a selection'更自然。）"
+        },
+        {
+          "scene": "在一场音乐比赛的初赛中，评委们需要从众多参赛者中挑选出进入决赛的选手。他们根据表演的创意和技巧进行评估。",
+          "chineseIdea": "评委们希望确保挑选出的选手具有高水平的才华，因此需要仔细观察每个人的表现。",
+          "sentenceWithBlank": "The judges emphasized the need for @ @ in choosing the finalists.",
+          "fullEnglishSentence": "The judges emphasized the need for 「careful selection」 in choosing the finalists.",
+          "chineseTranslation": "评委们强调在选择决赛选手时需要「谨慎挑选」。",
+          "chinglishFix": "典型中式英语：'They must choose carefully the finalists.' 纠正：'They emphasized careful selection in choosing the finalists.'（'careful selection'比'choose carefully'更正式且地道。）"
+        }
+      ]
+    },
+    {
+      "meaning": "可供选择的事物或范围",
+      "usage": "指一系列可供挑选的选项或物品，通常用于描述商店、菜单、课程等提供的多样化选择。",
+      "collocations": ["wide selection", "limited selection", "offer a selection"],
+      "examples": [
+        {
+          "scene": "在一家大型超市的奶酪柜台，顾客面对琳琅满目的奶酪种类，从软奶酪到硬奶酪，应有尽有。",
+          "chineseIdea": "顾客希望找到适合自己口味的奶酪，超市提供的多样选择让他们感到既兴奋又有点不知所措。",
+          "sentenceWithBlank": "The supermarket boasted a @ @ of cheeses from around the world.",
+          "fullEnglishSentence": "The supermarket boasted a 「wide selection」 of cheeses from around the world.",
+          "chineseTranslation": "这家超市拥有来自世界各地的「广泛选择」的奶酪。",
+          "chinglishFix": "典型中式英语：'The supermarket has many cheeses.' 纠正：'The supermarket boasts a wide selection of cheeses.'（'wide selection'更能体现丰富多样的含义。）"
+        },
+        {
+          "scene": "在一家新开的咖啡店，店员向顾客介绍他们的菜单，特别提到他们有多种手工咖啡和茶。",
+          "chineseIdea": "店员希望通过强调多样化的饮品选择，吸引顾客尝试不同的口味。",
+          "sentenceWithBlank": "The café was proud to @ @ @ of artisanal coffees and teas.",
+          "fullEnglishSentence": "The café was proud to 「offer a selection」 of artisanal coffees and teas.",
+          "chineseTranslation": "这家咖啡店自豪地「提供一系列」手工咖啡和茶。",
+          "chinglishFix": "典型中式英语：'The café gives many coffees and teas.' 纠正：'The café offers a selection of artisanal coffees and teas.'（'offer a selection'更自然且符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "生物学中的自然选择",
+      "usage": "指生物进化过程中，环境对物种的适应性进行筛选，导致某些特质更易存活和繁衍，常用于科学语境。",
+      "collocations": ["natural selection", "artificial selection", "drive selection"],
+      "examples": [
+        {
+          "scene": "在一堂生物课上，老师向学生解释为什么某些鸟类的喙形状在不同环境中发生了变化。",
+          "chineseIdea": "老师希望学生理解，环境会影响生物的生存，那些更适应环境的特质会被保留下来。",
+          "sentenceWithBlank": "The teacher explained how @ @ shaped the evolution of bird beak shapes.",
+          "fullEnglishSentence": "The teacher explained how 「natural selection」 shaped the evolution of bird beak shapes.",
+          "chineseTranslation": "老师解释了「自然选择」如何塑造了鸟喙形状的进化。",
+          "chinglishFix": "典型中式英语：'Nature choose the bird beaks.' 纠正：'Natural selection shaped the evolution of bird beaks.'（'natural selection'是专业术语，避免用'choose'。）"
+        },
+        {
+          "scene": "在一个农业研究项目中，科学家通过控制植物的繁育来培育抗病品种。",
+          "chineseIdea": "科学家希望通过人为干预，模拟自然界的筛选过程，选出更优良的植物品种。",
+          "sentenceWithBlank": "The researchers used @ @ to develop disease-resistant crops.",
+          "fullEnglishSentence": "The researchers used 「artificial selection」 to develop disease-resistant crops.",
+          "chineseTranslation": "研究人员使用「人工选择」来培育抗病作物。",
+          "chinglishFix": "典型中式英语：'They choose plants to make better crops.' 纠正：'They used artificial selection to develop disease-resistant crops.'（'artificial selection'更准确且科学。）"
+        }
+      ]
+    }
+  ]
+}
+```
