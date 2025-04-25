@@ -1,0 +1,76 @@
+```json
+{
+  "word": "accompany",
+  "definitions": [
+    {
+      "meaning": "陪伴或与某人一起去某处",
+      "usage": "指与某人一同前往某地，通常强调陪伴的行为，可能出于礼貌、保护或社交目的。",
+      "collocations": ["accompany someone to", "accompany someone on", "accompany a guest"],
+      "examples": [
+        {
+          "scene": "一位中国学生在机场接送一位来访的外国朋友，主动提出送他到酒店。",
+          "chineseIdea": "表达友好和礼貌，主动陪同朋友到目的地，确保他感到安心。",
+          "sentenceWithBlank": "I’ll @ @ @ the hotel to make sure you get settled.",
+          "fullEnglishSentence": "I’ll 「accompany you to」 the hotel to make sure you get settled.",
+          "chineseTranslation": "我会「陪你到」酒店，确保你安顿好。",
+          "chinglishFix": "典型中式英语：'I go with you to hotel.' 纠正：'I’ll accompany you to the hotel.'（使用'accompany'更正式且符合英语表达习惯，'go with'显得口语化且不够具体。）"
+        },
+        {
+          "scene": "一位员工陪同客户参观公司总部，介绍设施并回答问题。",
+          "chineseIdea": "展现专业态度，陪同客户以确保他们了解公司并感到被重视。",
+          "sentenceWithBlank": "She was asked to @ @ @ a tour of the headquarters.",
+          "fullEnglishSentence": "She was asked to 「accompany the client on」 a tour of the headquarters.",
+          "chineseTranslation": "她被要求「陪同客户」参观总部。",
+          "chinglishFix": "典型中式英语：'She follow client to visit headquarters.' 纠正：'She was asked to accompany the client on a tour of the headquarters.'（'follow'缺乏陪伴的主动性和礼貌感，'accompany'更适合正式场合。）"
+        }
+      ]
+    },
+    {
+      "meaning": "伴随或与某事物同时发生",
+      "usage": "指某事物与另一事物一起发生，通常是不可避免的附加情况，常见于描述现象或情感。",
+      "collocations": ["accompany a change", "accompany a feeling", "accompany an event"],
+      "examples": [
+        {
+          "scene": "一位中国学生在准备高考时，感到压力很大，同时伴随着焦虑情绪。",
+          "chineseIdea": "描述压力带来的负面情绪，强调焦虑是压力的一种伴随状态。",
+          "sentenceWithBlank": "The stress of exams often @ @ @ of anxiety.",
+          "fullEnglishSentence": "The stress of exams often 「accompanies a feeling」 of anxiety.",
+          "chineseTranslation": "考试的压力常常「伴随着一种」焦虑感。",
+          "chinglishFix": "典型中式英语：'Exam stress bring anxiety feeling.' 纠正：'The stress of exams often accompanies a feeling of anxiety.'（'bring'不够精确，'accompany'更能表达自然的伴随关系。）"
+        },
+        {
+          "scene": "公司进行重大改革，员工们对未来的不确定性感到担忧。",
+          "chineseIdea": "描述变革带来的普遍不安情绪，强调不确定性是变革的伴随现象。",
+          "sentenceWithBlank": "The company’s restructuring will likely @ @ @ of uncertainty.",
+          "fullEnglishSentence": "The company’s restructuring will likely 「accompany a feeling」 of uncertainty.",
+          "chineseTranslation": "公司的重组很可能会「伴随着一种」不确定感。",
+          "chinglishFix": "典型中式英语：'Restructure make uncertainty.' 纠正：'The company’s restructuring will likely accompany a feeling of uncertainty.'（'make'过于简单，'accompany'更能体现现象的并存关系。）"
+        }
+      ]
+    },
+    {
+      "meaning": "为音乐或表演提供伴奏",
+      "usage": "指在音乐表演中为主要歌手或乐器提供伴奏，通常用于正式或艺术场景。",
+      "collocations": ["accompany a singer", "accompany on the piano", "accompany a performance"],
+      "examples": [
+        {
+          "scene": "一位钢琴专业的中国学生在一场学校音乐会上为合唱团伴奏。",
+          "chineseIdea": "通过钢琴伴奏支持合唱团的表演，展现音乐技巧和合作精神。",
+          "sentenceWithBlank": "She was nervous but excited to @ @ @ at the concert.",
+          "fullEnglishSentence": "She was nervous but excited to 「accompany the choir on」 the piano at the concert.",
+          "chineseTranslation": "她既紧张又兴奋，因为要在音乐会上「为合唱团用」钢琴伴奏。",
+          "chinglishFix": "典型中式英语：'She play piano for choir.' 纠正：'She accompanied the choir on the piano.'（'play for'缺乏伴奏的艺术性，'accompany'更专业且符合音乐语境。）"
+        },
+        {
+          "scene": "一位吉他手为一支校园乐队的歌手伴奏，增添表演的层次感。",
+          "chineseIdea": "通过吉他伴奏增强歌手表演的效果，体现音乐的协作性。",
+          "sentenceWithBlank": "He was invited to @ @ @ at the talent show.",
+          "fullEnglishSentence": "He was invited to 「accompany the singer」 at the talent show.",
+          "chineseTranslation": "他被邀请在才艺表演中「为歌手」伴奏。",
+          "chinglishFix": "典型中式英语：'He help singer with guitar.' 纠正：'He accompanied the singer at the talent show.'（'help with'不够具体，'accompany'更能体现音乐伴奏的角色。）"
+        }
+      ]
+    }
+  ]
+}
+```

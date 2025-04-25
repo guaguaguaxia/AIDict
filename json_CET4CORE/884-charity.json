@@ -1,0 +1,53 @@
+```json
+{
+  "word": "charity",
+  "definitions": [
+    {
+      "meaning": "为帮助有需要的人而提供的无偿援助或捐赠，通常以金钱、物品或服务的形式",
+      "usage": "指通过捐款、志愿服务或其他方式帮助弱势群体或支持公益事业的行为，常用于描述个人或组织的善举",
+      "collocations": ["donate to charity", "support a charity", "raise money for charity"],
+      "examples": [
+        {
+          "scene": "在公司组织的年度晚会上，员工们通过拍卖活动筹集资金，所得款项将用于支持当地的儿童教育项目。",
+          "chineseIdea": "员工希望通过自己的努力，为贫困儿童提供更好的学习机会，表达对社会的关怀。",
+          "sentenceWithBlank": "Everyone was eager to @ @ @ by bidding generously at the auction.",
+          "fullEnglishSentence": "Everyone was eager to 「donate to charity」 by bidding generously at the auction.",
+          "chineseTranslation": "每个人都通过在拍卖会上慷慨竞标，热衷于「为慈善事业捐款」。",
+          "chinglishFix": "典型中式英语：'Give money to charity' → 纠正：'Donate to charity'（'give money' 听起来过于直接，'donate' 更正式且常见）。"
+        },
+        {
+          "scene": "一位大学生在周末参加社区活动，协助一家非营利组织为流浪者分发食物和衣物。",
+          "chineseIdea": "大学生希望通过实际行动支持社会公益，体现对他人的关爱。",
+          "sentenceWithBlank": "She spent her weekend helping to @ @ @ that provides meals for the homeless.",
+          "fullEnglishSentence": "She spent her weekend helping to 「support a charity」 that provides meals for the homeless.",
+          "chineseTranslation": "她周末都在帮助「支持一家慈善机构」，为无家可归者提供食物。",
+          "chinglishFix": "典型中式英语：'Help charity' → 纠正：'Support a charity'（'help' 虽可行，但 'support' 更常用于表达对慈善组织的协助）。"
+        }
+      ]
+    },
+    {
+      "meaning": "仁爱或宽容的心态，尤指对他人的善意和理解，不轻易评判",
+      "usage": "描述一种宽厚、仁慈的态度，通常用于表达对他人的同情或不加批判的理解，常出现在正式或文学语境中",
+      "collocations": ["show charity", "act with charity", "spirit of charity"],
+      "examples": [
+        {
+          "scene": "在家庭聚会上，母亲看到孩子们因为小事争吵，她耐心地倾听双方的意见，没有责骂任何人。",
+          "chineseIdea": "母亲希望通过理解和包容，化解孩子们的矛盾，营造和谐的家庭氛围。",
+          "sentenceWithBlank": "Instead of scolding them, she chose to @ @ @ and listened to both sides.",
+          "fullEnglishSentence": "Instead of scolding them, she chose to 「show charity」 and listened to both sides.",
+          "chineseTranslation": "她没有责骂他们，而是选择「表现出仁爱」，倾听双方的意见。",
+          "chinglishFix": "典型中式英语：'Be kind to them' → 纠正：'Show charity'（'be kind' 过于泛泛，'show charity' 更能体现宽容和仁慈的心态）。"
+        },
+        {
+          "scene": "在一次公开辩论中，一位演讲者面对对手的激烈批评，选择以冷静和尊重的态度回应。",
+          "chineseIdea": "演讲者希望通过宽容和理性，赢得听众的尊重，同时避免争端升级。",
+          "sentenceWithBlank": "He responded to the criticism with composure, demonstrating the @ @ @ in his reply.",
+          "fullEnglishSentence": "He responded to the criticism with composure, demonstrating the 「spirit of charity」 in his reply.",
+          "chineseTranslation": "他冷静地回应批评，在回答中展现了「仁爱的精神」。",
+          "chinglishFix": "典型中式英语：'Kind spirit' → 纠正：'Spirit of charity'（'kind' 过于简单，'charity' 在此语境中更能表达宽厚和仁慈）。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "average",
+  "definitions": [
+    {
+      "meaning": "数学上的平均值，指一组数据的总和除以数据的数量",
+      "usage": "通常用作名词或形容词，表示计算得出的中间值，常用于统计、数据分析或描述一组数的典型值。",
+      "collocations": ["on average", "average score", "average temperature"],
+      "examples": [
+        {
+          "scene": "一个学生在学期末查看自己的考试成绩，想知道自己在班级中的表现如何。",
+          "chineseIdea": "学生想了解自己的成绩是否达到班级的平均水平，以此来判断自己的学习效果。",
+          "sentenceWithBlank": "Students in our class usually score 85 @ @, but I got 90 this time.",
+          "fullEnglishSentence": "Students in our class usually score 85 「on average」, but I got 90 this time.",
+          "chineseTranslation": "我们班的学生通常「平均」得85分，但我这次得了90分。",
+          "chinglishFix": "典型中式英语：'The average of our class is 85.' 纠正：'Students in our class score 85 on average.'（避免直接用'average'作名词，搭配'on average'更自然。）"
+        },
+        {
+          "scene": "一位老师在课堂上分析学生的考试成绩分布，向学生解释整体表现。",
+          "chineseIdea": "老师想通过分享班级的平均成绩，帮助学生了解整体的学习情况。",
+          "sentenceWithBlank": "The @ @ for this test was 78, which is lower than last time.",
+          "fullEnglishSentence": "The 「average score」 for this test was 78, which is lower than last time.",
+          "chineseTranslation": "这次考试的「平均分」是78分，比上次低。",
+          "chinglishFix": "典型中式英语：'The average points of this test is 78.' 纠正：'The average score for this test was 78.'（用'score'而非'points'，且注意冠词和时态。）"
+        }
+      ]
+    },
+    {
+      "meaning": "普通的、一般的，指某事物或人在质量、数量或程度上属于中等水平",
+      "usage": "用作形容词，描述某人或某物没有特别突出或特别差，处于中间水平，常见于评价或比较。",
+      "collocations": ["average student", "average performance", "average day"],
+      "examples": [
+        {
+          "scene": "一位家长在和老师讨论孩子的学习情况，老师评价孩子的表现。",
+          "chineseIdea": "老师想表达孩子在学业上表现平稳，没有特别优秀但也不差。",
+          "sentenceWithBlank": "Your son is an @ @ in math, but he shows great interest in art.",
+          "fullEnglishSentence": "Your son is an 「average student」 in math, but he shows great interest in art.",
+          "chineseTranslation": "你的儿子在数学上是「普通学生」，但他对艺术表现出浓厚的兴趣。",
+          "chinglishFix": "典型中式英语：'Your son is a common student in math.' 纠正：'Your son is an average student in math.'（'common'侧重普遍存在，而'average'更适合描述水平。）"
+        },
+        {
+          "scene": "一位员工在年度考核后与经理讨论自己的工作表现。",
+          "chineseIdea": "经理想说明员工的工作表现稳定，但没有特别突出的贡献。",
+          "sentenceWithBlank": "Your @ @ this year was satisfactory, but there’s room for improvement.",
+          "fullEnglishSentence": "Your 「average performance」 this year was satisfactory, but there’s room for improvement.",
+          "chineseTranslation": "你今年的「表现一般」令人满意，但仍有改进空间。",
+          "chinglishFix": "典型中式英语：'Your performance is ordinary this year.' 纠正：'Your average performance this year was satisfactory.'（'ordinary'不够正式，'average performance'更常见。）"
+        }
+      ]
+    }
+  ]
+}
+```

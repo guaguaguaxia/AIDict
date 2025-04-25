@@ -1,0 +1,76 @@
+```json
+{
+  "word": "cheat",
+  "definitions": [
+    {
+      "meaning": "在竞争或游戏中通过不诚实手段获取优势",
+      "usage": "指在考试、比赛或游戏中违反规则以获得不公平的好处，常用于学术、体育或娱乐场景。",
+      "collocations": ["cheat on a test", "cheat at cards", "cheat in a game"],
+      "examples": [
+        {
+          "scene": "小明是一名高中生，面临期末考试的压力。他听说有些同学会在考试中偷偷看笔记，但他知道这样做是不对的。",
+          "chineseIdea": "小明想通过不正当手段在考试中取得好成绩，但他也担心被老师发现。",
+          "sentenceWithBlank": "Some students try to @ @ @ to get better grades.",
+          "fullEnglishSentence": "Some students try to 「cheat on a test」 to get better grades.",
+          "chineseTranslation": "一些学生试图「在考试中作弊」以获得更好的成绩。",
+          "chinglishFix": "典型中式英语：'Some students make cheat in exam.' 纠正：'Some students cheat on a test.'（'make cheat'是不自然的表达，正确的搭配是'cheat on a test'。）"
+        },
+        {
+          "scene": "一群朋友在周末聚会玩扑克牌，但小刚总是偷偷藏牌，让其他玩家很生气。",
+          "chineseIdea": "小刚想通过不公平的手段赢得扑克牌游戏，但这破坏了朋友间的信任。",
+          "sentenceWithBlank": "He was caught trying to @ @ @ during our poker night.",
+          "fullEnglishSentence": "He was caught trying to 「cheat at cards」 during our poker night.",
+          "chineseTranslation": "他在我们的扑克之夜被抓到试图「在牌局中作弊」。",
+          "chinglishFix": "典型中式英语：'He cheat cards in game.' 纠正：'He cheated at cards.'（'cheat cards'是不正确的搭配，正确的表达是'cheat at cards'。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在感情关系中不忠",
+      "usage": "指在恋爱或婚姻关系中背叛伴侣，通常涉及与他人发生感情或亲密关系。",
+      "collocations": ["cheat on a partner", "cheat with someone", "cheat on a spouse"],
+      "examples": [
+        {
+          "scene": "小红和她的男友在一起三年了，但她最近发现男友经常偷偷和另一个女孩聊天，这让她非常伤心。",
+          "chineseIdea": "小红怀疑男友对她不忠，因为他似乎在背着她与别人发展关系。",
+          "sentenceWithBlank": "She was heartbroken when she found out he had tried to @ @ @.",
+          "fullEnglishSentence": "She was heartbroken when she found out he had tried to 「cheat on a partner」.",
+          "chineseTranslation": "当她发现他试图「对伴侣不忠」时，她心碎了。",
+          "chinglishFix": "典型中式英语：'He cheat to his girlfriend.' 纠正：'He cheated on his girlfriend.'（'cheat to'是不正确的介词搭配，正确的表达是'cheat on'。）"
+        },
+        {
+          "scene": "在一个派对上，小李看到他的朋友和一个陌生人过于亲密，而他知道朋友已经有未婚妻了。",
+          "chineseIdea": "小李觉得朋友的行为是对未婚妻的不忠，但他不知道是否应该告诉别人。",
+          "sentenceWithBlank": "He saw his friend trying to @ @ @ at the party.",
+          "fullEnglishSentence": "He saw his friend trying to 「cheat with someone」 at the party.",
+          "chineseTranslation": "他看到他的朋友在派对上试图「与别人不忠」。",
+          "chinglishFix": "典型中式英语：'He cheat another girl in party.' 纠正：'He cheated with another girl at the party.'（'cheat another girl'缺乏介词'with'，正确的搭配是'cheat with someone'。）"
+        }
+      ]
+    },
+    {
+      "meaning": "欺骗或误导以获取利益",
+      "usage": "指通过谎言或欺诈手段从他人那里获得金钱、信任或其他利益，常用于商业或日常交易场景。",
+      "collocations": ["cheat someone out of money", "cheat in business", "cheat customers"],
+      "examples": [
+        {
+          "scene": "老王在网上买了一部手机，但收到后发现是假货，卖家已经失联，他觉得自己被骗了。",
+          "chineseIdea": "老王认为卖家故意用虚假商品欺骗他，以此来获取不义之财。",
+          "sentenceWithBlank": "The seller tried to @ @ @ @ @ by sending a fake product.",
+          "fullEnglishSentence": "The seller tried to 「cheat someone out of money」 by sending a fake product.",
+          "chineseTranslation": "卖家试图通过发送假货「骗取某人的钱」。",
+          "chinglishFix": "典型中式英语：'Seller cheat his money.' 纠正：'The seller cheated him out of his money.'（'cheat his money'缺少介词'out of'，正确的搭配是'cheat someone out of money'。）"
+        },
+        {
+          "scene": "一家小商店为了吸引顾客，宣传他们的产品是进口的，但实际上是本地生产的劣质品。",
+          "chineseIdea": "商店通过虚假宣传误导顾客，以此来增加销售额。",
+          "sentenceWithBlank": "The shop was known for trying to @ @ to make more sales.",
+          "fullEnglishSentence": "The shop was known for trying to 「cheat customers」 to make more sales.",
+          "chineseTranslation": "这家商店以「欺骗顾客」来增加销售额而闻名。",
+          "chinglishFix": "典型中式英语：'Shop cheat people for money.' 纠正：'The shop cheats customers to make money.'（'cheat people for money'不够具体，正确的表达是'cheat customers'。）"
+        }
+      ]
+    }
+  ]
+}
+```
