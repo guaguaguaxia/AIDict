@@ -1,0 +1,53 @@
+```json
+{
+  "word": "privacy",
+  "definitions": [
+    {
+      "meaning": "个人空间或不受干扰的状态",
+      "usage": "指一个人能够独处、不被他人打扰或监控的状态，常用于描述个人生活、家庭环境或私人事务。",
+      "collocations": ["respect someone’s privacy", "invasion of privacy", "protect your privacy"],
+      "examples": [
+        {
+          "scene": "小明在家里有一个自己的小房间，每次他想要安静地读书或思考时，他都会关上门，告诉家人不要进来打扰。",
+          "chineseIdea": "小明希望在自己的空间里不被打扰，享受独处的时光，家人应该理解并尊重他的需求。",
+          "sentenceWithBlank": "His family always tries to @ @ @ when he’s in his room.",
+          "fullEnglishSentence": "His family always tries to 「respect his privacy」 when he’s in his room.",
+          "chineseTranslation": "他的家人总是尽量「尊重他的个人空间」当他在房间里时。",
+          "chinglishFix": "典型中式英语：'His family don’t disturb his private.' 纠正：'His family respect his privacy.'（避免用'private'作名词，'disturb'显得过于直接，改为更自然的'respect'搭配。）"
+        },
+        {
+          "scene": "小红在咖啡馆里戴着耳机写日记，她选择了一个角落的位置，希望没有人会偷看她的笔记本。",
+          "chineseIdea": "小红想要在公共场所也能保持自己的私人空间，避免别人窥探她的私人内容。",
+          "sentenceWithBlank": "She felt annoyed when someone’s staring was an @ @ @.",
+          "fullEnglishSentence": "She felt annoyed when someone’s staring was an 「invasion of privacy」.",
+          "chineseTranslation": "她感到恼火，因为别人的注视是一种「侵犯个人空间」的行为。",
+          "chinglishFix": "典型中式英语：'Someone look at her diary is not polite.' 纠正：'Someone staring at her diary is an invasion of privacy.'（'not polite'表达过于模糊，'invasion of privacy'更准确且地道。）"
+        }
+      ]
+    },
+    {
+      "meaning": "个人信息的保密性",
+      "usage": "指保护个人数据或信息不被未经授权的访问或使用，常用于数字安全、法律或技术领域。",
+      "collocations": ["protect your privacy", "breach of privacy", "online privacy"],
+      "examples": [
+        {
+          "scene": "小刚在网上购物时，总是小心检查网站是否安全，因为他担心自己的银行卡信息会被泄露。",
+          "chineseIdea": "小刚希望确保自己的个人信息在网络上不被窃取，采取措施保护数据安全。",
+          "sentenceWithBlank": "He uses a VPN to @ @ @ when shopping online.",
+          "fullEnglishSentence": "He uses a VPN to 「protect his privacy」 when shopping online.",
+          "chineseTranslation": "他使用VPN来「保护他的个人信息」在网上购物时。",
+          "chinglishFix": "典型中式英语：'He wants to keep his information safe.' 纠正：'He wants to protect his privacy.'（'keep safe'不够具体，'protect your privacy'是更自然的表达。）"
+        },
+        {
+          "scene": "小丽发现一个她常用的社交媒体平台泄露了用户数据，她非常担心自己的照片和聊天记录被公开。",
+          "chineseIdea": "小丽对自己的个人信息被滥用感到不安，觉得平台应该对数据泄露负责。",
+          "sentenceWithBlank": "The data leak was considered a serious @ @ @ by the users.",
+          "fullEnglishSentence": "The data leak was considered a serious 「breach of privacy」 by the users.",
+          "chineseTranslation": "数据泄露被用户认为是一次严重的「侵犯个人信息」行为。",
+          "chinglishFix": "典型中式英语：'The leak makes users’ information not safe.' 纠正：'The leak is a breach of privacy.'（'not safe'表达模糊，'breach of privacy'更符合语境且专业。）"
+        }
+      ]
+    }
+  ]
+}
+```

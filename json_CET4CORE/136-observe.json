@@ -1,0 +1,76 @@
+```json
+{
+  "word": "observe",
+  "definitions": [
+    {
+      "meaning": "仔细观看或注意某事物",
+      "usage": "指通过视觉或其他感官有意识地关注某人或某事的行为、变化或细节，常用于描述科学观察、日常注意或礼貌性地观看。",
+      "collocations": ["observe closely", "observe carefully", "observe behavior", "observe a phenomenon"],
+      "examples": [
+        {
+          "scene": "在一个生物学课堂上，学生们被要求观察显微镜下的细胞分裂过程。老师指导他们注意细胞核的变化。",
+          "chineseIdea": "学生需要专注地看显微镜中的细胞，记录下任何细微的变化，比如细胞核的分裂过程。",
+          "sentenceWithBlank": "The students were asked to @ @ the cells under the microscope.",
+          "fullEnglishSentence": "The students were asked to 「observe closely」 the cells under the microscope.",
+          "chineseTranslation": "学生们被要求「仔细观察」显微镜下的细胞。",
+          "chinglishFix": "典型中式英语：'Look the cells carefully.' 纠正：'Observe the cells closely.'（'look' 显得不够正式且缺乏专注的含义，'observe closely' 更适合科学观察的语境。）"
+        },
+        {
+          "scene": "在一个动物园的实地考察中，研究人员正在记录狮子的日常行为。他们需要长时间关注狮子的动作和互动。",
+          "chineseIdea": "研究人员需要长时间盯着狮子，记录它们的动作、进食习惯或与其他狮子的互动。",
+          "sentenceWithBlank": "The researchers spent hours @ @ of the lions in their habitat.",
+          "fullEnglishSentence": "The researchers spent hours 「observing behavior」 of the lions in their habitat.",
+          "chineseTranslation": "研究人员花了几个小时「观察行为」狮子在它们栖息地的表现。",
+          "chinglishFix": "典型中式英语：'Watch the lions' behavior.' 纠正：'Observe the lions' behavior.'（'watch' 更偏向于休闲观看，'observe' 更适合研究或正式记录的语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "遵守或遵循规则、习俗等",
+      "usage": "指按照法律、传统、宗教或社会规范行事，常用于描述对规则、仪式或习俗的严格遵循。",
+      "collocations": ["observe a tradition", "observe a rule", "observe silence", "observe a custom"],
+      "examples": [
+        {
+          "scene": "在一个传统节日中，村民们按照古老的习俗进行祭祀仪式，所有人都要保持肃静以示尊重。",
+          "chineseIdea": "村民们需要严格遵循传统，在祭祀时保持安静，以表达对祖先的敬意。",
+          "sentenceWithBlank": "During the ceremony, everyone was required to @ @ to honor the ancestors.",
+          "fullEnglishSentence": "During the ceremony, everyone was required to 「observe silence」 to honor the ancestors.",
+          "chineseTranslation": "在仪式期间，每个人都被要求「保持沉默」以表达对祖先的敬意。",
+          "chinglishFix": "典型中式英语：'Keep quiet during the ceremony.' 纠正：'Observe silence during the ceremony.'（'keep quiet' 更口语化且缺乏仪式感，'observe silence' 更正式且符合语境。）"
+        },
+        {
+          "scene": "在一个国际会议中，来自不同国家的代表需要遵循严格的礼仪规范，比如按时出席和穿着正式服装。",
+          "chineseIdea": "参会者需要严格遵守会议的礼仪要求，比如准时到达和穿着得体，以示尊重。",
+          "sentenceWithBlank": "All delegates were expected to @ @ of the conference.",
+          "fullEnglishSentence": "All delegates were expected to 「observe a rule」 of the conference.",
+          "chineseTranslation": "所有代表都被期望「遵守规则」会议的礼仪。",
+          "chinglishFix": "典型中式英语：'Follow the conference rules.' 纠正：'Observe the rules of the conference.'（'follow' 更通用但缺乏正式感，'observe' 在规则遵守的语境中更得体。）"
+        }
+      ]
+    },
+    {
+      "meaning": "发表评论或陈述意见",
+      "usage": "指在讨论或对话中对某事发表看法或评论，通常带有一定的客观性或分析性，常用于正式或半正式场合。",
+      "collocations": ["observe that", "observe about", "observe on"],
+      "examples": [
+        {
+          "scene": "在一场关于气候变化的学术研讨会上，一位科学家在发言时提到当前的政策不足以应对全球变暖。",
+          "chineseIdea": "科学家在会议上发表看法，指出当前的环保政策存在明显缺陷。",
+          "sentenceWithBlank": "The scientist @ @ the current policies were inadequate.",
+          "fullEnglishSentence": "The scientist 「observed that」 the current policies were inadequate.",
+          "chineseTranslation": "科学家「评论说」当前的政策不足以应对问题。",
+          "chinglishFix": "典型中式英语：'Say the policies are not enough.' 纠正：'Observe that the policies are inadequate.'（'say' 过于简单且缺乏分析意味，'observe that' 更适合正式评论。）"
+        },
+        {
+          "scene": "在一次公司会议中，经理在讨论新项目时提到团队合作的重要性。",
+          "chineseIdea": "经理在会议中发表意见，强调团队协作对项目成功至关重要。",
+          "sentenceWithBlank": "The manager @ @ the importance of teamwork for the project’s success.",
+          "fullEnglishSentence": "The manager 「observed about」 the importance of teamwork for the project’s success.",
+          "chineseTranslation": "经理「评论了」团队合作对项目成功的重要性。",
+          "chinglishFix": "典型中式英语：'Talk about teamwork is important.' 纠正：'Observe about the importance of teamwork.'（'talk about' 过于口语化且缺乏条理，'observe about' 更适合正式陈述。）"
+        }
+      ]
+    }
+  ]
+}
+```
