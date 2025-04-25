@@ -1,0 +1,53 @@
+```json
+{
+  "word": "curiosity",
+  "definitions": [
+    {
+      "meaning": "渴望了解或学习某事的感觉",
+      "usage": "指对未知事物或新知识的兴趣，通常带有积极的探索欲望，常用于描述人或动物的行为。",
+      "collocations": ["spark curiosity", "satisfy curiosity", "arouse curiosity"],
+      "examples": [
+        {
+          "scene": "在一个科学博物馆里，一个小男孩站在一个巨大的恐龙骨架前，目不转睛地盯着，想知道更多关于恐龙生活的信息。",
+          "chineseIdea": "小男孩对恐龙的生活方式和灭绝原因感到非常好奇，想通过展品了解更多。",
+          "sentenceWithBlank": "The museum’s interactive display was designed to @ @ @ in young visitors.",
+          "fullEnglishSentence": "The museum’s interactive display was designed to 「spark curiosity」 in young visitors.",
+          "chineseTranslation": "博物馆的互动展览旨在「激发好奇心」，吸引年轻游客。",
+          "chinglishFix": "典型中式英语：'The display makes children curious.' 纠正：'The display sparks curiosity in children.'（用'spark curiosity'更自然，表达主动激发兴趣的感觉）"
+        },
+        {
+          "scene": "一名大学生在图书馆翻阅一本关于人工智能的书籍，发现书中的一个问题引发了她对AI伦理的深入思考。",
+          "chineseIdea": "大学生对AI伦理问题产生了浓厚的兴趣，想通过阅读和研究来解答自己的疑问。",
+          "sentenceWithBlank": "Reading about AI ethics helped her @ @ @ about the subject.",
+          "fullEnglishSentence": "Reading about AI ethics helped her 「satisfy curiosity」 about the subject.",
+          "chineseTranslation": "阅读关于AI伦理的内容帮助她「满足好奇心」，了解更多这方面的知识。",
+          "chinglishFix": "典型中式英语：'She was curious and read to know more.' 纠正：'Reading helped her satisfy her curiosity.'（'satisfy curiosity'更贴合英语表达，强调解答疑惑的过程）"
+        }
+      ]
+    },
+    {
+      "meaning": "不寻常或有趣的事物",
+      "usage": "指某件因其独特或奇怪而引人注意的事物，通常用于描述物品、事件或现象，常带轻微贬义或中性语气。",
+      "collocations": ["a curiosity", "mere curiosity", "historical curiosity"],
+      "examples": [
+        {
+          "scene": "在一个古老的二手书店里，店主向游客展示了一本19世纪的地图册，地图上标注了一些已经不存在的国家。",
+          "chineseIdea": "这本古老的地图册因其独特的时代背景和稀有性而显得非常有趣，吸引了游客的注意。",
+          "sentenceWithBlank": "The old atlas was displayed as @ @ in the bookstore.",
+          "fullEnglishSentence": "The old atlas was displayed as 「a curiosity」 in the bookstore.",
+          "chineseTranslation": "这本古老的地图册在书店里被展示为「一件奇物」。",
+          "chinglishFix": "典型中式英语：'The atlas is very curious.' 纠正：'The atlas is a curiosity.'（'a curiosity'更准确地表达某物因独特而引人注目）"
+        },
+        {
+          "scene": "在一个乡村集市上，一个摊位出售一种手工制作的木制玩具，这种玩具的设计在现代已经很少见。",
+          "chineseIdea": "这些木制玩具因其过时的设计和手工工艺而显得独特，吸引了一些收藏家的兴趣。",
+          "sentenceWithBlank": "The handmade toys were sold as @ @ at the market.",
+          "fullEnglishSentence": "The handmade toys were sold as 「historical curiosity」 at the market.",
+          "chineseTranslation": "这些手工玩具在市场上被当作「历史奇物」出售。",
+          "chinglishFix": "典型中式英语：'The toys are curious for history.' 纠正：'The toys are a historical curiosity.'（'historical curiosity'更自然，强调其历史价值和独特性）"
+        }
+      ]
+    }
+  ]
+}
+```

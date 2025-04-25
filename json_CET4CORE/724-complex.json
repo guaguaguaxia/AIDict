@@ -1,0 +1,76 @@
+```json
+{
+  "word": "complex",
+  "definitions": [
+    {
+      "meaning": "由多个部分组成的，结构复杂的",
+      "usage": "形容某事物由多个相互关联的部分组成，整体结构较为复杂，难以简单理解或拆分。通常用于描述系统、结构、过程或物体。",
+      "collocations": ["complex system", "complex issue", "complex relationship"],
+      "examples": [
+        {
+          "scene": "在一个科技公司，工程师们正在讨论一个新开发的软件平台。这个平台集成了多种功能模块，包括用户界面、数据库管理和实时数据分析。工程师需要向非技术背景的管理层解释这个平台的结构。",
+          "chineseIdea": "想表达这个软件平台不是单一的功能，而是由多个部分组成的整体，强调其复杂性和整合性。",
+          "sentenceWithBlank": "The new software platform is a @ @ that integrates various modules for seamless operation.",
+          "fullEnglishSentence": "The new software platform is a 「complex system」 that integrates various modules for seamless operation.",
+          "chineseTranslation": "这个新的软件平台是一个「复杂的系统」，它集成了各种模块以实现无缝操作。",
+          "chinglishFix": "典型中式英语：'This software is very complicate system.' 纠正：'This software is a complex system.'（用'complex'代替'complicate'，并避免冗余的'very'）"
+        },
+        {
+          "scene": "在一场学术会议上，研究人员正在讨论全球气候变化的影响。气候变化不仅涉及温度上升，还包括海洋生态系统、农业生产和极端天气事件之间的相互作用。",
+          "chineseIdea": "想表达气候变化是一个多方面的问题，涉及多个因素的交互，难以用单一方案解决。",
+          "sentenceWithBlank": "Climate change is a @ @ that requires interdisciplinary solutions.",
+          "fullEnglishSentence": "Climate change is a 「complex issue」 that requires interdisciplinary solutions.",
+          "chineseTranslation": "气候变化是一个「复杂的问题」，需要跨学科的解决方案。",
+          "chinglishFix": "典型中式英语：'Climate change is a difficult problem.' 纠正：'Climate change is a complex issue.'（用'complex issue'更精确地表达多维度特性）"
+        }
+      ]
+    },
+    {
+      "meaning": "复杂的，难以理解的",
+      "usage": "形容某事物（通常是抽象概念，如想法、情感或问题）由于其内在的逻辑或细节繁多而难以理解或处理。",
+      "collocations": ["complex idea", "complex problem", "complex emotions"],
+      "examples": [
+        {
+          "scene": "在一节哲学课上，教授正在讲解存在主义的概念。学生们发现这个概念涉及自由、责任和意义的深层探讨，很难立刻理解。",
+          "chineseIdea": "想表达存在主义的思想不是简单的观点，而是包含多层次的思考，难以快速掌握。",
+          "sentenceWithBlank": "Existentialism is a @ @ that challenges our understanding of freedom and responsibility.",
+          "fullEnglishSentence": "Existentialism is a 「complex idea」 that challenges our understanding of freedom and responsibility.",
+          "chineseTranslation": "存在主义是一个「复杂的思想」，它挑战我们对自由和责任的理解。",
+          "chinglishFix": "典型中式英语：'Existentialism is a hard idea.' 纠正：'Existentialism is a complex idea.'（'complex'比'hard'更能体现思想的深层和多维性）"
+        },
+        {
+          "scene": "在一个心理咨询室，咨询师正在帮助一位客户处理家庭关系中的矛盾。客户感到既爱又恨自己的家人，情绪交织在一起，难以梳理。",
+          "chinese metropolitanIdea": "想表达客户的情感不是单一的，而是多种情绪混合在一起，难以清晰表达或解决。",
+          "sentenceWithBlank": "The client was struggling with @ @ that made it hard to articulate their feelings.",
+          "fullEnglishSentence": "The client was struggling with 「complex emotions」 that made it hard to articulate their feelings.",
+          "chineseTranslation": "客户正在与「复杂的情感」作斗争，这让他们难以表达自己的感受。",
+          "chinglishFix": "典型中式英语：'The client has complicate feelings.' 纠正：'The client has complex emotions.'（用'complex emotions'更自然，'complicate'是动词，误用为形容词）"
+        }
+      ]
+    },
+    {
+      "meaning": "（心理学）情结",
+      "usage": "在心理学中，指潜意识中影响个体行为或情感的固定观念或情绪，通常与特定主题或经历相关。",
+      "collocations": ["inferiority complex", "Oedipus complex", "guilt complex"],
+      "examples": [
+        {
+          "scene": "在一个职业发展工作坊中，讲师正在讨论职场中的自我认知问题。一位参与者总是觉得自己不如别人，无论取得多少成就都缺乏自信。",
+          "chineseIdea": "想表达这个参与者可能有一种根深蒂固的心理障碍，觉得自己总是比别人差。",
+          "sentenceWithBlank": "Her lack of confidence might stem from an @ @ that affects her self-perception.",
+          "fullEnglishSentence": "Her lack of confidence might stem from an 「inferiority complex」 that affects her self-perception.",
+          "chineseTranslation": "她的缺乏自信可能源于一种「自卑情结」，这影响了她的自我认知。",
+          "chinglishFix": "典型中式英语：'She has a low self-esteem problem.' 纠正：'She may have an inferiority complex.'（'inferiority complex'更具体地描述心理学中的情结）"
+        },
+        {
+          "scene": "在一场心理学讲座中，教授正在讲解弗洛伊德的理论，特别提到儿童时期的家庭关系如何影响成年后的心理状态。",
+          "chineseIdea": "想表达某些人在潜意识中对父母的情感纠葛会影响他们的行为和关系。",
+          "sentenceWithBlank": "Freud’s theory suggests that an @ @ can influence adult relationships.",
+          "fullEnglishSentence": "Freud’s theory suggests that an 「Oedipus complex」 can influence adult relationships.",
+          "chineseTranslation": "弗洛伊德的理论表明，一个「恋母情结」可能会影响成年后的关系。",
+          "chinglishFix": "典型中式英语：'He has a mother problem.' 纠正：'He may have an Oedipus complex.'（用专业术语'Oedipus complex'代替模糊的表达）"
+        }
+      ]
+    }
+  ]
+}
+```

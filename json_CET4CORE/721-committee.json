@@ -1,0 +1,53 @@
+```json
+{
+  "word": "committee",
+  "definitions": [
+    {
+      "meaning": "由一群人组成的正式团体，通常为了特定目的或任务而设立",
+      "usage": "指一个组织或机构中负责特定事务的小组，通常涉及决策、规划或监督。常用于正式场合，如政府、企业、学校等。",
+      "collocations": ["form a committee", "join a committee", "committee meeting"],
+      "examples": [
+        {
+          "scene": "在一所大学里，学生会需要组织一场迎新晚会。为了确保活动顺利进行，学生会主席决定成立一个专门的小组来负责策划。",
+          "chineseIdea": "为了高效分工和协调，主席希望召集一群有能力的学生来共同讨论和决定晚会的细节。",
+          "sentenceWithBlank": "The student council president decided to @ @ @ to plan the welcome party.",
+          "fullEnglishSentence": "The student council president decided to 「form a committee」 to plan the welcome party.",
+          "chineseTranslation": "学生会主席决定「成立一个委员会」来策划迎新晚会。",
+          "chinglishFix": "典型中式英语：'build a committee' 或 'make a committee'。纠正：英语中通常用 'form a committee' 或 'set up a committee' 表示成立一个委员会。"
+        },
+        {
+          "scene": "一家公司正在筹备年度股东大会，高层管理人员需要一个小组来审查财务报告并准备会议议程。",
+          "chineseIdea": "管理层希望通过一个专门的小组来确保财务数据的准确性，并协调会议的各项安排。",
+          "sentenceWithBlank": "The CEO asked the finance director to @ @ @ to review the annual reports.",
+          "fullEnglishSentence": "The CEO asked the finance director to 「form a committee」 to review the annual reports.",
+          "chineseTranslation": "首席执行官要求财务总监「成立一个委员会」来审查年度报告。",
+          "chinglishFix": "典型中式英语：'organize a committee'。纠正：'organize' 更多用于组织活动或事务，而 'form' 或 'establish' 更适合表示设立一个委员会。"
+        }
+      ]
+    },
+    {
+      "meaning": "一群人被委派处理某项具体事务或项目",
+      "usage": "强调一群人被指派共同完成某项任务，通常有明确的职责和目标。常用于描述临时性的工作小组。",
+      "collocations": ["serve on a committee", "committee member", "dissolve a committee"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，居民们需要决定如何使用一笔政府拨款来改善公园设施。社区负责人邀请了一些热心的居民参与讨论。",
+          "chineseIdea": "负责人希望这些居民能一起为公园的改造出谋划策，并最终达成一致的方案。",
+          "sentenceWithBlank": "Several residents were invited to @ @ @ to discuss park improvements.",
+          "fullEnglishSentence": "Several residents were invited to 「serve on a committee」 to discuss park improvements.",
+          "chineseTranslation": "几位居民被邀请「加入一个委员会」来讨论公园的改进。",
+          "chinglishFix": "典型中式英语：'enter a committee' 或 'go to a committee'。纠正：英语中用 'serve on a committee' 或 'be on a committee' 表示参与委员会工作。"
+        },
+        {
+          "scene": "一家非营利组织完成了一个慈善项目后，负责该项目的团队已经没有继续存在的必要，组织决定解散这个团队。",
+          "chineseIdea": "项目结束后，组织希望正式结束这个团队的职责，以节省资源并避免不必要的会议。",
+          "sentenceWithBlank": "After the project was completed, the organization decided to @ @ @.",
+          "fullEnglishSentence": "After the project was completed, the organization decided to 「dissolve a committee」.",
+          "chineseTranslation": "项目完成后，组织决定「解散委员会」。",
+          "chinglishFix": "典型中式英语：'cancel a committee' 或 'stop a committee'。纠正：'dissolve a committee' 是解散委员会的常用表达，'cancel' 或 'stop' 不适用于此场景。"
+        }
+      ]
+    }
+  ]
+}
+```
