@@ -1,0 +1,53 @@
+```json
+{
+  "word": "consistent",
+  "definitions": [
+    {
+      "meaning": "始终如一的；一致的",
+      "usage": "描述某人或某事在行为、质量或表现上保持稳定、不变化，常用于表示可靠或可预测。",
+      "collocations": ["consistent performance", "consistent quality", "consistent approach"],
+      "examples": [
+        {
+          "scene": "在一家公司，员工小李每个月都能按时完成任务，领导对他的表现非常满意。",
+          "chineseIdea": "小李的工作表现总是稳定，从不让人失望。",
+          "sentenceWithBlank": "Li’s @ @ has earned him the trust of his manager.",
+          "fullEnglishSentence": "Li’s 「consistent performance」 has earned him the trust of his manager.",
+          "chineseTranslation": "小李「始终如一的表现」赢得了经理的信任。",
+          "chinglishFix": "典型中式英语：'Li’s work is very stable.' 纠正：'Li’s performance is consistently reliable.'"
+        },
+        {
+          "scene": "在学校，老师发现小明在数学考试中每次都能保持高分。",
+          "chineseIdea": "小明的数学成绩总是很好，没有大的波动。",
+          "sentenceWithBlank": "Ming’s @ @ in math exams impresses his teacher.",
+          "fullEnglishSentence": "Ming’s 「consistent performance」 in math exams impresses his teacher.",
+          "chineseTranslation": "小明在数学考试中「始终如一的表现」给老师留下了深刻印象。",
+          "chinglishFix": "典型中式英语：'Ming’s math is always good.' 纠正：'Ming consistently performs well in math.'"
+        }
+      ]
+    },
+    {
+      "meaning": "一致的；相符的",
+      "usage": "描述多个事物、观点或数据之间没有矛盾，彼此协调或兼容。",
+      "collocations": ["consistent with", "consistent results", "consistent standards"],
+      "examples": [
+        {
+          "scene": "在一次科学实验中，研究人员发现实验结果与他们的假设完全吻合。",
+          "chineseIdea": "实验的结果和我们预想的完全一样，没有任何冲突。",
+          "sentenceWithBlank": "The experiment’s findings are @ @ our hypothesis.",
+          "fullEnglishSentence": "The experiment’s findings are 「consistent with」 our hypothesis.",
+          "chineseTranslation": "实验结果「与」我们的假设「一致」。",
+          "chinglishFix": "典型中式英语：'The result is same with our guess.' 纠正：'The results are consistent with our hypothesis.'"
+        },
+        {
+          "scene": "在法庭上，律师指出证人的证词与之前的陈述完全相符。",
+          "chineseIdea": "证人说的话和之前讲的没有差别，完全匹配。",
+          "sentenceWithBlank": "The witness’s testimony is @ @ her earlier statement.",
+          "fullEnglishSentence": "The witness’s testimony is 「consistent with」 her earlier statement.",
+          "chineseTranslation": "证人的证词「与」她之前的陈述「一致」。",
+          "chinglishFix": "典型中式英语：'Her words are same as before.' 纠正：'Her testimony is consistent with her previous statement.'"
+        }
+      ]
+    }
+  ]
+}
+```

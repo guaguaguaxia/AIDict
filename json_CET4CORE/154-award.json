@@ -1,0 +1,53 @@
+```json
+{
+  "word": "award",
+  "definitions": [
+    {
+      "meaning": "授予奖项或荣誉",
+      "usage": "指正式给予某人奖项、荣誉或认可，通常用于表彰成就或贡献，常出现在学术、艺术、体育或职场等场景。",
+      "collocations": ["win an award", "receive an award", "present an award"],
+      "examples": [
+        {
+          "scene": "在一个年度电影节上，导演因为一部感人至深的电影而受到表彰。",
+          "chineseIdea": "表达某人因出色表现而获得正式的认可或奖励。",
+          "sentenceWithBlank": "The director @ @ @ for her outstanding contribution to cinema.",
+          "fullEnglishSentence": "The director 「won an award」 for her outstanding contribution to cinema.",
+          "chineseTranslation": "这位导演因其对电影的杰出贡献「赢得了一个奖项」。",
+          "chinglishFix": "典型中式英语：She 'get an award' for her movie. 纠正：'Get' 在此不够正式，应使用 'win' 或 'receive'，如 She 「won an award」 for her movie."
+        },
+        {
+          "scene": "在一所大学的毕业典礼上，学校向一位杰出的校友颁发荣誉称号。",
+          "chineseIdea": "表示某人被正式授予奖项或荣誉以表彰其成就。",
+          "sentenceWithBlank": "The university @ @ @ to a distinguished alumnus for his charitable work.",
+          "fullEnglishSentence": "The university 「presented an award」 to a distinguished alumnus for his charitable work.",
+          "chineseTranslation": "大学向一位杰出校友「颁发了一个奖项」，以表彰他的慈善工作。",
+          "chinglishFix": "典型中式英语：The university 'give award' to him. 纠正：'Give' 在正式语境中不合适，应使用 'present'，如 The university 「presented an award」 to him."
+        }
+      ]
+    },
+    {
+      "meaning": "判给或授予（法律或合同中的某物）",
+      "usage": "在法律或正式合同场景中，指通过决定或裁决将某物（如赔偿金、合同等）分配给某人，常用于法庭、仲裁或商业场景。",
+      "collocations": ["award damages", "award a contract", "award compensation"],
+      "examples": [
+        {
+          "scene": "在一场法庭诉讼中，法官判决公司需向受伤的工人支付赔偿金。",
+          "chineseIdea": "表达通过法律裁决将某物（如金钱）给予某人。",
+          "sentenceWithBlank": "The court @ @ @ to the injured worker for his medical expenses.",
+          "fullEnglishSentence": "The court 「awarded compensation」 to the injured worker for his medical expenses.",
+          "chineseTranslation": "法院向受伤工人「判给了赔偿金」，用于支付他的医疗费用。",
+          "chinglishFix": "典型中式英语：The court 'give money' to the worker. 纠正：'Give money' 过于口语化且不准确，应使用 'award compensation'，如 The court 「awarded compensation」 to the worker."
+        },
+        {
+          "scene": "一家建筑公司通过竞标获得了一项大型政府工程项目。",
+          "chineseIdea": "表示通过正式程序将某项任务或项目分配给某方。",
+          "sentenceWithBlank": "The government @ @ @ to the construction company after a competitive bidding process.",
+          "fullEnglishSentence": "The government 「awarded a contract」 to the construction company after a competitive bidding process.",
+          "chineseTranslation": "政府在竞争性投标后向这家建筑公司「授予了合同」。",
+          "chinglishFix": "典型中式英语：The government 'give contract' to the company. 纠正：'Give contract' 不符合正式用语，应使用 'award a contract'，如 The government 「awarded a contract」 to the company."
+        }
+      ]
+    }
+  ]
+}
+```

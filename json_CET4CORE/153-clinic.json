@@ -1,0 +1,53 @@
+```json
+{
+  "word": "clinic",
+  "definitions": [
+    {
+      "meaning": "提供医疗服务的场所，通常规模较小，专注于门诊治疗或特定医疗服务",
+      "usage": "指小型医疗机构，如私人诊所、社区健康中心或专科诊所，常用于描述非住院的医疗服务场所。",
+      "collocations": ["visit a clinic", "attend a clinic", "run a clinic", "free clinic"],
+      "examples": [
+        {
+          "scene": "一位年轻妈妈带孩子去社区健康中心检查感冒症状，担心孩子可能需要一些简单的治疗。",
+          "chineseIdea": "这位妈妈希望确保孩子的健康，决定去一个地方接受专业医生的检查和建议。",
+          "sentenceWithBlank": "She decided to @ @ @ to have her child checked for a cold.",
+          "fullEnglishSentence": "She decided to 「visit a clinic」 to have her child checked for a cold.",
+          "chineseTranslation": "她决定「去诊所」让孩子检查感冒。",
+          "chinglishFix": "Chinglish: She go to hospital for child cold. Correct: She visits a clinic to have her child checked for a cold."
+        },
+        {
+          "scene": "一位大学生因为皮肤问题预约了一个皮肤科的诊疗中心，希望得到专业的治疗建议。",
+          "chineseIdea": "这位学生想定期去某个地方接受皮肤科医生的诊疗，以改善皮肤状况。",
+          "sentenceWithBlank": "He needs to @ @ @ every month for his skin condition.",
+          "fullEnglishSentence": "He needs to 「attend a clinic」 every month for his skin condition.",
+          "chineseTranslation": "他需要每个月「去诊所」治疗皮肤问题。",
+          "chinglishFix": "Chinglish: He go hospital every month for skin. Correct: He attends a clinic every month for his skin condition."
+        }
+      ]
+    },
+    {
+      "meaning": "特定领域的短期培训或指导活动，通常由专家主持，针对某一技能或主题",
+      "usage": "指为提高特定技能或知识而举办的短期课程或工作坊，如运动训练营、艺术工作坊等。",
+      "collocations": ["attend a clinic", "host a clinic", "participate in a clinic", "basketball clinic"],
+      "examples": [
+        {
+          "scene": "一位高中篮球运动员报名参加了一个由专业教练举办的暑期训练营，希望提升投篮技巧。",
+          "chineseIdea": "这位学生想通过专业指导快速提高篮球技术，决定参加一个集中训练的活动。",
+          "sentenceWithBlank": "He signed up to @ @ @ to improve his shooting skills.",
+          "fullEnglishSentence": "He signed up to 「attend a clinic」 to improve his shooting skills.",
+          "chineseTranslation": "他报名「参加训练营」以提高投篮技巧。",
+          "chinglishFix": "Chinglish: He join a basketball class for shooting. Correct: He attends a clinic to improve his shooting skills."
+        },
+        {
+          "scene": "一位艺术爱好者听说本地一位知名画家将举办一个为期两天的绘画工作坊，决定参加以学习新技巧。",
+          "chineseIdea": "这位爱好者希望通过专家的指导学习绘画技巧，决定参加一个短期的学习活动。",
+          "sentenceWithBlank": "She was excited to @ @ @ led by a famous artist.",
+          "fullEnglishSentence": "She was excited to 「participate in a clinic」 led by a famous artist.",
+          "chineseTranslation": "她很兴奋能「参加工作坊」，由一位著名艺术家指导。",
+          "chinglishFix": "Chinglish: She join artist class. Correct: She participates in a clinic led by a famous artist."
+        }
+      ]
+    }
+  ]
+}
+```
