@@ -1,0 +1,53 @@
+```json
+{
+  "word": "competent",
+  "definitions": [
+    {
+      "meaning": "有能力的，能够胜任的",
+      "usage": "描述一个人具备足够的能力、技能或知识来完成某项任务或职责，通常用于工作、学习或专业场景。",
+      "collocations": ["perform a task", "handle a situation", "manage a project"],
+      "examples": [
+        {
+          "scene": "在一个科技公司，团队正在讨论新项目的负责人选。小李因为过去成功完成了多个类似项目而被推荐。",
+          "chineseIdea": "小李被认为有足够的能力来领导这个项目，因为他有相关经验和技术知识。",
+          "sentenceWithBlank": "She was chosen to lead because she can @ @ @ effectively.",
+          "fullEnglishSentence": "She was chosen to lead because she can 「perform a task」 effectively.",
+          "chineseTranslation": "她被选为领导，因为她能「高效地完成任务」。",
+          "chinglishFix": "中式英语：She is very able to do the task. 纠正：She is capable of performing the task effectively."
+        },
+        {
+          "scene": "在一次客户会议中，经理需要处理一个棘手的投诉。小王冷静地回应并解决了问题，赢得了客户信任。",
+          "chineseIdea": "小王展现了处理复杂局面的能力，让客户感到满意。",
+          "sentenceWithBlank": "He proved he could @ @ @ with confidence.",
+          "fullEnglishSentence": "He proved he could 「handle a situation」 with confidence.",
+          "chineseTranslation": "他证明了自己能「自信地处理局面」。",
+          "chinglishFix": "中式英语：He is good at solving the situation. 纠正：He is skilled at handling the situation confidently."
+        }
+      ]
+    },
+    {
+      "meaning": "合格的，达到标准的",
+      "usage": "指某人或某物达到特定标准或要求，常用于评估、认证或法律场景。",
+      "collocations": ["meet requirements", "deliver results", "provide evidence"],
+      "examples": [
+        {
+          "scene": "在一家医院，新招聘的护士需要通过一系列考试以证明她们的资质。",
+          "chineseIdea": "护士们需要展示她们满足职业标准的能力，以获得工作许可。",
+          "sentenceWithBlank": "The nurses must show they can @ @ @ to be certified.",
+          "fullEnglishSentence": "The nurses must show they can 「meet requirements」 to be certified.",
+          "chineseTranslation": "护士们必须证明她们能「满足要求」以获得认证。",
+          "chinglishFix": "中式英语：They need to satisfy the standards. 纠正：They need to meet the requirements for certification."
+        },
+        {
+          "scene": "在法庭上，律师需要提交文件来证明被告有能力承担法律责任。",
+          "chineseIdea": "律师通过材料展示被告符合法律规定的标准。",
+          "sentenceWithBlank": "The lawyer submitted documents to @ @ @ of the defendant’s eligibility.",
+          "fullEnglishSentence": "The lawyer submitted documents to 「provide evidence」 of the defendant’s eligibility.",
+          "chineseTranslation": "律师提交了文件以「提供证据」证明被告的资格。",
+          "chinglishFix": "中式英语：The lawyer gave proof for the defendant. 纠正：The lawyer provided evidence of the defendant’s eligibility."
+        }
+      ]
+    }
+  ]
+}
+```

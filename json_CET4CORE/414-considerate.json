@@ -1,0 +1,53 @@
+```json
+{
+  "word": "considerate",
+  "definitions": [
+    {
+      "meaning": "体贴的，考虑周到的",
+      "usage": "描述一个人在行为或决定时考虑到他人的感受、需求或处境，表现出关心和尊重。",
+      "collocations": ["be considerate of", "be considerate to", "show consideration for"],
+      "examples": [
+        {
+          "scene": "在一个合租公寓里，小明发现室友小红最近工作压力很大，经常熬夜加班。小明想做点什么来缓解她的压力。",
+          "chineseIdea": "小明决定在小红加班时，帮她准备一些夜宵，并且保持客厅安静，以免打扰她。",
+          "sentenceWithBlank": "He always tries to @ @ @ her feelings when she’s stressed.",
+          "fullEnglishSentence": "He always tries to 「be considerate of」 her feelings when she’s stressed.",
+          "chineseTranslation": "他总是尽力「体贴」她的感受，当她压力大的时候。",
+          "chinglishFix": "典型中式英语：He very cares her feelings when she’s stressed. 纠正：He is very considerate of her feelings when she’s stressed.（‘care’改为‘be considerate of’，更符合英语表达习惯。）"
+        },
+        {
+          "scene": "在公司会议中，经理要求大家加班完成一个紧急项目，但小李注意到一位同事家里有急事需要处理。",
+          "chineseIdea": "小李建议经理调整任务分配，优先让那位同事处理家事，以体现团队的关怀。",
+          "sentenceWithBlank": "She suggested that the team @ @ @ his family situation.",
+          "fullEnglishSentence": "She suggested that the team 「show consideration for」 his family situation.",
+          "chineseTranslation": "她建议团队「考虑」他的家庭情况。",
+          "chinglishFix": "典型中式英语：She suggested the team think about his family situation. 纠正：She suggested the team show consideration for his family situation.（‘think about’显得不够正式，‘show consideration for’更贴切。）"
+        }
+      ]
+    },
+    {
+      "meaning": "深思熟虑的，经过仔细考虑的",
+      "usage": "描述某人的行为、决定或计划是经过认真思考和权衡后做出的，强调谨慎和周密。",
+      "collocations": ["after considerate thought", "considerate decision", "considerate planning"],
+      "examples": [
+        {
+          "scene": "小张正在计划一次家庭旅行，他需要平衡预算、时间和家人的兴趣爱好。",
+          "chineseIdea": "小张花了很多时间研究不同的目的地和活动安排，确保每个人都能玩得开心。",
+          "sentenceWithBlank": "He made his choice @ @ @ to ensure everyone’s satisfaction.",
+          "fullEnglishSentence": "He made his choice 「after considerate thought」 to ensure everyone’s satisfaction.",
+          "chineseTranslation": "他在「深思熟虑」后做出了选择，以确保每个人都满意。",
+          "chinglishFix": "典型中式英语：He thought a lot and made his choice. 纠正：He made his choice after considerate thought.（‘thought a lot’过于口语化，‘after considerate thought’更正式且贴合语境。）"
+        },
+        {
+          "scene": "公司需要裁员以应对经济困难，管理层希望以最公平的方式进行。",
+          "chineseIdea": "管理层花了数周时间分析每个员工的表现和公司需求，以确保裁员决定公平合理。",
+          "sentenceWithBlank": "The management made a @ @ to minimize unfairness.",
+          "fullEnglishSentence": "The management made a 「considerate decision」 to minimize unfairness.",
+          "chineseTranslation": "管理层做出了一个「深思熟虑的决定」以尽量减少不公平。",
+          "chinglishFix": "典型中式英语：The management decided carefully to avoid unfairness. 纠正：The management made a considerate decision to minimize unfairness.（‘decided carefully’不够精确，‘considerate decision’更能体现深思熟虑。）"
+        }
+      ]
+    }
+  ]
+}
+```
