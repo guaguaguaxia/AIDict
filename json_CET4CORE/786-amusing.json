@@ -1,0 +1,53 @@
+```json
+{
+  "word": "amusing",
+  "definitions": [
+    {
+      "meaning": "引起兴趣或乐趣的；有趣的",
+      "usage": "形容某事物、行为或人能够让人感到愉悦、轻松或轻度娱乐，通常不涉及强烈的情绪或深度的幽默。",
+      "collocations": ["an amusing story", "an amusing incident", "an amusing comment"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，小明分享了一个他在学校遇到的趣事，引起了大家的笑声。",
+          "chineseIdea": "想表达某件事情因为它的趣味性让大家感到开心和放松。",
+          "sentenceWithBlank": "He shared @ @ @ that made everyone laugh.",
+          "fullEnglishSentence": "He shared 「an amusing story」 that made everyone laugh.",
+          "chineseTranslation": "他分享了一个「有趣的故事」，让大家都笑了。",
+          "chinglishFix": "典型中式英语：'He said a funny thing.' 纠正：'Funny' 可能暗示更强烈的幽默，改为 'He shared an amusing story' 更贴近轻度娱乐的语感。"
+        },
+        {
+          "scene": "在咖啡馆里，朋友们聊天时，小红提到一个她在网上看到的搞笑评论，引起大家的讨论。",
+          "chineseIdea": "想描述某条评论因为其巧妙或有趣的内容让人会心一笑。",
+          "sentenceWithBlank": "She mentioned @ @ @ that sparked a lively discussion.",
+          "fullEnglishSentence": "She mentioned 「an amusing comment」 that sparked a lively discussion.",
+          "chineseTranslation": "她提到了一条「有趣的评论」，引发了热烈的讨论。",
+          "chinglishFix": "典型中式英语：'She said something interesting.' 纠正：'Interesting' 强调内容的重要性而非趣味性，改为 'an amusing comment' 更符合语境。"
+        }
+      ]
+    },
+    {
+      "meaning": "使人发笑的；逗乐的",
+      "usage": "形容某事物或行为因为其滑稽、夸张或出乎意料的特点而让人发笑，通常带有更明显的娱乐效果。",
+      "collocations": ["an amusing game", "an amusing performance", "an amusing situation"],
+      "examples": [
+        {
+          "scene": "在公司团建活动中，同事们玩了一个模仿动物的游戏，大家因为滑稽的动作笑得前仰后合。",
+          "chineseIdea": "想表达某个活动因为其滑稽性让人忍不住大笑。",
+          "sentenceWithBlank": "They played @ @ @ that had everyone in stitches.",
+          "fullEnglishSentence": "They played 「an amusing game」 that had everyone in stitches.",
+          "chineseTranslation": "他们玩了一个「逗乐的游戏」，让大家都笑得停不下来。",
+          "chinglishFix": "典型中式英语：'They played a happy game.' 纠正：'Happy' 无法传达滑稽感，改为 'an amusing game' 更准确表达娱乐效果。"
+        },
+        {
+          "scene": "在学校戏剧表演中，一个学生不小心把道具弄倒了，意外制造了一个搞笑的场面。",
+          "chineseIdea": "想描述某个意外事件因为其滑稽性让人觉得好笑。",
+          "sentenceWithBlank": "The student caused @ @ @ that made the audience burst into laughter.",
+          "fullEnglishSentence": "The student caused 「an amusing situation」 that made the audience burst into laughter.",
+          "chineseTranslation": "那个学生造成了一个「逗乐的情景」，让观众哄堂大笑。",
+          "chinglishFix": "典型中式英语：'The student made a funny thing.' 纠正：'Funny thing' 过于模糊且不自然，改为 'an amusing situation' 更贴合语境。"
+        }
+      ]
+    }
+  ]
+}
+```

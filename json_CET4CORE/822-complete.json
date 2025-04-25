@@ -1,0 +1,53 @@
+```json
+{
+  "word": "complete",
+  "definitions": [
+    {
+      "meaning": "全部完成或结束某事",
+      "usage": "用作动词，表示某项任务、项目或过程已经全部完成，通常带有达到预期目标的含义。",
+      "collocations": ["complete a task", "complete a project", "complete the process"],
+      "examples": [
+        {
+          "scene": "一个学生在学期末完成了所有的作业和考试，感到轻松。",
+          "chineseIdea": "描述一个人通过努力把一项任务从头到尾做完，达成目标。",
+          "sentenceWithBlank": "After weeks of hard work, she finally @ @ @.",
+          "fullEnglishSentence": "After weeks of hard work, she finally 「completed a task」.",
+          "chineseTranslation": "经过几周的努力，她终于「完成了一项任务」。",
+          "chinglishFix": "典型中式英语：She finished to do a task. 纠正：She completed a task.（'finish' 后不接不定式，'complete' 更适合正式完成任务的语境。）"
+        },
+        {
+          "scene": "一家公司在经过数月的开发后，成功推出了新产品。",
+          "chineseIdea": "描述一个团队协作完成一个复杂项目并交付成果。",
+          "sentenceWithBlank": "The team worked tirelessly to @ @ @ on time.",
+          "fullEnglishSentence": "The team worked tirelessly to 「complete a project」 on time.",
+          "chineseTranslation": "团队不懈努力，准时「完成了一个项目」。",
+          "chinglishFix": "典型中式英语：The team ended a project. 纠正：The team completed a project.（'end' 更强调终止，'complete' 强调达成目标。）"
+        }
+      ]
+    },
+    {
+      "meaning": "完全的、全部的",
+      "usage": "用作形容词，表示某事物是彻底的、没有缺失的，或达到最大程度的。",
+      "collocations": ["complete silence", "complete control", "complete satisfaction"],
+      "examples": [
+        {
+          "scene": "在一场音乐会中，观众被表演震撼，全场鸦雀无声。",
+          "chineseIdea": "描述一种安静到极点的状态，没有任何杂音干扰。",
+          "sentenceWithBlank": "When the music stopped, there was @ @ in the hall.",
+          "fullEnglishSentence": "When the music stopped, there was 「complete silence」 in the hall.",
+          "chineseTranslation": "当音乐停止时，大厅里一片「完全的寂静」。",
+          "chinglishFix": "典型中式英语：There was very silence. 纠正：There was complete silence.（'very' 不能修饰 'silence'，'complete' 更能表达彻底的安静。）"
+        },
+        {
+          "scene": "一位经理在会议中展现了对项目的全面掌控。",
+          "chineseIdea": "描述某人对某事有绝对的控制权，毫无偏差。",
+          "sentenceWithBlank": "She demonstrated @ @ over the project’s progress.",
+          "fullEnglishSentence": "She demonstrated 「complete control」 over the project’s progress.",
+          "chineseTranslation": "她展示了项目进展的「完全掌控」。",
+          "chinglishFix": "典型中式英语：She had very control. 纠正：She had complete control.（'very' 不能修饰 'control'，'complete' 更适合表达全面掌控。）"
+        }
+      ]
+    }
+  ]
+}
+```
