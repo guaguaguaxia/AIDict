@@ -1,0 +1,53 @@
+```json
+{
+  "word": "unaffordable",
+  "definitions": [
+    {
+      "meaning": "价格过高，超出支付能力",
+      "usage": "通常用来形容商品、服务或生活成本等因价格太高而无法负担，常用于描述经济压力或财务限制的场景。",
+      "collocations": ["housing prices", "healthcare costs", "luxury goods"],
+      "examples": [
+        {
+          "scene": "一个年轻人在上海找房，面对高昂的房价感到无望。",
+          "chineseIdea": "年轻人想在城市买房，但发现房价高得让人望而却步。",
+          "sentenceWithBlank": "The @ @ in big cities like Shanghai make it nearly impossible for young people to buy a home.",
+          "fullEnglishSentence": "The 「housing prices」 in big cities like Shanghai are unaffordable, making it nearly impossible for young people to buy a home.",
+          "chineseTranslation": "像上海这样的大城市的「房价」太高，让年轻人几乎无法买房。",
+          "chinglishFix": "典型中式英语：'The house price is too expensive.' 纠正：'Housing prices are unaffordable.'（用'housing prices'代替'house price'，并用'unaffordable'更贴近英语母语者的表达。）"
+        },
+        {
+          "scene": "一个家庭在讨论是否搬到市中心，但发现那里的租金让他们负担不起。",
+          "chineseIdea": "家庭希望住得离工作地点近，但市中心的租金超出了他们的经济能力。",
+          "sentenceWithBlank": "Moving to the city center is tempting, but the @ @ there are just too high for us.",
+          "fullEnglishSentence": "Moving to the city center is tempting, but the 「housing prices」 there are unaffordable for us.",
+          "chineseTranslation": "搬到市中心很吸引人，但那里的「房价」对我们来说太高了。",
+          "chinglishFix": "典型中式英语：'The rent is very high.' 纠正：'Housing prices are unaffordable.'（'housing prices'更广泛适用于房价或租金，且'unaffordable'更精确表达负担不起。）"
+        }
+      ]
+    },
+    {
+      "meaning": "成本或代价过高，无法承受（非金钱）",
+      "usage": "用来形容某些行为、决定或后果所需的代价（时间、精力、情感等）过高，令人无法接受，常用于抽象或比喻场景。",
+      "collocations": ["time commitment", "emotional toll", "energy demand"],
+      "examples": [
+        {
+          "scene": "一个学生在准备高考的同时还想参加多个课外活动，但发现时间不够用。",
+          "chineseIdea": "学生希望全面发展，但发现同时兼顾学业和活动需要付出的时间成本太大。",
+          "sentenceWithBlank": "Balancing schoolwork and extracurricular activities requires a huge @ @, which is simply too much for most students.",
+          "fullEnglishSentence": "Balancing schoolwork and extracurricular activities requires a huge 「time commitment」, which is unaffordable for most students.",
+          "chineseTranslation": "平衡学业和课外活动需要巨大的「时间投入」，这对大多数学生来说太高了。",
+          "chinglishFix": "典型中式英语：'It needs too much time.' 纠正：'It requires a huge time commitment.'（用'time commitment'表达时间成本，'unaffordable'突出无法承受。）"
+        },
+        {
+          "scene": "一个职场人士被要求每天加班到深夜，感到身心俱疲。",
+          "chineseIdea": "职场人士想保住工作，但长期加班对心理和身体的损耗让他们觉得难以承受。",
+          "sentenceWithBlank": "Working overtime every day takes a heavy @ @, which is simply too much for me to handle.",
+          "fullEnglishSentence": "Working overtime every day takes a heavy 「emotional toll」, which is unaffordable for me to handle.",
+          "chineseTranslation": "每天加班带来的沉重「情感负担」对我来说太高了，难以承受。",
+          "chinglishFix": "典型中式英语：'It makes me very tired.' 纠正：'It takes a heavy emotional toll.'（用'emotional toll'更精确描述心理代价，'unaffordable'强调无法承受。）"
+        }
+      ]
+    }
+  ]
+}
+```

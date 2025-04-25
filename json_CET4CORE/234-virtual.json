@@ -1,0 +1,53 @@
+```json
+{
+  "word": "virtual",
+  "definitions": [
+    {
+      "meaning": "几乎或实际上是某事物，但不是正式或完全的",
+      "usage": "描述某事物在效果上接近于某种状态，但不完全等同于该状态，常用于表示接近真实的情况。",
+      "collocations": ["virtual reality", "virtual impossibility", "virtual assistant"],
+      "examples": [
+        {
+          "scene": "你在科技展会上体验了一种新的头显设备，感觉仿佛置身于另一个世界。",
+          "chineseIdea": "你想表达这种技术让你感觉像是真的在一个不同的环境中。",
+          "sentenceWithBlank": "The headset creates a @ @ environment that feels incredibly real.",
+          "fullEnglishSentence": "The headset creates a 「virtual reality」 environment that feels incredibly real.",
+          "chineseTranslation": "这款头显创造了一个「虚拟现实」的环境，感觉非常真实。",
+          "chinglishFix": "典型中式英语：This machine makes a not real but like real world. 纠正：This device creates a virtual reality experience that feels lifelike."
+        },
+        {
+          "scene": "你和朋友讨论一项几乎不可能完成的任务，比如在一天内完成一个大型项目。",
+          "chineseIdea": "你想说明这个任务基本上不可能完成。",
+          "sentenceWithBlank": "Finishing this project by tomorrow is a @ @.",
+          "fullEnglishSentence": "Finishing this project by tomorrow is a 「virtual impossibility」.",
+          "chineseTranslation": "在明天之前完成这个项目几乎是「不可能的」。",
+          "chinglishFix": "典型中式英语：This work is nearly not possible. 纠正：This task is a virtual impossibility."
+        }
+      ]
+    },
+    {
+      "meaning": "通过计算机或网络技术模拟的，存在于数字环境中的",
+      "usage": "指通过电子设备或互联网创建的数字版本或模拟环境，常用于描述在线或计算机生成的事物。",
+      "collocations": ["virtual meeting", "virtual tour", "virtual classroom"],
+      "examples": [
+        {
+          "scene": "公司因为员工分布在不同城市，决定通过视频会议软件进行每周例会。",
+          "chineseIdea": "你想说明这种会议是通过网络进行的，而不是面对面的。",
+          "sentenceWithBlank": "We hold a @ @ every Monday to discuss our progress.",
+          "fullEnglishSentence": "We hold a 「virtual meeting」 every Monday to discuss our progress.",
+          "chineseTranslation": "我们每周一举行一次「虚拟会议」来讨论进展。",
+          "chinglishFix": "典型中式英语：We have an online meeting on computer. 纠正：We conduct a virtual meeting online."
+        },
+        {
+          "scene": "你在网上浏览一所大学的网站，体验了通过3D技术展示的校园参观。",
+          "chineseIdea": "你想表达这种参观是通过网络模拟的，而不是亲自到现场。",
+          "sentenceWithBlank": "The university offers a @ @ of its campus for prospective students.",
+          "fullEnglishSentence": "The university offers a 「virtual tour」 of its campus for prospective students.",
+          "chineseTranslation": "这所大学为潜在学生提供了校园的「虚拟游览」。",
+          "chinglishFix": "典型中式英语：The school has a visit on the internet. 纠正：The university provides a virtual tour online."
+        }
+      ]
+    }
+  ]
+}
+```

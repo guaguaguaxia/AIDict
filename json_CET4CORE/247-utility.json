@@ -1,0 +1,53 @@
+```json
+{
+  "word": "utility",
+  "definitions": [
+    {
+      "meaning": "实用性；有用性",
+      "usage": "指某事物因其功能或用途而具有的价值，通常用于描述物品、工具或服务的实际效用。",
+      "collocations": ["practical utility", "maximum utility", "public utility"],
+      "examples": [
+        {
+          "scene": "一个学生在选择大学课程时，考虑哪些课程对未来职业最有帮助。",
+          "chineseIdea": "学生想选择那些能真正提升技能、为未来工作带来实际好处的课程，而不是只为了兴趣。",
+          "sentenceWithBlank": "When choosing courses, she focused on their @ @ rather than just personal interest.",
+          "fullEnglishSentence": "When choosing courses, she focused on their 「practical utility」 rather than just personal interest.",
+          "chineseTranslation": "在选择课程时，她注重课程的「实用性」而不仅仅是个人兴趣。",
+          "chinglishFix": "典型中式英语：'She chose courses that have use.' 纠正：'She chose courses based on their practical utility.'（避免直接翻译‘有用’，用更自然的搭配）"
+        },
+        {
+          "scene": "一家公司评估新软件是否值得投资。",
+          "chineseIdea": "公司希望新软件能最大化地提高工作效率，而不是只增加不必要的复杂性。",
+          "sentenceWithBlank": "The company evaluated the software based on its @ @ in streamlining operations.",
+          "fullEnglishSentence": "The company evaluated the software based on its 「maximum utility」 in streamlining operations.",
+          "chineseTranslation": "公司根据软件在简化操作方面的「最大实用性」进行评估。",
+          "chinglishFix": "典型中式英语：'The software is very useful.' 纠正：'The software offers maximum utility in streamlining operations.'（避免泛泛的‘useful’，突出具体效用）"
+        }
+      ]
+    },
+    {
+      "meaning": "公用事业",
+      "usage": "指提供基本服务的公司或系统，如电力、供水、燃气等，通常由政府或公共机构管理。",
+      "collocations": ["public utility", "utility company", "utility service"],
+      "examples": [
+        {
+          "scene": "一个家庭搬到新城市后，需要开通水电服务。",
+          "chineseIdea": "新搬来的家庭需要联系相关机构，确保家里有水电可用。",
+          "sentenceWithBlank": "After moving, they contacted the local @ @ to set up water and electricity.",
+          "fullEnglishSentence": "After moving, they contacted the local 「public utility」 to set up water and electricity.",
+          "chineseTranslation": "搬家后，他们联系了当地的「公用事业」机构来开通水电。",
+          "chinglishFix": "典型中式英语：'They called the water and electricity company.' 纠正：'They contacted the local public utility to set up water and electricity.'（避免直接翻译为‘公司’，使用更贴切的术语）"
+        },
+        {
+          "scene": "一个小镇的居民抱怨电费上涨。",
+          "chineseIdea": "居民对电费增加感到不满，希望供电公司能提供更透明的收费标准。",
+          "sentenceWithBlank": "The residents demanded better transparency from the @ @ regarding rising costs.",
+          "fullEnglishSentence": "The residents demanded better transparency from the 「utility company」 regarding rising costs.",
+          "chineseTranslation": "居民要求「公用事业公司」对成本上涨提供更透明的说明。",
+          "chinglishFix": "典型中式英语：'The electric company should explain the price.' 纠正：'The utility company should provide transparency regarding rising costs.'（用更专业的‘utility company’和正式表达）"
+        }
+      ]
+    }
+  ]
+}
+```

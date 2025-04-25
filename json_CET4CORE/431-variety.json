@@ -1,0 +1,76 @@
+```json
+{
+  "word": "variety",
+  "definitions": [
+    {
+      "meaning": "多样性；种类",
+      "usage": "指事物在类型、形式或特征上的不同，常用于描述多个不同种类的事物或选择。",
+      "collocations": ["wide variety of", "great variety of", "variety of different"],
+      "examples": [
+        {
+          "scene": "在一个大型超市里，顾客正在挑选水果。货架上摆满了来自世界各地的水果，从常见的苹果到异国情调的火龙果，应有尽有。",
+          "chineseIdea": "超市里水果种类繁多，顾客可以根据自己的口味选择不同的水果。",
+          "sentenceWithBlank": "The supermarket offers @ @ @ fruits, from apples to dragonfruits.",
+          "fullEnglishSentence": "The supermarket offers 「a wide variety of」 fruits, from apples to dragonfruits.",
+          "chineseTranslation": "超市提供「种类繁多的」水果，从苹果到火龙果。",
+          "chinglishFix": "典型中式英语：'The supermarket has many kinds fruits.' 纠正：'The supermarket offers a wide variety of fruits.'（避免遗漏介词和冠词，搭配更自然。）"
+        },
+        {
+          "scene": "在一场国际美食节上，摊位上展示了来自不同国家的特色菜肴，吸引了大量游客尝试。",
+          "chineseIdea": "美食节上有很多不同国家的食物，游客可以体验各种口味。",
+          "sentenceWithBlank": "The food festival showcased @ @ @ cuisines from around the world.",
+          "fullEnglishSentence": "The food festival showcased 「a great variety of」 cuisines from around the world.",
+          "chineseTranslation": "美食节展示了「种类丰富的」来自世界各地的美食。",
+          "chinglishFix": "典型中式英语：'The festival has many different foods.' 纠正：'The festival showcased a great variety of cuisines.'（使用更精确的搭配和名词。）"
+        }
+      ]
+    },
+    {
+      "meaning": "变化；多样化",
+      "usage": "指在活动、经历或某事物中引入不同元素以避免单调，常用于描述生活、工作或娱乐中的多样化。",
+      "collocations": ["add variety to", "bring variety to", "for variety"],
+      "examples": [
+        {
+          "scene": "一位上班族每天重复相同的工作，感到枯燥，决定尝试新的工作方式，比如远程办公或参加培训课程。",
+          "chineseIdea": "通过改变工作方式，可以让日常生活更有趣。",
+          "sentenceWithBlank": "Trying new work methods can @ @ @ her daily routine.",
+          "fullEnglishSentence": "Trying new work methods can 「add variety to」 her daily routine.",
+          "chineseTranslation": "尝试新的工作方式可以「为她的日常生活增添多样性」。",
+          "chinglishFix": "典型中式英语：'New methods make her work more different.' 纠正：'New methods add variety to her work.'（避免模糊表达，使用固定搭配。）"
+        },
+        {
+          "scene": "一位健身爱好者每周都进行相同的锻炼，感到无聊，决定加入瑜伽和游泳来丰富锻炼内容。",
+          "chineseIdea": "通过尝试不同的运动，可以让健身更有吸引力。",
+          "sentenceWithBlank": "She included yoga and swimming @ @ to her workout plan.",
+          "fullEnglishSentence": "She included yoga and swimming 「for variety」 to her workout plan.",
+          "chineseTranslation": "她加入了瑜伽和游泳，「为了增加多样性」到她的健身计划中。",
+          "chinglishFix": "典型中式英语：'She adds yoga for more different exercise.' 纠正：'She adds yoga for variety in her exercise.'（使用正确的介词和搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "变种；类别",
+      "usage": "指某一特定事物（如植物、动物或产品）的不同类型或变种，常用于科学、农业或商业领域。",
+      "collocations": ["new variety of", "different variety of", "rare variety of"],
+      "examples": [
+        {
+          "scene": "在一家园艺店中，店员向顾客介绍一种新培育的玫瑰花，这种玫瑰花颜色独特，吸引了很多园艺爱好者。",
+          "chineseIdea": "这种新培育的玫瑰花是一个独特的类别，受到欢迎。",
+          "sentenceWithBlank": "The shop introduced @ @ @ roses with a unique color.",
+          "fullEnglishSentence": "The shop introduced 「a new variety of」 roses with a unique color.",
+          "chineseTranslation": "这家店推出了「一种新品种的」玫瑰，颜色独特。",
+          "chinglishFix": "典型中式英语：'The shop has a new kind rose.' 纠正：'The shop introduced a new variety of roses.'（使用正确的搭配和复数形式。）"
+        },
+        {
+          "scene": "在一个农业展览会上，农民展示了一种抗虫害的水稻，这种水稻产量高且适应性强。",
+          "chineseIdea": "这种水稻是一个特别的类型，能够抵抗虫害。",
+          "sentenceWithBlank": "Farmers displayed @ @ @ rice that resists pests.",
+          "fullEnglishSentence": "Farmers displayed 「a different variety of」 rice that resists pests.",
+          "chineseTranslation": "农民展示了「一种不同的」抗虫害水稻。",
+          "chinglishFix": "典型中式英语：'Farmers show a new rice kind.' 纠正：'Farmers displayed a different variety of rice.'（避免直译，使用更自然的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```
