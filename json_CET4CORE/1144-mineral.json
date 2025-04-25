@@ -1,0 +1,76 @@
+```json
+{
+  "word": "mineral",
+  "definitions": [
+    {
+      "meaning": "自然界中具有特定化学成分和物理性质的固体物质，通常为无机物",
+      "usage": "指地质学中自然形成的晶体或非晶体物质，常用于描述矿石、岩石成分或工业原料；也用于指水中溶解的无机物质。",
+      "collocations": ["rich in minerals", "extract minerals", "mineral deposits", "essential minerals"],
+      "examples": [
+        {
+          "scene": "一个地质学家在野外考察，研究一座山脉的岩石构成，试图寻找有价值的矿藏。",
+          "chineseIdea": "描述山脉的岩石含有多种无机物质，可能具有开采价值。",
+          "sentenceWithBlank": "The rocks in this mountain are @ @ @, indicating potential for mining.",
+          "fullEnglishSentence": "The rocks in this mountain are 「rich in minerals」, indicating potential for mining.",
+          "chineseTranslation": "这座山的岩石「富含无机物质」，表明有开采潜力。",
+          "chinglishFix": "典型中式英语：'The mountain has many minerals.' 纠正：'The rocks in this mountain are rich in minerals.'（避免直接用'has'，用'rich in'更符合英语表达习惯）"
+        },
+        {
+          "scene": "一家矿业公司在偏远地区勘探，计划开采地下资源用于工业生产。",
+          "chineseIdea": "描述公司通过挖掘获取地下深处的无机物质。",
+          "sentenceWithBlank": "The company aims to @ @ from the newly discovered site.",
+          "fullEnglishSentence": "The company aims to 「extract minerals」 from the newly discovered site.",
+          "chineseTranslation": "该公司计划从新发现的地点「提取无机物质」。",
+          "chinglishFix": "典型中式英语：'The company wants to take minerals.' 纠正：'The company aims to extract minerals.'（'extract'比'take'更专业，符合矿业语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "人体所需的微量无机营养素，如钙、铁、锌等",
+      "usage": "指人体健康所需的微量元素，通常通过饮食或补充剂摄入；常见于营养学、医学或健康产品描述。",
+      "collocations": ["essential minerals", "mineral supplements", "rich in minerals", "deficiency in minerals"],
+      "examples": [
+        {
+          "scene": "一位营养师在为客户制定饮食计划，强调均衡摄入微量元素的重要性。",
+          "chineseIdea": "建议客户多吃富含微量元素的食物以保持健康。",
+          "sentenceWithBlank": "You should eat foods that are @ @ @ to support your overall health.",
+          "fullEnglishSentence": "You should eat foods that are 「rich in minerals」 to support your overall health.",
+          "chineseTranslation": "你应该吃「富含微量元素」的食物来支持整体健康。",
+          "chinglishFix": "典型中式英语：'You need to eat minerals.' 纠正：'You should eat foods that are rich in minerals.'（直接说'eat minerals'不自然，需指明食物为载体）"
+        },
+        {
+          "scene": "一位医生在检查后发现患者缺乏某些营养素，建议服用补充剂。",
+          "chineseIdea": "描述患者需要额外的微量元素来改善健康状况。",
+          "sentenceWithBlank": "The doctor recommended taking @ @ to address the deficiency.",
+          "fullEnglishSentence": "The doctor recommended taking 「mineral supplements」 to address the deficiency.",
+          "chineseTranslation": "医生建议服用「微量元素补充剂」来解决缺乏问题。",
+          "chinglishFix": "典型中式英语：'The doctor said to eat mineral medicine.' 纠正：'The doctor recommended taking mineral supplements.'（'supplements'比'medicine'更准确，符合营养学语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "矿泉水中的无机盐类物质",
+      "usage": "指矿泉水中溶解的天然无机物质，常用于描述饮用水品质或健康益处；常见于食品饮料行业。",
+      "collocations": ["natural minerals", "rich in minerals", "mineral content", "source of minerals"],
+      "examples": [
+        {
+          "scene": "一家饮料公司在广告中宣传其矿泉水的纯净和健康益处。",
+          "chineseIdea": "强调矿泉水中含有天然的无机物质，对身体有益。",
+          "sentenceWithBlank": "Our bottled water is @ @ @, promoting hydration and wellness.",
+          "fullEnglishSentence": "Our bottled water is 「rich in minerals」, promoting hydration and wellness.",
+          "chineseTranslation": "我们的瓶装水「富含无机物质」，促进水合作用和健康。",
+          "chinglishFix": "典型中式英语：'Our water has many minerals.' 纠正：'Our bottled water is rich in minerals.'（'rich in'更符合广告语的流畅表达）"
+        },
+        {
+          "scene": "一位消费者在超市挑选矿泉水，关注水质标签上的成分信息。",
+          "chineseIdea": "描述消费者选择含有较多无机物质的水以获得健康益处。",
+          "sentenceWithBlank": "She chose a brand with high @ @ for its health benefits.",
+          "fullEnglishSentence": "She chose a brand with high 「mineral content」 for its health benefits.",
+          "chineseTranslation": "她选择了一个「无机物质含量」高的品牌，因为它有益健康。",
+          "chinglishFix": "典型中式英语：'She picked water with many minerals.' 纠正：'She chose a brand with high mineral content.'（'mineral content'更具体，适合描述水质）"
+        }
+      ]
+    }
+  ]
+}
+```

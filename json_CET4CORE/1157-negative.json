@@ -1,0 +1,76 @@
+```json
+{
+  "word": "negative",
+  "definitions": [
+    {
+      "meaning": "表达否定、反对或不利的意思",
+      "usage": "作为形容词，用于描述否定的态度、情况或结果；常用于表达某事物缺乏积极特质或具有不利影响。",
+      "collocations": ["negative attitude", "negative impact", "negative feedback", "negative consequence"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理正在讨论团队对新项目的反应，发现有些员工对计划持怀疑态度。",
+          "chineseIdea": "有些员工对新项目不看好，表现出消极的情绪，觉得项目可能不会成功。",
+          "sentenceWithBlank": "Some team members showed a @ @ during the meeting, doubting the project's success.",
+          "fullEnglishSentence": "Some team members showed a 「negative attitude」 during the meeting, doubting the project's success.",
+          "chineseTranslation": "一些团队成员在会议中表现出「消极态度」，怀疑项目的成功。",
+          "chinglishFix": "典型中式英语：'They have a not positive attitude.' 纠正：'They have a negative attitude.'（避免使用双重否定，改为直接表达否定态度）"
+        },
+        {
+          "scene": "在一所学校，老师正在向家长解释新教学方法的效果，但提到了一些意想不到的问题。",
+          "chineseIdea": "新教学方法带来了一些不好的影响，可能会影响学生的学习进度。",
+          "sentenceWithBlank": "The new teaching method has had a @ @ on students' progress.",
+          "fullEnglishSentence": "The new teaching method has had a 「negative impact」 on students' progress.",
+          "chineseTranslation": "新的教学方法对学生的进步产生了「负面影响」。",
+          "chinglishFix": "典型中式英语：'It has a bad effect to students.' 纠正：'It has a negative impact on students.'（使用正确的介词'on'和更自然的搭配'negative impact'）"
+        }
+      ]
+    },
+    {
+      "meaning": "数学或科学中表示小于零或相反的值",
+      "usage": "作为形容词，用于描述数值低于零或表示相反方向、极性等；常见于数学、物理或技术领域。",
+      "collocations": ["negative number", "negative charge", "negative value"],
+      "examples": [
+        {
+          "scene": "在数学课上，老师正在向学生解释如何处理负数运算，强调负数在实际生活中的意义。",
+          "chineseIdea": "负数表示低于零的数值，比如银行账户欠款或温度低于零度。",
+          "sentenceWithBlank": "When you subtract a larger number from a smaller one, you get a @ @.",
+          "fullEnglishSentence": "When you subtract a larger number from a smaller one, you get a 「negative number」.",
+          "chineseTranslation": "当你从一个较小的数中减去一个较大的数时，你会得到一个「负数」。",
+          "chinglishFix": "典型中式英语：'You get a minus number.' 纠正：'You get a negative number.'（'minus'通常指运算符号，'negative'更适合描述结果）"
+        },
+        {
+          "scene": "在物理实验中，学生们正在研究电荷的相互作用，观察带电粒子的行为。",
+          "chineseIdea": "某些粒子带有负电荷，会被正电荷吸引，形成特定的运动轨迹。",
+          "sentenceWithBlank": "The particle with a @ @ was attracted to the positively charged plate.",
+          "fullEnglishSentence": "The particle with a 「negative charge」 was attracted to the positively charged plate.",
+          "chineseTranslation": "带有「负电荷」的粒子被正电荷板吸引。",
+          "chinglishFix": "典型中式英语：'It has a negative electricity.' 纠正：'It has a negative charge.'（使用'charge'而非'electricity'，后者过于笼统）"
+        }
+      ]
+    },
+    {
+      "meaning": "摄影或医学检测中表示特定结果",
+      "usage": "作为形容词，指摄影中底片上的影像，或医学检测中未发现疾病、物质等的状况。",
+      "collocations": ["negative film", "negative result", "test negative"],
+      "examples": [
+        {
+          "scene": "在医院，医生正在向患者解释新冠病毒检测的结果，患者松了一口气。",
+          "chineseIdea": "检测结果显示没有感染病毒，说明患者是健康的。",
+          "sentenceWithBlank": "The patient was relieved to hear that they @ @ for the virus.",
+          "fullEnglishSentence": "The patient was relieved to hear that they 「tested negative」 for the virus.",
+          "chineseTranslation": "患者听到他们对病毒「检测为阴性」时松了一口气。",
+          "chinglishFix": "典型中式英语：'The test is negative.' 纠正：'They tested negative.'（医学检测中常用'test negative'表示结果，强调动词形式）"
+        },
+        {
+          "scene": "在摄影工作室，摄影师正在向客户展示传统胶片摄影的底片效果。",
+          "chineseIdea": "底片上的影像颜色反转，需要冲洗才能看到正常的照片。",
+          "sentenceWithBlank": "The photographer showed the client the @ @ before developing the final prints.",
+          "fullEnglishSentence": "The photographer showed the client the 「negative film」 before developing the final prints.",
+          "chineseTranslation": "摄影师在冲洗最终照片前向客户展示了「底片」。",
+          "chinglishFix": "典型中式英语：'This is a negative photo.' 纠正：'This is a negative film.'（使用'film'指底片，而非'photo'指最终照片）"
+        }
+      ]
+    }
+  ]
+}
+```
