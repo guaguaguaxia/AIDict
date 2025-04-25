@@ -185,7 +185,6 @@ def get_json_data(API_KEY, start_alpha_list):
 
             write_file(f"./json_CET4CORE/{str(k) + '-' + word}.json", content, model)
         except Exception as e:
-            print(response)
             print(f"获取单词 {word} 的解释失败：{e}")
             time.sleep(5)
 
