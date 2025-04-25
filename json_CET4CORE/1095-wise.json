@@ -1,0 +1,76 @@
+```json
+{
+  "word": "wise",
+  "definitions": [
+    {
+      "meaning": "具有智慧、明智或判断力",
+      "usage": "形容一个人在决策或行为上展现出深思熟虑、经验丰富或知识渊博的特质，通常用于正面评价。",
+      "collocations": ["make a wise decision", "wise choice", "wise words", "act wise"],
+      "examples": [
+        {
+          "scene": "一位年轻人在职业选择上面临困惑，向经验丰富的前辈咨询。前辈建议他选择一份既有稳定收入又能发挥个人兴趣的工作。",
+          "chineseIdea": "在重大决定时，表现出深思熟虑和长远眼光的选择。",
+          "sentenceWithBlank": "After much thought, he @ @ @ to pursue a career in teaching.",
+          "fullEnglishSentence": "After much thought, he 「made a wise decision」 to pursue a career in teaching.",
+          "chineseTranslation": "在深思熟虑后，他「做出了明智的决定」去追求教师职业。",
+          "chinglishFix": "典型中式英语：He did a clever decision. 纠正：He made a wise decision.（'do'不适用于decision，应使用'make'，且'clever'更偏向机灵，而'wise'强调智慧。）"
+        },
+        {
+          "scene": "朋友们在讨论周末计划，有人提议去爬山，但天气预报说可能有雨。另一人建议改为室内活动，以避免风险。",
+          "chineseIdea": "根据实际情况选择更安全或合适的方案。",
+          "sentenceWithBlank": "Considering the forecast, she suggested a @ @ to stay indoors.",
+          "fullEnglishSentence": "Considering the forecast, she suggested a 「wise choice」 to stay indoors.",
+          "chineseTranslation": "考虑到天气预报，她建议「明智的选择」是留在室内。",
+          "chinglishFix": "典型中式英语：She gave a smart choice. 纠正：She made a wise choice.（'give'不适用于choice，'smart'更偏向聪明，而'wise'更强调判断力。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在特定领域知识渊博或经验丰富",
+      "usage": "描述某人在某个特定主题或领域内具备深入的知识或洞察力，常与介词'about'或'on'搭配。",
+      "collocations": ["wise about investments", "wise on technology trends", "wise in matters of the heart"],
+      "examples": [
+        {
+          "scene": "在家庭聚会上，年轻 родственник向年长的姑姑咨询如何理财，因为姑姑多年来成功管理了自己的投资组合。",
+          "chineseIdea": "在某个领域有丰富经验，能够提供专业建议。",
+          "sentenceWithBlank": "My aunt is very @ @ @, so I trust her financial advice.",
+          "fullEnglishSentence": "My aunt is very 「wise about investments」, so I trust her financial advice.",
+          "chineseTranslation": "我姑姑在「投资方面很有经验」，所以我信任她的理财建议。",
+          "chinglishFix": "典型中式英语：My aunt is clever at investments. 纠正：My aunt is wise about investments.（'clever'不适合描述专业知识，'wise about'更自然。）"
+        },
+        {
+          "scene": "公司会议上，团队讨论是否采用某项新技术。一位资深员工因长期关注行业动态，提出了中肯的建议。",
+          "chineseIdea": "在专业领域内因知识丰富而能提供有价值的见解。",
+          "sentenceWithBlank": "Having followed the industry for years, he’s incredibly @ @ @.",
+          "fullEnglishSentence": "Having followed the industry for years, he’s incredibly 「wise on technology trends」.",
+          "chineseTranslation": "多年来一直关注行业发展，他对「技术趋势非常有见地」。",
+          "chinglishFix": "典型中式英语：He is smart on technology. 纠正：He is wise on technology trends.（'smart'过于笼统，'wise on'更能体现专业洞察力。）"
+        }
+      ]
+    },
+    {
+      "meaning": "语气中带有戏谑或讽刺，意为‘装聪明’或‘自以为是’",
+      "usage": "常用于口语，带有轻微贬义或戏谑语气，描述某人故作聪明或过于自信的行为，常与'guy'、'kid'等搭配。",
+      "collocations": ["wise guy", "get wise", "play wise"],
+      "examples": [
+        {
+          "scene": "课堂上，一个学生总是打断老师，试图用不准确的知识来炫耀，老师用幽默的方式提醒他不要自以为是。",
+          "chineseIdea": "用戏谑的语气指出某人装作很聪明的行为。",
+          "sentenceWithBlank": "The teacher smiled and called him a @ @ for showing off.",
+          "fullEnglishSentence": "The teacher smiled and called him a 「wise guy」 for showing off.",
+          "chineseTranslation": "老师笑着叫他「自以为是的家伙」因为他在炫耀。",
+          "chinglishFix": "典型中式英语：He is a clever boy. 纠正：He’s acting like a wise guy.（'clever'无贬义，'wise guy'更能传达戏谑语气。）"
+        },
+        {
+          "scene": "朋友聚会时，有人总是用夸张的语气发表意见，试图显得比别人更懂，朋友们开玩笑让他别装聪明。",
+          "chineseIdea": "提醒某人不要过于自信或装作很懂。",
+          "sentenceWithBlank": "Don’t @ @ with us; we know you’re not an expert!",
+          "fullEnglishSentence": "Don’t 「get wise」 with us; we know you’re not an expert!",
+          "chineseTranslation": "别在我们面前「装聪明」，我们知道你不是专家！",
+          "chinglishFix": "典型中式英语：Don’t act clever with us. 纠正：Don’t get wise with us.（'act clever'不够口语化，'get wise'更符合俚语用法。）"
+        }
+      ]
+    }
+  ]
+}
+```

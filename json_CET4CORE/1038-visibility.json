@@ -1,0 +1,53 @@
+```json
+{
+  "word": "visibility",
+  "definitions": [
+    {
+      "meaning": "能见度；可见性（指物体在特定条件下被看到的清晰程度，常用于天气或环境）",
+      "usage": "常用于描述天气状况（如雾、雨、雪）或环境中物体被看到的清晰程度，特别是在航空、驾驶或户外活动中。",
+      "collocations": ["low visibility", "poor visibility", "good visibility"],
+      "examples": [
+        {
+          "scene": "在一个冬天的早晨，你计划开车去公司，但窗外大雾弥漫，路上的标志和车辆都看不清楚。你打开车灯，小心驾驶，同时收听天气预报。",
+          "chineseIdea": "描述天气导致的视线模糊，强调安全驾驶的需要。",
+          "sentenceWithBlank": "The fog this morning has caused @ @, so drivers should be cautious.",
+          "fullEnglishSentence": "The fog this morning has caused 「low visibility」, so drivers should be cautious.",
+          "chineseTranslation": "今天早上的大雾导致「能见度低」，所以司机应该小心驾驶。",
+          "chinglishFix": "典型中式英语：'The fog makes the visibility very bad.' 纠正：'The fog has caused low visibility.'（避免直接翻译'坏'，使用更自然的搭配'low visibility'）"
+        },
+        {
+          "scene": "你和朋友计划去山里徒步，但天气预报说下午会有暴风雨。你担心雨会影响视线，增加迷路的风险。",
+          "chineseIdea": "描述天气变化对户外活动的影响，强调视线受限的危险。",
+          "sentenceWithBlank": "The heavy rain might lead to @ @, making hiking dangerous.",
+          "fullEnglishSentence": "The heavy rain might lead to 「poor visibility」, making hiking dangerous.",
+          "chineseTranslation": "大雨可能会导致「能见度差」，使徒步变得危险。",
+          "chinglishFix": "典型中式英语：'The rain makes us can't see clearly.' 纠正：'The rain might lead to poor visibility.'（避免'can't see clearly'，用'poor visibility'更符合英语表达习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "可见性；曝光度（指某人、某事或某物被公众注意或认可的程度）",
+      "usage": "常用于描述个人、品牌、产品或事件在公众或特定群体中的知名度或关注度，常出现在营销、媒体或社交网络语境中。",
+      "collocations": ["increase visibility", "gain visibility", "high visibility"],
+      "examples": [
+        {
+          "scene": "你是一家初创公司的营销经理，计划通过社交媒体推广新产品。你决定与一位网红合作，以吸引更多关注。",
+          "chineseIdea": "描述通过合作提升产品在市场中的知名度。",
+          "sentenceWithBlank": "Collaborating with influencers can help @ @ for our brand.",
+          "fullEnglishSentence": "Collaborating with influencers can help 「increase visibility」 for our brand.",
+          "chineseTranslation": "与网红合作可以帮助为我们的品牌「增加曝光度」。",
+          "chinglishFix": "典型中式英语：'Work with influencers to make our brand more famous.' 纠正：'Collaborate with influencers to increase visibility.'（'more famous'不够具体，'increase visibility'更贴合营销语境）"
+        },
+        {
+          "scene": "你是一个自由职业者，刚刚完成了一个设计项目。你决定在社交平台上分享作品，以吸引更多潜在客户。",
+          "chineseIdea": "描述通过展示作品来提升个人职业知名度。",
+          "sentenceWithBlank": "Sharing your portfolio online is a great way to @ @ as a designer.",
+          "fullEnglishSentence": "Sharing your portfolio online is a great way to 「gain visibility」 as a designer.",
+          "chineseTranslation": "在线分享你的作品集是作为设计师「获得曝光度」的绝佳方式。",
+          "chinglishFix": "典型中式英语：'Put my works online to let more people know me.' 纠正：'Share your portfolio online to gain visibility.'（避免'let more people know me'，用'gain visibility'更专业）"
+        }
+      ]
+    }
+  ]
+}
+```
