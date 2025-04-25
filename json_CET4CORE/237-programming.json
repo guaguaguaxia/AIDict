@@ -1,0 +1,53 @@
+```json
+{
+  "word": "programming",
+  "definitions": [
+    {
+      "meaning": "编写计算机程序的过程，即设计、编写和测试代码以实现特定功能",
+      "usage": "指通过使用编程语言（如Python、Java等）创建软件、网站或应用程序的行为，常用于技术开发领域。",
+      "collocations": ["write code", "debug code", "develop software"],
+      "examples": [
+        {
+          "scene": "一名大学生在宿舍里为自己的创业项目开发一个手机应用程序。他需要编写代码来实现用户登录功能。",
+          "chineseIdea": "他希望通过编写代码让程序能够验证用户输入的用户名和密码是否正确。",
+          "sentenceWithBlank": "She spent hours @ @ to create a login system for the app.",
+          "fullEnglishSentence": "She spent hours 「writing code」 to create a login system for the app.",
+          "chineseTranslation": "她花了几个小时「编写代码」来为应用程序创建一个登录系统。",
+          "chinglishFix": "典型中式英语：'She write program for many hours.' 纠正：'She spent hours writing code.'（避免直接翻译'写程序'，使用更自然的'write code'。）"
+        },
+        {
+          "scene": "一家科技公司的开发团队在修复一个软件中的错误。程序员需要检查代码，找到问题并修复。",
+          "chineseIdea": "程序员通过检查代码行，找到导致程序崩溃的错误并进行修复。",
+          "sentenceWithBlank": "The team worked together to @ @ that caused the app to crash.",
+          "fullEnglishSentence": "The team worked together to 「debug code」 that caused the app to crash.",
+          "chineseTranslation": "团队一起努力「调试代码」，修复了导致应用程序崩溃的问题。",
+          "chinglishFix": "典型中式英语：'They repair the program.' 纠正：'They debugged the code.'（'repair'不常用于代码，'debug'更准确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "安排或计划活动、事件的时间表或顺序",
+      "usage": "指组织活动或事件的时间安排，如电视节目、会议日程等，常见于广播、电视或活动策划领域。",
+      "collocations": ["schedule events", "plan activities", "organize programs"],
+      "examples": [
+        {
+          "scene": "一个电视台的负责人正在为下周的节目安排时间表，确保新闻、综艺和电视剧的播出时间不冲突。",
+          "chineseIdea": "负责人需要合理安排每个节目的播出时间，以吸引更多观众。",
+          "sentenceWithBlank": "The manager spent the day @ @ for the upcoming week.",
+          "fullEnglishSentence": "The manager spent the day 「scheduling events」 for the upcoming week.",
+          "chineseTranslation": "经理花了一整天「安排活动」时间表，为下周做准备。",
+          "chinglishFix": "典型中式英语：'He arrange the time of programs.' 纠正：'He scheduled the events.'（'arrange the time'不够自然，'schedule events'更符合英语习惯。）"
+        },
+        {
+          "scene": "一个大型会议的组织者在规划每天的活动，包括演讲、研讨会和休息时间。",
+          "chineseIdea": "组织者希望通过合理规划活动顺序，让与会者有更好的体验。",
+          "sentenceWithBlank": "She carefully @ @ to ensure a smooth conference experience.",
+          "fullEnglishSentence": "She carefully 「planned activities」 to ensure a smooth conference experience.",
+          "chineseTranslation": "她仔细地「规划活动」，以确保会议体验顺畅。",
+          "chinglishFix": "典型中式英语：'She make a plan for activities.' 纠正：'She planned activities.'（'make a plan'显得冗余，'plan activities'更简洁自然。）"
+        }
+      ]
+    }
+  ]
+}
+```
