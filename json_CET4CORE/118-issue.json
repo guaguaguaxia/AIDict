@@ -1,0 +1,76 @@
+```json
+{
+  "word": "issue",
+  "definitions": [
+    {
+      "meaning": "问题或争议",
+      "usage": "指需要解决或讨论的问题、争议或困难，通常用于正式或严肃的语境，如社会、政治、环境或个人问题。",
+      "collocations": ["address an issue", "resolve an issue", "raise an issue"],
+      "examples": [
+        {
+          "scene": "在公司会议中，员工们正在讨论如何提高工作效率。有人提到团队协作中存在沟通不畅的问题。",
+          "chineseIdea": "想要表达团队需要处理一个关于沟通的具体问题，以改善工作效率。",
+          "sentenceWithBlank": "We need to @ @ @ to improve team collaboration.",
+          "fullEnglishSentence": "We need to 「address an issue」 to improve team collaboration.",
+          "chineseTranslation": "我们需要「处理一个问题」以改善团队协作。",
+          "chinglishFix": "典型中式英语：'We must solve a question about communication.' 纠正：'Question' 应改为 'issue'，因为 'question' 通常指疑问，而 'issue' 指问题或争议。正确表达：'We need to address an issue about communication.'"
+        },
+        {
+          "scene": "在社区会议上，居民们讨论垃圾分类的问题，有人提出需要更多垃圾桶来解决这个问题。",
+          "chineseIdea": "想要表达社区需要解决垃圾分类带来的具体困难。",
+          "sentenceWithBlank": "The community must @ @ @ to ensure proper waste management.",
+          "fullEnglishSentence": "The community must 「resolve an issue」 to ensure proper waste management.",
+          "chineseTranslation": "社区必须「解决一个问题」以确保适当的垃圾管理。",
+          "chinglishFix": "典型中式英语：'The community needs to finish a problem.' 纠正：'Finish' 不适合用在问题解决的语境，'problem' 也不够正式。正确表达：'The community must resolve an issue.'"
+        }
+      ]
+    },
+    {
+      "meaning": "发行或发布",
+      "usage": "指正式发布或发行某物，如书籍、杂志、股票或官方文件，通常用于商业、出版或金融领域。",
+      "collocations": ["issue a statement", "issue a magazine", "issue shares"],
+      "examples": [
+        {
+          "scene": "一家公司因产品质量问题引发公众关注，公关团队决定发布一份官方声明以澄清事实。",
+          "chineseIdea": "想要表达公司需要正式发布一份声明来回应公众的担忧。",
+          "sentenceWithBlank": "The company decided to @ @ @ to clarify the situation.",
+          "fullEnglishSentence": "The company decided to 「issue a statement」 to clarify the situation.",
+          "chineseTranslation": "公司决定「发布一份声明」以澄清情况。",
+          "chinglishFix": "典型中式英语：'The company will send a speech.' 纠正：'Send a speech' 不准确，'speech' 指演讲，而非正式声明。正确表达：'The company will issue a statement.'"
+        },
+        {
+          "scene": "一家时尚杂志社每个月都会推出新的刊物，吸引大量读者购买。",
+          "chineseIdea": "想要表达杂志社定期出版新刊物以吸引读者。",
+          "sentenceWithBlank": "The publisher plans to @ @ @ every month.",
+          "fullEnglishSentence": "The publisher plans to 「issue a magazine」 every month.",
+          "chineseTranslation": "出版商计划每月「发行一本杂志」。",
+          "chinglishFix": "典型中式英语：'The publisher will produce a magazine.' 纠正：'Produce' 更偏向于制造，而非正式出版。正确表达：'The publisher will issue a magazine.'"
+        }
+      ]
+    },
+    {
+      "meaning": "分发或提供",
+      "usage": "指将某物（如物品、文件或票据）正式分发或提供给某人，通常用于行政或服务场景。",
+      "collocations": ["issue a ticket", "issue a passport", "issue supplies"],
+      "examples": [
+        {
+          "scene": "在火车站，售票员正在为旅客提供车票，以确保他们能顺利乘车。",
+          "chineseIdea": "想要表达售票员正在为旅客分发车票以便他们出行。",
+          "sentenceWithBlank": "The staff will @ @ @ to all passengers.",
+          "fullEnglishSentence": "The staff will 「issue a ticket」 to all passengers.",
+          "chineseTranslation": "工作人员将为所有乘客「发放车票」。",
+          "chinglishFix": "典型中式英语：'The staff will give a ticket.' 纠正：'Give' 过于通用，缺乏正式分发的含义。正确表达：'The staff will issue a ticket.'"
+        },
+        {
+          "scene": "在学校，行政办公室正在为新生分发学生证，以便他们在校园内使用。",
+          "chineseIdea": "想要表达学校为学生提供证件以便他们在校园内活动。",
+          "sentenceWithBlank": "The office will @ @ @ to new students.",
+          "fullEnglishSentence": "The office will 「issue a passport」 to new students.",
+          "chineseTranslation": "办公室将为新生「发放证件」。",
+          "chinglishFix": "典型中式英语：'The office will send a card to students.' 纠正：'Send a card' 不准确，'card' 也不够具体，且 'send' 缺少正式分发的含义。正确表达：'The office will issue a passport.'"
+        }
+      ]
+    }
+  ]
+}
+```

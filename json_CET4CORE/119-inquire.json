@@ -1,0 +1,53 @@
+```json
+{
+  "word": "inquire",
+  "definitions": [
+    {
+      "meaning": "询问，调查（正式或礼貌地寻求信息）",
+      "usage": "通常用于正式或礼貌的场合，表示主动寻求信息或确认某事。常见于书面语、客户服务、商务交流或正式对话中。",
+      "collocations": ["inquire about", "inquire into", "inquire after"],
+      "examples": [
+        {
+          "scene": "你在一家高档酒店前台，看到一位客人走过来向工作人员咨询某个服务的具体情况。",
+          "chineseIdea": "客人想要了解关于酒店某个特色服务（如水疗或餐厅预订）的详细信息，语气礼貌且正式。",
+          "sentenceWithBlank": "The guest approached the reception to @ @ the availability of the spa services.",
+          "fullEnglishSentence": "The guest approached the reception to 「inquire about」 the availability of the spa services.",
+          "chineseTranslation": "这位客人走向前台「询问」水疗服务的可用性。",
+          "chinglishFix": "典型中式英语：'Ask about the spa is available?' 纠正：'Could you please inquire about the availability of the spa services?'（语气更礼貌，结构更自然）"
+        },
+        {
+          "scene": "你在一个学术会议上，听到一位学者向另一位学者询问某个研究项目的进展。",
+          "chineseIdea": "学者希望了解对方研究的具体细节，比如某个实验的结果或研究的深度，语气正式且专业。",
+          "sentenceWithBlank": "The researcher decided to @ @ the details of the ongoing study.",
+          "fullEnglishSentence": "The researcher decided to 「inquire into」 the details of the ongoing study.",
+          "chineseTranslation": "这位研究人员决定「调查」正在进行的研究细节。",
+          "chinglishFix": "典型中式英语：'Ask the study details.' 纠正：'I’d like to inquire into the details of your study.'（使用inquire更正式，结构更完整）"
+        }
+      ]
+    },
+    {
+      "meaning": "询问某人的近况（表达关心）",
+      "usage": "用于礼貌地询问某人的健康或近况，通常出现在书信、电子邮件或正式对话中，带有关怀的语气。",
+      "collocations": ["inquire after", "inquire about"],
+      "examples": [
+        {
+          "scene": "你在写一封电子邮件给一位许久未联系的老朋友，信中表达对她近况的关心。",
+          "chineseIdea": "你想礼貌地问候朋友的近况，比如她最近过得怎么样，工作或生活是否有新变化。",
+          "sentenceWithBlank": "In the email, I took a moment to @ @ her well-being.",
+          "fullEnglishSentence": "In the email, I took a moment to 「inquire after」 her well-being.",
+          "chineseTranslation": "在邮件中，我停下来一刻以「询问」她的近况。",
+          "chinglishFix": "典型中式英语：'Ask how is she.' 纠正：'I wanted to inquire after your well-being.'（语气更温暖，表达更正式）"
+        },
+        {
+          "scene": "你参加一个家庭聚会，听到一位亲戚向另一位亲戚询问一位共同朋友的健康状况。",
+          "chineseIdea": "亲戚想知道朋友最近的身体状况，比如是否从之前的疾病中恢复，语气充满关心。",
+          "sentenceWithBlank": "During the gathering, she quietly @ @ her friend’s health.",
+          "fullEnglishSentence": "During the gathering, she quietly 「inquired about」 her friend’s health.",
+          "chineseTranslation": "在聚会中，她悄悄地「询问」她朋友的健康状况。",
+          "chinglishFix": "典型中式英语：'Ask her health.' 纠正：'She inquired about her friend’s health.'（使用inquire更得体，句式更完整）"
+        }
+      ]
+    }
+  ]
+}
+```
