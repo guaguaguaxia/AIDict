@@ -1,0 +1,53 @@
+```json
+{
+  "word": "construction",
+  "definitions": [
+    {
+      "meaning": "建造或构建某物的行为或过程",
+      "usage": "指建造建筑物、道路、桥梁等物理结构的行为，通常用于描述工程或建筑行业中的活动。",
+      "collocations": ["under construction", "construction site", "construction project", "construction worker"],
+      "examples": [
+        {
+          "scene": "在一个快速发展的城市中，新的高层建筑正在兴建，工地上塔吊林立，工人们忙碌地搬运材料。",
+          "chineseIdea": "描述某个地方正在进行建筑活动，强调施工的动态过程。",
+          "sentenceWithBlank": "The new skyscraper is @ @, and it’s expected to be completed next year.",
+          "fullEnglishSentence": "The new skyscraper is 「under construction」, and it’s expected to be completed next year.",
+          "chineseTranslation": "这座新的摩天大楼正在「建设中」，预计明年完工。",
+          "chinglishFix": "典型中式英语：'The building is building.' 纠正：'The building is under construction.'"
+        },
+        {
+          "scene": "在一个郊区，记者正在采访建筑工人，讨论他们工作的危险性和重要性，背景是正在施工的住宅区。",
+          "chineseIdea": "强调建筑工地的具体环境和工人的角色。",
+          "sentenceWithBlank": "The 「construction site」 is busy with @ @ transporting materials.",
+          "fullEnglishSentence": "The 「construction site」 is busy with 「construction workers」 transporting materials.",
+          "chineseTranslation": "「建筑工地」上「建筑工人」们正忙着运输材料。",
+          "chinglishFix": "典型中式英语：'The place of building is full of workers.' 纠正：'The construction site is full of construction workers.'"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物的解释或构建方式",
+      "usage": "指对文本、理论或概念的解释或构建方式，常用于学术、法律或语言分析的语境。",
+      "collocations": ["social construction", "grammatical construction", "theoretical construction"],
+      "examples": [
+        {
+          "scene": "在一堂社会学课上，教授正在讲解性别是如何被社会文化定义和构建的，而不是天生固有的。",
+          "chineseIdea": "讨论抽象概念如何被社会或文化塑造。",
+          "sentenceWithBlank": "The professor explained that gender is a @ @ shaped by culture.",
+          "fullEnglishSentence": "The professor explained that gender is a 「social construction」 shaped by culture.",
+          "chineseTranslation": "教授解释说，性别是一种由文化塑造的「社会构建」。",
+          "chinglishFix": "典型中式英语：'Gender is made by society.' 纠正：'Gender is a social construction.'"
+        },
+        {
+          "scene": "在一场语言学研讨会上，学者们正在分析英语句子的结构，讨论复杂句型的构成方式。",
+          "chineseIdea": "描述语言结构如何被分析和理解。",
+          "sentenceWithBlank": "The linguist analyzed the @ @ of the sentence to explain its meaning.",
+          "fullEnglishSentence": "The linguist analyzed the 「grammatical construction」 of the sentence to explain its meaning.",
+          "chineseTranslation": "语言学家分析了句子的「语法结构」来解释其含义。",
+          "chinglishFix": "典型中式英语：'The sentence’s grammar build was analyzed.' 纠正：'The grammatical construction of the sentence was analyzed.'"
+        }
+      ]
+    }
+  ]
+}
+```

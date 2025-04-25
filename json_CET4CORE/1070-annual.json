@@ -1,0 +1,53 @@
+```json
+{
+  "word": "annual",
+  "definitions": [
+    {
+      "meaning": "每年发生或进行一次的",
+      "usage": "形容某事定期在每年发生，通常与固定的活动、事件或周期性的事物相关。",
+      "collocations": ["annual meeting", "annual report", "annual event"],
+      "examples": [
+        {
+          "scene": "一家公司在年底召开全体员工大会，讨论过去一年的业绩和未来的计划。",
+          "chineseIdea": "公司每年都会组织一次全体员工的会议，总结工作并规划未来。",
+          "sentenceWithBlank": "The company holds an @ @ every December to review the year's performance.",
+          "fullEnglishSentence": "The company holds an 「annual meeting」 every December to review the year's performance.",
+          "chineseTranslation": "公司每年十二月举行一次「年度会议」以回顾全年的业绩。",
+          "chinglishFix": "中式英语：The company every year open a meeting. 纠正：The company holds an annual meeting every year."
+        },
+        {
+          "scene": "一家上市公司需要向股东提交一份详细的财务和运营总结。",
+          "chineseIdea": "公司需要每年发布一份报告，说明财务状况和业务进展。",
+          "sentenceWithBlank": "The corporation published its @ @ to shareholders last week.",
+          "fullEnglishSentence": "The corporation published its 「annual report」 to shareholders last week.",
+          "chineseTranslation": "该公司上周向股东发布了其「年度报告」。",
+          "chinglishFix": "中式英语：The company give report every year. 纠正：The company publishes its annual report every year."
+        }
+      ]
+    },
+    {
+      "meaning": "持续或计算为一年期的",
+      "usage": "描述某事物以年为单位计算或持续的时间，常用于财务、统计或生物学语境。",
+      "collocations": ["annual income", "annual growth", "annual rainfall"],
+      "examples": [
+        {
+          "scene": "一个人在填写税务申报表时，需要报告自己去年的总收入。",
+          "chineseIdea": "需要计算并报告过去一年内的所有收入。",
+          "sentenceWithBlank": "She reported her @ @ on the tax form.",
+          "fullEnglishSentence": "She reported her 「annual income」 on the tax form.",
+          "chineseTranslation": "她在税务表上报告了她的「年收入」。",
+          "chinglishFix": "中式英语：She wrote her every year money. 纠正：She reported her annual income."
+        },
+        {
+          "scene": "一个城市的气象部门发布了一份关于降雨量的年度统计数据。",
+          "chineseIdea": "气象部门记录并公布了该地区一年的总降雨量。",
+          "sentenceWithBlank": "The city recorded an @ @ of 1200 millimeters last year.",
+          "fullEnglishSentence": "The city recorded an 「annual rainfall」 of 1200 millimeters last year.",
+          "chineseTranslation": "该市去年记录了「年降雨量」为1200毫米。",
+          "chinglishFix": "中式英语：The city has 1200 mm rain every year. 纠正：The city recorded an annual rainfall of 1200 millimeters."
+        }
+      ]
+    }
+  ]
+}
+```

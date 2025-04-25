@@ -1,0 +1,53 @@
+```json
+{
+  "word": "acquire",
+  "definitions": [
+    {
+      "meaning": "获得或购买某物，通常指通过努力或交易获得有形或无形的东西",
+      "usage": "常用于描述通过购买、学习、努力或交易获得物品、技能、知识或资产等的情境，强调获得的过程或结果。",
+      "collocations": ["acquire knowledge", "acquire a company", "acquire skills"],
+      "examples": [
+        {
+          "scene": "一个大学生在图书馆刻苦学习，试图掌握新的学术知识，为未来的职业生涯做准备。",
+          "chineseIdea": "通过长时间的学习和研究，学生希望能够掌握与专业相关的知识。",
+          "sentenceWithBlank": "She spent hours in the library to @ @.",
+          "fullEnglishSentence": "She spent hours in the library to 「acquire knowledge」.",
+          "chineseTranslation": "她在图书馆花了几个小时来「获得知识」。",
+          "chinglishFix": "典型中式英语：She study hard to get knowledge. 纠正：She studied hard to acquire knowledge.（‘get’在表达获得知识时显得过于笼统，‘acquire’更正式且贴合学术场景。）"
+        },
+        {
+          "scene": "一家科技公司计划通过并购来扩大市场份额，购买了一家小型初创公司。",
+          "chineseIdea": "公司通过支付资金，正式接管另一家公司，以增强自己的业务能力。",
+          "sentenceWithBlank": "The corporation decided to @ @ @ to expand its market presence.",
+          "fullEnglishSentence": "The corporation decided to 「acquire a company」 to expand its market presence.",
+          "chineseTranslation": "这家公司决定「收购一家公司」来扩大市场影响力。",
+          "chinglishFix": "典型中式英语：The company buy a company to grow bigger. 纠正：The company acquired a company to expand its market presence.（‘buy’在商业并购中不够正式，‘acquire’更常用于描述公司并购。）"
+        }
+      ]
+    },
+    {
+      "meaning": "逐渐形成或发展某种特质、习惯或能力",
+      "usage": "指通过时间积累或经验逐渐形成某种特质、习惯或能力，通常与抽象概念如品味、口音或兴趣相关。",
+      "collocations": ["acquire a taste", "acquire an accent", "acquire a habit"],
+      "examples": [
+        {
+          "scene": "一个中国移民在英国生活了几年后，开始喜欢上了当地的下午茶文化。",
+          "chineseIdea": "通过长期接触英国文化，移民逐渐对喝茶和吃点心的习惯产生了兴趣。",
+          "sentenceWithBlank": "After years in London, she began to @ @ @ for afternoon tea.",
+          "fullEnglishSentence": "After years in London, she began to 「acquire a taste」 for afternoon tea.",
+          "chineseTranslation": "在伦敦生活多年后，她开始「培养了对下午茶的兴趣」。",
+          "chinglishFix": "典型中式英语：She learned to like afternoon tea. 纠正：She acquired a taste for afternoon tea.（‘learned to like’显得生硬，‘acquire a taste’是更自然的英语表达。）"
+        },
+        {
+          "scene": "一个学生在美国留学期间，逐渐带上了当地的口音，朋友们都注意到了变化。",
+          "chineseIdea": "通过与美国人的日常交流，学生的英语发音开始带有美国口音的特征。",
+          "sentenceWithBlank": "Living in the U.S. for two years, he started to @ @ @.",
+          "fullEnglishSentence": "Living in the U.S. for two years, he started to 「acquire an accent」.",
+          "chineseTranslation": "在美国生活两年后，他开始「形成了美国口音」。",
+          "chinglishFix": "典型中式英语：His English have American accent now. 纠正：He has acquired an American accent.（‘have accent’语法不正确，‘acquire an accent’更准确地表达逐渐形成的过程。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "aggressive",
+  "definitions": [
+    {
+      "meaning": "好斗的，攻击性的",
+      "usage": "描述人或动物表现出强烈进攻性、挑衅或敌对的行为，通常带有威胁或压迫感。",
+      "collocations": ["aggressive behavior", "aggressive stance", "aggressive tone"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，销售经理正在与团队讨论市场竞争策略，气氛紧张。",
+          "chineseIdea": "销售经理表现得很强势，语气尖锐，试图压倒其他人的意见。",
+          "sentenceWithBlank": "The sales manager’s @ @ in the meeting intimidated the team.",
+          "fullEnglishSentence": "The sales manager’s 「aggressive behavior」 in the meeting intimidated the team.",
+          "chineseTranslation": "销售经理在会议中的「好斗行为」让团队感到畏惧。",
+          "chinglishFix": "典型中式英语：'His behavior is very strong.' 纠正：'His behavior is very aggressive.'（'strong' 无法准确传达攻击性，用 'aggressive' 更贴切）"
+        },
+        {
+          "scene": "在足球比赛中，一名球员试图通过身体对抗抢球，动作显得过于激烈。",
+          "chineseIdea": "球员在场上采取了非常挑衅的姿势，试图威慑对手。",
+          "sentenceWithBlank": "The player’s @ @ on the field led to a warning from the referee.",
+          "fullEnglishSentence": "The player’s 「aggressive stance」 on the field led to a warning from the referee.",
+          "chineseTranslation": "球员在场上的「攻击性姿态」导致裁判的警告。",
+          "chinglishFix": "典型中式英语：'He stands very fierce.' 纠正：'He has an aggressive stance.'（'fierce' 更适合形容野性，用 'aggressive stance' 更符合语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "进取的，積極的",
+      "usage": "描述某人在做事时充满活力、主动且有强烈追求目标的倾向，常用于商业、运动或个人发展等积极场景。",
+      "collocations": ["aggressive approach", "aggressive strategy", "aggressive marketing"],
+      "examples": [
+        {
+          "scene": "一家初创公司在市场中试图迅速扩大份额，采取了非常大胆的策略。",
+          "chineseIdea": "公司采取了非常积极的策略，试图在短时间内抢占市场。",
+          "sentenceWithBlank": "The startup adopted an @ @ to dominate the market quickly.",
+          "fullEnglishSentence": "The startup adopted an 「aggressive approach」 to dominate the market quickly.",
+          "chineseTranslation": "这家初创公司采取了「积极的策略」以迅速主导市场。",
+          "chinglishFix": "典型中式英语：'The company is very active in the market.' 纠正：'The company takes an aggressive approach in the market.'（'active' 缺乏进取的含义，用 'aggressive approach' 更精确）"
+        },
+        {
+          "scene": "在一场商业谈判中，一方提出了非常大胆的条件，试图占据主动。",
+          "chineseIdea": "谈判者使用了非常强势的策略，试图控制谈判进程。",
+          "sentenceWithBlank": "Their @ @ in the negotiation caught the other party off guard.",
+          "fullEnglishSentence": "Their 「aggressive strategy」 in the negotiation caught the other party off guard.",
+          "chineseTranslation": "他们在谈判中的「激进策略」让对方措手不及。",
+          "chinglishFix": "典型中式英语：'They negotiate very hard.' 纠正：'They used an aggressive strategy in the negotiation.'（'hard' 无法表达策略的进取性，用 'aggressive strategy' 更自然）"
+        }
+      ]
+    }
+  ]
+}
+```
