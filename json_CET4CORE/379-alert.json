@@ -1,0 +1,53 @@
+```json
+{
+  "word": "alert",
+  "definitions": [
+    {
+      "meaning": "保持警惕或清醒的状态，迅速察觉潜在危险或问题",
+      "usage": "作为形容词，表示某人或某物处于高度注意、反应迅速的状态，常用于描述对周围环境的敏感或对突发情况的准备。作为动词，表示提醒或警告某人注意某事。",
+      "collocations": ["stay alert", "alert someone to", "on high alert"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的火车站，旅客们需要时刻注意自己的行李和周围的环境，以防小偷或突发事件。",
+          "chineseIdea": "描述一个人在人群中保持高度警惕，随时准备应对可能的危险或意外。",
+          "sentenceWithBlank": "Passengers must @ @ to avoid pickpockets in the crowded station.",
+          "fullEnglishSentence": "Passengers must 「stay alert」 to avoid pickpockets in the crowded station.",
+          "chineseTranslation": "乘客必须「保持警惕」以防在拥挤的车站被扒手偷窃。",
+          "chinglishFix": "典型中式英语：'Passengers must keep awake to avoid thieves.' 纠正：'Awake' 意为醒着，缺乏警惕的含义。应使用 'stay alert' 表示保持警觉。"
+        },
+        {
+          "scene": "在一场重要的会议中，经理提醒团队注意即将到来的项目截止日期，以确保大家及时完成任务。",
+          "chineseIdea": "描述一个人通过警告或提醒他人来引起他们对某事的关注。",
+          "sentenceWithBlank": "The manager @ @ @ the approaching deadline during the meeting.",
+          "fullEnglishSentence": "The manager 「alerted the team to」 the approaching deadline during the meeting.",
+          "chineseTranslation": "经理在会议中「提醒团队注意」即将到来的截止日期。",
+          "chinglishFix": "典型中式英语：'The manager told the team the deadline is coming.' 纠正：'Told' 过于泛泛，缺乏提醒的紧迫感。应使用 'alerted ... to' 表示特意提醒某事。"
+        }
+      ]
+    },
+    {
+      "meaning": "紧急通知或警告信号",
+      "usage": "作为名词，指一种正式的警告或通知，通常与紧急情况或需要立即采取行动的事件相关。",
+      "collocations": ["issue an alert", "receive an alert", "weather alert"],
+      "examples": [
+        {
+          "scene": "在一个沿海城市，当气象局预测到强台风即将来袭时，会向居民发布紧急通知。",
+          "chineseIdea": "描述政府或机构发布正式警告以通知公众潜在的危险。",
+          "sentenceWithBlank": "The authorities @ @ @ due to the incoming typhoon.",
+          "fullEnglishSentence": "The authorities 「issued an alert」 due to the incoming typhoon.",
+          "chineseTranslation": "当局因即将到来的台风「发布了警告」。",
+          "chinglishFix": "典型中式英语：'The authorities announced a warning.' 纠正：'Announced' 过于普通，'issue an alert' 是更正式的表达，特指发布紧急通知。"
+        },
+        {
+          "scene": "在一个智能家居系统中，当检测到烟雾时，设备会向用户的手机发送通知。",
+          "chineseIdea": "描述设备或系统发送紧急信号以提醒用户注意问题。",
+          "sentenceWithBlank": "The smoke detector @ @ @ when it sensed danger.",
+          "fullEnglishSentence": "The smoke detector 「sent an alert」 when it sensed danger.",
+          "chineseTranslation": "烟雾探测器在感知到危险时「发送了警报」。",
+          "chinglishFix": "典型中式英语：'The smoke detector gave a message.' 纠正：'Gave a message' 过于笼统，'sent an alert' 更准确地表达紧急通知的含义。"
+        }
+      ]
+    }
+  ]
+}
+```

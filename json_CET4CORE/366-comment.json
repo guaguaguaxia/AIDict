@@ -1,0 +1,53 @@
+```json
+{
+  "word": "comment",
+  "definitions": [
+    {
+      "meaning": "发表意见或看法",
+      "usage": "用作动词，表示对某事发表看法、评论或意见，通常用于讨论、反馈或表达观点的场景；也可用作名词，表示具体的意见或评论。",
+      "collocations": ["make a comment", "leave a comment", "comment on", "no comment"],
+      "examples": [
+        {
+          "scene": "在一个社交媒体平台上，用户看到一篇关于环保的帖子，觉得内容很有意义，想表达自己的支持。",
+          "chineseIdea": "我想说这篇文章写得很好，呼吁大家保护环境很重要。",
+          "sentenceWithBlank": "I want to @ @ @ on this post to show my support for environmental protection.",
+          "fullEnglishSentence": "I want to 「make a comment」 on this post to show my support for environmental protection.",
+          "chineseTranslation": "我想在这篇帖子上「发表评论」以表达我对环保的支持。",
+          "chinglishFix": "典型中式英语：I want to say something on this post. 纠正：Use 'make a comment' or 'leave a comment' to express opinions on social media posts."
+        },
+        {
+          "scene": "在一场公开讲座后，观众被邀请对演讲内容提出意见，某人想分享自己的看法。",
+          "chineseIdea": "我想对演讲者的观点提出一些补充的想法。",
+          "sentenceWithBlank": "I’d like to @ @ about the speaker’s perspective on renewable energy.",
+          "fullEnglishSentence": "I’d like to 「comment on」 the speaker’s perspective on renewable energy.",
+          "chineseTranslation": "我想「评论」演讲者关于可再生能源的观点。",
+          "chinglishFix": "典型中式英语：I want to talk about the speaker’s opinion. 纠正：Use 'comment on' when discussing or adding to someone’s viewpoint."
+        }
+      ]
+    },
+    {
+      "meaning": "代码中的注释",
+      "usage": "用作名词或动词，在编程领域指为代码添加解释性文字，帮助开发者理解代码的功能或逻辑。",
+      "collocations": ["add a comment", "write a comment", "comment out"],
+      "examples": [
+        {
+          "scene": "一个程序员在团队项目中编写代码，为了让同事理解某段代码的功能，添加了说明。",
+          "chineseIdea": "我想在这段代码里加一些说明，解释它的作用。",
+          "sentenceWithBlank": "I need to @ @ @ to clarify the purpose of this function.",
+          "fullEnglishSentence": "I need to 「add a comment」 to clarify the purpose of this function.",
+          "chineseTranslation": "我需要「添加注释」来阐明这个函数的目的。",
+          "chinglishFix": "典型中式英语：I want to write some explanation in the code. 纠正：Use 'add a comment' or 'write a comment' for code annotations."
+        },
+        {
+          "scene": "程序员在调试代码时，临时禁用一段代码，但不想删除它，以备后续使用。",
+          "chineseIdea": "我想暂时屏蔽这段代码，防止它运行。",
+          "sentenceWithBlank": "Let’s @ @ this section of the code to test the program without it.",
+          "fullEnglishSentence": "Let’s 「comment out」 this section of the code to test the program without it.",
+          "chineseTranslation": "让我们「注释掉」这段代码，以在不运行它的情况下测试程序。",
+          "chinglishFix": "典型中式英语：I want to cancel this code temporarily. 纠正：Use 'comment out' to disable code without deleting it."
+        }
+      ]
+    }
+  ]
+}
+```

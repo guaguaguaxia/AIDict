@@ -1,0 +1,53 @@
+```json
+{
+  "word": "characterize",
+  "definitions": [
+    {
+      "meaning": "描述或刻画某事物的特征或性质",
+      "usage": "用于表达对某人、某物或某情况的典型特质或属性的描述，通常带有概括性，常用于正式或分析性语境。",
+      "collocations": ["characterize as", "characterize by", "characterize in terms of"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，一位社会学家正在分析城市化对社区关系的影响，试图总结城市生活的典型特征。",
+          "chineseIdea": "这位社会学家想表达城市生活常被描述为快节奏和疏离的特性。",
+          "sentenceWithBlank": "Urban life is often @ @ fast-paced and impersonal.",
+          "fullEnglishSentence": "Urban life is often 「characterized as」 fast-paced and impersonal.",
+          "chineseTranslation": "城市生活常被「描述为」快节奏和缺乏人情味。",
+          "chinglishFix": "典型中式英语：'Urban life is described to be fast-paced.' 纠正：'Urban life is characterized as fast-paced.'（'describe'过于笼统，'characterize'更强调典型特征的概括。）"
+        },
+        {
+          "scene": "在一篇新闻报道中，记者描述某位政治领导人的公众形象，试图说明他被如何评价。",
+          "chineseIdea": "记者想表达这位领导人在公众眼中常被视为激进和果断。",
+          "sentenceWithBlank": "The politician is frequently @ @ radical and decisive.",
+          "fullEnglishSentence": "The politician is frequently 「characterized as」 radical and decisive.",
+          "chineseTranslation": "这位政治家常被「描述为」激进和果断。",
+          "chinglishFix": "典型中式英语：'The politician is seen as radical.' 纠正：'The politician is characterized as radical.'（'seen as'较口语化，'characterize as'更正式且强调定义性描述。）"
+        }
+      ]
+    },
+    {
+      "meaning": "以某种方式表现或展现特质",
+      "usage": "用于描述某人或某物通过行为、风格或其他方式展现出的特质，通常带有动态或过程感，常见于文学、艺术或行为分析。",
+      "collocations": ["characterize by", "characterize through", "characterize with"],
+      "examples": [
+        {
+          "scene": "在文学课堂上，老师分析一部小说的主角，讨论她的行为如何体现她的个性。",
+          "chineseIdea": "老师想表达主角的行为以坚韧和同理心为特征。",
+          "sentenceWithBlank": "The protagonist’s actions are @ @ resilience and empathy.",
+          "fullEnglishSentence": "The protagonist’s actions are 「characterized by」 resilience and empathy.",
+          "chineseTranslation": "主角的行为「以」坚韧和同理心「为特征」。",
+          "chinglishFix": "典型中式英语：'The protagonist’s actions show resilience.' 纠正：'The protagonist’s actions are characterized by resilience.'（'show'较为直接，'characterize by'更强调特质的体现。）"
+        },
+        {
+          "scene": "在一家公司的年会上，经理回顾过去一年的团队表现，赞扬团队的工作方式。",
+          "chineseIdea": "经理想表达团队工作以创新和协作为特征。",
+          "sentenceWithBlank": "Our team’s performance this year was @ @ innovation and collaboration.",
+          "fullEnglishSentence": "Our team’s performance this year was 「characterized by」 innovation and collaboration.",
+          "chineseTranslation": "我们团队今年的表现「以」创新和协作「为特征」。",
+          "chinglishFix": "典型中式英语：'Our team’s performance is full of innovation.' 纠正：'Our team’s performance is characterized by innovation.'（'full of'不准确，'characterize by'更能体现特质的概括。）"
+        }
+      ]
+    }
+  ]
+}
+```

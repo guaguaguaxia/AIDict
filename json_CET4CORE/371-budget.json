@@ -1,0 +1,76 @@
+```json
+{
+  "word": "budget",
+  "definitions": [
+    {
+      "meaning": "A plan for managing income and expenses over a period of time",
+      "usage": "Refers to a financial plan, often used in personal, business, or government contexts to allocate resources",
+      "collocations": ["stick to a budget", "set a budget", "exceed a budget"],
+      "examples": [
+        {
+          "scene": "一个大学生在开学前规划新学期的开支，列出学费、住宿费和日常花销。",
+          "chineseIdea": "为了避免超支，他决定制定一个详细的财务计划，确保每项开支都在控制范围内。",
+          "sentenceWithBlank": "To avoid overspending, he decided to @ @ @ for the semester.",
+          "fullEnglishSentence": "To avoid overspending, he decided to 「stick to a budget」 for the semester.",
+          "chineseTranslation": "为了避免超支，他决定「坚持预算」规划整个学期。",
+          "chinglishFix": "Chinglish: 'Follow a budget' -> Correct: 'Stick to a budget'. 'Follow' implies general guidance, while 'stick to' emphasizes adherence."
+        },
+        {
+          "scene": "一家初创公司在筹备新产品发布会，需要确定市场推广和活动的费用。",
+          "chineseIdea": "公司希望通过制定明确的财务计划，确保活动顺利进行且不超支。",
+          "sentenceWithBlank": "The startup needed to @ @ @ for the product launch to ensure all costs were covered.",
+          "fullEnglishSentence": "The startup needed to 「set a budget」 for the product launch to ensure all costs were covered.",
+          "chineseTranslation": "这家初创公司需要为产品发布会「设定预算」，以确保所有费用都在控制范围内。",
+          "chinglishFix": "Chinglish: 'Make a budget' -> Correct: 'Set a budget'. 'Set' is more precise for establishing a financial plan."
+        }
+      ]
+    },
+    {
+      "meaning": "The amount of money available or allocated for a particular purpose",
+      "usage": "Refers to the total sum of money designated for a specific project, event, or purpose",
+      "collocations": ["within a budget", "on a tight budget", "allocate a budget"],
+      "examples": [
+        {
+          "scene": "一对年轻夫妇计划去欧洲旅行，但他们的存款有限，必须精打细算。",
+          "chineseIdea": "他们希望旅行费用控制在可承受范围内，尽量选择性价比高的选项。",
+          "sentenceWithBlank": "They planned their Europe trip carefully to stay @ @ @.",
+          "fullEnglishSentence": "They planned their Europe trip carefully to stay 「within a budget」.",
+          "chineseTranslation": "他们仔细规划欧洲旅行，以确保费用「在预算之内」。",
+          "chinglishFix": "Chinglish: 'In the budget' -> Correct: 'Within a budget'. 'Within' emphasizes staying inside limits, not just being part of a plan."
+        },
+        {
+          "scene": "一个非营利组织需要为年度慈善活动筹集资金，并决定如何使用这些资金。",
+          "chineseIdea": "组织需要合理分配资金，确保活动顺利进行且覆盖所有必要开支。",
+          "sentenceWithBlank": "The organization had to @ @ @ for the charity event to cover all expenses.",
+          "fullEnglishSentence": "The organization had to 「allocate a budget」 for the charity event to cover all expenses.",
+          "chineseTranslation": "该组织需要为慈善活动「分配预算」，以覆盖所有费用。",
+          "chinglishFix": "Chinglish: 'Give a budget' -> Correct: 'Allocate a budget'. 'Allocate' is formal and precise for assigning resources."
+        }
+      ]
+    },
+    {
+      "meaning": "Inexpensive or low-cost (adjective)",
+      "usage": "Describes something that is affordable or designed for people with limited financial resources",
+      "collocations": ["budget airline", "budget hotel", "budget option"],
+      "examples": [
+        {
+          "scene": "一个背包客计划去东南亚旅行，希望找到便宜的交通方式以节省开支。",
+          "chineseIdea": "他想选择价格低廉的航空公司，以减少旅行成本。",
+          "sentenceWithBlank": "He chose a @ @ to save money on his Southeast Asia trip.",
+          "fullEnglishSentence": "He chose a 「budget airline」 to save money on his Southeast Asia trip.",
+          "chineseTranslation": "他选择了一家「廉价航空公司」，以节省东南亚旅行的费用。",
+          "chinglishFix": "Chinglish: 'Cheap airline' -> Correct: 'Budget airline'. 'Budget' is more neutral and commonly used in this context."
+        },
+        {
+          "scene": "一家小型企业在装修办公室时，希望选择经济实惠的家具和装饰。",
+          "chineseIdea": "他们想在不牺牲品质的情况下，选择价格较低的选项来控制成本。",
+          "sentenceWithBlank": "The small business opted for a @ @ to furnish the office affordably.",
+          "fullEnglishSentence": "The small business opted for a 「budget option」 to furnish the office affordably.",
+          "chineseTranslation": "这家小型企业选择了「经济实惠的选项」来装修办公室。",
+          "chinglishFix": "Chinglish: 'Low-cost option' -> Correct: 'Budget option'. 'Budget option' is more idiomatic in this context."
+        }
+      ]
+    }
+  ]
+}
+```
