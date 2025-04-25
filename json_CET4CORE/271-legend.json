@@ -1,0 +1,76 @@
+```json
+{
+  "word": "legend",
+  "definitions": [
+    {
+      "meaning": "传统故事或神话，通常与历史人物或事件相关，但可能包含夸张或虚构元素",
+      "usage": "指代流传久远的民间故事或神话，常见于描述具有超凡特质的人物或事件，常用于文学、历史或口述传统中。",
+      "collocations": ["urban legend", "local legend", "ancient legend"],
+      "examples": [
+        {
+          "scene": "在一个古老的小村庄，村民们围坐在篝火旁，老人开始讲述关于一位英雄的故事，这个故事代代相传，充满了神秘色彩。",
+          "chineseIdea": "讲述一个广为人知但可能有些夸张的故事，通常与某个地方或文化紧密相关。",
+          "sentenceWithBlank": "The old man shared an @ @ about a warrior who saved the village.",
+          "fullEnglishSentence": "The old man shared an 「ancient legend」 about a warrior who saved the village.",
+          "chineseTranslation": "老人分享了一个「古老传说」，讲述了一位拯救村庄的战士。",
+          "chinglishFix": "中式英语：He told a very old story about a hero. 纠正：He shared an ancient legend about a hero.（‘story’过于笼统，‘legend’更能体现神话或传说的特质）"
+        },
+        {
+          "scene": "在城市的一家咖啡馆，朋友们讨论着关于一座闹鬼大楼的传闻，这个故事在当地年轻人中广为流传。",
+          "chineseIdea": "分享一个在特定群体中流传的、带有神秘或超自然色彩的故事。",
+          "sentenceWithBlank": "Have you heard the @ @ about the haunted building downtown?",
+          "fullEnglishSentence": "Have you heard the 「urban legend」 about the haunted building downtown?",
+          "chineseTranslation": "你听说过市中心那栋闹鬼大楼的「都市传说」吗？",
+          "chinglishFix": "中式英语：There is a ghost story about that building. 纠正：It’s an urban legend about that building.（‘ghost story’仅指鬼故事，‘urban legend’更广泛，包含城市中的各种神秘传闻）"
+        }
+      ]
+    },
+    {
+      "meaning": "极具影响力或标志性的人物，通常因其成就或声誉而被广泛认可",
+      "usage": "用于描述在某个领域（如体育、音乐、艺术等）中具有传奇地位的人，强调其卓越和持久的影响力。",
+      "collocations": ["living legend", "sporting legend", "music legend"],
+      "examples": [
+        {
+          "scene": "在一场音乐会上，观众们为一位年长的歌手欢呼，这位歌手几十年来一直是流行音乐的代表人物。",
+          "chineseIdea": "称赞一个在某个领域有巨大成就且广受尊敬的人。",
+          "sentenceWithBlank": "She’s still performing and truly a @ @ in the industry.",
+          "fullEnglishSentence": "She’s still performing and truly a 「living legend」 in the industry.",
+          "chineseTranslation": "她仍在表演，真是行业里的「活传奇」。",
+          "chinglishFix": "中式英语：She is a very famous singer. 纠正：She is a living legend in music.（‘famous’仅指知名，‘legend’强调标志性地位和深远影响）"
+        },
+        {
+          "scene": "在体育酒吧，球迷们激烈争论谁是足球史上最伟大的球员，提到了一位退役多年的球星。",
+          "chineseIdea": "讨论一个在体育领域因卓越表现而被铭记的人。",
+          "sentenceWithBlank": "Many consider him a @ @ for his incredible career.",
+          "fullEnglishSentence": "Many consider him a 「sporting legend」 for his incredible career.",
+          "chineseTranslation": "许多人认为他因其卓越的职业生涯是「体育传奇」。",
+          "chinglishFix": "中式英语：He is a great football player. 纠正：He is a sporting legend.（‘great’过于普通，‘legend’更能突出其传奇地位）"
+        }
+      ]
+    },
+    {
+      "meaning": "地图或图表的说明文字，用于解释符号或标记的含义",
+      "usage": "在技术或学术语境中，指地图、图表或图解中用于说明内容的文字部分，通常出现在地图角落或图表下方。",
+      "collocations": ["map legend", "chart legend", "diagram legend"],
+      "examples": [
+        {
+          "scene": "在一堂地理课上，老师要求学生查看地图上的符号说明，以理解不同颜色代表的地理特征。",
+          "chineseIdea": "理解地图上用于解释符号或标记的文字部分。",
+          "sentenceWithBlank": "Check the @ @ to understand what the symbols mean.",
+          "fullEnglishSentence": "Check the 「map legend」 to understand what the symbols mean.",
+          "chineseTranslation": "查看「地图图例」以了解符号的含义。",
+          "chinglishFix": "中式英语：Look at the map’s explanation. 纠正：Check the map legend.（‘explanation’过于宽泛，‘legend’是地图说明的专用术语）"
+        },
+        {
+          "scene": "在一次数据分析会议中，团队成员需要参考图表上的说明文字来解读复杂的统计数据。",
+          "chineseIdea": "通过图表中的说明文字理解数据的表示方式。",
+          "sentenceWithBlank": "The @ @ explains the color coding of the data.",
+          "fullEnglishSentence": "The 「chart legend」 explains the color coding of the data.",
+          "chineseTranslation": "「图表图例」解释了数据的颜色编码。",
+          "chinglishFix": "中式英语：The chart’s description tells the colors. 纠正：The chart legend explains the color coding.（‘description’不准确，‘legend’特指图表说明）"
+        }
+      ]
+    }
+  ]
+}
+```

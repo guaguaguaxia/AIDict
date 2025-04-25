@@ -1,0 +1,53 @@
+```json
+{
+  "word": "logically",
+  "definitions": [
+    {
+      "meaning": "以符合逻辑的方式，按照推理或理性",
+      "usage": "用作副词，描述某事按照逻辑顺序或推理过程进行，通常用于强调思维、论证或行为的有条理性和合理性。",
+      "collocations": ["think logically", "reason logically", "proceed logically"],
+      "examples": [
+        {
+          "scene": "在一场学术讨论会上，教授正在向学生解释如何分析一个复杂的哲学问题，要求学生逐步推理。",
+          "chineseIdea": "教授希望学生能够有条理地思考，按照逻辑一步步推导出结论，而不是凭直觉或随意猜测。",
+          "sentenceWithBlank": "To solve this philosophical problem, you must @ @ carefully and avoid emotional biases.",
+          "fullEnglishSentence": "To solve this philosophical problem, you must 「think logically」 carefully and avoid emotional biases.",
+          "chineseTranslation": "要解决这个哲学问题，你必须「有逻辑地思考」，小心避免情感偏见。",
+          "chinglishFix": "典型中式英语：'You must think with logic.' 纠正：'You must think logically.'（英文中更常使用副词形式logically修饰动词think，而非介词短语with logic。）"
+        },
+        {
+          "scene": "在一家科技公司，团队正在讨论如何优化一个算法，项目经理要求大家按部就班地分析问题。",
+          "chineseIdea": "项目经理希望团队能够按照逻辑顺序分析问题，确保每个步骤都合理且有依据，而不是跳跃式地得出结论。",
+          "sentenceWithBlank": "To optimize the algorithm, we need to @ @ through each step of the process.",
+          "fullEnglishSentence": "To optimize the algorithm, we need to 「proceed logically」 through each step of the process.",
+          "chineseTranslation": "为了优化算法，我们需要「按逻辑顺序进行」每一个步骤。",
+          "chinglishFix": "典型中式英语：'We need to proceed with logic.' 纠正：'We need to proceed logically.'（英文中proceed logically是固定搭配，with logic不自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在逻辑上必然地，作为合理的结果",
+      "usage": "用作副词，表示某事是逻辑推理的必然结果，常用于描述因果关系或结论的合理性。",
+      "collocations": ["follow logically", "conclude logically", "connect logically"],
+      "examples": [
+        {
+          "scene": "在法庭上，律师正在向陪审团总结案件证据，试图证明被告的行为是案件的直接结果。",
+          "chineseIdea": "律师希望通过证据的逻辑联系，让陪审团相信被告的行为是案件结果的必然推论。",
+          "sentenceWithBlank": "If the evidence is true, it @ @ that the defendant was at the scene.",
+          "fullEnglishSentence": "If the evidence is true, it 「follows logically」 that the defendant was at the scene.",
+          "chineseTranslation": "如果证据属实，那么「逻辑上必然得出」被告在现场的结论。",
+          "chinglishFix": "典型中式英语：'It is logic that the defendant was there.' 纠正：'It follows logically that the defendant was there.'（英文中follow logically是表示逻辑推论的习惯表达，而非直接用logic作形容词。）"
+        },
+        {
+          "scene": "在一节数学课上，老师正在向学生解释一个定理的推导过程，强调每个步骤如何自然得出下一个结论。",
+          "chineseIdea": "老师希望学生理解定理的每一步推导都是逻辑上连贯的，结论是前述条件的合理延伸。",
+          "sentenceWithBlank": "From the given axioms, we can @ @ that the theorem is true.",
+          "fullEnglishSentence": "From the given axioms, we can 「conclude logically」 that the theorem is true.",
+          "chineseTranslation": "根据给定的公理，我们可以「逻辑上得出结论」，该定理是正确的。",
+          "chinglishFix": "典型中式英语：'We can logic conclude the theorem is true.' 纠正：'We can conclude logically that the theorem is true.'（英文中副词logically通常放在动词后修饰，而非用logic作形容词。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "margin",
+  "definitions": [
+    {
+      "meaning": "边缘；边界",
+      "usage": "指物理或比喻意义上的边缘、界限，如书页的空白边或某事物的界限。",
+      "collocations": ["wide margin", "narrow margin", "page margin"],
+      "examples": [
+        {
+          "scene": "一名学生在准备课堂笔记时，正在调整文档的格式，确保内容整洁且易于阅读。",
+          "chineseIdea": "为了让笔记看起来更专业，学生决定将文档的空白边设置得更宽一些。",
+          "sentenceWithBlank": "To make the document look professional, she adjusted the @ @.",
+          "fullEnglishSentence": "To make the document look professional, she adjusted the 「wide margin」.",
+          "chineseTranslation": "为了让文档看起来专业，她调整了「宽边距」。",
+          "chinglishFix": "典型中式英语：'She made the document's edge more big.' 纠正：'She adjusted the document to have a wider margin.'"
+        },
+        {
+          "scene": "一位设计师在排版一本杂志时，注意到页面边距太小，导致文字显得拥挤。",
+          "chineseIdea": "设计师觉得页面空白边太窄，需要调整以提升阅读体验。",
+          "sentenceWithBlank": "The text looked cramped, so he increased the @ @.",
+          "fullEnglishSentence": "The text looked cramped, so he increased the 「page margin」.",
+          "chineseTranslation": "文字看起来很拥挤，所以他增加了「页面边距」。",
+          "chinglishFix": "典型中式英语：'He made the page's empty space bigger.' 纠正：'He increased the page margin.'"
+        }
+      ]
+    },
+    {
+      "meaning": "差额；幅度",
+      "usage": "指数量、程度或结果上的差距，如选举中的票数差或比赛中的分数差。",
+      "collocations": ["by a large margin", "by a small margin", "winning margin"],
+      "examples": [
+        {
+          "scene": "在一场地方选举中，候选人A以压倒性优势击败了对手，引起了媒体的广泛讨论。",
+          "chineseIdea": "候选人A的得票数远远超过对手，显示出明显的领先优势。",
+          "sentenceWithBlank": "Candidate A won the election @ @ @.",
+          "fullEnglishSentence": "Candidate A won the election 「by a large margin」.",
+          "chineseTranslation": "候选人A以「大幅优势」赢得了选举。",
+          "chinglishFix": "典型中式英语：'Candidate A won with a big difference.' 纠正：'Candidate A won by a large margin.'"
+        },
+        {
+          "scene": "在一场紧张的篮球比赛中，主队在最后时刻以微弱优势获胜，球迷们欢呼雀跃。",
+          "chineseIdea": "主队以非常小的分数差险胜对手，比赛结果扣人心弦。",
+          "sentenceWithBlank": "The home team secured the victory @ @ @.",
+          "fullEnglishSentence": "The home team secured the victory 「by a small margin」.",
+          "chineseTranslation": "主队以「微弱优势」确保了胜利。",
+          "chinglishFix": "典型中式英语：'The team won with a little gap.' 纠正：'The team won by a small margin.'"
+        }
+      ]
+    },
+    {
+      "meaning": "利润率；余地",
+      "usage": "在商业中指利润率，或在时间、资源等方面表示额外的余地或空间。",
+      "collocations": ["profit margin", "margin of error", "margin of safety"],
+      "examples": [
+        {
+          "scene": "一家小型咖啡店的老板在分析财务报表时，发现今年的收入有所下降。",
+          "chineseIdea": "老板注意到由于成本上升，咖啡店的利润率变低了。",
+          "sentenceWithBlank": "Rising costs have significantly reduced the shop’s @ @.",
+          "fullEnglishSentence": "Rising costs have significantly reduced the shop’s 「profit margin」.",
+          "chineseTranslation": "成本上升显著降低了店铺的「利润率」。",
+          "chinglishFix": "典型中式英语：'The shop’s profit space became smaller.' 纠正：'The shop’s profit margin has decreased.'"
+        },
+        {
+          "scene": "一名项目经理在制定项目计划时，特意留出了一些额外时间以应对突发情况。",
+          "chineseIdea": "为了避免延误，经理在计划中加入了一些时间上的余地。",
+          "sentenceWithBlank": "To avoid delays, she included a @ @ @ in the schedule.",
+          "fullEnglishSentence": "To avoid delays, she included a 「margin of safety」 in the schedule.",
+          "chineseTranslation": "为了避免延误，她在计划中加入了「安全余地」。",
+          "chinglishFix": "典型中式英语：'She added some extra time space.' 纠正：'She included a margin of safety in the schedule.'"
+        }
+      ]
+    }
+  ]
+}
+```
