@@ -1,0 +1,53 @@
+```json
+{
+  "word": "distinct",
+  "definitions": [
+    {
+      "meaning": "清楚的；明显的；截然不同的",
+      "usage": "用于描述某事物在视觉、听觉或其他感官上容易辨认，或与另一事物有明显差异。",
+      "collocations": ["distinct advantage", "distinct possibility", "distinct impression"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理正在讨论新产品与竞争对手产品的差异，强调其独特优势。",
+          "chineseIdea": "想表达新产品在市场上具有显著的竞争力，能够吸引客户。",
+          "sentenceWithBlank": "Our new product has a @ @ over competitors due to its innovative design.",
+          "fullEnglishSentence": "Our new product has a 「distinct advantage」 over competitors due to its innovative design.",
+          "chineseTranslation": "我们的新产品由于其创新设计，与竞争对手相比具有「明显的优势」。",
+          "chinglishFix": "典型中式英语：'Our product is very different and good.' 纠正：'Our product has a distinct advantage.'"
+        },
+        {
+          "scene": "在朋友聚会上，有人提到可能要下雨，影响户外活动计划。",
+          "chineseIdea": "想表达下雨的可能性很大，需要做好准备。",
+          "sentenceWithBlank": "There’s a @ @ of rain this afternoon, so we should bring umbrellas.",
+          "fullEnglishSentence": "There’s a 「distinct possibility」 of rain this afternoon, so we should bring umbrellas.",
+          "chineseTranslation": "今天下午有「明显的可能性」会下雨，所以我们应该带伞。",
+          "chinglishFix": "典型中式英语：'Maybe it will rain strongly.' 纠正：'There’s a distinct possibility of rain.'"
+        }
+      ]
+    },
+    {
+      "meaning": "不同的；独特的",
+      "usage": "用于强调两个或多个事物在性质、特征或类型上的完全不同。",
+      "collocations": ["distinct types", "distinct cultures", "distinct roles"],
+      "examples": [
+        {
+          "scene": "在大学课堂上，教授讲解生态系统中不同类型的生物，突出它们的独特性。",
+          "chineseIdea": "想说明生态系统中有多种不同类别的物种，每种都有独特的功能。",
+          "sentenceWithBlank": "The ecosystem contains @ @ of species, each with unique adaptations.",
+          "fullEnglishSentence": "The ecosystem contains 「distinct types」 of species, each with unique adaptations.",
+          "chineseTranslation": "生态系统中包含「不同类型」的物种，每种都有独特的适应性。",
+          "chinglishFix": "典型中式英语：'There are many kinds of animals.' 纠正：'The ecosystem contains distinct types of species.'"
+        },
+        {
+          "scene": "在跨国公司中，经理向团队介绍不同国家的文化差异，以促进合作。",
+          "chineseIdea": "想强调不同国家的文化有显著差异，需尊重这些差异。",
+          "sentenceWithBlank": "We must respect the @ @ present in our global team to ensure effective collaboration.",
+          "fullEnglishSentence": "We must respect the 「distinct cultures」 present in our global team to ensure effective collaboration.",
+          "chineseTranslation": "我们必须尊重全球团队中存在的「不同文化」，以确保有效合作。",
+          "chinglishFix": "典型中式英语：'Every country has different culture.' 纠正：'We must respect the distinct cultures.'"
+        }
+      ]
+    }
+  ]
+}
+```

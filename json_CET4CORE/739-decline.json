@@ -1,0 +1,53 @@
+```json
+{
+  "word": "decline",
+  "definitions": [
+    {
+      "meaning": "逐渐减少、下降或恶化",
+      "usage": "指数量、质量、重要性或力量的逐渐减少或恶化，常用于描述经济、健康、趋势等。",
+      "collocations": ["in decline", "sharp decline", "gradual decline"],
+      "examples": [
+        {
+          "scene": "一位经济分析师在新闻发布会上讨论最近的市场趋势，提到某个行业的表现持续走低。",
+          "chineseIdea": "表达某个行业的活动或成功率在一段时间内显著减少。",
+          "sentenceWithBlank": "The tech sector has been @ @ for the past two years.",
+          "fullEnglishSentence": "The tech sector has been 「in decline」 for the past two years.",
+          "chineseTranslation": "科技行业在过去两年里一直「在下降」。",
+          "chinglishFix": "典型中式英语：'The tech sector is declining down.' 纠正：'The tech sector is in decline.'（避免冗余的'down'，使用固定搭配'in decline'）"
+        },
+        {
+          "scene": "一位医生在与患者家属讨论老年患者的健康状况，提到患者的认知能力显著退化。",
+          "chineseIdea": "描述患者大脑功能的快速恶化，强调情况的严重性。",
+          "sentenceWithBlank": "Her cognitive abilities have shown a @ @ over the last six months.",
+          "fullEnglishSentence": "Her cognitive abilities have shown a 「sharp decline」 over the last six months.",
+          "chineseTranslation": "她的认知能力在过去六个月里出现了「急剧下降」。",
+          "chinglishFix": "典型中式英语：'Her brain is declining fastly.' 纠正：'Her cognitive abilities have shown a sharp decline.'（避免'fastly'，使用'sharp decline'更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "礼貌地拒绝",
+      "usage": "指以礼貌的方式拒绝邀请、提议或请求，常用于正式或社交场合。",
+      "collocations": ["politely decline", "decline an invitation", "decline an offer"],
+      "examples": [
+        {
+          "scene": "一位职场人士收到一封晚宴邀请函，但因时间冲突无法参加，需要礼貌地回绝。",
+          "chineseIdea": "表达对邀请的感激，但因其他安排而无法接受。",
+          "sentenceWithBlank": "She decided to @ @ the dinner invitation due to a prior commitment.",
+          "fullEnglishSentence": "She decided to 「politely decline」 the dinner invitation due to a prior commitment.",
+          "chineseTranslation": "她决定由于之前的安排而「礼貌地拒绝」晚宴邀请。",
+          "chinglishFix": "典型中式英语：'She refused the invitation politely.' 纠正：'She politely declined the invitation.'（'decline'比'refuse'更柔和，语序更自然）"
+        },
+        {
+          "scene": "一位自由职业者在收到一份工作机会后，觉得项目不适合自己的专业方向，决定谢绝。",
+          "chineseIdea": "表达对机会的欣赏，但因不匹配而选择拒绝。",
+          "sentenceWithBlank": "He chose to @ @ @ because the project didn’t align with his expertise.",
+          "fullEnglishSentence": "He chose to 「decline an offer」 because the project didn’t align with his expertise.",
+          "chineseTranslation": "他选择「拒绝一份offer」，因为这个项目与他的专业不符。",
+          "chinglishFix": "典型中式英语：'He rejected the offer because it’s not fit.' 纠正：'He declined the offer because it didn’t align with his expertise.'（'decline'更正式，'align with'更贴合语境）"
+        }
+      ]
+    }
+  ]
+}
+```
