@@ -1,0 +1,76 @@
+```json
+{
+  "word": "fund",
+  "definitions": [
+    {
+      "meaning": "一笔用于特定目的的钱",
+      "usage": "指为某个特定目标或项目分配或筹集的资金，通常用于金融、投资、慈善或公共事业等语境。",
+      "collocations": ["raise a fund", "manage a fund", "allocate a fund"],
+      "examples": [
+        {
+          "scene": "一家初创公司正在寻求投资以扩大业务规模，创始人向风险投资公司展示商业计划。",
+          "chineseIdea": "公司需要筹集一笔钱来支持新产品的开发和市场推广。",
+          "sentenceWithBlank": "The startup is working hard to @ @ @ from venture capitalists.",
+          "fullEnglishSentence": "The startup is working hard to 「raise a fund」 from venture capitalists.",
+          "chineseTranslation": "这家初创公司正努力从风险投资家那里「筹集一笔资金」。",
+          "chinglishFix": "典型中式英语：'collect money to fund' → 纠正：'raise a fund'（更自然的表达，强调为特定目的筹集资金）。"
+        },
+        {
+          "scene": "一个非营利组织正在为灾后重建项目分配预算，负责人需要决定如何使用捐款。",
+          "chineseIdea": "组织需要将捐款合理分配到不同的重建项目中。",
+          "sentenceWithBlank": "The organization needs to @ @ @ wisely to support rebuilding efforts.",
+          "fullEnglishSentence": "The organization needs to 「allocate a fund」 wisely to support rebuilding efforts.",
+          "chineseTranslation": "该组织需要明智地「分配资金」以支持重建工作。",
+          "chinglishFix": "典型中式英语：'divide money to fund' → 纠正：'allocate a fund'（更正式且符合语境，强调资金的专项分配）。"
+        }
+      ]
+    },
+    {
+      "meaning": "资助或提供资金",
+      "usage": "作为动词，意为通过提供金钱来支持某项活动、项目或个人，通常用于教育、研究、艺术或公共服务等领域。",
+      "collocations": ["fund a project", "fund research", "fund education"],
+      "examples": [
+        {
+          "scene": "一所大学正在启动一个新的科学实验项目，教授向政府申请资助。",
+          "chineseIdea": "教授希望获得一笔钱来支持实验室的设备升级和实验开展。",
+          "sentenceWithBlank": "The professor applied for a grant to @ @ @ in the lab.",
+          "fullEnglishSentence": "The professor applied for a grant to 「fund research」 in the lab.",
+          "chineseTranslation": "教授申请了一笔拨款以「资助实验室的研究」。",
+          "chinglishFix": "典型中式英语：'give money for research' → 纠正：'fund research'（更简洁，强调资助行为）。"
+        },
+        {
+          "scene": "一个城市政府决定支持本地艺术家的创作，推出一个文化发展计划。",
+          "chineseIdea": "政府希望通过提供资金来鼓励艺术家创作更多作品。",
+          "sentenceWithBlank": "The city council decided to @ @ @ to promote local artists.",
+          "fullEnglishSentence": "The city council decided to 「fund a project」 to promote local artists.",
+          "chineseTranslation": "市议会决定「资助一个项目」以推广本地艺术家。",
+          "chinglishFix": "典型中式英语：'pay money for a project' → 纠正：'fund a project'（更专业，符合英语中的资助语境）。"
+        }
+      ]
+    },
+    {
+      "meaning": "资金或储备",
+      "usage": "指可用的金钱或资源储备，通常用于描述个人、组织或政府的财务状况，强调可动用的总量。",
+      "collocations": ["emergency fund", "pension fund", "trust fund"],
+      "examples": [
+        {
+          "scene": "一个家庭正在为未来的紧急情况做财务规划，决定每月存一些钱。",
+          "chineseIdea": "家庭希望建立一笔储备金，以应对突发医疗或失业情况。",
+          "sentenceWithBlank": "They set aside money each month to build an @ @.",
+          "fullEnglishSentence": "They set aside money each month to build an 「emergency fund」.",
+          "chineseTranslation": "他们每月存钱以建立一个「紧急储备金」。",
+          "chinglishFix": "典型中式英语：'save money for emergency' → 纠正：'build an emergency fund'（更具体，强调专项储备）。"
+        },
+        {
+          "scene": "一位年轻人继承了一笔家族财富，财务顾问建议他妥善管理这笔钱。",
+          "chineseIdea": "年轻人需要管理一笔遗产，以确保未来的财务安全。",
+          "sentenceWithBlank": "The financial advisor helped him manage his @ @.",
+          "fullEnglishSentence": "The financial advisor helped him manage his 「trust fund」.",
+          "chineseTranslation": "财务顾问帮助他管理他的「信托基金」。",
+          "chinglishFix": "典型中式英语：'control family money' → 纠正：'manage a trust fund'（更准确，符合信托基金的专业语境）。"
+        }
+      ]
+    }
+  ]
+}
+```

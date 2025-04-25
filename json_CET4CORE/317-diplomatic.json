@@ -1,0 +1,53 @@
+```json
+{
+  "word": "diplomatic",
+  "definitions": [
+    {
+      "meaning": "与外交或国际关系有关的，涉及国家间的正式交流或谈判",
+      "usage": "通常用于描述国家、政府或其代表在国际事务中的行为、政策或交流，强调正式、谨慎和策略性。",
+      "collocations": ["diplomatic relations", "diplomatic immunity", "diplomatic negotiations"],
+      "examples": [
+        {
+          "scene": "在国际峰会上，两个国家的外交官正在讨论贸易协议，以避免经济冲突。",
+          "chineseIdea": "国家间的交流需要谨慎和策略，以维护双方的利益并避免误解。",
+          "sentenceWithBlank": "The two countries worked hard to maintain @ @ despite their disagreements.",
+          "fullEnglishSentence": "The two countries worked hard to maintain 「diplomatic relations」 despite their disagreements.",
+          "chineseTranslation": "尽管存在分歧，两国努力维持「外交关系」。",
+          "chinglishFix": "典型中式英语：'They keep good relation diplomacy.' 纠正：'They maintain diplomatic relations.'"
+        },
+        {
+          "scene": "一名外国大使因违反当地法律而未被起诉，引起公众争议。",
+          "chineseIdea": "外交官因其特殊身份，在他国可能享有法律豁免权。",
+          "sentenceWithBlank": "The ambassador avoided prosecution due to @ @.",
+          "fullEnglishSentence": "The ambassador avoided prosecution due to 「diplomatic immunity」.",
+          "chineseTranslation": "大使因享有「外交豁免权」而未被起诉。",
+          "chinglishFix": "典型中式英语：'He has diplomacy protection.' 纠正：'He has diplomatic immunity.'"
+        }
+      ]
+    },
+    {
+      "meaning": "善于处理人际关系，圆滑而有策略，避免冒犯或冲突",
+      "usage": "描述个人在社交或职业场合中以谨慎、礼貌和策略性的方式处理敏感问题或冲突的能力。",
+      "collocations": ["diplomatic approach", "diplomatic response", "diplomatic manner"],
+      "examples": [
+        {
+          "scene": "在公司会议上，经理面对员工的激烈争论，试图平息紧张气氛。",
+          "chineseIdea": "在冲突中以温和的方式沟通，既表达观点又不激化矛盾。",
+          "sentenceWithBlank": "The manager took a @ @ to resolve the conflict calmly.",
+          "fullEnglishSentence": "The manager took a 「diplomatic approach」 to resolve the conflict calmly.",
+          "chineseTranslation": "经理采取了「外交手段」来平静地解决冲突。",
+          "chinglishFix": "典型中式英语：'He used diplomacy way to solve problem.' 纠正：'He adopted a diplomatic approach to resolve the issue.'"
+        },
+        {
+          "scene": "在家庭聚会上，有人提出争议话题，某人巧妙地转移了话题。",
+          "chineseIdea": "在敏感话题上以礼貌的方式回应，避免尴尬或争吵。",
+          "sentenceWithBlank": "She gave a @ @ to avoid an argument at the dinner table.",
+          "fullEnglishSentence": "She gave a 「diplomatic response」 to avoid an argument at the dinner table.",
+          "chineseTranslation": "她给出了「外交回应」，以避免餐桌上的争吵。",
+          "chinglishFix": "典型中式英语：'She answered with diplomacy words.' 纠正：'She provided a diplomatic response.'"
+        }
+      ]
+    }
+  ]
+}
+```

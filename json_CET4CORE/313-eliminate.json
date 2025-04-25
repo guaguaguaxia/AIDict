@@ -1,0 +1,53 @@
+```json
+{
+  "word": "eliminate",
+  "definitions": [
+    {
+      "meaning": "完全去除或消灭某事物",
+      "usage": "指通过行动或过程彻底移除某物，通常用于物理、抽象或竞争场景，如去除障碍、消灭敌人或排除可能性。",
+      "collocations": ["eliminate the possibility", "eliminate waste", "eliminate the competition"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的产品开发会议中，团队正在讨论如何优化新款智能手机的设计。产品经理提出需要去掉一些不必要的功能，以提升用户体验。",
+          "chineseIdea": "产品经理认为，移除某些复杂的功能可以让手机更简洁、更容易使用。",
+          "sentenceWithBlank": "We need to @ @ @ to make the phone more user-friendly.",
+          "fullEnglishSentence": "We need to 「eliminate the possibility」 of overcomplicating the design to make the phone more user-friendly.",
+          "chineseTranslation": "我们需要「排除可能性」，避免设计过于复杂，以使手机更易于使用。",
+          "chinglishFix": "中式英语：'We must delete the chance of complex design.' 纠正：'We should eliminate the possibility of overcomplicating the design.'（'delete the chance' 不自然，'eliminate the possibility' 是更地道的表达。）"
+        },
+        {
+          "scene": "在一个环保组织的活动中，志愿者们讨论如何减少工厂生产过程中的资源浪费。他们希望通过新技术来优化流程。",
+          "chineseIdea": "志愿者们认为，通过改进技术，可以大幅减少生产中不必要的资源消耗。",
+          "sentenceWithBlank": "Our goal is to @ @ to achieve sustainable production.",
+          "fullEnglishSentence": "Our goal is to 「eliminate waste」 to achieve sustainable production.",
+          "chineseTranslation": "我们的目标是「消除浪费」，以实现可持续生产。",
+          "chinglishFix": "中式英语：'We want to remove the waste.' 纠正：'We aim to eliminate waste.'（'remove' 虽可行，但 'eliminate' 更强调彻底清除，常见于环保语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在竞争或比赛中击败或淘汰",
+      "usage": "常用于描述在比赛、选拔或竞争中将某人或某团队移除出局，常见于体育、选举或商业竞争。",
+      "collocations": ["eliminate the opponent", "eliminate a team", "eliminate a candidate"],
+      "examples": [
+        {
+          "scene": "在一场紧张的足球联赛中，两支强队在半决赛中对决。比赛结束后，获胜的队伍将对手淘汰出局，晋级决赛。",
+          "chineseIdea": "获胜的队伍通过出色的表现，确保对手无法继续参加比赛。",
+          "sentenceWithBlank": "Their strong defense helped them @ @ @ in the semifinals.",
+          "fullEnglishSentence": "Their strong defense helped them 「eliminate the opponent」 in the semifinals.",
+          "chineseTranslation": "他们强大的防守帮助他们在半决赛中「淘汰对手」。",
+          "chinglishFix": "中式英语：'They kicked out the opponent.' 纠正：'They eliminated the opponent.'（'kick out' 过于口语化且不适用于正式比赛场景，'eliminate' 更贴合语境。）"
+        },
+        {
+          "scene": "在一家公司的内部晋升选拔中，几位候选人正在竞争一个高级管理职位。经过多轮面试后，只有一位候选人被选中，其他人被淘汰。",
+          "chineseIdea": "公司通过严格的评估，决定哪些候选人不适合这个职位。",
+          "sentenceWithBlank": "The rigorous evaluation process was designed to @ @ @ who didn’t meet the criteria.",
+          "fullEnglishSentence": "The rigorous evaluation process was designed to 「eliminate a candidate」 who didn’t meet the criteria.",
+          "chineseTranslation": "严格的评估流程旨在「淘汰候选人」，排除那些不符合标准的人。",
+          "chinglishFix": "中式英语：'The process removed a candidate.' 纠正：'The process eliminated a candidate.'（'remove' 较为笼统，'eliminate' 更精确地表达竞争中的筛选。）"
+        }
+      ]
+    }
+  ]
+}
+```
