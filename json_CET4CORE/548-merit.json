@@ -1,0 +1,53 @@
+```json
+{
+  "word": "merit",
+  "definitions": [
+    {
+      "meaning": "优点或价值，特指某事物或行为因其品质或成就而值得赞扬或奖励",
+      "usage": "通常用作名词，表示某事物或人的优点、价值或值得称赞的特质。常用于评价某人、某事或某作品的优劣。",
+      "collocations": ["have merit", "on its own merit", "judged on merit"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，学者们正在讨论一篇研究论文的质量，重点关注其研究方法和结论的可靠性。",
+          "chineseIdea": "这篇论文的研究方法严谨，数据分析详尽，值得在学术界获得认可。",
+          "sentenceWithBlank": "The research paper @ @ due to its rigorous methodology and comprehensive data analysis.",
+          "fullEnglishSentence": "The research paper 「has merit」 due to its rigorous methodology and comprehensive data analysis.",
+          "chineseTranslation": "这篇研究论文因其严谨的方法论和全面的数据分析而「具有价值」。",
+          "chinglishFix": "典型中式英语：'This paper is very good quality.' 纠正：'This paper has merit because of its high-quality research.'"
+        },
+        {
+          "scene": "在公司内部晋升评审中，员工的绩效和贡献被公平评估，强调不依赖关系或背景。",
+          "chineseIdea": "员工应该根据自己的能力和工作表现来获得晋升，而不是靠其他因素。",
+          "sentenceWithBlank": "Each employee should be @ @ @ based on their performance and contributions.",
+          "fullEnglishSentence": "Each employee should be 「judged on merit」 based on their performance and contributions.",
+          "chineseTranslation": "每位员工都应根据其表现和贡献「按能力评判」。",
+          "chinglishFix": "典型中式英语：'Employee should promote by ability.' 纠正：'Employees should be judged on merit for promotions.'"
+        }
+      ]
+    },
+    {
+      "meaning": "功绩或成就，特指通过努力获得的值得认可的结果",
+      "usage": "用作名词，指某人通过努力获得的成就或荣誉，常用于正式或官方语境，如颁奖或表彰。",
+      "collocations": ["earn merit", "badge of merit", "certificate of merit"],
+      "examples": [
+        {
+          "scene": "在一所中学，学校举办年度颁奖典礼，向表现优异的学生颁发荣誉证书，以表彰他们的学术成就。",
+          "chineseIdea": "学生通过刻苦学习在考试中取得优异成绩，获得了学校的正式认可。",
+          "sentenceWithBlank": "She @ @ for her outstanding performance in the national math competition.",
+          "fullEnglishSentence": "She 「earned merit」 for her outstanding performance in the national math competition.",
+          "chineseTranslation": "她在国家数学竞赛中的出色表现「赢得了荣誉」。",
+          "chinglishFix": "典型中式英语：'She got good grade so she is honored.' 纠正：'She earned merit for her excellent performance.'"
+        },
+        {
+          "scene": "在童子军活动中，一名成员通过完成一系列挑战任务，获得了一枚特别的徽章，以表彰他的努力。",
+          "chineseIdea": "通过完成任务展示了自己的能力和毅力，获得了正式的奖励。",
+          "sentenceWithBlank": "The scout received a @ @ @ for completing the wilderness survival challenge.",
+          "fullEnglishSentence": "The scout received a 「badge of merit」 for completing the wilderness survival challenge.",
+          "chineseTranslation": "这名童子军因完成野外生存挑战而获得了一枚「荣誉徽章」。",
+          "chinglishFix": "典型中式英语：'He got a badge because he is good.' 纠正：'He received a badge of merit for his accomplishments.'"
+        }
+      ]
+    }
+  ]
+}
+```

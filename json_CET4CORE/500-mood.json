@@ -1,0 +1,76 @@
+```json
+{
+  "word": "mood",
+  "definitions": [
+    {
+      "meaning": "A temporary state of mind or feeling",
+      "usage": "Refers to an emotional state that can change depending on circumstances, often described as positive, negative, or neutral. Commonly used in contexts discussing emotions, atmosphere, or personal disposition.",
+      "collocations": ["in a good mood", "in a bad mood", "set the mood"],
+      "examples": [
+        {
+          "scene": "一个人在周末早晨醒来，阳光明媚，鸟儿在窗外歌唱，感觉一切都很美好。",
+          "chineseIdea": "描述一个人因为外界环境或内在感受而感到愉悦和轻松的状态。",
+          "sentenceWithBlank": "She woke up @ @ @ @, ready to enjoy the sunny day.",
+          "fullEnglishSentence": "She woke up 「in a good mood」, ready to enjoy the sunny day.",
+          "chineseTranslation": "她醒来时「心情很好」，准备享受阳光明媚的一天。",
+          "chinglishFix": "Chinglish: 'She is very happy mood today.' Correction: 'She is in a good mood today.'"
+        },
+        {
+          "scene": "一个人因为工作压力和糟糕的天气而感到烦躁，同事试图与他开玩笑但没有效果。",
+          "chineseIdea": "描述一个人由于外部压力或不愉快的事件而情绪低落或易怒。",
+          "sentenceWithBlank": "He was @ @ @ @ after a tough day at work.",
+          "fullEnglishSentence": "He was 「in a bad mood」 after a tough day at work.",
+          "chineseTranslation": "他在工作一天后「心情不好」。",
+          "chinglishFix": "Chinglish: 'He has bad mood today.' Correction: 'He is in a bad mood today.'"
+        }
+      ]
+    },
+    {
+      "meaning": "The atmosphere or tone of something, such as a place, event, or piece of art",
+      "usage": "Describes the emotional tone or ambiance created by a setting, music, lighting, or other elements. Often used in contexts like events, films, or storytelling.",
+      "collocations": ["create a mood", "set the mood", "capture the mood"],
+      "examples": [
+        {
+          "scene": "在一个浪漫的晚餐场景中，餐厅用柔和的灯光和轻音乐来营造温馨的氛围。",
+          "chineseIdea": "描述通过环境布置或音乐来制造一种特定的情感氛围。",
+          "sentenceWithBlank": "The soft lighting and jazz music @ @ @ @ for a romantic evening.",
+          "fullEnglishSentence": "The soft lighting and jazz music 「set the mood」 for a romantic evening.",
+          "chineseTranslation": "柔和的灯光和爵士乐为浪漫的夜晚「营造了氛围」。",
+          "chinglishFix": "Chinglish: 'The music makes a romantic mood.' Correction: 'The music sets a romantic mood.'"
+        },
+        {
+          "scene": "一部电影通过阴暗的色调和缓慢的配乐来表达一种忧郁的情感基调。",
+          "chineseIdea": "描述艺术作品通过视觉或听觉元素传递某种情感基调。",
+          "sentenceWithBlank": "The film’s dark visuals @ @ @ @ of melancholy.",
+          "fullEnglishSentence": "The film’s dark visuals 「captured the mood」 of melancholy.",
+          "chineseTranslation": "电影的暗色画面「捕捉了忧郁的氛围」。",
+          "chinglishFix": "Chinglish: 'The film shows a sad mood.' Correction: 'The film captures a sad mood.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A grammatical category in verbs indicating the speaker’s attitude toward the action",
+      "usage": "Used in linguistics to describe verb forms like indicative, subjunctive, or imperative, which express facts, hypotheticals, or commands. Less common in everyday English but relevant in academic or technical discussions.",
+      "collocations": ["subjunctive mood", "indicative mood", "imperative mood"],
+      "examples": [
+        {
+          "scene": "一个英语老师在课堂上解释虚拟语气的使用，强调它如何表达假设或愿望。",
+          "chineseIdea": "描述语法中动词形式用来表达非现实或假设情况的用法。",
+          "sentenceWithBlank": "The teacher explained the @ @ @ for hypothetical situations.",
+          "fullEnglishSentence": "The teacher explained the 「subjunctive mood」 for hypothetical situations.",
+          "chineseTranslation": "老师解释了用于假设情况的「虚拟语气」。",
+          "chinglishFix": "Chinglish: 'This is a mood for unreal things.' Correction: 'This is the subjunctive mood for unreal situations.'"
+        },
+        {
+          "scene": "一个学生在语言学考试中需要区分陈述语气和祈使语气的用法。",
+          "chineseIdea": "描述语法中动词形式用来表达事实或命令的类别。",
+          "sentenceWithBlank": "The exam asked students to identify the @ @ @ in commands.",
+          "fullEnglishSentence": "The exam asked students to identify the 「imperative mood」 in commands.",
+          "chineseTranslation": "考试要求学生识别命令句中的「祈使语气」。",
+          "chinglishFix": "Chinglish: 'This mood is for ordering.' Correction: 'This is the imperative mood for commands.'"
+        }
+      ]
+    }
+  ]
+}
+```

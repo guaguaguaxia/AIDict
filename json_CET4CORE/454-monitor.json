@@ -1,0 +1,76 @@
+```json
+{
+  "word": "monitor",
+  "definitions": [
+    {
+      "meaning": "观察或检查某事物以确保其正常运行或符合标准",
+      "usage": "用作动词，表示持续或定期地观察、检查某事物，通常涉及评估其状态、进展或性能。",
+      "collocations": ["monitor progress", "monitor performance", "monitor activity"],
+      "examples": [
+        {
+          "scene": "在一个软件开发公司，项目经理需要定期检查团队的开发进度，以确保项目按时完成。",
+          "chineseIdea": "项目经理想知道团队是否在按计划推进工作，是否需要调整资源或时间安排。",
+          "sentenceWithBlank": "The project manager needs to @ @ to ensure the team meets deadlines.",
+          "fullEnglishSentence": "The project manager needs to 「monitor progress」 to ensure the team meets deadlines.",
+          "chineseTranslation": "项目经理需要「监控进度」以确保团队按时完成任务。",
+          "chinglishFix": "典型中式英语：'Watch the progress' 或 'Check the progress closely'。纠正：'Monitor progress' 更自然，强调持续观察和评估。"
+        },
+        {
+          "scene": "在一家工厂，管理人员通过实时数据系统来检查机器的运行状态，以防止故障。",
+          "chineseIdea": "管理人员希望确保机器运行正常，避免因故障导致生产中断。",
+          "sentenceWithBlank": "The supervisor uses a system to @ @ and prevent equipment failures.",
+          "fullEnglishSentence": "The supervisor uses a system to 「monitor performance」 and prevent equipment failures.",
+          "chineseTranslation": "主管使用系统来「监控性能」以防止设备故障。",
+          "chinglishFix": "典型中式英语：'Look at the performance' 或 'Control the performance'。纠正：'Monitor performance' 更精确，强调系统性观察。"
+        }
+      ]
+    },
+    {
+      "meaning": "显示器或屏幕，用于显示计算机或电子设备的信息",
+      "usage": "用作名词，指电脑、电视或其他设备的屏幕，通常与技术或设备相关。",
+      "collocations": ["computer monitor", "touchscreen monitor", "external monitor"],
+      "examples": [
+        {
+          "scene": "在一个程序员的办公室，他刚买了一台新电脑屏幕来提高工作效率。",
+          "chineseIdea": "程序员想要一个更大的屏幕，以便同时查看代码和调试界面。",
+          "sentenceWithBlank": "The programmer bought a new @ @ to view code more comfortably.",
+          "fullEnglishSentence": "The programmer bought a new 「computer monitor」 to view code more comfortably.",
+          "chineseTranslation": "程序员买了一个新的「电脑显示器」以更方便地查看代码。",
+          "chinglishFix": "典型中式英语：'Computer screen' 或 'Displayer'。纠正：'Computer monitor' 是更专业的术语，特指显示设备。"
+        },
+        {
+          "scene": "在一家设计公司，设计师连接了一个额外的屏幕来扩展工作空间。",
+          "chineseIdea": "设计师希望通过额外的屏幕同时处理多个设计文件，提高效率。",
+          "sentenceWithBlank": "The designer connected an @ @ to work on multiple projects simultaneously.",
+          "fullEnglishSentence": "The designer connected an 「external monitor」 to work on multiple projects simultaneously.",
+          "chineseTranslation": "设计师连接了一个「外部显示器」以同时处理多个项目。",
+          "chinglishFix": "典型中式英语：'Another screen' 或 'Second monitor'。纠正：'External monitor' 更准确，强调外接设备。"
+        }
+      ]
+    },
+    {
+      "meaning": "监督者或监控者，通常指负责监督某活动或群体的人",
+      "usage": "用作名词，指在特定场景（如学校、考试或会议）中负责监督或管理的人。",
+      "collocations": ["exam monitor", "hall monitor", "safety monitor"],
+      "examples": [
+        {
+          "scene": "在一场重要的考试中，学校安排了老师在考场内巡查，防止作弊。",
+          "chineseIdea": "学校希望确保考试公平，安排人员监督考生行为。",
+          "sentenceWithBlank": "The teacher was assigned as an @ @ to prevent cheating during the test.",
+          "fullEnglishSentence": "The teacher was assigned as an 「exam monitor」 to prevent cheating during the test.",
+          "chineseTranslation": "老师被指派为「考试监督员」以防止考试期间作弊。",
+          "chinglishFix": "典型中式英语：'Test watcher' 或 'Exam keeper'。纠正：'Exam monitor' 是标准表达，指考试中的监督者。"
+        },
+        {
+          "scene": "在一所小学，学校安排学生在走廊上管理秩序，确保安全。",
+          "chineseIdea": "学校希望通过学生监督来维持走廊的秩序，防止学生跑跳或发生冲突。",
+          "sentenceWithBlank": "The student volunteered to be a @ @ to maintain order in the hallways.",
+          "fullEnglishSentence": "The student volunteered to be a 「hall monitor」 to maintain order in the hallways.",
+          "chineseTranslation": "学生自愿担任「走廊监督员」以维持走廊的秩序。",
+          "chinglishFix": "典型中式英语：'Corridor guard' 或 'Hall watcher'。纠正：'Hall monitor' 是学校环境中的常见术语。"
+        }
+      ]
+    }
+  ]
+}
+```

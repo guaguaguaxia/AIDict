@@ -1,0 +1,60 @@
+```json
+{
+  "word": "lengthy",
+  "definitions": [
+    {
+      "meaning": "持续时间长或篇幅长的，尤其是显得过长或冗长的",
+      "usage": "常用于描述时间、过程、文本、演讲等，带有轻微负面含义，暗示可能冗长或令人感到拖沓。",
+      "collocations": [
+        "lengthy process",
+        "lengthy discussion",
+        "lengthy speech"
+      ],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，团队需要决定新产品的发布计划，但会议拖了很久，讨论了很多细节。",
+          "chineseIdea": "表达会议时间长，讨论内容繁琐，让人感到有些疲惫。",
+          "sentenceWithBlank": "The team went through a @ @ to finalize the product launch plan.",
+          "fullEnglishSentence": "The team went through a 「lengthy process」 to finalize the product launch plan.",
+          "chineseTranslation": "团队经历了一个「冗长的过程」来最终确定产品发布计划。",
+          "chinglishFix": "典型中式英语：'The meeting was very long time.' 纠正：'The meeting involved a lengthy process.'"
+        },
+        {
+          "scene": "在大学课堂上，教授针对一个复杂话题展开了深入探讨，学生们觉得内容太多，难以保持专注。",
+          "chineseIdea": "表达讨论时间长，内容复杂，让人感到有些枯燥。",
+          "sentenceWithBlank": "The professor led a @ @ on the topic of quantum mechanics.",
+          "fullEnglishSentence": "The professor led a 「lengthy discussion」 on the topic of quantum mechanics.",
+          "chineseTranslation": "教授针对量子力学话题进行了一次「冗长的讨论」。",
+          "chinglishFix": "典型中式英语：'The class talked too long.' 纠正：'The class had a lengthy discussion.'"
+        }
+      ]
+    },
+    {
+      "meaning": "物理上或空间上很长的，通常指尺寸或距离",
+      "usage": "较少见，主要用于描述物理对象的长度，如绳子、道路等，通常不带负面含义，仅表示客观的长度。",
+      "collocations": [
+        "lengthy cable",
+        "lengthy road"
+      ],
+      "examples": [
+        {
+          "scene": "在布置家庭影院时，需要一根很长的电缆来连接电视和音响设备，电缆需要穿过整个房间。",
+          "chineseIdea": "表达电缆的物理长度很长，足以覆盖整个房间。",
+          "sentenceWithBlank": "We needed a @ @ to connect the TV to the sound system across the room.",
+          "fullEnglishSentence": "We needed a 「lengthy cable」 to connect the TV to the sound system across the room.",
+          "chineseTranslation": "我们需要一根「很长的电缆」来连接电视和音响系统，横跨整个房间。",
+          "chinglishFix": "典型中式英语：'The wire is very long distance.' 纠正：'We used a lengthy cable.'"
+        },
+        {
+          "scene": "在一个乡村旅行中，游客们沿着一条蜿蜒的道路前行，道路似乎没有尽头。",
+          "chineseIdea": "表达道路的物理长度很长，给人一种漫长的感觉。",
+          "sentenceWithBlank": "The travelers walked along a @ @ that stretched through the countryside.",
+          "fullEnglishSentence": "The travelers walked along a 「lengthy road」 that stretched through the countryside.",
+          "chineseTranslation": "旅行者们沿着一条「很长的道路」行走，这条路穿过乡村。",
+          "chinglishFix": "典型中式英语：'The road is too long.' 纠正：'The road was quite lengthy.'"
+        }
+      ]
+    }
+  ]
+}
+```
