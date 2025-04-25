@@ -1,0 +1,53 @@
+```json
+{
+  "word": "dramatically",
+  "definitions": [
+    {
+      "meaning": "以引人注目的方式；显著地",
+      "usage": "用作副词，描述某事物以显著、引人注目或戏剧性的方式发生或改变，常用于强调变化的程度或效果。常见于描述数量、程度、行为或情境的显著变化。",
+      "collocations": ["change dramatically", "improve dramatically", "increase dramatically"],
+      "examples": [
+        {
+          "scene": "一家科技公司在过去一年中通过技术创新和市场扩张，产品销量显著提升，引起了行业内的广泛关注。",
+          "chineseIdea": "想要表达公司业绩在短时间内发生了巨大变化，令人印象深刻。",
+          "sentenceWithBlank": "The company's sales @ @ in just one year, surprising industry analysts.",
+          "fullEnglishSentence": "The company's sales 「changed dramatically」 in just one year, surprising industry analysts.",
+          "chineseTranslation": "公司的销售额在短短一年内「显著变化」，令行业分析师感到惊讶。",
+          "chinglishFix": "典型中式英语：'The company's sales changed very big.' 纠正：'The company's sales changed dramatically.'（用'dramatically'更准确地表达显著变化，避免模糊的'very big'）"
+        },
+        {
+          "scene": "一位学生通过刻苦学习和新的学习方法，在期末考试中的成绩有了显著提升，老师和家长都感到非常惊讶。",
+          "chineseIdea": "想表达学生的成绩在短时间内大幅提高，令人刮目相看。",
+          "sentenceWithBlank": "Her grades @ @ after she adopted a new study method.",
+          "fullEnglishSentence": "Her grades 「improved dramatically」 after she adopted a new study method.",
+          "chineseTranslation": "她的成绩在采用新的学习方法后「显著提高」。",
+          "chinglishFix": "典型中式英语：'Her grades became very good suddenly.' 纠正：'Her grades improved dramatically.'（'dramatically'更能突出变化的显著性和戏剧性）"
+        }
+      ]
+    },
+    {
+      "meaning": "以戏剧化的方式；夸张地",
+      "usage": "用作副词，描述某人的行为、表达或动作以夸张、戏剧化或引人注目的方式进行，常用于描述表演、情感表达或某种姿态。常见于文学、表演或日常生活中夸张的场景。",
+      "collocations": ["act dramatically", "react dramatically", "speak dramatically"],
+      "examples": [
+        {
+          "scene": "在一场学校戏剧表演中，主角为了表现角色的悲伤情绪，夸张地挥舞双手并大声哭泣，吸引了观众的注意。",
+          "chineseIdea": "想表达演员通过夸张的表演方式来突出角色的情感。",
+          "sentenceWithBlank": "The lead actor @ @ to convey the character’s deep sorrow.",
+          "fullEnglishSentence": "The lead actor 「acted dramatically」 to convey the character’s deep sorrow.",
+          "chineseTranslation": "主演「夸张地表演」以表达角色的深深悲伤。",
+          "chinglishFix": "典型中式英语：'The actor acted very exaggerated.' 纠正：'The actor acted dramatically.'（'dramatically'更自然地表达戏剧化的表演风格）"
+        },
+        {
+          "scene": "在一次团队会议中，当听到项目延期的消息时，一位同事夸张地叹气并做出惊讶的表情，引起了大家的注意。",
+          "chineseIdea": "想表达某人以夸张的方式对消息做出反应，显得有些戏剧化。",
+          "sentenceWithBlank": "She @ @ when she heard the project would be delayed.",
+          "fullEnglishSentence": "She 「reacted dramatically」 when she heard the project would be delayed.",
+          "chineseTranslation": "她在听到项目将延期时「夸张地反应」。",
+          "chinglishFix": "典型中式英语：'She reacted very big.' 纠正：'She reacted dramatically.'（'dramatically'更贴切地描述夸张的反应）"
+        }
+      ]
+    }
+  ]
+}
+```

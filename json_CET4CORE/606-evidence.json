@@ -1,0 +1,53 @@
+```json
+{
+  "word": "evidence",
+  "definitions": [
+    {
+      "meaning": "证明某事真实或存在的材料、事实或信息",
+      "usage": "通常指用于支持某个论点、声明或结论的客观事实、信息或材料，常出现在法律、科学、学术讨论或日常推理中。",
+      "collocations": ["provide evidence", "gather evidence", "strong evidence", "lack of evidence"],
+      "examples": [
+        {
+          "scene": "在一个刑事案件的法庭审理中，检察官需要向陪审团展示被告有罪的证据。辩论的关键点是这些材料是否足够令人信服。",
+          "chineseIdea": "检察官需要提交一些能够证明被告犯罪的事实，比如监控录像或指纹。",
+          "sentenceWithBlank": "The prosecutor was able to @ @ that clearly linked the suspect to the crime scene.",
+          "fullEnglishSentence": "The prosecutor was able to 「provide evidence」 that clearly linked the suspect to the crime scene.",
+          "chineseTranslation": "检察官能够「提供证据」，清楚地将嫌疑人与犯罪现场联系起来。",
+          "chinglishFix": "典型中式英语：'Give some proof to show he is guilty.' 纠正：'Provide evidence to demonstrate his guilt.'"
+        },
+        {
+          "scene": "一个科学研究团队在实验室中分析数据，以验证他们的假设是否成立。他们需要收集足够的数据来支持结论。",
+          "chineseIdea": "研究人员需要通过实验收集能够支持他们理论的事实或数据。",
+          "sentenceWithBlank": "The research team spent months @ @ to support their hypothesis about climate change.",
+          "fullEnglishSentence": "The research team spent months 「gathering evidence」 to support their hypothesis about climate change.",
+          "chineseTranslation": "研究团队花了几个月时间「收集证据」，以支持他们关于气候变化的假设。",
+          "chinglishFix": "典型中式英语：'Collect some proof for their idea.' 纠正：'Gather evidence to support their hypothesis.'"
+        }
+      ]
+    },
+    {
+      "meaning": "表明或显示某事存在的迹象或信号",
+      "usage": "指某些现象、行为或情况暗示或显示某事正在发生或存在的迹象，常用于描述观察到的情况或趋势。",
+      "collocations": ["show evidence of", "clear evidence", "no evidence of", "find evidence of"],
+      "examples": [
+        {
+          "scene": "一位医生在检查病人时，发现了一些症状，提示可能存在某种疾病。医生需要进一步检查来确认诊断。",
+          "chineseIdea": "医生观察到一些迹象，表明病人可能患有某种疾病。",
+          "sentenceWithBlank": "The patient’s symptoms @ @ @ a serious underlying condition.",
+          "fullEnglishSentence": "The patient’s symptoms 「showed evidence of」 a serious underlying condition.",
+          "chineseTranslation": "病人的症状「显示出证据」，表明存在严重的潜在疾病。",
+          "chinglishFix": "典型中式英语：'His symptoms prove he has a disease.' 纠正：'His symptoms show evidence of a disease.'"
+        },
+        {
+          "scene": "一个考古学家在挖掘古代遗址时，发现了一些遗物，表明古代文明的存在。团队对此感到兴奋并继续挖掘。",
+          "chineseIdea": "考古学家发现了一些遗物，显示出古代文明的痕迹。",
+          "sentenceWithBlank": "The artifacts uncovered at the site @ @ @ an advanced ancient civilization.",
+          "fullEnglishSentence": "The artifacts uncovered at the site 「found evidence of」 an advanced ancient civilization.",
+          "chineseTranslation": "在遗址中发现的文物「找到了证据」，表明存在一个先进的古代文明。",
+          "chinglishFix": "典型中式英语：'They found proof of old culture.' 纠正：'They found evidence of an ancient civilization.'"
+        }
+      ]
+    }
+  ]
+}
+```

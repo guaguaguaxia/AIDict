@@ -1,0 +1,76 @@
+```json
+{
+  "word": "display",
+  "definitions": [
+    {
+      "meaning": "展示或陈列某物以供他人观看",
+      "usage": "指将物品、艺术品、信息等放置在显眼位置以吸引注意力，常用于展览、商店、博物馆等场景，也可指电子屏幕显示内容。",
+      "collocations": ["on display", "display case", "public display", "digital display"],
+      "examples": [
+        {
+          "scene": "你在一家艺术画廊，墙上挂满了画作，吸引了众多游客驻足欣赏。",
+          "chineseIdea": "你想表达这些画作被摆放出来供大家观赏，强调它们被精心展示的样子。",
+          "sentenceWithBlank": "The paintings are @ @ in the gallery for everyone to admire.",
+          "fullEnglishSentence": "The paintings are 「on display」 in the gallery for everyone to admire.",
+          "chineseTranslation": "这些画作在画廊里「展出」供大家欣赏。",
+          "chinglishFix": "典型中式英语：'The paintings are showed in the gallery.' 纠正：'Showed' 不适合描述静态展示，应改为 'on display'，表示被陈列出来。"
+        },
+        {
+          "scene": "你走进一家珠宝店，看到昂贵的项链被放置在玻璃柜中，灯光照耀下显得格外耀眼。",
+          "chineseIdea": "你想描述这些珠宝被小心地放在一个特殊的柜子里展示，突出它们的精美。",
+          "sentenceWithBlank": "The necklaces are showcased in a @ @ in the jewelry store.",
+          "fullEnglishSentence": "The necklaces are showcased in a 「display case」 in the jewelry store.",
+          "chineseTranslation": "这些项链在珠宝店的「展示柜」里被展示。",
+          "chinglishFix": "典型中式英语：'The necklaces are put in a glass box.' 纠正：'Put in a glass box' 缺乏展示的含义，'display case' 更能体现专门用于陈列的柜子。"
+        }
+      ]
+    },
+    {
+      "meaning": "表现出某种情感、态度或品质",
+      "usage": "指通过行为、语言或表情展现某种内在特质或情感，常用于描述人的表现，如勇气、愤怒、友好等。",
+      "collocations": ["display of emotion", "display courage", "display confidence", "display affection"],
+      "examples": [
+        {
+          "scene": "在一个团队会议中，你的同事在面对批评时显得非常镇定，赢得了大家的尊重。",
+          "chineseIdea": "你想表达你的同事在压力下展现出了自信，强调他的从容态度。",
+          "sentenceWithBlank": "She @ @ during the meeting, impressing everyone.",
+          "fullEnglishSentence": "She 「displayed confidence」 during the meeting, impressing everyone.",
+          "chineseTranslation": "她在会议中「展现了自信」，给每个人留下了深刻印象。",
+          "chinglishFix": "典型中式英语：'She showed her confidence.' 纠正：'Showed' 虽然可行，但 'displayed confidence' 是更自然的搭配，强调通过行为表现出来。"
+        },
+        {
+          "scene": "你看到一个孩子在公园里跑向他的妈妈，紧紧抱住她，表达出浓浓的爱意。",
+          "chineseIdea": "你想描述这个孩子通过拥抱表现出对妈妈的深厚感情。",
+          "sentenceWithBlank": "The child @ @ by hugging his mother tightly.",
+          "fullEnglishSentence": "The child 「displayed affection」 by hugging his mother tightly.",
+          "chineseTranslation": "这个孩子通过紧紧拥抱妈妈「表达了爱意」。",
+          "chinglishFix": "典型中式英语：'The child showed his love.' 纠正：'Showed his love' 较为笼统，'displayed affection' 更精准地描述通过动作表达情感。"
+        }
+      ]
+    },
+    {
+      "meaning": "在电子设备上显示信息",
+      "usage": "指屏幕或设备上呈现文字、图像或数据，常用于描述手机、电脑、电视等电子产品的功能。",
+      "collocations": ["display screen", "display data", "display message", "touch display"],
+      "examples": [
+        {
+          "scene": "你正在用手机查看天气预报，屏幕上清晰地显示了未来一周的温度和降雨情况。",
+          "chineseIdea": "你想表达手机屏幕上呈现了天气信息，强调信息的可视化。",
+          "sentenceWithBlank": "The phone’s @ @ shows the weather forecast for the week.",
+          "fullEnglishSentence": "The phone’s 「display screen」 shows the weather forecast for the week.",
+          "chineseTranslation": "手机的「显示屏幕」显示了本周的天气预报。",
+          "chinglishFix": "典型中式英语：'The phone screen shows weather.' 纠正：'Phone screen' 缺少具体性，'display screen' 是更专业的术语，特指用于显示的屏幕。"
+        },
+        {
+          "scene": "你在一个会议中用笔记本电脑向同事展示数据，屏幕上出现了详细的图表。",
+          "chineseIdea": "你想描述电脑屏幕上呈现了数据，突出数据的可视化效果。",
+          "sentenceWithBlank": "The laptop @ @ in a clear chart format.",
+          "fullEnglishSentence": "The laptop 「displays data」 in a clear chart format.",
+          "chineseTranslation": "笔记本电脑以清晰的图表格式「显示数据」。",
+          "chinglishFix": "典型中式英语：'The laptop shows data.' 纠正：'Shows data' 虽可接受，但 'displays data' 是更常见的搭配，强调电子设备呈现信息的功能。"
+        }
+      ]
+    }
+  ]
+}
+```
