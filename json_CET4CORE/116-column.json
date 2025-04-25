@@ -1,0 +1,76 @@
+```json
+{
+  "word": "column",
+  "definitions": [
+    {
+      "meaning": "报纸或杂志中的专栏",
+      "usage": "指定期在报纸或杂志上刊登的文章，通常由特定作者撰写，主题固定，如评论、建议或个人观点。",
+      "collocations": ["write a column", "read a column", "weekly column", "opinion column"],
+      "examples": [
+        {
+          "scene": "一位读者每天早晨在咖啡店阅读报纸，特别关注某位专栏作家的政治评论。",
+          "chineseIdea": "读者想了解作者对近期政治事件的看法，期待犀利的分析。",
+          "sentenceWithBlank": "Every morning, she @ @ @ to stay updated on political insights.",
+          "fullEnglishSentence": "Every morning, she 「reads a column」 to stay updated on political insights.",
+          "chineseTranslation": "每天早上，她「阅读专栏」以保持对政治见解的更新。",
+          "chinglishFix": "典型中式英语：She looks at a column every day. 纠正：She reads a column every day.（‘look at’更偏向于视觉上的观看，而‘read’强调阅读内容。）"
+        },
+        {
+          "scene": "一位记者被报社邀请为每周的科技版块撰写文章，分享行业趋势。",
+          "chineseIdea": "记者希望通过文章展示自己的专业知识，吸引读者关注。",
+          "sentenceWithBlank": "He was thrilled to @ @ @ for the newspaper’s tech section.",
+          "fullEnglishSentence": "He was thrilled to 「write a column」 for the newspaper’s tech section.",
+          "chineseTranslation": "他很兴奋能为报纸的科技版块「撰写专栏」。",
+          "chinglishFix": "典型中式英语：He writes a column article. 纠正：He writes a column.（‘column’本身已包含文章的意思，‘article’多余。）"
+        }
+      ]
+    },
+    {
+      "meaning": "建筑中的柱子",
+      "usage": "指建筑物中垂直的支撑结构，通常具有装饰性或功能性，如古典建筑中的圆柱。",
+      "collocations": ["marble column", "supporting column", "ornamental column", "erect a column"],
+      "examples": [
+        {
+          "scene": "一位游客在参观希腊神庙时，被巨大的石柱震撼。",
+          "chineseIdea": "游客惊叹于柱子的宏伟和历史感，想象古代工匠的技艺。",
+          "sentenceWithBlank": "The temple’s @ @ impressed every visitor with its grandeur.",
+          "fullEnglishSentence": "The temple’s 「marble column」 impressed every visitor with its grandeur.",
+          "chineseTranslation": "神庙的「大理石柱」以其宏伟气势震撼了每位游客。",
+          "chinglishFix": "典型中式英语：The temple has a stone pillar. 纠正：The temple has a marble column.（‘pillar’更通用，‘marble column’更具体且符合古典建筑语境。）"
+        },
+        {
+          "scene": "建筑工人在博物馆翻新项目中安装新的支撑结构。",
+          "chineseIdea": "工人需要确保柱子既稳固又与建筑风格一致。",
+          "sentenceWithBlank": "They worked tirelessly to @ @ @ in the renovated hall.",
+          "fullEnglishSentence": "They worked tirelessly to 「erect a column」 in the renovated hall.",
+          "chineseTranslation": "他们不懈努力在翻新大厅中「竖立柱子」。",
+          "chinglishFix": "典型中式英语：They build a column. 纠正：They erect a column.（‘build’过于笼统，‘erect’更精确地描述柱子的安装。）"
+        }
+      ]
+    },
+    {
+      "meaning": "表格或列表中的列",
+      "usage": "指表格、数据库或电子表格中垂直排列的数据单元，如Excel中的列。",
+      "collocations": ["fill a column", "add a column", "sort a column", "data column"],
+      "examples": [
+        {
+          "scene": "一位会计师在Excel中整理公司的财务数据，按日期分类。",
+          "chineseIdea": "会计师需要清晰地展示每月的支出，便于分析。",
+          "sentenceWithBlank": "She decided to @ @ @ to track monthly expenses separately.",
+          "fullEnglishSentence": "She decided to 「add a column」 to track monthly expenses separately.",
+          "chineseTranslation": "她决定「添加一列」以单独跟踪每月的支出。",
+          "chinglishFix": "典型中式英语：She increases a column. 纠正：She adds a column.（‘increase’指数量增加，‘add’更适合描述新增列。）"
+        },
+        {
+          "scene": "一位学生在准备实验报告时，将数据按类别整理在表格中。",
+          "chineseIdea": "学生希望通过整理数据快速比较实验结果。",
+          "sentenceWithBlank": "He carefully @ @ @ with the experiment’s results.",
+          "fullEnglishSentence": "He carefully 「filled a column」 with the experiment’s results.",
+          "chineseTranslation": "他小心地用实验结果「填充一列」。",
+          "chinglishFix": "典型中式英语：He writes a column with data. 纠正：He fills a column with data.（‘write’不适合描述表格数据输入，‘fill’更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```

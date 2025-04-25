@@ -1,0 +1,53 @@
+```json
+{
+  "word": "convenient",
+  "definitions": [
+    {
+      "meaning": "方便的，便利的（指事物或行为节省时间、精力或麻烦）",
+      "usage": "常用于描述某事物或安排对某人来说省时省力，强调实用性和易用性。通常作形容词，修饰地点、时间、工具或服务。",
+      "collocations": ["convenient location", "convenient time", "convenient way"],
+      "examples": [
+        {
+          "scene": "你刚搬到一个新城市，找到了一家离公司只有十分钟步行距离的咖啡店。这家咖啡店让你每天上班前可以轻松买到咖啡。",
+          "chineseIdea": "我想表达这家咖啡店的位置很好，离公司近，买咖啡很省时间。",
+          "sentenceWithBlank": "The coffee shop’s @ @ makes it easy for me to grab a coffee before work.",
+          "fullEnglishSentence": "The coffee shop’s 「convenient location」 makes it easy for me to grab a coffee before work.",
+          "chineseTranslation": "这家咖啡店「位置便利」，让我上班前可以轻松买到咖啡。",
+          "chinglishFix": "典型中式英语：'The coffee shop is very near, so it’s convenient.' 纠正：'The coffee shop’s convenient location makes it perfect for a quick stop.' 说明：中式英语常直接用'near'或'convenient'，缺乏具体搭配，显得不自然。使用'convenient location'更符合英语表达习惯。"
+        },
+        {
+          "scene": "你的朋友想和你见面，但你们都很忙。你提议在周六下午见面，因为那天你没有其他安排，时间上比较合适。",
+          "chineseIdea": "我想说周六下午对我来说是合适的时间，因为我那天有空。",
+          "sentenceWithBlank": "Let’s meet on Saturday afternoon; it’s a @ @ for me.",
+          "fullEnglishSentence": "Let’s meet on Saturday afternoon; it’s a 「convenient time」 for me.",
+          "chineseTranslation": "我们周六下午见面吧，那对我来说是「方便的时间」。",
+          "chinglishFix": "典型中式英语：'Saturday afternoon is convenient to me.' 纠正：'Saturday afternoon is a convenient time for me.' 说明：中式英语常误用介词'to'，而英语中常用'for'搭配'convenient time'，更自然且符合语法。"
+        }
+      ]
+    },
+    {
+      "meaning": "合适的，便于使用的（指工具、设备或方法易于操作或适合特定目的）",
+      "usage": "描述某物设计或功能上便于使用，常用于工具、设备或方法，强调其用户友好性。通常作形容词，修饰具体物体或抽象方法。",
+      "collocations": ["convenient tool", "convenient method", "convenient feature"],
+      "examples": [
+        {
+          "scene": "你最近买了一款新的手机应用，可以快速记录每天的开销。这个应用界面简单，操作直观，让你觉得记账变得很容易。",
+          "chineseIdea": "我想表达这个应用是一个很好用的工具，因为它让记账变得简单。",
+          "sentenceWithBlank": "This budgeting app is a @ @ for tracking my expenses.",
+          "fullEnglishSentence": "This budgeting app is a 「convenient tool」 for tracking my expenses.",
+          "chineseTranslation": "这个预算应用是「方便的工具」，可以用来跟踪我的开支。",
+          "chinglishFix": "典型中式英语：'This app is very convenient to use.' 纠正：'This app is a convenient tool for managing expenses.' 说明：中式英语常泛泛地用'convenient'，而英语中更倾向于具体描述其功能，如'convenient tool'，更精确且地道。"
+        },
+        {
+          "scene": "你在网上购物时，发现网站提供了一种新的支付方式，可以直接用手机扫码完成支付，不需要输入银行卡信息，感觉非常省事。",
+          "chineseIdea": "我想说这种支付方式很方便，因为它简单快捷。",
+          "sentenceWithBlank": "The new QR code payment is a @ @ for online shopping.",
+          "fullEnglishSentence": "The new QR code payment is a 「convenient method」 for online shopping.",
+          "chineseTranslation": "新的二维码支付是「方便的方法」，适合网上购物。",
+          "chinglishFix": "典型中式英语：'This payment is very convenient.' 纠正：'This QR code payment is a convenient method for shopping online.' 说明：中式英语常缺少具体名词搭配，显得笼统。使用'convenient method'更清晰地表达用途。"
+        }
+      ]
+    }
+  ]
+}
+```

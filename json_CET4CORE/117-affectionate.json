@@ -1,0 +1,53 @@
+```json
+{
+  "word": "affectionate",
+  "definitions": [
+    {
+      "meaning": "表达爱或喜欢的感情，温柔亲切的",
+      "usage": "形容一个人或行为表现出温暖、关爱或亲密的情感，通常用于描述对人或动物的态度或行为。",
+      "collocations": ["affectionate gesture", "affectionate nickname", "affectionate hug"],
+      "examples": [
+        {
+          "scene": "在一个温馨的家庭聚会上，母亲在厨房忙碌后，微笑着走向孩子，轻轻地抚摸孩子的头发，表达她的爱。",
+          "chineseIdea": "母亲通过温柔的动作表达对孩子的深厚爱意，营造一种亲密和温暖的氛围。",
+          "sentenceWithBlank": "The mother gave her child an @ @ to show her love.",
+          "fullEnglishSentence": "The mother gave her child an 「affectionate gesture」 to show her love.",
+          "chineseTranslation": "母亲给了孩子一个「温柔的举动」以表达她的爱。",
+          "chinglishFix": "典型中式英语：'The mother did a love action to her child.' 纠正：'The mother showed her love with an affectionate gesture.'（避免直接翻译‘爱的动作’，使用更自然的表达）"
+        },
+        {
+          "scene": "在学校操场上，两个好朋友久别重逢，其中一个开玩笑地叫对方一个亲昵的绰号，引得双方都笑了。",
+          "chineseIdea": "朋友之间用亲昵的称呼来拉近距离，表达友情和熟悉感。",
+          "sentenceWithBlank": "He greeted his friend with an @ @ that made them both laugh.",
+          "fullEnglishSentence": "He greeted his friend with an 「affectionate nickname」 that made them both laugh.",
+          "chineseTranslation": "他用一个「亲昵的绰号」招呼朋友，让两人都笑了。",
+          "chinglishFix": "典型中式英语：'He called his friend a lovely name.' 纠正：'He used an affectionate nickname for his friend.'（避免‘可爱名字’的直译，使用更贴切的搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "充满深情的，带有爱意的",
+      "usage": "用于描述语言、信件或表达方式中充满爱或深情的特质，常用于书信或亲密交流。",
+      "collocations": ["affectionate letter", "affectionate tone", "affectionate words"],
+      "examples": [
+        {
+          "scene": "一个年轻人在国外留学，写信给远方的恋人，信中充满温馨的回忆和对未来的期待，字里行间流露深情。",
+          "chineseIdea": "通过书信表达对恋人的思念和爱意，用词温柔且充满感情。",
+          "sentenceWithBlank": "She wrote an @ @ to her partner, filled with longing.",
+          "fullEnglishSentence": "She wrote an 「affectionate letter」 to her partner, filled with longing.",
+          "chineseTranslation": "她给伴侣写了一封「充满深情的信」，满是思念。",
+          "chinglishFix": "典型中式英语：'She wrote a love letter to her partner.' 纠正：'She wrote an affectionate letter to her partner.'（‘love letter’过于直接且语义狭窄，‘affectionate letter’更自然且适用范围广）"
+        },
+        {
+          "scene": "在一个安静的咖啡馆里，两个老朋友聊天，其中一人用温暖的语调回忆他们共同的童年时光。",
+          "chineseIdea": "通过温柔的语调表达对友谊的珍惜和对过去的怀念。",
+          "sentenceWithBlank": "She spoke in an @ @ about their childhood memories.",
+          "fullEnglishSentence": "She spoke in an 「affectionate tone」 about their childhood memories.",
+          "chineseTranslation": "她用「深情的语调」谈起她们的童年回忆。",
+          "chinglishFix": "典型中式英语：'She used a warm voice to talk about childhood.' 纠正：'She spoke in an affectionate tone about childhood.'（‘warm voice’不够精确，‘affectionate tone’更能体现情感色彩）"
+        }
+      ]
+    }
+  ]
+}
+```

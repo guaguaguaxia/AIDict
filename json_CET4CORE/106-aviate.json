@@ -1,0 +1,30 @@
+```json
+{
+  "word": "aviate",
+  "definitions": [
+    {
+      "meaning": "驾驶飞机或进行飞行",
+      "usage": "用作不及物动词，通常指操作飞机或进行飞行活动，主要用于航空领域，常见于描述飞行员的行为。",
+      "collocations": ["aviate safely", "aviate a plane", "aviate through turbulence"],
+      "examples": [
+        {
+          "scene": "一名飞行员在驾驶舱内准备起飞，检查仪表盘，调整飞行参数，机场塔台已经批准起飞。",
+          "chineseIdea": "飞行员需要小心地操作飞机，确保飞行过程平稳且安全，特别是在起飞和着陆时。",
+          "sentenceWithBlank": "The pilot was trained to @ @ during challenging weather conditions.",
+          "fullEnglishSentence": "The pilot was trained to 「aviate safely」 during challenging weather conditions.",
+          "chineseTranslation": "飞行员接受过训练，能够在恶劣天气条件下「安全飞行」。",
+          "chinglishFix": "典型中式英语：'He fly plane very safe.' 纠正：'He aviates safely.' 说明：中式英语常忽略专业术语'aviate'，用'fly'替代，且结构不地道。"
+        },
+        {
+          "scene": "一名飞行学员在模拟器中练习如何应对气流颠簸，教练在一旁指导。",
+          "chineseIdea": "学员需要学会在复杂环境中控制飞机，保持稳定，确保乘客舒适。",
+          "sentenceWithBlank": "She learned to @ @ @ skillfully to maintain control.",
+          "fullEnglishSentence": "She learned to 「aviate through turbulence」 skillfully to maintain control.",
+          "chineseTranslation": "她学会了「在颠簸中飞行」以熟练地保持控制。",
+          "chinglishFix": "典型中式英语：'She fly in bumpy air.' 纠正：'She aviates through turbulence.' 说明：中式英语常用'fly'而非'aviate'，且搭配不自然，缺少'turbulence'等专业词汇。"
+        }
+      ]
+    }
+  ]
+}
+```
