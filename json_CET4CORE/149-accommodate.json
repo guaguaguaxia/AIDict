@@ -1,0 +1,53 @@
+```json
+{
+  "word": "accommodate",
+  "definitions": [
+    {
+      "meaning": "提供住宿或空间",
+      "usage": "指为某人提供居住的地方或足够的空间，通常用于描述酒店、房屋或其他场所能够接纳的人数或物品。",
+      "collocations": ["accommodate guests", "accommodate needs", "accommodate a large group"],
+      "examples": [
+        {
+          "scene": "你正在一家酒店工作，客户询问你们是否能接待一个大型家庭聚会。客户提到他们有12个人，包括老人和小孩。",
+          "chineseIdea": "你想表达酒店有足够的空间和设施来满足这个大家庭的需求。",
+          "sentenceWithBlank": "Our hotel can easily @ @ for your family reunion.",
+          "fullEnglishSentence": "Our hotel can easily 「accommodate guests」 for your family reunion.",
+          "chineseTranslation": "我们的酒店可以轻松「接待客人」为您的家庭聚会提供服务。",
+          "chinglishFix": "典型中式英语：'Our hotel can receive 12 people.' 纠正：'Receive' 通常用于接收物品或信息，而非人。应使用 'accommodate' 表示提供空间或接待。"
+        },
+        {
+          "scene": "你是一个活动策划者，正在向客户介绍一个会议场地，客户担心场地是否能满足他们的特殊需求，比如无障碍设施。",
+          "chineseIdea": "你想说明场地可以满足客户的各种具体需求，包括特殊设备和空间安排。",
+          "sentenceWithBlank": "This venue is designed to @ @ for all participants.",
+          "fullEnglishSentence": "This venue is designed to 「accommodate needs」 for all participants.",
+          "chineseTranslation": "这个场地被设计来「满足需求」以服务所有参与者。",
+          "chinglishFix": "典型中式英语：'This place can satisfy your needs.' 纠正：'Satisfy' 更偏向于满足欲望或期望，而 'accommodate needs' 更具体指提供空间或条件来满足需求。"
+        }
+      ]
+    },
+    {
+      "meaning": "适应或调整",
+      "usage": "指调整自己的行为、计划或安排以适应他人的需求、情况或变化，通常带有妥协或灵活性的含义。",
+      "collocations": ["accommodate changes", "accommodate a schedule", "accommodate preferences"],
+      "examples": [
+        {
+          "scene": "你的团队正在制定一个项目时间表，但客户突然要求提前完成。你需要调整计划以适应新的时间要求。",
+          "chineseIdea": "你想表达团队愿意调整工作安排以适应客户的新要求。",
+          "sentenceWithBlank": "We can @ @ to meet the new deadline.",
+          "fullEnglishSentence": "We can 「accommodate changes」 to meet the new deadline.",
+          "chineseTranslation": "我们可以「适应变化」以满足新的截止日期。",
+          "chinglishFix": "典型中式英语：'We can change for the new deadline.' 纠正：'Change' 过于笼统，缺乏具体语境。'Accommodate changes' 更准确地表达调整以适应新情况。"
+        },
+        {
+          "scene": "你正在和朋友计划一次旅行，但其中一位朋友因为工作原因只能在特定日期出行。你需要调整行程以适应他的时间。",
+          "chineseIdea": "你想说明你愿意调整旅行计划以配合朋友的日程安排。",
+          "sentenceWithBlank": "I’m happy to @ @ for our trip.",
+          "fullEnglishSentence": "I’m happy to 「accommodate a schedule」 for our trip.",
+          "chineseTranslation": "我很乐意「调整日程」来安排我们的旅行。",
+          "chinglishFix": "典型中式英语：'I can follow his time.' 纠正：'Follow' 表达不自然，且不符合语境。'Accommodate a schedule' 更贴切地表示调整以适应他人时间。"
+        }
+      ]
+    }
+  ]
+}
+```

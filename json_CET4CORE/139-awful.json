@@ -1,0 +1,53 @@
+```json
+{
+  "word": "awful",
+  "definitions": [
+    {
+      "meaning": "非常不好的，糟糕的",
+      "usage": "形容某事物或情况令人不快、质量差或令人失望，常用于表达强烈的不满或负面感受。",
+      "collocations": ["feel awful", "look awful", "smell awful"],
+      "examples": [
+        {
+          "scene": "你和朋友约好一起去看电影，但到了电影院后发现电影内容非常无聊，情节老套，让你们感到非常失望。",
+          "chineseIdea": "你想表达这部电影让你感到非常不舒服，甚至有点后悔来看。",
+          "sentenceWithBlank": "After watching the movie, I @ @ about wasting my time.",
+          "fullEnglishSentence": "After watching the movie, I 「felt awful」 about wasting my time.",
+          "chineseTranslation": "看完这部电影后，我对浪费时间感到「非常糟糕」。",
+          "chinglishFix": "典型中式英语：'I feel very bad for wasting time.' 纠正：'I felt awful about wasting my time.'（'feel bad' 更常用于内疚或身体不适，而 'feel awful' 更适合表达对某事的不满或失望。）"
+        },
+        {
+          "scene": "你在家里的厨房发现冰箱里有一块放了太久的奶酪，已经开始发霉，闻起来非常难闻。",
+          "chineseIdea": "你想描述这个气味让你感到恶心，难以忍受。",
+          "sentenceWithBlank": "When I opened the fridge, the cheese @ @.",
+          "fullEnglishSentence": "When I opened the fridge,，任 the cheese 「smelt awful」.",
+          "chineseTranslation": "当我打开冰箱时，那块奶酪「闻起来很糟糕」。",
+          "chinglishFix": "典型中式英语：'The cheese smells very bad.' 纠正：'The cheese smelt awful.'（'smell bad' 虽然正确，但 'smell awful' 更强调强烈的负面感受，语气更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "极度的，严重的（用于强调数量或程度）",
+      "usage": "用作副词或形容词，强调某事物的数量、程度或严重性，通常带有负面含义，但语气比第一个意思稍弱。",
+      "collocations": ["an awful lot", "awful mess", "awful hurry"],
+      "examples": [
+        {
+          "scene": "你在准备一场重要的考试，但发现还有很多内容没有复习，时间非常紧张。",
+          "chineseIdea": "你想表达自己有大量的学习任务需要完成，感到压力很大。",
+          "sentenceWithBlank": "I have @ @ @ of studying to do before the exam.",
+          "fullEnglishSentence": "I have 「an awful lot」 of studying to do before the exam.",
+          "chineseTranslation": "我在考试前有「一大堆」学习任务要做。",
+          "chinglishFix": "典型中式英语：'I have very many studies to do.' 纠正：'I have an awful lot of studying to do.'（'very many' 不自然，'an awful lot' 是地道的英语表达，强调数量多。）"
+        },
+        {
+          "scene": "你不小心把咖啡洒在了桌子上，弄脏了一堆文件，桌面变得一片狼藉。",
+          "chineseIdea": "你想描述桌面现在非常混乱，情况很糟糕。",
+          "sentenceWithBlank": "Spilling coffee on the table created @ @.",
+          "fullEnglishSentence": "Spilling coffee on the table created 「an awful mess」.",
+          "chineseTranslation": "把咖啡洒在桌上造成「一片狼藉」。",
+          "chinglishFix": "典型中式英语：'The table is very messy.' 纠正：'Spilling coffee on the table created an awful mess.'（'very messy' 缺乏具体语境，'an awful mess' 更生动地描述混乱的程度。）"
+        }
+      ]
+    }
+  ]
+}
+```

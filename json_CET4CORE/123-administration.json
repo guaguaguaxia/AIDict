@@ -1,0 +1,76 @@
+```json
+{
+  "word": "administration",
+  "definitions": [
+    {
+      "meaning": "管理；行政",
+      "usage": "指一个组织、机构或政府的运营和管理，通常涉及规划、组织、协调和监督等活动。",
+      "collocations": ["public administration", "business administration", "effective administration"],
+      "examples": [
+        {
+          "scene": "在一个大型跨国公司中，管理层正在讨论如何优化公司的运营效率。他们需要一个系统来协调各个部门的工作。",
+          "chineseIdea": "通过制定清晰的政策和流程，确保公司各部门高效协作。",
+          "sentenceWithBlank": "The company hired a consultant to improve its @ @.",
+          "fullEnglishSentence": "The company hired a consultant to improve its 「business administration」.",
+          "chineseTranslation": "公司聘请了一位顾问来改进其「业务管理」。",
+          "chinglishFix": "典型中式英语：'The company find someone to make better company manage.' 纠正：'The company hired a consultant to improve its business administration.'"
+        },
+        {
+          "scene": "在市政府办公室中，官员们正在制定新的城市发展计划，涉及公共服务的分配和资源管理。",
+          "chineseIdea": "通过科学的政策制定，优化城市公共服务的效率。",
+          "sentenceWithBlank": "The mayor emphasized the importance of @ @ in urban planning.",
+          "fullEnglishSentence": "The mayor emphasized the importance of 「public administration」 in urban planning.",
+          "chineseTranslation": "市长强调了「公共管理」在城市规划中的重要性。",
+          "chinglishFix": "典型中式英语：'The mayor say public manage is very important.' 纠正：'The mayor emphasized the importance of public administration.'"
+        }
+      ]
+    },
+    {
+      "meaning": "政府；行政机构",
+      "usage": "指某个特定的政府或其执政期间，通常用来描述某个国家或地区的领导机构。",
+      "collocations": ["current administration", "previous administration", "new administration"],
+      "examples": [
+        {
+          "scene": "在一个国家的首都，记者们正在报道新当选的政府即将推出的经济改革政策。",
+          "chineseIdea": "新政府上台后，计划通过一系列改革来刺激经济增长。",
+          "sentenceWithBlank": "The @ @ has promised to reduce taxes within the first year.",
+          "fullEnglishSentence": "The 「new administration」 has promised to reduce taxes within the first year.",
+          "chineseTranslation": "「新政府」承诺在第一年内降低税收。",
+          "chinglishFix": "典型中式英语：'The new government say they will make tax less.' 纠正：'The new administration has promised to reduce taxes.'"
+        },
+        {
+          "scene": "在一次国际会议上，外交官们讨论了过去几年中某个国家的外交政策变化。",
+          "chineseIdea": "回顾前任政府的外交政策，分析其对国际关系的影响。",
+          "sentenceWithBlank": "The @ @ faced criticism for its foreign policy decisions.",
+          "fullEnglishSentence": "The 「previous administration」 faced criticism for its foreign policy decisions.",
+          "chineseTranslation": "「前政府」因其外交政策决定而受到批评。",
+          "chinglishFix": "典型中式英语：'The old government was blamed for foreign policy.' 纠正：'The previous administration faced criticism for its foreign policy decisions.'"
+        }
+      ]
+    },
+    {
+      "meaning": "执行；实施",
+      "usage": "指某项政策、法律、计划或程序的实际执行或管理。",
+      "collocations": ["administration of justice", "administration of medicine", "proper administration"],
+      "examples": [
+        {
+          "scene": "在一家医院中，护士正在严格按照医生的指示为患者用药，确保治疗效果。",
+          "chineseIdea": "通过精确的药物管理，保证患者的治疗过程安全有效。",
+          "sentenceWithBlank": "The nurse was trained in the @ @ @ to ensure patient safety.",
+          "fullEnglishSentence": "The nurse was trained in the 「administration of medicine」 to ensure patient safety.",
+          "chineseTranslation": "护士接受了「药物管理」的培训，以确保患者安全。",
+          "chinglishFix": "典型中式英语：'The nurse learn how to give medicine good.' 纠正：'The nurse was trained in the administration of medicine.'"
+        },
+        {
+          "scene": "在法院中，法官和律师们正在讨论如何确保法律程序的公平性。",
+          "chineseIdea": "通过公正的司法程序，维护法律的权威和公平。",
+          "sentenceWithBlank": "The country prides itself on the @ @ @.",
+          "fullEnglishSentence": "The country prides itself on the 「administration of justice」.",
+          "chineseTranslation": "该国以其「司法管理」而自豪。",
+          "chinglishFix": "典型中式英语：'The country is proud of its justice manage.' 纠正：'The country prides itself on the administration of justice.'"
+        }
+      ]
+    }
+  ]
+}
+```
