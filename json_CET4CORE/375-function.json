@@ -1,0 +1,76 @@
+```json
+{
+  "word": "function",
+  "definitions": [
+    {
+      "meaning": "功能或作用",
+      "usage": "指某事物或某人所具有的特定用途或职责，常用于描述机器、工具、系统或角色的预期用途。",
+      "collocations": ["perform a function", "serve a function", "key function"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，工程师正在讨论一款新开发的智能家居设备，重点是如何让设备更好地满足用户需求。",
+          "chineseIdea": "工程师希望强调设备能够完成某项特定任务，比如自动调节室内温度。",
+          "sentenceWithBlank": "This smart thermostat can @ @ @ by adjusting the room temperature based on user preferences.",
+          "fullEnglishSentence": "This smart thermostat can 「perform a function」 by adjusting the room temperature based on user preferences.",
+          "chineseTranslation": "这个智能恒温器可以通过根据用户偏好调整室内温度来「执行功能」。",
+          "chinglishFix": "典型中式英语：This thermostat can do a function. 纠正：This thermostat can perform a function.（‘do a function’不符合英语表达习惯，perform更自然。）"
+        },
+        {
+          "scene": "在学校会议上，校长讨论新安装的投影仪如何帮助提升课堂教学效果。",
+          "chineseIdea": "校长想说明投影仪在教学中的用途，比如展示多媒体内容。",
+          "sentenceWithBlank": "The new projector will @ @ @ by displaying interactive content for students.",
+          "fullEnglishSentence": "The new projector will 「serve a function」 by displaying interactive content for students.",
+          "chineseTranslation": "新投影仪将通过为学生展示互动内容来「发挥作用」。",
+          "chinglishFix": "典型中式英语：The projector has a function to show content. 纠正：The projector serves a function by showing content.（‘has a function to’不够地道，serve a function更符合英语表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "职能或职务",
+      "usage": "指某人在组织、团队或社会中的角色或职责，通常与工作或职位相关。",
+      "collocations": ["carry out a function", "fulfill a function", "essential function"],
+      "examples": [
+        {
+          "scene": "在一家医院，护士长向新入职的护士介绍他们的日常工作职责。",
+          "chineseIdea": "护士长想说明护士在医疗团队中的具体职责，比如照顾病人。",
+          "sentenceWithBlank": "As a nurse, you will @ @ @ by monitoring patients’ conditions daily.",
+          "fullEnglishSentence": "As a nurse, you will 「carry out a function」 by monitoring patients’ conditions daily.",
+          "chineseTranslation": "作为一名护士，你将通过每天监测病人的状况来「履行职责」。",
+          "chinglishFix": "典型中式英语：Nurses have the function to check patients. 纠正：Nurses carry out the function of checking patients.（‘have the function to’不地道，carry out更贴合职责的表达。）"
+        },
+        {
+          "scene": "在公司年会上，CEO向员工介绍新设立的市场部门及其重要性。",
+          "chineseIdea": "CEO想强调市场部门在公司发展中的关键角色，比如推广品牌。",
+          "sentenceWithBlank": "The marketing team will @ @ @ by promoting our brand globally.",
+          "fullEnglishSentence": "The marketing team will 「fulfill a function」 by promoting our brand globally.",
+          "chineseTranslation": "市场团队将通过全球推广我们的品牌来「完成职责」。",
+          "chinglishFix": "典型中式英语：The marketing team functions to promote the brand. 纠正：The marketing team fulfills a function by promoting the brand.（‘functions to’不自然，fulfill a function更准确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "函数（数学或编程）",
+      "usage": "在数学或计算机编程中，指一个定义了输入与输出关系的公式或代码块。",
+      "collocations": ["define a function", "call a function", "write a function"],
+      "examples": [
+        {
+          "scene": "在一堂编程课上，老师向学生讲解如何在Python中创建一个简单的计算程序。",
+          "chineseIdea": "老师想展示如何编写一个程序来计算两个数的和。",
+          "sentenceWithBlank": "Let’s @ @ @ that calculates the sum of two numbers.",
+          "fullEnglishSentence": "Let’s 「define a function」 that calculates the sum of two numbers.",
+          "chineseTranslation": "让我们「定义一个函数」来计算两个数的和。",
+          "chinglishFix": "典型中式英语：We make a function to calculate the sum. 纠正：We define a function to calculate the sum.（‘make a function’不专业，define是编程领域的标准用词。）"
+        },
+        {
+          "scene": "在一个软件开发团队的会议中，程序员讨论如何优化代码的执行效率。",
+          "chineseIdea": "程序员想说明通过重复使用某段代码来简化程序。",
+          "sentenceWithBlank": "We can @ @ @ to reuse the same code multiple times.",
+          "fullEnglishSentence": "We can 「call a function」 to reuse the same code multiple times.",
+          "chineseTranslation": "我们可以通过「调用函数」来多次重用相同的代码。",
+          "chinglishFix": "典型中式英语：We use a function to run the code. 纠正：We call a function to run the code.（‘use a function’不够精确，call是编程中调用函数的标准术语。）"
+        }
+      ]
+    }
+  ]
+}
+```
