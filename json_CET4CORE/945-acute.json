@@ -1,0 +1,76 @@
+```json
+{
+  "word": "acute",
+  "definitions": [
+    {
+      "meaning": "尖锐的，剧烈的（描述感觉、疼痛、疾病等强烈或严重）",
+      "usage": "通常用于描述突然发生且严重的症状、疼痛或情况，常与疾病、疼痛、感官体验相关。",
+      "collocations": ["acute pain", "acute illness", "acute symptoms"],
+      "examples": [
+        {
+          "scene": "一个人在健身房锻炼时突然感到胸口剧痛，紧急前往医院检查。",
+          "chineseIdea": "想表达某人突然感受到非常强烈的疼痛，几乎无法忍受。",
+          "sentenceWithBlank": "He felt an @ @ in his chest during the workout and was rushed to the hospital.",
+          "fullEnglishSentence": "He felt an 「acute pain」 in his chest during the workout and was rushed to the hospital.",
+          "chineseTranslation": "他在锻炼时感到胸口「剧烈的疼痛」，被紧急送往医院。",
+          "chinglishFix": "典型中式英语：'He felt very pain in chest.' 纠正：'He felt acute pain in his chest.'（避免用'very pain'，使用'acute'更自然且准确。）"
+        },
+        {
+          "scene": "一位医生在急诊室检查一位突发高烧和咳嗽的病人。",
+          "chineseIdea": "想描述病人表现出突然出现的、严重的疾病症状。",
+          "sentenceWithBlank": "The patient was diagnosed with an @ @ due to high fever and severe coughing.",
+          "fullEnglishSentence": "The patient was diagnosed with an 「acute illness」 due to high fever and severe coughing.",
+          "chineseTranslation": "患者因高烧和严重咳嗽被诊断患有「急性疾病」。",
+          "chinglishFix": "典型中式英语：'The patient has a very serious sickness.' 纠正：'The patient has an acute illness.'（'very serious sickness'不够具体，'acute illness'更符合医学术语。）"
+        }
+      ]
+    },
+    {
+      "meaning": "敏锐的，尖锐的（描述观察力、洞察力或智力）",
+      "usage": "用于描述某人对细节的观察力或理解力非常强，常用于形容思维、感官或分析能力。",
+      "collocations": ["acute observation", "acute sense", "acute mind"],
+      "examples": [
+        {
+          "scene": "一位侦探在犯罪现场仔细检查线索，发现其他人忽略的细节。",
+          "chineseIdea": "想表达侦探对细节的观察非常敏锐，能发现细微的线索。",
+          "sentenceWithBlank": "Her @ @ allowed her to notice a tiny scratch on the door that others missed.",
+          "fullEnglishSentence": "Her 「acute observation」 allowed her to notice a tiny scratch on the door that others missed.",
+          "chineseTranslation": "她的「敏锐观察」让她注意到门上一个其他人忽略的细小划痕。",
+          "chinglishFix": "典型中式英语：'She has very sharp eyes.' 纠正：'She has acute observation.'（'sharp eyes'过于直译，'acute observation'更能体现分析能力。）"
+        },
+        {
+          "scene": "一位老师在课堂上注意到一个学生对数学问题有独特的理解方式。",
+          "chineseIdea": "想表达学生在解决问题时展现出敏锐的思维能力。",
+          "sentenceWithBlank": "The student’s @ @ impressed the teacher with a creative solution to the problem.",
+          "fullEnglishSentence": "The student’s 「acute mind」 impressed the teacher with a creative solution to the problem.",
+          "chineseTranslation": "学生的「敏锐思维」以一个创造性的解决方案给老师留下了深刻印象。",
+          "chinglishFix": "典型中式英语：'The student is very clever.' 纠正：'The student has an acute mind.'（'very clever'过于笼统，'acute mind'更精准地描述思维敏锐。）"
+        }
+      ]
+    },
+    {
+      "meaning": "尖锐的，激烈的（描述问题、争论或局势的严重性）",
+      "usage": "用于描述问题、冲突或局势变得非常严重或紧急，常用于社会、经济或政治语境。",
+      "collocations": ["acute shortage", "acute crisis", "acute problem"],
+      "examples": [
+        {
+          "scene": "一个城市因干旱导致水资源极度匮乏，政府需要紧急应对。",
+          "chineseIdea": "想表达水资源短缺的问题非常严重，急需解决。",
+          "sentenceWithBlank": "The city faced an @ @ of water due to the prolonged drought.",
+          "fullEnglishSentence": "The city faced an 「acute shortage」 of water due to the prolonged drought.",
+          "chineseTranslation": "由于长期干旱，该市面临「严重的短缺」水资源。",
+          "chinglishFix": "典型中式英语：'The city has very less water.' 纠正：'The city faces an acute shortage of water.'（'very less'语法错误，'acute shortage'更准确。）"
+        },
+        {
+          "scene": "一家公司因供应链中断而面临生产停滞的紧急情况。",
+          "chineseIdea": "想表达公司遇到一个非常严重且需要立即解决的问题。",
+          "sentenceWithBlank": "The company was dealing with an @ @ caused by supply chain disruptions.",
+          "fullEnglishSentence": "The company was dealing with an 「acute crisis」 caused by supply chain disruptions.",
+          "chineseTranslation": "公司正在应对因供应链中断引起的「严重危机」。",
+          "chinglishFix": "典型中式英语：'The company has a very big trouble.' 纠正：'The company is facing an acute crisis.'（'very big trouble'不够正式，'acute crisis'更恰当。）"
+        }
+      ]
+    }
+  ]
+}
+```

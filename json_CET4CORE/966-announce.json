@@ -1,0 +1,53 @@
+```json
+{
+  "word": "announce",
+  "definitions": [
+    {
+      "meaning": "正式或公开地声明某事",
+      "usage": "指通过口头或书面形式向公众或特定群体传达重要信息，通常用于正式场合，如新闻发布会、官方声明或重大事件通知。",
+      "collocations": ["make an announcement", "announce a decision", "publicly announce"],
+      "examples": [
+        {
+          "scene": "公司内部会议上，CEO向员工宣布一项重大战略调整。",
+          "chineseIdea": "CEO希望通过正式声明让全体员工了解公司未来的发展方向，并激励大家共同努力。",
+          "sentenceWithBlank": "The CEO will @ @ @ about the company's new direction tomorrow.",
+          "fullEnglishSentence": "The CEO will 「make an announcement」 about the company's new direction tomorrow.",
+          "chineseTranslation": "CEO明天将「发表声明」关于公司的新方向。",
+          "chinglishFix": "典型中式英语：The CEO will say a big news tomorrow. 纠正：The CEO will make an announcement tomorrow."
+        },
+        {
+          "scene": "新闻发布会上，政府官员向媒体公布一项新政策。",
+          "chineseIdea": "官员希望通过公开声明让公众了解新政策的细节，并确保信息透明。",
+          "sentenceWithBlank": "The official will @ @ @ to clarify the new policy's impact.",
+          "fullEnglishSentence": "The official will 「publicly announce」 to clarify the new policy's impact.",
+          "chineseTranslation": "官员将「公开宣布」以澄清新政策的影响。",
+          "chinglishFix": "典型中式英语：The official will tell the policy to public. 纠正：The official will publicly announce the policy."
+        }
+      ]
+    },
+    {
+      "meaning": "通知或宣布某人的到来或某事件的发生",
+      "usage": "常用于描述某人进入某个场合或某事件开始的正式通知，带有一种礼节性或仪式感，常出现在正式场合或服务行业。",
+      "collocations": ["announce the arrival", "announce the winner", "announce the start"],
+      "examples": [
+        {
+          "scene": "在豪华酒店的大堂，服务员向客人通报一位重要访客的到来。",
+          "chineseIdea": "服务员通过礼貌的通知让其他员工或客人知道重要人物已经到达，体现专业服务。",
+          "sentenceWithBlank": "The concierge will @ @ @ of the VIP guest to the staff.",
+          "fullEnglishSentence": "The concierge will 「announce the arrival」 of the VIP guest to the staff.",
+          "chineseTranslation": "礼宾员将「宣布到达」贵宾的情况给员工。",
+          "chinglishFix": "典型中式英语：The concierge will tell VIP is here. 纠正：The concierge will announce the arrival of the VIP."
+        },
+        {
+          "scene": "在颁奖典礼上，主持人宣布获奖者的名字。",
+          "chineseIdea": "主持人通过正式宣布获奖者来营造激动人心的氛围，并让观众知晓结果。",
+          "sentenceWithBlank": "The host is about to @ @ @ of this year's competition.",
+          "fullEnglishSentence": "The host is about to 「announce the winner」 of this year's competition.",
+          "chineseTranslation": "主持人即将「宣布获胜者」今年的比赛。",
+          "chinglishFix": "典型中式英语：The host will say who wins. 纠正：The host will announce the winner."
+        }
+      ]
+    }
+  ]
+}
+```

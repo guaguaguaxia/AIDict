@@ -1,0 +1,53 @@
+```json
+{
+  "word": "attribute",
+  "definitions": [
+    {
+      "meaning": "品质、特性或特征",
+      "usage": "作为名词，指一个人、事物或现象所具有的特定品质或特征，通常用来描述内在或外在的属性。",
+      "collocations": ["personal attribute", "key attribute", "physical attribute"],
+      "examples": [
+        {
+          "scene": "在一次职场面试中，面试官询问应聘者的优势和特质，以判断其是否适合某个职位。",
+          "chineseIdea": "我想表达一个人有哪些独特的品质可以帮助他在工作中脱颖而出。",
+          "sentenceWithBlank": "The candidate highlighted his @ @ as a reason for his success.",
+          "fullEnglishSentence": "The candidate highlighted his 「personal attribute」 as a reason for his success.",
+          "chineseTranslation": "这位候选人强调了他的「个人特质」作为他成功的原因。",
+          "chinglishFix": "中式英语：He said his personal quality very good. 纠正：He highlighted his personal attribute as a strength."
+        },
+        {
+          "scene": "在描述一款新产品时，销售人员向客户介绍其主要特点，以吸引他们的兴趣。",
+          "chineseIdea": "我想说明这款产品的关键特点让它在市场上更有竞争力。",
+          "sentenceWithBlank": "This product stands out due to its @ @.",
+          "fullEnglishSentence": "This product stands out due to its 「key attribute」.",
+          "chineseTranslation": "这款产品因其「关键特性」而脱颖而出。",
+          "chinglishFix": "中式英语：This product has good key point. 纠正：This product stands out due to its key attribute."
+        }
+      ]
+    },
+    {
+      "meaning": "归因于、认为是……的原因",
+      "usage": "作为动词，表示将某事物（通常是结果或特征）归因于某个原因或来源，常与介词 'to' 搭配使用。",
+      "collocations": ["attribute to", "attribute success", "attribute failure"],
+      "examples": [
+        {
+          "scene": "在一次团队会议中，经理表扬员工的表现，并将项目的成功归功于他们的努力。",
+          "chineseIdea": "我想表达项目的成功是因为团队的辛勤工作。",
+          "sentenceWithBlank": "The manager @ @ the project’s success the team’s hard work.",
+          "fullEnglishSentence": "The manager 「attributed to」 the project’s success the team’s hard work.",
+          "chineseTranslation": "经理将项目的成功「归因于」团队的辛勤工作。",
+          "chinglishFix": "中式英语：The manager said project success because team work hard. 纠正：The manager attributed the project’s success to the team’s hard work."
+        },
+        {
+          "scene": "在一次课堂讨论中，学生分析历史事件的原因，并将某次革命归因于社会不公。",
+          "chineseIdea": "我想说明革命的发生是因为社会不平等的问题。",
+          "sentenceWithBlank": "They @ @ the revolution social inequality.",
+          "fullEnglishSentence": "They 「attributed to」 the revolution social inequality.",
+          "chineseTranslation": "他们将革命「归因于」社会不平等。",
+          "chinglishFix": "中式英语：They think revolution because social not fair. 纠正：They attributed the revolution to social inequality."
+        }
+      ]
+    }
+  ]
+}
+```

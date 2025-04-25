@@ -1,0 +1,53 @@
+```json
+{
+  "word": "confront",
+  "definitions": [
+    {
+      "meaning": "面对或处理（困难、问题或挑战）",
+      "usage": "指勇敢或直接应对某种困境、问题或挑战，通常带有一定的心理或行动上的准备。",
+      "collocations": ["confront a problem", "confront an issue", "confront a challenge"],
+      "examples": [
+        {
+          "scene": "在一个团队会议中，项目进度落后，团队负责人需要解决这个问题以确保按时完成任务。",
+          "chineseIdea": "团队负责人意识到问题不能被忽视，必须采取行动来明确问题并找到解决方案。",
+          "sentenceWithBlank": "The team leader decided to @ @ @ head-on to ensure the project stayed on track.",
+          "fullEnglishSentence": "The team leader decided to 「confront a problem」 head-on to ensure the project stayed on track.",
+          "chineseTranslation": "团队负责人决定正面「面对问题」以确保项目按计划进行。",
+          "chinglishFix": "典型中式英语：'Face to the problem' 或 'Solve the problem directly.' 纠正：使用'confront a problem'来表达主动面对问题，而不是仅仅'face'或'solve'，因为'confront'强调勇敢应对。"
+        },
+        {
+          "scene": "在学校里，学生会主席发现校园活动中存在预算超支的问题，需要向成员说明并调整计划。",
+          "chineseIdea": "学生会主席需要直接讨论预算问题，避免问题进一步恶化。",
+          "sentenceWithBlank": "The student council president had to @ @ @ openly during the meeting.",
+          "fullEnglishSentence": "The student council president had to 「confront an issue」 openly during the meeting.",
+          "chineseTranslation": "学生会主席不得不在会议中公开「面对问题」。",
+          "chinglishFix": "典型中式英语：'Talk about the issue' 或 'Face the issue.' 纠正：'Confront an issue'更能体现主动且严肃地处理问题，而不仅仅是讨论或面对。"
+        }
+      ]
+    },
+    {
+      "meaning": "与某人当面对质（通常带有冲突或争议）",
+      "usage": "指直接与某人面对面交涉，通常涉及指责、质问或解决矛盾，常用于紧张或冲突的场景。",
+      "collocations": ["confront someone about", "confront a colleague", "confront a friend"],
+      "examples": [
+        {
+          "scene": "在公司里，小李发现同事小张一直在会议中抢功劳，决定私下与他谈谈。",
+          "chineseIdea": "小李希望通过直接对话解决这个问题，而不是让矛盾继续积累。",
+          "sentenceWithBlank": "Li decided to @ @ @ his behavior in private.",
+          "fullEnglishSentence": "Li decided to 「confront a colleague」 about his behavior in private.",
+          "chineseTranslation": "小李决定私下「与同事对质」他的行为。",
+          "chinglishFix": "典型中式英语：'Talk with a colleague about his problem.' 纠正：'Confront a colleague'更能表达面对面解决争议的语气，而不仅仅是普通交谈。"
+        },
+        {
+          "scene": "在家里，小明发现他的好朋友借了东西却没有归还，决定当面问清楚。",
+          "chineseIdea": "小明不想让这件事影响友谊，但觉得需要直接说出来以解决问题。",
+          "sentenceWithBlank": "Xiao Ming chose to @ @ @ borrowing his stuff without returning it.",
+          "fullEnglishSentence": "Xiao Ming chose to 「confront a friend」 about borrowing his stuff without returning it.",
+          "chineseTranslation": "小明选择「与朋友对质」关于借东西不还的事情。",
+          "chinglishFix": "典型中式英语：'Ask a friend about his borrowing.' 纠正：'Confront a friend'更能体现直接质问的语气，而不仅仅是询问。"
+        }
+      ]
+    }
+  ]
+}
+```
