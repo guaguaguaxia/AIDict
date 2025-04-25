@@ -1,0 +1,53 @@
+```json
+{
+  "word": "efficiently",
+  "definitions": [
+    {
+      "meaning": "以高效的方式完成任务，节省时间、精力或资源",
+      "usage": "用作副词，通常修饰表示动作或过程的动词，强调以最少浪费的方式达成目标，常用于描述工作、系统或方法的效率。",
+      "collocations": ["work efficiently", "use resources efficiently", "manage time efficiently"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的办公室里，小明是一名项目经理，他需要在短时间内完成多个任务，同时确保团队成员都能按时完成工作。",
+          "chineseIdea": "小明希望通过合理分配任务和减少不必要的会议来提高团队的工作效率。",
+          "sentenceWithBlank": "By prioritizing tasks and minimizing meetings, Xiaoming helps his team @ @.",
+          "fullEnglishSentence": "By prioritizing tasks and minimizing meetings, Xiaoming helps his team 「work efficiently」.",
+          "chineseTranslation": "通过优先安排任务和减少会议，小明帮助团队「高效工作」。",
+          "chinglishFix": "典型中式英语：'His team works very high efficiency.' 纠正：'His team works very efficiently.'（副词修饰动词，而非名词）"
+        },
+        {
+          "scene": "在一个环保组织中，志愿者们需要在一周内完成一个社区垃圾清理活动，但他们的物资和人力有限。",
+          "chineseIdea": "志愿者们通过制定详细的计划和分组合作来最大化利用有限的资源。",
+          "sentenceWithBlank": "With careful planning and teamwork, the volunteers @ @ @.",
+          "fullEnglishSentence": "With careful planning and teamwork, the volunteers 「use resources efficiently」.",
+          "chineseTranslation": "通过仔细计划和团队合作，志愿者们「高效利用资源」。",
+          "chinglishFix": "典型中式英语：'They use resources very saving.' 纠正：'They use resources very efficiently.'（用efficiently表示高效，而非不自然的saving）"
+        }
+      ]
+    },
+    {
+      "meaning": "以简洁有效的方式运行，通常指系统、机器或流程",
+      "usage": "用作副词，修饰描述系统、设备或流程运行的动词，强调其性能优越且无冗余，常用于技术或工业场景。",
+      "collocations": ["operate efficiently", "function efficiently", "process data efficiently"],
+      "examples": [
+        {
+          "scene": "在一个大型工厂中，新安装的自动化生产线需要快速生产产品，同时保持低能耗。",
+          "chineseIdea": "工厂负责人希望新设备能够以最小的能源消耗快速完成生产任务。",
+          "sentenceWithBlank": "The new automated assembly line @ @ with minimal energy consumption.",
+          "fullEnglishSentence": "The new automated assembly line 「operates efficiently」 with minimal energy consumption.",
+          "chineseTranslation": "新的自动化生产线在最小的能耗下「高效运行」。",
+          "chinglishFix": "典型中式英语：'The machine runs very efficiency.' 纠正：'The machine operates very efficiently.'（用副词efficiently修饰动词，且operate更适合机器运行）"
+        },
+        {
+          "scene": "在一所大学的数据中心，管理员需要确保服务器能够快速处理学生和教师的在线请求。",
+          "chineseIdea": "管理员通过优化软件和升级硬件来提升服务器处理数据的速度和稳定性。",
+          "sentenceWithBlank": "After software optimization, the servers @ @ @.",
+          "fullEnglishSentence": "After software optimization, the servers 「process data efficiently」.",
+          "chineseTranslation": "在软件优化后，服务器「高效处理数据」。",
+          "chinglishFix": "典型中式英语：'Servers process data very fastly.' 纠正：'Servers process data very efficiently.'（fastly不是正确的副词，efficiently更强调效率）"
+        }
+      ]
+    }
+  ]
+}
+```

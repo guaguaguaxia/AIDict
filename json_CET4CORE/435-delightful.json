@@ -1,0 +1,53 @@
+```json
+{
+  "word": "delightful",
+  "definitions": [
+    {
+      "meaning": "令人愉悦的；使人高兴的",
+      "usage": "形容某人、某事或某经历让人感到快乐、满足或享受，常用于描述积极的感受或体验。",
+      "collocations": ["a delightful experience", "a delightful surprise", "a delightful person"],
+      "examples": [
+        {
+          "scene": "你和朋友在周末去了一家新开的咖啡馆，店里的装饰温馨，服务员热情，咖啡味道也很棒。你想表达这次拜访让你感到非常愉悦。",
+          "chineseIdea": "这次咖啡馆的体验让人心情很好，整体氛围和细节都让人感到开心。",
+          "sentenceWithBlank": "Visiting the new café was truly @ @ @.",
+          "fullEnglishSentence": "Visiting the new café was truly 「a delightful experience」.",
+          "chineseTranslation": "参观这家新咖啡馆真是一次「令人愉悦的体验」。",
+          "chinglishFix": "典型中式英语：'This café is very happy.' 纠正：'This café offers a delightful experience.'（'happy'不适合描述场所或体验，'delightful experience'更自然。）"
+        },
+        {
+          "scene": "你在朋友的生日聚会上收到了一份精心准备的礼物，包装精美，内容也非常贴心，让你感到惊喜和快乐。",
+          "chineseIdea": "这份礼物出乎意料，细节用心，让人感到非常开心。",
+          "sentenceWithBlank": "The gift I received was such @ @ @!",
+          "fullEnglishSentence": "The gift I received was such 「a delightful surprise」!",
+          "chineseTranslation": "我收到的礼物真是一个「令人愉悦的惊喜」！",
+          "chinglishFix": "典型中式英语：'This gift makes me very surprise.' 纠正：'This gift was a delightful surprise.'（'surprise'需与'a'搭配，且'makes me very surprise'语法错误。）"
+        }
+      ]
+    },
+    {
+      "meaning": "迷人的；吸引人的",
+      "usage": "形容某事物（通常是视觉或感官上的）具有吸引力，让人感到愉悦，常用于描述景色、艺术品、表演等。",
+      "collocations": ["a delightful view", "a delightful performance", "a delightful aroma"],
+      "examples": [
+        {
+          "scene": "你在旅行时来到一座山顶，俯瞰山谷中的湖泊和远处的雪山，景色美得让人陶醉。",
+          "chineseIdea": "眼前的景色非常迷人，让人忍不住想多停留一刻。",
+          "sentenceWithBlank": "From the mountaintop, we enjoyed @ @ @ of the valley below.",
+          "fullEnglishSentence": "From the mountaintop, we enjoyed 「a delightful view」 of the valley below.",
+          "chineseTranslation": "从山顶上，我们欣赏到了下面山谷「迷人的景色」。",
+          "chinglishFix": "典型中式英语：'The scenery is very beautiful.' 纠正：'The view is absolutely delightful.'（'beautiful'过于笼统，'delightful view'更具体且符合语境。）"
+        },
+        {
+          "scene": "你参加了一场音乐会，表演者的技巧和情感表达非常出色，让你沉浸其中，觉得这场演出非常吸引人。",
+          "chineseIdea": "这场音乐会让人完全沉浸，表演精彩到让人不想结束。",
+          "sentenceWithBlank": "The musician gave @ @ @ that captivated everyone.",
+          "fullEnglishSentence": "The musician gave 「a delightful performance」 that captivated everyone.",
+          "chineseTranslation": "这位音乐家献上了一场「迷人的表演」，吸引了所有人。",
+          "chinglishFix": "典型中式英语：'The show is very good.' 纠正：'The performance was truly delightful.'（'good'过于简单，'delightful performance'更能表达欣赏之情。）"
+        }
+      ]
+    }
+  ]
+}
+```
