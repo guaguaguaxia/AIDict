@@ -1,0 +1,53 @@
+```json
+{
+  "word": "assignment",
+  "definitions": [
+    {
+      "meaning": "分配的任务或工作，尤指在学校或工作场所中被指派的具体职责",
+      "usage": "指由老师、上司或其他权威人士分配的具体任务，通常有明确的完成要求和截止日期。常见于学术场景（如家庭作业、项目）或职场（如工作任务）。",
+      "collocations": ["complete an assignment", "submit an assignment", "work on an assignment"],
+      "examples": [
+        {
+          "scene": "一名高中生在周末的卧室里，面对即将到来的数学考试，同时需要完成老师布置的一项家庭作业。桌子上堆满了课本和笔记本，学生感到时间紧迫。",
+          "chineseIdea": "学生需要全力以赴，在截止日期前完成老师布置的任务，以确保获得好成绩。",
+          "sentenceWithBlank": "She stayed up late to @ @ @ for her math class.",
+          "fullEnglishSentence": "She stayed up late to 「complete an assignment」 for her math class.",
+          "chineseTranslation": "她熬夜到很晚，以便「完成一项任务」给她的数学课。",
+          "chinglishFix": "典型中式英语：She stayed up late to finish a homework. 纠正：作业在英语中通常用 'assignment' 而非 'homework'，后者更常指小学生或初学者的简单练习。应说：She stayed up late to complete an assignment."
+        },
+        {
+          "scene": "一名大学生在图书馆里，笔记本电脑上打开了课程管理系统，准备将完成的研究论文上传到系统中，因为明天是截止日期。",
+          "chineseIdea": "学生需要在规定时间内将任务提交到系统，以避免迟交导致的扣分。",
+          "sentenceWithBlank": "He rushed to @ @ @ before the midnight deadline.",
+          "fullEnglishSentence": "He rushed to 「submit an assignment」 before the midnight deadline.",
+          "chineseTranslation": "他赶在午夜截止日期前「提交一项任务」。",
+          "chinglishFix": "典型中式英语：He hurried to hand in a task. 纠正：'hand in' 更常用于物理提交（如纸质作业），而在线提交通常用 'submit'。应说：He rushed to submit an assignment."
+        }
+      ]
+    },
+    {
+      "meaning": "分配或指派某人或某物到特定角色、位置或任务",
+      "usage": "指将人员、资源或职责分配到特定的岗位、任务或地点，常用于正式或组织化的场景，如工作分配、军事任务或项目管理。",
+      "collocations": ["make an assignment", "receive an assignment", "carry out an assignment"],
+      "examples": [
+        {
+          "scene": "一家跨国公司的经理在会议室里，向团队成员分配新项目的职责。每个人都被分配了具体的角色，比如数据分析或客户沟通。",
+          "chineseIdea": "经理需要明确每个人的职责，确保项目顺利推进。",
+          "sentenceWithBlank": "The manager @ @ @ of tasks to each team member.",
+          "fullEnglishSentence": "The manager 「made an assignment」 of tasks to each team member.",
+          "chineseTranslation": "经理为每个团队成员「分配了任务」。",
+          "chinglishFix": "典型中式英语：The manager gave a task assignment. 纠正：'gave' 显得不够正式，且 'task assignment' 重复。应说：The manager made an assignment of tasks."
+        },
+        {
+          "scene": "一名记者被派往国外报道一场国际峰会，编辑部为她安排了具体的采访任务和行程。",
+          "chineseIdea": "记者需要接受并执行编辑部分配的任务，确保报道顺利完成。",
+          "sentenceWithBlank": "She @ @ @ to cover the international summit.",
+          "fullEnglishSentence": "She 「received an assignment」 to cover the international summit.",
+          "chineseTranslation": "她「接受了一项任务」去报道国际峰会。",
+          "chinglishFix": "典型中式英语：She was given a job to report the summit. 纠正：'job' 过于宽泛，且不够正式；'assignment' 更准确表示特定任务。应说：She received an assignment to cover the summit."
+        }
+      ]
+    }
+  ]
+}
+```

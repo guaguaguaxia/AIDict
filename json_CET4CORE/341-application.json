@@ -1,0 +1,76 @@
+```json
+{
+  "word": "application",
+  "definitions": [
+    {
+      "meaning": "提交文件或请求以获得某物（如职位、许可等）",
+      "usage": "指正式提交书面或电子文件以申请某事物，通常用于求职、入学、签证等场景。常见动词搭配包括submit, send in, fill out等，名词搭配常与form, process, deadline相关。",
+      "collocations": ["submit an application", "job application", "application form"],
+      "examples": [
+        {
+          "scene": "小明在大学毕业后想申请一家科技公司的软件工程师职位。他在网上找到招聘信息，需要填写一份详细的表格并附上简历。",
+          "chineseIdea": "小明希望通过提交正式的求职文件来获得面试机会，他需要确保材料完整且按时提交。",
+          "sentenceWithBlank": "To apply for the job, Xiao Ming had to @ @ @ to the company’s HR department.",
+          "fullEnglishSentence": "To apply for the job, Xiao Ming had to 「submit an application」 to the company’s HR department.",
+          "chineseTranslation": "为了申请这份工作，小明需要向公司的人力资源部门「提交申请」。",
+          "chinglishFix": "中式英语：'Give an application to the company.' 纠正：'Submit an application to the company.'（'Give'在申请场景中不自然，需用'submit'表示正式提交。）"
+        },
+        {
+          "scene": "小红在准备申请国外大学的研究生项目。她需要在截止日期前完成一份包含个人陈述和推荐信的材料。",
+          "chineseIdea": "小红希望通过提交申请材料来获得入学机会，她需要突出自己的学术背景和研究兴趣。",
+          "sentenceWithBlank": "Xiaohong spent weeks preparing her @ @ for the graduate program.",
+          "fullEnglishSentence": "Xiaohong spent weeks preparing her 「application form」 for the graduate program.",
+          "chineseTranslation": "小红花了几周时间准备她申请研究生项目的「申请表」。",
+          "chinglishFix": "中式英语：'Write an application paper.' 纠正：'Fill out an application form.'（'Write'和'paper'不适用于描述填写申请表，需用'fill out'和'form'。）"
+        }
+      ]
+    },
+    {
+      "meaning": "应用软件或程序",
+      "usage": "指在电子设备上运行的软件或程序，如手机应用或电脑软件。常见动词搭配包括download, install, update等，名词搭配常与mobile, software, user相关。",
+      "collocations": ["mobile application", "software application", "download an application"],
+      "examples": [
+        {
+          "scene": "小刚最近迷上了学语言，想在手机上找一款可以随时练习英语听力的工具。他在应用商店找到了一款评价很高的软件。",
+          "chineseIdea": "小刚希望通过安装一个学习工具来提升英语听力，他需要一个方便且实用的程序。",
+          "sentenceWithBlank": "Xiaogang decided to @ @ @ to improve his English listening skills.",
+          "fullEnglishSentence": "Xiaogang decided to 「download an application」 to improve his English listening skills.",
+          "chineseTranslation": "小刚决定「下载一个应用」来提高他的英语听力技能。",
+          "chinglishFix": "中式英语：'Get a software.' 纠正：'Download an application.'（'Get'和'software'不够具体，需用'download'和'application'指手机应用。）"
+        },
+        {
+          "scene": "小丽在公司负责开发一款帮助用户管理日程的工具。她和团队正在测试新版本的功能。",
+          "chineseIdea": "小丽希望开发一款用户友好的程序，让用户能轻松管理时间，她需要确保软件运行顺畅。",
+          "sentenceWithBlank": "Xiaoli’s team was working on a new @ @ to help users organize their schedules.",
+          "fullEnglishSentence": "Xiaoli’s team was working on a new 「mobile application」 to help users organize their schedules.",
+          "chineseTranslation": "小丽的团队正在开发一款新的「移动应用」，帮助用户组织他们的日程。",
+          "chinglishFix": "中式英语：'Make a program.' 纠正：'Develop a mobile application.'（'Make'和'program'不够专业，需用'develop'和'mobile application'。）"
+        }
+      ]
+    },
+    {
+      "meaning": "应用或使用（知识、技能、规则等）",
+      "usage": "指将理论、知识或技能运用到具体情境中，通常用于学术、法律、技术等语境。常见动词搭配包括apply, use, implement等，名词搭配常与knowledge, theory, rule相关。",
+      "collocations": ["practical application", "apply knowledge", "application of rules"],
+      "examples": [
+        {
+          "scene": "小明在物理课上学了牛顿定律，老师要求学生设计一个实验来展示这些定律如何在现实生活中起作用。",
+          "chineseIdea": "小明希望通过实验将课堂上学的理论知识用到实际问题中，展示物理定律的实际效果。",
+          "sentenceWithBlank": "Xiao Ming designed an experiment to demonstrate the @ @ of Newton’s laws.",
+          "fullEnglishSentence": "Xiao Ming designed an experiment to demonstrate the 「practical application」 of Newton’s laws.",
+          "chineseTranslation": "小明设计了一个实验来展示牛顿定律的「实际应用」。",
+          "chinglishFix": "中式英语：'Use Newton’s law in real life.' 纠正：'Demonstrate the practical application of Newton’s laws.'（'Use'和'in real life'过于笼统，需用'practical application'更精确。）"
+        },
+        {
+          "scene": "小红在公司培训中学习了新的管理技巧，她希望在团队项目中试着使用这些方法来提高效率。",
+          "chineseIdea": "小红希望将培训中学到的管理技巧运用到实际工作中，以改善团队协作和项目进展。",
+          "sentenceWithBlank": "Xiaohong wanted to @ @ to improve her team’s project management.",
+          "fullEnglishSentence": "Xiaohong wanted to 「apply knowledge」 to improve her team’s project management.",
+          "chineseTranslation": "小红想「应用知识」来改进她团队的项目管理。",
+          "chinglishFix": "中式英语：'Use training in work.' 纠正：'Apply knowledge to work.'（'Use'和'training'不够具体，需用'apply'和'knowledge'。）"
+        }
+      ]
+    }
+  ]
+}
+```
