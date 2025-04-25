@@ -1,0 +1,53 @@
+```json
+{
+  "word": "imaginary",
+  "definitions": [
+    {
+      "meaning": "存在于想象中的，不真实的",
+      "usage": "形容某事物仅存在于人的想象或虚构中，不存在于现实世界，常用于描述虚构的角色、场景或概念。",
+      "collocations": ["imaginary friend", "imaginary world", "imaginary line"],
+      "examples": [
+        {
+          "scene": "一个六岁的小女孩在幼儿园里独自玩耍，她似乎在和一个看不见的人说话。老师好奇地问她在做什么，她笑着说她在和她的朋友聊天。",
+          "chineseIdea": "小女孩有一个幻想中的朋友，她会和这个朋友分享自己的想法和故事。",
+          "sentenceWithBlank": "She loves talking to her @ @, who always listens to her stories.",
+          "fullEnglishSentence": "She loves talking to her 「imaginary friend」, who always listens to her stories.",
+          "chineseTranslation": "她喜欢和她的「想象中的朋友」聊天，那个朋友总是倾听她的故事。",
+          "chinglishFix": "典型中式英语：She likes to talk with her 'imagine friend.' 纠正：应为 'imaginary friend'，'imaginary' 表示虚构的，'imagine' 是动词，需用形容词形式。"
+        },
+        {
+          "scene": "一个男孩在房间里用积木搭建了一个奇幻的城堡，他告诉妈妈这是他创造的一个魔法王国，有龙和骑士。",
+          "chineseIdea": "男孩幻想出了一个完整的魔法世界，里面有各种奇幻的元素。",
+          "sentenceWithBlank": "He spent hours building an @ @ with castles and dragons.",
+          "fullEnglishSentence": "He spent hours building an 「imaginary world」 with castles and dragons.",
+          "chineseTranslation": "他花了几个小时搭建一个「想象中的世界」，里面有城堡和龙。",
+          "chinglishFix": "典型中式英语：He built a 'fantasy world' in his mind. 纠正：'imaginary world' 更自然，'fantasy' 更偏向奇幻文学，而 'imaginary' 强调虚构。"
+        }
+      ]
+    },
+    {
+      "meaning": "数学中与虚数相关的",
+      "usage": "在数学领域，尤其是复数中，形容与虚数单位 i 相关的部分，通常用于技术性或学术性语境。",
+      "collocations": ["imaginary number", "imaginary part", "imaginary axis"],
+      "examples": [
+        {
+          "scene": "在一堂大学数学课上，教授正在讲解复数，强调复数由实部和虚部组成，学生们在笔记本上记录公式。",
+          "chineseIdea": "虚数是复数的一个组成部分，与实数不同，它基于虚数单位 i。",
+          "sentenceWithBlank": "The @ @ of a complex number is multiplied by the imaginary unit i.",
+          "fullEnglishSentence": "The 「imaginary part」 of a complex number is multiplied by the imaginary unit i.",
+          "chineseTranslation": "复数的「虚部」乘以虚数单位 i。",
+          "chinglishFix": "典型中式英语：The 'virtual part' of the number. 纠正：应为 'imaginary part'，'virtual' 表示虚拟的，与数学中的 'imaginary'（虚数）含义不同。"
+        },
+        {
+          "scene": "一个工程系的学生在研究信号处理时，需要使用复数来分析波形，他在电脑上绘制复平面。",
+          "chineseIdea": "复平面上的虚数轴帮助学生可视化信号的频率成分。",
+          "sentenceWithBlank": "The @ @ on the complex plane represents the imaginary component.",
+          "fullEnglishSentence": "The 「imaginary axis」 on the complex plane represents the imaginary component.",
+          "chineseTranslation": "复平面上的「虚数轴」表示虚数成分。",
+          "chinglishFix": "典型中式英语：The 'imaginary line' on the plane. 纠正：应为 'imaginary axis'，'axis' 是数学中轴的专用术语，'line' 过于笼统。"
+        }
+      ]
+    }
+  ]
+}
+```

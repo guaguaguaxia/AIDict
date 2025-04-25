@@ -1,0 +1,53 @@
+```json
+{
+  "word": "injure",
+  "definitions": [
+    {
+      "meaning": "造成身体上的伤害或损伤",
+      "usage": "指对人或动物的身体造成物理伤害，通常涉及疼痛或功能受损，常用于描述意外、运动或暴力事件中的伤害。",
+      "collocations": ["sustain an injury", "seriously injured", "accidentally injure"],
+      "examples": [
+        {
+          "scene": "小明在学校操场上踢足球时，不小心摔倒，膝盖擦伤并感到剧痛。他被送往医务室接受治疗。",
+          "chineseIdea": "描述一个人在运动中因意外摔倒而受伤的情况，强调伤害的发生和后果。",
+          "sentenceWithBlank": "He @ @ @ during a football match and had to visit the school nurse.",
+          "fullEnglishSentence": "He 「sustained an injury」 during a football match and had to visit the school nurse.",
+          "chineseTranslation": "他在足球比赛中「受了伤」，不得不去学校医务室。",
+          "chinglishFix": "典型中式英语：'He got hurt an injury.' 纠正：'He sustained an injury.'（'got hurt' 过于口语化且不准确，'injury' 不需要重复）"
+        },
+        {
+          "scene": "李华在健身房使用跑步机时，因为速度设置过快，脚踝扭伤，医生建议他休息两周。",
+          "chineseIdea": "描述在健身活动中因设备使用不当导致的伤害，突出医疗建议和恢复过程。",
+          "sentenceWithBlank": "She was @ @ after running too fast on the treadmill.",
+          "fullEnglishSentence": "She was 「seriously injured」 after running too fast on the treadmill.",
+          "chineseTranslation": "她在跑步机上跑得太快后「严重受伤」。",
+          "chinglishFix": "典型中式英语：'She hurt very serious.' 纠正：'She was seriously injured.'（'hurt' 搭配不自然，'very serious' 不符合英语表达习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "损害或伤害（非身体，如感情、名誉等）",
+      "usage": "指对抽象事物如感情、名誉、利益等的损害，通常用于描述言语、行为或事件对某人心理或社会地位的负面影响。",
+      "collocations": ["injure someone's feelings", "injure one's reputation", "deeply injure"],
+      "examples": [
+        {
+          "scene": "张伟在公司会议上被同事公开批评工作表现，感到非常难堪和受伤，回家后情绪低落。",
+          "chineseIdea": "描述因公开批评而导致的心理伤害，强调情感上的负面影响。",
+          "sentenceWithBlank": "Her harsh words @ @ @ during the meeting.",
+          "fullEnglishSentence": "Her harsh words 「injured his feelings」 during the meeting.",
+          "chineseTranslation": "她尖锐的话语在会议上「伤害了他的感情」。",
+          "chinglishFix": "典型中式英语：'Her words hurt his heart.' 纠正：'Her words injured his feelings.'（'hurt his heart' 过于直译，英语中常用 'feelings' 表示情感）"
+        },
+        {
+          "scene": "一家知名企业因产品质量问题被媒体曝光，导致公众信任下降，品牌形象受损。",
+          "chineseIdea": "描述因负面事件导致公司名誉受损的情况，突出社会影响。",
+          "sentenceWithBlank": "The scandal @ @ @ significantly.",
+          "fullEnglishSentence": "The scandal 「injured its reputation」 significantly.",
+          "chineseTranslation": "这场丑闻「损害了它的声誉」。",
+          "chinglishFix": "典型中式英语：'The scandal hurt its name.' 纠正：'The scandal injured its reputation.'（'hurt its name' 不地道，'reputation' 是更自然的表达）"
+        }
+      ]
+    }
+  ]
+}
+```
