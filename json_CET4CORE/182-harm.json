@@ -1,0 +1,53 @@
+```json
+{
+  "word": "harm",
+  "definitions": [
+    {
+      "meaning": "身体或物质上的伤害",
+      "usage": "指对人、动物或物体造成物理上的损害，通常涉及身体受伤或物质破坏。",
+      "collocations": ["cause harm", "do harm", "prevent harm"],
+      "examples": [
+        {
+          "scene": "在一次户外活动中，小明不小心被树枝划伤了手臂，朋友们担心他受伤严重。",
+          "chineseIdea": "朋友们希望确保小明的伤口不会引发更大的问题，比如感染。",
+          "sentenceWithBlank": "We need to clean the wound to @ @ to his health.",
+          "fullEnglishSentence": "We need to clean the wound to 「prevent harm」 to his health.",
+          "chineseTranslation": "我们需要清洗伤口以「防止伤害」他的健康。",
+          "chinglishFix": "典型中式英语：'We must clean the wound to avoid his health bad.' 纠正：'We need to clean the wound to prevent harm to his health.'"
+        },
+        {
+          "scene": "在化学实验室中，学生们被警告不要随意混合化学物质，以免引发危险。",
+          "chineseIdea": "老师强调错误的操作可能会导致爆炸或毒气泄漏。",
+          "sentenceWithBlank": "Mixing these chemicals incorrectly could @ @ to the lab equipment.",
+          "fullEnglishSentence": "Mixing these chemicals incorrectly could 「cause harm」 to the lab equipment.",
+          "chineseTranslation": "错误混合这些化学物质可能会「造成伤害」实验室设备。",
+          "chinglishFix": "典型中式英语：'Wrong mix chemicals will hurt the lab.' 纠正：'Mixing these chemicals incorrectly could cause harm to the lab equipment.'"
+        }
+      ]
+    },
+    {
+      "meaning": "情感或心理上的伤害",
+      "usage": "指对人的情感、心理或名誉造成非物理性的损害，通常与负面情绪或社会影响相关。",
+      "collocations": ["inflict harm", "avoid harm", "emotional harm"],
+      "examples": [
+        {
+          "scene": "在一场激烈的争吵中，小红对朋友说了很伤人的话，事后她感到非常后悔。",
+          "chineseIdea": "小红意识到自己的言辞可能会让朋友感到难过和自卑。",
+          "sentenceWithBlank": "Her harsh words could @ @ on her friend’s self-esteem.",
+          "fullEnglishSentence": "Her harsh words could 「inflict harm」 on her friend’s self-esteem.",
+          "chineseTranslation": "她尖刻的话语可能会「造成伤害」朋友的自尊心。",
+          "chinglishFix": "典型中式英语：'Her words will hurt friend’s heart.' 纠正：'Her harsh words could inflict harm on her friend’s self-esteem.'"
+        },
+        {
+          "scene": "在学校里，老师提醒学生不要传播谣言，因为这可能会毁坏同学的名誉。",
+          "chineseIdea": "老师希望学生们学会保护彼此，避免不必要的冲突和误解。",
+          "sentenceWithBlank": "Spreading rumors can @ @ to someone’s reputation.",
+          "fullEnglishSentence": "Spreading rumors can 「cause harm」 to someone’s reputation.",
+          "chineseTranslation": "散布谣言可能会「造成伤害」某个人的名誉。",
+          "chinglishFix": "典型中式英语：'Rumors will bad someone’s name.' 纠正：'Spreading rumors can cause harm to someone’s reputation.'"
+        }
+      ]
+    }
+  ]
+}
+```

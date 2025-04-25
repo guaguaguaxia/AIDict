@@ -1,0 +1,53 @@
+```json
+{
+  "word": "hospitalize",
+  "definitions": [
+    {
+      "meaning": "因疾病或受伤将某人送往医院接受治疗",
+      "usage": "通常用作及物动词，表示将某人送往医院，通常是因为他们需要医疗干预或住院治疗。",
+      "collocations": ["be hospitalized for", "hospitalize a patient", "require hospitalization"],
+      "examples": [
+        {
+          "scene": "一位母亲带着她的孩子去医院急诊室，因为孩子在学校操场上摔倒后手臂剧痛，无法移动。",
+          "chineseIdea": "母亲担心孩子的伤势严重，需要专业医生检查和治疗，因此决定将孩子送往医院。",
+          "sentenceWithBlank": "The child had to @ @ @ a broken arm after falling at school.",
+          "fullEnglishSentence": "The child had to 「be hospitalized for」 a broken arm after falling at school.",
+          "chineseTranslation": "这个孩子因为在学校摔倒手臂骨折而不得不「住院治疗」。",
+          "chinglishFix": "典型中式英语：'The child must go to hospital for broken arm.' 纠正：'The child had to be hospitalized for a broken arm.'（使用被动语态和正确的搭配 'be hospitalized for'，强调住院治疗的过程。）"
+        },
+        {
+          "scene": "一位老人在家中突发严重胸痛，家人拨打急救电话，医护人员迅速赶到并决定将他送往医院。",
+          "chineseIdea": "家人认为老人的情况紧急，可能需要立即进行医疗干预，因此同意医护人员将他送往医院。",
+          "sentenceWithBlank": "The elderly man was @ @ @ after experiencing severe chest pain.",
+          "fullEnglishSentence": "The elderly man was 「hospitalized for」 chest pain after experiencing severe chest pain.",
+          "chineseTranslation": "这位老人因严重胸痛而被「住院治疗」。",
+          "chinglishFix": "典型中式英语：'The old man go hospital because chest pain.' 纠正：'The elderly man was hospitalized for chest pain.'（使用被动语态和搭配 'hospitalized for'，避免直接翻译中文的 '去医院'。）"
+        }
+      ]
+    },
+    {
+      "meaning": "安排某人住院以接受专业护理或治疗",
+      "usage": "强调主动安排某人住院，通常用于医疗专业人员或家属为患者做决定时。",
+      "collocations": ["hospitalize someone for", "hospitalize a patient", "require hospitalization"],
+      "examples": [
+        {
+          "scene": "一位医生在诊所检查一位患有严重感染的病人后，建议病人立即住院以接受抗生素治疗。",
+          "chineseIdea": "医生认为病人的感染情况复杂，需要住院观察和治疗，以防止病情恶化。",
+          "sentenceWithBlank": "The doctor decided to @ @ @ the patient to treat a severe infection.",
+          "fullEnglishSentence": "The doctor decided to 「hospitalize the patient」 to treat a severe infection.",
+          "chineseTranslation": "医生决定「住院治疗」病人以治疗严重感染。",
+          "chinglishFix": "典型中式英语：'Doctor send patient to hospital for infection.' 纠正：'The doctor decided to hospitalize the patient for a severe infection.'（使用 'hospitalize' 明确表示住院决定，并加上具体原因。）"
+        },
+        {
+          "scene": "一位心理医生在与患者会谈后，发现患者有严重抑郁症状，建议患者住院接受心理治疗。",
+          "chineseIdea": "医生认为患者的心理状况不稳定，住院治疗可以提供更安全的环境和专业支持。",
+          "sentenceWithBlank": "The psychiatrist recommended that the patient @ @ @ mental health treatment.",
+          "fullEnglishSentence": "The psychiatrist recommended that the patient 「require hospitalization」 for mental health treatment.",
+          "chineseTranslation": "精神科医生建议患者因心理健康治疗而「需要住院」。",
+          "chinglishFix": "典型中式英语：'Patient must stay in hospital for mental problem.' 纠正：'The patient was recommended to require hospitalization for mental health treatment.'（使用 'require hospitalization' 更正式，表达医疗建议。）"
+        }
+      ]
+    }
+  ]
+}
+```

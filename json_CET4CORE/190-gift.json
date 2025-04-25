@@ -1,0 +1,53 @@
+```json
+{
+  "word": "gift",
+  "definitions": [
+    {
+      "meaning": "作为礼物或免费给予的东西",
+      "usage": "指送给某人的物品，通常出于好意、庆祝或感激，不期待回报。常见于生日、节日、婚礼等场合。",
+      "collocations": ["give a gift", "receive a gift", "wrap a gift"],
+      "examples": [
+        {
+          "scene": "在一个温馨的家庭聚会上，李明为他母亲的50岁生日准备了一份特别的礼物。桌上摆满了蛋糕和鲜花，家人们围坐在一起，期待着惊喜的时刻。",
+          "chineseIdea": "李明想表达对母亲多年养育之恩的感激，特意挑选了一件她喜欢的礼物，希望让她感到被爱和重视。",
+          "sentenceWithBlank": "Li Ming decided to @ @ @ to his mother for her 50th birthday.",
+          "fullEnglishSentence": "Li Ming decided to 「give a gift」 to his mother for her 50th birthday.",
+          "chineseTranslation": "李明决定为母亲50岁生日「送一份礼物」。",
+          "chinglishFix": "典型中式英语：'Li Ming wants to send his mother a gift.' 纠正：'Send'在此语境中不自然，英语中更常用'give'表示送礼物。应改为：'Li Ming wants to give his mother a gift.'"
+        },
+        {
+          "scene": "在圣诞节的早晨，孩子们兴奋地跑下楼，发现圣诞树下堆满了包装精美的盒子。他们迫不及待地撕开包装纸，露出开心的笑脸。",
+          "chineseIdea": "孩子们期待收到节日礼物，这些礼物象征着家人之间的爱和节日的欢乐气氛。",
+          "sentenceWithBlank": "The children were thrilled to @ @ @ under the Christmas tree.",
+          "fullEnglishSentence": "The children were thrilled to 「receive a gift」 under the Christmas tree.",
+          "chineseTranslation": "孩子们兴奋地在圣诞树下「收到礼物」。",
+          "chinglishFix": "典型中式英语：'The children got a gift.' 纠正：'Get'虽然在某些情况下可用，但'receive'更正式且常见于描述收到礼物。应改为：'The children received a gift.'"
+        }
+      ]
+    },
+    {
+      "meaning": "天赋或特殊才能",
+      "usage": "指某人天生具备的特殊能力或才华，通常用于赞美某人在某领域的出色表现。常见于描述艺术、运动或智力等方面的天赋。",
+      "collocations": ["have a gift", "natural gift", "gift for something"],
+      "examples": [
+        {
+          "scene": "在学校的音乐会上，15岁的张薇用小提琴演奏了一首复杂的曲子，观众席上的每个人都被她的表演深深震撼，掌声经久不息。",
+          "chineseIdea": "张薇在音乐方面的天赋让人们惊叹，她似乎天生就懂得如何用琴声表达情感。",
+          "sentenceWithBlank": "Everyone agreed that Zhang Wei @ @ @ for music.",
+          "fullEnglishSentence": "Everyone agreed that Zhang Wei 「had a gift」 for music.",
+          "chineseTranslation": "大家都认为张薇在音乐方面「有天赋」。",
+          "chinglishFix": "典型中式英语：'Zhang Wei is very talent in music.' 纠正：'Talent'是不可数名词，且表达不自然。应改为：'Zhang Wei has a gift for music.'"
+        },
+        {
+          "scene": "在一次国际象棋比赛中，年轻的选手陈浩击败了一位经验丰富的冠军。他的冷静和精准的棋路让评委们赞不绝口。",
+          "chineseIdea": "陈浩在象棋上的天赋让他能够在高压比赛中脱颖而出，展现出超乎年龄的智慧。",
+          "sentenceWithBlank": "Chen Hao’s @ @ for chess amazed the judges.",
+          "fullEnglishSentence": "Chen Hao’s 「natural gift」 for chess amazed the judges.",
+          "chineseTranslation": "陈浩在象棋上的「天赋」让评委们惊叹。",
+          "chinglishFix": "典型中式英语：'Chen Hao has a talent gift for chess.' 纠正：'Talent'和'gift'重复且不自然，'natural gift'是更地道的搭配。应改为：'Chen Hao has a natural gift for chess.'"
+        }
+      ]
+    }
+  ]
+}
+```
