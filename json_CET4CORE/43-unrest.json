@@ -1,0 +1,53 @@
+```json
+{
+  "word": "unrest",
+  "definitions": [
+    {
+      "meaning": "社会或政治上的动荡、不稳定",
+      "usage": "指社会群体因不满、冲突或不公而引发的骚乱、动荡或不安，通常用于描述大规模的公众不满或抗议。",
+      "collocations": ["civil unrest", "political unrest", "social unrest"],
+      "examples": [
+        {
+          "scene": "在一个大城市，市民因为政府新出台的经济政策导致生活成本上升，纷纷走上街头抗议，警察与抗议者发生冲突，城市陷入混乱。",
+          "chineseIdea": "描述社会因为政策不满而引发的骚乱和紧张气氛。",
+          "sentenceWithBlank": "The city was gripped by @ @ after the government’s new policy sparked widespread protests.",
+          "fullEnglishSentence": "The city was gripped by 「civil unrest」 after the government’s new policy sparked widespread protests.",
+          "chineseTranslation": "在政府新政策引发广泛抗议后，这座城市陷入了「市民骚乱」。",
+          "chinglishFix": "典型中式英语：'The city has many unrest because of policy.' 纠正：'The city experienced civil unrest due to the new policy.'（避免直接用‘unrest’作可数名词，需搭配‘civil’等形容词并用正确的动词表达。）"
+        },
+        {
+          "scene": "一个国家因为选举结果争议，部分地区爆发了抗议活动，商店被洗劫，交通瘫痪，政府宣布进入紧急状态。",
+          "chineseIdea": "描述政治争议导致的全国性动荡和混乱。",
+          "sentenceWithBlank": "The controversial election results triggered widespread @ @ across the country.",
+          "fullEnglishSentence": "The controversial election results triggered widespread 「political unrest」 across the country.",
+          "chineseTranslation": "有争议的选举结果在全国引发了广泛的「政治动荡」。",
+          "chinglishFix": "典型中式英语：'Election makes country unrest.' 纠正：'The election results caused political unrest throughout the country.'（需明确搭配‘political unrest’并使用正确的因果表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "个人或群体中的不安、焦虑或不满",
+      "usage": "指个人内心或小群体中的不安情绪，通常与紧张、担忧或轻微的不满相关，程度较轻，偏向心理或情感状态。",
+      "collocations": ["growing unrest", "underlying unrest", "widespread unrest"],
+      "examples": [
+        {
+          "scene": "在一个公司内部，因为管理层频繁更换和裁员传言，员工们开始感到不安，工作效率下降，私下议论纷纷。",
+          "chineseIdea": "描述员工因不确定性产生的焦虑和不满情绪。",
+          "sentenceWithBlank": "The constant layoffs and management changes caused @ @ among the employees.",
+          "fullEnglishSentence": "The constant layoffs and management changes caused 「growing unrest」 among the employees.",
+          "chineseTranslation": "持续的裁员和管理层变动在员工中引发了「日益增长的不安」。",
+          "chinglishFix": "典型中式英语：'Employees feel unrest because of layoffs.' 纠正：'The layoffs led to growing unrest among employees.'（需用‘growing unrest’表达渐增的不安，并注意介词‘among’的使用。）"
+        },
+        {
+          "scene": "在一所学校，学生们因为新规定的严格考试制度而感到压力巨大，私下抱怨并表现出焦虑情绪，老师也察觉到这种不满。",
+          "chineseIdea": "描述学生因新政策产生的普遍不满和不安。",
+          "sentenceWithBlank": "The new exam policies sparked @ @ among the students, leading to complaints.",
+          "fullEnglishSentence": "The new exam policies sparked 「widespread unrest」 among the students, leading to complaints.",
+          "chineseTranslation": "新的考试政策在学生中引发了「广泛的不满」，导致了诸多抱怨。",
+          "chinglishFix": "典型中式英语：'Students have unrest for new policy.' 纠正：'The new policy caused widespread unrest among students.'（需用‘widespread unrest’并注意正确的介词和动词搭配。）"
+        }
+      ]
+    }
+  ]
+}
+```

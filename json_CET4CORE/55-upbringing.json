@@ -1,0 +1,53 @@
+```json
+{
+  "word": "upbringing",
+  "definitions": [
+    {
+      "meaning": "The way in which a person is raised or brought up, including the care, education, and values they receive during childhood.",
+      "usage": "This noun refers to the process or environment in which a child grows up, often emphasizing the influence of family, culture, or social conditions on their development. It is commonly used in discussions about personal development, character formation, or societal impact.",
+      "collocations": ["strict upbringing", "privileged upbringing", "cultural upbringing"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，李明和朋友们讨论各自的童年经历。有人提到父母对他们的教育方式很严格，总是要求他们遵守规则，这让他们养成了自律的习惯。",
+          "chineseIdea": "父母通过严格的规则和期望来教育孩子，希望培养他们的责任感和纪律性。",
+          "sentenceWithBlank": "Her @ upbringing shaped her into a highly disciplined individual.",
+          "fullEnglishSentence": "Her 「strict upbringing」 shaped her into a highly disciplined individual.",
+          "chineseTranslation": "她「严格的教育」使她成为一个高度自律的人。",
+          "chinglishFix": "Chinglish: 'Her parents' strict education made her very discipline.' Correction: 'Her strict upbringing shaped her into a highly disciplined person.'"
+        },
+        {
+          "scene": "在一次职场培训中，讲师让大家分享童年经历如何影响他们的职业选择。张华提到自己在一个充满传统文化氛围的家庭中长大，这让他对历史和艺术产生了浓厚的兴趣。",
+          "chineseIdea": "家庭的文化背景和价值观深深影响了一个人对兴趣和职业方向的选择。",
+          "sentenceWithBlank": "His @ upbringing instilled in him a deep appreciation for traditional art.",
+          "fullEnglishSentence": "His 「cultural upbringing」 instilled in him a deep appreciation for traditional art.",
+          "chineseTranslation": "他的「文化教育」让他对传统艺术产生了深深的热爱。",
+          "chinglishFix": "Chinglish: 'His family culture made him like art.' Correction: 'His cultural upbringing instilled in him a deep appreciation for traditional art.'"
+        }
+      ]
+    },
+    {
+      "meaning": "The early training or education provided to a person, often in a specific context like a profession or skill.",
+      "usage": "Less commonly, this noun can refer to the early training or education someone receives, particularly in a specialized field or discipline, such as music, sports, or academics. It highlights the foundational instruction rather than the broader environment.",
+      "collocations": ["musical upbringing", "academic upbringing", "athletic upbringing"],
+      "examples": [
+        {
+          "scene": "在音乐会上，王芳和朋友聊起自己的钢琴老师。她的老师从她五岁时就教她弹钢琴，严格要求她的技巧和表现力，这为她后来的音乐生涯奠定了基础。",
+          "chineseIdea": "早期的专业训练为一个人在某个领域的成功打下坚实的基础。",
+          "sentenceWithBlank": "Her @ upbringing gave her a strong foundation for a career in music.",
+          "fullEnglishSentence": "Her 「musical upbringing」 gave her a strong foundation for a career in music.",
+          "chineseTranslation": "她的「音乐教育」为她的音乐事业奠定了坚实的基础。",
+          "chinglishFix": "Chinglish: 'Her music education in childhood made her a musician.' Correction: 'Her musical upbringing gave her a strong foundation for a career in music.'"
+        },
+        {
+          "scene": "在一所大学的校友会上，陈强向年轻学生分享自己如何成为一名科学家。他提到父母和老师从小就鼓励他进行科学实验，这激发了他的好奇心和研究热情。",
+          "chineseIdea": "早期的学术训练和鼓励可以培养一个人对知识的热爱和追求。",
+          "sentenceWithBlank": "His @ upbringing fostered a lifelong passion for scientific discovery.",
+          "fullEnglishSentence": "His 「academic upbringing」 fostered a lifelong passion for scientific discovery.",
+          "chineseTranslation": "他的「学术教育」培养了他对科学发现的终生热爱。",
+          "chinglishFix": "Chinglish: 'His study education made him love science.' Correction: 'His academic upbringing fostered a lifelong passion for scientific discovery.'"
+        }
+      ]
+    }
+  ]
+}
+```

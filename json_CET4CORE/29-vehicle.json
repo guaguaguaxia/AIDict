@@ -1,0 +1,53 @@
+```json
+{
+  "word": "vehicle",
+  "definitions": [
+    {
+      "meaning": "一种用于运输人或物的交通工具",
+      "usage": "指任何用于在陆地、水面或空中运输的工具，如汽车、船、飞机等，常用于描述具体的交通方式。",
+      "collocations": ["drive a vehicle", "park a vehicle", "operate a vehicle"],
+      "examples": [
+        {
+          "scene": "小明刚拿到驾照，兴奋地想要尝试开家里的车去超市购物。",
+          "chineseIdea": "小明想要自己操控家里的交通工具，体验独立出行的感觉。",
+          "sentenceWithBlank": "He was thrilled to @ @ @ for the first time to the supermarket.",
+          "fullEnglishSentence": "He was thrilled to 「drive a vehicle」 for the first time to the supermarket.",
+          "chineseTranslation": "他第一次「驾驶交通工具」去超市，感到非常兴奋。",
+          "chinglishFix": "中式英语：He very happy to open vehicle to supermarket. 纠正：He was thrilled to drive a vehicle to the supermarket."
+        },
+        {
+          "scene": "在繁忙的城市停车场，李女士花了十分钟才找到一个停车位。",
+          "chineseIdea": "李女士需要把她的交通工具停放在一个安全的地方。",
+          "sentenceWithBlank": "She spent ten minutes trying to @ @ @ in the crowded parking lot.",
+          "fullEnglishSentence": "She spent ten minutes trying to 「park a vehicle」 in the crowded parking lot.",
+          "chineseTranslation": "她在拥挤的停车场花了十分钟试图「停放交通工具」。",
+          "chinglishFix": "中式英语：She use ten minutes to stop vehicle in parking place. 纠正：She spent ten minutes trying to park a vehicle in the crowded parking lot."
+        }
+      ]
+    },
+    {
+      "meaning": "传播或表达的媒介或工具",
+      "usage": "比喻性地指某种方式或手段，用来传递信息、观点或情感，如艺术、语言、媒体等。",
+      "collocations": ["use as a vehicle", "serve as a vehicle", "act as a vehicle"],
+      "examples": [
+        {
+          "scene": "一位艺术家在画展上展示了自己的作品，希望通过画作表达对环保的关注。",
+          "chineseIdea": "艺术家希望用自己的创作作为一种工具来传达环保理念。",
+          "sentenceWithBlank": "She decided to @ @ @ @ for promoting environmental awareness.",
+          "fullEnglishSentence": "She decided to 「use as a vehicle」 her paintings for promoting environmental awareness.",
+          "chineseTranslation": "她决定将她的画作「用作工具」来促进环保意识。",
+          "chinglishFix": "中式英语：She use paintings to be vehicle for environment. 纠正：She decided to use her paintings as a vehicle for promoting environmental awareness."
+        },
+        {
+          "scene": "一家公司通过社交媒体宣传新产品，吸引年轻消费者。",
+          "chineseIdea": "公司希望利用社交媒体作为传播产品信息的平台。",
+          "sentenceWithBlank": "The company chose social media to @ @ @ @ for their marketing campaign.",
+          "fullEnglishSentence": "The company chose social media to 「act as a vehicle」 for their marketing campaign.",
+          "chineseTranslation": "公司选择社交媒体「作为工具」来进行营销活动。",
+          "chinglishFix": "中式英语：Company make social media to vehicle for market. 纠正：The company chose social media to act as a vehicle for their marketing campaign."
+        }
+      ]
+    }
+  ]
+}
+```
