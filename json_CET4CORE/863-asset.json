@@ -1,0 +1,53 @@
+```json
+{
+  "word": "asset",
+  "definitions": [
+    {
+      "meaning": "有价值的资源或财产，通常指在经济或财务背景下带来收益或有用的东西",
+      "usage": "在财务、商业或经济领域，指任何具有经济价值的资源，如现金、房产、设备、股票等。常用于描述公司或个人的资产清单。",
+      "collocations": ["liquid assets", "fixed assets", "valuable asset"],
+      "examples": [
+        {
+          "scene": "一家小型科技公司正在准备年度财务报表，财务经理需要向股东展示公司的流动资金状况。",
+          "chineseIdea": "公司想要说明他们有足够的现金和短期投资，可以快速变现以应对紧急需求。",
+          "sentenceWithBlank": "The company’s @ @ ensure it can cover short-term expenses without borrowing.",
+          "fullEnglishSentence": "The company’s 「liquid assets」 ensure it can cover short-term expenses without borrowing.",
+          "chineseTranslation": "公司的「流动资产」确保它可以支付短期开支而无需借款。",
+          "chinglishFix": "中式英语：'The company has many money that can use fast.' 纠正：'The company has substantial liquid assets to meet immediate needs.'"
+        },
+        {
+          "scene": "一位房地产投资者在与银行经理讨论贷款时，强调自己的投资组合中有多处物业。",
+          "chineseIdea": "投资者想说明他们的物业是长期投资，价值稳定且不易变动。",
+          "sentenceWithBlank": "Her portfolio includes several @ @ that generate steady rental income.",
+          "fullEnglishSentence": "Her portfolio includes several 「fixed assets」 that generate steady rental income.",
+          "chineseTranslation": "她的投资组合包括几项「固定资产」，这些资产产生稳定的租金收入。",
+          "chinglishFix": "中式英语：'She has many houses that are not moving.' 纠正：'She owns several fixed assets that provide consistent income.'"
+        }
+      ]
+    },
+    {
+      "meaning": "有用的品质、技能或人，通常指对某人或某事有帮助的特质或个体",
+      "usage": "在描述个人、团队或情境时，指某人或某物因其特质、能力或贡献而变得有价值。常用于工作、团队合作或个人评价场景。",
+      "collocations": ["key asset", "great asset", "invaluable asset"],
+      "examples": [
+        {
+          "scene": "一家广告公司在招聘新员工后，经理在团队会议上表扬新成员的多语言能力。",
+          "chineseIdea": "经理想强调新员工的语言技能对公司拓展国际市场非常重要。",
+          "sentenceWithBlank": "Her fluency in three languages makes her a @ @ to our global campaigns.",
+          "fullEnglishSentence": "Her fluency in three languages makes her a 「key asset」 to our global campaigns.",
+          "chineseTranslation": "她精通三种语言，使她成为我们全球活动的「关键资产」。",
+          "chinglishFix": "中式英语：'Her languages are very useful for us.' 纠正：'Her language skills are a key asset to our team.'"
+        },
+        {
+          "scene": "一个志愿者组织在筹备大型慈善活动，负责人感谢一位成员的组织能力。",
+          "chineseIdea": "负责人想表达这位志愿者在协调复杂活动方面的能力对团队至关重要。",
+          "sentenceWithBlank": "His organizational skills have been an @ @ to the event’s success.",
+          "fullEnglishSentence": "His organizational skills have been an 「invaluable asset」 to the event’s success.",
+          "chineseTranslation": "他的组织能力对活动的成功是「无价的资产」。",
+          "chinglishFix": "中式英语：'His ability to arrange things is very good.' 纠正：'His organizational skills are an invaluable asset.'"
+        }
+      ]
+    }
+  ]
+}
+```

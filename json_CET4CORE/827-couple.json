@@ -1,0 +1,76 @@
+```json
+{
+  "word": "couple",
+  "definitions": [
+    {
+      "meaning": "两个（人或物）",
+      "usage": "指代两个数量的人或物，通常强调数量上的明确性，常用于非正式语境。",
+      "collocations": ["a couple of", "couple with", "couple together"],
+      "examples": [
+        {
+          "scene": "在咖啡店里，两个朋友正在聊天，他们决定点一些小吃来分享。",
+          "chineseIdea": "想表达只有两份小吃，而不是很多。",
+          "sentenceWithBlank": "Let's order @ @ @ snacks to share.",
+          "fullEnglishSentence": "Let's order 「a couple of」 snacks to share.",
+          "chineseTranslation": "我们点「两个」小吃来分享吧。",
+          "chinglishFix": "典型中式英语：'Let's order two snacks.' 纠正：'Let's order a couple of snacks.'（'a couple of' 更自然，强调非正式的少量）"
+        },
+        {
+          "scene": "在工作中，经理要求将两个项目合并，以提高效率。",
+          "chineseIdea": "想表达将两个项目结合在一起形成一个整体。",
+          "sentenceWithBlank": "We need to @ @ the two projects for better efficiency.",
+          "fullEnglishSentence": "We need to 「couple together」 the two projects for better efficiency.",
+          "chineseTranslation": "我们需要将两个项目「结合在一起」以提高效率。",
+          "chinglishFix": "典型中式英语：'We need to combine the two projects.' 纠正：'We need to couple together the two projects.'（'couple together' 更强调技术或物理上的连接）"
+        }
+      ]
+    },
+    {
+      "meaning": "一对（情侣或配偶）",
+      "usage": "指代两个有浪漫关系或婚姻关系的人，常用于描述人际关系。",
+      "collocations": ["married couple", "happy couple", "couple in love"],
+      "examples": [
+        {
+          "scene": "在公园里，两个人在长椅上甜蜜地聊天，周围是散步的人群。",
+          "chineseIdea": "想描述这两人是一对已婚的伴侣。",
+          "sentenceWithBlank": "The @ @ was sitting closely on the bench.",
+          "fullEnglishSentence": "The 「married couple」 was sitting closely on the bench.",
+          "chineseTranslation": "那对「已婚夫妇」紧紧地坐在长椅上。",
+          "chinglishFix": "典型中式英语：'The two married people were sitting.' 纠正：'The married couple was sitting.'（'married couple' 是更自然的表达，强调关系）"
+        },
+        {
+          "scene": "在婚礼上，新人被大家祝福，气氛温馨感人。",
+          "chineseIdea": "想表达这对新人是一对幸福的恋人。",
+          "sentenceWithBlank": "Everyone toasted to the @ @ at the wedding.",
+          "fullEnglishSentence": "Everyone toasted to the 「happy couple」 at the wedding.",
+          "chineseTranslation": "大家在婚礼上向「幸福的新人」举杯祝福。",
+          "chinglishFix": "典型中式英语：'Everyone toasted to the two happy people.' 纠正：'Everyone toasted to the happy couple.'（'happy couple' 更符合婚礼语境的习惯表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "几个（非正式的少量）",
+      "usage": "在非正式语境中，指代少量但不明确的数量，通常多于两个但不多，常用于口语。",
+      "collocations": ["a couple of", "couple more", "just a couple"],
+      "examples": [
+        {
+          "scene": "在超市里，一个人在挑选水果，想随便拿几个苹果。",
+          "chineseIdea": "想表达只需要少量的苹果，不是很具体的数量。",
+          "sentenceWithBlank": "I'll grab @ @ @ apples for the week.",
+          "fullEnglishSentence": "I'll grab 「a couple of」 apples for the week.",
+          "chineseTranslation": "我拿「几个」苹果够这周吃了。",
+          "chinglishFix": "典型中式英语：'I'll take some apples.' 纠正：'I'll grab a couple of apples.'（'a couple of' 更具体且口语化）"
+        },
+        {
+          "scene": "在会议结束时，同事请求再多几分钟来讨论一个问题。",
+          "chineseIdea": "想表达只需要额外的一点时间。",
+          "sentenceWithBlank": "Can we have @ @ minutes to wrap this up?",
+          "fullEnglishSentence": "Can we have 「couple more」 minutes to wrap this up?",
+          "chineseTranslation": "我们还能有「再多几分钟」来结束讨论吗？",
+          "chinglishFix": "典型中式英语：'Can we have some more minutes?' 纠正：'Can we have a couple more minutes?'（'couple more' 更自然，符合口语习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

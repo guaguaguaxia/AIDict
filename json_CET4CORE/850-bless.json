@@ -1,0 +1,76 @@
+```json
+{
+  "word": "bless",
+  "definitions": [
+    {
+      "meaning": "祈求上帝保佑或赐福",
+      "usage": "通常用于宗教或正式语境，表示请求神圣的保护、恩惠或好运，常用于祈祷或祝福他人。",
+      "collocations": ["bless someone with", "bless the food", "God bless"],
+      "examples": [
+        {
+          "scene": "在一个温馨的家庭聚会上，晚餐开始前，家里的长辈会带领大家进行简短的祈祷，感谢食物并祈求家人平安。",
+          "chineseIdea": "希望家人得到神圣的保护和幸福，表达感恩和祈福的心情。",
+          "sentenceWithBlank": "Before we eat, let’s @ @ @ health and happiness.",
+          "fullEnglishSentence": "Before we eat, let’s 「bless someone with」 health and happiness.",
+          "chineseTranslation": "在吃饭前，让我们祈求「赐予某人」健康和幸福。",
+          "chinglishFix": "典型中式英语：'Pray God give us health.' 纠正：'Let’s pray for God’s blessing of health.'"
+        },
+        {
+          "scene": "在一个乡村教堂的周日聚会上，牧师在仪式开始前为桌上的面包和葡萄酒祈福，感谢神的恩赐。",
+          "chineseIdea": "通过祈祷使食物变得神圣，表达对神赐予食物的感激。",
+          "sentenceWithBlank": "The priest stood up to @ @ @ before the meal.",
+          "fullEnglishSentence": "The priest stood up to 「bless the food」 before the meal.",
+          "chineseTranslation": "牧师站起来在饭前「为食物祈福」。",
+          "chinglishFix": "典型中式英语：'Make the food holy.' 纠正：'Bless the food for the meal.'"
+        }
+      ]
+    },
+    {
+      "meaning": "表达美好祝愿或感激",
+      "usage": "在非宗教或日常语境中，用于表达对他人的美好祝愿或对某事的感激，常带有亲切或感叹的语气。",
+      "collocations": ["bless your heart", "bless you", "bless his soul"],
+      "examples": [
+        {
+          "scene": "在一个寒冷的冬日，朋友帮你修好了坏掉的暖气，你感激地对朋友表示谢意，同时希望他一切顺利。",
+          "chineseIdea": "表达对他人的感激，同时祝愿对方好运，带有亲切的情感。",
+          "sentenceWithBlank": "Thank you so much for fixing the heater—@ @ @!",
+          "fullEnglishSentence": "Thank you so much for fixing the heater—「bless your heart」!",
+          "chineseTranslation": "非常感谢你修好暖气——「愿你好心有好报」！",
+          "chinglishFix": "典型中式英语：'You are so kind, good luck.' 纠正：'Bless your heart for your kindness.'"
+        },
+        {
+          "scene": "在咖啡店里，一个陌生人打喷嚏后，你习惯性地送上祝福，希望对方身体健康。",
+          "chineseIdea": "出于礼貌，表达对他人的健康祝福，是一种日常的社交用语。",
+          "sentenceWithBlank": "Oh, you sneezed! @ @!",
+          "fullEnglishSentence": "Oh, you sneezed! 「Bless you」!",
+          "chineseTranslation": "哦，你打喷嚏了！「祝你健康」！",
+          "chinglishFix": "典型中式英语：'Don’t catch a cold.' 纠正：'Bless you!'"
+        }
+      ]
+    },
+    {
+      "meaning": "赞美或赋予特殊意义",
+      "usage": "用于表示对某事物的赞美，或赋予某事物特殊的价值或意义，常用于正式或文学性语境。",
+      "collocations": ["bless with talent", "bless with opportunity", "bless the occasion"],
+      "examples": [
+        {
+          "scene": "在一场音乐会上，一位年轻的小提琴家以惊艳的表演征服了观众，大家都认为她天赋异禀。",
+          "chineseIdea": "赞美某人拥有非凡的天赋，强调其特殊的才能。",
+          "sentenceWithBlank": "She has been @ @ @ an extraordinary gift for music.",
+          "fullEnglishSentence": "She has been 「blessed with talent」 an extraordinary gift for music.",
+          "chineseTranslation": "她被「赋予天赋」，拥有非凡的音乐天赋。",
+          "chinglishFix": "典型中式英语：'She has music talent.' 纠正：'She is blessed with musical talent.'"
+        },
+        {
+          "scene": "在一个新学校的落成典礼上，校长致辞，感谢有机会见证这一重要时刻，并希望学校未来发展顺利。",
+          "chineseIdea": "为特殊的场合赋予意义，表达对未来的期望和祝福。",
+          "sentenceWithBlank": "Let us @ @ @ with hope and unity.",
+          "fullEnglishSentence": "Let us 「bless the occasion」 with hope and unity.",
+          "chineseTranslation": "让我们以希望和团结「为这个场合祝福」。",
+          "chinglishFix": "典型中式英语：'Make this event meaningful.' 纠正：'Let’s bless this occasion with meaning.'"
+        }
+      ]
+    }
+  ]
+}
+```

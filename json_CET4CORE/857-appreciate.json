@@ -1,0 +1,76 @@
+```json
+{
+  "word": "appreciate",
+  "definitions": [
+    {
+      "meaning": "感激或感谢某人或某事",
+      "usage": "用于表达对他人的帮助、支持或善意的感激，通常在正式或礼貌的语境中使用，也可以用于非正式场合。",
+      "collocations": ["deeply appreciate", "greatly appreciate", "sincerely appreciate"],
+      "examples": [
+        {
+          "scene": "你的一位同事在你忙碌时主动帮你完成了一个重要的报告，节省了你的时间。",
+          "chineseIdea": "你想表达对同事的帮助感到非常感激，并且希望礼貌地表示谢意。",
+          "sentenceWithBlank": "I @ @ your help with the report yesterday.",
+          "fullEnglishSentence": "I 「deeply appreciate」 your help with the report yesterday.",
+          "chineseTranslation": "我「非常感激」你昨天帮我完成报告。",
+          "chinglishFix": "典型中式英语：'I very thank you for your help.' 纠正：'I deeply appreciate your help.' 或 'Thank you so much for your help.'"
+        },
+        {
+          "scene": "你在国外旅行时，一位陌生人帮你找到回酒店的路，你想表达谢意。",
+          "chineseIdea": "你想真诚地感谢陌生人的善意行为，表达你的感激之情。",
+          "sentenceWithBlank": "We @ @ your kindness in showing us the way.",
+          "fullEnglishSentence": "We 「greatly appreciate」 your kindness in showing us the way.",
+          "chineseTranslation": "我们「非常感激」你好心为我们指路。",
+          "chinglishFix": "典型中式英语：'We thank you a lot for your help.' 纠正：'We greatly appreciate your help.' 或 'Thank you so much for helping us.'"
+        }
+      ]
+    },
+    {
+      "meaning": "欣赏或重视某事物的价值或美好",
+      "usage": "用于表达对某事物（如艺术、自然、音乐等）的喜爱或对其价值的认可，通常带有一种细腻的情感。",
+      "collocations": ["truly appreciate", "fully appreciate", "appreciate the beauty"],
+      "examples": [
+        {
+          "scene": "你和朋友一起参观了一个艺术展览，展览中的画作让你感到震撼。",
+          "chineseIdea": "你想表达自己对艺术作品的深刻感受，强调它们的美丽和价值。",
+          "sentenceWithBlank": "I @ @ the intricate details in these paintings.",
+          "fullEnglishSentence": "I 「truly appreciate」 the intricate details in these paintings.",
+          "chineseTranslation": "我「非常欣赏」这些画作中精致的细节。",
+          "chinglishFix": "典型中式英语：'I very like these paintings’ details.' 纠正：'I truly appreciate the details in these paintings.' 或 'I really admire the details in these paintings.'"
+        },
+        {
+          "scene": "你在山顶看日出，感受到大自然的壮丽和宁静。",
+          "chineseIdea": "你想表达对自然美景的赞叹，强调它的壮观和给你带来的平静。",
+          "sentenceWithBlank": "We @ @ @ of this sunrise from the mountain.",
+          "fullEnglishSentence": "We 「appreciate the beauty」 of this sunrise from the mountain.",
+          "chineseTranslation": "我们「欣赏这日出的美丽」从山顶看。",
+          "chinglishFix": "典型中式英语：'We very enjoy the sunrise’s beauty.' 纠正：'We appreciate the beauty of the sunrise.' 或 'We admire the beauty of the sunrise.'"
+        }
+      ]
+    },
+    {
+      "meaning": "理解或意识到某事物的重要性或意义",
+      "usage": "用于表示对某事物（如情况、问题或机会）的深刻理解或领悟，常用于正式或专业语境。",
+      "collocations": ["appreciate the importance", "appreciate the need", "better appreciate"],
+      "examples": [
+        {
+          "scene": "你的老板在会议上解释了公司新战略的意义，你意识到它对未来的影响。",
+          "chineseIdea": "你想表达自己理解了新战略的重要性，并认同它的价值。",
+          "sentenceWithBlank": "I now @ @ @ of this new strategy for our company’s growth.",
+          "fullEnglishSentence": "I now 「appreciate the importance」 of this new strategy for our company’s growth.",
+          "chineseTranslation": "我现在「理解这一新战略的重要性」对我们公司发展的意义。",
+          "chinglishFix": "典型中式英语：'I know this strategy is very important.' 纠正：'I appreciate the importance of this strategy.' 或 'I understand the significance of this strategy.'"
+        },
+        {
+          "scene": "你在学习一门新技能时，老师强调了练习的重要性，你开始意识到它的价值。",
+          "chineseIdea": "你想表达自己明白了为什么需要持续练习，并且认识到它的意义。",
+          "sentenceWithBlank": "After the lessons, I @ @ @ for consistent practice.",
+          "fullEnglishSentence": "After the lessons, I 「appreciate the need」 for consistent practice.",
+          "chineseTranslation": "在课程之后，我「理解持续练习的需要」。",
+          "chinglishFix": "典型中式英语：'I know practice is very necessary.' 纠正：'I appreciate the need for practice.' 或 'I understand the importance of practicing regularly.'"
+        }
+      ]
+    }
+  ]
+}
+```
