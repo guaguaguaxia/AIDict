@@ -1,0 +1,76 @@
+```json
+{
+  "word": "professional",
+  "definitions": [
+    {
+      "meaning": "与职业或专业相关的；具有高水平技能或资质的",
+      "usage": "描述某人从事某项职业，或某人在工作中表现出高水平的能力、行为或态度。通常用于强调专业性、可靠性或符合行业标准。",
+      "collocations": ["professional development", "professional skills", "professional conduct", "professional experience"],
+      "examples": [
+        {
+          "scene": "一家科技公司的员工正在参加公司组织的培训课程，以提升自己的职业能力。",
+          "chineseIdea": "员工希望通过学习新知识和技能来提升自己在职场中的竞争力。",
+          "sentenceWithBlank": "She enrolled in a course to enhance her @ @.",
+          "fullEnglishSentence": "She enrolled in a course to enhance her 「professional development」.",
+          "chineseTranslation": "她报名参加了一门课程，以提升她的「职业发展」。",
+          "chinglishFix": "典型中式英语：'She joined a class to improve her job.' 纠正：'Job' 过于笼统，'professional development' 更具体，指职业技能和知识的提升。"
+        },
+        {
+          "scene": "一位求职者在面试中向面试官展示自己的能力，强调过去的项目经验。",
+          "chineseIdea": "求职者想证明自己有足够的能力胜任这份工作。",
+          "sentenceWithBlank": "He highlighted his @ @ during the interview to impress the employer.",
+          "fullEnglishSentence": "He highlighted his 「professional skills」 during the interview to impress the employer.",
+          "chineseTranslation": "他在面试中强调了自己的「专业技能」，以给雇主留下深刻印象。",
+          "chinglishFix": "典型中式英语：'He showed his work ability in the interview.' 纠正：'Work ability' 不地道，'professional skills' 更自然且具体。"
+        }
+      ]
+    },
+    {
+      "meaning": "职业的；以某职业为生的人",
+      "usage": "指某人以特定职业为生，或者从事某项活动作为全职工作，而不是业余爱好者。通常用于区分职业选手和业余选手。",
+      "collocations": ["professional athlete", "professional musician", "professional writer"],
+      "examples": [
+        {
+          "scene": "一名年轻人在奥运会选拔赛中表现出色，被认为有潜力成为职业选手。",
+          "chineseIdea": "他希望通过刻苦训练，从业余选手转变为全职运动员。",
+          "sentenceWithBlank": "After years of training, she became a @ @ and competed internationally.",
+          "fullEnglishSentence": "After years of training, she became a 「professional athlete」 and competed internationally.",
+          "chineseTranslation": "经过多年训练，她成为了一名「职业运动员」，并参加了国际比赛。",
+          "chinglishFix": "典型中式英语：'She is a sports professional.' 纠正：'Sports professional' 不够具体，'professional athlete' 是更自然的表达。"
+        },
+        {
+          "scene": "一位音乐家在音乐会上表演，观众对他的专业水平赞不绝口。",
+          "chineseIdea": "音乐家通过多年的练习和演出，达到了职业水准。",
+          "sentenceWithBlank": "His performance was so impressive that everyone recognized him as a @ @.",
+          "fullEnglishSentence": "His performance was so impressive that everyone recognized him as a 「professional musician」.",
+          "chineseTranslation": "他的表演令人印象深刻，大家都认为他是一名「职业音乐家」。",
+          "chinglishFix": "典型中式英语：'He is a music professional.' 纠正：'Music professional' 听起来生硬，'professional musician' 更符合英语表达习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "得体的；符合职业规范的行为或态度",
+      "usage": "指在工作或正式场合中表现出的礼貌、得体或符合职业道德的行为。通常用于描述态度或举止。",
+      "collocations": ["professional manner", "professional attitude", "professional appearance"],
+      "examples": [
+        {
+          "scene": "一名客服代表在处理客户投诉时，始终保持冷静和礼貌。",
+          "chineseIdea": "客服希望通过礼貌的沟通解决问题，展现公司的良好形象。",
+          "sentenceWithBlank": "She handled the complaint with a @ @, which calmed the customer.",
+          "fullEnglishSentence": "She handled the complaint with a 「professional manner」, which calmed the customer.",
+          "chineseTranslation": "她以「职业的态度」处理投诉，平息了客户的不满。",
+          "chinglishFix": "典型中式英语：'She used a good manner to deal with the complaint.' 纠正：'Good manner' 过于泛泛，'professional manner' 更贴合职场语境。"
+        },
+        {
+          "scene": "一位新员工在公司会议上穿着得体，表现出积极的态度。",
+          "chineseIdea": "新员工希望给同事和上司留下专业的好印象。",
+          "sentenceWithBlank": "His @ @ during the meeting earned him respect from his colleagues.",
+          "fullEnglishSentence": "His 「professional attitude」 during the meeting earned him respect from his colleagues.",
+          "chineseTranslation": "他在会议中表现出的「职业态度」赢得了同事的尊重。",
+          "chinglishFix": "典型中式英语：'He had a good attitude in the meeting.' 纠正：'Good attitude' 缺乏职业化含义，'professional attitude' 更适合正式场合。"
+        }
+      ]
+    }
+  ]
+}
+```

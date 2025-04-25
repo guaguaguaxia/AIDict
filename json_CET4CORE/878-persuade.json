@@ -1,0 +1,53 @@
+```json
+{
+  "word": "persuade",
+  "definitions": [
+    {
+      "meaning": "使某人相信或同意某事通过理由或请求",
+      "usage": "指通过逻辑、情感或道德上的理由使某人相信某事或同意做某事，通常涉及温和的说服而非强迫。",
+      "collocations": ["persuade someone to do something", "persuade someone of something", "persuade someone that"],
+      "examples": [
+        {
+          "scene": "在一家咖啡店，你的朋友小明计划周末去爬一座很陡的山，但他最近感冒刚好，你担心他的身体状况不适合剧烈运动。你试图让他选择一个更轻松的活动。",
+          "chineseIdea": "你想通过描述爬山的风险和轻松活动的乐趣，让小明改变计划，同意去散步或看电影。",
+          "sentenceWithBlank": "After explaining the risks, I finally @ @ @ to go for a walk instead of climbing the mountain.",
+          "fullEnglishSentence": "After explaining the risks, I finally 「persuaded him to go」 for a walk instead of climbing the mountain.",
+          "chineseTranslation": "在解释了风险后，我终于「说服他去」散步而不是爬山。",
+          "chinglishFix": "典型中式英语：'I advise him to walk.' 纠正：'Advise' 表示建议，但缺乏说服的过程感。应使用 'I persuaded him to go for a walk,' 强调通过努力改变了他的想法。"
+        },
+        {
+          "scene": "在公司会议上，你的团队正在讨论是否采用一个新的软件系统。一些同事对新系统表示怀疑，认为它可能会增加工作量。你通过展示数据和案例来说服他们。",
+          "chineseIdea": "你想通过展示新系统的高效性和长期益处，让同事们相信这是一个正确的选择。",
+          "sentenceWithBlank": "By presenting clear evidence, I @ @ @ that the new software would save time.",
+          "fullEnglishSentence": "By presenting clear evidence, I 「persuaded them that」 the new software would save time.",
+          "chineseTranslation": "通过展示清晰的证据，我「说服他们」新软件会节省时间。",
+          "chinglishFix": "典型中式英语：'I let them believe the software is good.' 纠正：'Let' 和 'believe' 搭配不自然，且缺乏说服的主动性。应使用 'I persuaded them that the software would save time,' 更符合英语表达习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "使某人相信某事的真实性或价值",
+      "usage": "指通过论据或情感诉求使某人确信某事为真或有价值，通常用于抽象概念或信念。",
+      "collocations": ["persuade someone of the importance", "persuade someone of the need", "persuade someone about"],
+      "examples": [
+        {
+          "scene": "你正在和父母讨论是否要报名一个昂贵的在线英语课程。他们觉得花这么多钱不值得，你需要让他们相信这个课程对你的职业发展有帮助。",
+          "chineseIdea": "你想通过说明课程的实际效果和职业前景，让父母相信这笔投资是值得的。",
+          "sentenceWithBlank": "I @ @ @ of the importance of investing in the English course for my career.",
+          "fullEnglishSentence": "I 「persuaded them of the importance」 of investing in the English course for my career.",
+          "chineseTranslation": "我「说服他们」投资英语课程对我的职业很重要。",
+          "chinglishFix": "典型中式英语：'I tell them the course is important.' 纠正：'Tell' 仅表示告知，缺乏说服的语气。应使用 'I persuaded them of the importance,' 强调通过努力让他们相信。"
+        },
+        {
+          "scene": "在学校社团活动中，你是环保小组的负责人。一些成员对减少塑料使用的提案不感兴趣，认为这对环境影响不大。你需要通过数据和事实改变他们的看法。",
+          "chineseIdea": "你想通过展示塑料污染的严重性和减少使用的长期效果，让成员们认识到这项行动的必要性。",
+          "sentenceWithBlank": "By showing statistics, I @ @ @ of the need to reduce plastic use.",
+          "fullEnglishSentence": "By showing statistics, I 「persuaded them of the need」 to reduce plastic use.",
+          "chineseTranslation": "通过展示数据，我「说服他们」减少塑料使用的必要性。",
+          "chinglishFix": "典型中式英语：'I make them know we need less plastic.' 纠正：'Make them know' 不地道，且缺乏说服的过程感。应使用 'I persuaded them of the need,' 更自然且符合英语习惯。"
+        }
+      ]
+    }
+  ]
+}
+```

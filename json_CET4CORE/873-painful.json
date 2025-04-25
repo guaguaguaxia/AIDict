@@ -1,0 +1,53 @@
+```json
+{
+  "word": "painful",
+  "definitions": [
+    {
+      "meaning": "引起身体疼痛的",
+      "usage": "描述身体上的疼痛感，通常与伤害、疾病或不适相关。",
+      "collocations": ["sharp pain", "chronic pain", "physical pain"],
+      "examples": [
+        {
+          "scene": "小明在踢足球时不小心扭伤了脚踝，疼痛让他无法继续比赛。",
+          "chineseIdea": "脚踝扭伤后感到剧烈的刺痛，难以忍受。",
+          "sentenceWithBlank": "He felt a @ @ in his ankle after the injury.",
+          "fullEnglishSentence": "He felt a 「sharp pain」 in his ankle after the injury.",
+          "chineseTranslation": "他在受伤后感到脚踝一阵「剧烈的疼痛」。",
+          "chinglishFix": "典型中式英语：'His ankle very pain.' 纠正：'He felt a sharp pain in his ankle.'"
+        },
+        {
+          "scene": "张阿姨多年来一直忍受着关节炎带来的持续不适，尤其在冬天更严重。",
+          "chineseIdea": "关节炎导致长期的疼痛，影响日常生活。",
+          "sentenceWithBlank": "Her arthritis caused @ @ that worsened in winter.",
+          "fullEnglishSentence": "Her arthritis caused 「chronic pain」 that worsened in winter.",
+          "chineseTranslation": "她的关节炎导致「慢性疼痛」，在冬天更加严重。",
+          "chinglishFix": "典型中式英语：'She has pain for long time.' 纠正：'She suffers from chronic pain.'"
+        }
+      ]
+    },
+    {
+      "meaning": "引起情感或心理上的痛苦",
+      "usage": "描述让人感到难过、痛苦或不愉快的情感经历，通常与失落、回忆或困难处境相关。",
+      "collocations": ["painful memory", "painful experience", "painful decision"],
+      "examples": [
+        {
+          "scene": "李华在翻看老照片时，回忆起小时候与已故奶奶的时光，心中充满酸楚。",
+          "chineseIdea": "回忆过去与亲人的时光让人感到心痛。",
+          "sentenceWithBlank": "Looking at old photos brought back a @ @ of her grandmother.",
+          "fullEnglishSentence": "Looking at old photos brought back a 「painful memory」 of her grandmother.",
+          "chineseTranslation": "看着老照片勾起了她对奶奶的「痛苦回忆」。",
+          "chinglishFix": "典型中式英语：'Old photos make her heart pain.' 纠正：'Old photos bring back painful memories.'"
+        },
+        {
+          "scene": "王先生因为公司裁员，不得不解雇几位忠实的员工，这让他非常难受。",
+          "chineseIdea": "做出艰难的决定，比如解雇员工，会让人感到内心痛苦。",
+          "sentenceWithBlank": "Letting go of loyal employees was a @ @ for him.",
+          "fullEnglishSentence": "Letting go of loyal employees was a 「painful decision」 for him.",
+          "chineseTranslation": "解雇忠诚的员工对他来说是一个「痛苦的决定」。",
+          "chinglishFix": "典型中式英语：'He feels pain to fire employees.' 纠正：'It was a painful decision to let employees go.'"
+        }
+      ]
+    }
+  ]
+}
+```

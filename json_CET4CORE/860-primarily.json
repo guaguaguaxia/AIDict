@@ -1,0 +1,53 @@
+```json
+{
+  "word": "primarily",
+  "definitions": [
+    {
+      "meaning": "主要地；首要地",
+      "usage": "指某事是最重要的或最主要的原因、目的或方式，通常用于强调某事物在多个因素中的主导地位。",
+      "collocations": ["focus on", "concerned with", "driven by"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，产品经理正在向团队介绍新产品的开发方向，强调核心目标。",
+          "chineseIdea": "产品经理想说明新产品开发的首要目标是提升用户体验，而不是追求短期利润。",
+          "sentenceWithBlank": "Our development strategy @ @ user experience improvements.",
+          "fullEnglishSentence": "Our development strategy 「focuses on」 user experience improvements.",
+          "chineseTranslation": "我们的开发策略「专注于」用户体验的改进。",
+          "chinglishFix": "典型中式英语：'Our strategy is mainly for user experience.' 纠正：'Our development strategy primarily focuses on user experience.'（避免空洞的'is mainly for'，用更具体的动词搭配）"
+        },
+        {
+          "scene": "在大学课堂上，教授向学生解释一门课程的教学目标，突出课程的核心内容。",
+          "chineseIdea": "教授想强调课程主要关注培养学生的批判性思维能力，而不是仅仅传授知识。",
+          "sentenceWithBlank": "This course is @ @ developing critical thinking skills.",
+          "fullEnglishSentence": "This course is 「concerned with」 developing critical thinking skills.",
+          "chineseTranslation": "这门课程「关注于」培养批判性思维技能。",
+          "chinglishFix": "典型中式英语：'This course mainly teaches critical thinking.' 纠正：'This course is primarily concerned with developing critical thinking skills.'（'teaches'显得过于直接，'concerned with'更符合学术语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "最初地；原本地",
+      "usage": "指某事物在开始时或最初阶段的情况，通常用于描述某事物的起源或初始状态。",
+      "collocations": ["intended for", "designed as", "used by"],
+      "examples": [
+        {
+          "scene": "在一次历史讲座中，讲师介绍某座建筑的原始用途，突出其最初的设计目的。",
+          "chineseIdea": "讲师想说明这座建筑最初是为了宗教仪式而建，而不是现在的博物馆用途。",
+          "sentenceWithBlank": "This building was @ @ religious ceremonies.",
+          "fullEnglishSentence": "This building was 「intended for」 religious ceremonies.",
+          "chineseTranslation": "这座建筑「用于」宗教仪式。",
+          "chinglishFix": "典型中式英语：'This building was mainly for religious ceremonies.' 纠正：'This building was primarily intended for religious ceremonies.'（'mainly for'缺乏语境特异性，'intended for'更精准）"
+        },
+        {
+          "scene": "在科技博物馆，导游向游客介绍一台老式计算机的原始功能，强调其最初的用户群体。",
+          "chineseIdea": "导游想说明这台计算机最初是为科学家设计的，而不是普通消费者。",
+          "sentenceWithBlank": "This computer was @ @ scientists.",
+          "fullEnglishSentence": "This computer was 「designed as」 a tool for scientists.",
+          "chineseTranslation": "这台计算机「设计为」科学家的工具。",
+          "chinglishFix": "典型中式英语：'This computer was mainly for scientists.' 纠正：'This computer was primarily designed as a tool for scientists.'（'for'过于笼统，'designed as'更能体现设计意图）"
+        }
+      ]
+    }
+  ]
+}
+```
