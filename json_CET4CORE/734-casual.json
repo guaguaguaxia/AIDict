@@ -1,0 +1,76 @@
+```json
+{
+  "word": "casual",
+  "definitions": [
+    {
+      "meaning": "轻松的、不正式的",
+      "usage": "描述穿着、行为或场合时，表示不拘谨、不正式，带有随意或放松的感觉。",
+      "collocations": ["casual clothes", "casual conversation", "casual atmosphere"],
+      "examples": [
+        {
+          "scene": "周末朋友聚会在咖啡馆，氛围轻松，大家穿着舒适的衣服，聊天内容随意。",
+          "chineseIdea": "想表达一种不正式的穿着和轻松的社交氛围，强调舒适和随意。",
+          "sentenceWithBlank": "She showed up in @ @, perfectly matching the relaxed vibe.",
+          "fullEnglishSentence": "She showed up in 「casual clothes」, perfectly matching the relaxed vibe.",
+          "chineseTranslation": "她穿着「休闲衣服」，完美契合轻松的氛围。",
+          "chinglishFix": "典型中式英语：'She wears very relax clothes.' 纠正：'She wears casual clothes.'（'relax'应改为'casual'，形容衣服时不用'relax'）"
+        },
+        {
+          "scene": "同事在办公室午休时闲聊，话题轻松，气氛友好，没有正式会议的严肃感。",
+          "chineseIdea": "想表达一种非正式的对话，内容随意，气氛轻松。",
+          "sentenceWithBlank": "We had a @ @ about movies during the break.",
+          "fullEnglishSentence": "We had a 「casual conversation」 about movies during the break.",
+          "chineseTranslation": "我们在休息时进行了「轻松的对话」，聊了聊电影。",
+          "chinglishFix": "典型中式英语：'We had a relax talk.' 纠正：'We had a casual conversation.'（'relax talk'不地道，'casual conversation'更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "漫不经心的、不认真的",
+      "usage": "描述态度或行为时，表示缺乏认真或深思熟虑，带有随意或不太在意的感觉。",
+      "collocations": ["casual remark", "casual approach", "casual attitude"],
+      "examples": [
+        {
+          "scene": "朋友聚会中，有人无意中提到一个敏感话题，但语气轻松，似乎没想太多。",
+          "chineseIdea": "想表达一种不经意的评论，没有深思熟虑，可能会引起误解。",
+          "sentenceWithBlank": "His @ @ about her job upset her, though he didn’t mean to.",
+          "fullEnglishSentence": "His 「casual remark」 about her job upset her, though he didn’t mean to.",
+          "chineseTranslation": "他对她工作的「随意评论」让她不高兴，尽管他并非有意。",
+          "chinglishFix": "典型中式英语：'He made a random comment.' 纠正：'He made a casual remark.'（'random'侧重无规律，'casual'更适合表示不经意）"
+        },
+        {
+          "scene": "学生在准备考试时态度敷衍，复习不认真，导致成绩不理想。",
+          "chineseIdea": "想表达一种不认真的态度，缺乏努力或专注。",
+          "sentenceWithBlank": "Her @ @ to studying led to poor grades.",
+          "fullEnglishSentence": "Her 「casual approach」 to studying led to poor grades.",
+          "chineseTranslation": "她对学习的「敷衍态度」导致成绩不佳。",
+          "chinglishFix": "典型中式英语：'She has a relax attitude to study.' 纠正：'She has a casual approach to studying.'（'relax attitude'不地道，'casual approach'更准确）"
+        }
+      ]
+    },
+    {
+      "meaning": "临时的、不定期的",
+      "usage": "描述工作或关系时，表示非长期或非正式的，带有临时或不固定的性质。",
+      "collocations": ["casual work", "casual relationship", "casual employee"],
+      "examples": [
+        {
+          "scene": "大学生在暑假做临时工，比如在咖啡店打零工，工作时间灵活，没有长期合同。",
+          "chineseIdea": "想表达一种非正式、短期的劳动，没有固定的工作承诺。",
+          "sentenceWithBlank": "He took on some @ @ at a café during the summer.",
+          "fullEnglishSentence": "He took on some 「casual work」 at a café during the summer.",
+          "chineseTranslation": "他在暑假期间在咖啡店做了一些「临时工作」。",
+          "chinglishFix": "典型中式英语：'He did some temporary job.' 纠正：'He did some casual work.'（'temporary job'也可，但'casual work'更常用于灵活、非正式工作）"
+        },
+        {
+          "scene": "两个人在约会，但没有承诺长期关系，双方都保持轻松、不认真的状态。",
+          "chineseIdea": "想表达一种非正式的感情关系，双方都没有严肃的承诺。",
+          "sentenceWithBlank": "They’re in a @ @ with no plans for the future.",
+          "fullEnglishSentence": "They’re in a 「casual relationship」 with no plans for the future.",
+          "chineseTranslation": "他们处于一种「随意关系」，没有未来的计划。",
+          "chinglishFix": "典型中式英语：'They have a relax relationship.' 纠正：'They have a casual relationship.'（'relax'不适合描述关系，'casual'更贴切）"
+        }
+      ]
+    }
+  ]
+}
+```

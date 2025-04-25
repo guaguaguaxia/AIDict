@@ -1,0 +1,61 @@
+```json
+{
+  "word": "complicated",
+  "definitions": [
+    {
+      "meaning": "复杂的，难以理解或处理的",
+      "usage": "描述某事物由于包含许多部分、细节或因素而难以理解、解决或处理，常用于抽象概念（如问题、情况、关系）或具体事物（如系统、设计）。",
+      "collocations": [
+        "a complicated issue",
+        "a complicated process",
+        "a complicated relationship"
+      ],
+      "examples": [
+        {
+          "scene": "一位中国学生在准备雅思口语考试时，面对一个关于全球化的复杂话题，感到难以组织语言来表达自己的观点。",
+          "chineseIdea": "学生想表达全球化涉及经济、文化和政治等多个方面，很难用简单的语言概括。",
+          "sentenceWithBlank": "Globalization is @ @ @ because it involves many interconnected factors.",
+          "fullEnglishSentence": "Globalization is 「a complicated issue」 because it involves many interconnected factors.",
+          "chineseTranslation": "全球化是「一个复杂的问题」，因为它涉及许多相互关联的因素。",
+          "chinglishFix": "典型中式英语：'Globalization is very complexed.' 纠正：'Complexed' 不是正确的形容词，应改为 'complex' 或 'complicated'。正确表达为 'Globalization is a complicated issue.'"
+        },
+        {
+          "scene": "一位工程师在向客户解释公司新开发的软件系统时，客户对系统的运作方式感到困惑。",
+          "chineseIdea": "工程师想说明软件的开发过程涉及多个技术层面，需要大量协调工作。",
+          "sentenceWithBlank": "Explaining the software is difficult because it involves @ @ @.",
+          "fullEnglishSentence": "Explaining the software is difficult because it involves 「a complicated process」.",
+          "chineseTranslation": "解释这个软件很困难，因为它涉及「一个复杂的过程」。",
+          "chinglishFix": "典型中式英语：'The software process is very complicate.' 纠正：'Complicate' 是动词，形容词应为 'complicated'。正确表达为 'It involves a complicated process.'"
+        }
+      ]
+    },
+    {
+      "meaning": "复杂的（感情或人际关系），纠结或难以理清的",
+      "usage": "描述人际关系或情感状态由于矛盾、冲突或多方因素而显得复杂，常带有情感色彩。",
+      "collocations": [
+        "a complicated relationship",
+        "a complicated situation",
+        "complicated feelings"
+      ],
+      "examples": [
+        {
+          "scene": "一位中国留学生在国外与室友相处时，因为文化差异和生活习惯不同，关系变得紧张且难以处理。",
+          "chineseIdea": "留学生想表达与室友的关系因为沟通问题和不同期望而变得纠结。",
+          "sentenceWithBlank": "Living with my roommate has led to @ @ @ due to our cultural differences.",
+          "fullEnglishSentence": "Living with my roommate has led to 「a complicated relationship」 due to our cultural differences.",
+          "chineseTranslation": "与我的室友一起生活导致了「一种复杂的关系」，因为我们的文化差异。",
+          "chinglishFix": "典型中式英语：'Our relationship is very complex.' 纠正：'Complex' 在此语境中显得过于正式，'complicated' 更自然。正确表达为 'We have a complicated relationship.'"
+        },
+        {
+          "scene": "一位职场新人发现自己对同事既感激又嫉妒，因为同事在工作中既帮助了她，又比她表现更出色。",
+          "chineseIdea": "新人想表达自己的情感很矛盾，难以用单一的情绪来描述。",
+          "sentenceWithBlank": "I have @ @ about my colleague because she is both helpful and competitive.",
+          "fullEnglishSentence": "I have 「complicated feelings」 about my colleague because she is both helpful and competitive.",
+          "chineseTranslation": "我对我的同事有「复杂的感情」，因为她既乐于助人又很有竞争力。",
+          "chinglishFix": "典型中式英语：'My feeling to her is very complicated.' 纠正：'Feeling' 应为复数 'feelings'，且 'to her' 不自然。正确表达为 'I have complicated feelings about her.'"
+        }
+      ]
+    }
+  ]
+}
+```

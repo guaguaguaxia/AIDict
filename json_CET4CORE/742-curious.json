@@ -1,0 +1,53 @@
+```json
+{
+  "word": "curious",
+  "definitions": [
+    {
+      "meaning": "渴望知道或学习某事，表现出兴趣",
+      "usage": "描述一个人对某事物有强烈的求知欲，通常用于积极语境，表示对新知识或经历的好奇心。",
+      "collocations": ["curious about", "curious to know", "curious mind"],
+      "examples": [
+        {
+          "scene": "一个年轻的学生在课堂上听老师讲关于宇宙的知识，眼睛闪闪发光，迫不及待想了解更多。",
+          "chineseIdea": "学生对宇宙的奥秘充满兴趣，想知道更多关于星星和行星的知识。",
+          "sentenceWithBlank": "She was @ @ the origins of the universe after the lecture.",
+          "fullEnglishSentence": "She was 「curious about」 the origins of the universe after the lecture.",
+          "chineseTranslation": "她在讲座后对宇宙的起源「充满好奇」。",
+          "chinglishFix": "典型中式英语：She very wants to know the universe. 纠正：She is very curious about the universe."
+        },
+        {
+          "scene": "一个朋友在咖啡馆聊天时，听说你最近去了一个神秘的地方旅行，迫不及待想了解细节。",
+          "chineseIdea": "朋友对你的旅行经历非常感兴趣，想知道具体发生了什么。",
+          "sentenceWithBlank": "He was @ @ @ what happened during my trip to the ancient ruins.",
+          "fullEnglishSentence": "He was 「curious to know」 what happened during my trip to the ancient ruins.",
+          "chineseTranslation": "他「很想知道」我在古遗迹旅行期间发生了什么。",
+          "chinglishFix": "典型中式英语：He very interest to know your trip. 纠正：He is very curious to know about your trip."
+        }
+      ]
+    },
+    {
+      "meaning": "奇怪的，异常的",
+      "usage": "描述某事物不寻常或出乎意料，通常带有轻微的疑惑或惊讶语气，可能暗示不完全积极的感受。",
+      "collocations": ["curious thing", "curious fact", "curious incident"],
+      "examples": [
+        {
+          "scene": "你在公园散步时，发现一个无人看守的摊位，上面摆满了古老的书和奇怪的小物件。",
+          "chineseIdea": "这个摊位看起来很不寻常，让你觉得有点奇怪但又吸引人。",
+          "sentenceWithBlank": "It was a @ @ to find an unattended stall full of old books and odd trinkets.",
+          "fullEnglishSentence": "It was a 「curious thing」 to find an unattended stall full of old books and odd trinkets.",
+          "chineseTranslation": "发现一个无人看守的摊位，上面全是旧书和奇怪的小饰品，真是件「奇怪的事」。",
+          "chinglishFix": "典型中式英语：This stall is very strange thing. 纠正：It’s a very curious thing to see this stall."
+        },
+        {
+          "scene": "你读了一篇新闻报道，提到一个小镇的居民每年都会在同一天收到匿名礼物。",
+          "chineseIdea": "这个现象很不寻常，让人觉得有点神秘。",
+          "sentenceWithBlank": "The town’s tradition of receiving anonymous gifts was a @ @.",
+          "fullEnglishSentence": "The town’s tradition of receiving anonymous gifts was a 「curious fact」.",
+          "chineseTranslation": "这个小镇每年收到匿名礼物的传统是个「奇怪的事实」。",
+          "chinglishFix": "典型中式英语：This is a very odd thing. 纠正：This is a curious fact."
+        }
+      ]
+    }
+  ]
+}
+```

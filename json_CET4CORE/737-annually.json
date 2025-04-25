@@ -1,0 +1,53 @@
+```json
+{
+  "word": "annually",
+  "definitions": [
+    {
+      "meaning": "每年一次或每年的",
+      "usage": "用作副词，描述某事以一年为周期发生或计算，通常与财务、统计、事件或定期活动相关。",
+      "collocations": ["report annually", "review annually", "renew annually", "meet annually"],
+      "examples": [
+        {
+          "scene": "一家公司在年底发布其年度财务报告，总结过去一年的经营状况。",
+          "chineseIdea": "公司需要向股东和公众展示其每年的财务表现。",
+          "sentenceWithBlank": "The company @ @ to inform stakeholders about its financial performance.",
+          "fullEnglishSentence": "The company 「reports annually」 to inform stakeholders about its financial performance.",
+          "chineseTranslation": "公司「每年报告」以向利益相关者通报其财务表现。",
+          "chinglishFix": "典型中式英语：The company every year report its finance. 纠正：The company reports annually on its financial performance."
+        },
+        {
+          "scene": "一位员工与经理进行年度绩效评估，讨论过去一年的工作表现。",
+          "chineseIdea": "员工需要定期与上级回顾工作成果并设定新目标。",
+          "sentenceWithBlank": "Employees @ @ to discuss their achievements and set new goals.",
+          "fullEnglishSentence": "Employees 「review annually」 to discuss their achievements and set new goals.",
+          "chineseTranslation": "员工「每年回顾」以讨论他们的成就并设定新目标。",
+          "chinglishFix": "典型中式英语：Employees every year check their work. 纠正：Employees review their work annually."
+        }
+      ]
+    },
+    {
+      "meaning": "按年计算的",
+      "usage": "用作副词，描述某事物以年为单位进行衡量或支付，通常用于薪资、利率或其他定期费用。",
+      "collocations": ["pay annually", "calculate annually", "compound annually"],
+      "examples": [
+        {
+          "scene": "一位自由职业者与客户签订合同，约定按年支付服务费用。",
+          "chineseIdea": "自由职业者希望通过年度合同获得稳定的收入。",
+          "sentenceWithBlank": "The freelancer prefers to @ @ to ensure a steady income.",
+          "fullEnglishSentence": "The freelancer prefers to 「pay annually」 to ensure a steady income.",
+          "chineseTranslation": "自由职业者更喜欢「每年支付」以确保稳定收入。",
+          "chinglishFix": "典型中式英语：The freelancer wants every year get paid. 纠正：The freelancer prefers to be paid annually."
+        },
+        {
+          "scene": "一位投资者了解银行存款的年化利率，以决定是否投资。",
+          "chineseIdea": "投资者需要知道利息如何按年计算以评估回报。",
+          "sentenceWithBlank": "The interest rate is @ @ to provide a clear return estimate.",
+          "fullEnglishSentence": "The interest rate is 「calculated annually」 to provide a clear return estimate.",
+          "chineseTranslation": "利率是「按年计算」以提供明确的回报估计。",
+          "chinglishFix": "典型中式英语：The interest every year calculate. 纠正：The interest is calculated annually."
+        }
+      ]
+    }
+  ]
+}
+```
