@@ -1,0 +1,76 @@
+```json
+{
+  "word": "donate",
+  "definitions": [
+    {
+      "meaning": "无偿给予（金钱、物品等），通常为了慈善或公共事业",
+      "usage": "指将金钱、物品或时间无偿提供给个人、组织或慈善机构，常用于表达慷慨或支持某项事业的行为。",
+      "collocations": ["to a charity", "blood", "money"],
+      "examples": [
+        {
+          "scene": "一个大学生在学校组织的慈善活动中，看到宣传板上写着需要为贫困地区的儿童筹集资金。他决定贡献自己的一部分零花钱。",
+          "chineseIdea": "他想通过贡献自己的零花钱来帮助那些需要帮助的孩子，觉得这是一件有意义的事情。",
+          "sentenceWithBlank": "He decided to @ @ @ to help children in need.",
+          "fullEnglishSentence": "He decided to 「donate to a charity」 to help children in need.",
+          "chineseTranslation": "他决定「捐款给慈善机构」来帮助有需要的儿童。",
+          "chinglishFix": "典型中式英语：He wants to give money to charity. 纠正：He wants to donate to a charity.（'give money' 显得笼统，'donate' 更精确且常见。）"
+        },
+        {
+          "scene": "一位职场人士在公司组织的公益活动中，听说可以通过定期捐款支持环保项目，决定每月从工资中拿出一部分。",
+          "chineseIdea": "她希望通过定期贡献一部分收入来支持环境保护，觉得这对社会有益。",
+          "sentenceWithBlank": "She signed up to @ @ every month to support environmental projects.",
+          "fullEnglishSentence": "She signed up to 「donate money」 every month to support environmental projects.",
+          "chineseTranslation": "她报名每月「捐款」来支持环保项目。",
+          "chinglishFix": "典型中式英语：She will give some money every month. 纠正：She will donate money every month.（'give' 不够正式，'donate' 更适合公益场景。）"
+        }
+      ]
+    },
+    {
+      "meaning": "捐献（身体组织或器官），如血液、器官等，用于医疗或救助",
+      "usage": "指将自己的血液、器官或其他身体组织无偿提供给医疗系统，用于救助他人或研究，常与健康和无私奉献相关。",
+      "collocations": ["blood", "organs", "bone marrow"],
+      "examples": [
+        {
+          "scene": "一个年轻人在社区医院看到献血车的宣传，了解到献血可以帮助急需输血的病人。他决定参与。",
+          "chineseIdea": "他觉得献出自己的血液可以救人，是一件很有价值的行为。",
+          "sentenceWithBlank": "He volunteered to @ @ to help save lives.",
+          "fullEnglishSentence": "He volunteered to 「donate blood」 to help save lives.",
+          "chineseTranslation": "他自愿「献血」来帮助救人。",
+          "chinglishFix": "典型中式英语：He wants to give his blood. 纠正：He wants to donate blood.（'give blood' 不自然，'donate blood' 是固定搭配。）"
+        },
+        {
+          "scene": "一位中年人在了解了器官捐献的重要性后，决定签署协议，承诺在去世后将自己的器官用于救助他人。",
+          "chineseIdea": "他希望即使在生命结束后，也能通过贡献器官来帮助他人延续生命。",
+          "sentenceWithBlank": "He signed a pledge to @ @ after his passing.",
+          "fullEnglishSentence": "He signed a pledge to 「donate organs」 after his passing.",
+          "chineseTranslation": "他签署了一份承诺书，在去世后「捐献器官」。",
+          "chinglishFix": "典型中式英语：He will give his organs. 纠正：He will donate his organs.（'give organs' 不地道，'donate organs' 是标准表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "提供（时间、技能等），通常为了支持某项活动或事业",
+      "usage": "指将自己的时间、技能或其他非物质资源无偿贡献给某项活动、组织或社区，常用于描述志愿行为。",
+      "collocations": ["time", "skills", "efforts"],
+      "examples": [
+        {
+          "scene": "一位退休教师听说社区图书馆需要志愿者帮助整理书籍和教孩子们阅读，她决定每周花几个小时参与。",
+          "chineseIdea": "她希望通过贡献自己的时间和教学经验来帮助社区的孩子们培养阅读兴趣。",
+          "sentenceWithBlank": "She offered to @ @ to help children improve their reading.",
+          "fullEnglishSentence": "She offered to 「donate time」 to help children improve their reading.",
+          "chineseTranslation": "她主动提出「贡献时间」来帮助孩子们提高阅读能力。",
+          "chinglishFix": "典型中式英语：She wants to give her time to the library. 纠正：She wants to donate her time to the library.（'give time' 不常见，'donate time' 更自然。）"
+        },
+        {
+          "scene": "一位平面设计师在朋友的非营利组织活动中，主动提出为他们的宣传活动设计海报。",
+          "chineseIdea": "他希望通过贡献自己的专业技能来支持朋友的事业，同时展示自己的设计能力。",
+          "sentenceWithBlank": "He agreed to @ @ to create posters for the event.",
+          "fullEnglishSentence": "He agreed to 「donate skills」 to create posters for the event.",
+          "chineseTranslation": "他同意「贡献技能」为活动设计海报。",
+          "chinglishFix": "典型中式英语：He will give his skills to the event. 纠正：He will donate his skills to the event.（'give skills' 不地道，'donate skills' 更符合英语习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```

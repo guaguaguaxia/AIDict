@@ -1,0 +1,53 @@
+```json
+{
+  "word": "detail",
+  "definitions": [
+    {
+      "meaning": "细节；具体信息",
+      "usage": "指具体、细小的部分或信息，通常用于描述某事物的精确或深入的方面，常用于正式或非正式场合。",
+      "collocations": ["in detail", "pay attention to detail", "go into detail", "fine detail"],
+      "examples": [
+        {
+          "scene": "在一次工作会议中，经理正在向团队介绍新项目的计划，要求大家关注具体步骤。",
+          "chineseIdea": "经理希望团队不仅了解项目的整体目标，还要深入了解每个步骤的具体内容。",
+          "sentenceWithBlank": "The manager asked us to discuss the project @ @ to ensure everyone understands the process.",
+          "fullEnglishSentence": "The manager asked us to discuss the project 「in detail」 to ensure everyone understands the process.",
+          "chineseTranslation": "经理要求我们「详细地」讨论项目，以确保每个人都理解流程。",
+          "chinglishFix": "典型中式英语：'Discuss the project very detailed.' 纠正：'Discuss the project in detail.'"
+        },
+        {
+          "scene": "一位朋友在咖啡馆分享她最近的旅行经历，特别提到了一些有趣的小故事。",
+          "chineseIdea": "朋友想通过分享具体的经历，让听者感受到旅行的乐趣。",
+          "sentenceWithBlank": "She described her trip to Italy @ @ @, sharing stories about the local culture.",
+          "fullEnglishSentence": "She described her trip to Italy 「in fine detail」, sharing stories about the local culture.",
+          "chineseTranslation": "她「非常详细地」描述了意大利之旅，分享了当地文化的故事。",
+          "chinglishFix": "典型中式英语：'She talked her trip very detail.' 纠正：'She described her trip in detail.'"
+        }
+      ]
+    },
+    {
+      "meaning": "详细说明；详述",
+      "usage": "作为动词，指详细地描述或解释某事物，常见于书面或正式语境，如报告、说明书或叙述中。",
+      "collocations": ["detail the process", "detail the plan", "detail the requirements"],
+      "examples": [
+        {
+          "scene": "一位工程师在技术会议上向客户解释新产品的开发流程。",
+          "chineseIdea": "工程师需要清楚地说明每个开发阶段的具体步骤，以赢得客户的信任。",
+          "sentenceWithBlank": "The engineer was asked to @ @ @ to clarify each step for the client.",
+          "fullEnglishSentence": "The engineer was asked to 「detail the process」 to clarify each step for the client.",
+          "chineseTranslation": "工程师被要求「详细说明流程」，以便为客户澄清每个步骤。",
+          "chinglishFix": "典型中式英语：'Explain the process very detailed.' 纠正：'Detail the process clearly.'"
+        },
+        {
+          "scene": "一位老师在课堂上向学生解释一项复杂的作业要求。",
+          "chineseIdea": "老师希望通过清晰的说明，让学生明白作业的具体要求和评分标准。",
+          "sentenceWithBlank": "The teacher took time to @ @ @ so students could start the assignment confidently.",
+          "fullEnglishSentence": "The teacher took time to 「detail the requirements」 so students could start the assignment confidently.",
+          "chineseTranslation": "老师花时间「详细说明要求」，以便学生能够自信地开始作业。",
+          "chinglishFix": "典型中式英语：'Teacher said the requirements very detail.' 纠正：'The teacher detailed the requirements clearly.'"
+        }
+      ]
+    }
+  ]
+}
+```

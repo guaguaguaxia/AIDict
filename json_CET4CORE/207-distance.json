@@ -1,0 +1,76 @@
+```json
+{
+  "word": "distance",
+  "definitions": [
+    {
+      "meaning": "物理上的距离或间隔",
+      "usage": "指两个物体、地点或人之间的物理空间间隔，常用于描述可测量的长度或空间分离。",
+      "collocations": ["keep a distance", "short distance", "long distance"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的火车站，你和朋友需要保持一定的空间以避免拥挤，同时还能继续交谈。",
+          "chineseIdea": "为了避免过于拥挤，你会选择与朋友稍微分开一些，但仍然能看到彼此。",
+          "sentenceWithBlank": "To avoid the crowd, we decided to @ @ @ from each other while still talking.",
+          "fullEnglishSentence": "To avoid the crowd, we decided to 「keep a distance」 from each other while still talking.",
+          "chineseTranslation": "为了避免拥挤，我们决定「保持距离」但仍然继续交谈。",
+          "chinglishFix": "典型中式英语：'We stay far to talk.' 纠正：'We keep a distance to continue talking.'"
+        },
+        {
+          "scene": "你和朋友计划去附近的一家咖啡店，步行只需要几分钟。",
+          "chineseIdea": "咖啡店很近，步行过去很方便，不需要开车或乘坐公共交通。",
+          "sentenceWithBlank": "The café is just a @ @ away, so we can walk there.",
+          "fullEnglishSentence": "The café is just a 「short distance」 away, so we can walk there.",
+          "chineseTranslation": "咖啡店只有「很短的距离」，所以我们可以步行过去。",
+          "chinglishFix": "典型中式英语：'The café is very near distance.' 纠正：'The café is a short distance away.'"
+        }
+      ]
+    },
+    {
+      "meaning": "情感或心理上的疏远",
+      "usage": "指人与人之间在情感、态度或关系上的疏离或冷淡，通常带有抽象含义。",
+      "collocations": ["emotional distance", "create distance", "feel a distance"],
+      "examples": [
+        {
+          "scene": "你和一位老朋友因为长期没有联系，感觉彼此的关系变得有些陌生。",
+          "chineseIdea": "虽然你们曾经很亲密，但现在因为缺乏沟通，关系变得疏远了。",
+          "sentenceWithBlank": "After years of no contact, I began to @ @ @ from my old friend.",
+          "fullEnglishSentence": "After years of no contact, I began to 「feel a distance」 from my old friend.",
+          "chineseTranslation": "多年没有联系后，我开始「感到疏远」我的老朋友。",
+          "chinglishFix": "典型中式英语：'I feel far with my friend.' 纠正：'I feel a distance from my friend.'"
+        },
+        {
+          "scene": "在工作中，你和一位同事因为意见不合，刻意减少了交流。",
+          "chineseIdea": "为了避免冲突，你选择与同事保持一定的心理界限，减少不必要的互动。",
+          "sentenceWithBlank": "To avoid arguments, she decided to @ @ between herself and her colleague.",
+          "fullEnglishSentence": "To avoid arguments, she decided to 「create distance」 between herself and her colleague.",
+          "chineseTranslation": "为了避免争吵，她决定在自己和同事之间「制造距离」。",
+          "chinglishFix": "典型中式英语：'She wants to far from her colleague.' 纠正：'She wants to create distance from her colleague.'"
+        }
+      ]
+    },
+    {
+      "meaning": "时间上的间隔",
+      "usage": "指事件或时间点之间的时间跨度，通常用于描述过去或未来的时间间隔。",
+      "collocations": ["at a distance of", "great distance in time", "safe distance in time"],
+      "examples": [
+        {
+          "scene": "你在回忆童年时，感觉那些日子已经过去了很久。",
+          "chineseIdea": "童年的记忆虽然清晰，但感觉已经离现在很远了。",
+          "sentenceWithBlank": "My childhood feels like it happened @ @ @ years.",
+          "fullEnglishSentence": "My childhood feels like it happened 「at a distance of」 years.",
+          "chineseTranslation": "我的童年感觉像是「相隔多年」的事情。",
+          "chinglishFix": "典型中式英语：'My childhood is far years.' 纠正：'My childhood feels at a distance of years.'"
+        },
+        {
+          "scene": "你在计划一次旅行，确保行程安排之间有足够的时间缓冲。",
+          "chineseIdea": "为了避免行程过于紧张，你会在活动之间留出一些时间间隔。",
+          "sentenceWithBlank": "We scheduled the meetings at a @ @ @ @ to avoid rushing.",
+          "fullEnglishSentence": "We scheduled the meetings at a 「safe distance in time」 to avoid rushing.",
+          "chineseTranslation": "我们将会议安排在「安全的时间间隔」内，以避免匆忙。",
+          "chinglishFix": "典型中式英语：'We put meetings with time far.' 纠正：'We scheduled meetings at a safe distance in time.'"
+        }
+      ]
+    }
+  ]
+}
+```

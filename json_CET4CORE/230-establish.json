@@ -1,0 +1,76 @@
+```json
+{
+  "word": "establish",
+  "definitions": [
+    {
+      "meaning": "设立、建立（某组织、系统或机构）",
+      "usage": "指创建或设立一个实体，如公司、机构、组织等，通常涉及正式的过程或法律程序。",
+      "collocations": ["a company", "a business", "a foundation", "a relationship"],
+      "examples": [
+        {
+          "scene": "一位年轻的企业家在上海决定创业，开办一家科技公司，专注于人工智能开发。他需要注册公司、寻找投资并组建团队。",
+          "chineseIdea": "他想要正式创建一个商业实体，让它成为一个有法律地位的组织。",
+          "sentenceWithBlank": "After months of planning, he finally @ to pursue his passion for AI.",
+          "fullEnglishSentence": "After months of planning, he finally 「established a company」 to pursue his passion for AI.",
+          "chineseTranslation": "经过几个月的计划，他终于「设立了一家公司」来追求他对人工智能的热情。",
+          "chinglishFix": "典型中式英语：He built a company. 纠正：'Build' 通常指物理建造，改为 'establish' 或 'set up' 表示正式设立。"
+        },
+        {
+          "scene": "一个非营利组织想要在中国推广环保教育，他们决定成立一个基金会来资助相关项目，并与学校合作。",
+          "chineseIdea": "他们希望创建一个正式的组织来支持环保教育项目。",
+          "sentenceWithBlank": "To fund their initiatives, they decided to @ for environmental education.",
+          "fullEnglishSentence": "To fund their initiatives, they decided to 「establish a foundation」 for environmental education.",
+          "chineseTranslation": "为了资助他们的项目，他们决定「设立一个基金会」来支持环保教育。",
+          "chinglishFix": "典型中式英语：They made a foundation. 纠正：'Make' 不适用于创建正式组织，改为 'establish' 或 'create'。"
+        }
+      ]
+    },
+    {
+      "meaning": "建立（关系、联系或声誉）",
+      "usage": "指通过努力或时间逐渐形成某种联系、关系或声誉，通常强调过程的稳固性。",
+      "collocations": ["a relationship", "trust", "a reputation", "credibility"],
+      "examples": [
+        {
+          "scene": "一位新来的经理加入了一家国际公司，他需要与团队成员建立良好的工作关系，以便顺利开展项目。",
+          "chineseIdea": "他希望通过沟通和合作，与同事们形成稳固的职业联系。",
+          "sentenceWithBlank": "He worked hard to @ with his new colleagues.",
+          "fullEnglishSentence": "He worked hard to 「establish a relationship」 with his new colleagues.",
+          "chineseTranslation": "他努力「建立关系」与新同事相处。",
+          "chinglishFix": "典型中式英语：He built relationship with them. 纠正：'Build' 不适用于抽象的关系，改为 'establish' 或 'develop'。"
+        },
+        {
+          "scene": "一家小型咖啡店通过提供高质量的咖啡和友好的服务，逐渐在社区中赢得了良好的声誉。",
+          "chineseIdea": "咖啡店希望通过持续的优质服务，让顾客认可它的品牌。",
+          "sentenceWithBlank": "Over time, the café managed to @ among locals.",
+          "fullEnglishSentence": "Over time, the café managed to 「establish a reputation」 among locals.",
+          "chineseTranslation": "随着时间推移，这家咖啡店在当地人中「建立了声誉」。",
+          "chinglishFix": "典型中式英语：The café got reputation. 纠正：'Get' 过于笼统且不正式，改为 'establish' 或 'build' 表示声誉的形成。"
+        }
+      ]
+    },
+    {
+      "meaning": "确立、证明（事实、规则或原则）",
+      "usage": "指通过证据或行动明确某事物的真实性或有效性，常用于正式或学术语境。",
+      "collocations": ["a fact", "the truth", "a rule", "a principle"],
+      "examples": [
+        {
+          "scene": "一名科学家在实验室中通过多次实验，确认了一种新药对某种疾病的有效性。",
+          "chineseIdea": "他希望通过数据和实验结果，证明新药的治疗效果是真实的。",
+          "sentenceWithBlank": "Her experiments helped to @ about the drug’s effectiveness.",
+          "fullEnglishSentence": "Her experiments helped to 「establish a fact」 about the drug’s effectiveness.",
+          "chineseTranslation": "她的实验帮助「确立了一个事实」，证明了该药的有效性。",
+          "chinglishFix": "典型中式英语：Her experiments proved the drug is effective. 纠正：'Prove' 虽然正确，但 'establish a fact' 更强调通过证据确立，适合正式语境。"
+        },
+        {
+          "scene": "一家公司制定了一套新的工作流程，确保所有员工都能高效协作。",
+          "chineseIdea": "公司希望通过明确的指导方针，让工作流程成为标准。",
+          "sentenceWithBlank": "The new guidelines were designed to @ for collaboration.",
+          "fullEnglishSentence": "The new guidelines were designed to 「establish a rule」 for collaboration.",
+          "chineseTranslation": "新指南旨在「确立一条规则」以促进协作。",
+          "chinglishFix": "典型中式英语：The guidelines made a rule. 纠正：'Make' 不适合表示正式确立规则，改为 'establish' 或 'set'。"
+        }
+      ]
+    }
+  ]
+}
+```

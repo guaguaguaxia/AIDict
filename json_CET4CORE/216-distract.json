@@ -1,0 +1,53 @@
+```json
+{
+  "word": "distract",
+  "definitions": [
+    {
+      "meaning": "使分心；使注意力分散",
+      "usage": "指通过干扰或吸引注意力，使某人无法专注于正在做的事情，通常用于描述注意力被外界的刺激或活动转移的情况。",
+      "collocations": ["distract attention from", "distract someone from", "distract oneself with"],
+      "examples": [
+        {
+          "scene": "小明在图书馆准备期末考试，但旁边桌子的讨论声不断干扰他。",
+          "chineseIdea": "小明试图专注于复习，但外界的噪音让他无法集中精神。",
+          "sentenceWithBlank": "The loud conversation at the next table @ @ @ his studying.",
+          "fullEnglishSentence": "The loud conversation at the next table 「distracted him from」 his studying.",
+          "chineseTranslation": "旁边桌子的喧闹谈话「使他从学习中分心」。",
+          "chinglishFix": "典型中式英语：'The noise made him cannot focus on study.' 纠正：'The noise distracted him from studying.'（使用'distract from'表达分心，并避免'cannot focus'的生硬表达。）"
+        },
+        {
+          "scene": "公司会议上，经理正在讨论季度目标，但窗外的施工噪音让大家难以专心。",
+          "chineseIdea": "施工噪音吸引了与会者的注意力，导致他们无法专注于会议内容。",
+          "sentenceWithBlank": "The construction noise outside @ @ @ the meeting’s agenda.",
+          "fullEnglishSentence": "The construction noise outside 「distracted attention from」 the meeting’s agenda.",
+          "chineseTranslation": "窗外的施工噪音「使注意力从会议议程上分散」。",
+          "chinglishFix": "典型中式英语：'The noise let us not concentrate the meeting.' 纠正：'The noise distracted attention from the meeting.'（使用'distract attention from'，并修正语序和表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "转移注意力；使某人暂时忘记烦恼",
+      "usage": "指通过某种活动或行为，使某人暂时将注意力从烦恼、痛苦或压力中转移出来，通常带有安慰或缓解情绪的含义。",
+      "collocations": ["distract oneself with", "distract someone by", "distract from worries"],
+      "examples": [
+        {
+          "scene": "小红刚和男友分手，心情低落，她决定去看一部喜剧电影来缓解情绪。",
+          "chineseIdea": "小红想通过看电影让自己暂时忘记失恋的痛苦。",
+          "sentenceWithBlank": "She watched a comedy movie to @ @ @ her breakup.",
+          "fullEnglishSentence": "She watched a comedy movie to 「distract herself with」 her breakup.",
+          "chineseTranslation": "她看了一部喜剧电影来「让自己从分手中分心」。",
+          "chinglishFix": "典型中式英语：'She watched movie to forget her sad.' 纠正：'She watched a movie to distract herself from her sadness.'（使用'distract oneself from'，并改进'forget her sad'的表达。）"
+        },
+        {
+          "scene": "小刚因为工作压力大，晚上睡不着，他开始玩手机游戏来放松。",
+          "chineseIdea": "小刚通过玩游戏来暂时忘记工作的压力。",
+          "sentenceWithBlank": "He played mobile games to @ @ @ his work stress.",
+          "fullEnglishSentence": "He played mobile games to 「distract himself with」 his work stress.",
+          "chineseTranslation": "他玩手机游戏来「让自己从工作压力中分心」。",
+          "chinglishFix": "典型中式英语：'He played games to not think work.' 纠正：'He played games to distract himself from work stress.'（使用'distract from'，并修正语义不清的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```
