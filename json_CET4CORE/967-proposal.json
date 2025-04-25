@@ -1,0 +1,53 @@
+```json
+{
+  "word": "proposal",
+  "definitions": [
+    {
+      "meaning": "建议或提议，尤指正式提出的计划或想法",
+      "usage": "指某人正式提出一个计划、建议或想法，通常用于商业、学术或正式场合，可能需要讨论或批准。",
+      "collocations": ["make a proposal", "submit a proposal", "accept a proposal"],
+      "examples": [
+        {
+          "scene": "在一家科技公司的会议室中，项目经理正在向团队提出一个新的产品开发计划，希望获得管理层的批准。",
+          "chineseIdea": "项目经理想要表达他们团队有一个详细的计划，可以推动公司的新产品研发。",
+          "sentenceWithBlank": "The project manager @ @ @ to the board for a new AI-driven product.",
+          "fullEnglishSentence": "The project manager 「made a proposal」 to the board for a new AI-driven product.",
+          "chineseTranslation": "项目经理向董事会「提出了一个建议」，关于一个新的AI驱动产品。",
+          "chinglishFix": "典型中式英语：'He gave a suggestion to the board.' 纠正：'Suggestion' 更口语化且不正式，改为 'He made a proposal' 以体现正式提议。"
+        },
+        {
+          "scene": "在一个城市规划委员会的会议上，建筑公司提交了一份关于建造新图书馆的详细计划书。",
+          "chineseIdea": "建筑公司希望通过提交详细的计划书来说服委员会批准他们的建筑项目。",
+          "sentenceWithBlank": "The construction firm @ @ @ to the city council for a new library.",
+          "fullEnglishSentence": "The construction firm 「submitted a proposal」 to the city council for a new library.",
+          "chineseTranslation": "建筑公司向市议会「提交了一份建议」，关于一座新图书馆。",
+          "chinglishFix": "典型中式英语：'They sent a plan to the council.' 纠正：'Plan' 过于笼统，改为 'They submitted a proposal' 更符合正式提交文件的语境。"
+        }
+      ]
+    },
+    {
+      "meaning": "求婚，某人向另一人提出结婚的请求",
+      "usage": "指某人向心仪的对象正式提出结婚的请求，通常带有浪漫或感性的语境。",
+      "collocations": ["marriage proposal", "pop the question", "accept a proposal"],
+      "examples": [
+        {
+          "scene": "在一个海边餐厅的烛光晚餐中，男士单膝跪地，向女友表达爱意并请求结婚。",
+          "chineseIdea": "男士希望通过浪漫的方式表达自己对女友的爱，并请求她共度余生。",
+          "sentenceWithBlank": "During dinner, he got down on one knee and @ @ @.",
+          "fullEnglishSentence": "During dinner, he got down on one knee and 「popped the question」.",
+          "chineseTranslation": "在晚餐时，他单膝跪地「求婚了」。",
+          "chinglishFix": "典型中式英语：'He asked her to marry.' 纠正：'Ask to marry' 缺乏浪漫语境，改为 'He popped the question' 更符合英语中的习惯表达。"
+        },
+        {
+          "scene": "在一个家庭聚会上，女子激动地向亲友宣布她的男友刚刚向她求婚，她同意了。",
+          "chineseIdea": "女子想要分享自己接受男友求婚的喜悦，表达对未来的期待。",
+          "sentenceWithBlank": "She joyfully announced that she had @ @ @ from her boyfriend.",
+          "fullEnglishSentence": "She joyfully announced that she had 「accepted a proposal」 from her boyfriend.",
+          "chineseTranslation": "她兴奋地宣布，她已经「接受了男友的求婚」。",
+          "chinglishFix": "典型中式英语：'She agreed to his marriage request.' 纠正：'Marriage request' 生硬且不自然，改为 'She accepted a proposal' 更符合英语习惯。"
+        }
+      ]
+    }
+  ]
+}
+```

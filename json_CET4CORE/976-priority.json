@@ -1,0 +1,53 @@
+```json
+{
+  "word": "priority",
+  "definitions": [
+    {
+      "meaning": "最重要的事情或优先考虑的事项",
+      "usage": "指某事物在重要性或紧急性上优先于其他事物，常用于描述需要首先处理的任务、目标或需求。",
+      "collocations": ["top priority", "give priority to", "set priorities"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，项目经理正在与团队开会，讨论多个项目的进展。由于客户对某个新产品功能的需求非常迫切，经理需要决定哪个项目应该优先推进。",
+          "chineseIdea": "在多个任务中，某些任务因为时间紧迫或重要性更高，需要被放在首位。",
+          "sentenceWithBlank": "The new feature for the client is our @ @ right now.",
+          "fullEnglishSentence": "The new feature for the client is our 「top priority」 right now.",
+          "chineseTranslation": "客户的新功能是我们现在的「首要任务」。",
+          "chinglishFix": "中式英语：This feature is our first task. 纠正：This feature is our top priority.（'first task' 听起来不够自然，'top priority' 更符合英语表达习惯。）"
+        },
+        {
+          "scene": "一位大学生在学期末面临多项作业和考试的压力。她需要合理安排时间，决定哪些任务需要先完成。",
+          "chineseIdea": "在时间有限的情况下，先完成最重要的任务以确保整体进度。",
+          "sentenceWithBlank": "I need to @ @ @ studying for the final exam over writing the essay.",
+          "fullEnglishSentence": "I need to 「give priority to」 studying for the final exam over writing the essay.",
+          "chineseTranslation": "我需要「优先考虑」复习期末考试，而不是写论文。",
+          "chinglishFix": "中式英语：I must do the exam study first. 纠正：I need to give priority to studying for the exam.（'do first' 显得生硬，'give priority to' 是更自然的表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "优先权或优先级",
+      "usage": "指在资源分配、顺序安排或决策中，某事物被赋予更高的地位或优先级，常用于正式或技术性语境，如法律、系统或程序。",
+      "collocations": ["high priority", "low priority", "assign priority"],
+      "examples": [
+        {
+          "scene": "在一家医院的急诊室，医护人员需要根据患者的病情轻重来决定治疗顺序。重症患者会被优先安排手术。",
+          "chineseIdea": "在资源有限的情况下，某些人或事会因为更紧急或重要而被优先处理。",
+          "sentenceWithBlank": "Patients with life-threatening conditions are always given @ @.",
+          "fullEnglishSentence": "Patients with life-threatening conditions are always given 「high priority」.",
+          "chineseTranslation": "危及生命的患者总是被给予「高优先级」。",
+          "chinglishFix": "中式英语：These patients are treated first. 纠正：These patients are given high priority.（'treated first' 虽然意思接近，但不够正式，'high priority' 更适合医疗或正式语境。）"
+        },
+        {
+          "scene": "在一家物流公司，经理正在优化配送路线。由于某些客户支付了加急服务，他们的包裹需要优先送达。",
+          "chineseIdea": "在处理多项任务时，某些任务因为特殊要求被分配更高的优先级。",
+          "sentenceWithBlank": "We need to @ @ to express deliveries to meet the customer’s expectations.",
+          "fullEnglishSentence": "We need to 「assign priority」 to express deliveries to meet the customer’s expectations.",
+          "chineseTranslation": "我们需要「分配优先级」给加急配送，以满足客户期望。",
+          "chinglishFix": "中式英语：We must send express deliveries first. 纠正：We need to assign priority to express deliveries.（'send first' 显得过于直接，'assign priority' 更符合正式或专业表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

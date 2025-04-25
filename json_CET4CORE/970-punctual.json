@@ -1,0 +1,53 @@
+```json
+{
+  "word": "punctual",
+  "definitions": [
+    {
+      "meaning": "准时，按时到达或完成某事",
+      "usage": "描述某人或某事在规定时间内准时到达、开始或完成，通常带有正面评价，强调守时的重要性。",
+      "collocations": ["be punctual for", "arrive punctually at", "punctual in delivering"],
+      "examples": [
+        {
+          "scene": "小明是一个刚入职的职员，他希望给新老板留下好印象，因此总是提前十分钟到达公司参加早上的例会。",
+          "chineseIdea": "小明认为准时到达会议可以体现他的职业态度和对工作的尊重。",
+          "sentenceWithBlank": "Xiaoming always makes sure to @ @ @ the morning meetings to impress his new boss.",
+          "fullEnglishSentence": "Xiaoming always makes sure to 「be punctual for」 the morning meetings to impress his new boss.",
+          "chineseTranslation": "小明总是确保「准时参加」早上的会议，以给新老板留下好印象。",
+          "chinglishFix": "典型中式英语：'He is very on time for meetings.' 纠正：'He is always punctual for meetings.'（'on time'虽正确，但更常用于描述某次具体事件，而'punctual'强调习惯性守时。）"
+        },
+        {
+          "scene": "李小姐是一名自由职业者，她接到一个翻译项目，客户特别强调需要在截止日期前提交译稿。",
+          "chineseIdea": "李小姐希望通过按时提交工作来赢得客户的信任和未来的合作机会。",
+          "sentenceWithBlank": "Ms. Li is always @ @ @ the translation projects to build trust with her clients.",
+          "fullEnglishSentence": "Ms. Li is always 「punctual in delivering」 the translation projects to build trust with her clients.",
+          "chineseTranslation": "李小姐总是「按时交付」翻译项目，以建立与客户的信任。",
+          "chinglishFix": "典型中式英语：'She finish work on time.' 纠正：'She is punctual in delivering her work.'（'finish on time'缺乏对守时习惯的强调，'punctual in delivering'更自然且具体。）"
+        }
+      ]
+    },
+    {
+      "meaning": "准时发生或进行，特指事件或行动严格按照时间表执行",
+      "usage": "描述事件、活动或系统（如交通工具）严格按照预定时间发生或运行，常用于正式或技术性语境。",
+      "collocations": ["run punctually", "depart punctually", "punctual service"],
+      "examples": [
+        {
+          "scene": "张先生每天早上乘坐高铁去另一个城市出差，他特别喜欢高铁因为它几乎从不晚点。",
+          "chineseIdea": "张先生觉得准时的高铁让他可以放心地安排一天的工作行程。",
+          "sentenceWithBlank": "The high-speed train always @ @ to ensure Mr. Zhang’s schedule stays on track.",
+          "fullEnglishSentence": "The high-speed train always 「departs punctually」 to ensure Mr. Zhang’s schedule stays on track.",
+          "chineseTranslation": "高铁总是「准时出发」，以确保张先生的日程按计划进行。",
+          "chinglishFix": "典型中式英语：'The train leave on time.' 纠正：'The train departs punctually.'（'leave on time'不够正式，'departs punctually'更适合描述交通工具的准时性。）"
+        },
+        {
+          "scene": "一家物流公司宣传他们的快递服务，特别提到他们的送货车队总是按时到达客户指定地点。",
+          "chineseIdea": "公司希望通过强调准时服务来吸引更多客户，展示他们的效率和可靠性。",
+          "sentenceWithBlank": "The logistics company prides itself on its @ @ to meet customer expectations.",
+          "fullEnglishSentence": "The logistics company prides itself on its 「punctual service」 to meet customer expectations.",
+          "chineseTranslation": "这家物流公司以其「准时服务」为傲，以满足客户期望。",
+          "chinglishFix": "典型中式英语：'Their service is very on time.' 纠正：'They offer punctual service.'（'on time'不够具体，'punctual service'更专业且符合英语习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "outcome",
+  "definitions": [
+    {
+      "meaning": "结果，结局（指某事件、行动或情况的最终结果）",
+      "usage": "通常用于描述一个过程、决定、实验、比赛等最终产生的结果，强调事情的结束状态。常见于正式或中性语境，如学术、商业、医疗或日常讨论中。",
+      "collocations": ["positive outcome", "final outcome", "desired outcome", "negative outcome", "likely outcome"],
+      "examples": [
+        {
+          "scene": "一家公司正在评估一个新产品的市场推广活动。他们投入了大量资金进行广告宣传，并希望了解这次活动是否成功。",
+          "chineseIdea": "公司想知道这次推广活动最终带来了什么样的效果，是否达到了预期目标。",
+          "sentenceWithBlank": "The marketing campaign was a success, leading to a @ @.",
+          "fullEnglishSentence": "The marketing campaign was a success, leading to a 「positive outcome」.",
+          "chineseTranslation": "这次营销活动很成功，带来了「积极的结果」。",
+          "chinglishFix": "典型中式英语：'The campaign made a good result.' 纠正：'The campaign led to a positive outcome.'（'make a result' 不是自然的英语表达，'lead to' 和 'outcome' 更符合英语习惯）"
+        },
+        {
+          "scene": "一名学生参加了一场重要的数学竞赛，赛后他和朋友讨论比赛的结果。",
+          "chineseIdea": "学生想表达这场比赛的最终结果如何，是否达到了他的预期。",
+          "sentenceWithBlank": "After months of preparation, he was thrilled with the @ @ of the competition.",
+          "fullEnglishSentence": "After months of preparation, he was thrilled with the 「final outcome」 of the competition.",
+          "chineseTranslation": "经过几个月的准备，他对比赛的「最终结果」感到非常兴奋。",
+          "chinglishFix": "典型中式英语：'The competition’s result was very good.' 纠正：'The final outcome of the competition was very satisfying.'（'result' 过于笼统，'final outcome' 更具体且正式）"
+        }
+      ]
+    },
+    {
+      "meaning": "后果，影响（指某行动或决定在未来产生的间接或长远效果）",
+      "usage": "侧重于某行动或决定带来的后续影响，常用于讨论政策、选择或行为的长远后果，常见于正式或分析性语境。",
+      "collocations": ["long-term outcome", "unintended outcome", "social outcome", "economic outcome", "adverse outcome"],
+      "examples": [
+        {
+          "scene": "政府正在讨论是否提高税收以增加公共服务资金，政策分析师在会议中分析这一决定的潜在影响。",
+          "chineseIdea": "分析师想说明提高税收可能会对经济产生什么样的长远影响。",
+          "sentenceWithBlank": "Raising taxes could have a significant @ @ on the economy.",
+          "fullEnglishSentence": "Raising taxes could have a significant 「economic outcome」 on the economy.",
+          "chineseTranslation": "提高税收可能会对经济产生显著的「经济后果」。",
+          "chinglishFix": "典型中式英语：'Raising taxes will affect economy result.' 纠正：'Raising taxes could lead to a significant economic outcome.'（'affect result' 不自然，'lead to' 和 'outcome' 更贴合语境）"
+        },
+        {
+          "scene": "一位医生在与患者讨论手术的风险和益处，特别提到手术可能带来的副作用。",
+          "chineseIdea": "医生想提醒患者，手术可能会导致一些意外的后果。",
+          "sentenceWithBlank": "The doctor warned that the surgery might lead to an @ @.",
+          "fullEnglishSentence": "The doctor warned that the surgery might lead to an 「unintended outcome」.",
+          "chineseTranslation": "医生警告说，手术可能会导致「意外的后果」。",
+          "chinglishFix": "典型中式英语：'The surgery may have bad result.' 纠正：'The surgery might lead to an unintended outcome.'（'bad result' 过于简单，'unintended outcome' 更准确且专业）"
+        }
+      ]
+    }
+  ]
+}
+```
