@@ -1,0 +1,53 @@
+```json
+{
+  "word": "contrast",
+  "definitions": [
+    {
+      "meaning": "两种或多种事物之间的差异或对比",
+      "usage": "用作名词或动词，表示突出或显示不同事物之间的差异，常用于比较外貌、性质、特点等。",
+      "collocations": ["sharp contrast", "striking contrast", "in contrast to"],
+      "examples": [
+        {
+          "scene": "在一场艺术展览中，讲解员正在向观众介绍两幅画作的不同风格。一幅是明亮的印象派作品，另一幅是暗沉的现实主义作品。",
+          "chineseIdea": "想表达两幅画在色彩和情感上的巨大差异，给观众留下深刻印象。",
+          "sentenceWithBlank": "The bright colors of the impressionist painting create a @ @ with the dark tones of the realist work.",
+          "fullEnglishSentence": "The bright colors of the impressionist painting create a 「sharp contrast」 with the dark tones of the realist work.",
+          "chineseTranslation": "印象派画作的明亮色彩与现实主义作品的暗色调形成了「鲜明的对比」。",
+          "chinglishFix": "中式英语：The impressionist painting is very different with the realist work. 纠正：The impressionist painting forms a sharp contrast with the realist work."
+        },
+        {
+          "scene": "在一次课堂讨论中，老师比较城市生活和乡村生活的节奏，试图让学生理解两者的不同。",
+          "chineseIdea": "想说明城市生活的快节奏与乡村生活的慢节奏之间的显著差异。",
+          "sentenceWithBlank": "The fast-paced urban lifestyle stands @ @ @ the relaxed rhythm of rural life.",
+          "fullEnglishSentence": "The fast-paced urban lifestyle stands 「in contrast to」 the relaxed rhythm of rural life.",
+          "chineseTranslation": "快节奏的城市生活与乡村生活的悠闲节奏「形成对比」。",
+          "chinglishFix": "中式英语：City life is opposite to rural life. 纠正：City life stands in contrast to rural life."
+        }
+      ]
+    },
+    {
+      "meaning": "图像或显示中的对比度",
+      "usage": "用作名词，特别是在技术领域，指图像、屏幕或照片中明暗或颜色的差异程度。",
+      "collocations": ["adjust the contrast", "high contrast", "low contrast"],
+      "examples": [
+        {
+          "scene": "在一个摄影工作坊中，老师正在教学生如何编辑照片，提升照片的视觉效果。",
+          "chineseIdea": "想表达通过调整照片的明暗差异来让图像更清晰、更具吸引力。",
+          "sentenceWithBlank": "To make the photo pop, you should @ @ @ to enhance the difference between light and shadow.",
+          "fullEnglishSentence": "To make the photo pop, you should 「adjust the contrast」 to enhance the difference between light and shadow.",
+          "chineseTranslation": "为了让照片更出彩，你应该「调整对比度」，以增强光影之间的差异。",
+          "chinglishFix": "中式英语：You need to change the light and dark of the photo. 纠正：You need to adjust the contrast of the photo."
+        },
+        {
+          "scene": "在购买新电视时，销售员向顾客介绍屏幕显示效果，强调画质的清晰度。",
+          "chineseIdea": "想说明电视屏幕的明暗差异很大，能呈现更生动的画面。",
+          "sentenceWithBlank": "This TV offers a @ @ display, making the colors more vibrant and the details sharper.",
+          "fullEnglishSentence": "This TV offers a 「high contrast」 display, making the colors more vibrant and the details sharper.",
+          "chineseTranslation": "这款电视提供「高对比度」的显示效果，使颜色更鲜艳，细节更清晰。",
+          "chinglishFix": "中式英语：This TV’s picture is very strong. 纠正：This TV has a high contrast display."
+        }
+      ]
+    }
+  ]
+}
+```

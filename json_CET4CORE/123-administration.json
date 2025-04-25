@@ -1,0 +1,76 @@
+```json
+{
+  "word": "administration",
+  "definitions": [
+    {
+      "meaning": "管理或治理某组织、机构或国家的行为",
+      "usage": "指对公司、政府、学校等组织进行规划、组织、协调和监督的活动，通常由管理者或行政人员执行。",
+      "collocations": ["public administration", "business administration", "school administration"],
+      "examples": [
+        {
+          "scene": "在一所大学中，负责课程安排、教师协调和学生事务的部门正在制定新学期的计划。",
+          "chineseIdea": "学校的领导层需要确保所有事务有序进行，比如课程安排、教师资源分配和学生注册。",
+          "sentenceWithBlank": "The @ @ handles the scheduling of classes and allocation of resources.",
+          "fullEnglishSentence": "The 「school administration」 handles the scheduling of classes and allocation of resources.",
+          "chineseTranslation": "「学校管理部门」负责课程安排和资源分配。",
+          "chinglishFix": "典型中式英语：'The school managing department arrange classes.' 纠正：'The school administration handles class scheduling.'"
+        },
+        {
+          "scene": "在一个市政府办公室，官员们正在讨论如何改善城市的公共服务。",
+          "chineseIdea": "政府需要协调各种公共服务，比如交通、医疗和教育，以提高市民的生活质量。",
+          "sentenceWithBlank": "Effective @ @ ensures better public services for citizens.",
+          "fullEnglishSentence": "Effective 「public administration」 ensures better public services for citizens.",
+          "chineseTranslation": "高效的「公共管理」确保为市民提供更好的公共服务。",
+          "chinglishFix": "典型中式英语：'Good public manage makes better service.' 纠正：'Effective public administration improves public services.'"
+        }
+      ]
+    },
+    {
+      "meaning": "政府或执政机构的领导集体",
+      "usage": "指某个国家或地区的执政团队，通常指总统、总理或其内阁等领导集体，尤其在美国政治语境中常见。",
+      "collocations": ["the Biden administration", "the current administration", "the new administration"],
+      "examples": [
+        {
+          "scene": "在美国，总统选举后，新当选的总统团队开始制定政策。",
+          "chineseIdea": "新上任的政府需要快速制定经济和外交政策，以应对国内外的挑战。",
+          "sentenceWithBlank": "「The @ @」 has introduced new policies to address climate change.",
+          "fullEnglishSentence": "「The Biden administration」 has introduced new policies to address climate change.",
+          "chineseTranslation": "「拜登政府」引入了新政策以应对气候变化。",
+          "chinglishFix": "典型中式英语：'Biden government make new policy.' 纠正：'The Biden administration has introduced new policies.'"
+        },
+        {
+          "scene": "在新闻报道中，记者讨论现任政府的外交政策。",
+          "chineseIdea": "记者分析当前的领导团队如何处理与邻国的关系。",
+          "sentenceWithBlank": "「The @ @」 is focusing on improving trade relations with Asia.",
+          "fullEnglishSentence": "「The current administration」 is focusing on improving trade relations with Asia.",
+          "chineseTranslation": "「现任政府」正致力于改善与亚洲的贸易关系。",
+          "chinglishFix": "典型中式英语：'Now government focus on trade.' 纠正：'The current administration is focusing on trade relations.'"
+        }
+      ]
+    },
+    {
+      "meaning": "药物或其他物质的施用或给予",
+      "usage": "在医疗或科学语境中，指通过注射、口服等方式将药物或其他物质给予患者或实验对象。",
+      "collocations": ["drug administration", "vaccine administration", "oral administration"],
+      "examples": [
+        {
+          "scene": "在医院中，护士正在为患者准备疫苗接种。",
+          "chineseIdea": "护士需要确保疫苗以正确的方式和剂量给予患者。",
+          "sentenceWithBlank": "The hospital has a strict protocol for @ @ to ensure patient safety.",
+          "fullEnglishSentence": "The hospital has a strict protocol for 「vaccine administration」 to ensure patient safety.",
+          "chineseTranslation": "医院对「疫苗接种」有严格的协议以确保患者安全。",
+          "chinglishFix": "典型中式英语：'Hospital have rule for vaccine give.' 纠正：'The hospital has a protocol for vaccine administration.'"
+        },
+        {
+          "scene": "在实验室中，研究人员正在测试一种新药的效果。",
+          "chineseIdea": "研究人员通过口服方式给实验对象施用药物，并观察其反应。",
+          "sentenceWithBlank": "The study involves the @ @ of the new medication to volunteers.",
+          "fullEnglishSentence": "The study involves the 「oral administration」 of the new medication to volunteers.",
+          "chineseTranslation": "该研究涉及对志愿者进行新药的「口服给药」。",
+          "chinglishFix": "典型中式英语：'Study give medicine by mouth.' 纠正：'The study involves the oral administration of the medication.'"
+        }
+      ]
+    }
+  ]
+}
+```
