@@ -1,0 +1,53 @@
+```json
+{
+  "word": "quantity",
+  "definitions": [
+    {
+      "meaning": "数量；数额",
+      "usage": "指可测量或计数的某事物的大小、程度或总数，常用于描述具体或抽象事物的多少。",
+      "collocations": ["large quantity", "small quantity", "sufficient quantity"],
+      "examples": [
+        {
+          "scene": "在超市购物时，你正在挑选水果，想买一些苹果，但需要考虑买多少。",
+          "chineseIdea": "你想表达买很多苹果，以确保家里有足够的存货。",
+          "sentenceWithBlank": "I need to buy a @ @ of apples to last the week.",
+          "fullEnglishSentence": "I need to buy a 「large quantity」 of apples to last the week.",
+          "chineseTranslation": "我需要买「很多」苹果来维持一周的供应。",
+          "chinglishFix": "典型中式英语：'I want to buy many apples.' 纠正：'Many' 更适合不可数名词或简单计数，搭配 'quantity' 的 'large quantity' 更自然，强调数量多。"
+        },
+        {
+          "scene": "在咖啡店，你想点一杯咖啡，但担心咖啡因摄入过多，所以希望减少咖啡的量。",
+          "chineseIdea": "你想表达只需要少量的咖啡来提神。",
+          "sentenceWithBlank": "Can you make me a coffee with just a @ @ of espresso?",
+          "fullEnglishSentence": "Can you make me a coffee with just a 「small quantity」 of espresso?",
+          "chineseTranslation": "你能给我一杯只用「少量」浓缩咖啡的咖啡吗？",
+          "chinglishFix": "典型中式英语：'I want little coffee.' 纠正：'Little' 常用于不可数名词且有否定含义，'small quantity' 更精确且符合英语表达习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "大量",
+      "usage": "指某事物非常多的数量，通常带有强调意味，常见于正式或商业语境。",
+      "collocations": ["vast quantity", "enormous quantity", "significant quantity"],
+      "examples": [
+        {
+          "scene": "在工厂里，经理正在讨论生产线的原材料库存情况。",
+          "chineseIdea": "你想表达工厂有非常多的原材料，可以支持长期生产。",
+          "sentenceWithBlank": "We have a @ @ of raw materials in stock for the next quarter.",
+          "fullEnglishSentence": "We have a 「vast quantity」 of raw materials in stock for the next quarter.",
+          "chineseTranslation": "我们有「大量」的原材料库存，可以支持下一季度的生产。",
+          "chinglishFix": "典型中式英语：'We have many raw materials.' 纠正：'Many' 更适合可数名词，而 'vast quantity' 更适合强调不可数或大量的情况。"
+        },
+        {
+          "scene": "在学术研究中，你需要从数据库中收集数据，并强调数据的规模。",
+          "chineseIdea": "你想表达数据库中包含了非常多的数据，足以支持研究。",
+          "sentenceWithBlank": "The database contains an @ @ of data for our analysis.",
+          "fullEnglishSentence": "The database contains an 「enormous quantity」 of data for our analysis.",
+          "chineseTranslation": "数据库中包含「大量」的数据供我们分析。",
+          "chinglishFix": "典型中式英语：'The database has a lot of data.' 纠正：'A lot of' 过于口语化，'enormous quantity' 在正式语境中更得体且精确。"
+        }
+      ]
+    }
+  ]
+}
+```

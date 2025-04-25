@@ -1,0 +1,53 @@
+```json
+{
+  "word": "patiently",
+  "definitions": [
+    {
+      "meaning": "以耐心的方式，平静地忍受或等待而不抱怨",
+      "usage": "用作副词，通常描述某人以冷静和宽容的态度处理延迟、困难或重复性任务的行为，常用于描述动作或态度，修饰动词如wait, listen, explain等。",
+      "collocations": ["wait patiently", "listen patiently", "explain patiently"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的火车站，售票窗口前排起了长队。人们焦躁地等待着，但一位老人却安静地站在队伍中，没有任何不耐烦的迹象。",
+          "chineseIdea": "这位老人展现了一种从容不迫的心态，即使面对长时间的等待，也能保持平静，不急不躁。",
+          "sentenceWithBlank": "The old man @ @ in the long queue without any complaints.",
+          "fullEnglishSentence": "The old man 「waited patiently」 in the long queue without any complaints.",
+          "chineseTranslation": "这位老人在长长的队伍中「耐心地等待」，没有任何抱怨。",
+          "chinglishFix": "典型中式英语：He waited very patient. 纠正：He waited patiently.（patient是形容词，不能修饰动词，需用副词patiently。）"
+        },
+        {
+          "scene": "在一个英语课堂上，老师正在帮助一个学生理解复杂的语法规则。学生反复提问，但老师始终保持微笑，细致地回答。",
+          "chineseIdea": "老师展现了极大的耐心，愿意倾听学生的疑惑，并不厌其烦地解答，直到学生明白为止。",
+          "sentenceWithBlank": "The teacher @ @ to the student’s repeated questions about grammar.",
+          "fullEnglishSentence": "The teacher 「listened patiently」 to the student’s repeated questions about grammar.",
+          "chineseTranslation": "老师「耐心地倾听」学生对语法反复提出的问题。",
+          "chinglishFix": "典型中式英语：The teacher listened the questions with patience. 纠正：The teacher listened patiently to the questions.（with patience冗余且不自然，listen patiently更简洁地道。）"
+        }
+      ]
+    },
+    {
+      "meaning": "以细致和持久的方式，耐心地完成某项任务",
+      "usage": "用作副词，描述某人以专注和坚持的态度完成需要时间或精力的任务，强调过程的细致和不急躁，常修饰动词如work, teach, practice等。",
+      "collocations": ["work patiently", "teach patiently", "practice patiently"],
+      "examples": [
+        {
+          "scene": "在一个手工艺作坊里，一位工匠正在雕刻一块复杂的木头。他花了好几个小时，小心翼翼地处理每一个细节，没有一丝急躁。",
+          "chineseIdea": "这位工匠展现了对工艺的专注和耐心，愿意花时间确保每个细节都完美无瑕。",
+          "sentenceWithBlank": "The artisan @ @ on the intricate wood carving for hours.",
+          "fullEnglishSentence": "The artisan 「worked patiently」 on the intricate wood carving for hours.",
+          "chineseTranslation": "这位工匠在复杂的木雕上「耐心地工作」了好几个小时。",
+          "chinglishFix": "典型中式英语：He worked with patient on the carving. 纠正：He worked patiently on the carving.（with patient语法错误且不自然，patiently直接修饰动词更恰当。）"
+        },
+        {
+          "scene": "在一个音乐教室里，一位钢琴老师正在教一个初学者弹奏简单的曲子。学生总是出错，但老师从不责骂，而是慢慢引导学生改正。",
+          "chineseIdea": "老师对教学充满耐心，愿意花时间帮助学生逐步掌握技能，即使过程很慢也不急躁。",
+          "sentenceWithBlank": "The piano teacher @ @ the beginner to play the simple melody correctly.",
+          "fullEnglishSentence": "The piano teacher 「taught patiently」 the beginner to play the simple melody correctly.",
+          "chineseTranslation": "钢琴老师「耐心地教导」初学者正确弹奏简单的旋律。",
+          "chinglishFix": "典型中式英语：The teacher taught the student very patient. 纠正：The teacher taught the student patiently.（very patient修饰名词，需用副词patiently修饰动词。）"
+        }
+      ]
+    }
+  ]
+}
+```
