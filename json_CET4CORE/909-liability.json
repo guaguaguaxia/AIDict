@@ -1,0 +1,53 @@
+```json
+{
+  "word": "liability",
+  "definitions": [
+    {
+      "meaning": "法律或财务上的责任或义务，通常指欠款或可能导致损失的职责",
+      "usage": "在法律和商业语境中，指某人或某组织因行为或事件而需承担的财务或法律后果，常用于描述债务、赔偿或潜在风险。",
+      "collocations": ["assume liability", "limited liability", "personal liability"],
+      "examples": [
+        {
+          "scene": "一家小型制造公司在签订与供应商的合同时，律师提醒他们注意合同中关于产品质量问题的条款，以免在未来承担不必要的法律后果。",
+          "chineseIdea": "公司需要对产品质量问题负责，避免因产品缺陷导致的赔偿或诉讼。",
+          "sentenceWithBlank": "The company was cautious not to @ @ for defective products.",
+          "fullEnglishSentence": "The company was cautious not to 「assume liability」 for defective products.",
+          "chineseTranslation": "公司小心避免对有缺陷的产品「承担责任」。",
+          "chinglishFix": "典型中式英语：'The company don’t want to take the responsibility of bad products.' 纠正：'The company is cautious not to assume liability for defective products.'（使用‘assume liability’更符合法律和商业语境，避免‘take responsibility’的模糊表达。）"
+        },
+        {
+          "scene": "在一次商务会议上，创业者向投资者解释他们的公司结构，强调通过设立有限责任公司，个人资产不会因公司债务受到影响。",
+          "chineseIdea": "通过公司结构限制个人对公司债务的责任，保护个人财产。",
+          "sentenceWithBlank": "By forming a @ @ company, they protected their personal assets.",
+          "fullEnglishSentence": "By forming a 「limited liability」 company, they protected their personal assets.",
+          "chineseTranslation": "通过成立一家「有限责任」公司，他们保护了个人资产。",
+          "chinglishFix": "典型中式英语：'They make a company to limit their duty.' 纠正：'They formed a limited liability company to protect their personal assets.'（使用‘limited liability company’这一专业术语，避免‘duty’的笼统表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "不利因素，阻碍或风险，通常指可能导致问题或不利后果的事物或人",
+      "usage": "在日常或商业语境中，指某人或某事可能带来麻烦、风险或负面影响，常用于描述潜在的弱点或不利条件。",
+      "collocations": ["potential liability", "become a liability", "prove a liability"],
+      "examples": [
+        {
+          "scene": "在一个项目团队中，一名成员因缺乏经验而频频犯错，拖慢了整个项目的进度，团队负责人开始考虑替换他。",
+          "chineseIdea": "某人因能力不足而成为团队的负担，影响整体表现。",
+          "sentenceWithBlank": "His inexperience made him a @ @ to the team.",
+          "fullEnglishSentence": "His inexperience made him a 「potential liability」 to the team.",
+          "chineseTranslation": "他的经验不足使他成为团队的「潜在负担」。",
+          "chinglishFix": "典型中式英语：'He is a trouble to the team.' 纠正：'His inexperience made him a potential liability to the team.'（使用‘potential liability’更精确地表达风险或负担的概念。）"
+        },
+        {
+          "scene": "一家公司发现其老旧的IT系统在面对网络攻击时非常脆弱，管理层决定升级系统以避免未来的安全问题。",
+          "chineseIdea": "老旧的系统可能导致安全风险，成为公司的弱点。",
+          "sentenceWithBlank": "The outdated system could @ @ @ in a cyberattack.",
+          "fullEnglishSentence": "The outdated system could 「prove a liability」 in a cyberattack.",
+          "chineseTranslation": "过时的系统在网络攻击中可能「成为弱点」。",
+          "chinglishFix": "典型中式英语：'The old system is dangerous in attacks.' 纠正：'The outdated system could prove a liability in a cyberattack.'（使用‘prove a liability’更贴合描述潜在风险的语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

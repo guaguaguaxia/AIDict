@@ -1,0 +1,53 @@
+```json
+{
+  "word": "neglect",
+  "definitions": [
+    {
+      "meaning": "未能给予适当的关心或注意",
+      "usage": "指对某人、某事或某物没有给予应有的关注或照顾，通常带有忽视或疏忽的负面含义，常用于描述对职责、关系或物品的忽略。",
+      "collocations": ["neglect one's duties", "neglect a child", "neglect one's health"],
+      "examples": [
+        {
+          "scene": "一位忙碌的经理因为专注于公司项目，长时间忽略了自己的家庭责任，比如忘记参加孩子的学校活动或与家人共进晚餐。",
+          "chineseIdea": "这位经理因为工作繁忙，没有履行作为家长的责任，导致家庭关系紧张。",
+          "sentenceWithBlank": "The manager was so focused on work that he @ @ @, missing his son's school play.",
+          "fullEnglishSentence": "The manager was so focused on work that he 「neglected his duties」, missing his son's school play.",
+          "chineseTranslation": "这位经理过于专注于工作，以至于「忽视了自己的职责」，错过了儿子的学校演出。",
+          "chinglishFix": "中式英语：He didn't care his duties. 纠正：He neglected his duties.（'care'在此处不适合表达忽视职责，'neglect'更准确。）"
+        },
+        {
+          "scene": "一位单亲妈妈因为经济压力而忙于工作，忽略了孩子的日常生活需求，比如没有时间陪伴孩子或关注孩子的学业。",
+          "chineseIdea": "这位妈妈因为生活压力，未能给孩子足够的关心，导致孩子感到被忽视。",
+          "sentenceWithBlank": "Due to financial struggles, she @ @ @, leaving her daughter feeling unloved.",
+          "fullEnglishSentence": "Due to financial struggles, she 「neglected her child」, leaving her daughter feeling unloved.",
+          "chineseTranslation": "由于经济困难，她「忽视了自己的孩子」，让女儿感到不被爱。",
+          "chinglishFix": "中式英语：She didn't look after her child. 纠正：She neglected her child.（'look after'侧重实际照顾，'neglect'更强调情感或责任上的忽视。）"
+        }
+      ]
+    },
+    {
+      "meaning": "未能维护或保持某物的状态",
+      "usage": "指由于缺乏维护或关注，导致某物（如建筑物、花园或健康）处于恶化或废弃状态，常用于描述物理或抽象事物的衰退。",
+      "collocations": ["neglect a building", "neglect a garden", "neglect one's appearance"],
+      "examples": [
+        {
+          "scene": "一栋老房子因为业主长期不居住，未能进行修缮，墙壁开始剥落，窗户破损，整体显得破旧不堪。",
+          "chineseIdea": "房主因为长期不在，未能维护房屋，导致房子逐渐破败。",
+          "sentenceWithBlank": "The old house fell into disrepair because the owner @ @ @ for years.",
+          "fullEnglishSentence": "The old house fell into disrepair because the owner 「neglected the building」 for years.",
+          "chineseTranslation": "这栋老房子因为房主多年来「忽视了建筑维护」而变得破旧不堪。",
+          "chinglishFix": "中式英语：The house was not cared. 纠正：The building was neglected.（'care'在此处不适用于描述建筑维护，'neglect'更贴切。）"
+        },
+        {
+          "scene": "一位年轻人因为忙于社交媒体和娱乐，忽略了自己的外貌，比如不注重穿着或个人卫生，显得不修边幅。",
+          "chineseIdea": "年轻人因为沉迷于虚拟世界，未能保持自己的外表整洁，给人留下不好的印象。",
+          "sentenceWithBlank": "Obsessed with social media, he @ @ @, often appearing disheveled.",
+          "fullEnglishSentence": "Obsessed with social media, he 「neglected his appearance」, often appearing disheveled.",
+          "chineseTranslation": "沉迷于社交媒体，他「忽视了自己的外貌」，常常显得不修边幅。",
+          "chinglishFix": "中式英语：He didn't care his appearance. 纠正：He neglected his appearance.（'care'在此处不够准确，'neglect'更能表达对外貌的忽视。）"
+        }
+      ]
+    }
+  ]
+}
+```
