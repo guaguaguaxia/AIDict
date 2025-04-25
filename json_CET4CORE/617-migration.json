@@ -1,0 +1,76 @@
+```json
+{
+  "word": "migration",
+  "definitions": [
+    {
+      "meaning": "人们或动物从一个地方移动到另一个地方，通常是为了寻找更好的生活条件或生存环境",
+      "usage": "常用于描述人类为了工作、气候、教育等原因移居他乡，或动物因季节变化而进行的迁徙。常与介词 'to' 或 'from' 连用。",
+      "collocations": ["mass migration", "seasonal migration", "rural-to-urban migration"],
+      "examples": [
+        {
+          "scene": "一位年轻的工程师因为家乡的工作机会有限，决定搬到大城市寻找更好的职业发展机会。",
+          "chineseIdea": "为了追求更好的生活和职业前景，很多人选择从经济欠发达地区搬到大城市。",
+          "sentenceWithBlank": "The promise of better jobs has driven @ @ to cities like Shanghai and Beijing.",
+          "fullEnglishSentence": "The promise of better jobs has driven 「mass migration」 to cities like Shanghai and Beijing.",
+          "chineseTranslation": "更好工作的前景推动了「大规模移民」到上海和北京这样的城市。",
+          "chinglishFix": "典型中式英语：'Many people move to city for good job.' 纠正：'Many people migrate to cities for better job opportunities.'"
+        },
+        {
+          "scene": "在中国的农村地区，许多年轻人为了更高的收入和更好的教育资源，离开家乡前往城市生活。",
+          "chineseIdea": "从农村到城市的流动是经济发展过程中常见的社会现象。",
+          "sentenceWithBlank": "The @ @ @ has transformed the demographics of many Chinese cities.",
+          "fullEnglishSentence": "The 「rural-to-urban migration」 has transformed the demographics of many Chinese cities.",
+          "chineseTranslation": "「农村到城市的移民」已经改变了许多中国城市的人口结构。",
+          "chinglishFix": "典型中式英语：'People go city from village.' 纠正：'People migrate from rural areas to urban centers.'"
+        }
+      ]
+    },
+    {
+      "meaning": "动物定期从一个地区移动到另一个地区，通常与季节或繁殖有关",
+      "usage": "常用于描述鸟类、鱼类或其他动物的迁徙行为，通常与自然界的季节变化相关。常与 'of' 或 'to' 连用。",
+      "collocations": ["bird migration", "animal migration", "migratory patterns"],
+      "examples": [
+        {
+          "scene": "一群候鸟在秋天从中国东北飞往东南亚，躲避寒冷的冬季。",
+          "chineseIdea": "鸟类为了适应气候变化，会定期迁徙到更适合生存的地方。",
+          "sentenceWithBlank": "The @ @ attracts birdwatchers from around the world every fall.",
+          "fullEnglishSentence": "The 「bird migration」 attracts birdwatchers from around the world every fall.",
+          "chineseTranslation": "「鸟类迁徙」每年秋天吸引来自世界各地的观鸟者。",
+          "chinglishFix": "典型中式英语：'Birds move to south in winter.' 纠正：'Birds migrate south for the winter.'"
+        },
+        {
+          "scene": "科学家们在研究鲸鱼的迁徙路线，以了解它们如何应对海洋环境的变化。",
+          "chineseIdea": "动物的迁徙行为可以帮助科学家了解生态系统的变化。",
+          "sentenceWithBlank": "Researchers are studying the @ @ to understand climate impacts.",
+          "fullEnglishSentence": "Researchers are studying the 「migratory patterns」 to understand climate impacts.",
+          "chineseTranslation": "研究人员正在研究「迁徙模式」以了解气候变化的影响。",
+          "chinglishFix": "典型中式英语：'Animals change place every year.' 纠正：'Animals follow migratory patterns annually.'"
+        }
+      ]
+    },
+    {
+      "meaning": "在技术领域，指数据、软件或系统从一个平台或环境转移到另一个平台或环境",
+      "usage": "常用于描述技术系统中数据或应用程序的转移，例如从旧系统到新系统。常与 'to' 或 'from' 连用。",
+      "collocations": ["data migration", "cloud migration", "system migration"],
+      "examples": [
+        {
+          "scene": "一家公司决定将所有客户数据从本地服务器转移到云端，以提高效率和安全性。",
+          "chineseIdea": "企业为了提升运营效率，常常需要将数据从一个系统迁移到另一个系统。",
+          "sentenceWithBlank": "The company completed a successful @ @ to improve security.",
+          "fullEnglishSentence": "The company completed a successful 「data migration」 to improve security.",
+          "chineseTranslation": "公司成功完成了「数据迁移」以提高安全性。",
+          "chinglishFix": "典型中式英语：'We move data to cloud.' 纠正：'We migrated our data to the cloud.'"
+        },
+        {
+          "scene": "一家科技初创公司正在将他们的应用程序从传统服务器迁移到云平台，以降低维护成本。",
+          "chineseIdea": "云服务的使用推动了许多企业将系统迁移到更现代化的平台。",
+          "sentenceWithBlank": "The startup is planning a full @ @ next quarter.",
+          "fullEnglishSentence": "The startup is planning a full 「cloud migration」 next quarter.",
+          "chineseTranslation": "这家初创公司计划在下个季度进行全面的「云迁移」。",
+          "chinglishFix": "典型中式英语：'We change system to cloud.' 纠正：'We are migrating our system to the cloud.'"
+        }
+      ]
+    }
+  ]
+}
+```

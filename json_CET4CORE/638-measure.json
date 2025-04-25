@@ -1,0 +1,76 @@
+```json
+{
+  "word": "measure",
+  "definitions": [
+    {
+      "meaning": "测量；确定某物的尺寸、数量或程度",
+      "usage": "用作动词，表示通过工具或方法来确定某物的长度、重量、容量等物理量，或评估某事物的程度。常用在科学、工程、日常生活等场景。",
+      "collocations": ["take a measurement", "measure the length", "measure accurately"],
+      "examples": [
+        {
+          "scene": "在一个木工工作坊里，小明正在制作一个书架。他需要确保木板的尺寸完全符合设计图纸的要求。",
+          "chineseIdea": "小明想确认木板的长度是否达到设计图上的60厘米，这样书架才能稳固。",
+          "sentenceWithBlank": "He used a ruler to @ @ @ of the wooden board.",
+          "fullEnglishSentence": "He used a ruler to 「take a measurement」 of the wooden board.",
+          "chineseTranslation": "他用尺子「测量」了木板的尺寸。",
+          "chinglishFix": "Chinglish: He measured the wood's size. \nCorrect: He took a measurement of the wooden board. \nExplanation: 'Measure the size' 是中式英语，直接翻译了“测量尺寸”。英语中更自然的表达是 'take a measurement'，尤其在具体测量场景中。"
+        },
+        {
+          "scene": "在学校的一个科学实验课上，老师要求学生们测量一根绳子的长度，并记录结果。",
+          "chineseIdea": "学生们需要知道绳子到底有多长，以便完成实验报告。",
+          "sentenceWithBlank": "The students were asked to @ @ @ of the rope with a tape measure.",
+          "fullEnglishSentence": "The students were asked to 「measure the length」 of the rope with a tape measure.",
+          "chineseTranslation": "学生们被要求用卷尺「测量长度」绳子的长度。",
+          "chinglishFix": "Chinglish: They measured how long the rope is. \nCorrect: They measured the length of the rope. \nExplanation: 中式英语常直接说 'how long'，但英语中更常用 'measure the length' 来表达测量长度的动作。"
+        }
+      ]
+    },
+    {
+      "meaning": "措施；为实现某目标而采取的行动",
+      "usage": "用作名词，表示为解决问题或达到目的而采取的具体行动或步骤，常用于正式或政策相关的语境，如政府、商业或安全领域。",
+      "collocations": ["take measures", "implement measures", "preventive measures"],
+      "examples": [
+        {
+          "scene": "一家公司发现员工的工作效率下降，管理层决定采取一些行动来改善情况。",
+          "chineseIdea": "公司希望通过新的政策或激励机制来提高员工的生产力。",
+          "sentenceWithBlank": "The management decided to @ @ to boost productivity.",
+          "fullEnglishSentence": "The management decided to 「take measures」 to boost productivity.",
+          "chineseTranslation": "管理层决定「采取措施」以提高生产力。",
+          "chinglishFix": "Chinglish: The company took some methods to improve efficiency. \nCorrect: The company took measures to boost productivity. \nExplanation: 'Take methods' 是中式英语，英语中更常用 'take measures' 表示采取行动或措施。"
+        },
+        {
+          "scene": "在一座城市里，政府注意到空气污染问题日益严重，决定推出一些环保政策。",
+          "chineseIdea": "政府希望通过限制工厂排放和推广绿色能源来减少污染。",
+          "sentenceWithBlank": "The government introduced @ @ to reduce air pollution.",
+          "fullEnglishSentence": "The government introduced 「preventive measures」 to reduce air pollution.",
+          "chineseTranslation": "政府引入了「预防措施」以减少空气污染。",
+          "chinglishFix": "Chinglish: The government made some actions to stop pollution. \nCorrect: The government introduced preventive measures to reduce air pollution. \nExplanation: 'Make actions' 是中式英语，'introduce preventive measures' 是更地道的表达，特别是在正式语境中。"
+        }
+      ]
+    },
+    {
+      "meaning": "评估；判断或衡量某事物的价值、效果或重要性",
+      "usage": "用作动词，表示通过观察或分析来判断某事物的程度、价值或影响，常用于抽象概念，如成功、影响等。",
+      "collocations": ["measure success", "measure impact", "measure performance"],
+      "examples": [
+        {
+          "scene": "在一个创业公司里，创始人正在讨论如何评估他们的市场推广活动是否成功。",
+          "chineseIdea": "创始人想知道广告活动是否真正吸引了更多客户。",
+          "sentenceWithBlank": "They used customer feedback to @ @ of their marketing campaign.",
+          "fullEnglishSentence": "They used customer feedback to 「measure success」 of their marketing campaign.",
+          "chineseTranslation": "他们使用客户反馈来「衡量成功」他们的营销活动。",
+          "chinglishFix": "Chinglish: They checked the success of the campaign. \nCorrect: They measured the success of their marketing campaign. \nExplanation: 'Check the success' 听起来不够正式，'measure success' 是更自然的英语表达，尤其在商业场景中。"
+        },
+        {
+          "scene": "在一所大学里，教授们正在讨论如何评估学生的学习成果。",
+          "chineseIdea": "教授们希望通过考试和项目来判断学生的表现是否达到预期。",
+          "sentenceWithBlank": "The professors used exams and projects to @ @ of the students.",
+          "fullEnglishSentence": "The professors used exams and projects to 「measure performance」 of the students.",
+          "chineseTranslation": "教授们使用考试和项目来「衡量表现」学生的表现。",
+          "chinglishFix": "Chinglish: They evaluated students’ study results. \nCorrect: They measured the performance of the students. \nExplanation: 'Study results' 是中式英语，'measure performance' 是更地道的表达，特别是在学术评估中。"
+        }
+      ]
+    }
+  ]
+}
+```

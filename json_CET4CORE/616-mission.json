@@ -1,0 +1,76 @@
+```json
+{
+  "word": "mission",
+  "definitions": [
+    {
+      "meaning": "一项重要的任务或职责，通常具有明确的目标",
+      "usage": "指个人、团队或组织被指派去完成的重要任务，常用于描述具有目的性、责任感的工作，可能涉及旅行、探索或执行特定目标。",
+      "collocations": ["carry out a mission", "accomplish a mission", "embark on a mission"],
+      "examples": [
+        {
+          "scene": "一家科技公司正在开发一款新型环保产品，团队被派往海外与合作伙伴商讨技术细节。",
+          "chineseIdea": "团队需要执行一项重要的任务，确保项目按计划推进，并与合作伙伴达成一致。",
+          "sentenceWithBlank": "The team was sent abroad to @ @ @ with international partners.",
+          "fullEnglishSentence": "The team was sent abroad to 「carry out a mission」 with international partners.",
+          "chineseTranslation": "团队被派往国外「执行一项任务」与国际合作伙伴商讨。",
+          "chinglishFix": "典型中式英语：'The team go abroad to do a mission.' 纠正：'The team was sent abroad to carry out a mission.'（避免使用'do'，用'carry out'更自然；注意被动语态的使用）"
+        },
+        {
+          "scene": "一位记者被派往战乱地区，报道当地的真实情况。",
+          "chineseIdea": "记者需要完成一项危险但重要的任务，记录并传递真相。",
+          "sentenceWithBlank": "The journalist was determined to @ @ @ despite the risks.",
+          "fullEnglishSentence": "The journalist was determined to 「accomplish a mission」 despite the risks.",
+          "chineseTranslation": "记者决心「完成一项任务」，尽管面临风险。",
+          "chinglishFix": "典型中式英语：'The journalist want to finish a mission.' 纠正：'The journalist was determined to accomplish a mission.'（'finish'不如'accomplish'正式且贴合语境；'want'显得语气不够坚定）"
+        }
+      ]
+    },
+    {
+      "meaning": "宗教或慈善性质的传教或援助活动",
+      "usage": "指宗教团体或慈善组织派遣人员到特定地区传播信仰、提供援助或进行教育，通常带有长期性和奉献精神。",
+      "collocations": ["join a mission", "support a mission", "lead a mission"],
+      "examples": [
+        {
+          "scene": "一位年轻的志愿者决定去非洲的一个偏远村庄，帮助当地建立学校。",
+          "chineseIdea": "志愿者希望通过参与一项长期的援助项目，为当地社区带来改变。",
+          "sentenceWithBlank": "She decided to @ @ @ to help build schools in remote areas.",
+          "fullEnglishSentence": "She decided to 「join a mission」 to help build schools in remote areas.",
+          "chineseTranslation": "她决定「加入一项任务」来帮助偏远地区建造学校。",
+          "chinglishFix": "典型中式英语：'She want to enter a mission.' 纠正：'She decided to join a mission.'（'enter'不适用于此语境，'join'更自然；'want'语气不够正式）"
+        },
+        {
+          "scene": "一个非营利组织正在筹集资金，为贫困地区提供医疗服务。",
+          "chineseIdea": "组织希望通过筹款支持一项重要的医疗援助项目。",
+          "sentenceWithBlank": "The organization launched a campaign to @ @ @ in underserved regions.",
+          "fullEnglishSentence": "The organization launched a campaign to 「support a mission」 in underserved regions.",
+          "chineseTranslation": "该组织发起了一项活动来「支持一项任务」在服务不足的地区。",
+          "chinglishFix": "典型中式英语：'The organization make a campaign to help a mission.' 纠正：'The organization launched a campaign to support a mission.'（'make'不如'launched'贴切；'help'不如'support'精确）"
+        }
+      ]
+    },
+    {
+      "meaning": "个人或组织的使命感或核心目标",
+      "usage": "指个人、公司或机构的核心目标、愿景或存在的理由，通常抽象且具有指导意义。",
+      "collocations": ["define a mission", "pursue a mission", "align with a mission"],
+      "examples": [
+        {
+          "scene": "一家初创公司正在制定其发展规划，强调以可持续发展为核心。",
+          "chineseIdea": "公司希望明确其核心目标，指导未来的发展方向。",
+          "sentenceWithBlank": "The startup held a meeting to @ @ @ focused on sustainability.",
+          "fullEnglishSentence": "The startup held a meeting to 「define a mission」 focused on sustainability.",
+          "chineseTranslation": "这家初创公司召开会议来「定义一项使命」，聚焦于可持续性。",
+          "chinglishFix": "典型中式英语：'The company make a mission about sustainability.' 纠正：'The startup held a meeting to define a mission focused on sustainability.'（'make'不适合此语境，'define'更准确；需补充具体动作）"
+        },
+        {
+          "scene": "一位环保活动家致力于推动全球减少塑料污染。",
+          "chineseIdea": "活动家将减少塑料污染作为自己的终极目标，并为之奋斗。",
+          "sentenceWithBlank": "She dedicated her life to @ @ @ to reduce plastic pollution.",
+          "fullEnglishSentence": "She dedicated her life to 「pursue a mission」 to reduce plastic pollution.",
+          "chineseTranslation": "她毕生致力于「追求一项使命」以减少塑料污染。",
+          "chinglishFix": "典型中式英语：'She work for a mission to less plastic pollution.' 纠正：'She dedicated her life to pursue a mission to reduce plastic pollution.'（'work for'不如'pursue'贴切；'less'应为'reduce'）"
+        }
+      ]
+    }
+  ]
+}
+```
