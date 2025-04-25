@@ -1,0 +1,76 @@
+```json
+{
+  "word": "sensitive",
+  "definitions": [
+    {
+      "meaning": "对情感、情绪或他人感受容易产生反应，表现出同理心或易受影响",
+      "usage": "描述一个人在情感上容易受到外界刺激影响，或对他人感受表现出理解和关怀。常用于描述性格或行为。",
+      "collocations": ["be sensitive to", "sensitive issue", "sensitive nature"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理正在讨论员工的绩效问题。一位员工因为被公开批评而显得情绪低落，另一位同事注意到这一点并私下安慰他。",
+          "chineseIdea": "这位同事能够察觉到他人情绪的变化，并且愿意采取行动以缓解对方的不适，展现出对他人感受的关注。",
+          "sentenceWithBlank": "She is always @ @ others' feelings and tries to offer support.",
+          "fullEnglishSentence": "She is always 「sensitive to」 others' feelings and tries to offer support.",
+          "chineseTranslation": "她总是「对他人的感受很敏感」，并试图提供支持。",
+          "chinglishFix": "典型中式英语：She is very sensitive for others' feelings. 纠正：She is very sensitive to others' feelings.（介词使用错误，需用to表示对某事敏感）"
+        },
+        {
+          "scene": "在家庭聚会上，讨论到了一个成员的健康问题，大家因为话题的严肃性而变得小心翼翼，避免触及对方的情绪。",
+          "chineseIdea": "这是一个需要谨慎对待的话题，因为它可能会引起强烈的情绪反应，发言时需要考虑对方的感受。",
+          "sentenceWithBlank": "Health is a @ @ in our family, so we avoid bringing it up.",
+          "fullEnglishSentence": "Health is a 「sensitive issue」 in our family, so we avoid bringing it up.",
+          "chineseTranslation": "健康在我们家是一个「敏感话题」，所以我们避免提起。",
+          "chinglishFix": "典型中式英语：Health is a sensitive question in our family. 纠正：Health is a sensitive issue in our family.（question指问题或疑问，issue更适合指敏感或争议话题）"
+        }
+      ]
+    },
+    {
+      "meaning": "对物理或化学刺激反应强烈，容易受到影响或伤害",
+      "usage": "描述身体、皮肤或某物对外部刺激（如光、化学物质、温度等）的敏感性，常用于医疗、科学或日常护理场景。",
+      "collocations": ["sensitive skin", "sensitive to light", "sensitive equipment"],
+      "examples": [
+        {
+          "scene": "一位女性在购买护肤品时，店员询问她的肤质。她提到自己的皮肤容易发红，因此需要温和的产品。",
+          "chineseIdea": "她的皮肤对外界刺激反应强烈，容易出现不适，因此需要特别注意选择适合的产品。",
+          "sentenceWithBlank": "I have @ @, so I only use fragrance-free products.",
+          "fullEnglishSentence": "I have 「sensitive skin」, so I only use fragrance-free products.",
+          "chineseTranslation": "我有「敏感皮肤」，所以只用无香产品。",
+          "chinglishFix": "典型中式英语：My skin is sensitive skin. 纠正：I have sensitive skin.（表达肤质时，英语中通常用have，而非直接用is）"
+        },
+        {
+          "scene": "一位摄影师在调整工作室的灯光时，提醒助手注意一位模特的眼睛对强光不适，需要降低光线强度。",
+          "chineseIdea": "模特的眼睛对光线刺激反应强烈，可能会感到不适或流泪，因此需要调整环境以保护她。",
+          "sentenceWithBlank": "Her eyes are @ @ @, so we need to dim the lights.",
+          "fullEnglishSentence": "Her eyes are 「sensitive to light」, so we need to dim the lights.",
+          "chineseTranslation": "她的眼睛「对光线敏感」，所以我们需要调暗灯光。",
+          "chinglishFix": "典型中式英语：Her eyes are sensitive with light. 纠正：Her eyes are sensitive to light.（介词错误，需用to表示对某物敏感）"
+        }
+      ]
+    },
+    {
+      "meaning": "需要小心处理或保密的信息或情况",
+      "usage": "描述信息、数据或情况因其重要性、争议性或保密性而需要谨慎对待，常用于商业、法律或政治场景。",
+      "collocations": ["sensitive information", "sensitive data", "sensitive matter"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，员工需要签署保密协议，以确保他们在项目中接触到的机密内容不会泄露。",
+          "chineseIdea": "这些信息对公司至关重要，泄露可能会导致严重后果，因此需要严格保护。",
+          "sentenceWithBlank": "All employees must sign an NDA to protect @ @.",
+          "fullEnglishSentence": "All employees must sign an NDA to protect 「sensitive information」.",
+          "chineseTranslation": "所有员工必须签署保密协议以保护「敏感信息」。",
+          "chinglishFix": "典型中式英语：All employees must sign an NDA to protect secret information. 纠正：All employees must sign an NDA to protect sensitive information.（secret指秘密，sensitive更适合描述需谨慎处理的信息）"
+        },
+        {
+          "scene": "在一次外交会议中，谈判双方讨论到一个棘手的问题，主持人提醒大家谨慎发言以避免误解。",
+          "chineseIdea": "这个问题可能会引发争议或冲突，因此需要以小心的方式处理，避免激化矛盾。",
+          "sentenceWithBlank": "This is a @ @, so please choose your words carefully.",
+          "fullEnglishSentence": "This is a 「sensitive matter」, so please choose your words carefully.",
+          "chineseTranslation": "这是一个「敏感问题」，所以请谨慎选择措辞。",
+          "chinglishFix": "典型中式英语：This is a sensitive thing, so please speak carefully. 纠正：This is a sensitive matter, so please choose your words carefully.（thing过于笼统，matter更适合指严肃或敏感事务）"
+        }
+      ]
+    }
+  ]
+}
+```

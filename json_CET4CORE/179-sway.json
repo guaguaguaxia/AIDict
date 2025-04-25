@@ -1,0 +1,53 @@
+```json
+{
+  "word": "sway",
+  "definitions": [
+    {
+      "meaning": "物理上的摇摆或摇动",
+      "usage": "指物体或人因外力（如风、推力等）而前后或左右移动，通常描述轻柔或有节奏的动作。",
+      "collocations": ["sway gently", "sway in the breeze", "sway back and forth"],
+      "examples": [
+        {
+          "scene": "在一个安静的夏日午后，你站在乡间的田野边，周围是高高的麦田。微风吹过，麦穗开始轻柔地摇动，发出沙沙的声音。",
+          "chineseIdea": "你想描述麦穗在风中轻柔移动的样子，仿佛它们在随着风的节奏起舞。",
+          "sentenceWithBlank": "The wheat stalks @ @ in the warm summer air.",
+          "fullEnglishSentence": "The wheat stalks 「sway gently」 in the warm summer air.",
+          "chineseTranslation": "麦穗在温暖的夏日空气中「轻柔地摇摆」。",
+          "chinglishFix": "典型中式英语：The wheat stalks shake softly in the wind. 纠正：'Shake' 更常用于剧烈或无规律的抖动，而 'sway gently' 更适合描述轻柔、有节奏的摇动。"
+        },
+        {
+          "scene": "你站在一座吊桥上，桥随着风和你的步伐微微晃动。你感到一种既刺激又不安的感觉，桥的晃动让你必须抓紧栏杆。",
+          "chineseIdea": "你想描述吊桥在风中或因人走动而左右摇晃的情景，强调这种晃动的规律性和轻微感。",
+          "sentenceWithBlank": "The suspension bridge @ @ @ as people walked across it.",
+          "fullEnglishSentence": "The suspension bridge 「sway back and forth」 as people walked across it.",
+          "chineseTranslation": "吊桥在人们走过时「来回摇晃」。",
+          "chinglishFix": "典型中式英语：The bridge swings when people walk. 纠正：'Swing' 更常用于大幅度的摆动，而 'sway back and forth' 更适合描述轻微且有节奏的晃动。"
+        }
+      ]
+    },
+    {
+      "meaning": "影响或说服某人改变观点或决定",
+      "usage": "指通过说服、情感或其他因素使某人的意见、决定或态度发生改变，通常用于描述微妙或逐渐的影响过程。",
+      "collocations": ["sway public opinion", "sway someone's decision", "sway the audience"],
+      "examples": [
+        {
+          "scene": "在一个小镇的社区会议上，居民们正在讨论是否要建一座新工厂。一位居民发表了充满激情的演讲，强调工厂对环境的危害，逐渐改变了大家的看法。",
+          "chineseIdea": "你想描述这位居民的演讲如何让原本支持建厂的居民开始动摇，倾向于反对建厂。",
+          "sentenceWithBlank": "Her passionate speech managed to @ @ @ in the meeting.",
+          "fullEnglishSentence": "Her passionate speech managed to 「sway public opinion」 in the meeting.",
+          "chineseTranslation": "她充满激情的演讲成功地在会议中「影响了公众意见」。",
+          "chinglishFix": "典型中式英语：Her speech changed people's mind. 纠正：'Change someone's mind' 是一个固定短语，但 'sway public opinion' 更适合描述逐渐影响一群人的观点。"
+        },
+        {
+          "scene": "你和朋友计划周末去哪里玩。你本来想去爬山，但朋友向你描述了海边露营的乐趣，提到篝火、星空和海浪声，最终让你改变了主意。",
+          "chineseIdea": "你想描述朋友如何通过生动的描述让你放弃原来的计划，决定去海边露营。",
+          "sentenceWithBlank": "His vivid description of camping by the sea @ @ @.",
+          "fullEnglishSentence": "His vivid description of camping by the sea 「sway my decision」.",
+          "chineseTranslation": "他对海边露营的生动描述「动摇了我的决定」。",
+          "chinglishFix": "典型中式英语：He persuaded my choice. 纠正：'Persuade' 更强调直接说服，而 'sway someone's decision' 更适合描述微妙或情感上的影响。"
+        }
+      ]
+    }
+  ]
+}
+```

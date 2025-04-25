@@ -1,0 +1,53 @@
+```json
+{
+  "word": "replace",
+  "definitions": [
+    {
+      "meaning": "用某物或某人代替另一个",
+      "usage": "指用新的或不同的人、物或事物来代替旧的、损坏的或缺失的，通常强调替代行为本身。",
+      "collocations": ["replace a part", "replace someone with", "replace an item"],
+      "examples": [
+        {
+          "scene": "在一家汽车修理店，技师发现客户的刹车片已经磨损严重，需要更换新的刹车片以确保安全。",
+          "chineseIdea": "技师需要把旧的刹车片拿下来，安装一个新的刹车片来恢复刹车系统的功能。",
+          "sentenceWithBlank": "The mechanic needs to @ @ @ to ensure the brakes work properly.",
+          "fullEnglishSentence": "The mechanic needs to 「replace a part」 to ensure the brakes work properly.",
+          "chineseTranslation": "技师需要「更换一个部件」以确保刹车系统正常工作。",
+          "chinglishFix": "典型中式英语：The mechanic needs to change a part. 纠正：Use 'replace' instead of 'change' when referring to substituting one component with another, as 'change' may imply modification rather than substitution."
+        },
+        {
+          "scene": "在一家零售店，顾客购买了一个有缺陷的咖啡机，要求店员更换一台新的。",
+          "chineseIdea": "顾客希望店员拿走坏的咖啡机，换一台新的来解决问题。",
+          "sentenceWithBlank": "The store agreed to @ @ @ for the customer.",
+          "fullEnglishSentence": "The store agreed to 「replace an item」 for the customer.",
+          "chineseTranslation": "商店同意为顾客「更换一件商品」。",
+          "chinglishFix": "典型中式英语：The store will change a new item for the customer. 纠正：Use 'replace' to indicate substituting a defective item with a new one, and avoid redundant phrases like 'a new item' in this context."
+        }
+      ]
+    },
+    {
+      "meaning": "接替某人的职位或角色",
+      "usage": "指在工作、团队或组织中，用一个人接替另一个人的职责或位置，通常用于描述人员变动。",
+      "collocations": ["replace someone as", "replace a manager", "replace a team member"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，市场总监因为个人原因辞职，公司决定任命一位新的总监来接替她的职位。",
+          "chineseIdea": "公司需要找一个新的人来担任市场总监的角色，接替原来的人。",
+          "sentenceWithBlank": "The company appointed a new director to @ @ @ the head of marketing.",
+          "fullEnglishSentence": "The company appointed a new director to 「replace someone as」 the head of marketing.",
+          "chineseTranslation": "公司任命了一位新总监来「接替某人担任」市场负责人。",
+          "chinglishFix": "典型中式英语：The company found a new person to change the head of marketing. 纠正：Use 'replace' instead of 'change' for substituting a person in a role, and use 'as' to specify the position."
+        },
+        {
+          "scene": "在一支足球队中，主力前锋因伤无法参加比赛，教练决定让替补球员上场接替他的位置。",
+          "chineseIdea": "教练需要用一名替补球员来代替受伤的主力球员，填补前锋的位置。",
+          "sentenceWithBlank": "The coach decided to @ @ @ for the upcoming match.",
+          "fullEnglishSentence": "The coach decided to 「replace a team member」 for the upcoming match.",
+          "chineseTranslation": "教练决定「替换一名队员」参加接下来的比赛。",
+          "chinglishFix": "典型中式英语：The coach will change a team member. 纠正：Use 'replace' to indicate substituting one person for another in a specific role, as 'change' is too vague in this context."
+        }
+      ]
+    }
+  ]
+}
+```

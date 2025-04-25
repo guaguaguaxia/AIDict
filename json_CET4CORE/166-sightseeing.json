@@ -1,0 +1,30 @@
+```json
+{
+  "word": "sightseeing",
+  "definitions": [
+    {
+      "meaning": "游览名胜或观光，特指为了欣赏风景、历史遗迹或文化景点而进行的休闲活动",
+      "usage": "通常用作不可数名词，指代一种活动，常与动词如go, do搭配，或作为形容词修饰tour, trip等。也可指具体的观光行为，强调探索和欣赏。",
+      "collocations": ["go sightseeing", "sightseeing tour", "sightseeing trip"],
+      "examples": [
+        {
+          "scene": "一位中国大学生在暑假期间独自前往巴黎旅行。他计划在巴黎停留三天，主要是为了参观著名的地标建筑和博物馆。他在网上查阅了很多攻略，决定每天早上出门游览。",
+          "chineseIdea": "他想要通过游览巴黎的著名景点，比如埃菲尔铁塔和卢浮宫，来感受这座城市的文化和历史。",
+          "sentenceWithBlank": "Every morning, he would @ @ to explore famous landmarks like the Eiffel Tower.",
+          "fullEnglishSentence": "Every morning, he would 「go sightseeing」 to explore famous landmarks like the Eiffel Tower.",
+          "chineseTranslation": "每天早上，他都会「去观光」，探索像埃菲尔铁塔这样的著名地标。",
+          "chinglishFix": "典型中式英语：'He go to see sights every morning.' 纠正：'He goes sightseeing every morning.'（注意动词go的第三人称单数形式和sightseeing作为固定表达的正确使用。）"
+        },
+        {
+          "scene": "一个家庭带着孩子到北京旅游，他们报名参加了一个由专业导游带领的旅行团，计划在一天内游览故宫和天坛。导游会讲解每个景点的历史背景。",
+          "chineseIdea": "这个家庭希望通过有组织的行程，快速而全面地了解北京的文化遗产，同时让孩子也能学到一些历史知识。",
+          "sentenceWithBlank": "They joined a @ @ to visit the Forbidden City and the Temple of Heaven with a guide.",
+          "fullEnglishSentence": "They joined a 「sightseeing tour」 to visit the Forbidden City and the Temple of Heaven with a guide.",
+          "chineseTranslation": "他们参加了一个「观光ツアー」，在导游的带领下参观了故宫和天坛。",
+          "chinglishFix": "典型中式英语：'They take part in a tour to see views.' 纠正：'They joined a sightseeing tour.'（避免使用see views这种不自然的表达，sightseeing tour是更地道的搭配。）"
+        }
+      ]
+    }
+  ]
+}
+```
