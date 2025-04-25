@@ -1,0 +1,53 @@
+```json
+{
+  "word": "collision",
+  "definitions": [
+    {
+      "meaning": "物理上的撞击或碰撞",
+      "usage": "指两个或多个物体在运动中相互撞击，通常用于描述车辆、物体或粒子的物理接触。",
+      "collocations": ["car collision", "head-on collision", "avoid a collision"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的十字路口，雨天路滑，两辆车因为刹车不及发生了事故。",
+          "chineseIdea": "描述两辆车在路口因为速度快而撞在一起的情形。",
+          "sentenceWithBlank": "The wet road caused a @ @ at the intersection.",
+          "fullEnglishSentence": "The wet road caused a 「car collision」 at the intersection.",
+          "chineseTranslation": "湿滑的路面导致了路口的一起「车辆碰撞」。",
+          "chinglishFix": "典型中式英语：'The road is wet so the cars bumped.' 纠正：'The wet road led to a car collision.'"
+        },
+        {
+          "scene": "高速公路上，一辆卡车突然变道，差点与旁边的轿车发生严重的事故。",
+          "chineseIdea": "描述如何通过快速反应来防止两车相撞的情形。",
+          "sentenceWithBlank": "The driver swerved to @ @ @ with the truck.",
+          "fullEnglishSentence": "The driver swerved to 「avoid a collision」 with the truck.",
+          "chineseTranslation": "司机急转方向盘以「避免与卡车碰撞」。",
+          "chinglishFix": "典型中式英语：'He turned to not hit the truck.' 纠正：'He swerved to avoid a collision with the truck.'"
+        }
+      ]
+    },
+    {
+      "meaning": "冲突或对立（非物理）",
+      "usage": "指观点、利益或目标之间的冲突，常见于描述人际关系、谈判或文化差异。",
+      "collocations": ["collision of interests", "collision of cultures", "collision between ideas"],
+      "examples": [
+        {
+          "scene": "在公司会议上，市场部和财务部对新项目的预算分配产生了激烈争执。",
+          "chineseIdea": "描述两个部门因为资源分配问题而产生对立。",
+          "sentenceWithBlank": "The meeting revealed a @ @ @ between the two departments.",
+          "fullEnglishSentence": "The meeting revealed a 「collision of interests」 between the two departments.",
+          "chineseTranslation": "会议暴露了两个部门之间的「利益冲突」。",
+          "chinglishFix": "典型中式英语：'The departments fight for money.' 纠正：'There was a collision of interests between the departments.'"
+        },
+        {
+          "scene": "一位中国留学生在美国课堂上与同学讨论隐私观念，发现彼此的文化背景导致了不同的看法。",
+          "chineseIdea": "描述不同文化背景在观念上的碰撞。",
+          "sentenceWithBlank": "The discussion highlighted a @ @ @ in the classroom.",
+          "fullEnglishSentence": "The discussion highlighted a 「collision of cultures」 in the classroom.",
+          "chineseTranslation": "讨论突显了课堂上的「文化冲突」。",
+          "chinglishFix": "典型中式英语：'Our cultures are different so we argue.' 纠正：'The discussion revealed a collision of cultures.'"
+        }
+      ]
+    }
+  ]
+}
+```

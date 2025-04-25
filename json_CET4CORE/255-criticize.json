@@ -1,0 +1,53 @@
+```json
+{
+  "word": "criticize",
+  "definitions": [
+    {
+      "meaning": "表达对某人或某事的负面评价或不满",
+      "usage": "通常用于描述对某人行为、作品或表现的缺点或错误的评论，可能带有责备或纠正的意图。",
+      "collocations": ["constructive criticism", "harshly criticized", "publicly criticized"],
+      "examples": [
+        {
+          "scene": "在一个团队会议中，项目经理对团队成员提交的报告提出意见，希望改进工作质量。",
+          "chineseIdea": "项目经理觉得报告内容不够详尽，想通过指出不足来帮助团队成员提高。",
+          "sentenceWithBlank": "The manager offered @ @ to help the team improve the report.",
+          "fullEnglishSentence": "The manager offered 「constructive criticism」 to help the team improve the report.",
+          "chineseTranslation": "经理提供了「建设性批评」来帮助团队改进报告。",
+          "chinglishFix": "典型中式英语：'The manager gave some critical opinions.' 纠正：'Critical opinions' 不够地道，'constructive criticism' 更自然，强调积极的改进意图。"
+        },
+        {
+          "scene": "在社交媒体上，网友们对一位公众人物的言论发表激烈评论。",
+          "chineseIdea": "网友们认为这位公众人物的观点有问题，纷纷表达不满。",
+          "sentenceWithBlank": "The politician was @ @ for his controversial remarks.",
+          "fullEnglishSentence": "The politician was 「harshly criticized」 for his controversial remarks.",
+          "chineseTranslation": "这位政客因其争议性言论而被「严厉批评」。",
+          "chinglishFix": "典型中式英语：'The politician was attacked by words.' 纠正：'Attacked by words' 不地道，'harshly criticized' 更准确表达强烈负面评价。"
+        }
+      ]
+    },
+    {
+      "meaning": "对艺术、文学或表演作品进行分析性评价",
+      "usage": "常用于专业领域，如艺术评论或文学批评，指对作品的质量、风格或意义的分析，可能包含正面或负面评价。",
+      "collocations": ["critically acclaimed", "literary criticism", "film critic"],
+      "examples": [
+        {
+          "scene": "在一份电影杂志中，影评人对一部新上映的电影进行评价。",
+          "chineseIdea": "影评人认为这部电影在导演手法上非常出色，值得称赞。",
+          "sentenceWithBlank": "The movie was @ @ for its innovative direction.",
+          "fullEnglishSentence": "The movie was 「critically acclaimed」 for its innovative direction.",
+          "chineseTranslation": "这部电影因其创新的导演手法而被「广受好评」。",
+          "chinglishFix": "典型中式英语：'The movie was praised highly by critics.' 纠正：'Praised highly' 虽正确但不精炼，'critically acclaimed' 是更地道的固定搭配。"
+        },
+        {
+          "scene": "在一堂文学课上，教授分析一首诗的结构和主题。",
+          "chineseIdea": "教授通过深入分析，帮助学生理解诗歌的深层含义。",
+          "sentenceWithBlank": "The professor’s @ @ focused on the poem’s symbolism.",
+          "fullEnglishSentence": "The professor’s 「literary criticism」 focused on the poem’s symbolism.",
+          "chineseTranslation": "教授的「文学批评」聚焦于诗歌的象征意义。",
+          "chinglishFix": "典型中式英语：'The professor’s analysis was critical.' 纠正：'Critical' 在此可能被误解为负面评价，'literary criticism' 更准确指专业分析。"
+        }
+      ]
+    }
+  ]
+}
+```

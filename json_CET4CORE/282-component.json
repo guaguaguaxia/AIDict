@@ -1,0 +1,53 @@
+```json
+{
+  "word": "component",
+  "definitions": [
+    {
+      "meaning": "构成整体的一个部分或元素，通常指系统中可分离的部分",
+      "usage": "指某个更大系统、机器或结构中的一个组成部分，强调其功能性或必要性，常用于技术、工程、科学或抽象系统（如社会、团队）的语境。",
+      "collocations": ["key component", "essential component", "integral component"],
+      "examples": [
+        {
+          "scene": "一个工程师在向团队介绍新设计的智能手机时，解释其中一个重要部分的角色。",
+          "chineseIdea": "想表达某个部分对整个设备至关重要，没有它设备无法正常运行。",
+          "sentenceWithBlank": "The processor is a @ @ in ensuring the phone operates smoothly.",
+          "fullEnglishSentence": "The processor is a 「key component」 in ensuring the phone operates smoothly.",
+          "chineseTranslation": "处理器是确保手机顺畅运行的「关键组成部分」。",
+          "chinglishFix": "典型中式英语：'The processor is a very important part for the phone running.' 纠正：'The processor is a key component in ensuring the phone operates smoothly.'（避免使用笼统的'part'，并用更自然的搭配'key component'）"
+        },
+        {
+          "scene": "一个项目经理在会议中讨论团队合作时，强调每个成员的重要性。",
+          "chineseIdea": "想表达每个团队成员都是项目成功不可或缺的一部分。",
+          "sentenceWithBlank": "Every team member is an @ @ in achieving the project’s success.",
+          "fullEnglishSentence": "Every team member is an 「essential component」 in achieving the project’s success.",
+          "chineseTranslation": "每个团队成员都是实现项目成功的「必不可少的组成部分」。",
+          "chinglishFix": "典型中式英语：'Every member is a must part for the project.' 纠正：'Every team member is an essential component in achieving the project’s success.'（避免不自然的'must part'，使用'essential component'更符合英语表达习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "化学或物质的成分，特指混合物中的单一物质",
+      "usage": "在化学、食品科学或材料科学中，指构成混合物的单一物质或元素，通常用于描述分析或配方中的具体成分。",
+      "collocations": ["active component", "main component", "chemical component"],
+      "examples": [
+        {
+          "scene": "一个化学家在实验室中向学生解释某种药物的配方。",
+          "chineseIdea": "想说明药物中某个成分是发挥主要作用的物质。",
+          "sentenceWithBlank": "This compound is the @ @ in the medicine’s pain-relieving effect.",
+          "fullEnglishSentence": "This compound is the 「active component」 in the medicine’s pain-relieving effect.",
+          "chineseTranslation": "这种化合物是药物止痛效果的「活性成分」。",
+          "chinglishFix": "典型中式英语：'This compound is the main thing in the medicine for pain.' 纠正：'This compound is the active component in the medicine’s pain-relieving effect.'（避免模糊的'thing'，使用'active component'更专业）"
+        },
+        {
+          "scene": "一个营养学家在向客户解释某种健康食品的配料表。",
+          "chineseIdea": "想强调某种食材是食品中最重要的营养来源。",
+          "sentenceWithBlank": "Protein is the @ @ in this supplement’s nutritional value.",
+          "fullEnglishSentence": "Protein is the 「main component」 in this supplement’s nutritional value.",
+          "chineseTranslation": "蛋白质是这种补充剂营养价值的「主要成分」。",
+          "chinglishFix": "典型中式英语：'Protein is the biggest part in this supplement’s nutrition.' 纠正：'Protein is the main component in this supplement’s nutritional value.'（避免'biggest part'，用'main component'更精确）"
+        }
+      ]
+    }
+  ]
+}
+```

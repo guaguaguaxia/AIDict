@@ -1,0 +1,53 @@
+```json
+{
+  "word": "consent",
+  "definitions": [
+    {
+      "meaning": "同意，许可（通常指正式或明确表示同意某事）",
+      "usage": "指某人对某事给予许可或同意，常用于法律、正式协议或个人意愿表达的语境中，可以作动词或名词使用。",
+      "collocations": ["give consent", "obtain consent", "informed consent"],
+      "examples": [
+        {
+          "scene": "在一个医疗场景中，医生需要进行一项手术，但必须先得到患者的同意。患者在了解手术风险后，签署了一份同意书。",
+          "chineseIdea": "患者在充分了解情况后，愿意让医生进行手术，表示明确的许可。",
+          "sentenceWithBlank": "The doctor asked the patient to @ @ before proceeding with the surgery.",
+          "fullEnglishSentence": "The doctor asked the patient to 「give consent」 before proceeding with the surgery.",
+          "chineseTranslation": "医生要求患者在手术前「给予同意」。",
+          "chinglishFix": "典型中式英语：'The patient agree the surgery.' 纠正：'The patient gave consent for the surgery.'（中式英语常忽略'consent'的正式性，需用正确搭配和词汇）。"
+        },
+        {
+          "scene": "在一个市场研究活动中，公司需要收集用户数据，但法律要求必须先征得用户的明确许可。",
+          "chineseIdea": "公司希望确保用户自愿提供个人信息，因此需要得到他们的同意。",
+          "sentenceWithBlank": "The company must @ @ from users before collecting their personal information.",
+          "fullEnglishSentence": "The company must 「obtain consent」 from users before collecting their personal information.",
+          "chineseTranslation": "公司必须在收集用户信息前「获得同意」。",
+          "chinglishFix": "典型中式英语：'The company need user agree to collect data.' 纠正：'The company needs to obtain consent from users to collect data.'（中式英语常直接用'agree'，忽略'consent'的正式搭配）。"
+        }
+      ]
+    },
+    {
+      "meaning": "一致，同意（指意见或观点上的一致）",
+      "usage": "指多方在某个问题或观点上达成一致，通常作名词使用，常出现在正式或书面语境中。",
+      "collocations": ["mutual consent", "by common consent"],
+      "examples": [
+        {
+          "scene": "在一个家庭会议中，父母和孩子们讨论是否要搬到另一个城市，最终所有人都同意这个决定。",
+          "chineseIdea": "家庭成员在讨论后，意见统一，愿意一起搬家。",
+          "sentenceWithBlank": "The decision to relocate was made by @ @ among all family members.",
+          "fullEnglishSentence": "The decision to relocate was made by 「mutual consent」 among all family members.",
+          "chineseTranslation": "搬家的决定是由家庭成员的「共同同意」做出的。",
+          "chinglishFix": "典型中式英语：'All family agree to move.' 纠正：'The decision was made by mutual consent among all family members.'（中式英语常忽略'mutual consent'的固定搭配）。"
+        },
+        {
+          "scene": "在一个社区活动中，大家投票决定由谁来组织今年的慈善活动，最终一致选择了一位德高望重的居民。",
+          "chineseIdea": "社区成员通过投票，普遍认可某人来领导活动。",
+          "sentenceWithBlank": "She was chosen as the event organizer @ @ @.",
+          "fullEnglishSentence": "She was chosen as the event organizer 「by common consent」.",
+          "chineseTranslation": "她被「一致同意」选为活动组织者。",
+          "chinglishFix": "典型中式英语：'Everyone agree she is the organizer.' 纠正：'She was chosen by common consent as the organizer.'（中式英语常忽略'by common consent'的正式表达）。"
+        }
+      ]
+    }
+  ]
+}
+```
