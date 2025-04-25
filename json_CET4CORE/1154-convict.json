@@ -1,0 +1,53 @@
+```json
+{
+  "word": "convict",
+  "definitions": [
+    {
+      "meaning": "宣告某人有罪，定罪",
+      "usage": "作为动词，用于法律语境，指法庭正式判定某人犯有罪行，通常在刑事案件中。",
+      "collocations": ["convict of a crime", "convict on charges", "convict in court"],
+      "examples": [
+        {
+          "scene": "在一场刑事审判中，法庭经过数周的听证和证据审查，陪审团最终达成一致意见，判定被告犯有抢劫罪。",
+          "chineseIdea": "法庭正式宣布某人因为犯罪行为而被定罪，意味着他们将面临法律惩罚，比如监禁。",
+          "sentenceWithBlank": "The jury @ @ @ after reviewing the evidence.",
+          "fullEnglishSentence": "The jury 「convicted him of a crime」 after reviewing the evidence.",
+          "chineseTranslation": "陪审团在审查证据后「判定他有罪」。",
+          "chinglishFix": "典型中式英语：'The jury judged him have crime.' 纠正：'The jury convicted him of a crime.'（中文常直接翻译为‘判他有罪’，但英文中‘convict’是法律术语，需搭配‘of a crime’）"
+        },
+        {
+          "scene": "一名男子因涉嫌贪污被起诉，经过漫长的法庭辩论，法官最终根据多项指控宣布他有罪。",
+          "chineseIdea": "某人因多项违法行为被法庭定罪，强调具体的指控内容。",
+          "sentenceWithBlank": "The judge @ @ @ of embezzlement.",
+          "fullEnglishSentence": "The judge 「convicted him on charges」 of embezzlement.",
+          "chineseTranslation": "法官「根据贪污指控定他的罪」。",
+          "chinglishFix": "典型中式英语：'The judge decided him guilty for embezzlement.' 纠正：'The judge convicted him on charges of embezzlement.'（英文中‘convict on charges’是固定搭配，‘decided guilty’不地道）"
+        }
+      ]
+    },
+    {
+      "meaning": "被定罪的人，罪犯",
+      "usage": "作为名词，指已被法庭判定有罪并通常被监禁的人，常用于描述监狱中的服刑者。",
+      "collocations": ["escaped convict", "convict serving a sentence", "former convict"],
+      "examples": [
+        {
+          "scene": "在一部动作电影中，主角是一名从监狱逃跑的囚犯，他在逃亡过程中试图证明自己的清白。",
+          "chineseIdea": "描述一个因犯罪被定罪并逃离监狱的人，通常带有戏剧性或冒险色彩。",
+          "sentenceWithBlank": "The police launched a manhunt for the @ @.",
+          "fullEnglishSentence": "The police launched a manhunt for the 「escaped convict」.",
+          "chineseTranslation": "警方展开了对「逃犯」的追捕。",
+          "chinglishFix": "典型中式英语：'The police chased the run-away criminal.' 纠正：'The police launched a manhunt for the escaped convict.'（‘run-away criminal’不够正式，‘escaped convict’是标准表达）"
+        },
+        {
+          "scene": "一名男子在服刑多年后被释放，他试图重新融入社会，但发现很难找到工作。",
+          "chineseIdea": "描述一个曾被定罪并服刑的人，强调其刑满释放后的社会处境。",
+          "sentenceWithBlank": "As a @ @, he struggled to find employment.",
+          "fullEnglishSentence": "As a 「former convict」, he struggled to find employment.",
+          "chineseTranslation": "作为一个「前罪犯」，他很难找到工作。",
+          "chinglishFix": "典型中式英语：'As a person who was in prison, he couldn’t find job.' 纠正：'As a former convict, he struggled to find employment.'（‘person who was in prison’过于冗长，‘former convict’更简洁且地道）"
+        }
+      ]
+    }
+  ]
+}
+```
