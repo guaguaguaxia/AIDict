@@ -1,0 +1,53 @@
+```json
+{
+  "word": "insist",
+  "definitions": [
+    {
+      "meaning": "强烈要求某事发生或必须做某事",
+      "usage": "用作及物动词或不及物动词，通常表示说话者坚定地要求某事，或者强调某事必须按照自己的意愿进行。常与介词 'on' 或 'that' 搭配，后接从句或内容。",
+      "collocations": ["insist on doing", "insist on something", "insist that", "insist upon"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，小明希望大家一起玩桌游，但其他人更想看电影。小明非常坚持自己的想法，希望大家按照他的建议来。",
+          "chineseIdea": "小明想表达他非常希望大家都能参与桌游，并且不愿意妥协。",
+          "sentenceWithBlank": "He @ @ @ playing board games together.",
+          "fullEnglishSentence": "He 「insisted on playing」 board games together.",
+          "chineseTranslation": "他「坚持要玩」桌游。",
+          "chinglishFix": "典型中式英语：He very wants to play board games. 纠正：He insisted on playing board games.（避免用'very want'，用'insist'表达强烈意愿）"
+        },
+        {
+          "scene": "在公司会议中，项目经理发现团队成员倾向于推迟项目截止日期，但她认为按时完成至关重要，因此明确要求大家遵守原计划。",
+          "chineseIdea": "项目经理想表达她对按时完成项目的坚定态度，并要求团队严格执行。",
+          "sentenceWithBlank": "She @ @ timely completion of the project.",
+          "fullEnglishSentence": "She 「insisted on」 timely completion of the project.",
+          "chineseTranslation": "她「坚持要求」按时完成项目。",
+          "chinglishFix": "典型中式英语：She strongly request to finish on time. 纠正：She insisted on timely completion.（'strongly request'不够地道，'insist on'更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "坚持认为或声称某事为真",
+      "usage": "用作及物动词，表示说话者坚信某事并反复强调其真实性，常与 'that' 从句搭配，表达对某个事实或观点的坚定态度。",
+      "collocations": ["insist that", "insist on the truth", "insist on one’s innocence"],
+      "examples": [
+        {
+          "scene": "在学校里，老师怀疑小刚考试作弊，因为他的成绩突然提高了很多。小刚非常坚定地否认作弊，并强调自己是通过努力学习的。",
+          "chineseIdea": "小刚想表达他对自己清白的坚定信念，并希望老师相信他。",
+          "sentenceWithBlank": "He @ @ he had studied hard for the exam.",
+          "fullEnglishSentence": "He 「insisted that」 he had studied hard for the exam.",
+          "chineseTranslation": "他「坚持说」他为考试努力学习了。",
+          "chinglishFix": "典型中式英语：He say strongly he study hard. 纠正：He insisted that he had studied hard.（'say strongly'不地道，'insist that'更准确）"
+        },
+        {
+          "scene": "在一个法律案件中，被告在法庭上面对指控，多次声明自己没有犯罪，试图让法官和陪审团相信他的清白。",
+          "chineseIdea": "被告想表达他对自身清白的强烈信念，并希望法庭接受他的说法。",
+          "sentenceWithBlank": "The defendant @ @ @ @ in court.",
+          "fullEnglishSentence": "The defendant 「insisted on his innocence」 in court.",
+          "chineseTranslation": "被告在法庭上「坚持自己的清白」。",
+          "chinglishFix": "典型中式英语：He say he not guilty. 纠正：He insisted on his innocence.（'say not guilty'缺乏力度，'insist on one’s innocence'更正式）"
+        }
+      ]
+    }
+  ]
+}
+```

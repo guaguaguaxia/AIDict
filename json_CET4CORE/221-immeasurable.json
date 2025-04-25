@@ -1,0 +1,53 @@
+```json
+{
+  "word": "immeasurable",
+  "definitions": [
+    {
+      "meaning": "无法测量的；无限的",
+      "usage": "形容某事物极大或无法用具体标准量化，常用于抽象概念如价值、影响、距离等，带有强调语气。",
+      "collocations": ["immeasurable impact", "immeasurable value", "immeasurable distance"],
+      "examples": [
+        {
+          "scene": "一位老师在退休时，学生们为她举办了一场感人的告别会，表达她对学生人生的深远影响。",
+          "chineseIdea": "想表达老师的教导对学生未来产生的巨大而无法量化的作用。",
+          "sentenceWithBlank": "Her teachings have had an @ @ on countless students’ lives.",
+          "fullEnglishSentence": "Her teachings have had an 「immeasurable impact」 on countless students’ lives.",
+          "chineseTranslation": "她的教导对无数学生的生活产生了「无法测量的影响」。",
+          "chinglishFix": "典型中式英语：Her teaching is very big influence. 纠正：Her teachings have an immeasurable impact on students."
+        },
+        {
+          "scene": "一位企业家在接受采访时，谈到公司文化对员工士气和创造力的巨大贡献。",
+          "chineseIdea": "想强调公司文化的重要性，但这种重要性难以用具体数据衡量。",
+          "sentenceWithBlank": "The company culture adds @ @ to our team’s motivation and innovation.",
+          "fullEnglishSentence": "The company culture adds 「immeasurable value」 to our team’s motivation and innovation.",
+          "chineseTranslation": "公司文化为我们团队的动力和创新增添了「无法测量的价值」。",
+          "chinglishFix": "典型中式英语：Company culture is very important value. 纠正：The company culture has immeasurable value."
+        }
+      ]
+    },
+    {
+      "meaning": "极大的；无边的",
+      "usage": "形容某事物在规模、程度或范围上非常巨大，常用在文学或情感表达中，强调超出常规的感受或景象。",
+      "collocations": ["immeasurable joy", "immeasurable beauty", "immeasurable sorrow"],
+      "examples": [
+        {
+          "scene": "一对新人在婚礼上互相诉说誓言，周围的亲友感受到他们之间的浓烈情感。",
+          "chineseIdea": "想表达新婚夫妇在这一刻感受到的幸福是无比巨大的。",
+          "sentenceWithBlank": "Their wedding day was filled with @ @ that touched everyone present.",
+          "fullEnglishSentence": "Their wedding day was filled with 「immeasurable joy」 that touched everyone present.",
+          "chineseTranslation": "他们的婚礼充满了「无边的喜悦」，感染了在场的所有人。",
+          "chinglishFix": "典型中式英语：Their wedding is very happy. 纠正：Their wedding was filled with immeasurable joy."
+        },
+        {
+          "scene": "一位旅行者在夜晚仰望沙漠中的星空，感叹大自然的神奇与壮丽。",
+          "chineseIdea": "想表达星空的美感是如此震撼，超出了人类的想象。",
+          "sentenceWithBlank": "The starry sky in the desert revealed an @ @ that left her speechless.",
+          "fullEnglishSentence": "The starry sky in the desert revealed an 「immeasurable beauty」 that left her speechless.",
+          "chineseTranslation": "沙漠中的星空展现了「无边的美丽」，让她震撼无言。",
+          "chinglishFix": "典型中式英语：The sky is very beautiful. 纠正：The sky revealed an immeasurable beauty."
+        }
+      ]
+    }
+  ]
+}
+```

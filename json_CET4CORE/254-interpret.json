@@ -1,0 +1,53 @@
+```json
+{
+  "word": "interpret",
+  "definitions": [
+    {
+      "meaning": "将一种语言翻译成另一种语言，通常是口头形式",
+      "usage": "指在口译中将讲话者的语言即时翻译成目标语言，常用于会议、谈判或国际场合。",
+      "collocations": ["interpret for someone", "interpret simultaneously", "interpret a speech"],
+      "examples": [
+        {
+          "scene": "在一场国际商务会议中，一位中国公司代表正在与美国客户讨论合作细节。由于语言障碍，现场有一位口译员帮助双方沟通。",
+          "chineseIdea": "口译员需要快速理解发言者的意思，并用另一种语言准确传达，确保双方都能理解对方的意图。",
+          "sentenceWithBlank": "The translator was hired to @ @ @ the Chinese representative during the meeting.",
+          "fullEnglishSentence": "The translator was hired to 「interpret for」 the Chinese representative during the meeting.",
+          "chineseTranslation": "这位口译员被雇来在会议期间为中国代表「进行口译」。",
+          "chinglishFix": "典型中式英语：'The translator help translate for the Chinese representative.' 纠正：'The translator interprets for the Chinese representative.'（避免使用'translate'，因为口译更常用 Ascendingly, use 'interpret' for oral translation."
+        },
+        {
+          "scene": "在联合国的一次会议上，各国代表用不同语言发言，口译员在隔音间内通过耳机收听并即时翻译。",
+          "chineseIdea": "口译员需要高度集中，快速将发言者的讲话翻译成目标语言，同时保持语速和语调的自然流畅。",
+          "sentenceWithBlank": "The interpreter had to @ @ the ambassador’s speech into English.",
+          "fullEnglishSentence": "The interpreter had to 「interpret simultaneously」 the ambassador’s speech into English.",
+          "chineseTranslation": "口译员需要将大使的演讲「同时口译」成英语。",
+          "chinglishFix": "典型中式英语：'The interpreter translate at the same time.' 纠正：'The interpreter interprets simultaneously.'（'translate'通常指书面翻译，'interpret'用于口译，且'simultaneously'更准确描述同步口译。）"
+        }
+      ]
+    },
+    {
+      "meaning": "理解或解释某事物的方式",
+      "usage": "指对信息、行为或事件的个人理解或说明，常用于分析或阐释某种现象、数据或文本。",
+      "collocations": ["interpret the data", "interpret the results", "interpret a text"],
+      "examples": [
+        {
+          "scene": "在一堂大学统计学课上，教授要求学生分析一份市场调研数据，并向全班解释其意义。",
+          "chineseIdea": "学生需要仔细观察数据中的趋势和模式，并用自己的语言解释这些数字背后的含义。",
+          "sentenceWithBlank": "The student was asked to @ @ @ and present their findings to the class.",
+          "fullEnglishSentence": "The student was asked to 「interpret the data」 and present their findings to the class.",
+          "chineseTranslation": "学生被要求「解读数据」并向全班展示他们的发现。",
+          "chinglishFix": "典型中式英语：'The student explain the data.' 纠正：'The student interprets the data.'（'interpret'更强调分析和赋予意义，而'explain'仅指说明。）"
+        },
+        {
+          "scene": "在一场文学研讨会上，学者们针对一本经典小说的主题展开激烈争论，每个人对文本的理解都不尽相同。",
+          "chineseIdea": "学者们通过自己的视角和背景，尝试挖掘小说中隐含的深层含义，并提出不同的解读。",
+          "sentenceWithBlank": "Each scholar offered a unique perspective to @ @ @ in the seminar.",
+          "fullEnglishSentence": "Each scholar offered a unique perspective to 「interpret a text」 in the seminar.",
+          "chineseTranslation": "每位学者在研讨会上提出了独特的视角来「解读文本」。",
+          "chinglishFix": "典型中式英语：'Each scholar explain the book differently.' 纠正：'Each scholar interprets the text differently.'（'interpret'更适合描述对文学作品的深层分析。）"
+        }
+      ]
+    }
+  ]
+}
+```

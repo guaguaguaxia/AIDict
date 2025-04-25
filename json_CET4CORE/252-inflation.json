@@ -1,0 +1,53 @@
+```json
+{
+  "word": "inflation",
+  "definitions": [
+    {
+      "meaning": "经济中物价水平持续上涨，导致货币购买力下降的现象",
+      "usage": "主要用于描述宏观经济现象，常出现在经济新闻、政策讨论或学术文章中，指商品和服务价格的普遍上涨。",
+      "collocations": ["control inflation", "combat inflation", "high inflation"],
+      "examples": [
+        {
+          "scene": "一位经济记者正在撰写关于央行政策的文章，讨论政府如何应对物价快速上涨的问题。",
+          "chineseIdea": "记者想说明政府通过调整利率来减缓物价上涨的速度。",
+          "sentenceWithBlank": "The central bank raised interest rates to @ @.",
+          "fullEnglishSentence": "The central bank raised interest rates to 「control inflation」.",
+          "chineseTranslation": "中央银行提高利率以「控制通货膨胀」。",
+          "chinglishFix": "典型中式英语：'The bank make high interest to stop price go up.' 纠正：'The central bank raised interest rates to control inflation.'"
+        },
+        {
+          "scene": "一位经济学家在电视节目中分析当前经济形势，提到物价上涨对消费者的影响。",
+          "chineseIdea": "经济学家想强调快速的物价上涨正在减少人们的购买力。",
+          "sentenceWithBlank": "「High inflation」 is reducing the purchasing power of consumers.",
+          "fullEnglishSentence": "「High inflation」 is reducing the purchasing power of consumers.",
+          "chineseTranslation": "「高通货膨胀」正在降低消费者的购买力。",
+          "chinglishFix": "典型中式英语：'Price high make people buy less.' 纠正：'High inflation is reducing consumers' purchasing power.'"
+        }
+      ]
+    },
+    {
+      "meaning": "充气或膨胀的行为，通常指物理上使某物充满气体或体积增大",
+      "usage": "常用于描述物理过程，如给轮胎、气球等充气，或比喻性地描述体积的扩大。",
+      "collocations": ["inflation of a balloon", "tire inflation", "inflation pressure"],
+      "examples": [
+        {
+          "scene": "一名自行车爱好者在准备长途骑行前检查自行车轮胎，确保轮胎气压充足。",
+          "chineseIdea": "骑行者想确保轮胎充满气以保证骑行安全。",
+          "sentenceWithBlank": "He checked the @ @ @ before starting the journey.",
+          "fullEnglishSentence": "He checked the 「tire inflation」 before starting the journey.",
+          "chineseTranslation": "他在开始旅程前检查了「轮胎充气」。",
+          "chinglishFix": "典型中式英语：'He look tire air enough.' 纠正：'He checked the tire inflation before starting the journey.'"
+        },
+        {
+          "scene": "一个孩子在生日派对上帮忙准备装饰，负责给气球充气。",
+          "chineseIdea": "孩子想描述如何小心地给气球充气以避免爆裂。",
+          "sentenceWithBlank": "She was careful during the @ @ @ to avoid overfilling.",
+          "fullEnglishSentence": "She was careful during the 「inflation of a balloon」 to avoid overfilling.",
+          "chineseTranslation": "她在「给气球充气」时很小心，以免充得太满。",
+          "chinglishFix": "典型中式英语：'She careful put air in balloon.' 纠正：'She was careful during the inflation of a balloon to avoid overfilling.'"
+        }
+      ]
+    }
+  ]
+}
+```
