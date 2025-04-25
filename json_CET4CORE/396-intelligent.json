@@ -1,0 +1,53 @@
+```json
+{
+  "word": "intelligent",
+  "definitions": [
+    {
+      "meaning": "具有理解、学习和推理能力的",
+      "usage": "描述人或动物能够快速理解、分析问题并做出合理决策的能力，通常与智慧、洞察力相关。",
+      "collocations": ["highly intelligent", "emotionally intelligent", "intelligent decision"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的会议室里，团队正在讨论一个复杂的项目。项目经理注意到一位年轻员工提出了一个创新的解决方案。",
+          "chineseIdea": "这位员工展现了出色的思维能力和创造力，让大家印象深刻。",
+          "sentenceWithBlank": "Her @ @ proposal impressed the entire team.",
+          "fullEnglishSentence": "Her 「highly intelligent」 proposal impressed the entire team.",
+          "chineseTranslation": "她「极具智慧的」提案让整个团队印象深刻。",
+          "chinglishFix": "中式英语：Her very clever proposal make team surprised. 纠正：Her highly intelligent proposal impressed the team."
+        },
+        {
+          "scene": "在一个家庭聚会上，父母观察到他们的孩子在与长辈交谈时，能够很好地理解和回应复杂的情感话题。",
+          "chineseIdea": "孩子在情感交流中表现出超出年龄的成熟和敏感。",
+          "sentenceWithBlank": "The child’s @ @ responses surprised the adults.",
+          "fullEnglishSentence": "The child’s 「emotionally intelligent」 responses surprised the adults.",
+          "chineseTranslation": "孩子「情感智慧的」回应让大人们感到惊讶。",
+          "chinglishFix": "中式英语：The child answer very smart. 纠正：The child’s emotionally intelligent responses surprised the adults."
+        }
+      ]
+    },
+    {
+      "meaning": "（机器或系统）具有智能化的功能",
+      "usage": "描述技术、设备或系统能够自动执行复杂任务、学习或适应环境，通常用于人工智能或自动化领域。",
+      "collocations": ["intelligent system", "intelligent design", "intelligent automation"],
+      "examples": [
+        {
+          "scene": "在一个智能家居展会上，参观者体验到一款可以通过语音指令控制家电的系统。",
+          "chineseIdea": "这个系统能够理解用户的指令并自动调整家里的环境，非常先进。",
+          "sentenceWithBlank": "The @ @ adjusts the lighting based on voice commands.",
+          "fullEnglishSentence": "The 「intelligent system」 adjusts the lighting based on voice commands.",
+          "chineseTranslation": "「智能系统」根据语音指令调整照明。",
+          "chinglishFix": "中式英语：The system very smart to change light. 纠正：The intelligent system adjusts the lighting based on voice commands."
+        },
+        {
+          "scene": "一家工厂引入了一套新的生产线设备，能够自动检测和修复生产中的问题。",
+          "chineseIdea": "这套设备通过自我学习提高了生产效率，减少了人工干预。",
+          "sentenceWithBlank": "The factory’s @ @ reduces errors significantly.",
+          "fullEnglishSentence": "The factory’s 「intelligent automation」 reduces errors significantly.",
+          "chineseTranslation": "工厂的「智能自动化」显著减少了错误。",
+          "chinglishFix": "中式英语：The factory’s machine very clever to fix mistake. 纠正：The factory’s intelligent automation reduces errors significantly."
+        }
+      ]
+    }
+  ]
+}
+```

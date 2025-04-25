@@ -1,0 +1,53 @@
+```json
+{
+  "word": "innovation",
+  "definitions": [
+    {
+      "meaning": "引入新的想法、方法或产品",
+      "usage": "指通过创造性的思维或技术，开发出新的或改进的产品、流程或服务，通常用于商业、科技或社会领域。",
+      "collocations": ["drive innovation", "foster innovation", "technological innovation"],
+      "examples": [
+        {
+          "scene": "一家科技公司正在召开年度战略会议，讨论如何在竞争激烈的市场中保持领先。团队负责人提出需要通过新产品开发来吸引客户。",
+          "chineseIdea": "通过推出独特的功能或服务，让公司在市场上脱颖而出，吸引更多用户。",
+          "sentenceWithBlank": "Our company needs to @ @ to stay ahead of competitors.",
+          "fullEnglishSentence": "Our company needs to 「drive innovation」 to stay ahead of competitors.",
+          "chineseTranslation": "我们公司需要「推动创新」以保持领先于竞争对手。",
+          "chinglishFix": "典型中式英语：'We must do new things to win competitors.' 纠正：'We need to drive innovation to stay ahead of competitors.'（避免模糊表达，明确使用'drive innovation'来表示推动新想法的实施）"
+        },
+        {
+          "scene": "一位大学教授在课堂上讲解如何通过跨学科合作激发学生的创造力，强调学校需要营造支持新想法的环境。",
+          "chineseIdea": "创造一个鼓励学生尝试新方法和想法的氛围，以提升他们的创造力。",
+          "sentenceWithBlank": "Universities should @ @ to inspire creative thinking among students.",
+          "fullEnglishSentence": "Universities should 「foster innovation」 to inspire creative thinking among students.",
+          "chineseTranslation": "大学应该「培养创新」以激发学生的创造性思维。",
+          "chinglishFix": "典型中式英语：'Schools should make students have new ideas.' 纠正：'Universities should foster innovation to inspire creative thinking.'（避免直译，使用'foster innovation'表达培养创新的环境）"
+        }
+      ]
+    },
+    {
+      "meaning": "新发明或新产品",
+      "usage": "指具体的新发明、产品或技术，通常是创新过程的成果，强调实际的输出物。",
+      "collocations": ["latest innovation", "groundbreaking innovation", "product innovation"],
+      "examples": [
+        {
+          "scene": "在国际消费电子展上，一家初创公司展示了一款能够实时翻译多种语言的智能耳机，吸引了大量观众。",
+          "chineseIdea": "展示一种全新的技术产品，突出其独特的功能以吸引关注。",
+          "sentenceWithBlank": "Their @ @ in wearable technology amazed the audience.",
+          "fullEnglishSentence": "Their 「latest innovation」 in wearable technology amazed the audience.",
+          "chineseTranslation": "他们在可穿戴技术方面的「最新创新」让观众惊叹。",
+          "chinglishFix": "典型中式英语：'Their new thing in earphones is very good.' 纠正：'Their latest innovation in wearable technology amazed the audience.'（避免泛泛的'new thing'，使用'latest innovation'突出新颖性）"
+        },
+        {
+          "scene": "一家汽车公司发布了一款新型电动车，配备了先进的自动驾驶功能，媒体称其为行业标杆。",
+          "chineseIdea": "推出一款具有突破性技术的产品，改变行业标准。",
+          "sentenceWithBlank": "This @ @ has set a new standard for electric vehicles.",
+          "fullEnglishSentence": "This 「groundbreaking innovation」 has set a new standard for electric vehicles.",
+          "chineseTranslation": "这项「突破性创新」为电动车设定了新标准。",
+          "chinglishFix": "典型中式英语：'This new car is very advanced.' 纠正：'This groundbreaking innovation has set a new standard for electric vehicles.'（避免简单描述，强调'groundbreaking innovation'的突破性）"
+        }
+      ]
+    }
+  ]
+}
+```

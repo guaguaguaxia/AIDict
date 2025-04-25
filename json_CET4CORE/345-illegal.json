@@ -1,0 +1,61 @@
+```json
+{
+  "word": "illegal",
+  "definitions": [
+    {
+      "meaning": "违反法律的；不合法的",
+      "usage": "形容某行为、活动或状态违反国家或地区的法律规定，通常与犯罪、违规或禁止的事物相关。",
+      "collocations": [
+        "illegal activity",
+        "illegal immigration",
+        "illegal drugs"
+      ],
+      "examples": [
+        {
+          "scene": "在一个国际化的都市里，警察正在调查一个地下赌博团伙。这个团伙在一家隐秘的酒吧里秘密进行赌博活动，吸引了很多人参与。",
+          "chineseIdea": "描述一种秘密进行的、被法律禁止的行为，通常涉及金钱交易或高风险。",
+          "sentenceWithBlank": "The police raided the bar suspected of hosting @ @.",
+          "fullEnglishSentence": "The police raided the bar suspected of hosting 「illegal activity」.",
+          "chineseTranslation": "警察突袭了涉嫌举办「非法活动」的酒吧。",
+          "chinglishFix": "典型中式英语：'The police checked the bar because it has unlawful activity.' 纠正：'Unlawful' 听起来过于正式，且不如 'illegal' 常用。应改为 'The police raided the bar suspected of hosting illegal activity.'"
+        },
+        {
+          "scene": "在一个边境小镇，政府加强了对边境的巡逻，以防止未经许可的人越过国界。很多人试图通过非法途径进入邻国寻找工作。",
+          "chineseIdea": "描述一种跨越国界的违规行为，通常涉及移民或偷渡。",
+          "sentenceWithBlank": "The government deployed more patrols to curb @ @.",
+          "fullEnglishSentence": "The government deployed more patrols to curb 「illegal immigration」.",
+          "chineseTranslation": "政府部署了更多巡逻队以遏制「非法移民」。",
+          "chinglishFix": "典型中式英语：'The government sent police to stop people who enter country illegally.' 纠正：表达不够简洁，且 'enter country illegally' 不如 'illegal immigration' 自然。应改为 'The government deployed more patrols to curb illegal immigration.'"
+        }
+      ]
+    },
+    {
+      "meaning": "不合规的；非法的（非法律领域的规则）",
+      "usage": "指违反某种非法律规定的规则或标准，例如体育比赛、游戏规则或行业规范。",
+      "collocations": [
+        "illegal move",
+        "illegal operation",
+        "illegal transaction"
+      ],
+      "examples": [
+        {
+          "scene": "在一场紧张的国际象棋比赛中，一名选手试图移动棋子到不允许的位置，裁判立即记录了这一违规行为。",
+          "chineseIdea": "描述在比赛中违反规则的行为，通常会导致处罚或警告。",
+          "sentenceWithBlank": "The referee penalized the player for an @ @.",
+          "fullEnglishSentence": "The referee penalized the player for an 「illegal move」.",
+          "chineseTranslation": "裁判因选手做出「非法移动」而对其进行处罚。",
+          "chinglishFix": "典型中式英语：'The referee punished the player because he moved wrong.' 纠正：'Moved wrong' 不准确且不地道，正确的术语是 'illegal move'。应改为 'The referee penalized the player for an illegal move.'"
+        },
+        {
+          "scene": "在一个金融交易平台上，一名用户试图通过不正当手段转移资金，触发了系统的自动警报，账户被暂时冻结。",
+          "chineseIdea": "描述在金融或技术系统中违反操作规则的行为，通常会导致账户限制或调查。",
+          "sentenceWithBlank": "The system flagged the account for an @ @.",
+          "fullEnglishSentence": "The system flagged the account for an 「illegal transaction」.",
+          "chineseTranslation": "系统因账户进行「非法交易」而对其进行标记。",
+          "chinglishFix": "典型中式英语：'The system stopped the account because it did wrong transaction.' 纠正：'Wrong transaction' 不地道，正确的术语是 'illegal transaction'。应改为 'The system flagged the account for an illegal transaction.'"
+        }
+      ]
+    }
+  ]
+}
+```
