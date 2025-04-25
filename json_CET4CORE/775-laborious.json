@@ -1,0 +1,53 @@
+```json
+{
+  "word": "laborious",
+  "definitions": [
+    {
+      "meaning": "需要大量努力和时间的；费力的",
+      "usage": "形容工作、任务或过程需要付出大量体力或脑力，通常带有费时费力的感觉，强调努力的程度。",
+      "collocations": ["laborious task", "laborious process", "laborious effort"],
+      "examples": [
+        {
+          "scene": "在一个炎热的夏天，小明被分配到一个需要整理大量旧档案的办公室工作。文件堆积如山，纸张泛黄，有些甚至已经破损，需要小心翼翼地分类和记录。",
+          "chineseIdea": "小明觉得这个工作非常繁重，每天都需要花好几个小时整理和核对信息，感觉既枯燥又耗费精力。",
+          "sentenceWithBlank": "Sorting through decades of dusty files was a @ @ that left him exhausted by the end of the day.",
+          "fullEnglishSentence": "Sorting through decades of dusty files was a 「laborious task」 that left him exhausted by the end of the day.",
+          "chineseTranslation": "整理几十年的尘封档案是一项「繁重的任务」，让他每天结束时都筋疲力尽。",
+          "chinglishFix": "典型中式英语：'This work is very tired.' 纠正：'This work is very exhausting' 或 'This is a very laborious task.'"
+        },
+        {
+          "scene": "小红在一家出版社工作，她的任务是校对一本厚厚的学术书籍，检查每一页的语法、拼写和格式错误，确保没有任何遗漏。",
+          "chineseIdea": "小红发现校对工作需要极高的专注力，每一页都要反复检查，进度很慢，让她觉得非常耗时。",
+          "sentenceWithBlank": "Proofreading the manuscript was a @ @ that required intense focus and patience.",
+          "fullEnglishSentence": "Proofreading the manuscript was a 「laborious process」 that required intense focus and patience.",
+          "chineseTranslation": "校对手稿是一个「繁琐的过程」，需要高度的专注力和耐心。",
+          "chinglishFix": "典型中式英语：'This job is very trouble.' 纠正：'This job is very tedious' 或 'This is a laborious process.'"
+        }
+      ]
+    },
+    {
+      "meaning": "显得过于复杂或刻意的；不自然的",
+      "usage": "形容表达、写作或行为方式显得过于费力或刻意，缺乏自然流畅的感觉，通常用于批评文风或行动。",
+      "collocations": ["laborious style", "laborious explanation", "laborious attempt"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，李教授正在介绍他的研究，但他的演讲充满了长而复杂的句子，听众很难跟上他的思路。",
+          "chineseIdea": "听众觉得李教授的表达方式过于繁复，句子冗长，好像在刻意展示学识，而不是清晰地传达信息。",
+          "sentenceWithBlank": "His presentation was marred by a @ @ that confused the audience.",
+          "fullEnglishSentence": "His presentation was marred by a 「laborious style」 that confused the audience.",
+          "chineseTranslation": "他的演讲因「繁复的风格」而受损，让听众感到困惑。",
+          "chinglishFix": "典型中式英语：'His speech is too heavy.' 纠正：'His speech is too convoluted' 或 'His presentation has a laborious style.'"
+        },
+        {
+          "scene": "小刚在写一封求职信，他想让自己的语言显得正式，于是用了很多复杂的词汇和长句子，结果信读起来很不自然。",
+          "chineseIdea": "小刚希望通过复杂的语言给招聘经理留下深刻印象，但实际上他的信显得生硬，缺乏真诚。",
+          "sentenceWithBlank": "His cover letter was filled with a @ @ that failed to convey genuine enthusiasm.",
+          "fullEnglishSentence": "His cover letter was filled with a 「laborious attempt」 that failed to convey genuine enthusiasm.",
+          "chineseTranslation": "他的求职信充斥着「刻意的尝试」，未能传达出真正的热情。",
+          "chinglishFix": "典型中式英语：'His letter is very effort.' 纠正：'His letter feels forced' 或 'His letter is a laborious attempt.'"
+        }
+      ]
+    }
+  ]
+}
+```

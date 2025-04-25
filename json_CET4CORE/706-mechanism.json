@@ -1,0 +1,53 @@
+```json
+{
+  "word": "mechanism",
+  "definitions": [
+    {
+      "meaning": "机械装置或系统的工作原理",
+      "usage": "指物理设备或系统的组成部分如何协同工作以实现特定功能，常用于描述机械、工具或复杂系统的运作方式。",
+      "collocations": ["locking mechanism", "control mechanism", "feedback mechanism"],
+      "examples": [
+        {
+          "scene": "在一家汽车修理厂，技师正在向客户解释汽车门锁的工作原理。",
+          "chineseIdea": "技师想说明门锁是如何通过一系列零件互动来防止车门被轻易打开的。",
+          "sentenceWithBlank": "The car's door uses a sophisticated @ @ to ensure security.",
+          "fullEnglishSentence": "The car's door uses a sophisticated 「locking mechanism」 to ensure security.",
+          "chineseTranslation": "车门使用了一个复杂的「锁止装置」来确保安全性。",
+          "chinglishFix": "典型中式英语：'The door has a lock system to protect.' 纠正：'The door uses a locking mechanism to ensure security.'（避免笼统的'system'，使用更精确的'mechanism'）"
+        },
+        {
+          "scene": "在工程学课堂上，教授讲解如何通过传感器和电路调节机器的运行速度。",
+          "chineseIdea": "教授想强调机器如何通过内部调节来维持稳定运行。",
+          "sentenceWithBlank": "This machine relies on a precise @ @ to adjust its speed.",
+          "fullEnglishSentence": "This machine relies on a precise 「control mechanism」 to adjust its speed.",
+          "chineseTranslation": "这台机器依赖一个精确的「控制装置」来调节速度。",
+          "chinglishFix": "典型中式英语：'The machine has a control way to change speed.' 纠正：'The machine relies on a control mechanism to adjust its speed.'（'way'过于模糊，'mechanism'更专业）"
+        }
+      ]
+    },
+    {
+      "meaning": "方法或过程（非物理的机制）",
+      "usage": "指抽象的系统、流程或方法，用于实现某种目标或解决问题，常见于社会科学、经济学或政策讨论。",
+      "collocations": ["coping mechanism", "decision-making mechanism", "funding mechanism"],
+      "examples": [
+        {
+          "scene": "在心理咨询中，咨询师与客户讨论如何处理日常压力。",
+          "chineseIdea": "咨询师想帮助客户找到一种有效的方式来缓解焦虑情绪。",
+          "sentenceWithBlank": "Developing a healthy @ @ can help manage stress effectively.",
+          "fullEnglishSentence": "Developing a healthy 「coping mechanism」 can help manage stress effectively.",
+          "chineseTranslation": "培养一个健康的「应对机制」可以有效管理压力。",
+          "chinglishFix": "典型中式英语：'You need a way to deal with stress.' 纠正：'Developing a coping mechanism can help manage stress.'（'way'太泛泛，'coping mechanism'更具体且专业）"
+        },
+        {
+          "scene": "在国际会议上，官员们讨论如何为环保项目筹集资金。",
+          "chineseIdea": "官员们希望建立一个可持续的资金来源以支持长期项目。",
+          "sentenceWithBlank": "We need a reliable @ @ to support these initiatives.",
+          "fullEnglishSentence": "We need a reliable 「funding mechanism」 to support these initiatives.",
+          "chineseTranslation": "我们需要一个可靠的「筹资机制」来支持这些项目。",
+          "chinglishFix": "典型中式英语：'We need a money method for projects.' 纠正：'We need a funding mechanism to support these initiatives.'（'money method'不自然，'funding mechanism'更符合英语习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

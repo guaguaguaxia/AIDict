@@ -1,0 +1,53 @@
+```json
+{
+  "word": "locate",
+  "definitions": [
+    {
+      "meaning": "找到或确定某人或某物的位置",
+      "usage": "指通过寻找或调查来确定某人或某物的具体位置，通常用于描述发现某物所在的地方或定位某人。",
+      "collocations": ["locate a place", "locate an item", "locate a person"],
+      "examples": [
+        {
+          "scene": "你在一个大型购物中心，和朋友走散了。你通过手机定位功能找到了朋友的具体位置。",
+          "chineseIdea": "描述通过某种方式找到朋友所在的确切地点。",
+          "sentenceWithBlank": "I used the GPS on my phone to @ @ @ where my friend was waiting.",
+          "fullEnglishSentence": "I used the GPS on my phone to 「locate a place」 where my friend was waiting.",
+          "chineseTranslation": "我用手机上的GPS「找到一个地方」，我的朋友在那里等着。",
+          "chinglishFix": "典型中式英语：I find the place of my friend. 纠正：I located the place where my friend was."
+        },
+        {
+          "scene": "你在家里找不到遥控器，经过一番搜索，终于在沙发底下发现了它。",
+          "chineseIdea": "描述在某个区域内找到丢失的物品。",
+          "sentenceWithBlank": "After searching for hours, I finally managed to @ @ @ under the couch.",
+          "fullEnglishSentence": "After searching for hours, I finally managed to 「locate an item」 under the couch.",
+          "chineseTranslation": "在搜索了几个小时后，我终于在沙发底下「找到一个物品」。",
+          "chinglishFix": "典型中式英语：I find my remote control at the sofa. 纠正：I located my remote control under the sofa."
+        }
+      ]
+    },
+    {
+      "meaning": "将某物设立或安置在特定位置",
+      "usage": "指选择某个地方来设立、建造或安置某物，通常用于描述机构、建筑或设备的定位。",
+      "collocations": ["locate a business", "locate a facility", "locate equipment"],
+      "examples": [
+        {
+          "scene": "一家公司计划在城市郊区开设一家新工厂，经过市场调研后选择了最佳地点。",
+          "chineseIdea": "描述选择一个适合商业发展的地点来设立企业。",
+          "sentenceWithBlank": "The company decided to @ @ @ in the suburbs to benefit from lower costs.",
+          "fullEnglishSentence": "The company decided to 「locate a business」 in the suburbs to benefit from lower costs.",
+          "chineseTranslation": "公司决定在郊区「设立一家企业」，以享受较低的成本。",
+          "chinglishFix": "典型中式英语：The company build business in suburbs. 纠正：The company located its business in the suburbs."
+        },
+        {
+          "scene": "一个城市规划团队决定在公园附近建造一个新的体育中心，以方便居民使用。",
+          "chineseIdea": "描述选择一个便于公众使用的地点来建造设施。",
+          "sentenceWithBlank": "The city planners chose to @ @ @ near the park for easy access.",
+          "fullEnglishSentence": "The city planners chose to 「locate a facility」 near the park for easy access.",
+          "chineseTranslation": "城市规划者选择在公园附近「设立一个设施」，以便于公众使用。",
+          "chinglishFix": "典型中式英语：The city put a facility at the park. 纠正：The city located a facility near the park."
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "minor",
+  "definitions": [
+    {
+      "meaning": "次要的，不重要的",
+      "usage": "形容词，用来描述某事物在重要性、程度或规模上较小，通常与主要（major）相对。常用于描述问题、变化、细节等。",
+      "collocations": ["minor issue", "minor change", "minor detail"],
+      "examples": [
+        {
+          "scene": "在公司会议中，团队正在讨论一个项目的进展。项目经理提到了一些小的技术问题，但强调这些问题不会影响整体进度。",
+          "chineseIdea": "想表达某个问题虽然存在，但不严重，不需要特别担心。",
+          "sentenceWithBlank": "The technician mentioned a @ @ that we can address later.",
+          "fullEnglishSentence": "The technician mentioned a 「minor issue」 that we can address later.",
+          "chineseTranslation": "技术人员提到一个「次要问题」，我们可以稍后处理。",
+          "chinglishFix": "典型中式英语：'This is a small problem.' 纠正：'This is a minor issue.'（'small' 通常指物理尺寸，'minor' 更适合描述重要性低）"
+        },
+        {
+          "scene": "在编辑一篇学术论文时，导师对学生的初稿提出了一些建议，指出需要调整一些小的细节。",
+          "chineseIdea": "想表达某些修改是细微的，不会改变整体内容。",
+          "sentenceWithBlank": "The professor suggested a @ @ to improve clarity.",
+          "fullEnglishSentence": "The professor suggested a 「minor change」 to improve clarity.",
+          "chineseTranslation": "教授建议进行一个「小的修改」以提高清晰度。",
+          "chinglishFix": "典型中式英语：'You need a little change.' 纠正：'You need a minor change.'（'little' 常用于不可数名词，'minor' 更适合描述调整的程度）"
+        }
+      ]
+    },
+    {
+      "meaning": "未成年人",
+      "usage": "名词，指年龄未满法定成年年龄（通常为18岁或21岁，视国家而定）的人。常用于法律或社会语境。",
+      "collocations": ["unaccompanied minor", "minor child", "legal minor"],
+      "examples": [
+        {
+          "scene": "在机场，工作人员正在帮助一名独自旅行的青少年办理登机手续，确保他得到适当的照顾。",
+          "chineseIdea": "想表达一个未成年人在没有成人陪伴下旅行的情况。",
+          "sentenceWithBlank": "The airline staff assisted the @ @ during boarding.",
+          "fullEnglishSentence": "The airline staff assisted the 「unaccompanied minor」 during boarding.",
+          "chineseTranslation": "航空公司工作人员在登机时协助了「无人陪伴的未成年人」。",
+          "chinglishFix": "典型中式英语：'The young person without adult.' 纠正：'The unaccompanied minor.'（'young person' 过于宽泛，'unaccompanied minor' 是航空领域的专业术语）"
+        },
+        {
+          "scene": "在法庭上，律师正在讨论一个案件，涉及一名未成年人的权益保护。",
+          "chineseIdea": "想表达某个孩子因为年龄未成年而受到法律的特殊保护。",
+          "sentenceWithBlank": "The court appointed a guardian for the @ @.",
+          "fullEnglishSentence": "The court appointed a guardian for the 「minor child」.",
+          "chineseTranslation": "法庭为「未成年子女」指定了一名监护人。",
+          "chinglishFix": "典型中式英语：'The child who is not adult.' 纠正：'The minor child.'（'not adult' 不符合英语表达习惯，'minor child' 是法律术语）"
+        }
+      ]
+    },
+    {
+      "meaning": "辅修科目",
+      "usage": "名词，指大学中学生选择作为次要学习领域的学科，与主修（major）相对。",
+      "collocations": ["minor in", "academic minor", "declare a minor"],
+      "examples": [
+        {
+          "scene": "在大学选课期间，一名学生正在与学术顾问讨论她的学习计划，提到她想在主修之外再学习一门学科。",
+          "chineseIdea": "想表达学生选择了一个次要的学科来扩展知识。",
+          "sentenceWithBlank": "She decided to @ @ psychology to complement her major.",
+          "fullEnglishSentence": "She decided to 「minor in」 psychology to complement her major.",
+          "chineseTranslation": "她决定「辅修」心理学来补充她的主修专业。",
+          "chinglishFix": "典型中式英语：'She studies psychology as a small subject.' 纠正：'She minors in psychology.'（'small subject' 不准确，'minor in' 是正确的学术表达）"
+        },
+        {
+          "scene": "在求职面试中，面试官询问一名应聘者的教育背景，应聘者提到她辅修了一门与职位相关的学科。",
+          "chineseIdea": "想表达辅修的学科为求职者的背景增添了优势。",
+          "sentenceWithBlank": "I chose to @ @ in economics to broaden my skills.",
+          "fullEnglishSentence": "I chose to 「declare a minor」 in economics to broaden my skills.",
+          "chineseTranslation": "我选择「申报辅修」经济学来拓宽我的技能。",
+          "chinglishFix": "典型中式英语：'I added economics as a side study.' 纠正：'I declared a minor in economics.'（'side study' 不正式，'declare a minor' 是标准表达）"
+        }
+      ]
+    }
+  ]
+}
+```

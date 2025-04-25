@@ -1,0 +1,76 @@
+```json
+{
+  "word": "miserable",
+  "definitions": [
+    {
+      "meaning": "感到非常不快乐、痛苦或悲伤",
+      "usage": "形容人或动物因情绪低落、痛苦或不适而处于悲惨状态，通常强调强烈的情感体验。",
+      "collocations": ["feel miserable", "look miserable", "make someone miserable"],
+      "examples": [
+        {
+          "scene": "小明因为刚刚和最好的朋友吵架，一个人坐在公园的长椅上，低着头，眼神空洞，周围的欢声笑语让他感到更加孤单。",
+          "chineseIdea": "小明内心充满了失落和悲伤，觉得自己被误解，情绪非常低落。",
+          "sentenceWithBlank": "After the argument, Xiaoming sat alone on the bench, unable to @ @.",
+          "fullEnglishSentence": "After the argument, Xiaoming sat alone on the bench, unable to 「feel miserable」.",
+          "chineseTranslation": "吵架后，小明独自坐在长椅上，忍不住「感到悲惨」。",
+          "chinglishFix": "典型中式英语：'He is very sad and miserable.' 纠正：'He feels utterly miserable.'（避免重复使用'sad'，直接用'miserable'表达强烈情感）"
+        },
+        {
+          "scene": "雨天里，小丽站在公交站等了半小时，衣服被淋湿，寒风吹得她瑟瑟发抖，脸上满是疲惫和不耐烦。",
+          "chineseIdea": "小丽因为身体不适和环境恶劣，显得非常不开心，表情和姿态都透露出难受。",
+          "sentenceWithBlank": "Soaked and shivering, Xiaoli stood at the bus stop, starting to @ @.",
+          "fullEnglishSentence": "Soaked and shivering, Xiaoli stood at the bus stop, starting to 「look miserable」.",
+          "chineseTranslation": "浑身湿透又冷得发抖，小丽站在公交站，开始「显得悲惨」。",
+          "chinglishFix": "典型中式英语：'She looks very bad.' 纠正：'She looks absolutely miserable.'（'bad'不够具体，'miserable'更能表达情感和状态）"
+        }
+      ]
+    },
+    {
+      "meaning": "条件或环境非常恶劣、不舒适或令人不快",
+      "usage": "形容生活条件、天气、环境等让人感到不适或难以忍受，通常强调客观环境的恶劣。",
+      "collocations": ["miserable weather", "miserable conditions", "miserable place"],
+      "examples": [
+        {
+          "scene": "张伟出差到一个小村庄，住在一间没有暖气、窗户漏风的旅馆，外面还下着冻雨，屋里湿冷得让人难以入睡。",
+          "chineseIdea": "张伟觉得这个地方的环境让人难以忍受，寒冷和潮湿让他无法放松。",
+          "sentenceWithBlank": "Staying in the drafty inn, Zhang Wei cursed the @ @.",
+          "fullEnglishSentence": "Staying in the drafty inn, Zhang Wei cursed the 「miserable weather」.",
+          "chineseTranslation": "住在漏风的旅馆里，张伟抱怨「恶劣的天气」。",
+          "chinglishFix": "典型中式英语：'The weather is very terrible.' 纠正：'The weather is absolutely miserable.'（'terrible'过于宽泛，'miserable'更贴合不适感）"
+        },
+        {
+          "scene": "李娜参观了一个老旧的工厂，里面机器噪音震耳欲聋，空气中充满灰尘，工人们在昏暗的光线下辛苦工作。",
+          "chineseIdea": "李娜觉得这个工厂的工作环境极其恶劣，让人感到压抑和不舒服。",
+          "sentenceWithBlank": "Walking through the dusty factory, Li Na was shocked by the @ @.",
+          "fullEnglishSentence": "Walking through the dusty factory, Li Na was shocked by the 「miserable conditions」.",
+          "chineseTranslation": "穿过布满灰尘的工厂，李娜对「恶劣的条件」感到震惊。",
+          "chinglishFix": "典型中式英语：'The factory is very bad.' 纠正：'The conditions in the factory are miserable.'（具体化描述环境，用'miserable conditions'更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "数量或质量极差、微不足道",
+      "usage": "形容某事物（如数量、质量、表现等）非常少或很差，通常带有批评或轻视的语气。",
+      "collocations": ["miserable failure", "miserable attempt", "miserable sum"],
+      "examples": [
+        {
+          "scene": "小刚准备了一场重要的演讲，但因为紧张，他在台上结结巴巴，内容毫无逻辑，听众纷纷摇头。",
+          "chineseIdea": "小刚的演讲完全没有达到预期，表现得很糟糕，让人失望。",
+          "sentenceWithBlank": "Gang’s speech was a @ @, leaving the audience unimpressed.",
+          "fullEnglishSentence": "Gang’s speech was a 「miserable failure」, leaving the audience unimpressed.",
+          "chineseTranslation": "小刚的演讲是「彻底的失败」，让观众毫无兴趣。",
+          "chinglishFix": "典型中式英语：'His speech is very bad.' 纠正：'His speech was a miserable failure.'（'bad'缺乏力度，'miserable failure'更能表达彻底的失败）"
+        },
+        {
+          "scene": "小红花了一个小时试图修好家里的水龙头，但最后水还是漏得更厉害，她觉得自己完全没做到什么。",
+          "chineseIdea": "小红觉得自己尝试修理水龙头毫无成效，浪费了时间。",
+          "sentenceWithBlank": "After an hour, Xiaohong gave up on her @ @ to fix the faucet.",
+          "fullEnglishSentence": "After an hour, Xiaohong gave up on her 「miserable attempt」 to fix the faucet.",
+          "chineseTranslation": "一个小时后，小红放弃了「徒劳的尝试」去修水龙头。",
+          "chinglishFix": "典型中式英语：'She tried but not good.' 纠正：'Her attempt to fix it was miserable.'（'not good'不准确，'miserable attempt'更能表达失败的努力）"
+        }
+      ]
+    }
+  ]
+}
+```
