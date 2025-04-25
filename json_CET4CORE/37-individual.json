@@ -1,0 +1,53 @@
+```json
+{
+  "word": "individual",
+  "definitions": [
+    {
+      "meaning": "单独的人，个体",
+      "usage": "指一个人作为一个独立的实体，强调其独特性或与群体的区别，常用于描述人的个性、权利或特征。",
+      "collocations": ["individual rights", "individual needs", "individual contribution"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，经理正在讨论如何平衡团队合作和个人需求。每个人都有自己的特长和偏好，经理希望确保每个人的需求都能被考虑。",
+          "chineseIdea": "每个人都有自己独特的需求，比如工作方式、时间安排或资源分配，这些需要被尊重以提高工作效率。",
+          "sentenceWithBlank": "The manager emphasized that respecting @ @ @ is crucial for a productive team environment.",
+          "fullEnglishSentence": "The manager emphasized that respecting 「individual rights」 is crucial for a productive team environment.",
+          "chineseTranslation": "经理强调，尊重「个人权利」对于营造高效的团队环境至关重要。",
+          "chinglishFix": "典型中式英语：'Every people’s right must be respected.' 纠正：'Everyone’s rights must be respected.'（注意：people是复数，不能用every；right应根据语境用复数rights。）"
+        },
+        {
+          "scene": "在一所学校，老师正在制定教学计划，希望根据学生的不同学习风格和能力来调整课程内容，以满足每个学生的学习需求。",
+          "chineseIdea": "每个学生都有独特的学习需求，比如有的学生需要更多实践，有的需要更多理论指导，老师需要因材施教。",
+          "sentenceWithBlank": "The teacher tailored the lessons to meet each student’s @ @.",
+          "fullEnglishSentence": "The teacher tailored the lessons to meet each student’s 「individual needs」.",
+          "chineseTranslation": "老师调整了课程以满足每个学生的「个人需求」。",
+          "chinglishFix": "典型中式英语：'Teacher change class for every student need.' 纠正：'The teacher adjusts the lessons to meet each student’s needs.'（注意：避免逐字翻译，需用tailor或adjust等动词表达调整；need应为needs。）"
+        }
+      ]
+    },
+    {
+      "meaning": "独特的，个别的",
+      "usage": "形容某事物具有独特性或与众不同的特质，强调其个性化或特定性，常用于描述风格、方法或特征。",
+      "collocations": ["individual style", "individual approach", "individual case"],
+      "examples": [
+        {
+          "scene": "在一个时装设计比赛中，评委们对一位设计师的作品印象深刻，因为她的设计展现了与众不同的审美和创意。",
+          "chineseIdea": "这位设计师的设计风格非常独特，融入了她个人的艺术理念，与其他参赛者的作品形成了鲜明对比。",
+          "sentenceWithBlank": "The judges praised her @ @ for its originality and creativity.",
+          "fullEnglishSentence": "The judges praised her 「individual style」 for its originality and creativity.",
+          "chineseTranslation": "评委们称赞她的「独特风格」充满了原创性和创造力。",
+          "chinglishFix": "典型中式英语：'Her style is very special.' 纠正：'Her style is highly distinctive.'（注意：special过于笼统，distinctive或unique更能表达独特；避免直接翻译‘很特别’。）"
+        },
+        {
+          "scene": "在一家咨询公司，顾问们正在为客户制定解决方案。他们根据客户的具体情况，提出了一种定制化的策略，而不是通用的模板。",
+          "chineseIdea": "每个客户的情况不同，顾问需要根据客户的具体需求和背景，采取一种独特的解决方法，而不是千篇一律。",
+          "sentenceWithBlank": "The consultant adopted an @ @ to address the client’s unique challenges.",
+          "fullEnglishSentence": "The consultant adopted an 「individual approach」 to address the client’s unique challenges.",
+          "chineseTranslation": "顾问采取了一种「独特的方法」来应对客户的独特挑战。",
+          "chinglishFix": "典型中式英语：'Consultant use special way for client.' 纠正：'The consultant adopted a tailored approach for the client.'（注意：special way不地道，tailored或individual approach更自然；动词use应改为adopt。）"
+        }
+      ]
+    }
+  ]
+}
+```

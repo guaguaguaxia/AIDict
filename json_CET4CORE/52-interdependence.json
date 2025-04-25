@@ -1,0 +1,53 @@
+```json
+{
+  "word": "interdependence",
+  "definitions": [
+    {
+      "meaning": "事物之间相互依赖的关系，彼此需要对方以实现功能或维持存在",
+      "usage": "常用于描述国家、组织、个体或系统之间相互依赖的关系，尤其在经济、生态和社会领域，强调双方或多方互利共存。",
+      "collocations": ["economic interdependence", "global interdependence", "mutual interdependence"],
+      "examples": [
+        {
+          "scene": "在一次国际经济论坛上，演讲者讨论了各国在贸易和资源共享方面的紧密联系，强调全球化如何让各国无法单独繁荣。",
+          "chineseIdea": "全球化让各国经济紧密相连，一个国家的经济波动可能会影响其他国家。",
+          "sentenceWithBlank": "The speaker highlighted how @ @ has reshaped global trade policies.",
+          "fullEnglishSentence": "The speaker highlighted how 「economic interdependence」 has reshaped global trade policies.",
+          "chineseTranslation": "演讲者强调「经济相互依赖」如何重塑了全球贸易政策。",
+          "chinglishFix": "典型中式英语：'Countries depend on each other’s economy.' 纠正：'Countries rely on 「economic interdependence」 to thrive.'"
+        },
+        {
+          "scene": "在一次课堂讨论中，学生们分析了国际供应链的复杂性，比如手机生产需要多个国家的技术与原材料。",
+          "chineseIdea": "现代科技产品依赖多个国家的合作，体现了一种全球化的协作模式。",
+          "sentenceWithBlank": "The professor explained that modern technology thrives on @ @.",
+          "fullEnglishSentence": "The professor explained that modern technology thrives on 「global interdependence」.",
+          "chineseTranslation": "教授解释说，现代科技依赖于「全球相互依赖」而蓬勃发展。",
+          "chinglishFix": "典型中式英语：'Technology needs countries to help each other.' 纠正：'Technology relies on 「global interdependence」 for success.'"
+        }
+      ]
+    },
+    {
+      "meaning": "个人或群体之间在情感、行为或目标上的相互依赖，强调协作与支持",
+      "usage": "常用于描述人际关系、团队合作或社区互动，突出个体在情感或行动上彼此依靠以实现共同目标。",
+      "collocations": ["social interdependence", "emotional interdependence", "interdependence in teamwork"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，组织者强调居民需要共同努力来维护公共设施，比如公园和图书馆。",
+          "chineseIdea": "社区的和谐依赖于居民之间的协作，每个人都为共同目标贡献力量。",
+          "sentenceWithBlank": "The organizer stressed that community success relies on @ @.",
+          "fullEnglishSentence": "The organizer stressed that community success relies on 「social interdependence」.",
+          "chineseTranslation": "组织者强调社区的成功依赖于「社会相互依赖」。",
+          "chinglishFix": "典型中式英语：'Community needs people to depend together.' 纠正：'Community thrives on 「social interdependence」.'"
+        },
+        {
+          "scene": "在一个团队建设培训中，教练通过信任游戏让成员体会到彼此支持对完成任务的重要性。",
+          "chineseIdea": "团队的成功需要成员之间相互信任和依靠，缺一不可。",
+          "sentenceWithBlank": "The coach demonstrated the value of @ @ @ through group exercises.",
+          "fullEnglishSentence": "The coach demonstrated the value of 「interdependence in teamwork」 through group exercises.",
+          "chineseTranslation": "教练通过小组练习展示了「团队合作中的相互依赖」的价值。",
+          "chinglishFix": "典型中式英语：'Teamwork needs people to rely each other.' 纠正：'Teamwork succeeds through 「interdependence in teamwork」.'"
+        }
+      ]
+    }
+  ]
+}
+```
