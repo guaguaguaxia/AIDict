@@ -1,0 +1,76 @@
+```json
+{
+  "word": "determine",
+  "definitions": [
+    {
+      "meaning": "决定或确定某事的结果或方向",
+      "usage": "指通过分析、判断或选择来做出决定，通常涉及明确目标、结果或行动方向。",
+      "collocations": ["determine the outcome", "determine the cause", "determine the success"],
+      "examples": [
+        {
+          "scene": "在一场激烈的公司会议中，团队正在讨论新产品的市场策略，领导需要决定最终的推广方案。",
+          "chineseIdea": "通过分析市场数据和消费者反馈，领导想要明确哪种策略能带来最好的结果。",
+          "sentenceWithBlank": "The marketing team’s research will @ @ @ of the product launch.",
+          "fullEnglishSentence": "The marketing team’s research will 「determine the outcome」 of the product launch.",
+          "chineseTranslation": "营销团队的研究将「决定产品发布的结果」。",
+          "chinglishFix": "中式英语：The research will decide the result of the launch. 纠正：The research will determine the outcome of the launch.（'decide' 更强调选择，而 'determine' 强调通过分析得出结果）"
+        },
+        {
+          "scene": "在一所学校里，老师们正在分析学生的考试成绩，以找出导致部分学生成绩下滑的原因。",
+          "chineseIdea": "老师希望通过检查学生的学习习惯和课堂表现，找出成绩不佳的根本原因。",
+          "sentenceWithBlank": "The teachers are working to @ @ @ of the students’ poor performance.",
+          "fullEnglishSentence": "The teachers are working to 「determine the cause」 of the students’ poor performance.",
+          "chineseTranslation": "老师们正在努力「确定学生成绩不佳的原因」。",
+          "chinglishFix": "中式英语：The teachers want to find the reason of bad grades. 纠正：The teachers are working to determine the cause of the students’ poor performance.（'find the reason' 不够正式，'determine the cause' 更符合学术或分析场景）"
+        }
+      ]
+    },
+    {
+      "meaning": "测定或查明某事的事实或性质",
+      "usage": "指通过调查、实验或观察来确认或测量某事的确切信息，常用于科学、技术或正式调查中。",
+      "collocations": ["determine the level", "determine the extent", "determine the accuracy"],
+      "examples": [
+        {
+          "scene": "在一个环境研究实验室中，科学家们正在测试当地的水质，以评估污染程度。",
+          "chineseIdea": "科学家希望通过化学分析，准确测定水中污染物的浓度。",
+          "sentenceWithBlank": "The lab tests will @ @ @ of contamination in the water supply.",
+          "fullEnglishSentence": "The lab tests will 「determine the level」 of contamination in the water supply.",
+          "chineseTranslation": "实验室测试将「测定供水系统中污染的水平」。",
+          "chinglishFix": "中式英语：The tests will check the pollution level. 纠正：The tests will determine the level of contamination.（'check' 过于笼统，'determine' 强调精确测定）"
+        },
+        {
+          "scene": "在一个软件开发公司，工程师们正在评估新算法的性能，以确保它在实际应用中的可靠性。",
+          "chineseIdea": "工程师希望通过多次测试，确认算法在不同场景下的精确度。",
+          "sentenceWithBlank": "The engineers need to @ @ @ of the algorithm’s results before deployment.",
+          "fullEnglishSentence": "The engineers need to 「determine the accuracy」 of the algorithm’s results before deployment.",
+          "chineseTranslation": "工程师需要在部署前「确定算法结果的准确性」。",
+          "chinglishFix": "中式英语：The engineers will test the correctness of the algorithm. 纠正：The engineers need to determine the accuracy of the algorithm’s results.（'correctness' 不够具体，'accuracy' 更适合技术场景）"
+        }
+      ]
+    },
+    {
+      "meaning": "使某人下定决心做某事",
+      "usage": "指某人因外部因素或内在动机而坚定地决定采取行动，通常带有情感或意志的含义。",
+      "collocations": ["determine to succeed", "determine to improve", "determine to achieve"],
+      "examples": [
+        {
+          "scene": "一个年轻的学生在高考失利后，决定更加努力学习，以考上理想的大学。",
+          "chineseIdea": "学生因为失败的经历，坚定了要成功的决心，愿意付出更多努力。",
+          "sentenceWithBlank": "After failing the exam, she @ @ @ in her studies.",
+          "fullEnglishSentence": "After failing the exam, she 「determined to succeed」 in her studies.",
+          "chineseTranslation": "考试失败后，她「下定决心要在学习上成功」。",
+          "chinglishFix": "中式英语：She decided to study hard after failure. 纠正：She determined to succeed in her studies.（'decide' 缺乏情感力度，'determine' 更强调坚定决心）"
+        },
+        {
+          "scene": "一个跑步爱好者在一次马拉松比赛中表现不佳，决定调整训练计划以提高成绩。",
+          "chineseIdea": "跑者希望通过更科学的训练方法，提升自己的跑步水平。",
+          "sentenceWithBlank": "The disappointing race motivated him to @ @ @ his performance.",
+          "fullEnglishSentence": "The disappointing race motivated him to 「determine to improve」 his performance.",
+          "chineseTranslation": "令人失望的比赛激励他「下定决心提升自己的表现」。",
+          "chinglishFix": "中式英语：He wanted to make better performance after the race. 纠正：He determined to improve his performance.（'make better performance' 不自然，'determine to improve' 更符合英语表达习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

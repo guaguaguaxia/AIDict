@@ -1,0 +1,53 @@
+```json
+{
+  "word": "emergency",
+  "definitions": [
+    {
+      "meaning": "紧急情况，突发事件",
+      "usage": "指需要立即采取行动的危急或意外情况，通常涉及危险或急需处理的问题。",
+      "collocations": ["declare an emergency", "emergency services", "in case of emergency", "emergency exit"],
+      "examples": [
+        {
+          "scene": "在一栋办公大楼里，突然响起火警铃声，员工们需要迅速撤离。",
+          "chineseIdea": "当火灾发生时，管理层需要正式宣布危险情况以启动疏散程序。",
+          "sentenceWithBlank": "The manager had to @ @ @ to ensure everyone evacuated safely.",
+          "fullEnglishSentence": "The manager had to 「declare an emergency」 to ensure everyone evacuated safely.",
+          "chineseTranslation": "经理必须「宣布紧急情况」以确保所有人安全撤离。",
+          "chinglishFix": "典型中式英语：'Say emergency happen.' 纠正：'Declare an emergency.'"
+        },
+        {
+          "scene": "在一个社区活动中，有人突然心脏病发作，急需专业救援。",
+          "chineseIdea": "需要立即呼叫专业的救援团队来处理突发状况。",
+          "sentenceWithBlank": "We called the @ @ to assist the person in distress.",
+          "fullEnglishSentence": "We called the 「emergency services」 to assist the person in distress.",
+          "chineseTranslation": "我们呼叫了「紧急服务」来帮助处于困境中的人。",
+          "chinglishFix": "典型中式英语：'Call emergency people.' 纠正：'Call the emergency services.'"
+        }
+      ]
+    },
+    {
+      "meaning": "紧急医疗情况",
+      "usage": "特指需要立即就医的健康危机，如严重受伤或突发疾病。",
+      "collocations": ["emergency room", "medical emergency", "emergency treatment", "emergency surgery"],
+      "examples": [
+        {
+          "scene": "在一次车祸后，伤者被迅速送往医院接受治疗。",
+          "chineseIdea": "伤者需要被送往专门处理急症的医院部门。",
+          "sentenceWithBlank": "The paramedics rushed the victim to the @ @ for immediate care.",
+          "fullEnglishSentence": "The paramedics rushed the victim to the 「emergency room」 for immediate care.",
+          "chineseTranslation": "医护人员将受害者紧急送往「急诊室」进行立即护理。",
+          "chinglishFix": "典型中式英语：'Send to emergency place.' 纠正：'Rush to the emergency room.'"
+        },
+        {
+          "scene": "在家中，某人突然出现严重过敏反应，呼吸困难。",
+          "chineseIdea": "这种情况被视为需要立即处理的健康危机。",
+          "sentenceWithBlank": "Her condition was classified as a @ @ requiring urgent attention.",
+          "fullEnglishSentence": "Her condition was classified as a 「medical emergency」 requiring urgent attention.",
+          "chineseTranslation": "她的情况被归类为需要紧急处理的「医疗紧急情况」。",
+          "chinglishFix": "典型中式英语：'She has urgent sickness.' 纠正：'She has a medical emergency.'"
+        }
+      ]
+    }
+  ]
+}
+```

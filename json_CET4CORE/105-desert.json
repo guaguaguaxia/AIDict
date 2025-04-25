@@ -1,0 +1,76 @@
+```json
+{
+  "word": "desert",
+  "definitions": [
+    {
+      "meaning": "荒漠，沙漠（指干旱、少植被的地区）",
+      "usage": "作为名词，指一片干旱、几乎没有植被的地区，通常与炎热或寒冷的气候相关，常用于描述自然地理环境。",
+      "collocations": ["vast desert", "barren desert", "scorching desert"],
+      "examples": [
+        {
+          "scene": "一个旅行者在计划去中东旅行，听说那里有广袤的沙地景观，充满了神秘感。",
+          "chineseIdea": "想表达这片区域非常大，充满了干燥和空旷的感觉。",
+          "sentenceWithBlank": "The @ @ stretches endlessly under the blazing sun.",
+          "fullEnglishSentence": "The 「vast desert」 stretches endlessly under the blazing sun.",
+          "chineseTranslation": "「广袤的沙漠」在炽热的阳光下无边无际地延伸。",
+          "chinglishFix": "典型中式英语：'The desert is very big and empty.' 纠正：'The vast desert feels boundless and desolate.'"
+        },
+        {
+          "scene": "一个科学家在研究极端环境下的生态系统，描述某地区因干旱而缺乏生命迹象。",
+          "chineseIdea": "想说明这片土地非常贫瘠，几乎没有植物或动物。",
+          "sentenceWithBlank": "The @ @ supports almost no vegetation or wildlife.",
+          "fullEnglishSentence": "The 「barren desert」 supports almost no vegetation or wildlife.",
+          "chineseTranslation": "「贫瘠的沙漠」几乎无法支持任何植被或野生动物。",
+          "chinglishFix": "典型中式英语：'The desert has no plants and animals.' 纠正：'The barren desert is nearly devoid of flora and fauna.'"
+        }
+      ]
+    },
+    {
+      "meaning": "抛弃，遗弃（指抛下某人或某物）",
+      "usage": "作为动词，指背弃、抛弃某人、某物或责任，常带有情感或道德上的负面含义。",
+      "collocations": ["desert a family", "desert a friend", "desert a post"],
+      "examples": [
+        {
+          "scene": "一个年轻人在家庭陷入困境时，选择离开家乡，独自去大城市追逐梦想。",
+          "chineseIdea": "想表达他抛下了家人，独自追求自己的目标。",
+          "sentenceWithBlank": "He chose to @ @ @ in pursuit of his ambitions.",
+          "fullEnglishSentence": "He chose to 「desert a family」 in pursuit of his ambitions.",
+          "chineseTranslation": "他选择「抛弃家庭」去追求自己的抱负。",
+          "chinglishFix": "典型中式英语：'He left his family to chase dreams.' 纠正：'He deserted his family to pursue his ambitions.'"
+        },
+        {
+          "scene": "一个士兵在关键时刻离开了自己的岗位，导致任务失败。",
+          "chineseIdea": "想说明他背弃了自己的职责，擅离职守。",
+          "sentenceWithBlank": "The soldier was court-martialed for choosing to @ @ @ during the mission.",
+          "fullEnglishSentence": "The soldier was court-martialed for choosing to 「desert a post」 during the mission.",
+          "chineseTranslation": "这名士兵因在任务中选择「擅离职守」而被军事法庭审判。",
+          "chinglishFix": "典型中式英语：'The soldier ran away from his job.' 纠正：'The soldier deserted his post.'"
+        }
+      ]
+    },
+    {
+      "meaning": "空旷无人的地方（指偏僻、无人居住的地区）",
+      "usage": "作为名词，指一个几乎没有人类活动的地区，可能不一定是干旱的沙漠，而是偏远或荒凉的地方。",
+      "collocations": ["urban desert", "cultural desert", "economic desert"],
+      "examples": [
+        {
+          "scene": "一个记者描述一个城市因为经济衰退，商业活动减少，街道变得冷清。",
+          "chineseIdea": "想表达这个城市失去了活力，变得空荡荡。",
+          "sentenceWithBlank": "The downtown area has become an @ @ due to the economic downturn.",
+          "fullEnglishSentence": "The downtown area has become an 「urban desert」 due to the economic downturn.",
+          "chineseTranslation": "由于经济衰退，市中心区域变成了一个「城市荒漠」。",
+          "chinglishFix": "典型中式英语：'The city center is very empty.' 纠正：'The downtown has turned into an urban desert.'"
+        },
+        {
+          "scene": "一个艺术爱好者抱怨某个小镇缺乏艺术活动和文化设施。",
+          "chineseIdea": "想说明这个地方文化生活匮乏，毫无吸引力。",
+          "sentenceWithBlank": "The town feels like a @ @ with no museums or theaters.",
+          "fullEnglishSentence": "The town feels like a 「cultural desert」 with no museums or theaters.",
+          "chineseTranslation": "这个小镇感觉像一个「文化荒漠」，没有博物馆或剧院。",
+          "chinglishFix": "典型中式英语：'The town has no culture.' 纠正：'The town is a cultural desert.'"
+        }
+      ]
+    }
+  ]
+}
+```
