@@ -1,0 +1,76 @@
+```json
+{
+  "word": "logic",
+  "definitions": [
+    {
+      "meaning": "推理或逻辑思维，指通过理性分析和推理得出结论的能力",
+      "usage": "常用于描述思维过程、哲学、数学或科学中的推理方法，强调有条理、基于事实的思考",
+      "collocations": ["apply logic", "follow the logic", "sound logic", "flawed logic"],
+      "examples": [
+        {
+          "scene": "在一次团队会议中，讨论如何优化工作流程，某位同事提出一个看似复杂但实际上基于理性分析的建议。",
+          "chineseIdea": "通过清晰的推理，让大家理解为什么这个建议是可行的。",
+          "sentenceWithBlank": "To convince the team, she had to @ @ in her presentation.",
+          "fullEnglishSentence": "To convince the team, she had to 「apply logic」 in her presentation.",
+          "chineseTranslation": "为了说服团队，她在演示中必须「运用逻辑」。",
+          "chinglishFix": "中式英语：She used logic thinking in her presentation. 纠正：She applied logic in her presentation.（'logic thinking' 不自然，应使用 'apply logic' 或 'use logical reasoning'）"
+        },
+        {
+          "scene": "在课堂上，老师要求学生分析一篇议论文的论点，检查其推理是否严密。",
+          "chineseIdea": "通过检查文章的推理步骤，确保论点成立。",
+          "sentenceWithBlank": "The students were asked to @ @ @ of the argument to identify any weaknesses.",
+          "fullEnglishSentence": "The students were asked to 「follow the logic」 of the argument to identify any weaknesses.",
+          "chineseTranslation": "学生们被要求「遵循论点的逻辑」以找出任何弱点。",
+          "chinglishFix": "中式英语：Students followed the logic thinking of the argument. 纠正：Students followed the logic of the argument.（'logic thinking' 是多余的，'logic' 本身已包含思维含义）"
+        }
+      ]
+    },
+    {
+      "meaning": "逻辑学，指研究推理和论证形式的学科",
+      "usage": "常用于学术语境，特别是哲学、数学和计算机科学领域，描述一门正式的学科",
+      "collocations": ["study logic", "formal logic", "mathematical logic", "philosophy of logic"],
+      "examples": [
+        {
+          "scene": "大学哲学系的学生在选课时，选择了一门关于推理规则的课程。",
+          "chineseIdea": "通过学习这门课程，学生希望掌握系统化的推理方法。",
+          "sentenceWithBlank": "She decided to @ @ to better understand philosophical arguments.",
+          "fullEnglishSentence": "She decided to 「study logic」 to better understand philosophical arguments.",
+          "chineseTranslation": "她决定「学习逻辑学」以更好地理解哲学论证。",
+          "chinglishFix": "中式英语：She studied logic science. 纠正：She studied logic.（'logic' 本身就是学科名称，无需加 'science'）"
+        },
+        {
+          "scene": "在计算机科学会议上，研究人员讨论如何用形式化的方法改进算法。",
+          "chineseIdea": "通过使用严格的推理规则，确保算法的正确性。",
+          "sentenceWithBlank": "The researcher emphasized the importance of @ @ in algorithm design.",
+          "fullEnglishSentence": "The researcher emphasized the importance of 「formal logic」 in algorithm design.",
+          "chineseTranslation": "研究人员强调了「形式逻辑」在算法设计中的重要性。",
+          "chinglishFix": "中式英语：Formal logic is very useful for algorithm. 纠正：Formal logic is crucial in algorithm design.（'useful for algorithm' 表达模糊，'crucial in algorithm design' 更具体）"
+        }
+      ]
+    },
+    {
+      "meaning": "事物或系统的内在规律，指某种看似合理的运作方式",
+      "usage": "常用于描述事件、系统或行为的内在规则或合理性，通常带有隐喻意味",
+      "collocations": ["underlying logic", "logic behind", "internal logic", "economic logic"],
+      "examples": [
+        {
+          "scene": "在分析为什么某款产品在市场上失败时，营销团队试图找出问题根源。",
+          "chineseIdea": "通过分析市场趋势和消费者行为，找出失败的根本原因。",
+          "sentenceWithBlank": "The team struggled to understand the @ @ of the product’s failure.",
+          "fullEnglishSentence": "The team struggled to understand the 「underlying logic」 of the product’s failure.",
+          "chineseTranslation": "团队努力理解产品失败的「内在逻辑」。",
+          "chinglishFix": "中式英语：The logic of product failure is hard to know. 纠正：The underlying logic of the product’s failure is hard to understand.（'logic of product failure' 缺少 'underlying'，显得不地道）"
+        },
+        {
+          "scene": "在讨论一部电影的剧情时，观众觉得某些情节似乎不合常理。",
+          "chineseIdea": "通过分析剧情的发展，判断其是否符合故事的内在规律。",
+          "sentenceWithBlank": "The film’s confusing plot made it hard to grasp the @ @ it.",
+          "fullEnglishSentence": "The film’s confusing plot made it hard to grasp the 「logic behind」 it.",
+          "chineseTranslation": "电影混乱的剧情让人难以理解「其背后的逻辑」。",
+          "chinglishFix": "中式英语：The film’s logic is not clear. 纠正：The logic behind the film’s plot is unclear.（'logic behind' 更能表达‘背后原因’的含义）"
+        }
+      ]
+    }
+  ]
+}
+```

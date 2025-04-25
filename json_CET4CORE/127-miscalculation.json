@@ -1,0 +1,53 @@
+```json
+{
+  "word": "miscalculation",
+  "definitions": [
+    {
+      "meaning": "错误的计算或估计",
+      "usage": "指在数学计算、计划或判断中出现错误，通常导致不准确的结果或错误的结论。",
+      "collocations": ["make a miscalculation", "serious miscalculation", "strategic miscalculation"],
+      "examples": [
+        {
+          "scene": "在一个公司的财务会议上，财务主管正在向团队解释为什么去年的预算超支了。",
+          "chineseIdea": "财务主管想表达预算超支是因为他们在预测收入时犯了一个错误。",
+          "sentenceWithBlank": "The budget overrun happened because we @ @ @ in forecasting revenue.",
+          "fullEnglishSentence": "The budget overrun happened because we 「made a miscalculation」 in forecasting revenue.",
+          "chineseTranslation": "预算超支是因为我们在预测收入时「犯了一个错误」。",
+          "chinglishFix": "典型中式英语：'We calculated wrong in forecasting revenue.' 纠正：'We made a miscalculation in forecasting revenue.'（使用'make a miscalculation'更符合英语表达习惯）"
+        },
+        {
+          "scene": "在一个国际象棋比赛中，一位选手在关键时刻做出了错误的走法，导致输掉了比赛。",
+          "chineseIdea": "选手想表达自己因为一个严重的错误判断而输掉了比赛。",
+          "sentenceWithBlank": "I lost the game due to a @ @ in the final move.",
+          "fullEnglishSentence": "I lost the game due to a 「serious miscalculation」 in the final move.",
+          "chineseTranslation": "我因为最后一步的「严重错误」而输掉了比赛。",
+          "chinglishFix": "典型中式英语：'I made a big mistake calculation in the final move.' 纠正：'I made a serious miscalculation in the final move.'（避免'mistake calculation'，使用'serious miscalculation'更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "对形势或策略的错误判断",
+      "usage": "指在战略、决策或人际关系中对情况的错误评估，通常导致不良后果。",
+      "collocations": ["political miscalculation", "gross miscalculation", "costly miscalculation"],
+      "examples": [
+        {
+          "scene": "在一次政治竞选中，候选人错误地认为某个政策会受到选民的欢迎，结果导致支持率下降。",
+          "chineseIdea": "候选人想表达他们的竞选策略因为一个错误的判断而失败。",
+          "sentenceWithBlank": "The campaign failed due to a @ @ in judging public opinion.",
+          "fullEnglishSentence": "The campaign failed due to a 「political miscalculation」 in judging public opinion.",
+          "chineseTranslation": "竞选失败是因为在判断公众意见时「犯了一个政治错误」。",
+          "chinglishFix": "典型中式英语：'We wrongly calculated the public opinion.' 纠正：'We made a political miscalculation in judging public opinion.'（'wrongly calculated'不地道，'political miscalculation'更符合语境）"
+        },
+        {
+          "scene": "一家公司决定在经济衰退期间大幅提高产品价格，结果导致销量骤降。",
+          "chineseIdea": "公司高管想表达他们对市场反应的错误判断导致了巨大的损失。",
+          "sentenceWithBlank": "Raising prices during the recession was a @ @ that hurt sales.",
+          "fullEnglishSentence": "Raising prices during the recession was a 「costly miscalculation」 that hurt sales.",
+          "chineseTranslation": "在经济衰退期间提高价格是一个「代价高昂的错误」，这损害了销量。",
+          "chinglishFix": "典型中式英语：'We made a mistake to raise prices.' 纠正：'Raising prices was a costly miscalculation.'（'made a mistake to'语法错误，'costly miscalculation'更精准）"
+        }
+      ]
+    }
+  ]
+}
+```

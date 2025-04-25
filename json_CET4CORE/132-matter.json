@@ -1,0 +1,76 @@
+```json
+{
+  "word": "matter",
+  "definitions": [
+    {
+      "meaning": "物质；材料",
+      "usage": "指物理学或日常语境中构成物体的物质，通常为不可数名词。",
+      "collocations": ["organic matter", "particulate matter", "dark matter"],
+      "examples": [
+        {
+          "scene": "在一个生物课堂上，老师正在讲解土壤的成分，提到植物生长所需的物质。",
+          "chineseIdea": "土壤中有些东西对植物很重要，比如腐烂的叶子和动物残骸，这些是植物的营养来源。",
+          "sentenceWithBlank": "The soil is rich in @ @, which provides nutrients for plants.",
+          "fullEnglishSentence": "The soil is rich in 「organic matter」, which provides nutrients for plants.",
+          "chineseTranslation": "土壤富含「有机物质」，为植物提供养分。",
+          "chinglishFix": "典型中式英语：'The soil has many organic things.' 纠正：'Organic things' 过于模糊，英语中常用 'organic matter' 指代土壤中的有机物质。"
+        },
+        {
+          "scene": "在一场关于环境保护的讨论中，发言人提到空气污染中的细小颗粒。",
+          "chineseIdea": "空气中有一些非常小的颗粒物，会影响我们的健康，尤其是在雾霾天。",
+          "sentenceWithBlank": "Air pollution often contains @ @, which can harm respiratory health.",
+          "fullEnglishSentence": "Air pollution often contains 「particulate matter」, which can harm respiratory health.",
+          "chineseTranslation": "空气污染中常含有「颗粒物」，这会损害呼吸系统健康。",
+          "chinglishFix": "典型中式英语：'The air has many small dusts.' 纠正：'Small dusts' 不自然，英语中用 'particulate matter' 描述空气中的细小颗粒。"
+        }
+      ]
+    },
+    {
+      "meaning": "事情；问题",
+      "usage": "指需要处理或讨论的事情、问题或情况，通常为不可数名词，常见于正式或中性语境。",
+      "collocations": ["pressing matter", "serious matter", "personal matter"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理提到一个需要立即解决的紧急问题。",
+          "chineseIdea": "有些问题非常紧急，比如客户投诉，必须马上处理以免影响公司声誉。",
+          "sentenceWithBlank": "We need to address this @ @ immediately to avoid further complaints.",
+          "fullEnglishSentence": "We need to address this 「pressing matter」 immediately to avoid further complaints.",
+          "chineseTranslation": "我们需要立即处理这个「紧急问题」，以避免更多投诉。",
+          "chinglishFix": "典型中式英语：'This is an urgent thing.' 纠正：'Urgent thing' 显得口语化且不正式，'pressing matter' 更适合正式语境。"
+        },
+        {
+          "scene": "朋友之间聊天时，有人提到不想公开的私事。",
+          "chineseIdea": "有些事情是私人的，比如家庭问题，不希望和外人分享。",
+          "sentenceWithBlank": "I’d rather not discuss it; it’s a @ @.",
+          "fullEnglishSentence": "I’d rather not discuss it; it’s a 「personal matter」.",
+          "chineseTranslation": "我不想讨论这件事；这是「私人问题」。",
+          "chinglishFix": "典型中式英语：'It’s my own thing.' 纠正：'Own thing' 过于模糊且不地道，'personal matter' 更能表达私人事务的含义。"
+        }
+      ]
+    },
+    {
+      "meaning": "重要性；关系",
+      "usage": "用在表达某事是否重要或有影响的语境中，常用于否定句或疑问句，如 'It doesn’t matter' 或 'What’s the matter?'",
+      "collocations": ["make a difference", "no matter what", "as a matter of fact"],
+      "examples": [
+        {
+          "scene": "朋友计划周末出行，但对天气不太确定，另一个朋友表示天气不重要。",
+          "chineseIdea": "天气好坏无所谓，只要我们在一起玩得开心就好。",
+          "sentenceWithBlank": "The weather won’t @ @ @; we’ll have fun anyway.",
+          "fullEnglishSentence": "The weather won’t 「make a difference」; we’ll have fun anyway.",
+          "chineseTranslation": "天气不会「有什么影响」；我们无论如何都会玩得开心。",
+          "chinglishFix": "典型中式英语：'The weather is not important.' 纠正：'Not important' 虽然意思接近，但 'make a difference' 更常用于表达某事是否有影响。"
+        },
+        {
+          "scene": "在讨论规则时，有人强调无论情况如何都要遵守。",
+          "chineseIdea": "不管发生什么，我们都要遵守规则，这是原则问题。",
+          "sentenceWithBlank": "You must follow the rules, @ @ @ happens.",
+          "fullEnglishSentence": "You must follow the rules, 「no matter what」 happens.",
+          "chineseTranslation": "你必须遵守规则，「无论发生什么」。",
+          "chinglishFix": "典型中式英语：'Whatever happens, follow the rules.' 纠正：'Whatever happens' 语法正确但稍显口语化，'no matter what' 更简洁且常见。"
+        }
+      ]
+    }
+  ]
+}
+```
