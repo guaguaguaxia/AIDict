@@ -1,0 +1,76 @@
+```json
+{
+  "word": "conflict",
+  "definitions": [
+    {
+      "meaning": "意见、利益或目标之间的矛盾或争端",
+      "usage": "指人与人、群体或国家之间因观点、利益或目标不同而产生的争执或对立，常用于描述需要解决的分歧。",
+      "collocations": ["resolve a conflict", "cause a conflict", "avoid a conflict"],
+      "examples": [
+        {
+          "scene": "在公司会议中，两个部门经理对新项目的预算分配有不同意见，导致会议气氛紧张。",
+          "chineseIdea": "希望通过讨论找到一个双方都能接受的解决方案，平息争端。",
+          "sentenceWithBlank": "The managers worked hard to @ @ @ between their departments.",
+          "fullEnglishSentence": "The managers worked hard to 「resolve a conflict」 between their departments.",
+          "chineseTranslation": "经理们努力「解决争端」，以平息部门间的分歧。",
+          "chinglishFix": "典型中式英语：'They want to solve the fight.' 纠正：'Solve the fight' 听起来不自然，应改为 'resolve the conflict'，因为 'fight' 更指物理冲突，而 'conflict' 更适合描述意见分歧。"
+        },
+        {
+          "scene": "在家庭聚会上，父母因孩子的教育方式产生分歧，母亲主张严格，父亲主张宽松。",
+          "chineseIdea": "希望通过沟通避免争执，达成一致的教育方针。",
+          "sentenceWithBlank": "They tried to @ @ @ by discussing their views calmly.",
+          "fullEnglishSentence": "They tried to 「avoid a conflict」 by discussing their views calmly.",
+          "chineseTranslation": "他们通过冷静讨论，试图「避免争执」。",
+          "chinglishFix": "典型中式英语：'They don’t want to have a quarrel.' 纠正：'Quarrel' 常指口头争吵，且语气较情绪化，而 'avoid a conflict' 更正式，适用于描述意见分歧的预防。"
+        }
+      ]
+    },
+    {
+      "meaning": "武装冲突或战争",
+      "usage": "指国家、地区或群体之间通过武力解决争端的激烈对抗，通常涉及军事行动。",
+      "collocations": ["armed conflict", "escalate into conflict", "end a conflict"],
+      "examples": [
+        {
+          "scene": "在新闻报道中，两个邻国因边境争端发生小规模军事对抗，引起国际社会关注。",
+          "chineseIdea": "希望国际组织介入，防止局势进一步恶化。",
+          "sentenceWithBlank": "The situation could @ @ @ if no one intervenes.",
+          "fullEnglishSentence": "The situation could 「escalate into conflict」 if no one intervenes.",
+          "chineseTranslation": "如果无人干预，局势可能「升级为冲突」。",
+          "chinglishFix": "典型中式英语：'The situation may become a war.' 纠正：'Become a war' 过于直接且不精确，'escalate into conflict' 更准确地描述了从紧张到武装对抗的渐进过程。"
+        },
+        {
+          "scene": "在历史课堂上，老师讲解二战后某地区因资源争夺引发的长期战争。",
+          "chineseIdea": "希望学生了解战争的破坏性以及和平的重要性。",
+          "sentenceWithBlank": "The peace talks aimed to @ @ @ that had lasted for decades.",
+          "fullEnglishSentence": "The peace talks aimed to 「end a conflict」 that had lasted for decades.",
+          "chineseTranslation": "和平谈判旨在「结束冲突」，这场冲突已持续数十年。",
+          "chinglishFix": "典型中式英语：'They want to stop the fight.' 纠正：'Stop the fight' 过于口语化且不适合正式语境，'end a conflict' 更适合描述战争或武装对抗的终止。"
+        }
+      ]
+    },
+    {
+      "meaning": "内心矛盾或心理冲突",
+      "usage": "指个人在面对选择或情感时，内心不同想法或感受之间的对立，常用于描述心理挣扎。",
+      "collocations": ["inner conflict", "resolve a conflict", "face a conflict"],
+      "examples": [
+        {
+          "scene": "一个大学生在选择职业时，父母希望他进入金融行业，但他更想成为一名艺术家。",
+          "chineseIdea": "他感到纠结，希望找到平衡家庭期望和个人兴趣的方法。",
+          "sentenceWithBlank": "He struggled with an @ @ while deciding his career path.",
+          "fullEnglishSentence": "He struggled with an 「inner conflict」 while deciding his career path.",
+          "chineseTranslation": "他在选择职业道路时，挣扎于「内心矛盾」。",
+          "chinglishFix": "典型中式英语：'He has a heart fight.' 纠正：'Heart fight' 不符合英语表达习惯，'inner conflict' 是描述心理矛盾的标准用语。"
+        },
+        {
+          "scene": "一位职场新人被要求做一项违背自己价值观的任务，感到不安。",
+          "chineseIdea": "他希望通过与上司沟通，找到既能完成任务又不违背原则的办法。",
+          "sentenceWithBlank": "She had to @ @ @ between her values and her job duties.",
+          "fullEnglishSentence": "She had to 「face a conflict」 between her values and her job duties.",
+          "chineseTranslation": "她不得不「面对矛盾」，在个人价值观与工作职责之间做出选择。",
+          "chinglishFix": "典型中式英语：'She meets a problem in her heart.' 纠正：'Meet a problem in her heart' 表达模糊且不地道，'face a conflict' 更准确地描述心理层面的对立。"
+        }
+      ]
+    }
+  ]
+}
+```

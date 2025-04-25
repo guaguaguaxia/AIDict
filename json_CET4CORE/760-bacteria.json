@@ -1,0 +1,62 @@
+```json
+{
+  "word": "bacteria",
+  "definitions": [
+    {
+      "meaning": "单细胞微生物，通常与疾病、发酵或分解相关",
+      "usage": "常用于描述微小的生物体，可能引发感染或在自然界中起分解作用，通常与健康、环境或科学研究相关",
+      "collocations": [
+        "harmful bacteria",
+        "gut bacteria",
+        "kill bacteria",
+        "resistant bacteria"
+      ],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，有人因为没有洗手而导致食物污染，大家开始讨论食品安全问题。",
+          "chineseIdea": "强调微生物可能导致健康问题，提醒大家注意卫生。",
+          "sentenceWithBlank": "Washing your hands thoroughly can help eliminate @ @ from your skin.",
+          "fullEnglishSentence": "Washing your hands thoroughly can help eliminate 「harmful bacteria」 from your skin.",
+          "chineseTranslation": "彻底洗手可以帮助清除皮肤上的「有害细菌」。",
+          "chinglishFix": "典型中式英语：'Wash hands can clean bad bacteria.' 纠正：'Washing your hands thoroughly can eliminate harmful bacteria.'"
+        },
+        {
+          "scene": "在健康讲座上，医生向听众解释肠道健康的重要性，提到微生物对消化的作用。",
+          "chineseIdea": "说明微生物在人体内的积极作用，与健康密切相关。",
+          "sentenceWithBlank": "A balanced diet supports the growth of @ @ in your digestive system.",
+          "fullEnglishSentence": "A balanced diet supports the growth of 「gut bacteria」 in your digestive system.",
+          "chineseTranslation": "均衡的饮食有助于消化系统中「肠道细菌」的生长。",
+          "chinglishFix": "典型中式英语：'Eat good food help stomach bacteria.' 纠正：'A balanced diet supports the growth of gut bacteria.'"
+        }
+      ]
+    },
+    {
+      "meaning": "在实验室或工业中用于研究或生产的微生物",
+      "usage": "常用于描述在科学研究、药物生产或食品加工中利用的微生物，通常与技术或实验相关",
+      "collocations": [
+        "engineer bacteria",
+        "culture bacteria",
+        "study bacteria"
+      ],
+      "examples": [
+        {
+          "scene": "在生物技术公司的实验室中，研究人员正在开发新的药物，讨论如何利用微生物生产抗生素。",
+          "chineseIdea": "强调微生物在技术领域的应用，展示其在药物开发中的作用。",
+          "sentenceWithBlank": "Scientists are working to @ @ to produce new antibiotics.",
+          "fullEnglishSentence": "Scientists are working to 「engineer bacteria」 to produce new antibiotics.",
+          "chineseTranslation": "科学家们正在努力「改造细菌」以生产新型抗生素。",
+          "chinglishFix": "典型中式英语：'Change bacteria to make medicine.' 纠正：'Engineer bacteria to produce antibiotics.'"
+        },
+        {
+          "scene": "在大学生物实验室中，学生们在显微镜下观察培养皿，学习如何分析微生物的生长。",
+          "chineseIdea": "描述实验室中研究微生物的过程，突出科学探索的场景。",
+          "sentenceWithBlank": "Students were taught how to @ @ in a controlled environment.",
+          "fullEnglishSentence": "Students were taught how to 「culture bacteria」 in a controlled environment.",
+          "chineseTranslation": "学生们学习了如何在受控环境中「培养细菌」。",
+          "chinglishFix": "典型中式英语：'Grow bacteria in lab.' 纠正：'Culture bacteria in a controlled environment.'"
+        }
+      ]
+    }
+  ]
+}
+```

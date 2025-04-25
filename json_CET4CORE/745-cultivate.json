@@ -1,0 +1,53 @@
+```json
+{
+  "word": "cultivate",
+  "definitions": [
+    {
+      "meaning": "种植或培育（植物或作物）",
+      "usage": "指通过耕作、种植、施肥等方式促进植物或作物的生长，常用于农业或园艺场景。",
+      "collocations": ["cultivate crops", "cultivate the soil", "cultivate plants"],
+      "examples": [
+        {
+          "scene": "一位农民在春天来到自己的田地，准备种植新一季的蔬菜。他翻土、施肥，并仔细播种，确保每棵植物都能茁壮成长。",
+          "chineseIdea": "通过辛勤劳动，让庄稼在田里健康成长，获得丰收。",
+          "sentenceWithBlank": "The farmer works hard to @ @ in his fields every spring.",
+          "fullEnglishSentence": "The farmer works hard to 「cultivate crops」 in his fields every spring.",
+          "chineseTranslation": "这位农民每年春天都在田里努力「种植庄稼」。",
+          "chinglishFix": "典型中式英语：'He plants crops hardly.' 纠正：'He works hard to cultivate crops.'（‘hardly’意为‘几乎不’，应使用‘works hard’表示努力。）"
+        },
+        {
+          "scene": "一位园艺爱好者在自家后院开辟了一小块土地，准备种植花卉。她先松土、改良土壤，然后种下玫瑰和郁金香。",
+          "chineseIdea": "通过改善土壤条件，让花卉在花园中生长得更美丽。",
+          "sentenceWithBlank": "She spent the weekend @ @ to prepare for her flower garden.",
+          "fullEnglishSentence": "She spent the weekend 「cultivating the soil」 to prepare for her flower garden.",
+          "chineseTranslation": "她周末花时间「培育土壤」，为花卉花园做准备。",
+          "chinglishFix": "典型中式英语：'She makes soil better.' 纠正：'She cultivates the soil.'（‘makes soil better’过于笼统，‘cultivate the soil’更精确且自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "培养或发展（关系、技能、品质等）",
+      "usage": "指通过长期努力、关注或实践来建立或提升某种抽象事物，如人际关系、技能、兴趣或品质，常用于描述社交、个人成长或职业发展。",
+      "collocations": ["cultivate a relationship", "cultivate a habit", "cultivate an interest"],
+      "examples": [
+        {
+          "scene": "一位年轻的职场新人刚加入一家公司，希望与同事建立良好的关系。他主动与团队成员交流，参加公司活动，并在工作中展现合作精神。",
+          "chineseIdea": "通过主动沟通和合作，逐渐与他人建立信任和友谊。",
+          "sentenceWithBlank": "He made an effort to @ @ with his new colleagues.",
+          "fullEnglishSentence": "He made an effort to 「cultivate a relationship」 with his new colleagues.",
+          "chineseTranslation": "他努力与新同事「建立关系」。",
+          "chinglishFix": "典型中式英语：'He builds relation with colleagues.' 纠正：'He cultivates a relationship with colleagues.'（‘build relation’不地道，‘cultivate a relationship’更符合英语表达习惯。）"
+        },
+        {
+          "scene": "一位学生对音乐充满热情，决定每天练习钢琴，并参加音乐社团的活动，以提升自己的音乐素养。",
+          "chineseIdea": "通过持续的练习和参与，逐渐加深对音乐的热爱和理解。",
+          "sentenceWithBlank": "She spends hours each day @ @ in music.",
+          "fullEnglishSentence": "She spends hours each day 「cultivating an interest」 in music.",
+          "chineseTranslation": "她每天花几个小时「培养对音乐的兴趣」。",
+          "chinglishFix": "典型中式英语：'She grows interest in music.' 纠正：'She cultivates an interest in music.'（‘grow interest’不常用，‘cultivate an interest’更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```

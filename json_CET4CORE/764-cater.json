@@ -1,0 +1,53 @@
+```json
+{
+  "word": "cater",
+  "definitions": [
+    {
+      "meaning": "提供餐饮服务或满足特定需求",
+      "usage": "通常指为活动、聚会等提供食物或饮料，或根据特定需求提供服务，常见于商业或社交场合。",
+      "collocations": ["cater a party", "cater an event", "cater to needs"],
+      "examples": [
+        {
+          "scene": "在一个热闹的婚礼筹备现场，新娘和新郎正在与一家餐饮公司讨论晚宴的菜单安排。他们希望晚宴能满足所有宾客的口味，包括素食者和对某些食物过敏的人。",
+          "chineseIdea": "为婚礼提供多样化的食物，确保每个宾客都能享受到适合自己的美食。",
+          "sentenceWithBlank": "The company was hired to @ @ @ with a variety of dishes, including vegan and gluten-free options.",
+          "fullEnglishSentence": "The company was hired to 「cater a party」 with a variety of dishes, including vegan and gluten-free options.",
+          "chineseTranslation": "这家公司被雇来「为派对提供餐饮」，提供多种菜肴，包括素食和无麸质选项。",
+          "chinglishFix": "典型中式英语：'They prepare food for the party.' 纠正：'They cater a party with diverse food options.' 说明：中式英语常忽略'cater'的特定含义和搭配，'prepare food'显得笼统且不符合英语习惯。"
+        },
+        {
+          "scene": "一家大型企业在举办年度会议，会议组织者需要确保所有参会者的饮食需求都能得到满足，包括宗教饮食限制和个人偏好。",
+          "chineseIdea": "为会议提供定制化的餐饮服务，确保每个参会者都感到满意。",
+          "sentenceWithBlank": "The catering team worked hard to @ @ @, offering Halal, Kosher, and vegetarian menus.",
+          "fullEnglishSentence": "The catering team worked hard to 「cater an event」, offering Halal, Kosher, and vegetarian menus.",
+          "chineseTranslation": "餐饮团队努力「为活动提供餐饮」，提供清真、犹太教规和素食菜单。",
+          "chinglishFix": "典型中式英语：'They make food for the event.' 纠正：'They cater an event with specialized menus.' 说明：中式英语常直接翻译为'make food'，忽略了'cater'强调的服务定制化含义。"
+        }
+      ]
+    },
+    {
+      "meaning": "迎合或满足特定群体或兴趣",
+      "usage": "指根据特定人群的喜好、兴趣或需求调整服务、产品或内容，常用于描述商业、媒体或服务行业的行为。",
+      "collocations": ["cater to tastes", "cater to preferences", "cater to audiences"],
+      "examples": [
+        {
+          "scene": "一家流媒体平台为了吸引年轻用户，决定推出更多与潮流文化相关的短视频内容，比如街头时尚和电子竞技。",
+          "chineseIdea": "提供符合年轻人兴趣的内容，吸引他们的关注。",
+          "sentenceWithBlank": "The platform decided to @ @ @ by adding more content about street fashion and esports.",
+          "fullEnglishSentence": "The platform decided to 「cater to tastes」 by adding more content about street fashion and esports.",
+          "chineseTranslation": "该平台决定「迎合品味」，增加更多关于街头时尚和电子竞技的内容。",
+          "chinglishFix": "典型中式英语：'They make content for young people’s taste.' 纠正：'They cater to young people’s tastes with trendy content.' 说明：中式英语常忽略'cater to'的搭配，且用'make'显得生硬，缺乏英语中迎合特定群体的含义。"
+        },
+        {
+          "scene": "一家高端酒店为了吸引家庭游客，增加了儿童俱乐部和亲子活动，希望让带小孩的父母也能享受度假。",
+          "chineseIdea": "为家庭游客提供适合的服务，满足他们的需求。",
+          "sentenceWithBlank": "The hotel introduced a kids’ club to @ @ @ of families with young children.",
+          "fullEnglishSentence": "The hotel introduced a kids’ club to 「cater to preferences」 of families with young children.",
+          "chineseTranslation": "酒店推出了儿童俱乐部，以「迎合偏好」家庭游客的需求。",
+          "chinglishFix": "典型中式英语：'They provide services for family’s preference.' 纠正：'They cater to the preferences of families with tailored services.' 说明：中式英语常直接翻译为'provide services'，忽略了'cater to'强调的针对性调整含义。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "competitiveness",
+  "definitions": [
+    {
+      "meaning": "在竞争中取得优势或成功的能力",
+      "usage": "通常用于描述个人、团队、公司或国家在市场、经济或其他竞争环境中的表现力或吸引力。强调通过效率、质量、创新等因素在竞争中脱颖而出。",
+      "collocations": ["enhance competitiveness", "global competitiveness", "maintain competitiveness"],
+      "examples": [
+        {
+          "scene": "一家中国科技公司在国际市场上努力提升自己的地位，希望吸引更多海外客户。",
+          "chineseIdea": "公司通过改进产品质量和降低价格来在全球市场中占据更有利的地位。",
+          "sentenceWithBlank": "The company invested heavily in R&D to @ @ in the international market.",
+          "fullEnglishSentence": "The company invested heavily in R&D to 「enhance competitiveness」 in the international market.",
+          "chineseTranslation": "该公司大量投资于研发，以在国际市场上「提升竞争力」。",
+          "chinglishFix": "典型中式英语：'The company improve its compete ability.' 纠正：'The company enhances its competitiveness.'"
+        },
+        {
+          "scene": "一个中国学生在准备申请国外大学时，试图在众多申请者中脱颖而出。",
+          "chineseIdea": "学生通过参加国际比赛和提升语言能力来增加自己的吸引力。",
+          "sentenceWithBlank": "She participated in global competitions to @ @ among applicants.",
+          "fullEnglishSentence": "She participated in global competitions to 「enhance competitiveness」 among applicants.",
+          "chineseTranslation": "她参加了全球比赛，以在申请者中「提升竞争力」。",
+          "chinglishFix": "典型中式英语：'She join contests to improve competition.' 纠正：'She participates in competitions to enhance competitiveness.'"
+        }
+      ]
+    },
+    {
+      "meaning": "渴望在竞争中获胜的强烈动机或态度",
+      "usage": "指个人或群体在比赛、工作中展现出的强烈进取心或斗志，常用于描述性格特质或行为倾向。",
+      "collocations": ["foster competitiveness", "drive competitiveness", "channel competitiveness"],
+      "examples": [
+        {
+          "scene": "在一场学校篮球比赛中，一名中国学生展现出强烈的求胜欲望，激励队友奋战。",
+          "chineseIdea": "学生通过积极的领导和全力以赴的表现，激发团队的斗志。",
+          "sentenceWithBlank": "His determination helped @ @ within the team during the match.",
+          "fullEnglishSentence": "His determination helped 「foster competitiveness」 within the team during the match.",
+          "chineseTranslation": "他的决心帮助在比赛中「培养了团队的竞争精神」。",
+          "chinglishFix": "典型中式英语：'His effort make team more compete.' 纠正：'His determination fosters competitiveness in the team.'"
+        },
+        {
+          "scene": "在一家中国初创公司，员工被鼓励在项目中展现创新和主动性，以推动团队成功。",
+          "chineseIdea": "员工通过提出新想法和承担更多责任来展现自己的进取心。",
+          "sentenceWithBlank": "The manager encouraged employees to @ @ into innovative solutions.",
+          "fullEnglishSentence": "The manager encouraged employees to 「channel competitiveness」 into innovative solutions.",
+          "chineseTranslation": "经理鼓励员工将「竞争精神引导」到创新解决方案中。",
+          "chinglishFix": "典型中式英语：'The manager ask employees to compete for new ideas.' 纠正：'The manager encourages employees to channel competitiveness into new ideas.'"
+        }
+      ]
+    }
+  ]
+}
+```
