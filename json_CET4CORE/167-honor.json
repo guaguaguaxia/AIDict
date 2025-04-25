@@ -1,0 +1,76 @@
+```json
+{
+  "word": "honor",
+  "definitions": [
+    {
+      "meaning": "尊敬，荣誉感（对道德、正直等的尊重或崇敬）",
+      "usage": "用作不可数名词，表示对某人或某事的尊敬、崇敬，或个人内心的荣誉感，常用于正式或高雅的语境。",
+      "collocations": ["do honor to", "in honor of", "sense of honor"],
+      "examples": [
+        {
+          "scene": "在一场正式的晚宴上，主办方为一位退休的教授举办了庆祝活动，以表彰他对教育的贡献。每个人都站起来向他致敬。",
+          "chineseIdea": "表达对某人成就的崇敬，通过仪式或行动来表示尊重。",
+          "sentenceWithBlank": "The event was held to @ @ @ the retiring professor.",
+          "fullEnglishSentence": "The event was held to 「do honor to」 the retiring professor.",
+          "chineseTranslation": "这场活动是为了「向退休教授致敬」而举办的。",
+          "chinglishFix": "典型中式英语：'We hold the event to respect the professor.' 纠正：'We held the event to do honor to the professor.'（使用'do honor to'更符合英语表达习惯，显得正式且地道。）"
+        },
+        {
+          "scene": "一所学校为纪念其创始人，决定将新图书馆以创始人的名字命名，并在揭幕仪式上发表了感言。",
+          "chineseIdea": "通过命名或纪念活动来表达对某人的尊敬或纪念。",
+          "sentenceWithBlank": "The new library was named @ @ @ the school’s founder.",
+          "fullEnglishSentence": "The new library was named 「in honor of」 the school’s founder.",
+          "chineseTranslation": "新图书馆以「纪念学校创始人」而命名。",
+          "chinglishFix": "典型中式英语：'The library is named to memory the founder.' 纠正：'The library was named in honor of the founder.'（'in honor of'是纪念某人的地道表达，'memory'应改为'memorial'或使用正确搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "名誉，信誉（个人或团体的良好声誉或社会地位）",
+      "usage": "用作不可数名词，表示某人或某组织因品行、成就等获得的声誉，常见于描述社会地位或道德评价的语境。",
+      "collocations": ["restore honor", "defend one’s honor", "badge of honor"],
+      "examples": [
+        {
+          "scene": "一位因丑闻被误解的商人，通过多年的努力和善行，重新赢得了社区的信任和尊重。",
+          "chineseIdea": "通过行动重建因负面事件受损的名誉。",
+          "sentenceWithBlank": "Through years of charity, he managed to @ @ his reputation.",
+          "fullEnglishSentence": "Through years of charity, he managed to 「restore honor」 to his reputation.",
+          "chineseTranslation": "通过多年的慈善事业，他成功地「恢复了名誉」。",
+          "chinglishFix": "典型中式英语：'He rebuild his honor by charity.' 纠正：'He restored honor to his reputation through charity.'（'rebuild'不常用于'honor'，应使用'restore'，且搭配'reputation'更自然。）"
+        },
+        {
+          "scene": "一位武术家在比赛中被对手羞辱，他决定通过公平的挑战来维护自己的尊严。",
+          "chineseIdea": "通过行动或对抗来保护个人的尊严或声誉。",
+          "sentenceWithBlank": "He challenged his rival to @ @ @ in a fair match.",
+          "fullEnglishSentence": "He challenged his rival to 「defend his honor」 in a fair match.",
+          "chineseTranslation": "他向对手挑战，以在公平的比赛中「捍卫自己的名誉」。",
+          "chinglishFix": "典型中式英语：'He fight to protect his face.' 纠正：'He fought to defend his honor.'（'protect his face'是直译中文'保面子'，英语中应使用'defend one’s honor'来表达维护名誉。）"
+        }
+      ]
+    },
+    {
+      "meaning": "殊荣，荣幸（被授予的特殊奖励或机会）",
+      "usage": "用作可数名词，表示某人获得的特殊奖励、头衔或荣幸的机会，常用于正式场合。",
+      "collocations": ["receive an honor", "bestow an honor", "great honor"],
+      "examples": [
+        {
+          "scene": "一位年轻科学家因其在环保领域的突破性研究，被国际组织授予了一项科学奖。",
+          "chineseIdea": "因杰出成就而获得正式的奖励或表彰。",
+          "sentenceWithBlank": "She was thrilled to @ @ @ for her environmental research.",
+          "fullEnglishSentence": "She was thrilled to 「receive an honor」 for her environmental research.",
+          "chineseTranslation": "她因环境研究而「获得一项殊荣」感到非常激动。",
+          "chinglishFix": "典型中式英语：'She got a prize for her study.' 纠正：'She received an honor for her research.'（'got a prize'显得过于口语且笼统，'receive an honor'更正式且贴合语境。）"
+        },
+        {
+          "scene": "一位作家被邀请在全球文学节上发表开幕演讲，这被认为是对其职业生涯的巨大肯定。",
+          "chineseIdea": "被授予某项特殊任务或机会，被视为一种荣幸。",
+          "sentenceWithBlank": "It was a @ @ to speak at the global literary festival.",
+          "fullEnglishSentence": "It was a 「great honor」 to speak at the global literary festival.",
+          "chineseTranslation": "在全球文学节上演讲是一项「莫大的荣幸」。",
+          "chinglishFix": "典型中式英语：'It’s my proud to speak at the festival.' 纠正：'It was a great honor to speak at the festival.'（'my proud'是中式表达，英语中用'great honor'来表示荣幸更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```

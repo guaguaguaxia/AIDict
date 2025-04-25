@@ -1,0 +1,76 @@
+```json
+{
+  "word": "grant",
+  "definitions": [
+    {
+      "meaning": "给予或批准（某人请求的事物，如许可、权利或资金）",
+      "usage": "用作动词，表示正式或官方地给予某人某物，通常涉及许可、权利、资金或请求的批准。常见于法律、学术、行政或资助场景。",
+      "collocations": ["a scholarship", "permission", "a wish", "funding"],
+      "examples": [
+        {
+          "scene": "一位大学生申请奖学金，希望获得经济支持以继续学业。学校经过审核后决定资助她。",
+          "chineseIdea": "学校正式同意提供经济援助，帮助学生完成学业。",
+          "sentenceWithBlank": "The university decided to @ @ to the outstanding student.",
+          "fullEnglishSentence": "The university decided to 「grant a scholarship」 to the outstanding student.",
+          "chineseTranslation": "大学决定「授予奖学金」给这位优秀的学生。",
+          "chinglishFix": "典型中式英语：The university gives a scholarship to her. 纠正：The university grants her a scholarship.（‘grant’比‘give’更正式，适用于官方或学术场景。）"
+        },
+        {
+          "scene": "一位市民向市政府提交申请，希望在公园举办一场公益活动。市政府审核后同意了请求。",
+          "chineseIdea": "市政府正式批准了市民的活动请求。",
+          "sentenceWithBlank": "The city council agreed to @ @ for the charity event.",
+          "fullEnglishSentence": "The city council agreed to 「grant permission」 for the charity event.",
+          "chineseTranslation": "市议会同意「授予许可」举办慈善活动。",
+          "chinglishFix": "典型中式英语：The council allows permission. 纠正：The council grants permission.（‘allow’不与‘permission’搭配，‘grant permission’是正确表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "承认或接受（某事为真，通常不情愿地）",
+      "usage": "用作动词，表示承认某事为真，通常带有不情愿或让步的语气。常见于讨论、辩论或正式对话中。",
+      "collocations": ["that something is true", "a point", "validity"],
+      "examples": [
+        {
+          "scene": "在一场辩论中，辩手虽然不同意对手的全部观点，但承认对方在某一点上有道理。",
+          "chineseIdea": "辩手不情愿地承认对手的观点有一定道理。",
+          "sentenceWithBlank": "I’ll @ @ @ @ @ in your argument.",
+          "fullEnglishSentence": "I’ll 「grant that something is true」 in your argument.",
+          "chineseTranslation": "我承认你的论点中「有些事情是真的」。",
+          "chinglishFix": "典型中式英语：I agree your point is true. 纠正：I grant that your point is valid.（‘grant’在此表示不情愿的承认，且搭配更自然。）"
+        },
+        {
+          "scene": "在一次学术会议上，教授在回应学生提问时，承认学生的观察有一定道理，但仍坚持自己的立场。",
+          "chineseIdea": "教授部分接受学生的看法，但不完全赞同。",
+          "sentenceWithBlank": "The professor was willing to @ @ in the discussion.",
+          "fullEnglishSentence": "The professor was willing to 「grant a point」 in the discussion.",
+          "chineseTranslation": "教授愿意在讨论中「承认一点」。",
+          "chinglishFix": "典型中式英语：The professor accepts a point. 纠正：The professor grants a point.（‘grant a point’是辩论或讨论中的习惯表达，语气更正式。）"
+        }
+      ]
+    },
+    {
+      "meaning": "拨款或资助（作为名词，指一笔用于特定目的的资金）",
+      "usage": "用作名词，指政府、机构或组织为特定目的（如研究、教育或项目）提供的资金。常见于学术、科研或社会项目场景。",
+      "collocations": ["research grant", "government grant", "apply for a grant"],
+      "examples": [
+        {
+          "scene": "一位科学家希望开展一项环保研究，向基金会提交了资助申请，获得了一笔研究资金。",
+          "chineseIdea": "基金会为科学家的研究项目提供了专项资金。",
+          "sentenceWithBlank": "The foundation provided a @ @ to support her environmental study.",
+          "fullEnglishSentence": "The foundation provided a 「research grant」 to support her environmental study.",
+          "chineseTranslation": "基金会提供了一笔「研究资助」来支持她的环保研究。",
+          "chinglishFix": "典型中式英语：The foundation gives money for research. 纠正：The foundation provides a research grant.（‘grant’特指专项资助，语气更专业。）"
+        },
+        {
+          "scene": "一家小型企业向政府申请资金支持，以升级设备和扩大生产规模，成功获得了拨款。",
+          "chineseIdea": "政府为企业提供了资金帮助其发展。",
+          "sentenceWithBlank": "The small business was approved to @ @ @ @ to expand its operations.",
+          "fullEnglishSentence": "The small business was approved to 「apply for a grant」 to expand its operations.",
+          "chineseTranslation": "这家小企业被批准「申请拨款」以扩展其业务。",
+          "chinglishFix": "典型中式英语：The business asks for money. 纠正：The business applies for a grant.（‘apply for a grant’是正式的申请资助表达。）"
+        }
+      ]
+    }
+  ]
+}
+```
