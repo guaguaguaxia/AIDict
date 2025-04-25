@@ -1,0 +1,76 @@
+```json
+{
+  "word": "superior",
+  "definitions": [
+    {
+      "meaning": "更高的，更好的（品质、地位、能力等方面优于他人或事物）",
+      "usage": "用作形容词，表示某事物在品质、数量、程度或地位上比其他事物更优越，常用于比较人、产品、服务等。也可指上级，如在组织结构中地位更高的人。",
+      "collocations": ["superior quality", "superior performance", "superior to", "superior position"],
+      "examples": [
+        {
+          "scene": "在一家电子产品商店中，销售员向客户介绍一款新款智能手机，强调其品质优于其他品牌。",
+          "chineseIdea": "想表达这款手机在技术、设计和耐用性方面比市场上其他手机更好。",
+          "sentenceWithBlank": "This smartphone offers @ @ compared to other brands.",
+          "fullEnglishSentence": "This smartphone offers 「superior quality」 compared to other brands.",
+          "chineseTranslation": "这款智能手机相比其他品牌提供「更高的品质」。",
+          "chinglishFix": "典型中式英语：'This phone is more good than others.' 纠正：'This phone offers superior quality compared to others.'"
+        },
+        {
+          "scene": "在公司会议中，经理讨论团队开发的软件，强调其运行速度和稳定性优于竞争对手的产品。",
+          "chineseIdea": "想说明自家软件在性能上明显优于市场上类似产品。",
+          "sentenceWithBlank": "Our software demonstrates @ @ in benchmark tests.",
+          "fullEnglishSentence": "Our software demonstrates 「superior performance」 in benchmark tests.",
+          "chineseTranslation": "我们的软件在基准测试中展现了「更优的性能」。",
+          "chinglishFix": "典型中式英语：'Our software runs more better.' 纠正：'Our software demonstrates superior performance.'"
+        }
+      ]
+    },
+    {
+      "meaning": "上级的，较高的（指职位或等级高于他人）",
+      "usage": "用作形容词，描述在组织、机构或等级制度中地位更高的人或角色，常用于正式或职场语境。",
+      "collocations": ["superior officer", "superior authority", "report to a superior", "superior rank"],
+      "examples": [
+        {
+          "scene": "在军队中，一名士兵需要向更高军衔的军官汇报任务情况。",
+          "chineseIdea": "想表达士兵必须向职位更高的军官提交报告。",
+          "sentenceWithBlank": "The soldier must @ @ @ before taking action.",
+          "fullEnglishSentence": "The soldier must 「report to a superior」 before taking action.",
+          "chineseTranslation": "士兵在采取行动前必须「向上级汇报」。",
+          "chinglishFix": "典型中式英语：'The soldier must report to his high leader.' 纠正：'The soldier must report to a superior.'"
+        },
+        {
+          "scene": "在公司内部，员工需要得到更高管理层的批准才能启动新项目。",
+          "chineseIdea": "想说明员工需要从更高职位的人那里获得许可。",
+          "sentenceWithBlank": "You need approval from someone with @ @ to proceed.",
+          "fullEnglishSentence": "You need approval from someone with 「superior authority」 to proceed.",
+          "chineseTranslation": "你需要从具有「更高权限」的人那里获得批准才能继续。",
+          "chinglishFix": "典型中式英语：'You need the high boss’s permission.' 纠正：'You need approval from someone with superior authority.'"
+        }
+      ]
+    },
+    {
+      "meaning": "优于（在比较中胜过某人或某物）",
+      "usage": "用作形容词，与介词 'to' 搭配，表示某事物在特定方面比另一事物更好，通常用于正式或书面语境。",
+      "collocations": ["superior to", "prove superior", "feel superior to", "technologically superior"],
+      "examples": [
+        {
+          "scene": "在学校辩论赛中，学生讨论哪种能源在环保方面更有优势。",
+          "chineseIdea": "想表达太阳能比传统煤炭在环保和可持续性方面更优越。",
+          "sentenceWithBlank": "Solar energy is @ @ coal in terms of sustainability.",
+          "fullEnglishSentence": "Solar energy is 「superior to」 coal in terms of sustainability.",
+          "chineseTranslation": "太阳能就可持续性而言「优于」煤炭。",
+          "chinglishFix": "典型中式英语：'Solar energy is better than coal.' 纠正：'Solar energy is superior to coal in terms of sustainability.'"
+        },
+        {
+          "scene": "在科技展会上，工程师展示新型电池，强调其充电速度优于现有产品。",
+          "chineseIdea": "想说明新型电池在性能上超过了市场上其他电池。",
+          "sentenceWithBlank": "Our new battery has @ @ all competitors in charging speed.",
+          "fullEnglishSentence": "Our new battery has 「proved superior」 to all competitors in charging speed.",
+          "chineseTranslation": "我们的新型电池在充电速度上「证明优于」所有竞争对手。",
+          "chinglishFix": "典型中式英语：'Our battery is more excellent than others.' 纠正：'Our battery has proved superior to all competitors.'"
+        }
+      ]
+    }
+  ]
+}
+```

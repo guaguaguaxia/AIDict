@@ -1,0 +1,76 @@
+```json
+{
+  "word": "suppose",
+  "definitions": [
+    {
+      "meaning": "假设，假定（认为某事可能为真，通常用于推理或讨论可能性）",
+      "usage": "用作动词，表示提出一种假设或猜测，通常用于讨论尚未确认的情况，或在推理中提出假定。常用于句子的开头或中间，后面接从句（that引导或省略that）。也可用于表达推测某事可能发生。",
+      "collocations": ["suppose that", "suppose something to be", "I suppose", "let's suppose"],
+      "examples": [
+        {
+          "scene": "在咖啡馆里，你和朋友讨论周末的天气预报，朋友提到可能会下雨，你提出一种假设来继续讨论。",
+          "chineseIdea": "你想表达如果天气不好，可能会改变计划，但你并不确定天气如何，只是假设一种情况。",
+          "sentenceWithBlank": "Well, @ @ we might have to cancel the picnic.",
+          "fullEnglishSentence": "Well, 「suppose that」 it rains, we might have to cancel the picnic.",
+          "chineseTranslation": "好吧，「假设」下雨，我们可能得取消野餐。",
+          "chinglishFix": "典型中式英语：'If suppose it rains, we cancel picnic.' 纠正：'Suppose that it rains, we might have to cancel the picnic.'（去掉多余的if，suppose本身已表示假设）"
+        },
+        {
+          "scene": "在课堂上，老师引导学生思考一个数学问题，提出一个假设场景来帮助学生推理。",
+          "chineseIdea": "老师想让学生设想一个特定的条件为真，以推导出结论，比如假设一个变量是某个值。",
+          "sentenceWithBlank": "@ @ @ x equals 5, what would the result be?",
+          "fullEnglishSentence": "「Suppose something to be」 true, say x equals 5, what would the result be?",
+          "chineseTranslation": "「假设某事为真」，比如x等于5，结果会是什么？",
+          "chinglishFix": "典型中式英语：'Suppose x is 5, how is the result?' 纠正：'Suppose that x equals 5, what would the result be?'（使用equals表示数学上的相等，且句式更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "认为，猜想（对某事有某种看法或猜测，通常基于有限信息）",
+      "usage": "用作动词，表示对某事的主观猜测或看法，常用于表达个人意见或不确定的推测。常跟宾语从句（that引导或省略that），或直接跟宾语表示某人/某事的状态。",
+      "collocations": ["suppose someone to be", "suppose that", "I suppose so"],
+      "examples": [
+        {
+          "scene": "你在公司走廊遇到同事，他看起来很疲惫，你猜测他可能昨晚没睡好。",
+          "chineseIdea": "你想表达对同事状态的猜测，基于他的外貌，推测他可能熬夜了。",
+          "sentenceWithBlank": "I @ @ @ tired because he was up late last night.",
+          "fullEnglishSentence": "I 「suppose someone to be」 tired because he was up late last night.",
+          "chineseTranslation": "我「认为某人」很累，因为他昨晚熬夜了。",
+          "chinglishFix": "典型中式英语：'I suppose he tired.' 纠正：'I suppose him to be tired.'（suppose后需接宾语补足语结构，表达更完整）"
+        },
+        {
+          "scene": "朋友问你是否要去参加周末的派对，你不太确定，但觉得可能会去。",
+          "chineseIdea": "你想表达一种不太确定的同意，猜测自己可能会参加，但还没完全决定。",
+          "sentenceWithBlank": "Will you come to the party? — @ @ @.",
+          "fullEnglishSentence": "Will you come to the party? — 「I suppose so」.",
+          "chineseTranslation": "你会来参加派对吗？——「我想是的」。",
+          "chinglishFix": "典型中式英语：'I think yes.' 纠正：'I suppose so.'（I suppose so是更自然的英语表达，表示不确定的同意）"
+        }
+      ]
+    },
+    {
+      "meaning": "应该，应当（表示某人或某事预期要做某事，通常带有轻微的义务感）",
+      "usage": "用作动词，表示某人被期望或应该做某事，常用于被动结构（be supposed to），表示规则、期望或计划。后面常接不定式（to do something）。",
+      "collocations": ["be supposed to", "not supposed to", "supposed to be"],
+      "examples": [
+        {
+          "scene": "你在学校，老师提醒学生按照规定完成作业，但你发现有些同学没做。",
+          "chineseIdea": "你想表达学生按照学校规则应该完成作业，这是预期或义务。",
+          "sentenceWithBlank": "All students @ @ @ submit their homework by Friday.",
+          "fullEnglishSentence": "All students 「are supposed to」 submit their homework by Friday.",
+          "chineseTranslation": "所有学生「应该」在周五之前提交作业。",
+          "chinglishFix": "典型中式英语：'All students must submit homework before Friday.' 纠正：'All students are supposed to submit their homework by Friday.'（be supposed to表示预期或规定，而非强制）"
+        },
+        {
+          "scene": "你和朋友去餐厅，服务员告诉你某个区域不能吸烟，因为有规定。",
+          "chineseIdea": "你想表达根据餐厅的规则，某行为是被禁止的，强调不被允许。",
+          "sentenceWithBlank": "You @ @ @ smoke in this area.",
+          "fullEnglishSentence": "You 「are not supposed to」 smoke in this area.",
+          "chineseTranslation": "你「不应该」在这个区域吸烟。",
+          "chinglishFix": "典型中式英语：'You no smoke here.' 纠正：'You’re not supposed to smoke in this area.'（not supposed to表示禁止，且语法正确）"
+        }
+      ]
+    }
+  ]
+}
+```
