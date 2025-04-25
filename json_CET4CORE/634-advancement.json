@@ -1,0 +1,53 @@
+```json
+{
+  "word": "advancement",
+  "definitions": [
+    {
+      "meaning": "事业、地位或知识的提升或进步",
+      "usage": "指在职业、学术或社会地位等方面的显著进步，通常与个人努力或外部机会相关。",
+      "collocations": ["career advancement", "technological advancement", "social advancement"],
+      "examples": [
+        {
+          "scene": "一位年轻的专业人士在公司中通过努力工作和持续学习，获得了更高的职位。",
+          "chineseIdea": "通过不断提升技能和展现价值，一个人可以在职场中获得更高的地位。",
+          "sentenceWithBlank": "Her dedication and skills led to rapid @ @ in the company.",
+          "fullEnglishSentence": "Her dedication and skills led to rapid 「career advancement」 in the company.",
+          "chineseTranslation": "她的奉献和技能使她在公司中迅速获得了「职业提升」。",
+          "chinglishFix": "典型中式英语：'She got a high position.' 纠正：'She achieved career advancement.'（避免直接翻译'得到高职位'，用更自然的表达）"
+        },
+        {
+          "scene": "一位工程师在技术研讨会上分享了最新的研究成果，引发了行业内的广泛讨论。",
+          "chineseIdea": "技术的进步通常源于创新和知识的积累，能够推动整个行业的发展。",
+          "sentenceWithBlank": "The new AI model represents a significant @ @ in the field.",
+          "fullEnglishSentence": "The new AI model represents a significant 「technological advancement」 in the field.",
+          "chineseTranslation": "这个新的人工智能模型代表了该领域的一次重大「技术进步」。",
+          "chinglishFix": "典型中式英语：'This is a big technology improve.' 纠正：'This represents a technological advancement.'（避免不自然的'big improve'，用更贴切的表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "某事物的改进或发展",
+      "usage": "指对某项技术、系统或方法的改进，通常强调具体成果或创新。",
+      "collocations": ["scientific advancement", "medical advancement", "advancement in technology"],
+      "examples": [
+        {
+          "scene": "一位科学家在实验室中开发出了一种更高效的太阳能电池，显著提高了能源利用率。",
+          "chineseIdea": "科学的进步可以通过新发现或技术突破来实现，造福社会。",
+          "sentenceWithBlank": "The new battery design is a major @ @ in renewable energy.",
+          "fullEnglishSentence": "The new battery design is a major 「scientific advancement」 in renewable energy.",
+          "chineseTranslation": "这种新的电池设计是可再生能源领域的一次重大「科学进步」。",
+          "chinglishFix": "典型中式英语：'This battery is a science success.' 纠正：'This battery design is a scientific advancement.'（避免模糊的'success'，使用更精确的表达）"
+        },
+        {
+          "scene": "一家医院引入了新的治疗方法，大大提高了癌症患者的存活率。",
+          "chineseIdea": "医学的进步可以直接改善人们的生活质量，带来希望。",
+          "sentenceWithBlank": "The new therapy marks a remarkable @ @ in cancer treatment.",
+          "fullEnglishSentence": "The new therapy marks a remarkable 「medical advancement」 in cancer treatment.",
+          "chineseTranslation": "这种新疗法标志着癌症治疗中的一次显著「医学进步」。",
+          "chinglishFix": "典型中式英语：'This therapy makes medicine better.' 纠正：'This therapy represents a medical advancement.'（避免笼统的'make better'，用更专业的表达）"
+        }
+      ]
+    }
+  ]
+}
+```

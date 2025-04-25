@@ -1,0 +1,53 @@
+```json
+{
+  "word": "available",
+  "definitions": [
+    {
+      "meaning": "可用的；可以获得的",
+      "usage": "指某物或某人可以被使用、获取或接触到，通常用于描述资源、产品、服务或人的空闲状态。",
+      "collocations": ["make something available", "readily available", "widely available"],
+      "examples": [
+        {
+          "scene": "你在一家电商公司工作，客户询问某款新手机是否可以购买。你查看库存后发现这款手机已经上架。",
+          "chineseIdea": "你想告诉客户这款手机现在可以买到，并且已经在线上平台上架。",
+          "sentenceWithBlank": "The new smartphone model is now @ @ @ to all customers on our website.",
+          "fullEnglishSentence": "The new smartphone model is now 「made available」 to all customers on our website.",
+          "chineseTranslation": "这款新型智能手机现在已经在我们的网站上「可以买到」给所有客户。",
+          "chinglishFix": "典型中式英语：'This phone is can buy now.' 纠正：'This phone is now available for purchase.'"
+        },
+        {
+          "scene": "你是一个忙碌的职场人士，朋友约你周末一起吃饭。你查看日程后发现周六晚上有空。",
+          "chineseIdea": "你想告诉朋友你周六晚上有时间，可以一起吃饭。",
+          "sentenceWithBlank": "I’m @ @ on Saturday evening, so let’s have dinner together.",
+          "fullEnglishSentence": "I’m 「readily available」 on Saturday evening, so let’s have dinner together.",
+          "chineseTranslation": "我周六晚上「有空」，所以我们一起吃晚饭吧。",
+          "chinglishFix": "典型中式英语：'I have time on Saturday.' 纠正：'I’m available on Saturday.'"
+        }
+      ]
+    },
+    {
+      "meaning": "有空的；可以见面的",
+      "usage": "通常用于描述某人在特定时间段内是否有空闲，可以进行会面、活动或交流。",
+      "collocations": ["be available for", "available to meet", "available at short notice"],
+      "examples": [
+        {
+          "scene": "你是一个自由职业者，客户通过邮件询问你是否能参加下周的项目讨论会议。你确认日程后发现可以参加。",
+          "chineseIdea": "你想回复客户，告诉他们你下周有空参加会议。",
+          "sentenceWithBlank": "I can @ @ @ the meeting next week, so please send me the details.",
+          "fullEnglishSentence": "I can 「be available for」 the meeting next week, so please send me the details.",
+          "chineseTranslation": "我下周「有空参加」会议，请给我发送细节。",
+          "chinglishFix": "典型中式英语：'I can join meeting next week.' 纠正：'I’m available for the meeting next week.'"
+        },
+        {
+          "scene": "你是一名医生，患者希望预约下周的检查。你查看排班表后发现周三上午可以安排。",
+          "chineseIdea": "你想告诉患者你周三上午有空，可以安排他们的检查。",
+          "sentenceWithBlank": "I’m @ @ @ on Wednesday morning, so we can schedule your appointment then.",
+          "fullEnglishSentence": "I’m 「available to meet」 on Wednesday morning, so we can schedule your appointment then.",
+          "chineseTranslation": "我周三上午「有空见面」，所以我们可以安排你的预约。",
+          "chinglishFix": "典型中式英语：'I free on Wednesday morning.' 纠正：'I’m available on Wednesday morning.'"
+        }
+      ]
+    }
+  ]
+}
+```

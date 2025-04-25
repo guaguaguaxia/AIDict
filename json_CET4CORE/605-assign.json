@@ -1,0 +1,76 @@
+```json
+{
+  "word": "assign",
+  "definitions": [
+    {
+      "meaning": "分配、分派（任务、职责等）",
+      "usage": "指将任务、职责或资源分配给某人，通常用于正式或工作相关的场景。",
+      "collocations": ["assign a task", "assign a role", "assign responsibilities"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，项目经理正在分配新项目的任务。团队成员围坐在会议室，讨论谁负责哪个部分。",
+          "chineseIdea": "项目经理需要把具体的工作分给不同的人，确保项目顺利进行。",
+          "sentenceWithBlank": "The project manager will @ @ @ to each team member based on their expertise.",
+          "fullEnglishSentence": "The project manager will 「assign a task」 to each team member based on their expertise.",
+          "chineseTranslation": "项目经理会根据每个团队成员的专业知识「分配任务」。",
+          "chinglishFix": "典型中式英语：'Give a task to each member.' 纠正：'Assign a task to each member.' 中式英语常直接用'give'，但'assign'更正式，适合工作场景。"
+        },
+        {
+          "scene": "在一所学校，校长正在安排新学期的教学任务。老师们需要明确自己的职责。",
+          "chineseIdea": "校长需要把不同的教学职责分派给老师，比如谁负责教数学或组织活动。",
+          "sentenceWithBlank": "The principal needs to @ @ @ to the new teachers for the upcoming semester.",
+          "fullEnglishSentence": "The principal needs to 「assign responsibilities」 to the new teachers for the upcoming semester.",
+          "chineseTranslation": "校长需要为新学期「分配职责」给新老师们。",
+          "chinglishFix": "典型中式英语：'Give responsibilities to teachers.' 纠正：'Assign responsibilities to teachers.' 用'assign'更能体现正式分配的含义。"
+        }
+      ]
+    },
+    {
+      "meaning": "指定、指派（某人到特定位置或任务）",
+      "usage": "指将某人指派到某个特定职位、地点或任务，通常带有明确的指向性。",
+      "collocations": ["assign a team", "assign personnel", "assign a project"],
+      "examples": [
+        {
+          "scene": "在一家国际公司，总部决定派一支团队去海外开拓新市场。经理需要选择合适的人选。",
+          "chineseIdea": "经理需要指派一个团队去完成海外市场的任务，确保工作顺利开展。",
+          "sentenceWithBlank": "The manager decided to @ @ @ to the new market expansion in Europe.",
+          "fullEnglishSentence": "The manager decided to 「assign a team」 to the new market expansion in Europe.",
+          "chineseTranslation": "经理决定「指派一个团队」去欧洲开拓新市场。",
+          "chinglishFix": "典型中式英语：'Send a team to Europe.' 纠正：'Assign a team to the new market expansion in Europe.' 中式英语常用'send'，但'assign'更强调正式指派。"
+        },
+        {
+          "scene": "在医院，护士长需要安排医护人员到不同的病房，以应对紧急情况。",
+          "chineseIdea": "护士长需要指定医护人员去特定的病房，确保病人得到及时照顾。",
+          "sentenceWithBlank": "The head nurse will @ @ @ to the emergency ward tonight.",
+          "fullEnglishSentence": "The head nurse will 「assign personnel」 to the emergency ward tonight.",
+          "chineseTranslation": "护士长今晚将「指派人员」到急诊病房。",
+          "chinglishFix": "典型中式英语：'Put personnel in the ward.' 纠正：'Assign personnel to the emergency ward.' 中式英语可能用'put'，但'assign'更准确地表达指派行为。"
+        }
+      ]
+    },
+    {
+      "meaning": "归属、指定（某事物属于某类别或用途）",
+      "usage": "指将某事物归类或指定为特定用途，通常用于抽象或技术性场景。",
+      "collocations": ["assign a value", "assign a category", "assign a priority"],
+      "examples": [
+        {
+          "scene": "在编程中，开发者需要给变量设定初始值，以确保程序正常运行。",
+          "chineseIdea": "程序员需要为变量指定一个值，比如数字或字符串，来初始化它。",
+          "sentenceWithBlank": "The programmer needs to @ @ @ to the variable before running the code.",
+          "fullEnglishSentence": "The programmer needs to 「assign a value」 to the variable before running the code.",
+          "chineseTranslation": "程序员需要在运行代码前为变量「指定一个值」。",
+          "chinglishFix": "典型中式英语：'Give a value to the variable.' 纠正：'Assign a value to the variable.' 中式英语常用'give'，但'assign'在编程语境中更专业。"
+        },
+        {
+          "scene": "在项目管理中，团队需要为每个任务设定优先级，以便合理安排时间。",
+          "chineseIdea": "团队需要给任务指定优先级，确保重要的事情先完成。",
+          "sentenceWithBlank": "The team leader will @ @ @ to each task to streamline the workflow.",
+          "fullEnglishSentence": "The team leader will 「assign a priority」 to each task to streamline the workflow.",
+          "chineseTranslation": "团队领导将为每个任务「指定优先级」以优化工作流程。",
+          "chinglishFix": "典型中式英语：'Set a priority to tasks.' 纠正：'Assign a priority to each task.' 中式英语可能用'set'，但'assign'更常用于此语境。"
+        }
+      ]
+    }
+  ]
+}
+```

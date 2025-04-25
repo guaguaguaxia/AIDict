@@ -1,0 +1,53 @@
+```json
+{
+  "word": "characteristic",
+  "definitions": [
+    {
+      "meaning": "a typical feature or quality that something or someone has",
+      "usage": "Used as a noun to describe a distinctive trait or attribute that defines or identifies a person, thing, or group. Often used in contexts discussing personality, objects, or systems.",
+      "collocations": ["distinctive characteristic", "key characteristic", "unique characteristic"],
+      "examples": [
+        {
+          "scene": "在一次公司会议中，经理正在向团队介绍新产品的特点，强调它的独特性以吸引客户。",
+          "chineseIdea": "经理想表达这个产品有与众不同的特质，能够在市场上脱颖而出。",
+          "sentenceWithBlank": "This product has a @ @ that sets it apart from competitors.",
+          "fullEnglishSentence": "This product has a 「distinctive characteristic」 that sets it apart from competitors.",
+          "chineseTranslation": "这个产品有一个「独特的特质」，使其在竞争对手中脱颖而出。",
+          "chinglishFix": "Chinglish: This product has a very special character. \nCorrected: This product has a distinctive characteristic."
+        },
+        {
+          "scene": "在学校课堂上，老师正在讨论不同动物的习性，特别提到企鹅的某种行为。",
+          "chineseIdea": "老师想说明企鹅的一种典型行为是它们在群体中生存的关键。",
+          "sentenceWithBlank": "One @ @ of penguins is their ability to thrive in colonies.",
+          "fullEnglishSentence": "One 「key characteristic」 of penguins is their ability to thrive in colonies.",
+          "chineseTranslation": "企鹅的一个「关键特质」是它们在群体中茁壮成长的能力。",
+          "chinglishFix": "Chinglish: Penguins have a very important feature to live together. \nCorrected: One key characteristic of penguins is their ability to thrive in colonies."
+        }
+      ]
+    },
+    {
+      "meaning": "typical or noticeable quality of a specific type or class",
+      "usage": "Used as an adjective to describe something as being typical or representative of a particular kind, often in technical or categorical contexts.",
+      "collocations": ["characteristic feature", "characteristic pattern", "characteristic behavior"],
+      "examples": [
+        {
+          "scene": "在一次学术研讨会上，研究人员正在分析某种疾病的典型症状，以帮助医生更准确地诊断。",
+          "chineseIdea": "研究人员想强调这种疾病的某些症状是其典型表现。",
+          "sentenceWithBlank": "Fever and fatigue are @ @ of this illness.",
+          "fullEnglishSentence": "Fever and fatigue are 「characteristic features」 of this illness.",
+          "chineseTranslation": "发烧和疲劳是这种疾病的「典型特征」。",
+          "chinglishFix": "Chinglish: This illness has fever and tired as its characters. \nCorrected: Fever and fatigue are characteristic features of this illness."
+        },
+        {
+          "scene": "在一次心理学讲座中，教授正在解释某种人格类型的行为模式，吸引了学生们的兴趣。",
+          "chineseIdea": "教授想说明这种人格类型的人通常会表现出特定的行为模式。",
+          "sentenceWithBlank": "People with this personality type often display a @ @ in stressful situations.",
+          "fullEnglishSentence": "People with this personality type often display a 「characteristic pattern」 in stressful situations.",
+          "chineseTranslation": "具有这种人格类型的人在压力情境下通常表现出一种「典型模式」。",
+          "chinglishFix": "Chinglish: These people have a special behavior in stress. \nCorrected: People with this personality type often display a characteristic pattern in stressful situations."
+        }
+      ]
+    }
+  ]
+}
+```
