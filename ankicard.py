@@ -299,7 +299,7 @@ if __name__ == '__main__':
 
     options = parser.parse_args()
     API_KEY = options.API_KEY
-    START_ALPHA_LIST = options.START
+    START_ALPHA_LIST = options.START_ALPHA_LIST
     get_json_data(API_KEY, START_ALPHA_LIST)
 
     # remove_first_last_lines("./json_CET4CORE", ['.json'])
