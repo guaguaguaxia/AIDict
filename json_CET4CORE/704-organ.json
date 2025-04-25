@@ -1,0 +1,76 @@
+```json
+{
+  "word": "organ",
+  "definitions": [
+    {
+      "meaning": "生物学中的器官，指人体或动植物体内具有特定功能的结构",
+      "usage": "指人体或动植物体内执行特定生理功能的结构，如心脏、肺、叶子等，通常用于医学、生物学或日常讨论健康、解剖学等话题。",
+      "collocations": ["vital organ", "internal organ", "sense organ"],
+      "examples": [
+        {
+          "scene": "在医院里，医生正在向病人解释手术的必要性，提到需要保护某些关键部位。",
+          "chineseIdea": "医生想强调某些部位对生命至关重要，必须小心处理。",
+          "sentenceWithBlank": "The surgeon explained that the @ @ needed to be carefully monitored during the procedure.",
+          "fullEnglishSentence": "The surgeon explained that the 「vital organ」 needed to be carefully monitored during the procedure.",
+          "chineseTranslation": "外科医生解释说，「关键器官」在手术过程中需要被仔细监控。",
+          "chinglishFix": "典型中式英语：'The important organ must be watched.' 纠正：'The vital organ needs to be carefully monitored.'（使用'vital'更符合医学语境，'monitored'比'watched'更专业）"
+        },
+        {
+          "scene": "在生物课上，老师向学生展示人体模型，讲解不同部位的功能。",
+          "chineseIdea": "老师想说明某些部位如何在体内协同工作以维持生命。",
+          "sentenceWithBlank": "The teacher pointed out that each @ @ plays a specific role in maintaining health.",
+          "fullEnglishSentence": "The teacher pointed out that each 「internal organ」 plays a specific role in maintaining health.",
+          "chineseTranslation": "老师指出，每个「内部器官」在维持健康方面都扮演特定角色。",
+          "chinglishFix": "典型中式英语：'Every inside organ has its job.' 纠正：'Each internal organ plays a specific role.'（'internal'更准确，'plays a role'比'has a job'更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "乐器中的管风琴，通常指教堂或音乐厅中使用的大型键盘乐器",
+      "usage": "指一种通过管道或簧片产生声音的键盘乐器，常用于宗教音乐、古典音乐或描述音乐场景。",
+      "collocations": ["pipe organ", "church organ", "play the organ"],
+      "examples": [
+        {
+          "scene": "在一座古老的教堂里，音乐家正在为仪式做准备，演奏美妙的音乐。",
+          "chineseIdea": "音乐家想通过演奏营造庄严的氛围。",
+          "sentenceWithBlank": "The musician tuned the @ @ before the ceremony began.",
+          "fullEnglishSentence": "The musician tuned the 「pipe organ」 before the ceremony began.",
+          "chineseTranslation": "音乐家在仪式开始前调音了「管风琴」。",
+          "chinglishFix": "典型中式英语：'He adjusted the organ pipe.' 纠正：'He tuned the pipe organ.'（'tuned'更适合乐器，'pipe organ'是固定搭配）"
+        },
+        {
+          "scene": "在音乐学院的课堂上，学生正在讨论如何掌握一种复杂的乐器。",
+          "chineseIdea": "学生想表达学习演奏这种乐器需要耐心和技巧。",
+          "sentenceWithBlank": "She practiced for years to master how to @ @ @.",
+          "fullEnglishSentence": "She practiced for years to master how to 「play the organ」.",
+          "chineseTranslation": "她练习了多年以掌握如何「演奏管风琴」。",
+          "chinglishFix": "典型中式英语：'She learned to hit the organ.' 纠正：'She mastered how to play the organ.'（'play'是正确动词，'master'更能表达熟练）"
+        }
+      ]
+    },
+    {
+      "meaning": "组织或机构，指为特定目的而设立的团体或单位",
+      "usage": "指代某个正式的组织、机构或团体，通常用于描述政府、公司或社会结构的组成部分。",
+      "collocations": ["government organ", "official organ", "propaganda organ"],
+      "examples": [
+        {
+          "scene": "在新闻报道中，记者提到某个机构发布了新的政策。",
+          "chineseIdea": "记者想说明某个官方机构负责传达重要信息。",
+          "sentenceWithBlank": "The @ @ published a report on economic trends last week.",
+          "fullEnglishSentence": "The 「government organ」 published a report on economic trends last week.",
+          "chineseTranslation": "「政府机构」上周发布了一份关于经济趋势的报告。",
+          "chinglishFix": "典型中式英语：'The government department gave a report.' 纠正：'The government organ published a report.'（'organ'更正式，'published'更适合报告）"
+        },
+        {
+          "scene": "在历史课上，老师讲解某个团体如何影响公众舆论。",
+          "chineseIdea": "老师想说明某个团体通过媒体传播特定观点。",
+          "sentenceWithBlank": "The @ @ was used to spread the party’s ideology.",
+          "fullEnglishSentence": "The 「propaganda organ」 was used to spread the party’s ideology.",
+          "chineseTranslation": "「宣传机构」被用来传播该党的意识形态。",
+          "chinglishFix": "典型中式英语：'The advertise organ spread ideas.' 纠正：'The propaganda organ spread ideology.'（'propaganda'更准确，'ideology'更正式）"
+        }
+      ]
+    }
+  ]
+}
+```

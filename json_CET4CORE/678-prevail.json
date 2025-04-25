@@ -1,0 +1,53 @@
+```json
+{
+  "word": "prevail",
+  "definitions": [
+    {
+      "meaning": "获胜，占优势，取得成功",
+      "usage": "指在竞争、冲突或挑战中胜出，强调最终的结果是占据上风或取得胜利。通常用于描述在某种对抗或困难情况下获得成功。",
+      "collocations": ["prevail over", "prevail against", "prevail in"],
+      "examples": [
+        {
+          "scene": "在一个商业谈判的场景中，两家公司为了争取一份大合同展开激烈竞争。最终，一家公司在价格和质量上占据优势，赢得了合同。",
+          "chineseIdea": "在谈判中，经过多轮博弈，一家公司凭借更具吸引力的条件击败了对手，成功签下合同。",
+          "sentenceWithBlank": "After intense negotiations, Company A @ @ @ its rival and secured the contract.",
+          "fullEnglishSentence": "After intense negotiations, Company A 「prevailed over」 its rival and secured the contract.",
+          "chineseTranslation": "在激烈的谈判后，A公司「战胜」了对手，成功获得了合同。",
+          "chinglishFix": "中式英语：Company A beat its rival in negotiation. 纠正：'Beat' 在此语境中显得过于简单，缺乏正式感。应使用 'prevailed over' 来表达在竞争中获胜的含义。"
+        },
+        {
+          "scene": "在一场重要的篮球比赛中，两支实力相当的队伍争夺冠军。在最后时刻，一支队伍凭借更好的团队配合赢得了比赛。",
+          "chineseIdea": "在比赛的关键时刻，一支队伍通过出色的协作和策略，击败了对手，赢得了冠军。",
+          "sentenceWithBlank": "In the final moments of the game, the underdog team @ @ @ the defending champions.",
+          "fullEnglishSentence": "In the final moments of the game, the underdog team 「prevailed against」 the defending champions.",
+          "chineseTranslation": "在比赛的最后时刻，弱队「战胜」了卫冕冠军。",
+          "chinglishFix": "中式英语：The team won the champions in the game. 纠正：'Won the champions' 不准确且不自然。应使用 'prevailed against' 来表示在对抗中获胜。"
+        }
+      ]
+    },
+    {
+      "meaning": "普遍存在，流行，占据主导地位",
+      "usage": "指某种情况、观念或现象在某个地方、时间或群体中广泛存在或占据主导地位，常用于描述社会、文化或环境中的普遍现象。",
+      "collocations": ["prevail in", "prevail among", "prevail throughout"],
+      "examples": [
+        {
+          "scene": "在一个小村庄里，人们更倾向于保持传统的农业生活方式，而不是接受现代化的城市生活方式。",
+          "chineseIdea": "在这个村庄，传统的观念和生活方式仍然占据主导地位，人们普遍遵循古老的习俗。",
+          "sentenceWithBlank": "In this remote village, traditional values still @ @ @ the community.",
+          "fullEnglishSentence": "In this remote village, traditional values still 「prevail in」 the community.",
+          "chineseTranslation": "在这个偏远的村庄，传统价值观仍然「普遍存在」于社区中。",
+          "chinglishFix": "中式英语：Traditional values are popular in the village. 纠正：'Popular' 无法准确传达 '占据主导地位' 的含义。应使用 'prevail in' 来表示普遍存在。"
+        },
+        {
+          "scene": "在大学校园里，学生们普遍对环保问题表现出极大的关注，绿色生活的理念深入人心。",
+          "chineseIdea": "在校园中，环保意识非常流行，学生们普遍接受并践行可持续发展的理念。",
+          "sentenceWithBlank": "A strong sense of environmental awareness @ @ @ students on campus.",
+          "fullEnglishSentence": "A strong sense of environmental awareness 「prevails among」 students on campus.",
+          "chineseTranslation": "强烈的环保意识「流行于」校园中的学生之间。",
+          "chinglishFix": "中式英语：Environmental awareness is common among students. 纠正：'Common' 显得平淡，无法体现 '占据主导' 的含义。应使用 'prevails among' 来表达广泛流行。"
+        }
+      ]
+    }
+  ]
+}
+```

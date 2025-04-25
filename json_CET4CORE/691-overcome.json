@@ -1,0 +1,53 @@
+```json
+{
+  "word": "overcome",
+  "definitions": [
+    {
+      "meaning": "成功地处理或控制问题、困难或挑战",
+      "usage": "常用于描述通过努力战胜障碍、恐惧、困难等情境，可能涉及个人奋斗、心理挑战或外部阻碍。",
+      "collocations": ["overcome obstacles", "overcome fear", "overcome challenges"],
+      "examples": [
+        {
+          "scene": "一个大学生在准备一场重要的考试时，面临时间紧迫和知识点繁多的压力。他通过制定详细的学习计划和每天坚持复习，最终在考试中取得了好成绩。",
+          "chineseIdea": "他通过努力和坚持，成功应对了考试带来的压力和困难。",
+          "sentenceWithBlank": "Through hard work and determination, he was able to @ @ in his studies.",
+          "fullEnglishSentence": "Through hard work and determination, he was able to 「overcome obstacles」 in his studies.",
+          "chineseTranslation": "通过努力和决心，他成功「克服了障碍」，在学业上取得了进步。",
+          "chinglishFix": "典型中式英语：'He defeated the study difficulties.' 纠正：'He overcame obstacles in his studies.'（'defeated'不常用于抽象困难，'overcome'更自然。）"
+        },
+        {
+          "scene": "一个年轻人在公开演讲时总是感到紧张，甚至害怕到声音颤抖。他报名参加了一个演讲培训课程，练习多次后逐渐变得自信。",
+          "chineseIdea": "他通过训练和反复练习，战胜了内心的紧张情绪。",
+          "sentenceWithBlank": "After months of practice, she finally managed to @ @ during public speaking.",
+          "fullEnglishSentence": "After months of practice, she finally managed to 「overcome fear」 during public speaking.",
+          "chineseTranslation": "经过几个月的练习，她终于「克服了恐惧」，在公开演讲中表现自如。",
+          "chinglishFix": "典型中式英语：'She beat her nervous.' 纠正：'She overcame fear.'（'beat'不适用于抽象情绪，'overcome'更贴切。）"
+        }
+      ]
+    },
+    {
+      "meaning": "被强烈的情绪或感觉所压倒",
+      "usage": "用于描述某人因强烈的情感（如悲伤、疲惫等）而无法控制自己的状态，通常带有被动或消极的含义。",
+      "collocations": ["overcome with emotion", "overcome by fatigue", "overcome with grief"],
+      "examples": [
+        {
+          "scene": "在一场感人的婚礼上，新娘的父亲在发表演讲时回忆起女儿小时候的点滴，泪水止不住地流下来，声音也开始哽咽。",
+          "chineseIdea": "他被对女儿的爱和回忆的情感深深打动，无法继续平静地讲话。",
+          "sentenceWithBlank": "During his speech, the father was @ @ @, unable to continue speaking.",
+          "fullEnglishSentence": "During his speech, the father was 「overcome with emotion」, unable to continue speaking.",
+          "chineseTranslation": "在演讲中，父亲「被情感压倒」，无法继续讲话。",
+          "chinglishFix": "典型中式英语：'He was full of emotion.' 纠正：'He was overcome with emotion.'（'full of'不传达被情绪压倒的强度，'overcome'更准确。）"
+        },
+        {
+          "scene": "一名马拉松选手在跑完42公里后，身体极度疲惫，刚过终点线就瘫坐在地上，喘着粗气，暂时无法站立。",
+          "chineseIdea": "他因为长时间的高强度运动，身体被疲惫感完全支配。",
+          "sentenceWithBlank": "After crossing the finish line, the runner was @ @ @, collapsing on the ground.",
+          "fullEnglishSentence": "After crossing the finish line, the runner was 「overcome by fatigue」, collapsing on the ground.",
+          "chineseTranslation": "在冲过终点线后，跑者「被疲惫压倒」，瘫倒在地上。",
+          "chinglishFix": "典型中式英语：'He was very tired.' 纠正：'He was overcome by fatigue.'（'very tired'缺乏被压倒的强烈感觉，'overcome'更生动。）"
+        }
+      ]
+    }
+  ]
+}
+```
