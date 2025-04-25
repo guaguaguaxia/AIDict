@@ -1,0 +1,53 @@
+```json
+{
+  "word": "embrace",
+  "definitions": [
+    {
+      "meaning": "to hold someone closely in your arms, especially as a way of showing love or affection",
+      "usage": "This meaning refers to a physical act of holding someone tightly, often to express warmth, affection, or comfort. It is commonly used in contexts involving personal relationships or emotional moments.",
+      "collocations": ["warm embrace", "loving embrace", "tight embrace"],
+      "examples": [
+        {
+          "scene": "在一个寒冷的冬日，机场的到达大厅里，一对久别重逢的恋人终于见面了。他们迫不及待地冲向彼此，紧紧相拥，周围的喧嚣仿佛都消失了。",
+          "chineseIdea": "表达深厚的感情，尤其是爱或思念，通过身体接触来传递温暖和安全感。",
+          "sentenceWithBlank": "They rushed into each other’s arms, sharing a @ @.",
+          "fullEnglishSentence": "They rushed into each other’s arms, sharing a 「warm embrace」.",
+          "chineseTranslation": "他们冲进彼此的怀抱，分享了一次「温暖的拥抱」。",
+          "chinglishFix": "Chinglish: They hugged warmly. → Correct: They shared a warm embrace. (中式英语常直接用'hug warmly'，但'embrace'更能传递深情，且搭配'warm'更自然。)"
+        },
+        {
+          "scene": "在一个家庭聚会上，奶奶看到多年未见的孙子从国外回来，泪水盈眶地张开双臂，给了他一个大大的拥抱。",
+          "chineseIdea": "通过拥抱表达亲情和久别重逢的喜悦，传递一种深沉的爱。",
+          "sentenceWithBlank": "Grandma welcomed her grandson with a @ @.",
+          "fullEnglishSentence": "Grandma welcomed her grandson with a 「loving embrace」.",
+          "chineseTranslation": "奶奶用一个「充满爱的拥抱」迎接了她的孙子。",
+          "chinglishFix": "Chinglish: Grandma gave a love hug. → Correct: Grandma gave a loving embrace. (中式英语可能用'love hug'，但'embrace'更贴合亲情的深沉表达。)"
+        }
+      ]
+    },
+    {
+      "meaning": "to accept something enthusiastically or willingly",
+      "usage": "This meaning is figurative, referring to the act of welcoming or adopting ideas, beliefs, changes, or opportunities with enthusiasm. It is often used in intellectual, professional, or cultural contexts.",
+      "collocations": ["embrace change", "embrace new ideas", "embrace diversity"],
+      "examples": [
+        {
+          "scene": "一家传统企业在数字化转型的浪潮中，决定不再固守旧的经营模式，而是积极引入新技术，培训员工使用新系统，以适应市场变化。",
+          "chineseIdea": "愿意接受新的挑战或变化，表现出开放和积极的心态。",
+          "sentenceWithBlank": "The company decided to @ @ to stay competitive.",
+          "fullEnglishSentence": "The company decided to 「embrace change」 to stay competitive.",
+          "chineseTranslation": "公司决定「拥抱变化」以保持竞争力。",
+          "chinglishFix": "Chinglish: The company accepted change. → Correct: The company embraced change. (中式英语可能用'accept'，但'embrace'更强调主动和热情的态度。)"
+        },
+        {
+          "scene": "在一所国际学校，老师鼓励学生尊重和学习不同文化背景的同学，而不是只局限于自己的文化习惯，从而创造一个包容的学习环境。",
+          "chineseIdea": "积极接纳多元文化，体现包容和开放的精神。",
+          "sentenceWithBlank": "The school encourages students to @ @ in their daily interactions.",
+          "fullEnglishSentence": "The school encourages students to 「embrace diversity」 in their daily interactions.",
+          "chineseTranslation": "学校鼓励学生在日常互动中「拥抱多元」。",
+          "chinglishFix": "Chinglish: The school asks students to accept diversity. → Correct: The school encourages students to embrace diversity. ('accept'显得被动，'embrace'更能体现热情和主动。)"
+        }
+      ]
+    }
+  ]
+}
+```

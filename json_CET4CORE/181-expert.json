@@ -1,0 +1,53 @@
+```json
+{
+  "word": "expert",
+  "definitions": [
+    {
+      "meaning": "在某个领域具有专业知识或技能的人",
+      "usage": "通常指某人在特定领域经过长期学习或实践，拥有深入的知识或卓越的能力，常用于描述专业人士或权威。",
+      "collocations": ["subject matter", "leading", "consult", "recognized"],
+      "examples": [
+        {
+          "scene": "在一场技术会议上，主持人介绍一位在人工智能领域有丰富经验的演讲者。",
+          "chineseIdea": "想表达某人在某个领域非常专业，能够提供权威的见解。",
+          "sentenceWithBlank": "The speaker is a @ @ in artificial intelligence.",
+          "fullEnglishSentence": "The speaker is a 「subject matter」 expert in artificial intelligence.",
+          "chineseTranslation": "这位演讲者是人工智能领域的「主题专家」。",
+          "chinglishFix": "典型中式英语：'He is a very professional person in AI.' 纠正：'He is a subject matter expert in AI.'（避免空洞的'professional'，用更具体的搭配）"
+        },
+        {
+          "scene": "一家公司需要解决复杂的法律问题，因此聘请了一位在合同法方面有名的律师。",
+          "chineseIdea": "想表达某人在某个专业领域有很高的声誉和能力。",
+          "sentenceWithBlank": "We hired a @ attorney to review the contract.",
+          "fullEnglishSentence": "We hired a 「leading」 expert attorney to review the contract.",
+          "chineseTranslation": "我们聘请了一位「领先的」专家律师来审查合同。",
+          "chinglishFix": "典型中式英语：'He is a very famous lawyer.' 纠正：'He is a leading expert attorney.'（用'leading expert'更自然地表达权威性）"
+        }
+      ]
+    },
+    {
+      "meaning": "在某项技能或活动上表现出色的人",
+      "usage": "指某人在特定活动或技能上通过实践或天赋达到高水平，通常不一定有正式的学术背景，强调实际能力。",
+      "collocations": ["become an", "renowned", "niche", "hands-on"],
+      "examples": [
+        {
+          "scene": "在一个烹饪比赛中，评委称赞一位参赛者对甜点制作的熟练技巧。",
+          "chineseIdea": "想表达某人在某项具体技能上非常擅长，达到专业水平。",
+          "sentenceWithBlank": "She has @ @ in pastry making through years of practice.",
+          "fullEnglishSentence": "She has 「become an」 expert in pastry making through years of practice.",
+          "chineseTranslation": "通过多年的练习，她「成为了一位」甜点制作专家。",
+          "chinglishFix": "典型中式英语：'She is very good at making desserts.' 纠正：'She has become an expert in pastry making.'（用'become an expert'更准确地表达技能的积累）"
+        },
+        {
+          "scene": "在一个摄影俱乐部中，一位成员因其独特的光影处理技巧受到赞誉。",
+          "chineseIdea": "想表达某人在某个小众领域有很高的造诣。",
+          "sentenceWithBlank": "He is a @ photographer known for his creative lighting techniques.",
+          "fullEnglishSentence": "He is a 「niche」 expert photographer known for his creative lighting techniques.",
+          "chineseTranslation": "他是一位「小众领域的」专家摄影师，以其创意的灯光技巧而闻名。",
+          "chinglishFix": "典型中式英语：'He is very professional in photography.' 纠正：'He is a niche expert photographer.'（用'niche expert'更精准地表达特定领域的专长）"
+        }
+      ]
+    }
+  ]
+}
+```
