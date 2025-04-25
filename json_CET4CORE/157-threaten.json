@@ -1,0 +1,53 @@
+```json
+{
+  "word": "threaten",
+  "definitions": [
+    {
+      "meaning": "表达恐吓或威胁某人以使其做某事或造成伤害",
+      "usage": "常用于描述一个人或实体对另一个个体或群体施加压力，警告可能的不利后果，通常带有敌意或强制性。常用于正式或非正式场合，可能涉及身体、情感或利益的威胁。",
+      "collocations": ["to take action", "with violence", "legal action"],
+      "examples": [
+        {
+          "scene": "在一个公司的会议室里，部门经理正在与一个表现不佳的员工进行一对一谈话。经理对员工的工作态度不满，警告他如果不改进就会有严重后果。",
+          "chineseIdea": "经理想要通过警告让员工感到压力，从而激励他改善工作表现。",
+          "sentenceWithBlank": "The manager warned that he would have @ @ @ if his performance didn’t improve.",
+          "fullEnglishSentence": "The manager warned that he would have 「to take action」 if his performance didn’t improve.",
+          "chineseTranslation": "经理警告说，如果他的表现没有改善，就不得不「采取行动」。",
+          "chinglishFix": "典型中式英语：'If you don’t work well, I will do something to you.' 纠正：'If your performance doesn’t improve, I’ll have to take action.'"
+        },
+        {
+          "scene": "在一个社区的居民会议上，邻居们讨论一个开发商计划在附近建高楼的项目。一些居民担心这会破坏他们的生活环境，决定采取法律措施来阻止。",
+          "chineseIdea": "居民们希望通过法律手段警告开发商，表明他们不会轻易接受这个项目。",
+          "sentenceWithBlank": "The residents decided to @ @ @ to stop the construction project.",
+          "fullEnglishSentence": "The residents decided to 「threaten legal action」 to stop the construction project.",
+          "chineseTranslation": "居民们决定「威胁采取法律行动」来阻止这个建筑项目。",
+          "chinglishFix": "典型中式英语：'We will use law to scare them.' 纠正：'We will threaten legal action to stop them.'"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事或某人构成潜在的危险或风险",
+      "usage": "用于描述某种情况、行为或因素可能对某人、某物或某事造成危害或不利影响，通常不涉及直接的敌意，而是客观的潜在风险。常用于描述环境、经济或安全等方面。",
+      "collocations": ["the safety of", "the stability of", "the survival of"],
+      "examples": [
+        {
+          "scene": "在一所学校里，老师正在给学生们讲解气候变化的影响。她提到全球变暖如何对野生动物的生存环境造成负面影响。",
+          "chineseIdea": "老师想通过讲解让学生明白气候变化对生态系统的潜在危害。",
+          "sentenceWithBlank": "The teacher explained how climate change continues to @ @ @ wildlife.",
+          "fullEnglishSentence": "The teacher explained how climate change continues to 「threaten the survival of」 wildlife.",
+          "chineseTranslation": "老师解释了气候变化如何持续「威胁野生动物的生存」。",
+          "chinglishFix": "典型中式英语：'Climate change is bad for animals to live.' 纠正：'Climate change threatens the survival of animals.'"
+        },
+        {
+          "scene": "在一个经济论坛上，分析师正在讨论全球供应链中断对市场的潜在影响。他们提到原材料短缺可能导致生产停滞。",
+          "chineseIdea": "分析师希望提醒与会者供应链问题可能对经济造成的广泛影响。",
+          "sentenceWithBlank": "The analyst warned that supply chain issues could @ @ @ the industry.",
+          "fullEnglishSentence": "The analyst warned that supply chain issues could 「threaten the stability of」 the industry.",
+          "chineseTranslation": "分析师警告说，供应链问题可能会「威胁行业的稳定性」。",
+          "chinglishFix": "典型中式英语：'Supply chain problems make industry not stable.' 纠正：'Supply chain issues threaten the stability of the industry.'"
+        }
+      ]
+    }
+  ]
+}
+```

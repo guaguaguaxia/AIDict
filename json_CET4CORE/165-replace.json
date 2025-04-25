@@ -1,0 +1,53 @@
+```json
+{
+  "word": "replace",
+  "definitions": [
+    {
+      "meaning": "用某物代替另一物，通常因为后者已损坏、丢失或不合适",
+      "usage": "常用于描述物理对象的替换，如零件、设备或日常用品，也可用于抽象概念，如替换想法或方法。",
+      "collocations": ["replace a part", "replace a device", "replace an idea"],
+      "examples": [
+        {
+          "scene": "在一家汽车修理店，技工发现客户的刹车片已经磨损严重，需要更换新的刹车片以确保行车安全。",
+          "chineseIdea": "技工需要把旧的、磨损的刹车片取下来，安装一个新的刹车片来恢复刹车系统的功能。",
+          "sentenceWithBlank": "The mechanic needs to @ @ @ to ensure the car's safety.",
+          "fullEnglishSentence": "The mechanic needs to 「replace a part」 to ensure the car's safety.",
+          "chineseTranslation": "技工需要「更换一个零件」以确保汽车的安全。",
+          "chinglishFix": "典型中式英语：'Change a part' → 纠正：'Replace a part'（'change' 更强调改变状态，而 'replace' 强调用新物件代替旧物件）。"
+        },
+        {
+          "scene": "在一家科技公司，经理发现团队使用的老旧电脑运行缓慢，决定购买新电脑来提高工作效率。",
+          "chineseIdea": "经理希望用更先进的电脑来代替那些过时的设备，以提升团队的生产力。",
+          "sentenceWithBlank": "The manager decided to @ @ @ to improve productivity.",
+          "fullEnglishSentence": "The manager decided to 「replace a device」 to improve productivity.",
+          "chineseTranslation": "经理决定「更换一台设备」以提高生产力。",
+          "chinglishFix": "典型中式英语：'Renew a device' → 纠正：'Replace a device'（'renew' 更指更新或续期，而 'replace' 指用新设备替代旧设备）。"
+        }
+      ]
+    },
+    {
+      "meaning": "接替某人的职位或角色",
+      "usage": "常用于描述在工作、团队或组织中某人被另一人接替，通常涉及职位或职责的交接。",
+      "collocations": ["replace a manager", "replace a team member", "replace a leader"],
+      "examples": [
+        {
+          "scene": "一家公司的销售部门经理因为个人原因辞职，公司决定从内部提拔一名员工来接替这个职位。",
+          "chineseIdea": "公司需要找到一个合适的人来接替销售经理的职责，确保部门继续正常运作。",
+          "sentenceWithBlank": "The company promoted an employee to @ @ @ after the resignation.",
+          "fullEnglishSentence": "The company promoted an employee to 「replace a manager」 after the resignation.",
+          "chineseTranslation": "公司在辞职后提拔了一名员工来「接替经理」。",
+          "chinglishFix": "典型中式英语：'Take place of a manager' → 纠正：'Replace a manager'（'take place' 指发生或举行，而 'replace' 指职位接替）。"
+        },
+        {
+          "scene": "在一支足球队中，主力前锋因受伤无法参加比赛，教练决定让替补球员上场。",
+          "chineseIdea": "教练需要用一名替补球员来代替受伤的队员，以保持比赛的竞争力。",
+          "sentenceWithBlank": "The coach decided to @ @ @ due to the injury.",
+          "fullEnglishSentence": "The coach decided to 「replace a team member」 due to the injury.",
+          "chineseTranslation": "教练决定因为受伤而「替换一名队员」。",
+          "chinglishFix": "典型中式英语：'Change a team member' → 纠正：'Replace a team member'（'change' 不适用于人员替换，而 'replace' 更准确）。"
+        }
+      ]
+    }
+  ]
+}
+```

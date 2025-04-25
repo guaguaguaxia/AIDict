@@ -1,0 +1,53 @@
+```json
+{
+  "word": "sightseeing",
+  "definitions": [
+    {
+      "meaning": "参观名胜古迹或旅游景点以欣赏风景和文化",
+      "usage": "通常用作不可数名词，指旅游活动中参观景点、名胜或自然景观的行为，常用于描述休闲或度假时的活动。",
+      "collocations": ["go sightseeing", "sightseeing tour", "sightseeing spot"],
+      "examples": [
+        {
+          "scene": "一个中国家庭计划在暑假去北京旅游，他们想参观故宫、长城等著名景点，体验历史文化。",
+          "chineseIdea": "想通过游览名胜古迹来了解北京的历史和文化，同时放松心情。",
+          "sentenceWithBlank": "We decided to @ @ in Beijing to explore its historical landmarks.",
+          "fullEnglishSentence": "We decided to 「go sightseeing」 in Beijing to explore its historical landmarks.",
+          "chineseTranslation": "我们决定在北京「观光」以探索其历史地标。",
+          "chinglishFix": "典型中式英语：'We go to Beijing to look sights.' 纠正：'We go sightseeing in Beijing.'（'look sights'不符合英语表达习惯，需用'go sightseeing'表示参观景点。）"
+        },
+        {
+          "scene": "一个外国学生来到上海，报名参加了一个城市观光团，计划游览外滩、东方明珠等地标。",
+          "chineseIdea": "希望通过有组织的行程快速了解上海的现代与传统风貌。",
+          "sentenceWithBlank": "She joined a @ @ to see the modern and traditional landmarks of Shanghai.",
+          "fullEnglishSentence": "She joined a 「sightseeing tour」 to see the modern and traditional landmarks of Shanghai.",
+          "chineseTranslation": "她参加了一个「观光团」以游览上海的现代与传统地标。",
+          "chinglishFix": "典型中式英语：'She joined a tour to visit sights.' 纠正：'She joined a sightseeing tour.'（'visit sights'不够具体，'sightseeing tour'更自然且明确指观光活动。）"
+        }
+      ]
+    },
+    {
+      "meaning": "泛指游览或观赏某地特色的行为",
+      "usage": "作为广义的观光行为，可能不局限于著名景点，而是探索某地的特色、文化或日常生活，常用于描述非正式的游览活动。",
+      "collocations": ["do some sightseeing", "sightseeing trip", "popular sightseeing"],
+      "examples": [
+        {
+          "scene": "一个背包客来到杭州，计划在西湖边骑行，逛当地市场，感受城市的生活气息。",
+          "chineseIdea": "想通过随意的游逛来体验杭州的自然美景和当地文化。",
+          "sentenceWithBlank": "He planned to @ @ @ in Hangzhou to experience its local culture.",
+          "fullEnglishSentence": "He planned to 「do some sightseeing」 in Hangzhou to experience its local culture.",
+          "chineseTranslation": "他计划在杭州「游览一番」以体验当地文化。",
+          "chinglishFix": "典型中式英语：'He wants to see around in Hangzhou.' 纠正：'He wants to do some sightseeing in Hangzhou.'（'see around'模糊且不地道，'do some sightseeing'更符合英语表达。）"
+        },
+        {
+          "scene": "一群朋友决定去云南丽江度假，他们想探索古城、品尝当地美食，感受少数民族文化。",
+          "chineseIdea": "希望通过一次轻松的旅行深入了解丽江的独特风情。",
+          "sentenceWithBlank": "They organized a @ @ to explore the ancient town of Lijiang.",
+          "fullEnglishSentence": "They organized a 「sightseeing trip」 to explore the ancient town of Lijiang.",
+          "chineseTranslation": "他们组织了一次「观光旅行」以探索丽江古城。",
+          "chinglishFix": "典型中式英语：'They made a trip to look at Lijiang.' 纠正：'They organized a sightseeing trip to Lijiang.'（'look at'不适合描述游览，'sightseeing trip'更贴切。）"
+        }
+      ]
+    }
+  ]
+}
+```
