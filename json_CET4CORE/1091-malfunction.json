@@ -1,0 +1,63 @@
+```json
+{
+  "word": "malfunction",
+  "definitions": [
+    {
+      "meaning": "设备或系统无法正常工作或出现故障",
+      "usage": "主要用作名词或动词，指机器、设备或系统因技术问题未能按预期运行。通常用于描述电子产品、机械或软件系统的异常情况。",
+      "collocations": [
+        "system malfunction",
+        "equipment malfunction",
+        "software malfunction",
+        "cause a malfunction"
+      ],
+      "examples": [
+        {
+          "scene": "在一个繁忙的工厂中，一台自动化生产线上的机器突然停止运行，工人们发现是控制系统出现了问题。",
+          "chineseIdea": "描述设备因内部技术问题而停止工作，导致生产中断。",
+          "sentenceWithBlank": "The production line stopped due to a @ @.",
+          "fullEnglishSentence": "The production line stopped due to a 「system malfunction」.",
+          "chineseTranslation": "生产线因「系统故障」而停止。",
+          "chinglishFix": "典型中式英语：'The system is broken.' 纠正：'The system has malfunctioned.'（使用'malfunction'更准确地表达技术故障，而非泛泛的'broken'）"
+        },
+        {
+          "scene": "一位程序员在测试新开发的应用程序时，发现某些功能无法正常运行，提示错误信息。",
+          "chineseIdea": "描述软件因代码或设计问题导致功能异常。",
+          "sentenceWithBlank": "The app crashed because of a @ @.",
+          "fullEnglishSentence": "The app crashed because of a 「software malfunction」.",
+          "chineseTranslation": "应用程序因「软件故障」而崩溃。",
+          "chinglishFix": "典型中式英语：'The software is not good.' 纠正：'The software malfunctioned.'（'not good'过于模糊，'malfunctioned'更具体地描述技术问题）"
+        }
+      ]
+    },
+    {
+      "meaning": "人体器官或功能异常",
+      "usage": "用作名词或动词，指人体某个器官或生理功能未能正常运作，通常在医疗或健康相关语境中使用。",
+      "collocations": [
+        "organ malfunction",
+        "brain malfunction",
+        "heart malfunction",
+        "lead to a malfunction"
+      ],
+      "examples": [
+        {
+          "scene": "在医院里，一位患者因心脏问题接受检查，医生发现其心脏节律不正常。",
+          "chineseIdea": "描述人体器官因疾病或损伤导致功能异常。",
+          "sentenceWithBlank": "The patient was diagnosed with a @ @.",
+          "fullEnglishSentence": "The patient was diagnosed with a 「heart malfunction」.",
+          "chineseTranslation": "患者被诊断出「心脏功能异常」。",
+          "chinglishFix": "典型中式英语：'His heart is bad.' 纠正：'He has a heart malfunction.'（'bad'过于口语化和模糊，'malfunction'更专业且具体）"
+        },
+        {
+          "scene": "一位神经科医生在研究一名患者的症状时，发现其大脑某些区域的信号传递出现问题。",
+          "chineseIdea": "描述大脑因神经问题导致功能失调。",
+          "sentenceWithBlank": "The patient's symptoms were caused by a @ @.",
+          "fullEnglishSentence": "The patient's symptoms were caused by a 「brain malfunction」.",
+          "chineseTranslation": "患者的症状是由「大脑功能异常」引起的。",
+          "chinglishFix": "典型中式英语：'His brain is not working.' 纠正：'He is experiencing a brain malfunction.'（'not working'过于简单，'malfunction'更贴合医疗语境）"
+        }
+      ]
+    }
+  ]
+}
+```

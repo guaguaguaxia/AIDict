@@ -1,0 +1,53 @@
+```json
+{
+  "word": "myth",
+  "definitions": [
+    {
+      "meaning": "传统故事，通常涉及超自然力量或人物，用来解释自然现象、文化信仰或起源",
+      "usage": "指代古代或文化中的虚构故事，常带有象征意义，用于解释宇宙、人类起源或道德观念，通常与宗教或民间传说相关。",
+      "collocations": ["ancient myth", "Greek myth", "urban myth"],
+      "examples": [
+        {
+          "scene": "在一所大学的历史课上，教授正在讲解古代文明的文化遗产，学生们围绕希腊的传统故事展开讨论。",
+          "chineseIdea": "我想表达希腊的传统故事如何塑造了他们的文化价值观，比如英雄主义和命运。",
+          "sentenceWithBlank": "The @ @ about Hercules illustrates the Greek values of strength and heroism.",
+          "fullEnglishSentence": "The 「ancient myth」 about Hercules illustrates the Greek values of strength and heroism.",
+          "chineseTranslation": "关于赫拉克勒斯的「古老传说」展示了希腊的勇气和英雄主义价值观。",
+          "chinglishFix": "典型中式英语：'Hercules' story tell us Greek culture.' 纠正：'The ancient myth about Hercules illustrates Greek cultural values.'"
+        },
+        {
+          "scene": "在一次文化节上，朋友们讨论不同文明的传说故事，提到希腊神话中的众神。",
+          "chineseIdea": "我想说希腊的传说故事里有很多关于众神和人类互动的故事，很有趣。",
+          "sentenceWithBlank": "A famous @ @ tells the story of Prometheus stealing fire for humanity.",
+          "fullEnglishSentence": "A famous 「Greek myth」 tells the story of Prometheus stealing fire for humanity.",
+          "chineseTranslation": "一个著名的「希腊神话」讲述了普罗米修斯为人类偷火的故事。",
+          "chinglishFix": "典型中式英语：'Greek story about Prometheus is very interesting.' 纠正：'A famous Greek myth about Prometheus is fascinating.'"
+        }
+      ]
+    },
+    {
+      "meaning": "广泛流传但不真实的信念或观念，常被误认为是事实",
+      "usage": "指代被广泛接受但实际上虚假或未经证实的故事、观念或假设，通常用于揭穿错误认知。",
+      "collocations": ["common myth", "popular myth", "bust a myth"],
+      "examples": [
+        {
+          "scene": "在一场健康讲座上，营养师正在纠正听众对饮食的常见误解。",
+          "chineseIdea": "我想表达很多人相信吃巧克力会长痘痘，但这是不对的。",
+          "sentenceWithBlank": "It’s a @ @ that eating chocolate causes acne.",
+          "fullEnglishSentence": "It’s a 「common myth」 that eating chocolate causes acne.",
+          "chineseTranslation": "吃巧克力会导致痘痘是一个「普遍的误解」。",
+          "chinglishFix": "典型中式英语：'Many people think chocolate make acne, but it’s wrong.' 纠正：'It’s a common myth that chocolate causes acne.'"
+        },
+        {
+          "scene": "在社交媒体上，朋友分享了一篇关于科技的文章，讨论人们对人工智能的错误看法。",
+          "chineseIdea": "我想说很多人以为人工智能会马上取代所有工作，但这是夸大了。",
+          "sentenceWithBlank": "Recent studies have helped @ @ @ that AI will replace all jobs immediately.",
+          "fullEnglishSentence": "Recent studies have helped 「bust a myth」 that AI will replace all jobs immediately.",
+          "chineseTranslation": "最近的研究帮助「打破了一个误解」，即人工智能会立即取代所有工作。",
+          "chinglishFix": "典型中式英语：'AI replace jobs is not true.' 纠正：'The idea that AI will replace all jobs is a myth that recent studies have debunked.'"
+        }
+      ]
+    }
+  ]
+}
+```
