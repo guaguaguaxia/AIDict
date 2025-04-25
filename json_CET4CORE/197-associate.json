@@ -1,0 +1,76 @@
+```json
+{
+  "word": "associate",
+  "definitions": [
+    {
+      "meaning": "将某事物与另一事物联系起来",
+      "usage": "用作动词，表示在思维中将两个或多个事物联系起来，通常涉及记忆、情感或概念的联想。",
+      "collocations": ["associate with", "associate something with", "closely associated with"],
+      "examples": [
+        {
+          "scene": "在一次文化交流活动中，中国学生小李听到外国朋友提到春节，脑海中浮现出家人团聚、吃饺子和放鞭炮的画面。",
+          "chineseIdea": "小李将春节与温暖的家庭氛围和传统习俗联系在一起，这种联想让他感到亲切。",
+          "sentenceWithBlank": "Whenever I hear about the Spring Festival, I @ @ family gatherings and traditional customs.",
+          "fullEnglishSentence": "Whenever I hear about the Spring Festival, I 「associate it with」 family gatherings and traditional customs.",
+          "chineseTranslation": "每当我听到春节，我就会「把它与」家庭聚会和传统习俗联系起来。",
+          "chinglishFix": "典型中式英语：I think Spring Festival is family gatherings. 纠正：I associate the Spring Festival with family gatherings, as it evokes those memories."
+        },
+        {
+          "scene": "小王在公司培训中学习品牌管理，老师提到某些颜色会让人联想到特定的情感，比如红色通常与热情相关。",
+          "chineseIdea": "小王理解到颜色可以引发情感联想，这种联系影响消费者对品牌的感知。",
+          "sentenceWithBlank": "In branding, the color red is often @ @ passion and energy.",
+          "fullEnglishSentence": "In branding, the color red is often 「associated with」 passion and energy.",
+          "chineseTranslation": "在品牌塑造中，红色通常「与」激情和活力联系在一起。",
+          "chinglishFix": "典型中式英语：Red means passion in branding. 纠正：Red is associated with passion in branding, as it conveys that emotion."
+        }
+      ]
+    },
+    {
+      "meaning": "交往或合作",
+      "usage": "用作动词，表示与某人交往、合作或参与共同活动，通常指社交或职业关系。",
+      "collocations": ["associate with", "associate oneself with", "business associate"],
+      "examples": [
+        {
+          "scene": "小张刚进入一家新公司，同事建议他多与经验丰富的团队成员交流，以建立职业关系。",
+          "chineseIdea": "小张希望通过与资深同事的交往，学习更多职场经验并扩展人脉。",
+          "sentenceWithBlank": "To grow professionally, I decided to @ @ the senior team members.",
+          "fullEnglishSentence": "To grow professionally, I decided to 「associate with」 the senior team members.",
+          "chineseTranslation": "为了职业发展，我决定「与」资深团队成员交往。",
+          "chinglishFix": "典型中式英语：I want to make friends with senior members. 纠正：I want to associate with senior members to build professional connections."
+        },
+        {
+          "scene": "在一次创业活动中，小李认识了一位志同道合的伙伴，决定一起合作开发一个新项目。",
+          "chineseIdea": "小李希望通过与这位伙伴的合作，共同实现创业梦想。",
+          "sentenceWithBlank": "I’m excited to @ @ a talented entrepreneur on this project.",
+          "fullEnglishSentence": "I’m excited to 「associate myself with」 a talented entrepreneur on this project.",
+          "chineseTranslation": "我很兴奋能「与」一位才华横溢的创业者在这个项目上合作。",
+          "chinglishFix": "典型中式英语：I work together with an entrepreneur. 纠正：I’m thrilled to associate myself with an entrepreneur for this collaboration."
+        }
+      ]
+    },
+    {
+      "meaning": "伙伴或同事",
+      "usage": "用作名词，指在工作或社交场合中的伙伴、同事或合作者，通常用于正式或职业语境。",
+      "collocations": ["business associate", "close associate", "associate of"],
+      "examples": [
+        {
+          "scene": "在一次商务会议中，公司老板介绍了一位长期合作的商业伙伴，称其为重要业务联系人。",
+          "chineseIdea": "这位商业伙伴在公司业务中扮演重要角色，是值得信赖的合作者。",
+          "sentenceWithBlank": "Our CEO introduced her @ @ as a key partner in our expansion.",
+          "fullEnglishSentence": "Our CEO introduced her 「business associate」 as a key partner in our expansion.",
+          "chineseTranslation": "我们的CEO介绍了她的「商业伙伴」，称其是我们扩张中的关键合作伙伴。",
+          "chinglishFix": "典型中式英语：She is our business friend. 纠正：She is our business associate, a key collaborator in our projects."
+        },
+        {
+          "scene": "小赵在一家咨询公司工作，他的导师是一位经验丰富的顾问，被称为公司的重要成员。",
+          "chineseIdea": "小赵的导师在公司中地位重要，是他学习和职业发展的榜样。",
+          "sentenceWithBlank": "My mentor, a @ @ the firm, has guided me through complex projects.",
+          "fullEnglishSentence": "My mentor, a 「close associate of」 the firm, has guided me through complex projects.",
+          "chineseTranslation": "我的导师，公司的一个「亲密伙伴」，指导我完成了复杂的项目。",
+          "chinglishFix": "典型中式英语：My mentor is a friend of the company. 纠正：My mentor is a close associate of the company, highly valued for their expertise."
+        }
+      ]
+    }
+  ]
+}
+```

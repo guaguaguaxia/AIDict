@@ -1,0 +1,76 @@
+```json
+{
+  "word": "civilization",
+  "definitions": [
+    {
+      "meaning": "人类社会发展到高级阶段的状态，通常具有复杂的文化、社会组织和科技",
+      "usage": "指代一个高度发达的社会整体，常用于讨论历史、文化或社会进步",
+      "collocations": ["ancient civilization", "modern civilization", "Western civilization"],
+      "examples": [
+        {
+          "scene": "在一个历史课堂上，老师正在讲解人类早期社会的发展，提到古代的美索不达米亚地区。",
+          "chineseIdea": "想表达一个社会在很久以前就有了复杂的文化和城市系统。",
+          "sentenceWithBlank": "The @ @ was known for its advanced writing systems and urban planning.",
+          "fullEnglishSentence": "The 「ancient civilization」 was known for its advanced writing systems and urban planning.",
+          "chineseTranslation": "这个「古老文明」以其先进的书写系统和城市规划而闻名。",
+          "chinglishFix": "中式英语：'Old society had good culture.' 纠正：'The ancient civilization developed a sophisticated culture.'"
+        },
+        {
+          "scene": "在一场关于全球化的辩论中，学生讨论科技如何影响当今社会。",
+          "chineseIdea": "想表达当今社会因科技而变得更加先进和互联。",
+          "sentenceWithBlank": "Technology has transformed @ @ into a global network of interconnected societies.",
+          "fullEnglishSentence": "Technology has transformed 「modern civilization」 into a global network of interconnected societies.",
+          "chineseTranslation": "科技已将「现代文明」转变为一个相互联系的全球社会网络。",
+          "chinglishFix": "中式英语：'Now society is very modern because of technology.' 纠正：'Modern civilization has been reshaped by technological advancements.'"
+        }
+      ]
+    },
+    {
+      "meaning": "某一特定社会或地区的文化和社会结构",
+      "usage": "指代某个特定族群或地区的社会体系，常用于描述其独特的历史或文化特征",
+      "collocations": ["Mayan civilization", "Chinese civilization", "indigenous civilization"],
+      "examples": [
+        {
+          "scene": "在博物馆的展览中，导游向游客介绍古代中美洲的文化遗产。",
+          "chineseIdea": "想说明某个古代社会有独特的建筑和宗教传统。",
+          "sentenceWithBlank": "The @ @ was renowned for its intricate pyramids and astronomical knowledge.",
+          "fullEnglishSentence": "The 「Mayan civilization」 was renowned for its intricate pyramids and astronomical knowledge.",
+          "chineseTranslation": "这个「玛雅文明」因其精致的金字塔和天文知识而闻名。",
+          "chinglishFix": "中式英语：'Maya people had great buildings.' 纠正：'The Mayan civilization is celebrated for its architectural achievements.'"
+        },
+        {
+          "scene": "在一场国际文化交流活动中，演讲者提到中国悠久的历史。",
+          "chineseIdea": "想表达某个社会拥有几千年的文化传承和哲学思想。",
+          "sentenceWithBlank": "The @ @ has contributed profound philosophical ideas to the world for millennia.",
+          "fullEnglishSentence": "The 「Chinese civilization」 has contributed profound philosophical ideas to the world for millennia.",
+          "chineseTranslation": "这个「中华文明」几千年来为世界贡献了深刻的哲学思想。",
+          "chinglishFix": "中式英语：'China’s society is very old and has good ideas.' 纠正：'Chinese civilization has a rich legacy of philosophical contributions.'"
+        }
+      ]
+    },
+    {
+      "meaning": "文明行为或教养",
+      "usage": "指个人的礼貌、教养或文明行为，通常用于描述个体或群体的行为举止",
+      "collocations": ["act of civilization", "mark of civilization", "basic civilization"],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，父母教导孩子如何礼貌待人。",
+          "chineseIdea": "想表达礼貌和尊重是社会交往中的重要品质。",
+          "sentenceWithBlank": "Treating others with respect is an @ @ @ in any society.",
+          "fullEnglishSentence": "Treating others with respect is an 「act of civilization」 in any society.",
+          "chineseTranslation": "尊重他人是任何社会中的一种「文明行为」。",
+          "chinglishFix": "中式英语：'Be polite is good society.' 纠正：'Politeness is a fundamental act of civilization.'"
+        },
+        {
+          "scene": "在一场关于公共行为的讨论中，市民谈到保持环境整洁的重要性。",
+          "chineseIdea": "想说明整洁和遵守规则是社会文明的体现。",
+          "sentenceWithBlank": "Keeping public spaces clean is a @ @ @ for any community.",
+          "fullEnglishSentence": "Keeping public spaces clean is a 「mark of civilization」 for any community.",
+          "chineseTranslation": "保持公共场所清洁是任何社区的一种「文明标志」。",
+          "chinglishFix": "中式英语：'Clean place is civilized society.' 纠正：'Maintaining clean public spaces is a mark of civilization.'"
+        }
+      ]
+    }
+  ]
+}
+```

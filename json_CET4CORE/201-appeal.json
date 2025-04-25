@@ -1,0 +1,76 @@
+```json
+{
+  "word": "appeal",
+  "definitions": [
+    {
+      "meaning": "吸引，引起兴趣",
+      "usage": "指某事物因其特质或魅力而让人感到吸引，通常用于描述对感官、情感或兴趣的吸引力。",
+      "collocations": ["have appeal", "broad appeal", "mass appeal"],
+      "examples": [
+        {
+          "scene": "在一场时尚展览中，观众被一款新设计的服装吸引，纷纷驻足观看。",
+          "chineseIdea": "这款服装的设计独特，让人觉得很吸引，想多看几眼。",
+          "sentenceWithBlank": "The new clothing line @ @ to a wide audience due to its unique design.",
+          "fullEnglishSentence": "The new clothing line 「has appeal」 to a wide audience due to its unique design.",
+          "chineseTranslation": "这条新服装系列因其独特的设计对广大观众「很有吸引力」。",
+          "chinglishFix": "典型中式英语：This clothing is very attracting. 纠正：This clothing has great appeal."
+        },
+        {
+          "scene": "一部新上映的电影因其幽默和感人的剧情，吸引了各个年龄段的观众。",
+          "chineseIdea": "这部电影的剧情很抓人，适合很多人看。",
+          "sentenceWithBlank": "The movie’s storyline has @ @, drawing crowds of all ages.",
+          "fullEnglishSentence": "The movie’s storyline has 「broad appeal」, drawing crowds of all ages.",
+          "chineseTranslation": "这部电影的故事情节「广泛吸引」，吸引了各个年龄段的观众。",
+          "chinglishFix": "典型中式英语：This movie attracts many people. 纠正：This movie has broad appeal."
+        }
+      ]
+    },
+    {
+      "meaning": "上诉，申诉",
+      "usage": "在法律语境中，指对法院判决不服，请求更高一级法院重新审理。",
+      "collocations": ["file an appeal", "win an appeal", "lose an appeal"],
+      "examples": [
+        {
+          "scene": "一名被告对地方法院的判决不服，决定向更高一级法院提出上诉。",
+          "chineseIdea": "被告觉得判决不公平，想通过法律程序争取改判。",
+          "sentenceWithBlank": "The defendant decided to @ @ @ against the court’s ruling.",
+          "fullEnglishSentence": "The defendant decided to 「file an appeal」 against the court’s ruling.",
+          "chineseTranslation": "被告决定对法院的裁决「提起上诉」。",
+          "chinglishFix": "典型中式英语：The defendant wants to appeal the case. 纠正：The defendant decided to file an appeal."
+        },
+        {
+          "scene": "一名律师成功帮助客户在上诉中获胜，推翻了原判。",
+          "chineseIdea": "律师通过努力让客户在上诉中赢得了胜利。",
+          "sentenceWithBlank": "The lawyer helped the client @ @ @, overturning the original verdict.",
+          "fullEnglishSentence": "The lawyer helped the client 「win an appeal」, overturning the original verdict.",
+          "chineseTranslation": "律师帮助客户「赢得上诉」，推翻了原判。",
+          "chinglishFix": "典型中式英语：The lawyer made the client win the appeal case. 纠正：The lawyer helped the client win an appeal."
+        }
+      ]
+    },
+    {
+      "meaning": "恳求，呼吁",
+      "usage": "指强烈请求或呼吁某人采取行动，通常带有情感或紧急色彩。",
+      "collocations": ["make an appeal", "urgent appeal", "public appeal"],
+      "examples": [
+        {
+          "scene": "在一场自然灾害后，当地政府向全国发出救援请求。",
+          "chineseIdea": "政府希望通过呼吁让更多人参与救援工作。",
+          "sentenceWithBlank": "The local government @ @ @ for nationwide support after the disaster.",
+          "fullEnglishSentence": "The local government 「made an appeal」 for nationwide support after the disaster.",
+          "chineseTranslation": "当地政府对全国「发出呼吁」，请求支持灾后救援。",
+          "chinglishFix": "典型中式英语：The government appealed for help. 纠正：The government made an appeal for help."
+        },
+        {
+          "scene": "一家慈善机构在电视上公开请求公众为贫困儿童捐款。",
+          "chineseIdea": "慈善机构希望通过公开呼吁感动大家，捐款帮助孩子。",
+          "sentenceWithBlank": "The charity launched a @ @ to raise funds for underprivileged children.",
+          "fullEnglishSentence": "The charity launched a 「public appeal」 to raise funds for underprivileged children.",
+          "chineseTranslation": "该慈善机构发起了一场「公开呼吁」，为贫困儿童筹集资金。",
+          "chinglishFix": "典型中式英语：The charity asked for public donation. 纠正：The charity launched a public appeal for donations."
+        }
+      ]
+    }
+  ]
+}
+```
