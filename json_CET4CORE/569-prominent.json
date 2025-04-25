@@ -1,0 +1,53 @@
+```json
+{
+  "word": "prominent",
+  "definitions": [
+    {
+      "meaning": "在某领域或群体中非常重要或著名的",
+      "usage": "形容某人或某物在特定领域内具有显著地位或影响力，常用于描述公众人物、机构或地标。",
+      "collocations": ["play a role", "figure in", "position in"],
+      "examples": [
+        {
+          "scene": "在一场国际会议上，一位科学家因其突破性研究而备受关注。",
+          "chineseIdea": "想表达某人在某个领域中非常重要，受到广泛认可。",
+          "sentenceWithBlank": "She is a @ @ @ in the field of renewable energy research.",
+          "fullEnglishSentence": "She is a 「prominent figure」 in the field of renewable energy research.",
+          "chineseTranslation": "她是可再生能源研究领域的「重要人物」。",
+          "chinglishFix": "典型中式英语：She is very important person in renewable energy. 纠正：She is a prominent figure in the field of renewable energy."
+        },
+        {
+          "scene": "在一次政治活动中，一位领导人因其长期贡献而被媒体报道。",
+          "chineseIdea": "想表达某人在政治舞台上占据重要位置。",
+          "sentenceWithBlank": "He holds a @ @ in the country’s political landscape.",
+          "fullEnglishSentence": "He holds a 「prominent position」 in the country’s political landscape.",
+          "chineseTranslation": "他在国家政治格局中占据「重要地位」。",
+          "chinglishFix": "典型中式英语：He is very high in politics. 纠正：He holds a prominent position in politics."
+        }
+      ]
+    },
+    {
+      "meaning": "物理上突出或显眼的",
+      "usage": "形容某物在物理空间中显著或容易被注意到，常用于描述物体、特征或地形。",
+      "collocations": ["feature of", "display in", "stand out"],
+      "examples": [
+        {
+          "scene": "在参观一座古老建筑时，游客注意到一个特别显眼的装饰。",
+          "chineseIdea": "想表达某物的外观非常突出，吸引注意力。",
+          "sentenceWithBlank": "The statue is a @ @ @ the temple’s courtyard.",
+          "fullEnglishSentence": "The statue is a 「prominent feature」 of the temple’s courtyard.",
+          "chineseTranslation": "这座雕像是寺庙庭院的「显著特征」。",
+          "chinglishFix": "典型中式英语：The statue is very obvious in the courtyard. 纠正：The statue is a prominent feature of the courtyard."
+        },
+        {
+          "scene": "在一次城市游览中，导游指出一座山丘在城市天际线中尤为突出。",
+          "chineseIdea": "想表达某地形在环境中非常显眼。",
+          "sentenceWithBlank": "The hill @ @ against the city skyline.",
+          "fullEnglishSentence": "The hill 「stands out」 prominently against the city skyline.",
+          "chineseTranslation": "这座山丘在城市天际线中「格外显眼」。",
+          "chinglishFix": "典型中式英语：The hill is very clear in the skyline. 纠正：The hill stands out prominently in the skyline."
+        }
+      ]
+    }
+  ]
+}
+```

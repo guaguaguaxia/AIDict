@@ -1,0 +1,53 @@
+```json
+{
+  "word": "panic",
+  "definitions": [
+    {
+      "meaning": "突然的强烈恐惧或焦虑，通常导致混乱或非理性行为",
+      "usage": "用作名词或动词，表示一种突发的、压倒性的恐惧感，可能导致失去控制或做出不理智的决定。作为动词时，常指某人因恐惧而采取行动或陷入混乱状态。",
+      "collocations": ["cause panic", "panic attack", "in a panic", "mass panic", "panic buying"],
+      "examples": [
+        {
+          "scene": "在一个拥挤的购物中心，突然响起了火警铃声，人群开始四处奔跑，试图找到出口。",
+          "chineseIdea": "人们因为突如其来的警报而感到极度恐惧，纷纷争先恐后地逃离现场。",
+          "sentenceWithBlank": "The loud alarm @ @ in the crowded mall, sending people rushing toward the exits.",
+          "fullEnglishSentence": "The loud alarm 「caused panic」 in the crowded mall, sending people rushing toward the exits.",
+          "chineseTranslation": "刺耳的警报在拥挤的商场里「引发了恐慌」，导致人们争相冲向出口。",
+          "chinglishFix": "中式英语：The alarm made people very panic. 纠正：The alarm caused panic among people."
+        },
+        {
+          "scene": "在一个重要的考试前夕，一名学生因为没有复习好而感到极度紧张，甚至无法集中注意力。",
+          "chineseIdea": "学生因为担心考试失败而感到强烈的焦虑，情绪几乎失控。",
+          "sentenceWithBlank": "She suffered a @ @ just before the exam, unable to focus on anything.",
+          "fullEnglishSentence": "She suffered a 「panic attack」 just before the exam, unable to focus on anything.",
+          "chineseTranslation": "她在考试前夕经历了「恐慌发作」，无法专注于任何事情。",
+          "chinglishFix": "中式英语：She was panic before the exam. 纠正：She had a panic attack before the exam."
+        }
+      ]
+    },
+    {
+      "meaning": "经济或金融市场中的恐慌，通常指投资者因恐惧而迅速抛售资产",
+      "usage": "用作名词，常见于描述金融市场或经济环境中的集体恐慌行为，导致市场剧烈波动。",
+      "collocations": ["financial panic", "market panic", "spark panic"],
+      "examples": [
+        {
+          "scene": "一家主要银行宣布破产，导致股市投资者迅速抛售股票，市场陷入混乱。",
+          "chineseIdea": "投资者因为担心经济崩溃而疯狂卖出股票，引发市场剧烈动荡。",
+          "sentenceWithBlank": "The bank’s collapse @ @ among investors, leading to a sharp market crash.",
+          "fullEnglishSentence": "The bank’s collapse 「sparked panic」 among investors, leading to a sharp market crash.",
+          "chineseTranslation": "银行的倒闭在投资者中「引发了恐慌」，导致市场急剧崩盘。",
+          "chinglishFix": "中式英语：The bank’s failure made investors panic a lot. 纠正：The bank’s failure sparked panic among investors."
+        },
+        {
+          "scene": "一场全球经济危机导致人们担心货币贬值，纷纷抢购黄金和必需品。",
+          "chineseIdea": "人们因为对经济前景的极度不安而开始囤积物资，市场出现混乱。",
+          "sentenceWithBlank": "The global crisis triggered @ @, with people hoarding gold and supplies.",
+          "fullEnglishSentence": "The global crisis triggered 「financial panic」, with people hoarding gold and supplies.",
+          "chineseTranslation": "全球危机引发了「金融恐慌」，人们开始囤积黄金和物资。",
+          "chinglishFix": "中式英语：The crisis made a big panic in finance. 纠正：The crisis triggered financial panic."
+        }
+      ]
+    }
+  ]
+}
+```
