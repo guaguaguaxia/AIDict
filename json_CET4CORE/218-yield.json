@@ -1,0 +1,76 @@
+```json
+{
+  "word": "yield",
+  "definitions": [
+    {
+      "meaning": "生产或提供（产品、结果等），尤其是在农业或经济领域",
+      "usage": "通常指农作物、投资或其他生产过程产生的结果或回报，强调产出。",
+      "collocations": ["high yield", "crop yield", "yield results"],
+      "examples": [
+        {
+          "scene": "在一个农业展览会上，农民们正在讨论如何提高水稻的产量。他们分享了使用新型肥料和灌溉技术的经验。",
+          "chineseIdea": "希望通过改进技术来增加水稻的收成。",
+          "sentenceWithBlank": "The new irrigation system significantly improved the @ @ of rice.",
+          "fullEnglishSentence": "The new irrigation system significantly improved the 「crop yield」 of rice.",
+          "chineseTranslation": "新的灌溉系统显著提高了水稻的「作物产量」。",
+          "chinglishFix": "典型中式英语：'The irrigation system makes rice produce more.' 纠正：'The irrigation system improves the crop yield of rice.'（避免直接翻译‘生产更多’，使用更自然的‘improve the yield’）"
+        },
+        {
+          "scene": "在一个投资研讨会上，理财顾问向客户介绍一种低风险的债券投资，强调其稳定的回报。",
+          "chineseIdea": "想说明这种投资能带来不错的收益。",
+          "sentenceWithBlank": "This bond offers a @ @ for conservative investors.",
+          "fullEnglishSentence": "This bond offers a 「high yield」 for conservative investors.",
+          "chineseTranslation": "这种债券为保守型投资者提供了「高收益」。",
+          "chinglishFix": "典型中式英语：'This bond gives high profit.' 纠正：'This bond offers a high yield.'（‘profit’更适合描述商业利润，而‘yield’更适合投资回报）"
+        }
+      ]
+    },
+    {
+      "meaning": "让步或屈服，特别是在争论、冲突或压力下",
+      "usage": "指在争论、谈判或压力下妥协或放弃立场，常用于描述人或实体在某种情境下退让。",
+      "collocations": ["yield to pressure", "yield to demands", "yield ground"],
+      "examples": [
+        {
+          "scene": "在公司会议中，项目经理与团队成员针对新项目的截止日期发生了激烈争论。最终，经理妥协了，同意延长一周。",
+          "chineseIdea": "想表达在团队的强烈要求下，经理不得不做出让步。",
+          "sentenceWithBlank": "The manager finally @ @ @ from the team.",
+          "fullEnglishSentence": "The manager finally 「yielded to pressure」 from the team.",
+          "chineseTranslation": "经理最终「屈服于团队的压力」。",
+          "chinglishFix": "典型中式英语：'The manager was forced to agree.' 纠正：'The manager yielded to pressure.'（‘forced to agree’显得生硬，‘yield to pressure’更自然且具体）"
+        },
+        {
+          "scene": "在国际贸易谈判中，一方为了达成协议，同意降低部分关税要求。",
+          "chineseIdea": "想说明一方在谈判中对对方的要求做出了妥协。",
+          "sentenceWithBlank": "The negotiators @ @ @ to secure the deal.",
+          "fullEnglishSentence": "The negotiators 「yielded to demands」 to secure the deal.",
+          "chineseTranslation": "谈判代表「屈服于要求」以达成协议。",
+          "chinglishFix": "典型中式英语：'The negotiators accepted the demands.' 纠正：'The negotiators yielded to demands.'（‘accept’缺乏妥协的语气，‘yield’更能体现让步）"
+        }
+      ]
+    },
+    {
+      "meaning": "（交通中）让路或给予优先权",
+      "usage": "在交通场景中，指车辆或行人给其他车辆或行人让路，常用于描述遵守交通规则的行为。",
+      "collocations": ["yield the right of way", "yield to oncoming traffic", "yield at the intersection"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的路口，司机看到对面有辆救护车正在快速驶来，立即停车让路。",
+          "chineseIdea": "想说明司机按照交通规则给紧急车辆优先通行。",
+          "sentenceWithBlank": "The driver stopped to @ @ @ @ to the ambulance.",
+          "fullEnglishSentence": "The driver stopped to 「yield the right of way」 to the ambulance.",
+          "chineseTranslation": "司机停下来「让行」给救护车。",
+          "chinglishFix": "典型中式英语：'The driver let the ambulance go first.' 纠正：'The driver yielded the right of way to the ambulance.'（‘let go first’不够正式，‘yield the right of way’是标准交通用语）"
+        },
+        {
+          "scene": "在一个没有红绿灯的交叉路口，司机看到对面有辆车已经进入路口，便减速等待。",
+          "chineseIdea": "想表达司机在路口礼让其他车辆。",
+          "sentenceWithBlank": "She slowed down to @ @ @ @.",
+          "fullEnglishSentence": "She slowed down to 「yield at the intersection」.",
+          "chineseTranslation": "她减速以「在路口让行」。",
+          "chinglishFix": "典型中式英语：'She stopped for the other car.' 纠正：'She yielded at the intersection.'（‘stop for’不够精确，‘yield at the intersection’更符合交通场景）"
+        }
+      ]
+    }
+  ]
+}
+```
