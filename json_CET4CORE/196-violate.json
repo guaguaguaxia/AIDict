@@ -1,0 +1,76 @@
+```json
+{
+  "word": "violate",
+  "definitions": [
+    {
+      "meaning": "违反（规则、法律、协议等）",
+      "usage": "指故意或无意地违背规则、法律、协议或承诺，通常带有正式或法律意味。",
+      "collocations": ["violate a rule", "violate a law", "violate an agreement"],
+      "examples": [
+        {
+          "scene": "在一个大型跨国公司中，员工需要遵守严格的保密协议。一名员工不小心将公司机密信息分享给了外部朋友。",
+          "chineseIdea": "员工的行为破坏了公司对保密的期望，违反了正式的合同条款。",
+          "sentenceWithBlank": "The employee @ @ @ by sharing confidential information with an outsider.",
+          "fullEnglishSentence": "The employee 「violated an agreement」 by sharing confidential information with an outsider.",
+          "chineseTranslation": "该员工通过与外人分享机密信息「违反了协议」。",
+          "chinglishFix": "典型中式英语：'He broke the contract by telling secrets.' 纠正：'He violated the agreement by sharing confidential information.'（'broke'过于口语化，'violated'更适合正式协议的语境）"
+        },
+        {
+          "scene": "在一个学校里，学生被要求遵守课堂纪律，比如不能在课堂上使用手机。一名学生在考试期间偷偷用手机查答案。",
+          "chineseIdea": "学生明知规则却故意使用手机，破坏了考试的公平性。",
+          "sentenceWithBlank": "The student @ @ @ by using a phone during the exam.",
+          "fullEnglishSentence": "The student 「violated a rule」 by using a phone during the exam.",
+          "chineseTranslation": "该学生在考试期间使用手机「违反了规则」。",
+          "chinglishFix": "典型中式英语：'He against the rule to use phone.' 纠正：'He violated the rule by using a phone.'（'against'不用于此语境，'violated'更准确且符合英语习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "侵犯（隐私、权利、空间等）",
+      "usage": "指对某人的隐私、权利或个人空间进行不当干涉，通常带有情感或道德上的负面含义。",
+      "collocations": ["violate privacy", "violate human rights", "violate personal space"],
+      "examples": [
+        {
+          "scene": "在社交媒体时代，某人未经许可将朋友的私人照片发布到网上，引起了朋友的不满。",
+          "chineseIdea": "未经同意公开私人信息是对他人隐私的不尊重。",
+          "sentenceWithBlank": "Posting private photos without consent @ @ @.",
+          "fullEnglishSentence": "Posting private photos without consent 「violates privacy」.",
+          "chineseTranslation": "未经同意发布私人照片「侵犯了隐私」。",
+          "chinglishFix": "典型中式英语：'He hurt her privacy by posting photos.' 纠正：'He violated her privacy by posting photos.'（'hurt'不适用于隐私的语境，'violated'更贴切）"
+        },
+        {
+          "scene": "在一个拥挤的咖啡店里，一个人站在另一个陌生人身后太近，让对方感到不舒服。",
+          "chineseIdea": "过于靠近他人身体的行为被认为是不礼貌的，干扰了对方的舒适感。",
+          "sentenceWithBlank": "Standing too close to someone in a crowded place @ @ @.",
+          "fullEnglishSentence": "Standing too close to someone in a crowded place 「violates personal space」.",
+          "chineseTranslation": "在拥挤的地方站得离别人太近「侵犯了个人空间」。",
+          "chinglishFix": "典型中式英语：'He entered her private space.' 纠正：'He violated her personal space.'（'entered'不准确，'violated'更能表达对空间的侵犯）"
+        }
+      ]
+    },
+    {
+      "meaning": "亵渎（神圣或珍贵的事物）",
+      "usage": "指对被认为神圣、珍贵或受尊重的对象进行破坏或不敬，通常用于宗教、文化或道德语境。",
+      "collocations": ["violate a sacred place", "violate a tradition", "violate moral principles"],
+      "examples": [
+        {
+          "scene": "在一个古老的寺庙中，游客在禁止拍照的区域内强行拍照，引起了当地人的愤怒。",
+          "chineseIdea": "游客的行为被视为对宗教场所的尊重缺失，破坏了其神圣性。",
+          "sentenceWithBlank": "Taking photos in a restricted temple area @ @ @.",
+          "fullEnglishSentence": "Taking photos in a restricted temple area 「violates a sacred place」.",
+          "chineseTranslation": "在寺庙禁区内拍照「亵渎了神圣场所」。",
+          "chinglishFix": "典型中式英语：'He damaged the holy place by taking photos.' 纠正：'He violated the sacred place by taking photos.'（'damaged'过于物质化，'violated'更能表达对神圣性的侵犯）"
+        },
+        {
+          "scene": "在一个家庭中，年轻人公开反对家族世代传承的习俗，引发了长辈的不满。",
+          "chineseIdea": "年轻人的行为被认为是对家族价值观的背叛，伤害了传统的重要性。",
+          "sentenceWithBlank": "Publicly rejecting family customs @ @ @.",
+          "fullEnglishSentence": "Publicly rejecting family customs 「violates a tradition」.",
+          "chineseTranslation": "公开反对家族习俗「亵渎了传统」。",
+          "chinglishFix": "典型中式英语：'He broke the tradition by rejecting it.' 纠正：'He violated the tradition by rejecting it.'（'broke'过于简单，'violated'更能体现对传统的道德侵犯）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "uncertain",
+  "definitions": [
+    {
+      "meaning": "不确定的；不可预测的",
+      "usage": "描述某事的结果、情况或未来发展不清楚或无法确定，常用于表达对某事缺乏把握或信心。",
+      "collocations": ["remain uncertain", "feel uncertain", "highly uncertain"],
+      "examples": [
+        {
+          "scene": "小明在准备一场重要的工作面试，但他不知道面试官会问什么问题，心里有些忐忑。",
+          "chineseIdea": "小明对面试的结果没有把握，因为他无法预测面试官的反应。",
+          "sentenceWithBlank": "Due to the tough questions, he @ @ about his chances of getting the job.",
+          "fullEnglishSentence": "Due to the tough questions, he 「remained uncertain」 about his chances of getting the job.",
+          "chineseTranslation": "由于问题很难，他对获得这份工作的机会「仍然不确定」。",
+          "chinglishFix": "典型中式英语：'He is not sure about get the job.' 纠正：'He remains uncertain about his chances of getting the job.'（避免直接翻译‘不确定’为‘not sure’，并注意搭配和语义的准确性）"
+        },
+        {
+          "scene": "李华在计划一次周末旅行，但天气预报显示可能会下雨，她犹豫是否要取消。",
+          "chineseIdea": "李华对周末的天气没有信心，担心旅行计划会受到影响。",
+          "sentenceWithBlank": "With the forecast showing rain, she @ @ about going on the trip.",
+          "fullEnglishSentence": "With the forecast showing rain, she 「felt uncertain」 about going on the trip.",
+          "chineseTranslation": "由于天气预报显示有雨，她对是否去旅行「感到不确定」。",
+          "chinglishFix": "典型中式英语：'She not certain to go trip.' 纠正：'She felt uncertain about going on the trip.'（避免省略动词‘feel’和不自然的‘certain’使用，注意搭配‘feel uncertain’）"
+        }
+      ]
+    },
+    {
+      "meaning": "犹豫的；不自信的",
+      "usage": "描述某人在做决定或表达意见时缺乏信心，显得犹豫或不果断，常用于描述人的态度或行为。",
+      "collocations": ["seem uncertain", "sound uncertain", "look uncertain"],
+      "examples": [
+        {
+          "scene": "在团队会议上，小红被要求对新项目提出建议，但她对自己的想法没有信心，回答时显得吞吞吐吐。",
+          "chineseIdea": "小红对自己的建议是否正确没有把握，因此在发言时显得犹豫。",
+          "sentenceWithBlank": "When asked for her opinion, she @ @ about her suggestions.",
+          "fullEnglishSentence": "When asked for her opinion, she 「seemed uncertain」 about her suggestions.",
+          "chineseTranslation": "当被要求发表意见时，她对自己的建议「似乎不确定」。",
+          "chinglishFix": "典型中式英语：'She is not sure her suggestion.' 纠正：'She seemed uncertain about her suggestions.'（避免直接用‘not sure’代替‘seem uncertain’，并注意搭配和句式）"
+        },
+        {
+          "scene": "张伟在英语口语课上被老师点名回答问题，但他因为担心发音不准，回答时声音很小，显得缺乏自信。",
+          "chineseIdea": "张伟对自己的英语发音没有信心，因此回答问题时显得不果断。",
+          "sentenceWithBlank": "His quiet response made him @ @ in class.",
+          "fullEnglishSentence": "His quiet response made him 「sound uncertain」 in class.",
+          "chineseTranslation": "他轻声的回答让他在课堂上「听起来不确定」。",
+          "chinglishFix": "典型中式英语：'He speaks not certain in class.' 纠正：'He sounded uncertain in class.'（避免‘not certain’的生硬表达，改用‘sounded uncertain’以符合自然英语搭配）"
+        }
+      ]
+    }
+  ]
+}
+```
