@@ -1,0 +1,53 @@
+```json
+{
+  "word": "chemical",
+  "definitions": [
+    {
+      "meaning": "与化学或化学物质有关的（形容词）",
+      "usage": "用作形容词，描述与化学科学、化学反应或化学物质相关的特质、过程或产品，通常用于科学、技术或工业场景。",
+      "collocations": ["chemical reaction", "chemical compound", "chemical industry", "chemical properties"],
+      "examples": [
+        {
+          "scene": "在一个化学实验室中，学生们正在进行实验，观察物质如何在特定条件下发生变化。",
+          "chineseIdea": "学生们通过实验了解物质之间的相互作用，比如加热或混合后会产生什么新的现象。",
+          "sentenceWithBlank": "The students observed a fascinating @ @ in the lab.",
+          "fullEnglishSentence": "The students observed a fascinating 「chemical reaction」 in the lab.",
+          "chineseTranslation": "学生们在实验室里观察到一个引人入胜的「化学反应」。",
+          "chinglishFix": "典型中式英语：'The students saw a chemistry reaction.' 纠正：应使用 'chemical reaction'，因为 'chemistry' 指学科，而 'chemical' 形容具体反应。"
+        },
+        {
+          "scene": "一家制药公司正在研发新药，科学家们需要分析某种物质的特性以确保其安全性。",
+          "chineseIdea": "科学家们通过实验确定一种物质的结构和性质，以便用于药物生产。",
+          "sentenceWithBlank": "The scientists studied the @ @ of the new substance.",
+          "fullEnglishSentence": "The scientists studied the 「chemical compound」 of the new substance.",
+          "chineseTranslation": "科学家们研究了新物质的「化学化合物」。",
+          "chinglishFix": "典型中式英语：'They studied the chemistry thing.' 纠正：使用 'chemical compound' 来准确描述化学物质的结构。"
+        }
+      ]
+    },
+    {
+      "meaning": "化学物质（名词）",
+      "usage": "用作名词，指由化学过程产生的物质，通常用于描述工业、农业或日常生活中的具体化学品，如肥料、清洁剂等。",
+      "collocations": ["household chemicals", "toxic chemicals", "industrial chemicals", "agricultural chemicals"],
+      "examples": [
+        {
+          "scene": "一个家庭主妇在超市购买清洁用品时，注意到包装上警告要小心使用某些产品。",
+          "chineseIdea": "她意识到这些清洁产品含有强效成分，需要妥善存放以避免危险。",
+          "sentenceWithBlank": "She read the label to avoid misusing @ @.",
+          "fullEnglishSentence": "She read the label to avoid misusing 「household chemicals」.",
+          "chineseTranslation": "她阅读标签以避免误用「家用化学品」。",
+          "chinglishFix": "典型中式英语：'She checked the label for house chemistry.' 纠正：应使用 'household chemicals'，因为 'chemistry' 不指具体物质。"
+        },
+        {
+          "scene": "一个环保组织在调查工厂排放物对河流的污染情况，发现某些物质对生态系统有害。",
+          "chineseIdea": "环保人士希望通过检测水质，确定哪些污染物正在破坏自然环境。",
+          "sentenceWithBlank": "The activists tested the river for @ @.",
+          "fullEnglishSentence": "The activists tested the river for 「toxic chemicals」.",
+          "chineseTranslation": "环保人士测试了河水中是否含有「有毒化学物质」。",
+          "chinglishFix": "典型中式英语：'They checked for poison chemistry.' 纠正：使用 'toxic chemicals' 来准确描述有害化学物质。"
+        }
+      ]
+    }
+  ]
+}
+```
