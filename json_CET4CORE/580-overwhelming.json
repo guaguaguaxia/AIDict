@@ -1,0 +1,53 @@
+```json
+{
+  "word": "overwhelming",
+  "definitions": [
+    {
+      "meaning": "难以抗拒的，压倒性的（指情感、数量或力量上令人难以应对）",
+      "usage": "形容某事物在情感、数量或强度上极强，让人感到无法承受或难以应对，常用于描述强烈的情感、巨大的数量或不可抗拒的力量。",
+      "collocations": ["overwhelming sense of", "overwhelming majority of", "overwhelming desire to"],
+      "examples": [
+        {
+          "scene": "一位学生在收到大学录取通知书时，感到非常激动和幸福，因为这是她多年努力的结果。",
+          "chineseIdea": "她感到一种强烈的喜悦和满足，情绪激动得几乎无法控制。",
+          "sentenceWithBlank": "She felt an @ @ @ joy upon receiving her university acceptance letter.",
+          "fullEnglishSentence": "She felt an 「overwhelming sense of」 joy upon receiving her university acceptance letter.",
+          "chineseTranslation": "她在收到大学录取通知书时感到一种「压倒性的」喜悦。",
+          "chinglishFix": "典型中式英语：She felt very strong happy. 纠正：She felt an overwhelming sense of joy."
+        },
+        {
+          "scene": "一位志愿者在帮助灾区重建时，看到灾民的感恩和团结，内心充满了感动。",
+          "chineseIdea": "他被人们的互助精神深深打动，内心涌起强烈的感动。",
+          "sentenceWithBlank": "The unity of the community stirred an @ @ @ gratitude in him.",
+          "fullEnglishSentence": "The unity of the community stirred an 「overwhelming sense of」 gratitude in him.",
+          "chineseTranslation": "社区的团结在他心中激起了一种「压倒性的」感恩。",
+          "chinglishFix": "典型中式英语：He felt very touch. 纠正：He felt an overwhelming sense of gratitude."
+        }
+      ]
+    },
+    {
+      "meaning": "数量极多的，庞大的（指数量或规模大到难以处理）",
+      "usage": "描述某事物数量或规模极大，令人感到难以应对或处理，常用于统计数据、任务量或信息量等。",
+      "collocations": ["overwhelming majority of", "overwhelming amount of", "overwhelming number of"],
+      "examples": [
+        {
+          "scene": "一位新员工刚加入公司，面对堆积如山的电子邮件和任务，感到手足无措。",
+          "chineseIdea": "她看到收件箱里无数的邮件，觉得任务量大到无法开始。",
+          "sentenceWithBlank": "She was daunted by the @ @ @ emails waiting in her inbox.",
+          "fullEnglishSentence": "She was daunted by the 「overwhelming number of」 emails waiting in her inbox.",
+          "chineseTranslation": "她被收件箱里「庞大的」邮件数量吓到了。",
+          "chinglishFix": "典型中式英语：She felt many emails. 纠正：She was daunted by the overwhelming number of emails."
+        },
+        {
+          "scene": "一位市场研究员在分析消费者反馈时，发现数据量非常庞大，难以快速整理。",
+          "chineseIdea": "他面对海量的反馈信息，感到无从下手。",
+          "sentenceWithBlank": "He struggled to process the @ @ @ data collected from the survey.",
+          "fullEnglishSentence": "He struggled to process the 「overwhelming amount of」 data collected from the survey.",
+          "chineseTranslation": "他难以处理从调查中收集的「庞大的」数据量。",
+          "chinglishFix": "典型中式英语：He felt the data is too much. 纠正：He struggled with the overwhelming amount of data."
+        }
+      ]
+    }
+  ]
+}
+```

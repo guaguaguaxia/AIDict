@@ -1,0 +1,76 @@
+```json
+{
+  "word": "porter",
+  "definitions": [
+    {
+      "meaning": "在酒店、火车站或机场等地方搬运行李的人",
+      "usage": "指在公共场所（如酒店、车站、机场）帮助旅客搬运行李或货物的工作人员，通常为服务性职业。",
+      "collocations": ["carry luggage", "work at the station", "tip the porter"],
+      "examples": [
+        {
+          "scene": "你在北京首都国际机场刚下飞机，背着沉重的背包，手里还拖着一个大行李箱。这时，一个穿制服的工作人员走过来，主动提出帮你搬运行李到出租车候车区。",
+          "chineseIdea": "你想表达对这个工作人员帮忙搬运行李的感激，同时询问是否需要支付小费。",
+          "sentenceWithBlank": "Thank you so much for @ @, sir. Do I need to give you a tip?",
+          "fullEnglishSentence": "Thank you so much for 「carrying my luggage」, sir. Do I need to give you a tip?",
+          "chineseTranslation": "非常感谢您「帮我搬行李」，先生。我需要给您小费吗？",
+          "chinglishFix": "典型中式英语：'Thank you for help me carry luggage.' 纠正：'Thank you for carrying my luggage.'（避免直接翻译'帮助我'，用更自然的搭配'carry luggage'）"
+        },
+        {
+          "scene": "你在上海火车站赶高铁，时间紧迫，手里拿着两个大箱子。这时，一个工作人员主动帮你把箱子搬到检票口，并告诉你检票时间。",
+          "chineseIdea": "你想说明这个工作人员在火车站工作，并且他的帮助让你感到很方便。",
+          "sentenceWithBlank": "The man who @ @ @ was so helpful that I caught my train on time.",
+          "fullEnglishSentence": "The man who 「worked at the station」 was so helpful that I caught my train on time.",
+          "chineseTranslation": "那个「在车站工作」的人非常有帮助，让我及时赶上了火车。",
+          "chinglishFix": "典型中式英语：'He work in station.' 纠正：'He works at the station.'（注意动词形式和介词'at'的使用）"
+        }
+      ]
+    },
+    {
+      "meaning": "大楼或机构的门卫或看门人",
+      "usage": "指在公寓楼、办公室或学校等地方负责看门、接待访客或处理小型事务的工作人员。",
+      "collocations": ["greet visitors", "manage the entrance", "call the elevator"],
+      "examples": [
+        {
+          "scene": "你在广州的一栋高级公寓楼拜访朋友。进入大楼时，一个穿制服的人微笑着帮你开门，并询问你要找哪一户。",
+          "chineseIdea": "你想描述这个门卫如何热情地迎接访客，并让你感到宾至如归。",
+          "sentenceWithBlank": "The man who @ @ made me feel very welcome when I arrived.",
+          "fullEnglishSentence": "The man who 「greeted visitors」 made me feel very welcome when I arrived.",
+          "chineseTranslation": "那个「迎接访客」的人让我一到就感到非常受欢迎。",
+          "chinglishFix": "典型中式英语：'He welcome visitors.' 纠正：'He greets visitors.'（注意动词时态和搭配'greet visitors'的自然表达）"
+        },
+        {
+          "scene": "你在深圳的一所国际学校参观。进入教学楼时，一个工作人员帮你按电梯，并告诉你去办公室的路怎么走。",
+          "chineseIdea": "你想说明这个工作人员负责管理入口，并且他的服务让你对学校印象很好。",
+          "sentenceWithBlank": "The person who @ @ @ was so polite that I had a great first impression of the school.",
+          "fullEnglishSentence": "The person who 「managed the entrance」 was so polite that I had a great first impression of the school.",
+          "chineseTranslation": "那个「管理入口」的人非常有礼貌，让我对学校的第一印象很好。",
+          "chinglishFix": "典型中式英语：'He control the entrance.' 纠正：'He manages the entrance.'（'control'过于生硬，'manage'更符合语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "一种深色啤酒，通常带有浓郁的麦芽味道",
+      "usage": "指一种由烘焙麦芽酿制的深色啤酒，常用于描述饮品或酒吧场景。",
+      "collocations": ["drink a porter", "brew a porter", "order a porter"],
+      "examples": [
+        {
+          "scene": "你在成都的一家精酿啤酒吧和朋友聚会。酒吧菜单上有很多种啤酒，你决定点一种深色的啤酒来尝试。",
+          "chineseIdea": "你想告诉朋友你点了这种啤酒，并且觉得它的味道很独特。",
+          "sentenceWithBlank": "I decided to @ @ because I wanted to try something with a rich flavor.",
+          "fullEnglishSentence": "I decided to 「order a porter」 because I wanted to try something with a rich flavor.",
+          "chineseTranslation": "我决定「点一杯波特啤酒」，因为我想尝试一种味道浓郁的啤酒。",
+          "chinglishFix": "典型中式英语：'I want drink porter beer.' 纠正：'I want to order a porter.'（避免冗余的'beer'，用'order'更符合点单场景）"
+        },
+        {
+          "scene": "你在上海参加一个啤酒酿造工作坊，学习如何酿造不同类型的啤酒。老师特别提到了一种深色啤酒的酿造方法。",
+          "chineseIdea": "你想说明酿造这种啤酒需要特殊的麦芽，并且过程很有趣。",
+          "sentenceWithBlank": "Learning how to @ @ was fascinating because it involves roasted malt.",
+          "fullEnglishSentence": "Learning how to 「brew a porter」 was fascinating because it involves roasted malt.",
+          "chineseTranslation": "学习如何「酿造波特啤酒」很有趣，因为它需要使用烘焙麦芽。",
+          "chinglishFix": "典型中式英语：'Make porter is interesting.' 纠正：'Brewing a porter is fascinating.'（'make'不适合酿造场景，'brew'更专业）"
+        }
+      ]
+    }
+  ]
+}
+```

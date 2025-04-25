@@ -1,0 +1,53 @@
+```json
+{
+  "word": "puzzling",
+  "definitions": [
+    {
+      "meaning": "令人困惑的；难以理解的",
+      "usage": "形容某事物或情况让人感到费解、难以解释或理解，常用于描述问题、行为、现象等。",
+      "collocations": ["puzzling situation", "puzzling behavior", "puzzling question"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，研究人员展示了一组实验数据，但数据之间的矛盾让听众感到困惑。",
+          "chineseIdea": "数据看起来不合逻辑，观众试图理解为什么会出现这样的结果。",
+          "sentenceWithBlank": "The researchers presented a @ @ that left the audience scratching their heads.",
+          "fullEnglishSentence": "The researchers presented a 「puzzling situation」 that left the audience scratching their heads.",
+          "chineseTranslation": "研究人员展示了一个「令人困惑的情况」，让观众摸不着头脑。",
+          "chinglishFix": "典型中式英语：'The situation is very puzzle.' 纠正：'The situation is very puzzling.'（使用正确的形容词形式，避免名词误用）"
+        },
+        {
+          "scene": "在家庭聚会上，小明注意到他的表弟总是避免和别人交谈，独自坐在角落里，这种行为让人不解。",
+          "chineseIdea": "表弟的行为不符合他平时的性格，让人好奇他为什么这样。",
+          "sentenceWithBlank": "His cousin's @ @ during the family gathering surprised everyone.",
+          "fullEnglishSentence": "His cousin's 「puzzling behavior」 during the family gathering surprised everyone.",
+          "chineseTranslation": "他表弟在家庭聚会上的「令人困惑的行为」让大家都感到惊讶。",
+          "chinglishFix": "典型中式英语：'His behavior is very confuse.' 纠正：'His behavior is very puzzling.'（避免用confuse代替puzzling，confuse更适合描述人或动作）"
+        }
+      ]
+    },
+    {
+      "meaning": "激发思考的；引人入胜的",
+      "usage": "形容某事物（如谜题、问题等）虽然复杂但有趣，能激发思考或好奇心，常用于描述智力挑战或游戏。",
+      "collocations": ["puzzling mystery", "puzzling riddle", "puzzling challenge"],
+      "examples": [
+        {
+          "scene": "在一场推理小说读书会上，成员们讨论了一本情节复杂的侦探小说，书中案件的细节让人着迷。",
+          "chineseIdea": "小说的案件设计巧妙，读者忍不住想破解其中的秘密。",
+          "sentenceWithBlank": "The novel’s @ @ kept the book club members engaged for hours.",
+          "fullEnglishSentence": "The novel’s 「puzzling mystery」 kept the book club members engaged for hours.",
+          "chineseTranslation": "小说中的「引人入胜的谜团」让读书会成员沉迷数小时。",
+          "chinglishFix": "典型中式英语：'The mystery is very interesting to think.' 纠正：'The mystery is very puzzling.'（避免冗长表达，用puzzling更简洁地传达引人思考的意思）"
+        },
+        {
+          "scene": "在学校的数学竞赛中，学生们遇到了一道特别设计的题目，既有挑战性又充满乐趣。",
+          "chineseIdea": "这道题目不仅难，但也让人觉得有趣，想要不断尝试解决。",
+          "sentenceWithBlank": "The math competition included a @ @ that excited the students.",
+          "fullEnglishSentence": "The math competition included a 「puzzling challenge」 that excited the students.",
+          "chineseTranslation": "数学竞赛中包含了一个「引人入胜的挑战」，让学生们兴奋不已。",
+          "chinglishFix": "典型中式英语：'The challenge is very thinkable.' 纠正：'The challenge is very puzzling.'（避免生造词，puzzling更自然地表达激发思考的挑战）"
+        }
+      ]
+    }
+  ]
+}
+```
