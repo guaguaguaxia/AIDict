@@ -1,0 +1,53 @@
+```json
+{
+  "word": "appetite",
+  "definitions": [
+    {
+      "meaning": "对食物的渴望或胃口",
+      "usage": "指身体对食物的自然需求，通常与饥饿或对美食的兴趣相关，常用于描述一个人想吃东西的程度或对特定食物的喜好。",
+      "collocations": ["have an appetite", "stimulate the appetite", "lose one's appetite"],
+      "examples": [
+        {
+          "scene": "在一个寒冷的冬日，你和朋友们围坐在火锅旁，热气腾腾的火锅散发着诱人的香气，大家都迫不及待地想开始吃。",
+          "chineseIdea": "在这种温暖的场景中，每个人都因为食物的香味而感到特别想吃东西。",
+          "sentenceWithBlank": "The delicious smell of the hotpot made everyone @ @ @ for the meal.",
+          "fullEnglishSentence": "The delicious smell of the hotpot made everyone 「have an appetite」 for the meal.",
+          "chineseTranslation": "火锅的美味香气让每个人都「胃口大开」。",
+          "chinglishFix": "典型中式英语：'The hotpot smell makes us want to eat a lot.' 纠正：'The smell of the hotpot gives us a great appetite.'"
+        },
+        {
+          "scene": "你和家人正在计划周末的聚餐，妈妈提议做一道你小时候最爱的红烧肉，因为她知道这道菜总能让你吃得更多。",
+          "chineseIdea": "妈妈希望通过烹饪你喜欢的菜肴来让你更有食欲。",
+          "sentenceWithBlank": "Mom's braised pork always @ @ @ before dinner.",
+          "fullEnglishSentence": "Mom's braised pork always 「stimulates the appetite」 before dinner.",
+          "chineseTranslation": "妈妈的红烧肉总能在晚餐前「激发食欲」。",
+          "chinglishFix": "典型中式英语：'Mom's pork makes my stomach want food.' 纠正：'Mom's pork always whets my appetite.'"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物的强烈兴趣或渴望",
+      "usage": "描述对非食物事物（如知识、冒险、成功等）的热情或渴望，通常带有比喻意味，表示一种强烈的内在驱动力。",
+      "collocations": ["have an appetite for", "satisfy one's appetite", "whet the appetite"],
+      "examples": [
+        {
+          "scene": "你是一个热爱学习的大学生，最近发现了一门关于人工智能的在线课程，课程简介非常吸引人，让你迫不及待地想报名学习。",
+          "chineseIdea": "课程的内容让你对学习人工智能产生了强烈的兴趣和渴望。",
+          "sentenceWithBlank": "The course description made me @ @ @ for learning AI.",
+          "fullEnglishSentence": "The course description made me 「have an appetite for」 learning AI.",
+          "chineseTranslation": "课程简介让我对学习人工智能「产生了浓厚的兴趣」。",
+          "chinglishFix": "典型中式英语：'The course makes me want to learn AI very much.' 纠正：'The course sparks my appetite for learning AI.'"
+        },
+        {
+          "scene": "你和朋友们正在计划一次登山旅行，导游向你们展示了山顶的壮丽景色照片，让你们对接下来的旅程更加兴奋。",
+          "chineseIdea": "导游的介绍和照片让你对登山冒险更加向往。",
+          "sentenceWithBlank": "The guide's photos really @ @ @ for the adventure.",
+          "fullEnglishSentence": "The guide's photos really 「whet the appetite」 for the adventure.",
+          "chineseTranslation": "导游的照片真地「激起了对冒险的渴望」。",
+          "chinglishFix": "典型中式英语：'The photos make me want adventure.' 纠正：'The photos whet my appetite for the adventure.'"
+        }
+      ]
+    }
+  ]
+}
+```

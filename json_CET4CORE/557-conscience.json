@@ -1,0 +1,53 @@
+```json
+{
+  "word": "conscience",
+  "definitions": [
+    {
+      "meaning": "道德感，良心；对是非的内在判断能力",
+      "usage": "指一个人内心对正确与错误的感知，通常与道德决策和内疚感相关。常用于描述个人在面对道德困境时的内心挣扎或自我反省。",
+      "collocations": ["clear conscience", "guilty conscience", "in good conscience"],
+      "examples": [
+        {
+          "scene": "一位员工发现公司正在隐瞒产品的安全问题。他在是否要公开真相的问题上感到内心挣扎，因为这可能会导致他失去工作，但保持沉默会让他感到不安。",
+          "chineseIdea": "他希望做出符合道德的选择，以免日后内心不安，同时也希望能够坦然面对自己的决定。",
+          "sentenceWithBlank": "After reporting the issue, he could sleep with a @ @.",
+          "fullEnglishSentence": "After reporting the issue, he could sleep with a 「clear conscience」.",
+          "chineseTranslation": "在举报问题后，他可以怀着「清白的良心」入睡。",
+          "chinglishFix": "典型中式英语：'His heart is clean after reporting.' 纠正：'He has a clear conscience after reporting.'（'clean heart'不符合英语表达习惯，'clear conscience'更自然。）"
+        },
+        {
+          "scene": "一位学生在考试中作弊，成功通过了考试，但之后他无法摆脱内心的负罪感，觉得自己违背了诚实的原则。",
+          "chineseIdea": "他希望能摆脱内心的不安，但同时又觉得自己应该为错误行为负责。",
+          "sentenceWithBlank": "Despite passing the exam, he was haunted by a @ @.",
+          "fullEnglishSentence": "Despite passing the exam, he was haunted by a 「guilty conscience」.",
+          "chineseTranslation": "尽管通过了考试，他却被「内疚的良心」困扰。",
+          "chinglishFix": "典型中式英语：'He feels his heart is guilty.' 纠正：'He has a guilty conscience.'（'heart is guilty'显得生硬，'guilty conscience'是固定搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "遵循道德原则的行动依据；出于道德考虑的行为",
+      "usage": "指基于道德信念采取行动或拒绝行动，常用于表达某人因道德原因无法做某事的情况。",
+      "collocations": ["in good conscience", "matter of conscience", "on grounds of conscience"],
+      "examples": [
+        {
+          "scene": "一位医生被要求执行一项他认为不道德的手术。他拒绝了，因为他觉得这违背了自己的职业道德和个人信念。",
+          "chineseIdea": "他希望坚持自己的道德底线，即使这意味着可能面临职业上的压力或后果。",
+          "sentenceWithBlank": "He couldn’t perform the surgery @ @ @.",
+          "fullEnglishSentence": "He couldn’t perform the surgery 「in good conscience」.",
+          "chineseTranslation": "他无法「凭着良心」进行手术。",
+          "chinglishFix": "典型中式英语：'He can’t do it with his heart.' 纠正：'He can’t do it in good conscience.'（'with his heart'不符合英语习惯，'in good conscience'更贴切。）"
+        },
+        {
+          "scene": "一位记者被要求发表一篇歪曲事实的报道。她拒绝了，因为她认为诚实是新闻工作的核心原则。",
+          "chineseIdea": "她希望保持职业操守，坚持真实报道，即使这可能会让她失去工作机会。",
+          "sentenceWithBlank": "Refusing the story was a @ @ @ for her.",
+          "fullEnglishSentence": "Refusing the story was a 「matter of conscience」 for her.",
+          "chineseTranslation": "拒绝报道对她来说是「良心问题」。",
+          "chinglishFix": "典型中式英语：'It’s about her heart’s choice.' 纠正：'It’s a matter of conscience for her.'（'heart’s choice'不地道，'matter of conscience'更准确。）"
+        }
+      ]
+    }
+  ]
+}
+```

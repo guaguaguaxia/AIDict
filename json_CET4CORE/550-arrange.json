@@ -1,0 +1,76 @@
+```json
+{
+  "word": "arrange",
+  "definitions": [
+    {
+      "meaning": "组织或计划某事",
+      "usage": "指为某事制定计划或进行协调，通常涉及时间、地点或人员的安排。",
+      "collocations": ["arrange a meeting", "arrange a trip", "arrange an event"],
+      "examples": [
+        {
+          "scene": "你是一家公司的行政助理，负责组织团队的月度会议。你需要协调所有人的时间表，选择一个合适的会议室，并确保必要的设备都准备好。",
+          "chineseIdea": "你想要确保会议顺利进行，因此需要提前计划时间和地点。",
+          "sentenceWithBlank": "I need to @ @ @ for the team next week.",
+          "fullEnglishSentence": "I need to 「arrange a meeting」 for the team next week.",
+          "chineseTranslation": "我需要为团队「安排一次会议」在下周。",
+          "chinglishFix": "典型中式英语：'I need to prepare a meeting for the team.' 纠正：'Arrange a meeting' 更自然，因为 'prepare' 通常指准备具体内容，而 'arrange' 强调组织和协调。"
+        },
+        {
+          "scene": "你和朋友计划去海边度假，你负责联系旅行社，预订酒店和交通工具，确保行程顺利。",
+          "chineseIdea": "你希望这次旅行有条不紊，所以提前规划好所有细节。",
+          "sentenceWithBlank": "She is busy trying to @ @ @ for the summer.",
+          "fullEnglishSentence": "She is busy trying to 「arrange a trip」 for the summer.",
+          "chineseTranslation": "她正忙着为夏天「安排一次旅行」。",
+          "chinglishFix": "典型中式英语：'She is planning a travel.' 纠正：'Arrange a trip' 更符合英语习惯，'travel' 通常作不可数名词，而 'trip' 指具体的旅行。"
+        }
+      ]
+    },
+    {
+      "meaning": "整理或摆放物品",
+      "usage": "指将物体按特定顺序或方式放置，通常为了美观或实用。",
+      "collocations": ["arrange flowers", "arrange books", "arrange furniture"],
+      "examples": [
+        {
+          "scene": "你正在为朋友的婚礼帮忙布置会场，负责把鲜花插在花瓶中，摆放在桌子中央，营造浪漫的氛围。",
+          "chineseIdea": "你希望花朵摆放得既美观又协调，增添婚礼的温馨感。",
+          "sentenceWithBlank": "She spent the morning @ @ to decorate the venue.",
+          "fullEnglishSentence": "She spent the morning 「arranging flowers」 to decorate the venue.",
+          "chineseTranslation": "她花了一上午「整理鲜花」来装饰会场。",
+          "chinglishFix": "典型中式英语：'She put flowers for decoration.' 纠正：'Arrange flowers' 更准确，因为 'arrange' 强调有条理地摆放，而 'put' 缺乏这种含义。"
+        },
+        {
+          "scene": "你刚搬进新公寓，房间里堆满了家具。你花了一整天把沙发、桌子和椅子摆放到合适的位置，让房间看起来宽敞又舒适。",
+          "chineseIdea": "你想让新家看起来整洁有序，所以花时间调整家具的布局。",
+          "sentenceWithBlank": "We need to @ @ in the living room to make it more spacious.",
+          "fullEnglishSentence": "We need to 「arrange furniture」 in the living room to make it more spacious.",
+          "chineseTranslation": "我们需要在客厅「摆放家具」以让它看起来更宽敞。",
+          "chinglishFix": "典型中式英语：'We need to place furniture in the living room.' 纠正：'Arrange furniture' 更自然，'place' 虽可表示放置，但 'arrange' 强调有目的的整理和布局。"
+        }
+      ]
+    },
+    {
+      "meaning": "改编或调整（音乐、内容等）",
+      "usage": "指对音乐、文本等进行改编或调整以适应特定需求或风格。",
+      "collocations": ["arrange a song", "arrange music", "arrange a piece"],
+      "examples": [
+        {
+          "scene": "你是一个乐团的成员，负责将一-a classic jazz piece into a modern pop style for an upcoming concert. You spend hours adjusting the melody and rhythm to suit the singer’s voice.",
+          "chineseIdea": "你希望这首经典曲目既保留原有的魅力，又能吸引年轻观众。",
+          "sentenceWithBlank": "The composer worked hard to @ @ @ for the new performance.",
+          "fullEnglishSentence": "The composer worked hard to 「arrange a song」 for the new performance.",
+          "chineseTranslation": "作曲家努力为新演出「改编一首歌」。",
+          "chinglishFix": "典型中式英语：'The composer changed a song.' 纠正：'Arrange a song' 更专业，'change' 过于笼统，缺乏改编的艺术含义。"
+        },
+        {
+          "scene": "你被邀请为学校音乐会改编一首传统民歌，加入现代电子音乐元素，让学生们更容易接受。",
+          "chineseIdea": "你想让这首民歌听起来更有趣，同时保留它的文化根源。",
+          "sentenceWithBlank": "He was asked to @ @ for the school concert.",
+          "fullEnglishSentence": "He was asked to 「arrange music」 for the school concert.",
+          "chineseTranslation": "他被要求为学校音乐会「改编音乐」。",
+          "chinglishFix": "典型中式英语：'He made music for the concert.' 纠正：'Arrange music' 更精确，'make music' 过于模糊，不体现改编的过程。"
+        }
+      ]
+    }
+  ]
+}
+```

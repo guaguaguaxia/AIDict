@@ -1,0 +1,53 @@
+```json
+{
+  "word": "bargain",
+  "definitions": [
+    {
+      "meaning": "以低价购买或出售的交易，通常指通过谈判达成的好交易",
+      "usage": "用作名词，表示通过谈判或协商获得的价格优惠的交易，常见于购物、商业或市场场景；也可以用作动词，表示进行价格谈判。",
+      "collocations": ["strike a bargain", "get a bargain", "drive a hard bargain"],
+      "examples": [
+        {
+          "scene": "在一个热闹的跳蚤市场，你看到一个手工制作的陶瓷花瓶，标价50元，但你觉得可以再便宜一些。经过一番讨价还价，卖家同意以30元卖给你。",
+          "chineseIdea": "通过谈判以更低的价格买到心仪的物品，感觉非常划算。",
+          "sentenceWithBlank": "After some negotiation, I managed to @ @ @ with the seller for the vase.",
+          "fullEnglishSentence": "After some negotiation, I managed to 「strike a bargain」 with the seller for the vase.",
+          "chineseTranslation": "经过一番谈判，我成功地与卖家「达成了一笔划算的交易」，买下了那个花瓶。",
+          "chinglishFix": "典型中式英语：'I made a cheap deal with the seller.' 纠正：'I struck a bargain with the seller.'（'make a cheap deal'听起来不自然，'strike a bargain'是固定搭配，表达达成划算交易。）"
+        },
+        {
+          "scene": "你在网上二手平台看到一台几乎全新的咖啡机，标价比市场价低很多。你迅速联系卖家，确认后立刻购买，觉得这次购物非常值得。",
+          "chineseIdea": "买到远低于市场价的物品，觉得自己捡了个大便宜。",
+          "sentenceWithBlank": "I was thrilled to @ @ @ on that coffee machine online.",
+          "fullEnglishSentence": "I was thrilled to 「get a bargain」 on that coffee machine online.",
+          "chineseTranslation": "我在网上买到那台咖啡机，真的「捡了个大便宜」。",
+          "chinglishFix": "典型中式英语：'I bought it very cheap.' 纠正：'I got a bargain on it.'（'bought it very cheap'语法正确但不地道，'get a bargain'更符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "谈判或协商以达成协议",
+      "usage": "用作动词，表示通过讨论或谈判达成价格或条件的协议，常见于商业谈判或买卖场景。",
+      "collocations": ["bargain for", "bargain with", "bargain over"],
+      "examples": [
+        {
+          "scene": "你在一家古董店看中了一幅老画，标价很高。你决定和店主谈谈，看能不能以更低的价格买下来。",
+          "chineseIdea": "通过与卖家协商，试图以更合适的价格购买物品。",
+          "sentenceWithBlank": "I spent an hour trying to @ @ the shopkeeper to lower the price of the painting.",
+          "fullEnglishSentence": "I spent an hour trying to 「bargain with」 the shopkeeper to lower the price of the painting.",
+          "chineseTranslation": "我花了一个小时试图与店主「讨价还价」，希望降低那幅画的价格。",
+          "chinglishFix": "典型中式英语：'I talked price with the shopkeeper.' 纠正：'I bargained with the shopkeeper.'（'talk price'不地道，'bargain with'是正确搭配。）"
+        },
+        {
+          "scene": "你和朋友计划合租一套公寓，但房东的租金报价超出预算。你们决定一起和房东谈，争取更低的租金。",
+          "chineseIdea": "通过协商争取更有利的租赁条件。",
+          "sentenceWithBlank": "We had to @ @ the rent to make the apartment affordable.",
+          "fullEnglishSentence": "We had to 「bargain over」 the rent to make the apartment affordable.",
+          "chineseTranslation": "我们不得不就租金「讨价还价」，以让公寓价格更实惠。",
+          "chinglishFix": "典型中式英语：'We discussed about the rent.' 纠正：'We bargained over the rent.'（'discuss about'语法错误且不准确，'bargain over'更贴合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "annoy",
+  "definitions": [
+    {
+      "meaning": "使某人感到生气或不耐烦",
+      "usage": "通常指因某事或某人的行为而感到轻微的愤怒或烦躁，常用于描述日常生活中让人不快的情况。",
+      "collocations": ["get annoyed", "really annoy", "annoy someone with"],
+      "examples": [
+        {
+          "scene": "在咖啡店里，你正在专心工作，但旁边的人一直大声打电话，干扰了你的注意力。",
+          "chineseIdea": "你觉得这种行为很烦人，想让对方安静下来，但又不好直接说。",
+          "sentenceWithBlank": "I always @ @ when people talk loudly on their phones in quiet places.",
+          "fullEnglishSentence": "I always 「get annoyed」 when people talk loudly on their phones in quiet places.",
+          "chineseTranslation": "当有人在安静的地方大声打电话时，我总是会「感到烦躁」。",
+          "chinglishFix": "典型中式英语：'I feel very angry when people talk loudly.' 纠正：'Angry' 过于强烈，'get annoyed' 更符合轻微烦躁的情绪。"
+        },
+        {
+          "scene": "你的室友总是在你需要安静复习考试的时候播放吵闹的音乐。",
+          "chineseIdea": "你希望室友能体谅你的需求，但他们的行为让你感到很困扰。",
+          "sentenceWithBlank": "It does @ @ me when my roommate plays loud music while I’m studying.",
+          "fullEnglishSentence": "It does 「really annoy」 me when my roommate plays loud music while I’m studying.",
+          "chineseTranslation": "当我的室友在我学习时放吵闹的音乐，真的会「让我很烦」。",
+          "chinglishFix": "典型中式英语：'I am very trouble when he plays music.' 纠正：'Trouble' 不适合形容情绪，'really annoy' 更自然且准确。"
+        }
+      ]
+    },
+    {
+      "meaning": "打扰或烦扰某人",
+      "usage": "指通过反复的行为或请求干扰某人，通常带有一定的坚持或纠缠感，常用于描述不必要的打扰。",
+      "collocations": ["annoy someone by", "constantly annoy", "annoy someone with"],
+      "examples": [
+        {
+          "scene": "你正在赶一个工作项目的截止日期，但同事不停地过来问一些琐碎的问题。",
+          "chineseIdea": "你觉得这些打扰让你无法专注，希望同事能等你忙完再来。",
+          "sentenceWithBlank": "She keeps @ @ @ asking me irrelevant questions while I’m working.",
+          "fullEnglishSentence": "She keeps 「annoying me by」 asking me irrelevant questions while I’m working.",
+          "chineseTranslation": "她一直「通过问我无关的问题来烦我」，而我正在工作。",
+          "chinglishFix": "典型中式英语：'She always disturb me with questions.' 纠正：'Disturb' 更适合物理干扰，'annoy ... by' 更适合描述反复烦扰。"
+        },
+        {
+          "scene": "你的朋友反复给你发消息催促你回复，即使你已经说自己很忙。",
+          "chineseIdea": "你觉得这种催促很烦人，想让朋友给你一点空间。",
+          "sentenceWithBlank": "He @ @ me @ sending messages every five minutes.",
+          "fullEnglishSentence": "He 「constantly annoys」 me 「with」 sending messages every five minutes.",
+          "chineseTranslation": "他「不断地烦我」，「通过」每五分钟发一次消息。",
+          "chinglishFix": "典型中式英语：'He makes me crazy with messages.' 纠正：'Make crazy' 过于夸张，'constantly annoy ... with' 更贴合语境。"
+        }
+      ]
+    }
+  ]
+}
+```
