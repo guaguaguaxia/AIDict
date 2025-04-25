@@ -1,0 +1,53 @@
+```json
+{
+  "word": "undertake",
+  "definitions": [
+    {
+      "meaning": "承诺或开始进行某项任务或责任",
+      "usage": "指正式或认真地接受某项任务、项目或责任，通常涉及一定程度的承诺或义务。常用于商业、学术或正式场合。",
+      "collocations": ["major project", "challenging task", "new venture", "research study"],
+      "examples": [
+        {
+          "scene": "一家科技公司正在计划开发一款新的智能手机，项目经理在会议上宣布团队将正式启动这个项目。",
+          "chineseIdea": "项目经理想要表达团队已经做好准备，愿意承担开发新手机的责任，并承诺按时完成。",
+          "sentenceWithBlank": "Our team is ready to @ @ @ to develop the next-generation smartphone.",
+          "fullEnglishSentence": "Our team is ready to 「undertake a major project」 to develop the next-generation smartphone.",
+          "chineseTranslation": "我们的团队已经准备好「承担一个重大项目」来开发下一代智能手机。",
+          "chinglishFix": "典型中式英语：'We will do a big project.' 纠正：'We will undertake a major project.'（'do'过于笼统，'undertake'更能体现正式承诺和责任。）"
+        },
+        {
+          "scene": "一位大学生在学术会议上向导师承诺将完成一项关于气候变化的数据分析任务。",
+          "chineseIdea": "学生想表达自己愿意接受这个任务，并保证认真完成，尽管任务有一定难度。",
+          "sentenceWithBlank": "I am willing to @ @ @ to analyze the climate data for the conference.",
+          "fullEnglishSentence": "I am willing to 「undertake a challenging task」 to analyze the climate data for the conference.",
+          "chineseTranslation": "我愿意「承担一个具有挑战性的任务」来为会议分析气候数据。",
+          "chinglishFix": "典型中式英语：'I will try a hard job.' 纠正：'I will undertake a challenging task.'（'try'和'job'显得不够正式，'undertake'和'task'更符合学术语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "保证或承诺某事",
+      "usage": "指以正式或法律的方式承诺某事，通常用于合同、协议或法律文件中，强调保证某事的履行。",
+      "collocations": ["contractual obligation", "legal responsibility", "formal agreement"],
+      "examples": [
+        {
+          "scene": "一家建筑公司在与客户签订合同时，承诺按照时间表完成一座新大楼的建设。",
+          "chineseIdea": "公司想表达他们正式承诺履行合同条款，确保项目按时完成。",
+          "sentenceWithBlank": "The company agreed to @ @ @ to complete the building on schedule.",
+          "fullEnglishSentence": "The company agreed to 「undertake a contractual obligation」 to complete the building on schedule.",
+          "chineseTranslation": "公司同意「承担合同义务」以按时完成大楼建设。",
+          "chinglishFix": "典型中式英语：'We promise to finish the work.' 纠正：'We undertake a contractual obligation to complete the work.'（'promise'过于口语化，'undertake'更适合正式合同场景。）"
+        },
+        {
+          "scene": "一位律师在法庭上代表客户承诺遵守法院的某些条件，例如提供相关文件。",
+          "chineseIdea": "律师想表达客户愿意承担法律上的责任，以满足法庭的要求。",
+          "sentenceWithBlank": "My client is prepared to @ @ @ to provide all necessary documents.",
+          "fullEnglishSentence": "My client is prepared to 「undertake a legal responsibility」 to provide all necessary documents.",
+          "chineseTranslation": "我的客户准备「承担法律责任」以提供所有必要的文件。",
+          "chinglishFix": "典型中式英语：'My client will give the documents.' 纠正：'My client will undertake a legal responsibility to provide the documents.'（'give'缺乏正式承诺的含义，'undertake'更贴合法律语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

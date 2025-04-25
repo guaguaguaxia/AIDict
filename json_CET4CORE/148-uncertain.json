@@ -1,0 +1,53 @@
+```json
+{
+  "word": "uncertain",
+  "definitions": [
+    {
+      "meaning": "不确定，不明确的（指某事的结果、情况或信息不清晰或未知）",
+      "usage": "常用于描述情况、结果、计划等由于缺乏信息或不可预测性而未定。可以用作形容词，修饰名词，或在be uncertain about/of结构中表示对某事的不确定感。",
+      "collocations": ["uncertain future", "uncertain outcome", "uncertain about", "uncertain times"],
+      "examples": [
+        {
+          "scene": "一位大学生在毕业前夕，正在考虑是否要继续深造还是找工作。朋友问他未来的计划，他感到迷茫。",
+          "chineseIdea": "他觉得自己未来的方向还不明确，无法给出一个确定的答案。",
+          "sentenceWithBlank": "When asked about his plans after graduation, he admitted that he was facing an @ @.",
+          "fullEnglishSentence": "When asked about his plans after graduation, he admitted that he was facing an 「uncertain future」.",
+          "chineseTranslation": "当被问到毕业后的计划时，他承认自己面临着一个「不确定的未来」。",
+          "chinglishFix": "典型中式英语：'My future is not sure.' 纠正：'My future is uncertain.'（'not sure' 更口语化，且常用于主观感受，而 'uncertain' 更正式，适合描述客观情况。）"
+        },
+        {
+          "scene": "一家公司在经济动荡时期发布了一份季度报告，投资者对公司是否能盈利感到担忧。",
+          "chineseIdea": "由于市场波动，投资者对公司本季度的表现结果不清楚。",
+          "sentenceWithBlank": "Investors were hesitant because the company’s @ @ remained unclear.",
+          "fullEnglishSentence": "Investors were hesitant because the company’s 「uncertain outcome」 remained unclear.",
+          "chineseTranslation": "投资者犹豫不决，因为公司的「不确定的结果」仍然不明朗。",
+          "chinglishFix": "典型中式英语：'The result is not certain.' 纠正：'The outcome is uncertain.'（'not certain' 语法正确但不地道，'uncertain outcome' 是更自然的搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "犹豫的，不自信的（指人对某事缺乏信心或拿不定主意）",
+      "usage": "常用于描述人的态度、行为或决定，特别是在面对选择或判断时表现出犹豫或缺乏把握。通常出现在be uncertain about/of或seem uncertain等结构中。",
+      "collocations": ["uncertain about", "uncertain of", "uncertain tone", "uncertain steps"],
+      "examples": [
+        {
+          "scene": "一位新员工在会议上被要求发表意见，但他对公司的业务还不够了解，显得有些犹豫。",
+          "chineseIdea": "他因为不熟悉情况，在发言时缺乏信心，显得不太确定。",
+          "sentenceWithBlank": "When asked for his opinion, he seemed @ @ the project details.",
+          "fullEnglishSentence": "When asked for his opinion, he seemed 「uncertain about」 the project details.",
+          "chineseTranslation": "当被要求发表意见时，他对项目细节显得「不太确定」。",
+          "chinglishFix": "典型中式英语：'I am not sure about this.' 纠正：'I am uncertain about this.'（'not sure' 过于口语化，'uncertain about' 更适合正式或书面语境。）"
+        },
+        {
+          "scene": "一位年轻人在商店里挑选礼物，面对多种选择时，他的声音透露出犹豫。",
+          "chineseIdea": "他因为不知道该选哪个礼物，语气中带着不确定。",
+          "sentenceWithBlank": "As he spoke to the shop assistant, his @ @ betrayed his hesitation.",
+          "fullEnglishSentence": "As he spoke to the shop assistant, his 「uncertain tone」 betrayed his hesitation.",
+          "chineseTranslation": "当他与店员交谈时，他的「不确定的语气」透露出他的犹豫。",
+          "chinglishFix": "典型中式英语：'His voice is not certain.' 纠正：'His tone is uncertain.'（'voice' 指嗓音，'tone' 更适合描述语气的特点。）"
+        }
+      ]
+    }
+  ]
+}
+```

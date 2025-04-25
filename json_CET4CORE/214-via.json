@@ -1,0 +1,53 @@
+```json
+{
+  "word": "via",
+  "definitions": [
+    {
+      "meaning": "通过某种方式、途径或媒介",
+      "usage": "用作介词，表示通过某种方式、工具或媒介来完成某事，常用于描述交通、通信或信息传递的途径。",
+      "collocations": ["travel by", "send by", "connect through", "access through"],
+      "examples": [
+        {
+          "scene": "小明计划去欧洲旅行，他想从上海飞到巴黎，但需要选择一个中转城市。",
+          "chineseIdea": "小明想通过某个城市作为中转站来完成他的旅行。",
+          "sentenceWithBlank": "He will fly to Paris @ @ Amsterdam.",
+          "fullEnglishSentence": "He will fly to Paris 「travel by」 Amsterdam.",
+          "chineseTranslation": "他将通过阿姆斯特丹「旅行」到巴黎。",
+          "chinglishFix": "典型中式英语：He go to Paris pass Amsterdam. 纠正：He will travel to Paris via Amsterdam."
+        },
+        {
+          "scene": "小红在公司需要发送一份紧急文件给客户，客户在另一个国家，她选择使用电子邮件。",
+          "chineseIdea": "小红想通过电子邮件快速将文件发送给客户。",
+          "sentenceWithBlank": "She sent the document to the client @ @ email.",
+          "fullEnglishSentence": "She sent the document to the client 「send by」 email.",
+          "chineseTranslation": "她通过电子邮件「发送」文件给客户。",
+          "chinglishFix": "典型中式英语：She send document to client with email. 纠正：She sent the document to the client via email."
+        }
+      ]
+    },
+    {
+      "meaning": "经过某个地点",
+      "usage": "用作介词，表示在旅途中经过某个地点，通常用于描述物理上的路线或路径。",
+      "collocations": ["pass through", "go through", "route through", "stop at"],
+      "examples": [
+        {
+          "scene": "李华和朋友计划一次自驾游，从北京到西安，他们决定在途中游览一些城市。",
+          "chineseIdea": "李华想在旅途中经过石家庄，短暂停留。",
+          "sentenceWithBlank": "Their road trip will @ @ Shijiazhuang on the way to Xi'an.",
+          "fullEnglishSentence": "Their road trip will 「pass through」 Shijiazhuang on the way to Xi'an.",
+          "chineseTranslation": "他们的自驾游将「经过」石家庄前往西安。",
+          "chinglishFix": "典型中式英语：They go Xi'an by Shijiazhuang. 纠正：They will travel to Xi'an via Shijiazhuang."
+        },
+        {
+          "scene": "张伟在规划一次国际商务旅行，他需要从上海到纽约，但想在伦敦停留一天。",
+          "chineseIdea": "张伟想在去纽约的途中在伦敦停留。",
+          "sentenceWithBlank": "He will fly to New York but @ @ London for a day.",
+          "fullEnglishSentence": "He will fly to New York but 「stop at」 London for a day.",
+          "chineseTranslation": "他将飞往纽约，但在伦敦「停留」一天。",
+          "chinglishFix": "典型中式英语：He go New York and stay London one day. 纠正：He will fly to New York via London, stopping for a day."
+        }
+      ]
+    }
+  ]
+}
+```
