@@ -1,0 +1,53 @@
+```json
+{
+  "word": "variety",
+  "definitions": [
+    {
+      "meaning": "多样性；不同种类",
+      "usage": "指事物在种类、类型或形式上的多样化，常用于描述多个不同的事物或选择。",
+      "collocations": ["wide variety", "great variety", "different varieties"],
+      "examples": [
+        {
+          "scene": "在一个超市里，你的朋友正在挑选水果，想买一些不同种类的水果来做果盘。",
+          "chineseIdea": "你想表达超市里有很多种水果可供选择，强调种类丰富。",
+          "sentenceWithBlank": "The supermarket offers a @ @ of fruits to choose from.",
+          "fullEnglishSentence": "The supermarket offers a 「wide variety」 of fruits to choose from.",
+          "chineseTranslation": "这家超市提供「种类繁多」的果选择。",
+          "chinglishFix": "典型中式英语：'The supermarket has many kinds of fruits.' 纠正：'The supermarket offers a wide variety of fruits.'（使用'variety'更自然，搭配'wide'更地道。）"
+        },
+        {
+          "scene": "你和同事讨论公司新推出的产品线，提到产品种类非常丰富。",
+          "chineseIdea": "你想说明公司提供了很多不同类型的产品，以吸引不同客户。",
+          "sentenceWithBlank": "Our company now provides a @ @ of products to meet diverse needs.",
+          "fullEnglishSentence": "Our company now provides a 「great variety」 of products to meet diverse needs.",
+          "chineseTranslation": "我们公司现在提供「种类繁多」的产品以满足不同需求。",
+          "chinglishFix": "典型中式英语：'Our company has many products.' 纠正：'Our company provides a great variety of products.'（'variety'更能体现种类多样，'great variety'是常用搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "品种；类型",
+      "usage": "指某一特定类别中的一个具体种类，常用于描述植物、动物或产品的具体类型。",
+      "collocations": ["new variety", "rare variety", "popular variety"],
+      "examples": [
+        {
+          "scene": "在园艺展览会上，你看到一种新培育的玫瑰花，吸引了很多人的注意。",
+          "chineseIdea": "你想表达这种玫瑰是一个新开发的品种，非常独特。",
+          "sentenceWithBlank": "The exhibition showcased a @ @ of roses that caught everyone’s attention.",
+          "fullEnglishSentence": "The exhibition showcased a 「new variety」 of roses that caught everyone’s attention.",
+          "chineseTranslation": "展览会上展示了一种「新品种」的玫瑰，吸引了所有人的注意。",
+          "chinglishFix": "典型中式英语：'The exhibition showed a new kind of rose.' 纠正：'The exhibition showcased a new variety of roses.'（'variety'更适合描述植物的品种，'showcased'更正式。）"
+        },
+        {
+          "scene": "在咖啡店，你发现他们新推出了一种罕见的咖啡豆，味道很独特。",
+          "chineseIdea": "你想说明这种咖啡豆是一个稀有的种类，吸引咖啡爱好者。",
+          "sentenceWithBlank": "This café introduced a @ @ of coffee beans with a unique flavor.",
+          "fullEnglishSentence": "This café introduced a 「rare variety」 of coffee beans with a unique flavor.",
+          "chineseTranslation": "这家咖啡店推出了一种「稀有品种」的咖啡豆，味道独特。",
+          "chinglishFix": "典型中式英语：'This café has a special coffee bean.' 纠正：'This café introduced a rare variety of coffee beans.'（'variety'更准确，'rare variety'是习惯搭配。）"
+        }
+      ]
+    }
+  ]
+}
+```
