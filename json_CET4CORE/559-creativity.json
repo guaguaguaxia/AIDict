@@ -1,0 +1,53 @@
+```json
+{
+  "word": "creativity",
+  "definitions": [
+    {
+      "meaning": "The ability to produce original and imaginative ideas, or to make something new or inventive.",
+      "usage": "This meaning refers to the mental process of generating novel ideas or solutions, often associated with artistic, intellectual, or problem-solving activities. It is commonly used in contexts like art, design, innovation, and personal expression.",
+      "collocations": ["spark creativity", "foster creativity", "unleash creativity"],
+      "examples": [
+        {
+          "scene": "在一间明亮的艺术教室里，学生们围坐在桌子旁，老师鼓励他们用各种颜色和材料创作独特的画作。每个人都在尝试用不同的方式表达自己的想法，气氛充满活力。",
+          "chineseIdea": "老师希望通过自由的艺术活动，让学生们能够激发出内心深处的独特想法，创造出令人惊喜的作品。",
+          "sentenceWithBlank": "The teacher used open-ended projects to @ @ in her students.",
+          "fullEnglishSentence": "The teacher used open-ended projects to 「spark creativity」 in her students.",
+          "chineseTranslation": "老师通过开放式的项目来「激发创造力」，让学生们发挥想象力。",
+          "chinglishFix": "Chinglish: 'The teacher let students have more creative.' Correct: 'The teacher encouraged students to spark their creativity.' Explanation: The word 'creative' is an adjective, not a noun, and 'have more creative' is vague. Using 'spark creativity' conveys the idea of igniting imaginative thinking."
+        },
+        {
+          "scene": "在一家科技公司的会议室里，团队成员正在头脑风暴，试图为新产品设计一个独特的广告活动。经理鼓励大家提出大胆的想法，不受传统限制。",
+          "chineseIdea": "经理希望通过轻松的讨论环境，让团队成员能够释放出他们的创新思维，提出与众不同的广告方案。",
+          "sentenceWithBlank": "The manager created a relaxed environment to @ @ in the team.",
+          "fullEnglishSentence": "The manager created a relaxed environment to 「unleash creativity」 in the team.",
+          "chineseTranslation": "经理营造了一个轻松的环境，以  「释放创造力」，让团队发挥想象力。",
+          "chinglishFix": "Chinglish: 'The manager helped team think new ideas.' Correct: 'The manager unleashed creativity in the team.' Explanation: 'Think new ideas' is too simplistic and not idiomatic. 'Unleash creativity' is a precise collocation that captures the act of freeing up imaginative potential."
+        }
+      ]
+    },
+    {
+      "meaning": "The use of imagination or original ideas to create something new, especially in the arts or problem-solving.",
+      "usage": "This meaning emphasizes the application of imaginative thinking to produce tangible outcomes, such as artwork, inventions, or innovative solutions. It is often used in professional or practical contexts like business, technology, or education.",
+      "collocations": ["boost creativity", "nurture creativity", "apply creativity"],
+      "examples": [
+        {
+          "scene": "在一个创业公司的办公室里，年轻的设计团队正在为一款新手机应用设计用户界面。他们尝试用大胆的颜色和独特的交互方式来吸引用户。",
+          "chineseIdea": "团队希望通过创新的设计理念，提升应用的吸引力，让用户感受到与众不同的体验。",
+          "sentenceWithBlank": "The design team used bold colors to @ @ in their app’s interface.",
+          "fullEnglishSentence": "The design team used bold colors to 「boost creativity」 in their app’s interface.",
+          "chineseTranslation": "设计团队使用大胆的颜色来「提升创造力」，使应用界面更具吸引力。",
+          "chinglishFix": "Chinglish: 'The team made the app more creative.' Correct: 'The team boosted creativity in the app’s design.' Explanation: 'More creative' is vague and doesn’t convey the active enhancement of imaginative output. 'Boost creativity' is a dynamic collocation for improving creative results."
+        },
+        {
+          "scene": "在一所小学的科学课上，老师让学生们设计一座能承受重量的纸桥。孩子们用不同的折叠方式和材料尝试，乐在其中。",
+          "chineseIdea": "老师希望通过这个实践活动，培养孩子们用想象力解决问题，创造出既实用又有趣的纸桥。",
+          "sentenceWithBlank": "The teacher designed a hands-on activity to @ @ in her students.",
+          "fullEnglishSentence": "The teacher designed a hands-on activity to 「nurture creativity」 in her students.",
+          "chineseTranslation": "老师设计了一个实践活动来「培养创造力」，让学生们发挥想象力。",
+          "chinglishFix": "Chinglish: 'The teacher helped students be creative.' Correct: 'The teacher nurtured creativity in her students.' Explanation: 'Be creative' is too general and lacks specificity. 'Nurture creativity' implies a careful, ongoing process of developing imaginative skills."
+        }
+      ]
+    }
+  ]
+}
+```

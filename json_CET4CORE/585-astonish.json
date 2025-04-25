@@ -1,0 +1,53 @@
+```json
+{
+  "word": "astonish",
+  "definitions": [
+    {
+      "meaning": "使惊讶；使震惊",
+      "usage": "用作及物动词，表示引起某人强烈的惊讶或震惊，常用于描述意想不到的事件、行为或结果对人的情感冲击。",
+      "collocations": ["astonish the audience", "astonish everyone", "astonish with talent"],
+      "examples": [
+        {
+          "scene": "在一场学校才艺表演中，一个平时安静的学生突然表演了一段令人叹为观止的魔术，让全场观众都惊呆了。",
+          "chineseIdea": "某个人的表现远远超出预期，让周围的人感到非常惊讶。",
+          "sentenceWithBlank": "Her incredible magic tricks @ @ @ at the school talent show.",
+          "fullEnglishSentence": "Her incredible magic tricks 「astonished the audience」 at the school talent show.",
+          "chineseTranslation": "她令人难以置信的魔术表演在学校才艺秀上「让观众震惊」。",
+          "chinglishFix": "典型中式英语：'Her magic let audience very surprise.' 纠正：'Her magic astonished the audience.'（避免直接翻译'让…惊讶'，使用astonish更符合英语表达习惯）"
+        },
+        {
+          "scene": "在一个家庭聚会上，平时不擅长烹饪的弟弟做了一道精美的法式甜点，让全家人都惊讶不已。",
+          "chineseIdea": "某人出乎意料地展示了一项隐藏的技能，让大家感到震惊。",
+          "sentenceWithBlank": "His dessert-making skills @ @ at the family gathering.",
+          "fullEnglishSentence": "His dessert-making skills 「astonished everyone」 at the family gathering.",
+          "chineseTranslation": "他的甜点制作技巧在家庭聚会上「让大家震惊」。",
+          "chinglishFix": "典型中式英语：'His dessert make everyone shock.' 纠正：'His dessert astonished everyone.'（避免使用'shock'，astonish更适合表示惊讶而非惊吓）"
+        }
+      ]
+    },
+    {
+      "meaning": "使瞠目结舌；使大吃一惊",
+      "usage": "用作及物动词，强调某事或某人的表现让人感到不可思议或难以置信，常用于描述令人震撼的能力或成就。",
+      "collocations": ["astonish with skills", "astonish by performance", "astonish through creativity"],
+      "examples": [
+        {
+          "scene": "在一次国际钢琴比赛中，一位年轻选手以完美的技巧和情感演绎了一首复杂的乐曲，让评委和观众都惊叹不已。",
+          "chineseIdea": "某人的专业技能或才华让人感到不可思议。",
+          "sentenceWithBlank": "The young pianist @ @ @ in the international competition.",
+          "fullEnglishSentence": "The young pianist 「astonished with skills」 in the international competition.",
+          "chineseTranslation": "这位年轻钢琴家在国际比赛中「以技巧令人震惊」。",
+          "chinglishFix": "典型中式英语：'His piano play very amazing.' 纠正：'He astonished with his piano skills.'（避免空洞的'amazing'，使用astonish更具体）"
+        },
+        {
+          "scene": "在一个艺术展览中，一位新晋艺术家的作品通过独特的创意和表现力，让参观者都感到震撼。",
+          "chineseIdea": "某人的创造力或艺术表现让人瞠目结舌。",
+          "sentenceWithBlank": "The new artist @ @ @ at the exhibition.",
+          "fullEnglishSentence": "The new artist 「astonished through creativity」 at the exhibition.",
+          "chineseTranslation": "这位新艺术家在展览中「通过创意令人震惊」。",
+          "chinglishFix": "典型中式英语：'His art make people surprise.' 纠正：'His art astonished through creativity.'（避免简单翻译'惊讶'，使用搭配更自然）"
+        }
+      ]
+    }
+  ]
+}
+```

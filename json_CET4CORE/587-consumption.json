@@ -1,0 +1,76 @@
+```json
+{
+  "word": "consumption",
+  "definitions": [
+    {
+      "meaning": "使用或消耗资源、商品或服务",
+      "usage": "指在日常生活或经济活动中使用或消耗物品、能源等资源，通常与购买或利用相关。",
+      "collocations": ["energy consumption", "fuel consumption", "consumer consumption", "water consumption"],
+      "examples": [
+        {
+          "scene": "一个家庭正在讨论如何降低家里的电费账单，关注电器的使用情况。",
+          "chineseIdea": "这个家庭希望通过减少不必要的用电来节约能源和金钱。",
+          "sentenceWithBlank": "Our household @ @ has decreased significantly since we started using energy-efficient appliances.",
+          "fullEnglishSentence": "Our household 「energy consumption」 hasThem decreased significantly since we started using energy-efficient appliances.",
+          "chineseTranslation": "自从我们开始使用节能电器后，我们家庭的「能源消耗」显著减少了。",
+          "chinglishFix": "典型中式英语：'Our home use energy less.' 纠正：'Our household energy consumption has decreased.'（使用正确的搭配和名词形式）"
+        },
+        {
+          "scene": "一位车主在汽车论坛上分享如何选择更省油的车型。",
+          "chineseIdea": "车主想通过选择燃油效率更高的车来减少汽油的使用。",
+          "sentenceWithBlank": "This car model is popular due to its low @ @.",
+          "fullEnglishSentence": "This car model is popular due to its low 「fuel consumption」.",
+          "chineseTranslation": "这款车型因其低「燃油消耗」而受到欢迎。",
+          "chinglishFix": "典型中式英语：'This car eat less oil.' 纠正：'This car has low fuel consumption.'（避免直译，使用正确的英语表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "消费行为（购买商品或服务）",
+      "usage": "指消费者在市场上购买商品或服务的行为，常用于经济或商业语境。",
+      "collocations": ["consumer consumption", "household consumption", "luxury consumption", "domestic consumption"],
+      "examples": [
+        {
+          "scene": "一个经济学家在分析一个国家的经济增长时，提到人们的购买习惯。",
+          "chineseIdea": "经济学家认为人们的购物行为对国家经济有重要影响。",
+          "sentenceWithBlank": "Rising @ @ is driving economic growth in the region.",
+          "fullEnglishSentence": "Rising 「consumer consumption」 is driving economic growth in the region.",
+          "chineseTranslation": "不断增长的「消费者消费」正在推动该地区的经济增长。",
+          "chinglishFix": "典型中式英语：'People buy more things help economy.' 纠正：'Rising consumer consumption is driving economic growth.'（使用专业术语和正确句式）"
+        },
+        {
+          "scene": "一家奢侈品商店在节假日促销时，吸引了大量顾客。",
+          "chineseIdea": "商店希望通过促销活动吸引更多人购买高价商品。",
+          "sentenceWithBlank": "The holiday season always boosts @ @ in this store.",
+          "fullEnglishSentence": "The holiday season always boosts 「luxury consumption」 in this store.",
+          "chineseTranslation": "节日季总是会提升这家店的「奢侈品消费」。",
+          "chinglishFix": "典型中式英语：'Holiday make people buy expensive things.' 纠正：'The holiday season boosts luxury consumption.'（使用精确的搭配和句式）"
+        }
+      ]
+    },
+    {
+      "meaning": "食用或饮用（食物或饮料）",
+      "usage": "指吃或喝某种食物或饮料，通常用于描述饮食行为，较为正式或书面化。",
+      "collocations": ["alcohol consumption", "meat consumption", "sugar consumption", "coffee consumption"],
+      "examples": [
+        {
+          "scene": "一位医生在给患者建议如何改善饮食习惯时，提到某些食物的摄入量。",
+          "chineseIdea": "医生建议减少某种食物的食用以改善健康。",
+          "sentenceWithBlank": "Reducing @ @ can help lower your risk of diabetes.",
+          "fullEnglishSentence": "Reducing 「sugar consumption」 can help lower your risk of diabetes.",
+          "chineseTranslation": "减少「糖摄入」可以降低患糖尿病的风险。",
+          "chinglishFix": "典型中式英语：'Eat less sugar good for health.' 纠正：'Reducing sugar consumption can help improve your health.'（使用正式表达和正确搭配）"
+        },
+        {
+          "scene": "一群朋友在讨论周末聚会时，提到饮酒的习惯。",
+          "chineseIdea": "朋友们希望在聚会上控制饮酒量以保持清醒。",
+          "sentenceWithBlank": "We decided to limit @ @ during the party to avoid any trouble.",
+          "fullEnglishSentence": "We decided to limit 「alcohol consumption」 during the party to avoid any trouble.",
+          "chineseTranslation": "我们决定在派对上限制「酒精摄入」以避免任何麻烦。",
+          "chinglishFix": "典型中式英语：'We drink less wine at party.' 纠正：'We decided to limit alcohol consumption during the party.'（使用正确的搭配和正式表达）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,91 @@
+```json
+{
+  "word": "appreciation",
+  "definitions": [
+    {
+      "meaning": "对某事物价值的认可或赞赏",
+      "usage": "指对某人、某事或某物的品质、价值或重要性的认可，通常带有感激或赞美的情感。常用于表达对艺术、文化、行为或努力的正面评价。",
+      "collocations": [
+        "show appreciation",
+        "express appreciation",
+        "deep appreciation",
+        "gain appreciation"
+      ],
+      "examples": [
+        {
+          "scene": "在一个公司的年会上，经理正在表彰一位员工的出色表现，同事们也对这位员工的努力表示认可。",
+          "chineseIdea": "想表达对某人工作的认可，并感谢他们的贡献，强调他们的努力对团队的重要性。",
+          "sentenceWithBlank": "During the annual meeting, the manager took a moment to @ @ for Sarah’s dedication to the project.",
+          "fullEnglishSentence": "During the annual meeting, the manager took a moment to 「show appreciation」 for Sarah’s dedication to the project.",
+          "chineseTranslation": "在年会上，经理停下来一刻，以「表示赞赏」Sarah对项目的奉献。",
+          "chinglishFix": "典型中式英语：'We very thank Sarah’s work.' 纠正：'We greatly appreciate Sarah’s efforts.'"
+        },
+        {
+          "scene": "一位学生在课堂上向老师表示感谢，因为老师花了很多时间帮助他理解复杂的数学概念。",
+          "chineseIdea": "想表达对老师耐心教导的感激，强调老师的帮助让自己更自信。",
+          "sentenceWithBlank": "After class, Tom approached the teacher to @ @ for her patient guidance.",
+          "fullEnglishSentence": "After class, Tom approached the teacher to 「express appreciation」 for her patient guidance.",
+          "chineseTranslation": "下课后，Tom走向老师，以「表达感激」她耐心的指导。",
+          "chinglishFix": "典型中式英语：'I very thank teacher’s help.' 纠正：'I truly appreciate the teacher’s help.'"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物更深刻的理解或领悟",
+      "usage": "指通过学习、观察或体验，对某事物（如文化、艺术、历史等）的意义或价值的更深入理解。常用于学术、文化或艺术领域。",
+      "collocations": [
+        "gain appreciation",
+        "develop appreciation",
+        "deep appreciation",
+        "new appreciation"
+      ],
+      "examples": [
+        {
+          "scene": "一位中国学生在英国留学期间，参加了当地的戏剧节，逐渐理解了莎士比亚作品的魅力。",
+          "chineseIdea": "想表达通过体验英国文化，对莎士比亚戏剧的意义有了更深的理解和喜爱。",
+          "sentenceWithBlank": "Living in the UK helped Li Mei @ @ for Shakespeare’s plays.",
+          "fullEnglishSentence": "Living in the UK helped Li Mei 「gain appreciation」 for Shakespeare’s plays.",
+          "chineseTranslation": "在英国的生活帮助李梅「获得欣赏」莎士比亚的戏剧。",
+          "chinglishFix": "典型中式英语：'I know Shakespeare better.' 纠正：'I’ve developed a deeper appreciation for Shakespeare.'"
+        },
+        {
+          "scene": "一位游客在参观故宫后，对中国传统建筑的复杂设计和历史背景有了更深的认识。",
+          "chineseIdea": "想表达通过参观历史遗迹，对中国传统建筑的精美和文化价值有了新的理解。",
+          "sentenceWithBlank": "Visiting the Forbidden City gave Zhang Wei a @ @ for traditional Chinese architecture.",
+          "fullEnglishSentence": "Visiting the Forbidden City gave Zhang Wei a 「new appreciation」 for traditional Chinese architecture.",
+          "chineseTranslation": "参观故宫让张伟对传统中国建筑有了「新的欣赏」。",
+          "chinglishFix": "典型中式英语：'I understand Chinese buildings now.' 纠正：'I have a newfound appreciation for Chinese architecture.'"
+        }
+      ]
+    },
+    {
+      "meaning": "价值的上升（如资产或货币）",
+      "usage": "在经济或金融领域，指资产、货币或投资的价值随时间增长。常用于描述房地产、股票或其他投资的增值。",
+      "collocations": [
+        "capital appreciation",
+        "price appreciation",
+        "asset appreciation",
+        "steady appreciation"
+      ],
+      "examples": [
+        {
+          "scene": "一位投资者在分析过去十年的房地产市场，发现自己购买的房子价值显著增加。",
+          "chineseIdea": "想表达房子的市场价值随着时间稳步增长，强调投资的回报。",
+          "sentenceWithBlank": "Over the past decade, the housing market has seen significant @ @ in major cities.",
+          "fullEnglishSentence": "Over the past decade, the housing market has seen significant 「price appreciation」 in major cities.",
+          "chineseTranslation": "在过去十年中，住房市场在大城市中经历了显著的「价格上涨」。",
+          "chinglishFix": "典型中式英语：'House price become high.' 纠正：'The house prices have appreciated significantly.'"
+        },
+        {
+          "scene": "一位金融顾问向客户解释投资股票的好处，强调长期投资可能带来的价值增长。",
+          "chineseIdea": "想表达通过长期持有股票，资产的价值可能会稳步增加。",
+          "sentenceWithBlank": "Long-term investments in stable companies often lead to @ @ over time.",
+          "fullEnglishSentence": "Long-term investments in stable companies often lead to 「capital appreciation」 over time.",
+          "chineseTranslation": "在稳定公司的长期投资通常会随着时间带来「资本增值」。",
+          "chinglishFix": "典型中式英语：'Stock money grow up.' 纠正：'Stocks can lead to capital appreciation over time.'"
+        }
+      ]
+    }
+  ]
+}
+```
