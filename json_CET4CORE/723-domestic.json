@@ -1,0 +1,76 @@
+```json
+{
+  "word": "domestic",
+  "definitions": [
+    {
+      "meaning": "与家庭或家务相关的",
+      "usage": "指与家庭、家居生活或家务活动相关的事物，常用于描述家庭内部的事务、环境或角色。",
+      "collocations": ["domestic chores", "domestic life", "domestic environment"],
+      "examples": [
+        {
+          "scene": "一个周末的早晨，小明在家里帮妈妈打扫房间，擦窗户，整理厨房。",
+          "chineseIdea": "小明想表达自己参与了家里的日常清洁工作，觉得这些活动让家里更温馨。",
+          "sentenceWithBlank": "On weekends, I often help with @ @ to keep the house tidy.",
+          "fullEnglishSentence": "On weekends, I often help with 「domestic chores」 to keep the house tidy.",
+          "chineseTranslation": "周末我经常帮忙做「家务活」来保持房子整洁。",
+          "chinglishFix": "典型中式英语：'I do house work to clean home.' 纠正：'I help with domestic chores to keep the house tidy.'（避免直译'house work'，用更自然的搭配'domestic chores'）"
+        },
+        {
+          "scene": "小红和她的丈夫讨论如何平衡工作和家庭生活，决定轮流做饭和照顾孩子。",
+          "chineseIdea": "小红想表达她和丈夫共同努力营造和谐的家庭生活，注重彼此的责任分担。",
+          "sentenceWithBlank": "We share responsibilities to maintain a harmonious @ @.",
+          "fullEnglishSentence": "We share responsibilities to maintain a harmonious 「domestic life」.",
+          "chineseTranslation": "我们分担责任以维持和谐的「家庭生活」。",
+          "chinglishFix": "典型中式英语：'We keep family life good.' 纠正：'We share responsibilities to maintain a harmonious domestic life.'（避免模糊的'good'，用'domestic life'更具体）"
+        }
+      ]
+    },
+    {
+      "meaning": "本国的，国内的",
+      "usage": "指与国家内部相关的事物，如经济、政策、产品等，区别于国际或外国的。",
+      "collocations": ["domestic market", "domestic policy", "domestic production"],
+      "examples": [
+        {
+          "scene": "李先生在一家公司工作，负责分析中国市场的销售数据，以制定更好的营销策略。",
+          "chineseIdea": "李先生想说明他的工作重点是了解中国消费者的需求，而不是海外市场。",
+          "sentenceWithBlank": "My team focuses on analyzing the @ @ to improve our sales strategy.",
+          "fullEnglishSentence": "My team focuses on analyzing the 「domestic market」 to improve our sales strategy.",
+          "chineseTranslation": "我的团队专注于分析「国内市场」以改进我们的销售策略。",
+          "chinglishFix": "典型中式英语：'We study home market.' 纠正：'We focus on analyzing the domestic market.'（避免'home market'，用'domestic market'更专业）"
+        },
+        {
+          "scene": "政府发布了一项新政策，鼓励本地企业增加制造能力，减少对进口的依赖。",
+          "chineseIdea": "政府希望通过政策支持本国制造业的发展，提升经济自给自足能力。",
+          "sentenceWithBlank": "The new regulations aim to boost @ @ and reduce reliance on imports.",
+          "fullEnglishSentence": "The new regulations aim to boost 「domestic production」 and reduce reliance on imports.",
+          "chineseTranslation": "新法规旨在促进「国内生产」并减少对进口的依赖。",
+          "chinglishFix": "典型中式英语：'The policy helps local produce.' 纠正：'The regulations aim to patiently boost domestic production.'（避免不准确的'local produce'，用'domestic production'更贴切）"
+        }
+      ]
+    },
+    {
+      "meaning": "家养的（动物）",
+      "usage": "指被人类驯养的动物，如宠物或家畜，区别于野生动物。",
+      "collocations": ["domestic animals", "domestic pets", "domestic cat"],
+      "examples": [
+        {
+          "scene": "张阿姨在家里养了一只小猫，每天喂它猫粮，还带它去宠物医院检查。",
+          "chineseIdea": "张阿姨想表达她养的猫是家养的，性格温顺，很适合家庭生活。",
+          "sentenceWithBlank": "My cat is one of the most affectionate @ @ I’ve ever had.",
+          "fullEnglishSentence": "My cat is one of the most affectionate 「domestic pets」 I’ve ever had.",
+          "chineseTranslation": "我的猫是我养过的最亲人的「家养宠物」之一。",
+          "chinglishFix": "典型中式英语：'My cat is a home pet.' 纠正：'My cat is one of the most affectionate domestic pets.'（避免'home pet'，用'domestic pets'更自然）"
+        },
+        {
+          "scene": "在农村，老王家养了几只鸡和一只狗，这些动物都和家人相处得很融洽。",
+          "chineseIdea": "老王想说明他家养的动物不是野生的，而是适应了人类的生活环境。",
+          "sentenceWithBlank": "Our farm is home to several @ @ that live comfortably with us.",
+          "fullEnglishSentence": "Our farm is home to several 「domestic animals」 that live comfortably with us.",
+          "chineseTranslation": "我们的农场养了几只「家养动物」，它们和我们生活得很融洽。",
+          "chinglishFix": "典型中式英语：'We have animals at home.' 纠正：'Our farm is home to several domestic animals.'（避免模糊的'animals at home'，用'domestic animals'更精确）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "discharge",
+  "definitions": [
+    {
+      "meaning": "释放、排放（液体、气体、废物等）",
+      "usage": "指将液体、气体或其他物质从某一容器或地方释放或排放出去，常用于描述工业、医疗或自然过程。",
+      "collocations": ["discharge waste", "discharge water", "discharge pollutants"],
+      "examples": [
+        {
+          "scene": "在一个化工厂的会议室里，工程师们正在讨论如何减少工厂对附近河流的污染。环保法规要求他们必须妥善处理废物排放。",
+          "chineseIdea": "工厂需要将生产过程中产生的废液或废气安全地释放或处理，以避免污染环境。",
+          "sentenceWithBlank": "The factory was fined for illegally @ @ into the river.",
+          "fullEnglishSentence": "The factory was fined for illegally 「discharge waste」 into the river.",
+          "chineseTranslation": "这家工厂因非法向河中「排放废物」而被罚款。",
+          "chinglishFix": "典型中式英语：'The factory throw waste to the river.' 纠正：'The factory discharges waste into the river.'（避免使用'throw'，改为'discharge'以准确表达排放行为）"
+        },
+        {
+          "scene": "在一个水处理厂的控制室，技术人员正在监控从处理系统排放到湖泊中的水质，确保符合环保标准。",
+          "chineseIdea": "经过净化后的水需要被安全地释放到自然水体中，确保不会对生态系统造成影响。",
+          "sentenceWithBlank": "The treatment plant ensures that only clean @ @ is released into the lake.",
+          "fullEnglishSentence": "The treatment plant ensures that only clean 「discharge water」 is released into the lake.",
+          "chineseTranslation": "处理厂确保只有干净的「排放水」被释放到湖中。",
+          "chinglishFix": "典型中式英语：'The plant put water to the lake.' 纠正：'The plant discharges water into the lake.'（'put'不适合描述水流排放，'discharge'更贴切）"
+        }
+      ]
+    },
+    {
+      "meaning": "出院（从医院离开）",
+      "usage": "指患者在完成治疗或恢复后被允许离开医院，通常用于医疗场景。",
+      "collocations": ["discharge a patient", "discharge from hospital", "discharge after treatment"],
+      "examples": [
+        {
+          "scene": "在一家医院的病房里，医生正在和一位刚做完手术的患者家属交谈，告知他们患者恢复良好，可以准备出院了。",
+          "chineseIdea": "患者在手术后恢复得很好，医生认为他可以离开医院回家休养了。",
+          "sentenceWithBlank": "The doctor decided to @ @ @ after confirming the surgery was successful.",
+          "fullEnglishSentence": "The doctor decided to 「discharge a patient」 after confirming the surgery was successful.",
+          "chineseTranslation": "医生在确认手术成功后决定「让患者出院」。",
+          "chinglishFix": "典型中式英语：'The doctor let the patient leave hospital.' 纠正：'The doctor discharged the patient from the hospital.'（'discharge'是医疗场景的正式用词，'leave hospital'不够专业）"
+        },
+        {
+          "scene": "在急诊室的护士站，一位护士正在整理文件，确认一位因轻微骨折入院的患者可以在当天出院。",
+          "chineseIdea": "患者因轻伤住院，经过治疗后情况稳定，可以在当天离开医院。",
+          "sentenceWithBlank": "The nurse prepared the paperwork for the patient’s @ @ @.",
+          "fullEnglishSentence": "The nurse prepared the paperwork for the patient’s 「discharge from hospital」.",
+          "chineseTranslation": "护士为患者的「出院」准备了文件。",
+          "chinglishFix": "典型中式英语：'The nurse ready the paper for patient go home.' 纠正：'The nurse prepared the paperwork for the patient’s discharge from hospital.'（避免直译'go home'，使用'discharge'体现医疗流程）"
+        }
+      ]
+    },
+    {
+      "meaning": "履行、执行（职责、义务等）",
+      "usage": "指完成或执行某项职责、任务或义务，常用于正式或法律场景。",
+      "collocations": ["discharge a duty", "discharge an obligation", "discharge responsibilities"],
+      "examples": [
+        {
+          "scene": "在一间律师事务所的会议室，律师正在向客户解释合同条款，强调他们必须履行合同中的义务。",
+          "chineseIdea": "合同要求双方必须完成各自的职责，否则可能面临法律后果。",
+          "sentenceWithBlank": "The lawyer advised the client to @ @ @ to avoid legal issues.",
+          "fullEnglishSentence": "The lawyer advised the client to 「discharge a duty」 to avoid legal issues.",
+          "chineseTranslation": "律师建议客户「履行职责」以避免法律问题。",
+          "chinglishFix": "典型中式英语：'The lawyer tell client to do his job.' 纠正：'The lawyer advised the client to discharge his duty.'（'do his job'过于口语化，'discharge a duty'更正式且贴合法律场景）"
+        },
+        {
+          "scene": "在一所学校的教务会议上，校长正在表扬一位老师，因为她在疫情期间出色地完成了教学任务。",
+          "chineseIdea": "老师在特殊时期依然认真完成了她的教学职责，得到了校长的认可。",
+          "sentenceWithBlank": "The principal praised the teacher for diligently @ @ @ during the pandemic.",
+          "fullEnglishSentence": "The principal praised the teacher for diligently 「discharge responsibilities」 during the pandemic.",
+          "chineseTranslation": "校长表扬这位老师在疫情期间认真「履行职责」。",
+          "chinglishFix": "典型中式英语：'The principal say teacher do good work.' 纠正：'The principal praised the teacher for discharging her responsibilities.'（'do good work'不够具体，'discharge responsibilities'更准确）"
+        }
+      ]
+    }
+  ]
+}
+```

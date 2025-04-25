@@ -1,0 +1,53 @@
+```json
+{
+  "word": "domination",
+  "definitions": [
+    {
+      "meaning": "控制、统治",
+      "usage": "指在某个领域、地区或群体中占据主导地位，通常带有强制性或压倒性的力量。常用于描述政治、军事、体育或商业等场景。",
+      "collocations": ["assert domination", "maintain domination", "achieve domination"],
+      "examples": [
+        {
+          "scene": "在一场国际象棋锦标赛中，一位选手连续击败对手，展现出无人能敌的实力。",
+          "chineseIdea": "这位选手通过高超的技巧和策略，完全掌控了比赛节奏，让对手毫无还手之力。",
+          "sentenceWithBlank": "The grandmaster was able to @ @ in the tournament by outsmarting every opponent.",
+          "fullEnglishSentence": "The grandmaster was able to 「assert domination」 in the tournament by outsmarting every opponent.",
+          "chineseTranslation": "这位国际象棋大师通过智胜每个对手，在锦标赛中「确立了统治地位」。",
+          "chinglishFix": "典型中式英语：'He controlled the game very strong.' 纠正：'He asserted domination in the game.'（避免直接翻译'控制'，使用更自然的搭配）"
+        },
+        {
+          "scene": "一家科技公司在智能手机市场中占据了领先地位，迫使竞争对手难以追赶。",
+          "chineseIdea": "这家公司凭借创新产品和市场策略，牢牢占据市场主导地位。",
+          "sentenceWithBlank": "The tech giant continues to @ @ in the smartphone industry with cutting-edge innovations.",
+          "fullEnglishSentence": "The tech giant continues to 「maintain domination」 in the smartphone industry with cutting-edge innovations.",
+          "chineseTranslation": "这家科技巨头凭借尖端创新，继续在智能手机行业中「保持统治地位」。",
+          "chinglishFix": "典型中式英语：'The company is very strong in the market.' 纠正：'The company maintains domination in the market.'（使用'维持统治'的搭配更符合英语表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "支配、压倒",
+      "usage": "指在竞争或互动中完全压制对方，强调一种压倒性的优势。常用于体育、辩论或个人关系等场景。",
+      "collocations": ["exercise domination", "establish domination", "complete domination"],
+      "examples": [
+        {
+          "scene": "在一场足球比赛中，主队从开场就掌控局面，轻松击败客队。",
+          "chineseIdea": "主队通过快速进攻和严密防守，让对手几乎没有机会反击。",
+          "sentenceWithBlank": "The home team managed to @ @ over their rivals with relentless attacks.",
+          "fullEnglishSentence": "The home team managed to 「exercise domination」 over their rivals with relentless attacks.",
+          "chineseTranslation": "主队通过不懈的进攻，对对手「施加了压倒性优势」。",
+          "chinglishFix": "典型中式英语：'The team controlled the match very well.' 纠正：'The team exercised domination over the match.'（避免泛泛的'控制'，使用更精准的搭配）"
+        },
+        {
+          "scene": "在一场激烈的辩论赛中，一位选手凭借逻辑严密的论点让对手哑口无言。",
+          "chineseIdea": "这位辩手通过清晰的表达和有力的证据，完全压制了对方。",
+          "sentenceWithBlank": "The debater was able to @ @ in the competition with sharp arguments.",
+          "fullEnglishSentence": "The debater was able to 「establish domination」 in the competition with sharp arguments.",
+          "chineseTranslation": "这位辩手凭借犀利的论点，在比赛中「确立了压倒性优势」。",
+          "chinglishFix": "典型中式英语：'He won the debate very strongly.' 纠正：'He established domination in the debate.'（避免直接翻译'赢得很强'，使用更自然的搭配）"
+        }
+      ]
+    }
+  ]
+}
+```
