@@ -67,7 +67,7 @@ def AIChat(word, model, api_key):
     {
       "meaning": "含义1",
       "usage": "用法描述1",
-      "collocations": ["常见搭配1", "常见搭配2", "常见搭配3",....],
+      "collocations": ["包含此单词的常见搭配1", "包含此单词的常见搭配2", "包含此单词的常见搭配3",....],
       "examples": [
         {
           "scene": "详细的中文场景描述1",
@@ -92,7 +92,7 @@ def AIChat(word, model, api_key):
 }
 
 请确保：
-1. 如果该词有多个意思或用法，请确保列举所有常见的含义。
+1. 如果该词有多个意思或用法，请确保列举所有含义。
 2. 根据词汇的不同意思，分开列举每个意思的典型用法。 对于每个意思，提供两个具体的使用场景和例句。
 3. 除了完整的英文句子外，其他元素不要提及此词汇。
 4. 在展示语境时，请结合词汇的常见搭配（Collocations），这些搭配在学习词汇时至关重要，因为它们体现了自然语言使用中的习惯搭配。
@@ -309,7 +309,9 @@ if __name__ == '__main__':
     API_KEY = options.API_KEY
     START_ALPHA_LIST = options.START_ALPHA_LIST
     get_json_data(API_KEY, START_ALPHA_LIST)
-
+    # response = AIChat("massive","grok-3","sk-maJvHUczwYssraal7cDa6f8460E941A09a8f8cB7789b3d6a")
+    # content = response['choices'][0]['message']['content']
+    # print(response)
     # remove_first_last_lines("./json_CET4CORE", ['.json'])
     # json_to_csv("./json_CET4CORE", "1.csv")
 
