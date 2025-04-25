@@ -1,0 +1,53 @@
+```json
+{
+  "word": "explicitly",
+  "definitions": [
+    {
+      "meaning": "清楚地、明确地（以清晰、无歧义的方式表达或说明）",
+      "usage": "常用于描述某人以直接、毫不含糊的方式表达意图、规则或要求，通常出现在正式或需要清晰沟通的语境中，如法律文件、指令或学术讨论。",
+      "collocations": ["state clearly", "define clearly", "instruct clearly"],
+      "examples": [
+        {
+          "scene": "在一个公司的员工培训会上，经理正在向新员工介绍公司的行为准则，希望确保每个人都明白规则。",
+          "chineseIdea": "经理想要清楚地传达公司的期望，避免任何误解，确保员工明白行为准则的具体要求。",
+          "sentenceWithBlank": "The manager @ @ the company’s code of conduct to avoid any confusion.",
+          "fullEnglishSentence": "The manager 「stated clearly」 the company’s code of conduct to avoid any confusion.",
+          "chineseTranslation": "经理「清楚地说明」了公司的行为准则，以避免任何混淆。",
+          "chinglishFix": "典型中式英语：'The manager said the rules very clear.' 纠正：'The manager stated the rules clearly.'（需使用副词形式并搭配适当动词，如state或explain）"
+        },
+        {
+          "scene": "在一所学校的课堂上，老师正在布置一项小组作业，要求学生明确地定义他们的研究课题。",
+          "chineseIdea": "老师希望学生能够清晰地描述他们的研究主题，以便后续工作有明确方向。",
+          "sentenceWithBlank": "The teacher asked the students to @ @ their research topics before starting the project.",
+          "fullEnglishSentence": "The teacher asked the students to 「define clearly」 their research topics before starting the project.",
+          "chineseTranslation": "老师要求学生在开始项目前「清楚地定义」他们的研究主题。",
+          "chinglishFix": "典型中式英语：'The teacher asked students to clear define their topics.' 纠正：'The teacher asked students to clearly define their topics.'（clear应为副词clearly，且放在动词前）"
+        }
+      ]
+    },
+    {
+      "meaning": "直白地（以毫不掩饰或直截了当的方式表达，尤指在敏感或争议话题上）",
+      "usage": "用于描述某人以直白、甚至可能略显大胆的方式表达观点或情感，常出现在讨论敏感话题、艺术作品或公开声明的语境中。",
+      "collocations": ["express openly", "describe graphically", "address directly"],
+      "examples": [
+        {
+          "scene": "在一场公开辩论中，一位演讲者正在讨论社会不公问题，直言不讳地表达自己的观点。",
+          "chineseIdea": "演讲者希望通过直白的语言让听众深刻理解问题的严重性，不回避敏感细节。",
+          "sentenceWithBlank": "The speaker @ @ her views on social inequality during the debate.",
+          "fullEnglishSentence": "The speaker 「expressed openly」 her views on social inequality during the debate.",
+          "chineseTranslation": "演讲者在辩论中「直白地表达」了她对社会不平等的看法。",
+          "chinglishFix": "典型中式英语：'The speaker said her opinions very open.' 纠正：'The speaker expressed her opinions openly.'（使用express而非say，且open应为副词openly）"
+        },
+        {
+          "scene": "在一部纪录片中，导演用非常直接的方式描述了一个历史事件的残酷细节。",
+          "chineseIdea": "导演希望通过直白的叙述方式，让观众感受到事件的真实冲击力。",
+          "sentenceWithBlank": "The documentary @ @ the harsh realities of the historical event.",
+          "fullEnglishSentence": "The documentary 「described graphically」 the harsh realities of the historical event.",
+          "chineseTranslation": "这部纪录片「直白地描述」了历史事件的残酷现实。",
+          "chinglishFix": "典型中式英语：'The documentary described the event very vivid.' 纠正：'The documentary described the event graphically.'（vivid不适用于此，应使用graphically表示直白且生动）"
+        }
+      ]
+    }
+  ]
+}
+```

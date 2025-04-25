@@ -1,0 +1,53 @@
+```json
+{
+  "word": "expert",
+  "definitions": [
+    {
+      "meaning": "在某一领域具有专业知识或技能的人",
+      "usage": "指某人因经验或训练在特定领域表现出色，通常作名词使用，强调专业性和权威性。",
+      "collocations": ["subject matter expert", "industry expert", "technical expert"],
+      "examples": [
+        {
+          "scene": "在一场关于人工智能的国际会议上，主持人介绍了一位在深度学习领域有多年研究经验的学者。",
+          "chineseIdea": "想表达某人在某个专业领域非常权威，值得信赖。",
+          "sentenceWithBlank": "The keynote speaker is a renowned @ @ @ in deep learning.",
+          "fullEnglishSentence": "The keynote speaker is a renowned 「subject matter expert」 in deep learning.",
+          "chineseTranslation": "主讲人是一位在深度学习领域知名的「学科专家」。",
+          "chinglishFix": "典型中式英语：'He is a very professional person in AI.' 纠正：'He is a subject matter expert in AI.'（避免空洞的'professional'，用具体搭配突出专业性）"
+        },
+        {
+          "scene": "一家科技公司正在招聘，希望找到一位在云计算方面有丰富经验的人来领导新项目。",
+          "chineseIdea": "想描述某人在特定行业内有深入的专业知识，能够胜任高级职位。",
+          "sentenceWithBlank": "We need an @ @ to lead our cloud computing initiatives.",
+          "fullEnglishSentence": "We need an 「industry expert」 to lead our cloud computing initiatives.",
+          "chineseTranslation": "我们需要一位「行业专家」来领导我们的云计算项目。",
+          "chinglishFix": "典型中式英语：'We need a person good at cloud computing.' 纠正：'We need an industry expert in cloud computing.'（用搭配'industry expert'更显地道，避免泛泛的'good at'）"
+        }
+      ]
+    },
+    {
+      "meaning": "精通某事的，具有高超技能的",
+      "usage": "作形容词使用，描述某人在某方面非常熟练或擅长，强调技能的娴熟程度。",
+      "collocations": ["expert knowledge", "expert advice", "expert skills"],
+      "examples": [
+        {
+          "scene": "一位朋友向你请教如何优化她的投资组合，她知道你在金融市场分析方面非常擅长。",
+          "chineseIdea": "想表达某人在某个领域有深入的了解，能够提供专业建议。",
+          "sentenceWithBlank": "She sought my @ @ on portfolio diversification.",
+          "fullEnglishSentence": "She sought my 「expert advice」 on portfolio diversification.",
+          "chineseTranslation": "她向我寻求关于投资组合多样化的「专业建议」。",
+          "chinglishFix": "典型中式英语：'She asked me for some good ideas about investment.' 纠正：'She sought my expert advice on investment.'（'expert advice'更精确，体现专业性）"
+        },
+        {
+          "scene": "在一家汽车修理厂，客户对一位技师修复复杂引擎问题的能力赞不绝口。",
+          "chineseIdea": "想突出某人在技术领域的高超技艺，令人信服。",
+          "sentenceWithBlank": "The mechanic demonstrated @ @ in fixing the engine.",
+          "fullEnglishSentence": "The mechanic demonstrated 「expert skills」 in fixing the engine.",
+          "chineseTranslation": "这位技师在修理引擎时展现了「专业技能」。",
+          "chinglishFix": "典型中式英语：'He is very good at fixing engines.' 纠正：'He demonstrated expert skills in fixing engines.'（用'expert skills'更具体，突出技艺）"
+        }
+      ]
+    }
+  ]
+}
+```

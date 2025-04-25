@@ -1,0 +1,76 @@
+```json
+{
+  "word": "engage",
+  "definitions": [
+    {
+      "meaning": "参与或投入（某项活动、讨论等）",
+      "usage": "指积极参与某项活动、讨论或任务，通常带有主动性和专注的含义，常用于描述社交、学术或职业场景。",
+      "collocations": ["engage in conversation", "engage in a project", "engage with the audience"],
+      "examples": [
+        {
+          "scene": "在一个学术研讨会上，一位学生主动与教授讨论研究话题，展现出浓厚的兴趣。",
+          "chineseIdea": "学生想要表达自己对研究话题的热情参与，并且希望与教授深入交流。",
+          "sentenceWithBlank": "During the seminar, she was eager to @ @ @ with the professor to share her insights.",
+          "fullEnglishSentence": "During the seminar, she was eager to 「engage in conversation」 with the professor to share her insights.",
+          "chineseTranslation": "在研讨会上，她渴望与教授「进行交谈」以分享她的见解。",
+          "chinglishFix": "中式英语：She wants to talk with the professor actively. 纠正：She wants to 「engage in conversation」 with the professor to share her ideas actively."
+        },
+        {
+          "scene": "在公司会议中，一名员工积极参与一个新项目的规划，提出创新建议。",
+          "chineseIdea": "员工希望表达自己对新项目的投入和贡献，展现团队合作精神。",
+          "sentenceWithBlank": "He volunteered to @ @ @ to contribute innovative ideas.",
+          "fullEnglishSentence": "He volunteered to 「engage in a project」 to contribute innovative ideas.",
+          "chineseTranslation": "他自愿「参与一个项目」以贡献创新想法。",
+          "chinglishFix": "中式英语：He wants to join the project hardly. 纠正：He wants to 「engage in a project」 enthusiastically to contribute ideas."
+        }
+      ]
+    },
+    {
+      "meaning": "吸引或保持（注意力、兴趣等）",
+      "usage": "指通过内容、活动或方式吸引并保持他人的注意力或兴趣，常用于教育、娱乐或营销场景。",
+      "collocations": ["engage the audience", "engage students", "engage customers"],
+      "examples": [
+        {
+          "scene": "在一堂英语课上，老师通过互动游戏吸引学生的注意力，让课堂更加生动。",
+          "chineseIdea": "老师希望通过有趣的方式让学生专注于课堂内容，提升学习效果。",
+          "sentenceWithBlank": "The teacher used interactive games to @ @ @ during the lesson.",
+          "fullEnglishSentence": "The teacher used interactive games to 「engage students」 during the lesson.",
+          "chineseTranslation": "老师使用互动游戏来「吸引学生」在课堂上的注意力。",
+          "chinglishFix": "中式英语：The teacher makes students interesting. 纠正：The teacher uses games to 「engage students」 and make the lesson interesting."
+        },
+        {
+          "scene": "在一次产品发布会上，演讲者通过生动的故事吸引观众的兴趣。",
+          "chineseIdea": "演讲者希望通过引人入胜的内容让观众对产品产生兴趣。",
+          "sentenceWithBlank": "The presenter told vivid stories to @ @ @ at the product launch.",
+          "fullEnglishSentence": "The presenter told vivid stories to 「engage the audience」 at the product launch.",
+          "chineseTranslation": "演讲者在产品发布会上通过生动的故事「吸引观众」。",
+          "chinglishFix": "中式英语：The presenter speaks to make audience happy. 纠正：The presenter uses stories to 「engage the audience」 effectively."
+        }
+      ]
+    },
+    {
+      "meaning": "订婚",
+      "usage": "指两个人正式同意结婚，通常用于浪漫关系中，带有正式承诺的含义。",
+      "collocations": ["get engaged to", "be engaged to", "announce engagement"],
+      "examples": [
+        {
+          "scene": "在一场浪漫的晚餐后，男友向女友求婚，女友欣然接受。",
+          "chineseIdea": "表达两个人决定步入婚姻的承诺，充满浪漫和幸福。",
+          "sentenceWithBlank": "After a romantic dinner, he proposed, and they decided to @ @ @.",
+          "fullEnglishSentence": "After a romantic dinner, he proposed, and they decided to 「get engaged to」 each other.",
+          "chineseTranslation": "在浪漫的晚餐后，他求婚了，他们决定「订婚」。",
+          "chinglishFix": "中式英语：They want to marry soon. 纠正：They decided to 「get engaged to」 each other as a step toward marriage."
+        },
+        {
+          "scene": "一对情侣在社交媒体上分享他们订婚的喜讯，收到亲友的祝福。",
+          "chineseIdea": "情侣希望公开宣布他们的订婚，分享幸福时刻。",
+          "sentenceWithBlank": "The couple was thrilled to @ @ on social media.",
+          "fullEnglishSentence": "The couple was thrilled to 「announce engagement」 on social media.",
+          "chineseTranslation": "这对情侣兴奋地在社交媒体上「宣布订婚」。",
+          "chinglishFix": "中式英语：They tell everyone they will marry. 纠正：They 「announce engagement」 to share their commitment."
+        }
+      ]
+    }
+  ]
+}
+```
