@@ -1,0 +1,53 @@
+```json
+{
+  "word": "easygoing",
+  "definitions": [
+    {
+      "meaning": "性格随和、轻松、不苛求",
+      "usage": "形容一个人性格温和，容易相处，不拘小节，面对压力或变化时态度放松。",
+      "collocations": ["easygoing personality", "easygoing attitude", "easygoing nature"],
+      "examples": [
+        {
+          "scene": "在公司里，大家正在讨论一个紧张的项目deadline。同事们都很焦虑，但有一个人总是保持冷静，乐于接受变化，并鼓励大家放松。",
+          "chineseIdea": "这个人的性格让人感到舒服，他不急躁，愿意倾听别人的意见，面对压力也能保持乐观。",
+          "sentenceWithBlank": "Everyone admires her @ @ because she stays calm under pressure.",
+          "fullEnglishSentence": "Everyone admires her 「easygoing personality」 because she stays calm under pressure.",
+          "chineseTranslation": "大家都羡慕她的「随和性格」，因为她在压力下仍能保持冷静。",
+          "chinglishFix": "典型中式英语：'She is very relax personality.' 纠正：'She has a very easygoing personality.'"
+        },
+        {
+          "scene": "在一个朋友聚会上，有人提议临时改变计划去另一个地方玩。其他人有些犹豫，但有一个人立刻同意，并表示只要大家开心就好。",
+          "chineseIdea": "这个人不计较细节，愿意随大流，总是让周围的人感到轻松。",
+          "sentenceWithBlank": "His @ @ makes group outings so much fun.",
+          "fullEnglishSentence": "His 「easygoing attitude」 makes group outings so much fun.",
+          "chineseTranslation": "他的「随和态度」让集体出游变得非常有趣。",
+          "chinglishFix": "典型中式英语：'He is very casual to make fun.' 纠正：'His easygoing attitude makes things fun.'"
+        }
+      ]
+    },
+    {
+      "meaning": "生活方式或处事方式轻松、不严格",
+      "usage": "描述某人的生活方式或处理事情的方式不拘泥于规则，节奏较慢，强调悠闲或不强求。",
+      "collocations": ["easygoing lifestyle", "easygoing approach", "easygoing vibe"],
+      "examples": [
+        {
+          "scene": "在一个海边小镇，居民们过着悠闲的生活。他们不赶时间，商店的营业时间也很随意，生活节奏非常缓慢。",
+          "chineseIdea": "这种生活方式让人感到放松，没有城市里的紧迫感，强调的是享受当下。",
+          "sentenceWithBlank": "The town’s @ @ attracts tourists looking for relaxation.",
+          "fullEnglishSentence": "The town’s 「easygoing lifestyle」 attracts tourists looking for relaxation.",
+          "chineseTranslation": "小镇的「悠闲生活方式」吸引了寻求放松的游客。",
+          "chinglishFix": "典型中式英语：'The town is very relax life.' 纠正：'The town has an easygoing lifestyle.'"
+        },
+        {
+          "scene": "在一家创业公司，经理处理员工的方式很灵活。他不强制要求员工严格遵守时间表，而是鼓励他们按照自己的节奏完成任务。",
+          "chineseIdea": "这种管理方式让员工感到自由，工作氛围轻松，员工更有创造力。",
+          "sentenceWithBlank": "Her @ @ to management boosts team creativity.",
+          "fullEnglishSentence": "Her 「easygoing approach」 to management boosts team creativity.",
+          "chineseTranslation": "她「轻松的管理方式」提升了团队的创造力。",
+          "chinglishFix": "典型中式英语：'She manages very loose.' 纠正：'She has an easygoing approach to management.'"
+        }
+      ]
+    }
+  ]
+}
+```

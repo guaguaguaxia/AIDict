@@ -1,0 +1,53 @@
+```json
+{
+  "word": "endurance",
+  "definitions": [
+    {
+      "meaning": "The ability to withstand prolonged physical or mental effort",
+      "usage": "Refers to the capacity to sustain physical or mental challenges over an extended period, often used in contexts like sports, survival, or perseverance through difficulties.",
+      "collocations": ["test of endurance", "build endurance", "mental endurance", "physical endurance"],
+      "examples": [
+        {
+          "scene": "一个马拉松运动员在准备一场42公里的比赛，训练中需要长时间跑步以增强体能。",
+          "chineseIdea": "运动员通过反复的长距离跑步来提高持续运动的能力。",
+          "sentenceWithBlank": "The marathon runner faced a grueling @ @ @ during the race.",
+          "fullEnglishSentence": "The marathon runner faced a grueling 「test of endurance」 during the race.",
+          "chineseTranslation": "马拉松选手在比赛中面对了一场艰苦的「耐力考验」。",
+          "chinglishFix": "Chinglish: 'He needs to train his tired ability.' Correct: 'He needs to train his endurance.'"
+        },
+        {
+          "scene": "一个学生在备考重要考试时，每天学习10小时，试图提高专注力和抗压能力。",
+          "chineseIdea": "学生希望通过长时间的学习来增强心理上的持续能力。",
+          "sentenceWithBlank": "Long study sessions helped her @ @ during exam preparation.",
+          "fullEnglishSentence": "Long study sessions helped her 「build endurance」 during exam preparation.",
+          "chineseTranslation": "长时间的学习帮助她在备考期间「建立耐力」。",
+          "chinglishFix": "Chinglish: 'She study long to strong her mind.' Correct: 'She studies long to build her mental endurance.'"
+        }
+      ]
+    },
+    {
+      "meaning": "The act of enduring or surviving under difficult conditions",
+      "usage": "Describes the process of persisting through hardship, adversity, or challenging circumstances, often with a focus on resilience.",
+      "collocations": ["endurance of hardship", "endurance through adversity", "remarkable endurance"],
+      "examples": [
+        {
+          "scene": "一位登山者在暴风雪中被困在高山上，凭借顽强的意志力生存下来。",
+          "chineseIdea": "登山者面对恶劣天气，依靠坚持不懈的精神存活。",
+          "sentenceWithBlank": "The climber showed incredible @ @ @ in the blizzard.",
+          "fullEnglishSentence": "The climber showed incredible 「endurance of hardship」 in the blizzard.",
+          "chineseTranslation": "登山者在暴风雪中展现了令人难以置信的「承受苦难的能力」。",
+          "chinglishFix": "Chinglish: 'He strong to live in snow.' Correct: 'He showed great endurance to survive in the snow.'"
+        },
+        {
+          "scene": "一位单亲妈妈在经济困难时期独自抚养三个孩子，克服了重重障碍。",
+          "chineseIdea": "妈妈在生活困境中坚持前行，展现了强大的生存能力。",
+          "sentenceWithBlank": "Her @ @ @ inspired everyone around her.",
+          "fullEnglishSentence": "Her 「endurance through adversity」 inspired everyone around her.",
+          "chineseTranslation": "她「在逆境中坚持」激励了周围的每一个人。",
+          "chinglishFix": "Chinglish: 'She is very hard to live.' Correct: 'She showed remarkable endurance in tough times.'"
+        }
+      ]
+    }
+  ]
+}
+```

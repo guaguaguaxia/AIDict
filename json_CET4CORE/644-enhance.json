@@ -1,0 +1,53 @@
+```json
+{
+  "word": "enhance",
+  "definitions": [
+    {
+      "meaning": "提高、增强（某事物的质量、价值或程度）",
+      "usage": "常用于描述通过改进或增加某些元素使某事物变得更好，通常涉及质量、效果或价值的提升。",
+      "collocations": ["enhance the quality", "enhance performance", "enhance the experience"],
+      "examples": [
+        {
+          "scene": "一位产品经理在公司会议上讨论如何改进一款手机应用的用户界面，以吸引更多用户。",
+          "chineseIdea": "通过优化设计和功能，让用户在使用应用时感到更加流畅和愉悦。",
+          "sentenceWithBlank": "The new update will @ @ @ of our app by introducing a more intuitive interface.",
+          "fullEnglishSentence": "The new update will 「enhance the quality」 of our app by introducing a more intuitive interface.",
+          "chineseTranslation": "新更新将通过引入更直观的界面「提高」我们应用的「品质」。",
+          "chinglishFix": "典型中式英语：'Make the app better quality.' 纠正：'Enhance the quality of the app.'（避免直接翻译‘更好’，使用更自然的‘enhance’表达提升。）"
+        },
+        {
+          "scene": "一位健身教练在为客户制定训练计划时，建议增加某些锻炼以提升整体表现。",
+          "chineseIdea": "通过特定的训练方法，让客户的体能和运动表现得到显著提升。",
+          "sentenceWithBlank": "Incorporating strength training can @ @ of athletes significantly.",
+          "fullEnglishSentence": "Incorporating strength training can 「enhance performance」 of athletes significantly.",
+          "chineseTranslation": "加入力量训练可以显著「提升」运动员的「表现」。",
+          "chinglishFix": "典型中式英语：'Improve athlete’s ability.' 纠正：'Enhance the performance of athletes.'（‘enhance performance’更精确且符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "增强（某事物的吸引力或美感）",
+      "usage": "常用于描述通过美化或增加吸引力使某事物更具魅力，通常涉及视觉、感官或情感方面的提升。",
+      "collocations": ["enhance the appearance", "enhance the flavor", "enhance the atmosphere"],
+      "examples": [
+        {
+          "scene": "一位室内设计师在为客户重新装修客厅时，建议使用柔和的灯光和鲜花来提升空间的美感。",
+          "chineseIdea": "通过灯光和装饰，让客厅看起来更温馨、更具吸引力。",
+          "sentenceWithBlank": "Adding soft lighting can @ @ @ of the room, making it more inviting.",
+          "fullEnglishSentence": "Adding soft lighting can 「enhance the appearance」 of the room, making it more inviting.",
+          "chineseTranslation": "添加柔和的灯光可以「提升」房间的「外观」，使其更具吸引力。",
+          "chinglishFix": "典型中式英语：'Make the room look better.' 纠正：'Enhance the appearance of the room.'（使用‘enhance the appearance’更具体且优雅。）"
+        },
+        {
+          "scene": "一位厨师在准备一道菜时，决定加入一些香料来提升菜肴的风味。",
+          "chineseIdea": "通过添加香料，让食物的味道更丰富、更吸引人。",
+          "sentenceWithBlank": "A pinch of fresh herbs can @ @ @ of this dish dramatically.",
+          "fullEnglishSentence": "A pinch of fresh herbs can 「enhance the flavor」 of this dish dramatically.",
+          "chineseTranslation": "一小撮新鲜香草可以显著「提升」这道菜的「风味」。",
+          "chinglishFix": "典型中式英语：'Make the dish taste better.' 纠正：'Enhance the flavor of the dish.'（‘enhance the flavor’更符合英语中对美食的描述。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "exhibition",
+  "definitions": [
+    {
+      "meaning": "公开展示艺术品、产品或其他物品的活动，通常在博物馆、画廊或展览中心举行",
+      "usage": "指有组织的展示活动，常用于艺术、历史文物、科技产品或商业展销，强调公开性和观赏性。",
+      "collocations": ["hold an exhibition", "visit an exhibition", "art exhibition", "trade exhibition"],
+      "examples": [
+        {
+          "scene": "在一座城市的艺术博物馆中，一位年轻的画家首次展示自己的作品，吸引了许多艺术爱好者前来欣赏。",
+          "chineseIdea": "一位艺术家希望通过公开活动让更多人看到自己的画作，并与观众交流创作灵感。",
+          "sentenceWithBlank": "The museum decided to @ @ @ to showcase the works of emerging artists.",
+          "fullEnglishSentence": "The museum decided to 「hold an exhibition」 to showcase the works of emerging artists.",
+          "chineseTranslation": "博物馆决定「举办展览」以展示新兴艺术家的作品。",
+          "chinglishFix": "典型中式英语：The museum will open an exhibition. 纠正：'Open' 不常用于展览，正确搭配是 'hold an exhibition' 或 'organize an exhibition'。"
+        },
+        {
+          "scene": "周末，几位朋友计划去市中心的画廊，欣赏一位著名摄影师的作品集。",
+          "chineseIdea": "朋友们想通过参观活动来了解摄影艺术，并享受一个文化丰富的周末。",
+          "sentenceWithBlank": "We’re planning to @ @ @ at the gallery this weekend to see the photographer’s work.",
+          "fullEnglishSentence": "We’re planning to 「visit an exhibition」 at the gallery this weekend to see the photographer’s work.",
+          "chineseTranslation": "我们计划这个周末「参观展览」，在画廊观看摄影师的作品。",
+          "chinglishFix": "典型中式英语：We will go to see an exhibition. 纠正：'See an exhibition' 不够具体，常用 'visit an exhibition' 表示亲自前往欣赏。"
+        }
+      ]
+    },
+    {
+      "meaning": "展示某种行为、特质或情感的表现，通常带有公开或明显的感觉",
+      "usage": "用于描述某人通过行为或举止公开表现出某种特质、态度或情感，常带有些许夸张或刻意的意味。",
+      "collocations": ["public exhibition", "exhibition of emotion", "make an exhibition of oneself"],
+      "examples": [
+        {
+          "scene": "在一场家庭聚会上，小明因为输了游戏而大声哭泣，吸引了所有人的注意。",
+          "chineseIdea": "小明的情绪失控让大家感到尴尬，因为他的行为过于显眼。",
+          "sentenceWithBlank": "His loud crying was a @ @ @, drawing everyone’s attention at the party.",
+          "fullEnglishSentence": "His loud crying was a 「public exhibition」, drawing everyone’s attention at the party.",
+          "chineseTranslation": "他的大声哭泣是一种「公开的表现」，吸引了派对上所有人的注意。",
+          "chinglishFix": "典型中式英语：He showed his emotion publicly. 纠正：'Show emotion publicly' 不够地道，常用 'public exhibition' 或 'display of emotion'。"
+        },
+        {
+          "scene": "在公司会议上，李经理因对项目的批评而激动地摔文件，显得很不专业。",
+          "chineseIdea": "李经理的行为让同事们觉得他缺乏自控力，过于戏剧化。",
+          "sentenceWithBlank": "By throwing the papers, he @ @ @ @ @ in front of the entire team.",
+          "fullEnglishSentence": "By throwing the papers, he 「made an exhibition of himself」 in front of the entire team.",
+          "chineseTranslation": "通过摔文件，他在整个团队面前「出洋相」。",
+          "chinglishFix": "典型中式英语：He showed himself badly. 纠正：'Show oneself badly' 不自然，常用 'make an exhibition of oneself' 表示出丑或行为不当。"
+        }
+      ]
+    }
+  ]
+}
+```

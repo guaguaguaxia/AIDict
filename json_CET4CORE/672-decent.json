@@ -1,0 +1,53 @@
+```json
+{
+  "word": "decent",
+  "definitions": [
+    {
+      "meaning": "符合标准的，体面的，合适的",
+      "usage": "描述某人、某物或某事达到可接受的标准，通常带有礼貌、得体或适当的含义，常见于评价行为、品质或外貌。",
+      "collocations": ["decent job", "decent person", "decent amount"],
+      "examples": [
+        {
+          "scene": "你在一家咖啡店和朋友聊天，谈到最近找工作的情况。朋友提到一个同学找到了一份不错的工作。",
+          "chineseIdea": "想表达这个工作条件好，薪水合理，适合年轻人发展。",
+          "sentenceWithBlank": "My classmate finally landed a @ @ after months of searching.",
+          "fullEnglishSentence": "My classmate finally landed a 「decent job」 after months of searching.",
+          "chineseTranslation": "我同学找了几个月，终于找到了一份「体面的工作」。",
+          "chinglishFix": "典型中式英语：'He found a good job.' 纠正：'Good' 太泛泛，不够具体。使用 'decent job' 更能体现工作符合标准且得体。"
+        },
+        {
+          "scene": "你在和同事讨论一位新加入团队的成员，觉得他性格很好，工作态度认真。",
+          "chineseIdea": "想表达这个新同事为人友善，值得信赖，给人好印象。",
+          "sentenceWithBlank": "The new guy seems like a @ @, always willing to help.",
+          "fullEnglishSentence": "The new guy seems like a 「decent person」, always willing to help.",
+          "chineseTranslation": "新来的家伙看起来是个「正派的人」，总是乐于助人。",
+          "chinglishFix": "典型中式英语：'He is a good man.' 纠正：'Good man' 过于笼统，'decent person' 更能传达为人得体的含义。"
+        }
+      ]
+    },
+    {
+      "meaning": "相当不错的，尚好的",
+      "usage": "用来表示某事物在质量、数量或程度上达到令人满意的水平，但不一定非常优秀，带有一种适度的赞赏。",
+      "collocations": ["decent meal", "decent performance", "decent chance"],
+      "examples": [
+        {
+          "scene": "你和朋友在一家新开的餐厅吃饭，觉得食物味道不错，价格也合理。",
+          "chineseIdea": "想表达这顿饭的质量很好，满足了你的期待。",
+          "sentenceWithBlank": "We had a @ @ at that new place downtown.",
+          "fullEnglishSentence": "We had a 「decent meal」 at that new place downtown.",
+          "chineseTranslation": "我们在市中心那家新餐厅吃了一顿「不错的饭」。",
+          "chinglishFix": "典型中式英语：'The food is good.' 纠正：'Good' 缺乏具体性，'decent meal' 更能表达饭菜达到满意但不过分夸张的程度。"
+        },
+        {
+          "scene": "你在和朋友讨论一场篮球比赛，觉得你们支持的队伍表现得还可以，虽然没有赢。",
+          "chineseIdea": "想表达队伍发挥得不错，表现令人满意。",
+          "sentenceWithBlank": "Our team put up a @ @, even though they lost.",
+          "fullEnglishSentence": "Our team put up a 「decent performance」, even though they lost.",
+          "chineseTranslation": "我们队虽然输了，但表现得「相当不错」。",
+          "chinglishFix": "典型中式英语：'They played good.' 纠正：'Good' 用法不地道，'decent performance' 更符合英语表达习惯，强调表现尚好。"
+        }
+      ]
+    }
+  ]
+}
+```
