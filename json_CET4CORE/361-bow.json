@@ -1,0 +1,76 @@
+```json
+{
+  "word": "bow",
+  "definitions": [
+    {
+      "meaning": "弯腰鞠躬，表示尊敬或感谢",
+      "usage": "用作动词，表示通过弯腰或低头来表达礼貌、感谢或问候，常见于正式场合、文化表演或戏剧性表达。",
+      "collocations": ["bow to someone", "bow in respect", "bow deeply"],
+      "examples": [
+        {
+          "scene": "在一个日本文化节上，表演者在表演结束后向观众致敬。",
+          "chineseIdea": "表演者通过弯腰来表达对观众的感谢和尊重。",
+          "sentenceWithBlank": "The performer @ @ the audience after the show.",
+          "fullEnglishSentence": "The performer 「bowed to the audience」 after the show.",
+          "chineseTranslation": "表演者在演出结束后向观众「鞠躬致敬」。",
+          "chinglishFix": "典型中式英语：The performer bent his body to the audience. 纠正：The performer bowed to the audience."
+        },
+        {
+          "scene": "在一次正式的武术比赛中，选手在比赛开始前向对手表示尊重。",
+          "chineseIdea": "选手通过低头弯腰来展示礼貌和对对手的尊重。",
+          "sentenceWithBlank": "The martial artist @ @ @ before the match.",
+          "fullEnglishSentence": "The martial artist 「bowed in respect」 before the match.",
+          "chineseTranslation": "武术选手在比赛前「恭敬地鞠躬」。",
+          "chinglishFix": "典型中式英语：The martial artist gave a bow for respect. 纠正：The martial artist bowed in respect."
+        }
+      ]
+    },
+    {
+      "meaning": "弓，射箭或乐器使用的工具",
+      "usage": "用作名词，指一种弯曲的工具，用于射箭或拉奏弦乐器，如小提琴。",
+      "collocations": ["draw a bow", "tighten the bow", "hold a bow"],
+      "examples": [
+        {
+          "scene": "在一个射箭训练场上，教练正在教新手如何正确拉弓。",
+          "chineseIdea": "教练指导学员如何用力拉开射箭的弓弦。",
+          "sentenceWithBlank": "The coach showed how to @ @ @ properly.",
+          "fullEnglishSentence": "The coach showed how to 「draw a bow」 properly.",
+          "chineseTranslation": "教练展示了如何正确地「拉弓」。",
+          "chinglishFix": "典型中式英语：The coach taught how to pull the bow. 纠正：The coach showed how to draw a bow."
+        },
+        {
+          "scene": "在一场交响乐团的排练中，小提琴手正在调整弓的松紧度。",
+          "chineseIdea": "小提琴手通过调整弓的弦来确保音质最佳。",
+          "sentenceWithBlank": "The violinist needed to @ @ @ before playing.",
+          "fullEnglishSentence": "The violinist needed to 「tighten the bow」 before playing.",
+          "chineseTranslation": "小提琴手在演奏前需要「调紧琴弓」。",
+          "chinglishFix": "典型中式英语：The violinist adjusted the bow tightly. 纠正：The violinist tightened the bow."
+        }
+      ]
+    },
+    {
+      "meaning": "蝴蝶结或装饰性结",
+      "usage": "用作名词，指用丝带或其他材料打成的装饰性结，常用于礼物包装、服装或发饰。",
+      "collocations": ["tie a bow", "wear a bow", "undo a bow"],
+      "examples": [
+        {
+          "scene": "在一个生日派对上，女孩正在为礼物盒子装饰。",
+          "chineseIdea": "女孩用丝带在礼物上打一个漂亮的结。",
+          "sentenceWithBlank": "She carefully @ @ @ on the gift box.",
+          "fullEnglishSentence": "She carefully 「tied a bow」 on the gift box.",
+          "chineseTranslation": "她小心地在礼盒上「系了一个蝴蝶结」。",
+          "chinglishFix": "典型中式英语：She made a bow on the box. 纠正：She tied a bow on the gift box."
+        },
+        {
+          "scene": "在一个婚礼上，新娘的礼服上有一个精致的装饰结。",
+          "chineseIdea": "新娘的礼服上点缀着一个丝绸的装饰结，增添优雅。",
+          "sentenceWithBlank": "The bride chose to @ @ @ on her dress.",
+          "fullEnglishSentence": "The bride chose to 「wear a bow」 on her dress.",
+          "chineseTranslation": "新娘选择在礼服上「佩戴一个蝴蝶结」。",
+          "chinglishFix": "典型中式英语：The bride put a bow on her dress. 纠正：The bride wore a bow on her dress."
+        }
+      ]
+    }
+  ]
+}
+```

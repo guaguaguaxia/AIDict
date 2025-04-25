@@ -1,0 +1,53 @@
+```json
+{
+  "word": "consultant",
+  "definitions": [
+    {
+      "meaning": "为特定领域提供专业建议或服务的人，通常受雇于公司或个人以解决特定问题",
+      "usage": "指在管理、信息技术、财务、人力资源等领域提供专业意见的专家，通常以短期或项目制形式工作。常用于描述独立工作者或咨询公司员工。",
+      "collocations": ["management consultant", "IT consultant", "financial consultant"],
+      "examples": [
+        {
+          "scene": "一家小型科技公司希望优化其运营流程。他们决定聘请一位专家来分析问题并提出改进建议。",
+          "chineseIdea": "公司需要一个在管理方面有丰富经验的人，帮助他们识别低效环节并提供解决方案。",
+          "sentenceWithBlank": "The startup hired an experienced @ @ to streamline their operations.",
+          "fullEnglishSentence": "The startup hired an experienced 「management consultant」 to streamline their operations.",
+          "chineseTranslation": "这家初创公司聘请了一位经验丰富的「管理顾问」来优化他们的运营。",
+          "chinglishFix": "典型中式英语：'The company invited a manage expert to help operation.' 纠正：'The company hired a management consultant to streamline operations.'（避免直接翻译‘管理专家’，使用更自然的‘management consultant’）"
+        },
+        {
+          "scene": "一家零售连锁店计划升级其库存管理系统。他们需要一位技术专家来评估现有系统并推荐新软件。",
+          "chineseIdea": "公司希望找到一个了解信息技术的人，帮助他们选择适合的系统并指导实施。",
+          "sentenceWithBlank": "The retail chain brought in an @ @ to overhaul their inventory system.",
+          "fullEnglishSentence": "The retail chain brought in an 「IT consultant」 to overhaul their inventory system.",
+          "chineseTranslation": "这家零售连锁店请来了一位「信息技术顾问」来升级他们的库存系统。",
+          "chinglishFix": "典型中式英语：'The shop called a computer expert to fix inventory.' 纠正：'The retail chain hired an IT consultant to overhaul their inventory system.'（避免模糊的‘computer expert’，使用更具体的‘IT consultant’）"
+        }
+      ]
+    },
+    {
+      "meaning": "在医疗领域中，为患者提供专科诊疗建议的医生",
+      "usage": "指在医院或诊所中，具有高级专业资格的医生，通常负责处理复杂病例或提供第二诊疗意见。常见于英国或其他英联邦国家的医疗体系。",
+      "collocations": ["consultant surgeon", "consultant physician", "senior consultant"],
+      "examples": [
+        {
+          "scene": "一位患者因心脏问题被转诊到大医院，医生建议他咨询一位心脏科专家以获取更专业的诊断。",
+          "chineseIdea": "患者需要一位在心脏疾病方面经验丰富的医生来确认诊断并制定治疗计划。",
+          "sentenceWithBlank": "The patient was referred to a @ @ for a specialized heart procedure.",
+          "fullEnglishSentence": "The patient was referred to a 「consultant surgeon」 for a specialized heart procedure.",
+          "chineseTranslation": "患者被转诊给一位「顾问外科医生」进行专业的心脏手术。",
+          "chinglishFix": "典型中式英语：'The patient went to a heart doctor for operation.' 纠正：'The patient was referred to a consultant surgeon for a specialized heart procedure.'（避免泛化的‘heart doctor’，使用‘consultant surgeon’更贴合语境）"
+        },
+        {
+          "scene": "一位家长带孩子去医院，因为孩子的慢性病需要一位专家来调整治疗方案。",
+          "chineseIdea": "家长希望找到一位儿科高级医生，针对孩子的病情提供更详细的治疗建议。",
+          "sentenceWithBlank": "The child’s case was reviewed by a @ @ to adjust the treatment plan.",
+          "fullEnglishSentence": "The child’s case was reviewed by a 「consultant physician」 to adjust the treatment plan.",
+          "chineseTranslation": "孩子的病例由一位「顾问内科医生」审阅，以调整治疗计划。",
+          "chinglishFix": "典型中式英语：'The kid’s illness was checked by a senior doctor.' 纠正：'The child’s case was reviewed by a consultant physician.'（避免模糊的‘senior doctor’，使用‘consultant physician’更专业）"
+        }
+      ]
+    }
+  ]
+}
+```
