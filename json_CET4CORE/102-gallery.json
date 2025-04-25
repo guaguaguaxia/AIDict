@@ -1,0 +1,76 @@
+```json
+{
+  "word": "gallery",
+  "definitions": [
+    {
+      "meaning": "A room or building for the display or sale of works of art",
+      "usage": "Refers to a physical space, often in a museum or commercial setting, where paintings, sculptures, or other artworks are exhibited or sold.",
+      "collocations": ["art gallery", "visit a gallery", "exhibit in a gallery"],
+      "examples": [
+        {
+          "scene": "你和朋友计划周末去市中心参观一个新开的艺术展览，里面展示了许多现代艺术家的作品。",
+          "chineseIdea": "想表达你很期待去一个地方看艺术品，感受文化氛围。",
+          "sentenceWithBlank": "I’m excited to @ @ this weekend to see the new modern art exhibition.",
+          "fullEnglishSentence": "I’m excited to 「visit a gallery」 this weekend to see the new modern art exhibition.",
+          "chineseTranslation": "我很期待这个周末「参观画廊」去看新的现代艺术展览。",
+          "chinglishFix": "Chinglish: I want to go to a place to see art. Corrected: I’m looking forward to visiting a gallery to view the art exhibition."
+        },
+        {
+          "scene": "你听说一个本地艺术家在一个著名的场所展示了自己的画作，吸引了很多游客。",
+          "chineseIdea": "想表达某个艺术家在一个地方展示作品，吸引了很多人。",
+          "sentenceWithBlank": "The local artist is thrilled to @ @ @ for the first time, drawing a large crowd.",
+          "fullEnglishSentence": "The local artist is thrilled to 「exhibit in a gallery」 for the first time, drawing a large crowd.",
+          "chineseTranslation": "这位本地艺术家很激动首次「在画廊展出」，吸引了大群观众。",
+          "chinglishFix": "Chinglish: The artist shows pictures in a place. Corrected: The artist is exhibiting works in a gallery."
+        }
+      ]
+    },
+    {
+      "meaning": "A balcony or upper floor projecting from an interior wall, often in a theater or church",
+      "usage": "Describes a raised area or platform, typically in a large building like a theater, church, or hall, used for seating or observation.",
+      "collocations": ["sit in the gallery", "view from the gallery", "upper gallery"],
+      "examples": [
+        {
+          "scene": "你在剧院看一场话剧，因为票价便宜，你买了楼上的座位。",
+          "chineseIdea": "想表达你坐在剧院的高处看表演，视野很好。",
+          "sentenceWithBlank": "We chose to @ @ @ to get a great view of the stage at a lower price.",
+          "fullEnglishSentence": "We chose to 「sit in the gallery」 to get a great view of the stage at a lower price.",
+          "chineseTranslation": "我们选择「坐在楼座」以较低的价格获得舞台的绝佳视野。",
+          "chinglishFix": "Chinglish: I sit in the high place of theater. Corrected: I’m sitting in the gallery of the theater."
+        },
+        {
+          "scene": "你在一个古老的教堂参观，注意到上面有一个区域可以看到整个大厅。",
+          "chineseIdea": "想表达你从高处俯瞰教堂内部的壮观景象。",
+          "sentenceWithBlank": "The tourists admired the intricate ceiling designs from the @ @ @.",
+          "fullEnglishSentence": "The tourists admired the intricate ceiling designs from the 「upper gallery」.",
+          "chineseTranslation": "游客们从「上层楼座」欣赏了复杂的穹顶设计。",
+          "chinglishFix": "Chinglish: I look from the high floor. Corrected: I viewed it from the upper gallery."
+        }
+      ]
+    },
+    {
+      "meaning": "A collection of images or videos, often digital, displayed together",
+      "usage": "Used in digital contexts to describe a curated set of visual content, such as on websites or apps.",
+      "collocations": ["photo gallery", "online gallery", "browse a gallery"],
+      "examples": [
+        {
+          "scene": "你在浏览一个旅游网站，里面有一个展示目的地的图片集。",
+          "chineseIdea": "想表达你正在看一个网站上的图片集合，了解旅游景点。",
+          "sentenceWithBlank": "I spent hours @ @ @ on the travel website to plan my trip.",
+          "fullEnglishSentence": "I spent hours 「browsing a gallery」 on the travel website to plan my trip.",
+          "chineseTranslation": "我在旅游网站上花了几个小时「浏览图片集」来计划我的旅行。",
+          "chinglishFix": "Chinglish: I look at many pictures on the website. Corrected: I’m browsing a gallery on the website."
+        },
+        {
+          "scene": "你朋友在社交媒体上分享了一个包含她度假照片的集合。",
+          "chineseIdea": "想表达你朋友分享了一组照片，展示她的旅行经历。",
+          "sentenceWithBlank": "She posted an amazing @ @ @ of her vacation on social media.",
+          "fullEnglishSentence": "She posted an amazing 「photo gallery」 of her vacation on social media.",
+          "chineseTranslation": "她在社交媒体上发布了一个很棒的「照片集」，展示她的假期。",
+          "chinglishFix": "Chinglish: She put many photos on the internet. Corrected: She shared a photo gallery online."
+        }
+      ]
+    }
+  ]
+}
+```

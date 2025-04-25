@@ -1,0 +1,76 @@
+```json
+{
+  "word": "generous",
+  "definitions": [
+    {
+      "meaning": "愿意给予或分享，表现出对他人的慷慨",
+      "usage": "描述一个人在金钱、时间或资源上乐于给予他人，通常带有无私或仁慈的含义。",
+      "collocations": ["make a donation", "offer help", "give freely"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，志愿者们正在为当地的慈善机构筹款。每个人都带来了食物、衣物或现金来支持这个活动。",
+          "chineseIdea": "一个人主动拿出自己的钱来帮助需要的人，表现出一种无私的品质。",
+          "sentenceWithBlank": "She decided to @ @ @ to the charity event to support the local shelter.",
+          "fullEnglishSentence": "She decided to 「make a donation」 to the charity event to support the local shelter.",
+          "chineseTranslation": "她决定为慈善活动「捐款」以支持当地的庇护所。",
+          "chinglishFix": "典型中式英语：She give money to charity. 纠正：She made a donation to the charity."
+        },
+        {
+          "scene": "在一个工作场所，团队成员因项目截止日期临近而感到压力很大。一位同事主动提出加班来协助完成任务。",
+          "chineseIdea": "一个人愿意花自己的时间来帮助同事完成工作，体现出团队精神。",
+          "sentenceWithBlank": "He always @ @ to his teammates when they’re overwhelmed with work.",
+          "fullEnglishSentence": "He always 「offers help」 to his teammates when they’re overwhelmed with work.",
+          "chineseTranslation": "他总是在队友工作不堪重负时「提供帮助」。",
+          "chinglishFix": "典型中式英语：He give help to his team. 纠正：He offers help to his team."
+        }
+      ]
+    },
+    {
+      "meaning": "数量或程度很大，超出预期",
+      "usage": "描述某事物（如食物、奖励或空间）在数量或规模上非常充足，甚至超过正常或预期。",
+      "collocations": ["large portion", "ample space", "substantial amount"],
+      "examples": [
+        {
+          "scene": "在一家餐馆，服务员端上来一大盘食物，顾客惊讶于食物的分量远远超过他们的预期。",
+          "chineseIdea": "食物分量很大，让人觉得物超所值。",
+          "sentenceWithBlank": "The restaurant served a @ @ of pasta that was more than enough for two people.",
+          "fullEnglishSentence": "The restaurant served a 「large portion」 of pasta that was more than enough for two people.",
+          "chineseTranslation": "这家餐厅提供了一「大份」意大利面，足够两个人吃。",
+          "chinglishFix": "典型中式英语：The restaurant give big food. 纠正：The restaurant served a large portion of food."
+        },
+        {
+          "scene": "一个家庭搬进了一栋新房子，发现客厅的空间非常宽敞，可以容纳很多家具和活动。",
+          "chineseIdea": "房子的空间很大，给人一种舒适和自由的感觉。",
+          "sentenceWithBlank": "The new apartment has @ @ for a big sofa and a dining table.",
+          "fullEnglishSentence": "The new apartment has 「ample space」 for a big sofa and a dining table.",
+          "chineseTranslation": "新公寓有「充足的空间」放置一个大沙发和餐桌。",
+          "chinglishFix": "典型中式英语：The apartment has big space. 纠正：The apartment has ample space."
+        }
+      ]
+    },
+    {
+      "meaning": "宽容或仁慈，不苛刻",
+      "usage": "描述一个人在评价他人或处理事情时表现出宽容、仁慈或不苛求的态度。",
+      "collocations": ["kind words", "forgiving attitude", "lenient approach"],
+      "examples": [
+        {
+          "scene": "在一个课堂上，学生因误解题目而答错了问题，老师没有批评，而是鼓励他继续尝试。",
+          "chineseIdea": "老师对学生的错误表现出理解和鼓励，而不是责骂。",
+          "sentenceWithBlank": "The teacher used @ @ to encourage the student despite his mistake.",
+          "fullEnglishSentence": "The teacher used 「kind words」 to encourage the student despite his mistake.",
+          "chineseTranslation": "老师用「善意的语言」鼓励学生，尽管他犯了错误。",
+          "chinglishFix": "典型中式英语：The teacher say good words to student. 纠正：The teacher used kind words to encourage the student."
+        },
+        {
+          "scene": "在一次家庭聚会上，孩子不小心打翻了饮料，父母没有生气，而是温和地处理了这件事。",
+          "chineseIdea": "父母对孩子的过失表现出宽容，体现出仁慈的态度。",
+          "sentenceWithBlank": "Her parents took a @ @ when she spilled juice on the table.",
+          "fullEnglishSentence": "Her parents took a 「lenient approach」 when she spilled juice on the table.",
+          "chineseTranslation": "她的父母在她把果汁洒在桌上时采取了「宽容的态度」。",
+          "chinglishFix": "典型中式英语：Her parents not angry when she spill juice. 纠正：Her parents took a lenient approach when she spilled juice."
+        }
+      ]
+    }
+  ]
+}
+```

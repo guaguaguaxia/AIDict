@@ -1,0 +1,53 @@
+```json
+{
+  "word": "grab",
+  "definitions": [
+    {
+      "meaning": "快速地拿或抓住某物，通常是用手",
+      "usage": "指用手迅速抓住某物，通常带有一定的急促或随意感，常用于描述动作快、不经意的场景。",
+      "collocations": ["grab a bite", "grab a drink", "grab a seat"],
+      "examples": [
+        {
+          "scene": "你和朋友在忙碌的工作日中午时间有限，想快速吃点东西。你提议去附近的小吃店随便吃点。",
+          "chineseIdea": "想表达快速吃点东西以填饱肚子，强调时间紧迫和随意性。",
+          "sentenceWithBlank": "Let's @ @ @ at that new food truck before the meeting.",
+          "fullEnglishSentence": "Let's 「grab a bite」 at that new food truck before the meeting.",
+          "chineseTranslation": "我们在会议前去那个新美食车「随便吃点」吧。",
+          "chinglishFix": "典型中式英语：'Let's eat something quick.' 纠正：'Let's grab a bite.'（更自然，强调快速和随意）"
+        },
+        {
+          "scene": "你在咖啡店和朋友聊天，朋友提议去旁边的饮品店买杯咖啡或果汁来继续聊。",
+          "chineseIdea": "想表达买杯饮料以便边喝边聊，强调轻松和即兴。",
+          "sentenceWithBlank": "Why don’t we @ @ @ from the café next door?",
+          "fullEnglishSentence": "Why don’t we 「grab a drink」 from the café next door?",
+          "chineseTranslation": "我们为什么不去旁边的咖啡店「买杯饮料」呢？",
+          "chinglishFix": "典型中式英语：'Let's buy a drink.' 纠正：'Let's grab a drink.'（更口语化，符合英语表达习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "吸引某人的注意力或兴趣",
+      "usage": "指某事物迅速引起注意或激发兴趣，常用于描述广告、标题、表演等让人眼前一亮的场景。",
+      "collocations": ["grab attention", "grab the spotlight", "grab interest"],
+      "examples": [
+        {
+          "scene": "你在一个科技展会上，看到一个新产品的广告海报因为其鲜艳的色彩和独特的设计立刻吸引了你的目光。",
+          "chineseIdea": "想表达某事物迅速吸引了你的注意力，让你忍不住想了解更多。",
+          "sentenceWithBlank": "The vibrant poster design really @ @ at the tech expo.",
+          "fullEnglishSentence": "The vibrant poster design really 「grabbed attention」 at the tech expo.",
+          "chineseTranslation": "那个鲜艳的海报设计在科技展上真的「吸引了注意力」。",
+          "chinglishFix": "典型中式英语：'The poster makes people notice.' 纠正：'The poster grabs attention.'（更简洁，符合英语习惯）"
+        },
+        {
+          "scene": "你在看一场才艺表演，一个年轻歌手一上台就以她独特的嗓音和舞台表现力吸引了全场观众。",
+          "chineseIdea": "想表达某人迅速成为全场焦点，吸引了所有人的目光。",
+          "sentenceWithBlank": "Her powerful voice instantly @ @ @ during the talent show.",
+          "fullEnglishSentence": "Her powerful voice instantly 「grabbed the spotlight」 during the talent show.",
+          "chineseTranslation": "她有力的嗓音在才艺表演中瞬间「吸引了全场目光」。",
+          "chinglishFix": "典型中式英语：'Her voice made everyone focus.' 纠正：'Her voice grabbed the spotlight.'（更生动，强调迅速吸引）"
+        }
+      ]
+    }
+  ]
+}
+```
