@@ -1,0 +1,76 @@
+```json
+{
+  "word": "pattern",
+  "definitions": [
+    {
+      "meaning": "一种重复的装饰性设计或结构，通常用于视觉或艺术领域",
+      "usage": "指在织物、墙纸、艺术品等中重复出现的图形或形状，常用于描述视觉上的规律性设计。",
+      "collocations": ["floral pattern", "geometric pattern", "repeating pattern"],
+      "examples": [
+        {
+          "scene": "你在一家家居装饰店挑选窗帘，看到一款窗帘上布满了精致的花朵设计，这些花朵按照一定的规律排列。",
+          "chineseIdea": "你想描述这款窗帘上的花朵设计如何吸引人，并且它们是以一种有规律的方式重复出现的。",
+          "sentenceWithBlank": "The curtains had a beautiful @ @ that made the room feel elegant.",
+          "fullEnglishSentence": "The curtains had a beautiful 「floral pattern」 that made the room feel elegant.",
+          "chineseTranslation": "窗帘上有一个美丽的「花卉图案」，使房间显得优雅。",
+          "chinglishFix": "典型中式英语：The curtains have many flowers design. 纠正：The curtains have a floral pattern."
+        },
+        {
+          "scene": "你参观一个艺术展览，看到一幅画作，上面有许多规则的三角形和圆形，构成了一种现代感十足的设计。",
+          "chineseIdea": "你想向朋友描述这幅画的独特之处，强调这些形状如何以规则的方式组合在一起。",
+          "sentenceWithBlank": "The painting featured a striking @ @ that gave it a modern look.",
+          "fullEnglishSentence": "The painting featured a striking 「geometric pattern」 that gave it a modern look.",
+          "chineseTranslation": "这幅画展示了一个引人注目的「几何图案」，赋予了它现代感。",
+          "chinglishFix": "典型中式英语：The painting has many shapes design. 纠正：The painting features a geometric pattern."
+        }
+      ]
+    },
+    {
+      "meaning": "一种规律性的行为、事件或过程的模式，常用于描述可预测的趋势或习惯",
+      "usage": "指在行为、数据、事件等中可以观察到的规律性，常用于分析或预测。",
+      "collocations": ["behavior pattern", "weather pattern", "sleep pattern"],
+      "examples": [
+        {
+          "scene": "你和朋友讨论最近的作息时间，发现自己每天晚上都在同一时间感到困倦。",
+          "chineseIdea": "你想表达自己的睡眠时间很有规律，并且这种规律让你更容易安排生活。",
+          "sentenceWithBlank": "I’ve noticed a consistent @ @ that helps me plan my evenings.",
+          "fullEnglishSentence": "I’ve noticed a consistent 「sleep pattern」 that helps me plan my evenings.",
+          "chineseTranslation": "我注意到一个稳定的「睡眠模式」，这帮助我规划晚上的时间。",
+          "chinglishFix": "典型中式英语：My sleep has a rule. 纠正：I have a consistent sleep pattern."
+        },
+        {
+          "scene": "你在新闻中看到气象学家讨论最近的降雨情况，提到今年的降雨规律与往年不同。",
+          "chineseIdea": "你想向同事复述这个信息，强调降雨的规律性变化如何影响农业。",
+          "sentenceWithBlank": "The meteorologist explained how the changing @ @ is affecting crops.",
+          "fullEnglishSentence": "The meteorologist explained how the changing 「weather pattern」 is affecting crops.",
+          "chineseTranslation": "气象学家解释了变化中的「天气模式」如何影响农作物。",
+          "chinglishFix": "典型中式英语：The weather has a new rule. 纠正：The weather pattern is changing."
+        }
+      ]
+    },
+    {
+      "meaning": "模板或模型，用作制作某物的指导或蓝图",
+      "usage": "指用于制作衣服、工艺品等的模板或设计图，强调其作为指导的作用。",
+      "collocations": ["sewing pattern", "design pattern", "knitting pattern"],
+      "examples": [
+        {
+          "scene": "你正在学习缝纫，买了一套制作裙子的模板，上面有详细的裁剪和缝制说明。",
+          "chineseIdea": "你想告诉朋友这个模板如何帮助你轻松完成一条裙子。",
+          "sentenceWithBlank": "Using a @ @ made it easy for me to create a perfect dress.",
+          "fullEnglishSentence": "Using a 「sewing pattern」 made it easy for me to create a perfect dress.",
+          "chineseTranslation": "使用一个「缝纫模板」让我轻松制作出一条完美的裙子。",
+          "chinglishFix": "典型中式英语：I used a cloth model to make dress. 纠正：I used a sewing pattern to make a dress."
+        },
+        {
+          "scene": "你和朋友分享自己最近的手工爱好，提到你用一个编织说明书完成了一件毛衣。",
+          "chineseIdea": "你想强调这个编织说明书如何清晰地指导你完成复杂的针织工作。",
+          "sentenceWithBlank": "The @ @ provided clear instructions for knitting a sweater.",
+          "fullEnglishSentence": "The 「knitting pattern」 provided clear instructions for knitting a sweater.",
+          "chineseTranslation": "这个「编织模板」为编织毛衣提供了清晰的指导。",
+          "chinglishFix": "典型中式英语：The knit guide helped me make sweater. 纠正：The knitting pattern helped me knit a sweater."
+        }
+      ]
+    }
+  ]
+}
+```

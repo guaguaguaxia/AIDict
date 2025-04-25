@@ -1,0 +1,76 @@
+```json
+{
+  "word": "puzzle",
+  "definitions": [
+    {
+      "meaning": "A game, toy, or problem designed to test ingenuity or knowledge",
+      "usage": "Refers to something that challenges a person to solve it, such as a jigsaw puzzle, crossword, or riddle. Often used as a noun to describe the object or activity itself.",
+      "collocations": ["solve a puzzle", "piece together a puzzle", "work on a puzzle"],
+      "examples": [
+        {
+          "scene": "在一个安静的周末下午，小明和他的妹妹坐在客厅的地板上，面前摆放着一盒刚买的1000片拼图。他们决定一起完成这个挑战，享受家庭时光。",
+          "chineseIdea": "小明和妹妹想通过合作完成拼图，锻炼耐心和逻辑思维，同时增进彼此的感情。",
+          "sentenceWithBlank": "They spent hours trying to @ @ @, carefully matching colors and shapes.",
+          "fullEnglishSentence": "They spent hours trying to 「solve a puzzle」, carefully matching colors and shapes.",
+          "chineseTranslation": "他们花了几个小时试图「解决一个拼图」，仔细地匹配颜色和形状。",
+          "chinglishFix": "Chinglish: 'They used many time to finish the puzzle.' Correct: 'They spent hours solving the puzzle.' Explanation: 'Used many time' is unnatural; 'spent hours' is idiomatic for time allocation, and 'solving' fits the context better than 'finish'."
+        },
+        {
+          "scene": "在一家咖啡馆里，丽丽和她的朋友们围坐在桌子旁，面前是一副拼图。他们一边聊天，一边把零散的拼图块拼接起来，享受轻松的氛围。",
+          "chineseIdea": "丽丽和朋友们想通过拼接拼图来放松心情，同时在合作中增进友谊。",
+          "sentenceWithBlank": "The group laughed as they @ @ @, slowly forming a beautiful landscape.",
+          "fullEnglishSentence": "The group laughed as they 「pieced together a puzzle」, slowly forming a beautiful landscape.",
+          "chineseTranslation": "这群人笑着「拼凑一个拼图」，慢慢地形成了一幅美丽的风景。",
+          "chinglishFix": "Chinglish: 'They put the puzzle one by one.' Correct: 'They pieced together the puzzle.' Explanation: 'Put one by one' is vague and unnatural; 'pieced together' is the standard collocation for assembling a puzzle."
+        }
+      ]
+    },
+    {
+      "meaning": "A situation or problem that is difficult to understand or solve",
+      "usage": "Used as a noun to describe a confusing or complex situation that requires effort to comprehend or resolve. Can also imply a mystery or enigma.",
+      "collocations": ["solve a puzzle", "unravel a puzzle", "remain a puzzle"],
+      "examples": [
+        {
+          "scene": "在一间会议室里，公司的数据分析团队正在讨论为什么上个月的销售数据突然下降。他们查看了各种报表，但原因仍然不明朗。",
+          "chineseIdea": "团队希望通过分析数据找到销售下降的原因，解决这个让人困惑的问题。",
+          "sentenceWithBlank": "The team worked tirelessly to @ @ @, analyzing every possible factor.",
+          "fullEnglishSentence": "The team worked tirelessly to 「solve a puzzle」, analyzing every possible factor.",
+          "chineseTranslation": "团队不知疲倦地「解决一个难题」，分析每一个可能的因素。",
+          "chinglishFix": "Chinglish: 'They want to find the puzzle’s answer.' Correct: 'They worked to solve the puzzle.' Explanation: 'Find the puzzle’s answer' is awkward; 'solve the puzzle' is the natural phrase for addressing a complex issue."
+        },
+        {
+          "scene": "在一个科学实验室里，研究员小王正在研究一种罕见疾病的成因。尽管已经进行了多次实验，疾病的传播机制仍然是个谜。",
+          "chineseIdea": "小王希望通过进一步的实验解开这个复杂的科学问题，找到疾病传播的真相。",
+          "sentenceWithBlank": "Despite years of research, the disease’s origin still @ @ @ to scientists.",
+          "fullEnglishSentence": "Despite years of research, the disease’s origin still 「remains a puzzle」 to scientists.",
+          "chineseTranslation": "尽管研究了多年，疾病的起源对科学家来说仍然「是一个谜」。",
+          "chinglishFix": "Chinglish: 'The disease is still a puzzle question.' Correct: 'The disease remains a puzzle.' Explanation: 'Puzzle question' is redundant and unnatural; 'remains a puzzle' is concise and idiomatic."
+        }
+      ]
+    },
+    {
+      "meaning": "To cause someone to feel confused or perplexed",
+      "usage": "Used as a verb to describe the act of making someone confused or unable to understand something. Often paired with a direct object (e.g., a person or situation).",
+      "collocations": ["puzzle someone", "puzzle over something", "greatly puzzle"],
+      "examples": [
+        {
+          "scene": "在英语课堂上，老师给学生们讲解了一个复杂的语法规则。学生小李盯着课本，眉头紧锁，完全不明白这个规则的逻辑。",
+          "chineseIdea": "小李对复杂的语法规则感到困惑，希望通过老师的进一步解释弄清楚。",
+          "sentenceWithBlank": "The grammar rule @ @, leaving him frustrated and confused.",
+          "fullEnglishSentence": "The grammar rule 「puzzled him」, leaving him frustrated and confused.",
+          "chineseTranslation": "这条语法规则「让他困惑」，使他感到沮丧和迷茫。",
+          "chinglishFix": "Chinglish: 'The rule made him puzzle.' Correct: 'The rule puzzled him.' Explanation: 'Made him puzzle' incorrectly uses 'puzzle' as a noun; the verb form 'puzzled' is correct for causing confusion."
+        },
+        {
+          "scene": "在一次家庭聚会上，小红的叔叔讲了一个奇怪的故事，里面有很多矛盾的细节。听完后，小红一直在思考，试图理解故事的真实含义。",
+          "chineseIdea": "小红对叔叔故事中的矛盾感到困惑，想通过反复思考弄清楚故事的逻辑。",
+          "sentenceWithBlank": "She @ @ @, unable to make sense of the contradictions.",
+          "fullEnglishSentence": "She 「puzzled over the story」, unable to make sense of the contradictions.",
+          "chineseTranslation": "她「对这个故事感到困惑」，无法理解其中的矛盾。",
+          "chinglishFix": "Chinglish: 'She thought the story very puzzle.' Correct: 'She puzzled over the story.' Explanation: 'Very puzzle' is grammatically incorrect; 'puzzled over' is the correct verb phrase for contemplating confusion."
+        }
+      ]
+    }
+  ]
+}
+```
