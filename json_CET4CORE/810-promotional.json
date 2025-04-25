@@ -1,0 +1,53 @@
+```json
+{
+  "word": "promotional",
+  "definitions": [
+    {
+      "meaning": "与促销、推广活动相关的，旨在宣传或推销产品、服务或活动",
+      "usage": "常用于描述与广告、营销或宣传相关的材料、活动或策略，通常出现在商业、媒体或活动策划的语境中。",
+      "collocations": ["promotional campaign", "promotional material", "promotional event"],
+      "examples": [
+        {
+          "scene": "一家新开的咖啡店希望吸引更多顾客，决定在社交媒体上发布一系列宣传内容，并在开业当天举办特别活动。",
+          "chineseIdea": "通过设计吸引人的广告和活动来提升咖啡店的知名度，吸引潜在顾客。",
+          "sentenceWithBlank": "The coffee shop launched a @ @ to boost its visibility on social media.",
+          "fullEnglishSentence": "The coffee shop launched a 「promotional campaign」 to boost its visibility on social media.",
+          "chineseTranslation": "这家咖啡店发起了一场「促销活动」以提升其在社交媒体上的知名度。",
+          "chinglishFix": "典型中式英语：'The coffee shop made a promotion activity.' 纠正：'Promotion activity' 不自然，应改为 'promotional campaign' 或 'marketing campaign'，更符合英语表达习惯。"
+        },
+        {
+          "scene": "一家化妆品公司在新产品发布前，准备了大量宣传材料，包括传单、海报和小样赠品，分发给潜在客户。",
+          "chineseIdea": "通过分发带有品牌信息的宣传品，让更多人了解新产品并产生购买兴趣。",
+          "sentenceWithBlank": "The cosmetics company distributed @ @ to attract new customers.",
+          "fullEnglishSentence": "The cosmetics company distributed 「promotional material」 to attract new customers.",
+          "chineseTranslation": "这家化妆品公司分发了「宣传材料」以吸引新客户。",
+          "chinglishFix": "典型中式英语：'The company gave promotion things.' 纠正：'Promotion things' 模糊且不地道，应使用 'promotional material' 或 'marketing materials' 来明确指代宣传品。"
+        }
+      ]
+    },
+    {
+      "meaning": "与职位晋升或职业提升相关的，通常指有助于提升地位或等级的活动或行为",
+      "usage": "较少见，主要用于描述在职业环境中与晋升或地位提升相关的内容，通常出现在正式或职业化的语境中。",
+      "collocations": ["promotional opportunity", "promotional ladder", "promotional pathway"],
+      "examples": [
+        {
+          "scene": "一家科技公司的员工被鼓励参加内部培训项目，以提升技能并增加晋升的可能性。",
+          "chineseIdea": "通过参与公司提供的职业发展项目，员工可以获得更多晋升的机会。",
+          "sentenceWithBlank": "The training program offers employees a @ @ to advance their careers.",
+          "fullEnglishSentence": "The training program offers employees a 「promotional opportunity」 to advance their careers.",
+          "chineseTranslation": "这个培训项目为员工提供了「晋升机会」，以推动他们的职业发展。",
+          "chinglishFix": "典型中式英语：'The program gives a promote chance.' 纠正：'Promote chance' 不地道，应改为 'promotional opportunity' 或 'career advancement opportunity'，更符合正式英语表达。"
+        },
+        {
+          "scene": "一位年轻经理注意到，公司内部有一个明确的职业发展路径，员工可以通过努力工作逐步晋升。",
+          "chineseIdea": "公司提供了一个清晰的晋升体系，激励员工不断努力以攀登职业阶梯。",
+          "sentenceWithBlank": "The company has a clear @ @ for ambitious employees to climb.",
+          "fullEnglishSentence": "The company has a clear 「promotional ladder」 for ambitious employees to climb.",
+          "chineseTranslation": "公司为有抱负的员工提供了一个清晰的「晋升阶梯」供他们攀登。",
+          "chinglishFix": "典型中式英语：'The company has a promotion road.' 纠正：'Promotion road' 不自然，应改为 'promotional ladder' 或 'career ladder'，以体现职业晋升的层级概念。"
+        }
+      ]
+    }
+  ]
+}
+```

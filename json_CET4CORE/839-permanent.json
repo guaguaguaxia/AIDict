@@ -1,0 +1,53 @@
+```json
+{
+  "word": "permanent",
+  "definitions": [
+    {
+      "meaning": "持久的，永久的（指某事物持续存在，不轻易改变或消失）",
+      "usage": "常用于描述状态、条件、位置或关系等长期不变的情况，强调时间上的持久性。",
+      "collocations": ["permanent solution", "permanent resident", "permanent damage"],
+      "examples": [
+        {
+          "scene": "一位工程师在公司会议上讨论如何解决设备反复出现的问题，希望找到一个长期有效的方法。",
+          "chineseIdea": "工程师想表达他们需要一个能彻底解决问题、不再反复出现的方法。",
+          "sentenceWithBlank": "We need a @ @ to this issue so we don’t have to revisit it every month.",
+          "fullEnglishSentence": "We need a 「permanent solution」 to this issue so we don’t have to revisit it every month.",
+          "chineseTranslation": "我们需要一个「永久的解决方案」来解决这个问题，这样就不用每个月都重新处理。",
+          "chinglishFix": "典型中式英语：'We need a forever solution for this problem.' 纠正：'Forever' 通常不用于正式语境，改为 'permanent solution' 更自然。"
+        },
+        {
+          "scene": "一位移民顾问在帮助客户申请加拿大的居留权，解释获得某种身份的好处。",
+          "chineseIdea": "顾问想说明客户可以获得一个长期居住的身份，享受与公民相似的权利。",
+          "sentenceWithBlank": "Once approved, you’ll become a @ @ and enjoy many benefits.",
+          "fullEnglishSentence": "Once approved, you’ll become a 「permanent resident」 and enjoy many benefits.",
+          "chineseTranslation": "一旦获批，你将成为「永久居民」，并享受许多福利。",
+          "chinglishFix": "典型中式英语：'You will be a forever resident.' 纠正：'Forever resident' 不地道，改为 'permanent resident' 是标准表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "固定的，长期的（指工作、职位或角色等相对稳定，非临时的）",
+      "usage": "常用于描述工作、职位或某种安排，强调其稳定性和非临时性，与 'temporary' 相对。",
+      "collocations": ["permanent position", "permanent staff", "permanent contract"],
+      "examples": [
+        {
+          "scene": "一位求职者在面试后收到公司通知，询问她是否愿意接受一个稳定的工作岗位。",
+          "chineseIdea": "公司想表达这是一个长期的工作机会，而不是短期或临时的。",
+          "sentenceWithBlank": "We’re pleased to offer you a @ @ starting next month.",
+          "fullEnglishSentence": "We’re pleased to offer you a 「permanent position」 starting next month.",
+          "chineseTranslation": "我们很高兴为你提供一个「固定职位」，从下个月开始。",
+          "chinglishFix": "典型中式英语：'We give you a forever job.' 纠正：'Forever job' 不自然，改为 'permanent position' 更专业。"
+        },
+        {
+          "scene": "一位人力资源经理在团队会议上讨论员工编制，提到某些员工的合同类型。",
+          "chineseIdea": "经理想说明公司有两类员工，一类是长期雇佣的，另一类是临时的。",
+          "sentenceWithBlank": "Our @ @ will receive full benefits, unlike temporary workers.",
+          "fullEnglishSentence": "Our 「permanent staff」 will receive full benefits, unlike temporary workers.",
+          "chineseTranslation": "我们的「固定员工」将享受全部福利，不同于临时工。",
+          "chinglishFix": "典型中式英语：'Our forever staff have benefits.' 纠正：'Forever staff' 不地道，改为 'permanent staff' 更准确。"
+        }
+      ]
+    }
+  ]
+}
+```
