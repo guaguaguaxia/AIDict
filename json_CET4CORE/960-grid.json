@@ -1,0 +1,76 @@
+```json
+{
+  "word": "grid",
+  "definitions": [
+    {
+      "meaning": "由横线和竖线交叉形成的方格网状结构，通常用于组织或规划",
+      "usage": "指物理或抽象的网格结构，如城市街道布局、表格或设计图，常用于描述有序排列的系统。",
+      "collocations": ["power grid", "grid system", "grid layout"],
+      "examples": [
+        {
+          "scene": "一个城市规划师在会议上展示新的城市道路设计方案，强调道路的整齐排列。",
+          "chineseIdea": "描述一种有规律的道路网络，方便交通管理和城市发展。",
+          "sentenceWithBlank": "The new city plan features a well-organized @ @ for efficient traffic flow.",
+          "fullEnglishSentence": "The new city plan features a well-organized 「power grid」 for efficient traffic flow.",
+          "chineseTranslation": "新城市规划采用了一个组织良好的「电力网格」以实现高效的交通流动。",
+          "chinglishFix": "典型中式英语：'The city has a net road.' 纠正：'The city has a grid system for roads.'"
+        },
+        {
+          "scene": "一个工程师在讨论如何优化电厂的电力分配系统。",
+          "chineseIdea": "描述一个复杂的电力传输网络，确保电能稳定供应。",
+          "sentenceWithBlank": "Upgrading the @ @ is crucial for reducing energy loss.",
+          "fullEnglishSentence": "Upgrading the 「grid system」 is crucial for reducing energy loss.",
+          "chineseTranslation": "升级「网格系统」对于减少能源损失至关重要。",
+          "chinglishFix": "典型中式英语：'We need to make better the electric net.' 纠正：'We need to upgrade the power grid.'"
+        }
+      ]
+    },
+    {
+      "meaning": "在设计或技术领域中，用于对齐或定位的参考线网格",
+      "usage": "常用于平面设计、网页设计或建筑制图中，帮助设计师确保元素对齐和比例协调。",
+      "collocations": ["design grid", "grid lines", "snap to grid"],
+      "examples": [
+        {
+          "scene": "一个网页设计师在向客户解释如何确保页面元素整齐排列。",
+          "chineseIdea": "描述使用网格线来保持页面布局的美观和一致性。",
+          "sentenceWithBlank": "Using a @ @ ensures that all elements are perfectly aligned.",
+          "fullEnglishSentence": "Using a 「design grid」 ensures that all elements are perfectly aligned.",
+          "chineseTranslation": "使用「设计网格」可以确保所有元素完美对齐。",
+          "chinglishFix": "典型中式英语：'We use lines to make design neat.' 纠正：'We use a design grid to ensure a neat layout.'"
+        },
+        {
+          "scene": "一个建筑师在电脑软件中调整建筑图纸的元素位置。",
+          "chineseIdea": "描述通过网格对齐功能来提高绘图的精确度。",
+          "sentenceWithBlank": "The software allows you to @ @ @ for precise placement.",
+          "fullEnglishSentence": "The software allows you to 「snap to grid」 for precise placement.",
+          "chineseTranslation": "该软件允许你「对齐到网格」以实现精确放置。",
+          "chinglishFix": "典型中式英语：'The software helps stick to lines.' 纠正：'The software supports snapping to the grid.'"
+        }
+      ]
+    },
+    {
+      "meaning": "赛车运动中的起跑线排列",
+      "usage": "在赛车比赛中，指赛车在起跑线上的网格状排列位置，通常根据预赛成绩决定。",
+      "collocations": ["starting grid", "grid position", "front of the grid"],
+      "examples": [
+        {
+          "scene": "一个赛车迷在观看F1比赛时讨论某位车手的起跑位置。",
+          "chineseIdea": "描述车手在起跑时的有利位置对比赛结果的影响。",
+          "sentenceWithBlank": "Securing a spot at the @ @ @ gives him a great chance to lead.",
+          "fullEnglishSentence": "Securing a spot at the 「front of the grid」 gives him a great chance to lead.",
+          "chineseTranslation": "在「网格前排」获得一个位置让他有很大机会领先。",
+          "chinglishFix": "典型中式英语：'He starts at the grid’s head.' 纠正：'He starts at the front of the grid.'"
+        },
+        {
+          "scene": "一个赛车评论员在赛前分析车手的位置安排。",
+          "chineseIdea": "描述起跑位置如何影响比赛策略。",
+          "sentenceWithBlank": "His poor qualifying time left him in a bad @ @.",
+          "fullEnglishSentence": "His poor qualifying time left him in a bad 「grid position」.",
+          "chineseTranslation": "他糟糕的排位赛时间让他处于不利的「网格位置」。",
+          "chinglishFix": "典型中式英语：'He is in a bad place of the grid.' 纠正：'He is in a poor grid position.'"
+        }
+      ]
+    }
+  ]
+}
+```

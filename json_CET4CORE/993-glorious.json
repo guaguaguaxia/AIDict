@@ -1,0 +1,61 @@
+```json
+{
+  "word": "glorious",
+  "definitions": [
+    {
+      "meaning": "光荣的，辉煌的，极好的（指某事物非常美好、令人愉悦或令人印象深刻）",
+      "usage": "常用于描述令人赞叹的事物、成就或体验，带有强烈的正面情感，强调壮丽或卓越的特质。可以形容自然景象、历史事件、个人成就等。",
+      "collocations": [
+        "glorious victory",
+        "glorious day",
+        "glorious history"
+      ],
+      "examples": [
+        {
+          "scene": "一个阳光明媚的周末早晨，你和朋友们决定去郊外徒步。山间的清风、盛开的野花和温暖的阳光让你感到无比愉悦。",
+          "chineseIdea": "你想表达这一天的天气和景色非常美好，让人感到振奋和满足。",
+          "sentenceWithBlank": "It was a truly @ @ for hiking with friends.",
+          "fullEnglishSentence": "It was a truly 「glorious day」 for hiking with friends.",
+          "chineseTranslation": "这真是一个「美好的日子」，非常适合和朋友们去徒步。",
+          "chinglishFix": "典型中式英语：'The weather is very good day.' 纠正：'It’s a glorious day.'（避免直接翻译天气好，而用更自然的表达来形容整体体验。）"
+        },
+        {
+          "scene": "你在学校的历史课上，老师讲述了一场重要的战争，强调某个国家在这场战争中取得了惊人的成功。",
+          "chineseIdea": "你想表达这场胜利是伟大的、令人敬佩的，充满了荣耀。",
+          "sentenceWithBlank": "The nation celebrated its @ @ in the war.",
+          "fullEnglishSentence": "The nation celebrated its 「glorious victory」 in the war.",
+          "chineseTranslation": "这个国家庆祝了它在战争中的「辉煌胜利」。",
+          "chinglishFix": "典型中式英语：'The country won a very big victory.' 纠正：'The nation achieved a glorious victory.'（避免用‘big’这种笼统形容词，改为更精确且情感丰富的‘glorious’。）"
+        }
+      ]
+    },
+    {
+      "meaning": "壮丽的，华丽的（指外表或视觉上的宏伟、华美）",
+      "usage": "用于形容视觉上令人震撼的事物，如建筑、自然景观或艺术作品，强调其宏伟或精美的外观。",
+      "collocations": [
+        "glorious sunset",
+        "glorious palace",
+        "glorious view"
+      ],
+      "examples": [
+        {
+          "scene": "你站在海边，目睹太阳缓缓沉入地平线，天空被染成金色和粉红色，景色美得令人屏息。",
+          "chineseIdea": "你想表达这个日落非常壮观，充满了视觉上的震撼。",
+          "sentenceWithBlank": "We stood in awe of the @ @ over the ocean.",
+          "fullEnglishSentence": "We stood in awe of the 「glorious sunset」 over the ocean.",
+          "chineseTranslation": "我们惊叹于海洋上空的「壮丽日落」。",
+          "chinglishFix": "典型中式英语：'The sunset is very beautiful.' 纠正：'The sunset was glorious.'（避免用‘beautiful’这种常见但平淡的词，改为更有冲击力的‘glorious’。）"
+        },
+        {
+          "scene": "你参观了一座历史悠久的欧洲皇宫，里面的装饰和建筑风格让你感到震撼。",
+          "chineseIdea": "你想表达这座宫殿外观宏伟，充满了华丽的气派。",
+          "sentenceWithBlank": "The tourists were amazed by the @ @ in the capital.",
+          "fullEnglishSentence": "The tourists were amazed by the 「glorious palace」 in the capital.",
+          "chineseTranslation": "游客们对首都的「华丽宫殿」感到惊叹。",
+          "chinglishFix": "典型中式英语：'The palace is very luxury.' 纠正：'The palace is glorious.'（避免用‘luxury’错误形容建筑，改为更贴切的‘glorious’来突出宏伟。）"
+        }
+      ]
+    }
+  ]
+}
+```
