@@ -1,0 +1,53 @@
+```json
+{
+  "word": "standpoint",
+  "definitions": [
+    {
+      "meaning": "观点、立场",
+      "usage": "指某人对某事物的看法、态度或观点，通常用于表达在特定情境下的思考角度，常出现在讨论、辩论或分析中。",
+      "collocations": ["from a certain standpoint", "from the standpoint of", "adopt a standpoint"],
+      "examples": [
+        {
+          "scene": "在一场关于环境保护的会议上，来自不同行业的代表正在讨论如何平衡经济发展和生态保护。一位环保主义者希望强调生态优先的观点。",
+          "chineseIdea": "环保主义者想表达从生态保护的角度来看，经济发展不应该牺牲环境。",
+          "sentenceWithBlank": "Looking @ @ @ @, prioritizing economic growth over environmental protection is unsustainable.",
+          "fullEnglishSentence": "Looking 「from the standpoint of」 environmental protection, prioritizing economic growth over environmental protection is unsustainable.",
+          "chineseTranslation": "从「环境保护的立场」来看，优先考虑经济增长而忽视环境保护是不可持续的。",
+          "chinglishFix": "典型中式英语：'From environment protection's view, economy first is not good.' 纠正：'From the standpoint of environmental protection, prioritizing the economy is unsustainable.'"
+        },
+        {
+          "scene": "在一家公司的战略会议上，市场部经理和财务部经理针对是否进入新市场展开激烈争论。市场部经理希望从市场机会的角度说服大家。",
+          "chineseIdea": "市场部经理想表达从市场潜力的角度看，进入新市场是值得的。",
+          "sentenceWithBlank": "If we @ @ @ @ market potential, entering this region could significantly boost our revenue.",
+          "fullEnglishSentence": "If we 「adopt a standpoint」 of market potential, entering this region could significantly boost our revenue.",
+          "chineseTranslation": "如果我们「采取市场潜力的立场」，进入这个地区可以显著提升我们的收入。",
+          "chinglishFix": "典型中式英语：'Stand on market potential, we should enter this area.' 纠正：'From the standpoint of market potential, entering this region is beneficial.'"
+        }
+      ]
+    },
+    {
+      "meaning": "角度、视角",
+      "usage": "指看待问题或情况的特定角度，通常强调观察或分析的切入点，常用于学术、哲学或理论性讨论中。",
+      "collocations": ["from a practical standpoint", "from a theoretical standpoint", "consider from the standpoint of"],
+      "examples": [
+        {
+          "scene": "在一堂大学哲学课上，教授引导学生讨论人工智能的伦理问题，鼓励学生从实际应用的角度思考。",
+          "chineseIdea": "教授希望学生从实际的角度分析人工智能可能带来的社会影响。",
+          "sentenceWithBlank": "Examining AI ethics @ @ @ @, we must focus on real-world consequences like job displacement.",
+          "fullEnglishSentence": "Examining AI ethics 「from a practical standpoint」, we must focus on real-world consequences like job displacement.",
+          "chineseTranslation": "从「实际的角度」考察人工智能伦理，我们必须关注现实世界的后果，如工作岗位流失。",
+          "chinglishFix": "典型中式英语：'From practical view, AI ethics is important.' 纠正：'From a practical standpoint, AI ethics requires attention to real-world impacts.'"
+        },
+        {
+          "scene": "在一次学术研讨会上，研究人员讨论气候变化模型的局限性。一位科学家提出从理论角度看，现有模型可能过于简化。",
+          "chineseIdea": "科学家想表达从理论的角度看，气候模型需要更复杂的假设。",
+          "sentenceWithBlank": "If we @ @ @ @ climate modeling, current approaches may oversimplify complex systems.",
+          "fullEnglishSentence": "If we 「consider from the standpoint of」 climate modeling, current approaches may oversimplify complex systems.",
+          "chineseTranslation": "如果我们「从气候建模的角度考虑」，当前的方法可能过于简化了复杂系统。",
+          "chinglishFix": "典型中式英语：'From climate model’s angle, it is too simple.' 纠正：'From the standpoint of climate modeling, current models are overly simplistic.'"
+        }
+      ]
+    }
+  ]
+}
+```

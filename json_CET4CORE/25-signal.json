@@ -1,0 +1,76 @@
+```json
+{
+  "word": "signal",
+  "definitions": [
+    {
+      "meaning": "信号，标志（作为传递信息或指令的某种动作、声音或物体）",
+      "usage": "指通过某种方式（灯光、声音、手势等）传递信息或指令，常用于交通、通信或人际交流中。",
+      "collocations": ["send a signal", "receive a signal", "give a signal", "clear signal"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的火车站，列车员需要确保火车安全出发。他站在月台上，观察调度员的指示。",
+          "chineseIdea": "列车员通过观察调度员的手势来确认火车可以安全启动。",
+          "sentenceWithBlank": "The conductor waited for the dispatcher to @ @ @ before starting the train.",
+          "fullEnglishSentence": "The conductor waited for the dispatcher to 「give a signal」 before starting the train.",
+          "chineseTranslation": "列车员等待调度员「给出信号」后才启动火车。",
+          "chinglishFix": "典型中式英语：'The conductor waited for the dispatcher to make a signal.' 纠正：'Make a signal' 不自然，正确的搭配是 'give a signal'，表示主动发出信号。"
+        },
+        {
+          "scene": "在一个嘈杂的战场上，指挥官需要通过无线电与部队保持联系，以协调行动。",
+          "chineseIdea": "指挥官通过无线电接收指令，以确保部队行动一致。",
+          "sentenceWithBlank": "The commander struggled to @ @ @ due to the heavy interference.",
+          "fullEnglishSentence": "The commander struggled to 「receive a signal」 due to the heavy interference.",
+          "chineseTranslation": "由于严重干扰，指挥官难以「接收信号」。",
+          "chinglishFix": "典型中式英语：'The commander couldn’t catch the signal.' 纠正：'Catch the signal' 不常用于无线电语境，正确的搭配是 'receive a signal'，表示接收信号。"
+        }
+      ]
+    },
+    {
+      "meaning": "征兆，迹象（表明某事可能发生或存在的暗示）",
+      "usage": "指某种现象或行为作为未来事件或趋势的预兆，常用于描述经济、社会或个人行为的趋势。",
+      "collocations": ["strong signal", "mixed signals", "early signal", "positive signal"],
+      "examples": [
+        {
+          "scene": "在公司年度会议上，高管宣布将增加研发预算，这让员工们感到振奋。",
+          "chineseIdea": "高管的决定被视为公司对创新的承诺。",
+          "sentenceWithBlank": "The CEO’s announcement was seen as a @ @ @ of the company’s commitment to innovation.",
+          "fullEnglishSentence": "The CEO’s announcement was seen as a 「positive signal」 of the company’s commitment to innovation.",
+          "chineseTranslation": "首席执行官的声明被视为公司对创新承诺的「积极信号」。",
+          "chinglishFix": "典型中式英语：'The CEO’s announcement was a good signal.' 纠正：'Good signal' 过于笼统，'positive signal' 更精确，强调积极的趋势或意图。"
+        },
+        {
+          "scene": "在一场谈判中，双方对关键条款的态度让气氛变得微妙。",
+          "chineseIdea": "双方在谈判中的模糊表态让人难以判断他们的真实意图。",
+          "sentenceWithBlank": "The negotiators’ vague responses sent @ @ @ about their true intentions.",
+          "fullEnglishSentence": "The negotiators’ vague responses sent 「mixed signals」 about their true intentions.",
+          "chineseTranslation": "谈判者模糊的回应发出了关于他们真实意图的「混合信号」。",
+          "chinglishFix": "典型中式英语：'The negotiators gave confused signals.' 纠正：'Confused signals' 不地道，正确的搭配是 'mixed signals'，表示信息矛盾或不明确。"
+        }
+      ]
+    },
+    {
+      "meaning": "信号（技术上指电子或无线电信号）",
+      "usage": "指电子设备或通信系统中的信号，如手机信号、电视信号等，常用于描述技术领域的通信质量。",
+      "collocations": ["weak signal", "strong signal", "lose the signal", "boost the signal"],
+      "examples": [
+        {
+          "scene": "在一个偏远的山区，游客试图用手机联系救援队，但发现手机没有信号。",
+          "chineseIdea": "游客因为手机信号不好而无法联系外界。",
+          "sentenceWithBlank": "The hiker couldn’t make a call because the phone had a @ @ @.",
+          "fullEnglishSentence": "The hiker couldn’t make a call because the phone had a 「weak signal」.",
+          "chineseTranslation": "徒步者无法拨打电话，因为手机的「信号很弱」。",
+          "chinglishFix": "典型中式英语：'The phone had a bad signal.' 纠正：'Bad signal' 虽然能理解，但 'weak signal' 是更常见的术语，特指信号强度不足。"
+        },
+        {
+          "scene": "在一个地下停车场，司机试图用车载导航系统，但导航不断中断。",
+          "chineseIdea": "司机因为导航信号丢失而找不到正确的路线。",
+          "sentenceWithBlank": "The driver got lost after the GPS @ @ @ in the underground parking lot.",
+          "fullEnglishSentence": "The driver got lost after the GPS 「lost the signal」 in the underground parking lot.",
+          "chineseTranslation": "司机在地下停车场迷路了，因为GPS「丢失了信号」。",
+          "chinglishFix": "典型中式英语：'The GPS didn’t have signal.' 纠正：'Didn’t have signal' 不够精确，'lost the signal' 更准确地描述信号中断的情况。"
+        }
+      ]
+    }
+  ]
+}
+```

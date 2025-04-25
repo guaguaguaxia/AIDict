@@ -1,0 +1,76 @@
+```json
+{
+  "word": "theory",
+  "definitions": [
+    {
+      "meaning": "解释自然或社会现象的系统化知识或原则，通常基于观察和实验",
+      "usage": "指科学或学术领域中经过验证或广泛接受的解释体系，常用于描述自然规律或现象的框架，如物理学、生物学等学科中的理论。",
+      "collocations": ["develop a theory", "test a theory", "support a theory"],
+      "examples": [
+        {
+          "scene": "一位物理学教授在课堂上向学生介绍爱因斯坦的相对论，强调它如何改变了我们对时间和空间的理解。",
+          "chineseIdea": "教授想要说明一个新的科学解释是如何被提出并逐渐被接受的。",
+          "sentenceWithBlank": "Einstein was able to @ @ @ that revolutionized our understanding of physics.",
+          "fullEnglishSentence": "Einstein was able to 「develop a theory」 that revolutionized our understanding of physics.",
+          "chineseTranslation": "爱因斯坦能够「提出一个理论」，彻底改变了我们对物理学的理解。",
+          "chinglishFix": "典型中式英语：'He invented a theory.' 纠正：'Invent' 用于发明有形物体，理论应使用 'develop' 或 'propose'，如 'He developed a theory.'"
+        },
+        {
+          "scene": "一群科学家在实验室中通过实验验证一个关于气候变化的假设，希望确认其准确性。",
+          "chineseIdea": "科学家们试图通过数据和实验来检验一个解释是否可靠。",
+          "sentenceWithBlank": "The researchers conducted experiments to @ @ @ about global warming.",
+          "fullEnglishSentence": "The researchers conducted experiments to 「test a theory」 about global warming.",
+          "chineseTranslation": "研究人员进行了实验以「验证一个理论」，该理论与全球变暖有关。",
+          "chinglishFix": "典型中式英语：'They check a theory.' 纠正：'Check' 不够正式且不常用于学术语境，应使用 'test' 或 'verify'，如 'They tested a theory.'"
+        }
+      ]
+    },
+    {
+      "meaning": "未经充分验证的假设或推测",
+      "usage": "指一种猜测或推测，通常基于有限的证据，尚未被广泛证明或接受，常用于日常对话或非正式语境。",
+      "collocations": ["have a theory", "propose a theory", "conspiracy theory"],
+      "examples": [
+        {
+          "scene": "朋友们在咖啡馆聊天，讨论为什么他们的共同好友最近总是很忙，提出了各种猜测。",
+          "chineseIdea": "朋友想表达自己对某人行为的猜测，但没有确凿证据。",
+          "sentenceWithBlank": "I @ @ @ that she’s secretly planning a big event.",
+          "fullEnglishSentence": "I 「have a theory」 that she’s secretly planning a big event.",
+          "chineseTranslation": "我「有个猜测」，她可能在秘密策划一个大型活动。",
+          "chinglishFix": "典型中式英语：'I think a theory.' 纠正：'Think' 不与 'theory' 搭配表达猜测，应使用 'have'，如 'I have a theory.'"
+        },
+        {
+          "scene": "一名侦探在调查案件时，向同事分享他对嫌疑人动机的初步想法，尽管还没有足够证据。",
+          "chineseIdea": "侦探想提出一个可能的解释，但强调这只是初步推测。",
+          "sentenceWithBlank": "The detective @ @ @ that the crime was motivated by revenge.",
+          "fullEnglishSentence": "The detective 「proposed a theory」 that the crime was motivated by revenge.",
+          "chineseTranslation": "侦探「提出了一个假设」，认为犯罪的动机是复仇。",
+          "chinglishFix": "典型中式英语：'He said a theory.' 纠正：'Say' 不适合表达提出假设，应使用 'propose' 或 'suggest'，如 'He proposed a theory.'"
+        }
+      ]
+    },
+    {
+      "meaning": "抽象的知识体系或学科的理论部分",
+      "usage": "指某一学科或领域的理论基础，通常与实践相对，强调抽象的知识或原则，如音乐理论、文学理论等。",
+      "collocations": ["study in theory", "apply in theory", "music theory"],
+      "examples": [
+        {
+          "scene": "一名学生在音乐学院学习如何分析乐曲的结构，老师要求他们先掌握基础知识。",
+          "chineseIdea": "学生需要学习音乐的理论部分，以便更好地理解和创作音乐。",
+          "sentenceWithBlank": "Before composing, students must @ @ @ to understand musical structures.",
+          "fullEnglishSentence": "Before composing, students must 「study in theory」 to understand musical structures.",
+          "chineseTranslation": "在作曲之前，学生必须「学习理论」以理解音乐结构。",
+          "chinglishFix": "典型中式英语：'They learn theory knowledge.' 纠正：英语中不常说 'theory knowledge'，应使用 'study theory' 或 'learn the theory'，如 'They study music theory.'"
+        },
+        {
+          "scene": "一位工程师在设计新产品时，发现实际操作与课堂上学到的知识有差距。",
+          "chineseIdea": "工程师想表达理论知识在现实中可能需要调整。",
+          "sentenceWithBlank": "The principles we learned might @ @ @ but fail in practice.",
+          "fullEnglishSentence": "The principles we learned might 「apply in theory」 but fail in practice.",
+          "chineseTranslation": "我们学到的原则可能「在理论上适用」，但在实践中失败。",
+          "chinglishFix": "典型中式英语：'It works in theory study.' 纠正：'Theory study' 不自然，应使用 'in theory'，如 'It works in theory.'"
+        }
+      ]
+    }
+  ]
+}
+```
