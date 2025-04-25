@@ -1,0 +1,65 @@
+```json
+{
+  "word": "dormitory",
+  "definitions": [
+    {
+      "meaning": "学生集体居住的住宿楼，通常由学校或大学提供",
+      "usage": "指大学或学校为学生提供的住宿设施，通常包含多个房间，学生共享公共区域如厨房、浴室或休息室。常用于描述校园生活或学生住宿安排。",
+      "collocations": ["live in a dormitory", "share a dormitory", "dormitory room", "move into a dormitory"],
+      "examples": [
+        {
+          "scene": "一名中国留学生刚到美国大学，第一次搬进学校提供的住宿楼，观察到房间虽小但设施齐全，室友来自不同国家。",
+          "chineseIdea": "描述新入住的学生如何适应集体住宿环境，感受新奇但也有些不适应。",
+          "sentenceWithBlank": "As a freshman, I was excited to @ @ @ with students from all over the world.",
+          "fullEnglishSentence": "As a freshman, I was excited to 「live in a dormitory」 with students from all over the world.",
+          "chineseTranslation": "作为一名大一新生，我很兴奋能和来自世界各地的学生一起「住进宿舍」。",
+          "whiteFix": {
+            "chinglish": "I live in dormitory with many foreigners.",
+            "corrected": "I live in a dormitory with many international students."
+          }
+        },
+        {
+          "scene": "大学开学季，一群新生在校园宿舍楼里忙碌地整理房间，互相介绍，讨论如何布置共享空间。",
+          "chineseIdea": "描述学生们如何在集体住宿环境中建立关系，共同使用空间。",
+          "sentenceWithBlank": "My roommate and I decided to @ @ @ to save space and make it more comfortable.",
+          "fullEnglishSentence": "My roommate and I decided to 「share a dormitory」 to save space and make it more comfortable.",
+          "chineseTranslation": "我和室友决定「合住一间宿舍」以节省空间并让生活更舒适。",
+          "chinglishFix": {
+            "chinglish": "We share dormitory for save space.",
+            "corrected": "We share a dormitory to save space."
+          }
+        }
+      ]
+    },
+    {
+      "meaning": "集体住宿设施，通常指为特定群体（如工人、士兵等）提供的住宿",
+      "usage": "指非学生群体（如工人、士兵或临时工作者）居住的集体住宿场所，通常强调功能性而非舒适性，常用于描述简朴的居住环境。",
+      "collocations": ["workers' dormitory", "military dormitory", "stay in a dormitory", "dormitory building"],
+      "examples": [
+        {
+          "scene": "一家工厂为外地工人提供住宿，工人下班后回到简朴的集体住宿楼，房间内只有基本的生活设施。",
+          "chineseIdea": "描述工人如何在简单环境中休息，适应集体生活的规律。",
+          "sentenceWithBlank": "After a long shift, the workers returned to the @ @ @ to rest.",
+          "fullEnglishSentence": "After a long shift, the workers returned to the 「workers' dormitory」 to rest.",
+          "chineseTranslation": "在长时间工作后，工人们回到「工人宿舍」休息。",
+          "chinglishFix": {
+            "chinglish": "Workers go back dormitory after work.",
+            "corrected": "The workers return to the dormitory after work."
+          }
+        },
+        {
+          "scene": "一群新兵在军营中接受训练，晚上回到集体住宿楼，讨论当天的训练内容，准备第二天的任务。",
+          "chineseIdea": "描述士兵在严格的集体环境中如何适应住宿和纪律。",
+          "sentenceWithBlank": "The recruits were assigned to a @ @ @ for the duration of their training.",
+          "fullEnglishSentence": "The recruits were assigned to a 「military dormitory」 for the duration of their training.",
+          "chineseTranslation": "新兵们被分配到「军营宿舍」居住，直到训练结束。",
+          "chinglishFix": {
+            "chinglish": "Soldiers live in dormitory of army.",
+            "corrected": "The soldiers live in a military dormitory."
+          }
+        }
+      ]
+    }
+  ]
+}
+```

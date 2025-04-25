@@ -1,0 +1,53 @@
+```json
+{
+  "word": "entitle",
+  "definitions": [
+    {
+      "meaning": "赋予权利或资格",
+      "usage": "指给予某人某种权利、特权或资格，通常用于法律、正式或制度化的语境中。",
+      "collocations": ["to a benefit", "to a pension", "to vote", "to compensation"],
+      "examples": [
+        {
+          "scene": "小明在公司工作满五年后，公司根据劳动合同规定，他可以享受额外的带薪休假。他向HR询问自己是否有资格。",
+          "chineseIdea": "小明想确认自己是否因为工作年限而获得了额外的休假权利。",
+          "sentenceWithBlank": "After five years of service, he was @ @ @ extra paid leave.",
+          "fullEnglishSentence": "After five years of service, he was 「entitled to a benefit」 of extra paid leave.",
+          "chineseTranslation": "在服务五年后，他有权「获得额外带薪休假的福利」。",
+          "chinglishFix": "典型中式英语：'He can get extra holiday because he worked five years.' 纠正：'He is entitled to extra paid leave after five years of service.'（使用'entitled to'更准确地表达权利的赋予。）"
+        },
+        {
+          "scene": "李阿姨退休后，政府通知她可以领取养老金。她去社保局确认自己的资格。",
+          "chineseIdea": "李阿姨想知道自己是否符合领取养老金的条件。",
+          "sentenceWithBlank": "Upon retirement, she was @ @ @ monthly payments.",
+          "fullEnglishSentence": "Upon retirement, she was 「entitled to a pension」 of monthly payments.",
+          "chineseTranslation": "退休后，她有权「领取每月养老金」。",
+          "chinglishFix": "典型中式英语：'She can take pension after retire.' 纠正：'She is entitled to a pension after retirement.'（'entitled to'更正式且符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "给……命名；题名",
+      "usage": "指为书籍、文章、电影等命名，通常用于正式或书面语境，强调标题的赋予。",
+      "collocations": ["a book", "an article", "a film", "a chapter"],
+      "examples": [
+        {
+          "scene": "张教授完成了一本关于中国历史的书，出版社要求他为这本书取一个吸引人的标题。",
+          "chineseIdea": "张教授需要为自己的学术著作选择一个合适的书名。",
+          "sentenceWithBlank": "He @ @ @ 'The Rise of Modern China'.",
+          "fullEnglishSentence": "He 「entitled a book」 'The Rise of Modern China'.",
+          "chineseTranslation": "他将一本书「命名为『现代中国的崛起』」。",
+          "chinglishFix": "典型中式英语：'He named his book as The Rise of Modern China.' 纠正：'He entitled his book The Rise of Modern China.'（'entitled'在命名书籍时更正式且常见。）"
+        },
+        {
+          "scene": "小红是一名记者，她写了一篇关于环保的文章，编辑要求她为文章拟一个标题。",
+          "chineseIdea": "小红需要为自己的文章取一个能吸引读者的标题。",
+          "sentenceWithBlank": "She @ @ @ 'Green Living: Sustainable Practices'.",
+          "fullEnglishSentence": "She 「entitled an article」 'Green Living: Sustainable Practices'.",
+          "chineseTranslation": "她将一篇文章「命名为『绿色生活：可持续实践』」。",
+          "chinglishFix": "典型中式英语：'She called her article Green Living.' 纠正：'She entitled her article Green Living: Sustainable Practices.'（'entitled'更适合正式的文章命名。）"
+        }
+      ]
+    }
+  ]
+}
+```
