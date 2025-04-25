@@ -1,0 +1,76 @@
+```json
+{
+  "word": "offense",
+  "definitions": [
+    {
+      "meaning": "违法或犯罪行为",
+      "usage": "指违反法律或规定的行为，通常用于法律或正式语境中，可能涉及轻微违规或严重犯罪。",
+      "collocations": ["commit an offense", "minor offense", "serious offense"],
+      "examples": [
+        {
+          "scene": "在一个安静的小镇上，小明因为在禁止停车的区域停车而被警察拦下。警察告诉他，这是一种违规行为，需要缴纳罚款。",
+          "chineseIdea": "小明觉得自己只是停了一会儿车，没想到这会被视为一种违法行为，让他感到有点委屈。",
+          "sentenceWithBlank": "The police officer explained that parking in a restricted area is considered @ @ @.",
+          "fullEnglishSentence": "The police officer explained that parking in a restricted area is considered 「to commit an offense」.",
+          "chineseTranslation": "警察解释说，在禁停区域停车被视为「犯了违法行为」。",
+          "chinglishFix": "典型中式英语：'He did a wrong parking.' 纠正：'He committed an offense by parking illegally.'"
+        },
+        {
+          "scene": "在一次学校会议上，老师提醒学生，即使是小事，比如在课堂上使用手机，也可能被记录为违规行为。",
+          "chineseIdea": "学生们觉得用手机只是小事，但老师强调这种行为也会被视为违规，需要改正。",
+          "sentenceWithBlank": "Using a phone during class is regarded as a @ @.",
+          "fullEnglishSentence": "Using a phone during class is regarded as a 「minor offense」.",
+          "chineseTranslation": "在课堂上使用手机被视为一种「轻微违规」。",
+          "chinglishFix": "典型中式英语：'This is a small mistake.' 纠正：'This is considered a minor offense.'"
+        }
+      ]
+    },
+    {
+      "meaning": "冒犯或得罪",
+      "usage": "指言语或行为让人感到被侮辱、不快或受伤，通常用于社交或人际交往场景。",
+      "collocations": ["cause offense", "take offense", "no offense"],
+      "examples": [
+        {
+          "scene": "在公司聚会上，小红不小心提到同事的年龄，引发了尴尬的气氛，因为对方觉得这话有点冒犯。",
+          "chineseIdea": "小红只是想开个玩笑，但没想到她的评论会被认为是无礼的，让她感到很抱歉。",
+          "sentenceWithBlank": "Her comment about his age was not meant to @ @.",
+          "fullEnglishSentence": "Her comment about his age was not meant to 「cause offense」.",
+          "chineseTranslation": "她关于他年龄的评论并非有意「冒犯」。",
+          "chinglishFix": "典型中式英语：'I didn’t want to make him angry.' 纠正：'I didn’t mean to cause offense.'"
+        },
+        {
+          "scene": "在一个国际交流活动中，小刚直言不讳地批评了某人的观点，结果对方显得很不高兴，觉得受到了攻击。",
+          "chineseIdea": "小刚觉得自己只是表达意见，但没意识到对方会因为他的直率而感到被冒犯。",
+          "sentenceWithBlank": "He didn’t expect her to @ @ at his blunt feedback.",
+          "fullEnglishSentence": "He didn’t expect her to 「take offense」 at his blunt feedback.",
+          "chineseTranslation": "他没想到她会因为他直率的反馈而「感到被冒犯」。",
+          "chinglishFix": "典型中式英语：'She was unhappy with my words.' 纠正：'She took offense at my comments.'"
+        }
+      ]
+    },
+    {
+      "meaning": "进攻（尤其在体育或军事中）",
+      "usage": "指在体育比赛或军事行动中主动攻击或进攻的一方，与防守（defense）相对。",
+      "collocations": ["go on the offense", "strong offense", "lead the offense"],
+      "examples": [
+        {
+          "scene": "在一场激烈的篮球比赛中，球队在下半场改变了策略，决定全力进攻以追回比分。",
+          "chineseIdea": "球队意识到只有主动出击，才能扭转局势，因此他们加强了进攻。",
+          "sentenceWithBlank": "The team decided to @ @ @ to close the score gap.",
+          "fullEnglishSentence": "The team decided to 「go on the offense」 to close the score gap.",
+          "chineseTranslation": "球队决定「展开进攻」以缩小比分差距。",
+          "chinglishFix": "典型中式英语：'They attacked more.' 纠正：'They went on the offense.'"
+        },
+        {
+          "scene": "在足球比赛中，教练安排了一名速度很快的球员来主导进攻，希望打破对方的防线。",
+          "chineseIdea": "教练希望通过快速的进攻来创造得分机会，因此选择了最适合的球员来执行这个任务。",
+          "sentenceWithBlank": "The coach chose the fastest player to @ @ @.",
+          "fullEnglishSentence": "The coach chose the fastest player to 「lead the offense」.",
+          "chineseTranslation": "教练选择了最快的球员来「领导进攻」。",
+          "chinglishFix": "典型中式英语：'He was responsible for attacking.' 纠正：'He was tasked with leading the offense.'"
+        }
+      ]
+    }
+  ]
+}
+```
