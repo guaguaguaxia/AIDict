@@ -1,0 +1,53 @@
+```json
+{
+  "word": "item",
+  "definitions": [
+    {
+      "meaning": "单个物件或条目，通常指列表中的一个单位或具体的一个东西",
+      "usage": "常用于描述清单、购物单、库存中的单个条目，或者具体的一个物件。可以用在正式或非正式语境中，常与列表、收集、购买等场景相关。",
+      "collocations": ["add an item", "remove an item", "check an item", "purchase an item"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的周六早晨，李明正在超市购物。他拿着一张购物清单，上面列着需要购买的各种东西。他站在货架前，核对清单上的每一条。",
+          "chineseIdea": "李明想确保自己买齐清单上的每件东西，所以他逐一确认并放入购物车。",
+          "sentenceWithBlank": "He decided to @ @ @ to his shopping list because he noticed they were out of milk.",
+          "fullEnglishSentence": "He decided to 「add an item」 to his shopping list because he noticed they were out of milk.",
+          "chineseTranslation": "他决定「添加一个条目」到他的购物清单上，因为他发现家里没牛奶了。",
+          "chinglishFix": "典型中式英语：'He added one thing to his list.' 纠正：'Add one thing' 不够具体，英语中更常说 「add an item」 来指代清单上的条目。"
+        },
+        {
+          "scene": "在一家服装店里，张丽正在整理自己的购物篮。她试穿了几件衣服后，决定只买其中的一件，因为预算有限。",
+          "chineseIdea": "张丽在检查购物篮里的东西时，决定去掉一件不那么需要的衣服，以节省开支。",
+          "sentenceWithBlank": "She chose to @ @ @ from her basket to stay within her budget.",
+          "fullEnglishSentence": "She chose to 「remove an item」 from her basket to stay within her budget.",
+          "chineseTranslation": "她选择「移除一个条目」从她的购物篮中，以控制预算。",
+          "chinglishFix": "典型中式英语：'She took out one thing from her basket.' 纠正：'Take out one thing' 听起来不够自然，英语中更常用 「remove an item」 来描述从购物篮或清单中删除条目。"
+        }
+      ]
+    },
+    {
+      "meaning": "新闻报道或信息中的一个条目，通常指简短的报道或消息",
+      "usage": "常见于新闻、广播或媒体语境，指一篇简短的报道或消息条目。常用于描述报纸、网站或电视新闻中的单个报道。",
+      "collocations": ["feature an item", "publish an item", "read an item"],
+      "examples": [
+        {
+          "scene": "王强是一个新闻爱好者，每天早晨他都会浏览新闻网站，快速阅读当天的头条和各种简短报道。",
+          "chineseIdea": "王强对本地社区的活动很感兴趣，他特别留意有关文化节的简讯。",
+          "sentenceWithBlank": "The local news website decided to @ @ @ about the upcoming cultural festival.",
+          "fullEnglishSentence": "The local news website decided to 「feature an item」 about the upcoming cultural festival.",
+          "chineseTranslation": "本地新闻网站决定「刊登一篇报道」关于即将举办的文化节。",
+          "chinglishFix": "典型中式英语：'The website showed one news about the festival.' 纠正：'Show one news' 不符合英语习惯，英语中更常用 「feature an item」 来表示突出某条新闻或报道。"
+        },
+        {
+          "scene": "在一家咖啡店里，赵梅正在翻看当天的报纸。她快速浏览了几条简讯，寻找有关科技的新闻。",
+          "chineseIdea": "赵梅对新科技产品发布很感兴趣，她希望找到一篇相关的简短报道。",
+          "sentenceWithBlank": "She was excited to @ @ @ about a new smartphone release in the newspaper.",
+          "fullEnglishSentence": "She was excited to 「read an item」 about a new smartphone release in the newspaper.",
+          "chineseTranslation": "她兴奋地「阅读一篇报道」关于报纸上新智能手机的发布。",
+          "chinglishFix": "典型中式英语：'She read one news about the phone.' 纠正：'One news' 用法不地道，英语中更常用 「read an item」 来指阅读某条具体报道。"
+        }
+      ]
+    }
+  ]
+}
+```

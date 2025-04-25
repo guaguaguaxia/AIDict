@@ -1,0 +1,53 @@
+```json
+{
+  "word": "injure",
+  "definitions": [
+    {
+      "meaning": "Physical harm or damage to a person or animal",
+      "usage": "Refers to causing physical damage to a living being, often through accidents, violence, or negligence. Commonly used in medical, legal, or everyday contexts to describe bodily harm.",
+      "collocations": ["sustain an injury", "seriously injured", "accidentally injure"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的建筑工地上，一名工人不小心从梯子上摔下来，摔伤了腿。",
+          "chineseIdea": "描述一个人因为意外事故而受到身体上的伤害，通常需要医疗干预。",
+          "sentenceWithBlank": "The worker fell from the ladder and @ @ @.",
+          "fullEnglishSentence": "The worker fell from the ladder and 「sustained an injury」.",
+          "chineseTranslation": "工人从梯子上摔下来「受了伤」。",
+          "chinglishFix": "Chinglish: 'He got hurt a wound.' Correction: 'He sustained an injury.' Explanation: 'Got hurt' is too vague, and 'a wound' is not idiomatic in this context."
+        },
+        {
+          "scene": "在一场激烈的足球比赛中，一名球员因为对手的粗暴动作而倒地，膝盖受到严重伤害。",
+          "chineseIdea": "描述在运动中因外力导致的严重身体损伤，通常伴随着疼痛和长期恢复。",
+          "sentenceWithBlank": "The player was @ @ after a harsh tackle.",
+          "fullEnglishSentence": "The player was 「seriously injured」 after a harsh tackle.",
+          "chineseTranslation": "球员在一次粗暴的铲球后「受了重伤」。",
+          "chinglishFix": "Chinglish: 'He was heavy hurt.' Correction: 'He was seriously injured.' Explanation: 'Heavy hurt' is not a natural English expression; 'seriously injured' is the correct collocation."
+        }
+      ]
+    },
+    {
+      "meaning": "Damage to reputation, feelings, or interests",
+      "usage": "Refers to non-physical harm, such as damaging someone's reputation, emotions, or interests. Often used in formal or figurative contexts, like legal disputes or personal relationships.",
+      "collocations": ["injure someone's reputation", "injure someone's feelings", "injure one's pride"],
+      "examples": [
+        {
+          "scene": "在一场公开的新闻发布会上，一名记者错误地指控公司高管贪污，导致高管的名声受损。",
+          "chineseIdea": "描述通过公开的批评或错误指控对某人社会形象的损害。",
+          "sentenceWithBlank": "The false accusation could @ @ @ in the public eye.",
+          "fullEnglishSentence": "The false accusation could 「injure his reputation」 in the public eye.",
+          "chineseTranslation": "虚假指控可能会在公众眼中「损害他的名誉」。",
+          "chinglishFix": "Chinglish: 'His name was hurt.' Correction: 'His reputation was injured.' Explanation: 'Name' is too literal; 'reputation' is the appropriate term in English."
+        },
+        {
+          "scene": "在一个朋友聚会上，小明不小心说出了一句批评小红的话，让小红感到非常难过。",
+          "chineseIdea": "描述因言语或行为导致他人情感上的伤害，通常发生在亲密关系中。",
+          "sentenceWithBlank": "His careless comment might @ @ @.",
+          "fullEnglishSentence": "His careless comment might 「injure her feelings」.",
+          "chineseTranslation": "他不小心的评论可能会「伤害她的感情」。",
+          "chinglishFix": "Chinglish: 'Her heart was hurt.' Correction: 'Her feelings were injured.' Explanation: 'Heart' is overly dramatic and not idiomatic; 'feelings' is more natural."
+        }
+      ]
+    }
+  ]
+}
+```

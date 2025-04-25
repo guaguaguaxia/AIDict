@@ -1,0 +1,53 @@
+```json
+{
+  "word": "immeasurable",
+  "definitions": [
+    {
+      "meaning": "无法测量的；无限的",
+      "usage": "描述某事物因太大、太广或太深而无法量化或估算，常用于抽象概念如情感、影响或价值。",
+      "collocations": ["immeasurable impact", "immeasurable value", "immeasurable joy"],
+      "examples": [
+        {
+          "scene": "一位母亲在孩子的毕业典礼上，看着孩子走上领奖台，内心充满了无法言喻的情感。",
+          "chineseIdea": "母亲觉得自己的幸福和骄傲是如此巨大，仿佛无法用任何标准来衡量。",
+          "sentenceWithBlank": "Her heart swelled with @ @ as she watched her child receive the diploma.",
+          "fullEnglishSentence": "Her heart swelled with 「immeasurable joy」 as she watched her child receive the diploma.",
+          "chineseTranslation": "她的心因「无法测量的喜悦」而膨胀，看着孩子领取毕业证书。",
+          "chinglishFix": "典型中式英语：'Her happiness is very big.' 纠正：'Her happiness is immeasurable.'"
+        },
+        {
+          "scene": "一家公司在推出环保产品后，收到了全球用户的积极反馈，影响力超出了预期。",
+          "chineseIdea": "公司意识到他们的产品对环境和社会的正面作用是如此深远，难以用数据统计。",
+          "sentenceWithBlank": "The new eco-friendly product had an @ @ on global sustainability efforts.",
+          "fullEnglishSentence": "The new eco-friendly product had an 「immeasurable impact」 on global sustainability efforts.",
+          "chineseTranslation": "这款新环保产品对全球可持续发展努力产生了「无法测量的影响」。",
+          "chinglishFix": "典型中式英语：'The product affects the environment very much.' 纠正：'The product has an immeasurable impact on the environment.'"
+        }
+      ]
+    },
+    {
+      "meaning": "极大的；无边的",
+      "usage": "强调某事物在规模、程度或范围上非常巨大，几乎无法想象或界定，常用于描述空间、时间或抽象事物。",
+      "collocations": ["immeasurable distance", "immeasurable wealth", "immeasurable potential"],
+      "examples": [
+        {
+          "scene": "一个年轻人在夜晚仰望星空，思考宇宙的浩瀚，感到人类的渺小。",
+          "chineseIdea": "他觉得星星之间的距离是如此遥远，仿佛没有任何工具可以丈量。",
+          "sentenceWithBlank": "The stars seemed separated by an @ @ that humbled him.",
+          "fullEnglishSentence": "The stars seemed separated by an 「immeasurable distance」 that humbled him.",
+          "chineseTranslation": "星星之间仿佛被「无边的距离」隔开，让他感到谦卑。",
+          "chinglishFix": "典型中式英语：'The distance of stars is very far.' 纠正：'The distance between the stars is immeasurable.'"
+        },
+        {
+          "scene": "一位创业者在规划公司未来时，意识到团队的创造力和可能性无穷无尽。",
+          "chineseIdea": "她相信团队的能力没有上限，未来的成就可能是无限的。",
+          "sentenceWithBlank": "She believed her team had @ @ to achieve greatness.",
+          "fullEnglishSentence": "She believed her team had 「immeasurable potential」 to achieve greatness.",
+          "chineseTranslation": "她相信她的团队有「无限的潜力」去成就伟大。",
+          "chinglishFix": "典型中式英语：'Her team has very big potential.' 纠正：'Her team has immeasurable potential.'"
+        }
+      ]
+    }
+  ]
+}
+```
