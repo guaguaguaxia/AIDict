@@ -149,8 +149,14 @@ def get_json_data(API_KEY, start_alpha_list):
         api_key = get_env_value('api_key')
     model = "grok-3"
     # a to z
-    alpha_list = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n",
-                  "o", "p", "q", "r", "s", "t", "u", "v", "w", "x",
+    alpha_list = ["a", "b", "c",
+                  "d", "e", "f",
+                  "g", "h", "i",
+                  "j", "k", "l",
+                  "m", "n", "o",
+                  "p", "q", "r",
+                  "s", "t", "u",
+                  "v", "w", "x",
                   "y", "z"]
     used_list = []
     if start_alpha_list is None:
