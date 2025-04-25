@@ -1,0 +1,76 @@
+```json
+{
+  "word": "contact",
+  "definitions": [
+    {
+      "meaning": "与某人通信或联系",
+      "usage": "用作动词或名词，表示通过电话、电子邮件、面对面等方式与某人交流或建立联系。",
+      "collocations": ["make contact", "keep in contact", "lose contact"],
+      "examples": [
+        {
+          "scene": "你刚搬到一个新城市，想联系一位老朋友，询问他在当地的生活情况。",
+          "chineseIdea": "主动与某人建立联系，表达想了解对方近况的想法。",
+          "sentenceWithBlank": "I decided to @ @ with my high school friend to see how he’s doing in the new city.",
+          "fullEnglishSentence": "I decided to 「make contact」 with my high school friend to see how he’s doing in the new city.",
+          "chineseTranslation": "我决定「联系」我的高中朋友，看看他在新城市过得怎么样。",
+          "chinglishFix": "典型中式英语：I want to contact with him. 纠正：I want to 「make contact」 with him 或 I want to contact him（动词contact后不加with）。"
+        },
+        {
+          "scene": "你在工作中需要定期与客户沟通，确保项目进展顺利。",
+          "chineseIdea": "保持与某人的定期沟通，以维持关系或合作。",
+          "sentenceWithBlank": "Our team needs to @ @ @ with the client to ensure everything is on track.",
+          "fullEnglishSentence": "Our team needs to 「keep in contact」 with the client to ensure everything is on track.",
+          "chineseTranslation": "我们的团队需要与客户「保持联系」，以确保一切顺利。",
+          "chinglishFix": "典型中式英语：We must contact with the client often. 纠正：We must 「keep in contact」 with the client 或 We must contact the client regularly（避免不必要的with）。"
+        }
+      ]
+    },
+    {
+      "meaning": "接触或物理联系",
+      "usage": "用作名词，表示物体之间的物理触碰或人与物体之间的接触。",
+      "collocations": ["physical contact", "direct contact", "avoid contact"],
+      "examples": [
+        {
+          "scene": "你在健身房锻炼时，教练提醒你避免手肘与地面直接接触，以防止受伤。",
+          "chineseIdea": "强调避免身体某部位与某物体直接触碰，以保护自己。",
+          "sentenceWithBlank": "The coach advised me to @ @ with the floor to prevent elbow injuries.",
+          "fullEnglishSentence": "The coach advised me to 「avoid contact」 with the floor to prevent elbow injuries.",
+          "chineseTranslation": "教练建议我「避免接触」地面，以防止肘部受伤。",
+          "chinglishFix": "典型中式英语：Don’t touch the floor. 纠正：Don’t let your elbows 「make contact」 with the floor 或 「Avoid contact」 with the floor（更精确地表达避免物理接触）。"
+        },
+        {
+          "scene": "你在实验室工作，处理化学物质时需要小心避免皮肤与化学品直接接触。",
+          "chineseIdea": "强调防止身体与危险物质的直接接触，以确保安全。",
+          "sentenceWithBlank": "You must wear gloves to prevent @ @ with the chemicals.",
+          "fullEnglishSentence": "You must wear gloves to prevent 「direct contact」 with the chemicals.",
+          "chineseTranslation": "你必须戴手套，以防止与化学品「直接接触」。",
+          "chinglishFix": "典型中式英语：Don’t touch the chemicals. 纠正：Avoid 「direct contact」 with the chemicals（更专业且精确）。"
+        }
+      ]
+    },
+    {
+      "meaning": "人脉或联系人",
+      "usage": "用作名词，指在特定领域或行业中有用的人际关系或联系人。",
+      "collocations": ["business contact", "valuable contact", "network of contacts"],
+      "examples": [
+        {
+          "scene": "你参加一个行业会议，希望结识一些对你职业发展有帮助的人。",
+          "chineseIdea": "通过社交活动建立有价值的人脉关系。",
+          "sentenceWithBlank": "The conference was a great opportunity to meet a @ @ in the tech industry.",
+          "fullEnglishSentence": "The conference was a great opportunity to meet a 「valuable contact」 in the tech industry.",
+          "chineseTranslation": "这次会议是结识科技行业「有价值的联系人」的绝佳机会。",
+          "chinglishFix": "典型中式英语：I want to know some important people. 纠正：I want to meet some 「valuable contacts」（更自然且专业）。"
+        },
+        {
+          "scene": "你在找工作时，一位朋友推荐了他的熟人帮你引荐。",
+          "chineseIdea": "利用人脉网络寻找职业机会。",
+          "sentenceWithBlank": "My friend introduced me to his @ @ @ to help with my job search.",
+          "fullEnglishSentence": "My friend introduced me to his 「network of contacts」 to help with my job search.",
+          "chineseTranslation": "我的朋友把我介绍给他的「人脉网络」，以帮助我找工作。",
+          "chinglishFix": "典型中式英语：He has many relations to help me. 纠正：He has a strong 「network of contacts」 to help me（更贴近英语表达习惯）。"
+        }
+      ]
+    }
+  ]
+}
+```

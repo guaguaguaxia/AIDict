@@ -1,0 +1,53 @@
+```json
+{
+  "word": "alter",
+  "definitions": [
+    {
+      "meaning": "改变或修改某事物，使其在某种程度上不同",
+      "usage": "通常指对某事物进行部分调整或修改，强调结果的差异，但不完全改变其本质。常用于描述对计划、设计、行为或物理对象的调整。",
+      "collocations": ["alter a plan", "alter the course", "alter behavior"],
+      "examples": [
+        {
+          "scene": "在一家服装店，顾客购买了一件西装，但袖子略长，需要调整长度以更好地贴合身形。",
+          "chineseIdea": "顾客希望西装更合身，因此要求裁缝对袖子进行修改。",
+          "sentenceWithBlank": "The tailor offered to @ @ @ to make the suit fit better.",
+          "fullEnglishSentence": "The tailor offered to 「alter a plan」 to make the suit fit better.",
+          "chineseTranslation": "裁缝提出「修改计划」以使西装更合身。",
+          "chinglishFix": "典型中式英语：'Change the suit's size.' 纠正：'Alter the suit to fit better.'（'Change'过于笼统，'alter'更精确地表达调整或修改。）"
+        },
+        {
+          "scene": "在一场会议中，团队发现原定项目计划因资源限制无法按时完成，决定调整策略。",
+          "chineseIdea": "团队希望通过改变计划来适应新的资源情况。",
+          "sentenceWithBlank": "The manager decided to @ @ @ to meet the new constraints.",
+          "fullEnglishSentence": "The manager decided to 「alter the course」 to meet the new constraints.",
+          "chineseTranslation": "经理决定「改变路线」以适应新的限制。",
+          "chinglishFix": "典型中式英语：'Change the plan's way.' 纠正：'Alter the course of the plan.'（'Change the way'不地道，'alter the course'是更自然的搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "对衣物进行裁剪或改动以调整尺寸或款式",
+      "usage": "特指对衣物进行裁剪、缝纫或调整，使其更适合穿着者的身形或喜好。常见于裁缝或服装修改的语境。",
+      "collocations": ["alter a dress", "alter the hem", "alter a jacket"],
+      "examples": [
+        {
+          "scene": "一位女士买了一条连衣裙，但裙摆太长，走路不方便，她决定找裁缝改短。",
+          "chineseIdea": "女士希望裙子更适合日常穿着，因此需要调整裙摆长度。",
+          "sentenceWithBlank": "She asked the seamstress to @ @ @ for easier movement.",
+          "fullEnglishSentence": "She asked the seamstress to 「alter a dress」 for easier movement.",
+          "chineseTranslation": "她请裁缝「改动裙子」以便更轻松地活动。",
+          "chinglishFix": "典型中式英语：'Make the dress shorter.' 纠正：'Alter the dress to make it shorter.'（'Make shorter'缺乏语境，'alter'更贴合裁缝调整的语境。）"
+        },
+        {
+          "scene": "一位男士买了一件夹克，但下摆太宽，显得不够修身，他希望裁缝调整。",
+          "chineseIdea": "男士希望夹克更贴合身形，突出体型，因此需要修改下摆。",
+          "sentenceWithBlank": "He requested the tailor to @ @ @ for a slimmer fit.",
+          "fullEnglishSentence": "He requested the tailor to 「alter the hem」 for a slimmer fit.",
+          "chineseTranslation": "他要求裁缝「修改下摆」以获得更修身的效果。",
+          "chinglishFix": "典型中式英语：'Change the jacket's bottom.' 纠正：'Alter the hem of the jacket.'（'Change the bottom'不准确，'alter the hem'是专业术语。）"
+        }
+      ]
+    }
+  ]
+}
+```

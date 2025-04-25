@@ -1,0 +1,53 @@
+```json
+{
+  "word": "crisis",
+  "definitions": [
+    {
+      "meaning": "A time of intense difficulty, trouble, or danger",
+      "usage": "Refers to a critical situation where urgent action is needed to avoid severe consequences, often used in contexts like economics, politics, or personal emergencies.",
+      "collocations": ["economic crisis", "political crisis", "personal crisis"],
+      "examples": [
+        {
+          "scene": "一家公司因市场突然崩盘而面临严重的财务问题，员工们担心裁员，管理层紧急开会制定对策。",
+          "chineseIdea": "公司正处于一个关键时刻，必须迅速采取行动以避免破产。",
+          "sentenceWithBlank": "The company is struggling to survive an @ @.",
+          "fullEnglishSentence": "The company is struggling to survive an 「economic crisis」.",
+          "chineseTranslation": "公司正在努力度过一场「经济危机」。",
+          "chinglishFix": "Chinglish: 'The company meets a big economic problem.' Correction: 'The company is facing an economic crisis.'"
+        },
+        {
+          "scene": "一个国家因选举争议引发全国抗议活动，政府面临信任危机，国际社会密切关注。",
+          "chineseIdea": "国家陷入混乱，政府需要恢复公众信任以稳定局势。",
+          "sentenceWithBlank": "The government is working to resolve a @ @.",
+          "fullEnglishSentence": "The government is working to resolve a 「political crisis」.",
+          "chineseTranslation": "政府正在努力解决一场「政治危机」。",
+          "chinglishFix": "Chinglish: 'The government has a political trouble.' Correction: 'The government is addressing a political crisis.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A turning point or decisive moment in a situation",
+      "usage": "Describes a pivotal moment where a situation could improve or worsen, often used in medical, personal, or narrative contexts.",
+      "collocations": ["midlife crisis", "identity crisis", "health crisis"],
+      "examples": [
+        {
+          "scene": "一个40岁的男人突然对自己的职业和生活感到迷茫，决定辞职去旅行寻找人生意义。",
+          "chineseIdea": "他觉得自己到了一个需要重新评估人生方向的关键时刻。",
+          "sentenceWithBlank": "He’s going through a @ @.",
+          "fullEnglishSentence": "He’s going through a 「midlife crisis」.",
+          "chineseTranslation": "他正在经历一场「中年危机」。",
+          "chinglishFix": "Chinglish: 'He has a middle-age problem.' Correction: 'He’s experiencing a midlife crisis.'"
+        },
+        {
+          "scene": "一个大学生在选择专业时感到困惑，怀疑自己的兴趣和未来职业目标是否匹配。",
+          "chineseIdea": "她不确定自己是谁，想找到真正的自我。",
+          "sentenceWithBlank": "She’s facing an @ @ as she questions her goals.",
+          "fullEnglishSentence": "She’s facing an 「identity crisis」 as she questions her goals.",
+          "chineseTranslation": "她在质疑目标时面临一场「身份危机」。",
+          "chinglishFix": "Chinglish: 'She doesn’t know who she is.' Correction: 'She’s going through an identity crisis.'"
+        }
+      ]
+    }
+  ]
+}
+```

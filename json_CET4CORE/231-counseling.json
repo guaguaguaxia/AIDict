@@ -1,0 +1,53 @@
+```json
+{
+  "word": "counseling",
+  "definitions": [
+    {
+      "meaning": "提供专业建议或指导，特别是在心理、情感或个人问题方面",
+      "usage": "通常指通过与专业人士（如心理咨询师或顾问）的对话，帮助个人解决心理问题、应对压力或做出人生决策。常用于心理治疗、职业规划或教育场景。",
+      "collocations": ["seek counseling", "provide counseling", "undergo counseling", "marriage counseling", "career counseling"],
+      "examples": [
+        {
+          "scene": "一位大学生因学业压力和未来职业选择感到焦虑，决定向学校的心理咨询中心寻求帮助。",
+          "chineseIdea": "想通过与专业人士交谈，缓解压力并获得关于未来的清晰建议。",
+          "sentenceWithBlank": "After months of stress, she decided to @ @ for help with her anxiety.",
+          "fullEnglishSentence": "After months of stress, she decided to 「seek counseling」 for help with her anxiety.",
+          "chineseTranslation": "在几个月的压力之后，她决定「寻求咨询」来帮助缓解焦虑。",
+          "chinglishFix": "典型中式英语：'She wants to find a counselor to talk her problems.' 纠正：'She wants to seek counseling to address her concerns.'（中式表达常忽略'counseling'的专业性，需明确使用专业术语。）"
+        },
+        {
+          "scene": "一对夫妇因沟通问题频繁争吵，决定尝试通过专业帮助改善关系。",
+          "chineseIdea": "希望通过专业指导，学会更好地沟通和解决问题。",
+          "sentenceWithBlank": "To save their relationship, they enrolled in @ @.",
+          "fullEnglishSentence": "To save their relationship, they enrolled in 「marriage counseling」.",
+          "chineseTranslation": "为了挽救他们的关系，他们报名参加了「婚姻咨询」。",
+          "chinglishFix": "典型中式英语：'They go to a counselor to fix marriage.' 纠正：'They are undergoing marriage counseling to improve their relationship.'（中式表达常忽略具体搭配，需使用'marriage counseling'等固定表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在职业或教育领域提供建议，帮助个人规划未来或解决问题",
+      "usage": "指为学生、求职者或专业人士提供职业或学术方面的指导，通常由职业顾问或学术顾问提供，帮助制定目标或规划发展路径。",
+      "collocations": ["career counseling", "academic counseling", "receive counseling", "offer counseling", "group counseling"],
+      "examples": [
+        {
+          "scene": "一名高中生对大学专业选择感到迷茫，决定咨询学校的职业顾问。",
+          "chineseIdea": "希望通过专业建议，找到适合自己的专业方向。",
+          "sentenceWithBlank": "To choose the right major, he signed up for @ @ at school.",
+          "fullEnglishSentence": "To choose the right major, he signed up for 「career counseling」 at school.",
+          "chineseTranslation": "为了选择合适的专业，他在学校报名参加了「职业咨询」。",
+          "chinglishFix": "典型中式英语：'He wants to talk with counselor for his major.' 纠正：'He is seeking career counseling to decide on his major.'（中式表达常缺少'counseling'的具体语境，需明确领域。）"
+        },
+        {
+          "scene": "一名职场新人因工作表现不佳被要求参加公司提供的指导课程。",
+          "chineseIdea": "希望通过专业指导提升工作技能并改善表现。",
+          "sentenceWithBlank": "The company arranged for him to @ @ to improve his performance.",
+          "fullEnglishSentence": "The company arranged for him to 「receive counseling」 to improve his performance.",
+          "chineseTranslation": "公司安排他「接受咨询」以提高工作表现。",
+          "chinglishFix": "典型中式英语：'He is told to get advice from a counselor.' 纠正：'He is required to receive counseling to enhance his performance.'（中式表达常使用模糊的'advice'，需用'receive counseling'体现专业性。）"
+        }
+      ]
+    }
+  ]
+}
+```
