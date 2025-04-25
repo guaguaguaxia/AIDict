@@ -1,0 +1,53 @@
+```json
+{
+  "word": "menu",
+  "definitions": [
+    {
+      "meaning": "餐厅中列出菜品和饮料的清单",
+      "usage": "指在餐厅、咖啡店等场所提供给顾客的书面或电子列表，列出可供选择的食物和饮料，通常包括价格，顾客通过它来点餐。",
+      "collocations": ["look at the menu", "choose from the menu", "order from the menu"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的周六晚上，你和朋友走进一家新开的意大利餐厅。服务员递给你们一份精美的单子，上面列满了各种意面、披萨和甜点。你开始浏览，想决定吃什么。",
+          "chineseIdea": "你想知道餐厅有哪些菜品可选，于是仔细查看那份单子，寻找自己喜欢的食物。",
+          "sentenceWithBlank": "I need a few minutes to @ @ @ before deciding what to eat.",
+          "fullEnglishSentence": "I need a few minutes to 「look at the menu」 before deciding what to eat.",
+          "chineseTranslation": "我需要几分钟来「看看菜品清单」，然后决定吃什么。",
+          "chinglishFix": "典型中式英语：'I want to see the dish list.' 纠正：'I’d like to look at the menu.'（'dish list' 不自然，英语中用 'menu' 表示餐厅的菜品清单。）"
+        },
+        {
+          "scene": "你和同事在一家快餐店吃午饭，墙上挂着一个大屏幕，上面列着各种汉堡、薯条和饮料的组合。你们讨论着各自想吃的套餐。",
+          "chineseIdea": "你想从列出的选项中挑选一份午餐，考虑自己的口味和预算。",
+          "sentenceWithBlank": "Let’s @ @ @ to find something quick and affordable.",
+          "fullEnglishSentence": "Let’s 「choose from the menu」 to find something quick and affordable.",
+          "chineseTranslation": "我们来「从菜品清单中选择」，找点快捷又实惠的食物。",
+          "chinglishFix": "典型中式英语：'We pick food in the list.' 纠正：'We can choose from the menu.'（'pick in the list' 不符合英语习惯，'choose from the menu' 是更自然的表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "计算机程序或设备中的选项列表",
+      "usage": "指计算机软件、手机应用或电子设备界面上显示的可选功能或设置列表，用户通过点击或选择来操作程序或设备。",
+      "collocations": ["open the menu", "select from the menu", "navigate the menu"],
+      "examples": [
+        {
+          "scene": "你刚买了一台新相机，想调整拍摄模式。你按下机身上的一个按钮，屏幕上弹出一系列选项，包括自动模式、手动模式和视频模式。",
+          "chineseIdea": "你想查看相机提供的所有功能选项，以便选择适合的拍摄模式。",
+          "sentenceWithBlank": "Press the button to @ @ @ and check the available settings.",
+          "fullEnglishSentence": "Press the button to 「open the menu」 and check the available settings.",
+          "chineseTranslation": "按下按钮「打开选项列表」，检查可用的设置。",
+          "chinglishFix": "典型中式英语：'I want to see the function list.' 纠正：'I’d like to open the menu.'（'function list' 不常用，'menu' 是描述设备界面选项的标准术语。）"
+        },
+        {
+          "scene": "你在用一款新的手机应用，想更改账户设置。你点击屏幕右上角的图标，出现一个下拉框，列出账户、隐私和通知等选项。",
+          "chineseIdea": "你想从应用提供的选项中选择一个功能，比如修改个人资料。",
+          "sentenceWithBlank": "You can @ @ @ to update your profile or change notifications.",
+          "fullEnglishSentence": "You can 「select from the menu」 to update your profile or change notifications.",
+          "chineseTranslation": "你可以「从选项列表中选择」，来更新个人资料或更改通知设置。",
+          "chinglishFix": "典型中式英语：'I choose in the list.' 纠正：'I can select from the menu.'（'choose in the list' 不自然，'select from the menu' 是更地道的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

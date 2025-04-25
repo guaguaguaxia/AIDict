@@ -1,0 +1,53 @@
+```json
+{
+  "word": "legal",
+  "definitions": [
+    {
+      "meaning": "与法律相关或由法律规定的",
+      "usage": "形容某事物符合法律规定、由法律授权或与法律事务相关，常用于描述行为、文件、程序或地位等。",
+      "collocations": ["legal system", "legal advice", "legal action"],
+      "examples": [
+        {
+          "scene": "在一家公司中，员工因合同纠纷向人力资源部门咨询，部门建议寻求专业帮助。",
+          "chineseIdea": "员工想知道如何处理合同问题，寻求符合法律规定的建议。",
+          "sentenceWithBlank": "You should seek @ @ to understand your rights under the contract.",
+          "fullEnglishSentence": "You should seek 「legal advice」 to understand your rights under the contract.",
+          "chineseTranslation": "你应该寻求「法律建议」来了解合同下的权利。",
+          "chinglishFix": "典型中式英语：'You should find law advice.' 纠正：'You should seek legal advice.'（'law advice' 不是正确的搭配，需用 'legal advice'）"
+        },
+        {
+          "scene": "在法庭外，记者采访一位因邻里纠纷而提起诉讼的市民。",
+          "chineseIdea": "市民因邻居的违法行为决定通过法律途径解决问题。",
+          "sentenceWithBlank": "She decided to take @ @ against her neighbor for the property violation.",
+          "fullEnglishSentence": "She decided to take 「legal action」 against her neighbor for the property violation.",
+          "chineseTranslation": "她决定对邻居的财产违规行为采取「法律行动」。",
+          "chinglishFix": "典型中式英语：'She wants to do law action.' 纠正：'She decided to take legal action.'（'do law action' 不自然，正确表达为 'take legal action'）"
+        }
+      ]
+    },
+    {
+      "meaning": "合法的，符合法律规定的",
+      "usage": "强调某事物、行为或状态在法律上被允许或认可，常用于描述符合法律标准的活动或身份。",
+      "collocations": ["legal resident", "legal document", "legal requirement"],
+      "examples": [
+        {
+          "scene": "一位移民在申请工作时，需要向雇主证明自己的身份合法性。",
+          "chineseIdea": "移民需要出示文件以证明自己有权在该国工作。",
+          "sentenceWithBlank": "You need to provide proof that you are a @ @ to work here.",
+          "fullEnglishSentence": "You need to provide proof that you are a 「legal resident」 to work here.",
+          "chineseTranslation": "你需要提供证明，表明你是「合法居民」才能在这里工作。",
+          "chinglishFix": "典型中式英语：'You must prove you are a legal person.' 纠正：'You need to provide proof that you are a legal resident.'（'legal person' 指法人，不适用于描述移民身份）"
+        },
+        {
+          "scene": "在签署房产交易合同时，买家被要求提交所有必要的文件。",
+          "chineseIdea": "买家需要确保提交的文件在法律上有效以完成交易。",
+          "sentenceWithBlank": "Please ensure all @ @ are submitted before the closing date.",
+          "fullEnglishSentence": "Please ensure all 「legal documents」 are submitted before the closing date.",
+          "chineseTranslation": "请确保在截止日期前提交所有「合法文件」。",
+          "chinglishFix": "典型中式英语：'Please give all law documents.' 纠正：'Please ensure all legal documents are submitted.'（'law documents' 不正确，需用 'legal documents'）"
+        }
+      ]
+    }
+  ]
+}
+```

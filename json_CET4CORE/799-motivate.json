@@ -1,0 +1,53 @@
+```json
+{
+  "word": "motivate",
+  "definitions": [
+    {
+      "meaning": "激励或激发某人采取行动或努力工作",
+      "usage": "用作及物动词，表示通过鼓励、奖励或激发兴趣来推动某人做某事，常用于描述激发内在动力或热情的情境。",
+      "collocations": ["motivate employees", "motivate students", "motivate oneself", "motivate a team"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，经理注意到团队最近士气低落，项目进展缓慢。为了提升团队的积极性，经理决定通过奖励机制和公开表扬来激励员工。",
+          "chineseIdea": "通过给予奖励和认可，让员工更有动力投入工作，愿意为项目付出更多努力。",
+          "sentenceWithBlank": "The manager used bonuses and public recognition to @ @.",
+          "fullEnglishSentence": "The manager used bonuses and public recognition to 「motivate employees」.",
+          "chineseTranslation": "经理通过奖金和公开表扬来「激励员工」。",
+          "chinglishFix": "典型中式英语：'The manager let employees have motivation.' 纠正：'The manager motivated employees.' 说明：中式英语常直接翻译‘让某人有动力’，但英语中更自然的是直接使用'motivate'作为动词。"
+        },
+        {
+          "scene": "在一所高中，老师发现学生对数学课缺乏兴趣，课堂参与度低。为了提高学生的学习热情，老师设计了有趣的数学游戏和小组竞赛。",
+          "chineseIdea": "通过创造有趣的学习方式，激发学生对数学的兴趣，让他们主动参与课堂。",
+          "sentenceWithBlank": "The teacher designed engaging games to @ @.",
+          "fullEnglishSentence": "The teacher designed engaging games to 「motivate students」.",
+          "chineseTranslation": "老师设计了有趣的游戏来「激励学生」。",
+          "chinglishFix": "典型中式英语：'The teacher gave students motivation to learn.' 纠正：'The teacher motivated students to learn.' 说明：中式英语常使用‘give motivation’，但更自然的表达是直接用'motivate'。"
+        }
+      ]
+    },
+    {
+      "meaning": "提供理由或动机以解释某行为",
+      "usage": "用作及物动词，表示某行为或决定背后的原因或推动力，常用于描述某人因特定动机而采取行动的情境。",
+      "collocations": ["motivate a decision", "motivate an action", "motivate change"],
+      "examples": [
+        {
+          "scene": "在一家环保组织中，负责人决定发起一项全国性的减少塑料使用的运动。这个决定源于最近关于海洋污染的报道，促使他们采取行动。",
+          "chineseIdea": "因为看到了海洋污染的严重性，组织决定采取行动来推动环保。",
+          "sentenceWithBlank": "The alarming reports on ocean pollution @ @ @.",
+          "fullEnglishSentence": "The alarming reports on ocean pollution 「motivated a decision」 to launch a campaign.",
+          "chineseTranslation": "关于海洋污染的惊人报道「促使了决定」发起一项运动。",
+          "chinglishFix": "典型中式英语：'The reports made the organization to decide.' 纠正：'The reports motivated the organization’s decision.' 说明：中式英语常误用‘make’或不自然的结构，而‘motivate a decision’更符合英语表达习惯。"
+        },
+        {
+          "scene": "一位年轻人决定辞去稳定的工作，追求自己的创业梦想。这个决定源于他对创新的热情以及对现状的不满。",
+          "chineseIdea": "因为对创新的渴望和对当前生活的厌倦，年轻人决定改变自己的职业道路。",
+          "sentenceWithBlank": "His passion for innovation @ @ @.",
+          "fullEnglishSentence": "His passion for innovation 「motivated an action」 to start his own business.",
+          "chineseTranslation": "他对创新的热情「促使了行动」去创业。",
+          "chinglishFix": "典型中式英语：'His passion let him to act.' 纠正：'His passion motivated him to act.' 说明：中式英语常使用‘let’或不自然的动词结构，而‘motivate an action’更地道。"
+        }
+      ]
+    }
+  ]
+}
+```

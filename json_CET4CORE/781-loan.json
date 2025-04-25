@@ -1,0 +1,53 @@
+```json
+{
+  "word": "loan",
+  "definitions": [
+    {
+      "meaning": "借出的钱，通常需要偿还并可能带有利息",
+      "usage": "指某人或机构向另一方提供一笔钱，接收方需在约定时间内偿还，通常涉及利息。作为名词时，指代借出的资金；作为动词时，表示借出或借入的行为。",
+      "collocations": ["take out a loan", "repay a loan", "apply for a loan"],
+      "examples": [
+        {
+          "scene": "一位大学生需要支付学费，但目前手头资金不足。他决定向银行寻求帮助，以支付下一学期的费用。",
+          "chineseIdea": "为了解决学费问题，他计划从银行借一笔钱，之后会慢慢还清。",
+          "sentenceWithBlank": "To cover his tuition, he decided to @ @ @ from the bank.",
+          "fullEnglishSentence": "To cover his tuition, he decided to 「take out a loan」 from the bank.",
+          "chineseTranslation": "为了支付学费，他决定从银行「借一笔贷款」。",
+          "chinglishFix": "典型中式英语：'He wants to borrow a loan from bank.' 纠正：'Loan' 作为名词时，不能直接说 'borrow a loan'，应为 'take out a loan' 或 'borrow money'. 正确表达：'He wants to take out a loan from the bank.'"
+        },
+        {
+          "scene": "一位年轻的白领在买房后，每月需要向银行支付一笔固定的金额，以清偿购房时借的钱。",
+          "chineseIdea": "她需要每个月还一部分借来的钱，直到完全还清为止。",
+          "sentenceWithBlank": "She sets aside part of her salary each month to @ @ @.",
+          "fullEnglishSentence": "She sets aside part of her salary each month to 「repay a loan」.",
+          "chineseTranslation": "她每个月留出一部分工资来「偿还贷款」。",
+          "chinglishFix": "典型中式英语：'She returns the loan every month.' 纠正：'Return' 不适用于偿还贷款，正确搭配是 'repay a loan'。正确表达：'She repays the loan every month.'"
+        }
+      ]
+    },
+    {
+      "meaning": "暂时借出的物品或服务",
+      "usage": "指将某物暂时借给他人使用，通常预期归还。作为名词时，指借出的物品；作为动词时，表示借出某物。",
+      "collocations": ["on loan", "loan out", "return a loan"],
+      "examples": [
+        {
+          "scene": "一家博物馆将珍贵的文物借给另一家博物馆，用于一个特别的展览，展览结束后需要归还。",
+          "chineseIdea": "这些文物被临时借出，展览结束后会被送回原博物馆。",
+          "sentenceWithBlank": "The artifacts were displayed @ @ from another museum.",
+          "fullEnglishSentence": "The artifacts were displayed 「on loan」 from another museum.",
+          "chineseTranslation": "这些文物是「借展」自另一家博物馆。",
+          "chinglishFix": "典型中式英语：'The artifacts are borrowed to exhibit.' 纠正：'Borrow' 通常用于主语是借入方，而这里强调物品被借出，正确搭配是 'on loan'。正确表达：'The artifacts are on loan for the exhibition.'"
+        },
+        {
+          "scene": "一位朋友向你借了一本书，承诺会在两周后归还。",
+          "chineseIdea": "他拿走了你的书，但需要在约定时间还回来。",
+          "sentenceWithBlank": "He promised to @ @ @ within two weeks.",
+          "fullEnglishSentence": "He promised to 「return a loan」 within two weeks.",
+          "chineseTranslation": "他承诺在两周内「归还借物」。",
+          "chinglishFix": "典型中式英语：'He will give back the loan.' 纠正：'Give back' 虽可用于归还，但 'return a loan' 是更自然的搭配，尤其指借物。正确表达：'He will return the loan within two weeks.'"
+        }
+      ]
+    }
+  ]
+}
+```
