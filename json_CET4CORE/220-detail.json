@@ -1,0 +1,53 @@
+```json
+{
+  "word": "detail",
+  "definitions": [
+    {
+      "meaning": "具体或精确的细节、描述或信息",
+      "usage": "指对某事物提供具体的描述、事实或信息，常用于强调某事物的精确性或全面性。常见于书面或口头表达中，尤其在描述计划、故事、设计或报告时。",
+      "collocations": ["in detail", "attention to detail", "go into detail", "provide details", "minor detail"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理要求团队成员分享项目的具体进展，以便更好地评估时间线和资源分配。",
+          "chineseIdea": "经理希望了解项目的每一个小部分，确保没有遗漏任何重要信息。",
+          "sentenceWithBlank": "Could you please describe the project @ @?",
+          "fullEnglishSentence": "Could you please describe the project 「in detail」?",
+          "chineseTranslation": "你能「详细地」描述一下这个项目吗？",
+          "chinglishFix": "典型中式英语：'Describe the project very detail.' 纠正：'Describe the project in detail.'（用'in detail'代替'very detail'，因为这是固定搭配，强调具体和全面。）"
+        },
+        {
+          "scene": "在设计一款新产品时，设计师向客户展示样品，强调产品的独特之处。",
+          "chineseIdea": "设计师希望突出产品的精致工艺和每一个小部分的用心。",
+          "sentenceWithBlank": "The designer is known for her @ @ @ in every project.",
+          "fullEnglishSentence": "The designer is known for her 「attention to detail」 in every project.",
+          "chineseTranslation": "这位设计师以她在每个项目中的「注重细节」而闻名。",
+          "chinglishFix": "典型中式英语：'She cares about detail.' 纠正：'She pays attention to detail.'（'pay attention to detail'是更自然的表达，强调对细节的专注。）"
+        }
+      ]
+    },
+    {
+      "meaning": "琐碎或次要的部分",
+      "usage": "指某事物中不那么重要的小部分或细节，常用在表达整体与局部的对比，或者提醒某人不要过于纠结于小事。",
+      "collocations": ["minor detail", "small detail", "technical detail", "miss the detail"],
+      "examples": [
+        {
+          "scene": "朋友们在计划一次旅行，讨论行程时，有人过于纠结于出发时间的具体分钟。",
+          "chineseIdea": "有人觉得具体的出发时间不重要，因为整体行程安排更关键。",
+          "sentenceWithBlank": "Don’t worry about the exact time; it’s just a @ @.",
+          "fullEnglishSentence": "Don’t worry about the exact time; it’s just a 「minor detail」.",
+          "chineseTranslation": "别担心具体时间，那只是个「小细节」。",
+          "chinglishFix": "典型中式英语：'It’s not important detail.' 纠正：'It’s just a minor detail.'（用'minor detail'表示不重要的细节，语义更精确。）"
+        },
+        {
+          "scene": "在编写一份报告时，同事提醒不要花太多时间在格式调整上。",
+          "chineseIdea": "格式调整只是报告中不重要的部分，内容才是重点。",
+          "sentenceWithBlank": "Focus on the content rather than the @ @.",
+          "fullEnglishSentence": "Focus on the content rather than the 「technical detail」.",
+          "chineseTranslation": "专注于内容，而不是「技术细节」。",
+          "chinglishFix": "典型中式英语：'Don’t care about small things.' 纠正：'Don’t focus on technical details.'（'technical details'更具体，指格式或技术性小问题。）"
+        }
+      ]
+    }
+  ]
+}
+```

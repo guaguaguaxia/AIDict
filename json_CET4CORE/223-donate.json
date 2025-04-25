@@ -1,0 +1,53 @@
+```json
+{
+  "word": "donate",
+  "definitions": [
+    {
+      "meaning": "To give money, goods, or services to a person, organization, or cause without expecting payment or reward",
+      "usage": "Commonly used in contexts of charity, philanthropy, or volunteering, often implying a selfless act to support a cause or help those in need.",
+      "collocations": ["to charity", "blood", "money", "time", "organs"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，志愿者们正在为当地的慈善机构筹集资金。很多人被鼓励为帮助贫困家庭而贡献一些东西。",
+          "chineseIdea": "人们愿意为帮助需要帮助的人贡献金钱或其他资源，以表达善意和支持。",
+          "sentenceWithBlank": "She decided to @ @ every month to support the local food bank.",
+          "fullEnglishSentence": "She decided to 「donate money」 every month to support the local food bank.",
+          "chineseTranslation": "她决定每个月「捐钱」给当地的食品银行。",
+          "chinglishFix": "Chinglish: She every month give money to food bank. Correct: She donates money every month to the food bank."
+        },
+        {
+          "scene": "在一次健康宣传活动中，医院鼓励市民为挽救生命做出贡献，尤其是在急需的情况下。",
+          "chineseIdea": "通过贡献自己的身体资源，比如血液，可以直接帮助他人，是一种高尚的行为。",
+          "sentenceWithBlank": "He was proud to @ @ regularly to help patients in need.",
+          "fullEnglishSentence": "He was proud to 「donate blood」 regularly to help patients in need.",
+          "chineseTranslation": "他为定期「捐血」帮助有需要的病人感到骄傲。",
+          "chinglishFix": "Chinglish: He often give blood to hospital. Correct: He regularly donates blood to the hospital."
+        }
+      ]
+    },
+    {
+      "meaning": "To give something, often money or resources, to a specific institution or cause, such as a museum, school, or research",
+      "usage": "Used in formal or institutional contexts where contributions are made to support specific projects, endowments, or facilities, often with recognition for the donor.",
+      "collocations": ["to a cause", "a scholarship", "funds", "resources"],
+      "examples": [
+        {
+          "scene": "在一所大学的新图书馆落成典礼上，学校感谢了一位慷慨的校友，因为他的贡献让这个项目得以实现。",
+          "chineseIdea": "通过为某个特定目标提供资金支持，可以帮助机构实现更大的目标，同时也可能获得认可。",
+          "sentenceWithBlank": "The alumnus was honored for choosing to @ @ @ to build the new library.",
+          "fullEnglishSentence": "The alumnus was honored for choosing to 「donate funds」 to build the new library.",
+          "chineseTranslation": "这位校友因选择「捐款」建设新图书馆而受到表彰。",
+          "chinglishFix": "Chinglish: He give money for library. Correct: He donated funds to build the library."
+        },
+        {
+          "scene": "在一个环保组织的年度会议上，组织感谢了一位企业家，因为他为保护濒危物种的项目提供了支持。",
+          "chineseIdea": "为某个特定的目标或事业提供支持，体现了对他人的关怀和对社会问题的关注。",
+          "sentenceWithBlank": "The entrepreneur was praised for deciding to @ @ @ to protect endangered species.",
+          "fullEnglishSentence": "The entrepreneur was praised for deciding to 「donate to a cause」 to protect endangered species.",
+          "chineseTranslation": "这位企业家因决定「为事业捐款」保护濒危物种而受到赞扬。",
+          "chinglishFix": "Chinglish: He give money for animal protection. Correct: He donated to the cause of protecting endangered species."
+        }
+      ]
+    }
+  ]
+}
+```

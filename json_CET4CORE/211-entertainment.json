@@ -1,0 +1,53 @@
+```json
+{
+  "word": "entertainment",
+  "definitions": [
+    {
+      "meaning": "活动或表演，为观众提供乐趣或消遣",
+      "usage": "指为观众提供的消遣活动，通常包括电影、音乐、电视节目、戏剧等大众化的娱乐形式，也可以指更广泛的消遣活动。",
+      "collocations": ["provide entertainment", "live entertainment", "family entertainment", "seek entertainment"],
+      "examples": [
+        {
+          "scene": "一个家庭在周末计划一次聚会，父母希望组织一些适合所有年龄段的活动，让大家都能玩得开心。",
+          "chineseIdea": "父母想通过一些有趣的活动让全家人都感到快乐，比如看电影、玩桌游或听音乐。",
+          "sentenceWithBlank": "The parents decided to @ @ for the family gathering to keep everyone engaged.",
+          "fullEnglishSentence": "The parents decided to 「provide entertainment」 for the family gathering to keep everyone engaged.",
+          "chineseTranslation": "父母决定为家庭聚会「提供娱乐活动」，以让每个人都保持参与感。",
+          "chinglishFix": "典型中式英语：'The parents want to give some happy activities for the family.' 纠正：'Happy activities' 不地道，英语中更常用 'entertainment' 或 'fun activities' 来表达消遣或乐趣。"
+        },
+        {
+          "scene": "一个城市举办夏季节庆活动，吸引游客和本地居民，现场有乐队表演和街头艺人。",
+          "chineseIdea": "节庆活动通过现场表演让人们放松心情，享受音乐和艺术带来的乐趣。",
+          "sentenceWithBlank": "The festival offered @ @ that drew large crowds every evening.",
+          "fullEnglishSentence": "The festival offered 「live entertainment」 that drew large crowds every evening.",
+          "chineseTranslation": "这个节庆提供了「现场娱乐表演」，每晚都吸引了大量人群。",
+          "chinglishFix": "典型中式英语：'The festival has some living shows.' 纠正：'Living shows' 不正确，英语中用 'live entertainment' 或 'live performances' 表示现场表演。"
+        }
+      ]
+    },
+    {
+      "meaning": "款待或招待，尤指在家中热情招待客人",
+      "usage": "指在家中或社交场合招待客人，通常涉及提供食物、饮料或活动以让客人感到舒适和愉悦。",
+      "collocations": ["hospitality and entertainment", "business entertainment", "lavish entertainment"],
+      "examples": [
+        {
+          "scene": "一位职场人士邀请客户到家中吃饭，希望通过良好的款待建立更好的业务关系。",
+          "chineseIdea": "通过精心准备的晚餐和轻松的氛围，让客户感到被重视，从而促进合作。",
+          "sentenceWithBlank": "She organized a dinner party to combine @ @ @ with building client relationships.",
+          "fullEnglishSentence": "She organized a dinner party to combine 「hospitality and entertainment」 with building client relationships.",
+          "chineseTranslation": "她组织了一场晚宴，将「款待与娱乐」与建立客户关系结合起来。",
+          "chinglishFix": "典型中式英语：'She made a party to give clients good feelings.' 纠正：'Give good feelings' 表达模糊，英语中更常用 'hospitality and entertainment' 来描述款待和社交活动。"
+        },
+        {
+          "scene": "一家公司举办年度晚会，邀请员工和合作伙伴参加，提供美食和表演以表达感激。",
+          "chineseIdea": "公司通过豪华的招待活动向员工和客户展示慷慨和热情，增强彼此的联系。",
+          "sentenceWithBlank": "The company spared no expense on @ @ to impress its guests.",
+          "fullEnglishSentence": "The company spared no expense on 「lavish entertainment」 to impress its guests.",
+          "chineseTranslation": "公司不惜重金提供「奢华的招待」，以给宾客留下深刻印象。",
+          "chinglishFix": "典型中式英语：'The company spent much money to make a big party.' 纠正：'Make a big party' 过于笼统，'lavish entertainment' 更能体现豪华和精心安排的招待。"
+        }
+      ]
+    }
+  ]
+}
+```

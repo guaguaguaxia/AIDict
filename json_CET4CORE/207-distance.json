@@ -1,0 +1,76 @@
+```json
+{
+  "word": "distance",
+  "definitions": [
+    {
+      "meaning": "物理上的距离或间隔",
+      "usage": "指两个物体、地点或人之间的空间间隔，通常以具体的单位（如公里、米）或抽象描述（如远、近）表达。",
+      "collocations": ["keep a distance", "long distance", "short distance"],
+      "examples": [
+        {
+          "scene": "在一个拥挤的火车站，你的朋友站在离你几米远的地方，你想提醒他不要走得太远以免走散。",
+          "chineseIdea": "你想告诉朋友保持一定的距离，这样你们不会因为人群而失去联系。",
+          "sentenceWithBlank": "Please @ @ @ from me so we can still see each other in the crowd.",
+          "fullEnglishSentence": "Please 「keep a distance」 from me so we can still see each other in the crowd.",
+          "chineseTranslation": "请「保持距离」，这样我们在人群中还能看到彼此。",
+          "chinglishFix": "典型中式英语：'Stay a distance with me.' 纠正：'Keep a distance from me.' 原因：'stay'不常用于表示保持空间距离，'keep a distance'是固定搭配，且'from'更符合表示分离的语义。"
+        },
+        {
+          "scene": "你在计划一次从北京到上海的旅行，查到两地之间的距离大约是1200公里。",
+          "chineseIdea": "你想描述两座城市之间的遥远距离，强调旅行的长度。",
+          "sentenceWithBlank": "The @ @ between Beijing and Shanghai makes it a tiring journey.",
+          "fullEnglishSentence": "The 「long distance」 between Beijing and Shanghai makes it a tiring journey.",
+          "chineseTranslation": "北京和上海之间的「长距离」让这次旅行很累人。",
+          "chinglishFix": "典型中式英语：'Beijing and Shanghai have a far distance.' 纠正：'The long distance between Beijing and Shanghai.' 原因：英语中通常用'distance between A and B'来描述两地间隔，且'long distance'是更自然的形容方式。"
+        }
+      ]
+    },
+    {
+      "meaning": "情感或关系的疏远",
+      "usage": "描述人与人之间在情感、态度或关系上的隔阂或冷淡，通常带有抽象和心理含义。",
+      "collocations": ["emotional distance", "maintain distance", "create distance"],
+      "examples": [
+        {
+          "scene": "你的朋友最近因为工作压力变得不太愿意分享自己的想法，你感觉到彼此的关系有些疏远。",
+          "chineseIdea": "你想表达朋友在情感上与你拉开了距离，显得冷淡。",
+          "sentenceWithBlank": "I’ve noticed an @ @ between us since she started her new job.",
+          "fullEnglishSentence": "I’ve noticed an 「emotional distance」 between us since she started her new job.",
+          "chineseTranslation": "我注意到自从她开始新工作后，我们之间有了一种「情感疏远」。",
+          "chinglishFix": "典型中式英语：'She has a distance with me.' 纠正：'There’s an emotional distance between us.' 原因：'have a distance'不是英语中的习惯表达，'emotional distance'更准确地传达心理隔阂，且'between us'表明双方的关系。"
+        },
+        {
+          "scene": "你和一位同事关系紧张，为了避免冲突，你决定在工作之外尽量不与他有过多接触。",
+          "chineseIdea": "你想表达主动与同事保持距离，以维持职业上的和平。",
+          "sentenceWithBlank": "To avoid arguments, I decided to @ @ from him outside of work.",
+          "fullEnglishSentence": "To avoid arguments, I decided to 「maintain distance」 from him outside of work.",
+          "chineseTranslation": "为了避免争吵，我决定在工作之外与他「保持距离」。",
+          "chinglishFix": "典型中式英语：'I keep far from him.' 纠正：'I maintain distance from him.' 原因：'keep far'不够具体且不地道，'maintain distance'是表达情感或社交疏远的标准搭配。"
+        }
+      ]
+    },
+    {
+      "meaning": "时间上的间隔或久远",
+      "usage": "指事件或时间点之间的时间跨度，通常用于描述某事发生在遥远的过去或未来。",
+      "collocations": ["great distance", "temporal distance", "in the distance"],
+      "examples": [
+        {
+          "scene": "你在和朋友讨论童年回忆，感叹那些日子已经过去很久了。",
+          "chineseIdea": "你想表达童年时光与现在之间的遥远时间间隔。",
+          "sentenceWithBlank": "My childhood feels like a @ @ in time now.",
+          "fullEnglishSentence": "My childhood feels like a 「great distance」 in time now.",
+          "chineseTranslation": "我的童年现在感觉像是时间上的「遥远间隔」。",
+          "chinglishFix": "典型中式英语：'My childhood is very far.' 纠正：'My childhood feels like a great distance in time.' 原因：'far'通常用于物理距离，'great distance'更适合描述抽象的时间跨度，且'feels like'表达主观感受更自然。"
+        },
+        {
+          "scene": "你在看一部科幻电影，故事设定在遥远的未来，你想象那个时代的样子。",
+          "chineseIdea": "你想描述电影中那个遥远未来的时间点，强调它的久远。",
+          "sentenceWithBlank": "The movie’s setting is far @ @ @ of the future.",
+          "fullEnglishSentence": "The movie’s setting is far 「in the distance」 of the future.",
+          "chineseTranslation": "电影的设定是未来的「遥远之地」。",
+          "chinglishFix": "典型中式英语：'The movie happens in a far time.' 纠正：'The movie’s setting is far in the distance of the future.' 原因：'far time'不是英语惯用表达，'in the distance'可用于时间或空间的遥远感，搭配'setting'更符合语境。"
+        }
+      ]
+    }
+  ]
+}
+```

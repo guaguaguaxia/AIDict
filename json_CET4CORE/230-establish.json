@@ -1,0 +1,53 @@
+```json
+{
+  "word": "establish",
+  "definitions": [
+    {
+      "meaning": "设立或创建某事物，使其开始存在或运作",
+      "usage": "指创建组织、机构、系统或关系，通常用于正式或长期存在的实体。常用于描述公司、机构、规则等的建立。",
+      "collocations": ["a business", "a relationship", "a system", "a reputation"],
+      "examples": [
+        {
+          "scene": "一位年轻的中国创业者在上海决定开办一家科技公司，希望开发一款新的手机应用程序。",
+          "chineseIdea": "他想要正式注册一家公司，租办公室，招聘员工，开始运营。",
+          "sentenceWithBlank": "After months of planning, she was ready to @ @ @ in Shanghai.",
+          "fullEnglishSentence": "After months of planning, she was ready to 「establish a business」 in Shanghai.",
+          "chineseTranslation": "经过几个月的计划，她准备在上海「设立一家公司」。",
+          "chinglishFix": "中式英语：She wants to build a company. 纠正：She wants to establish a business.（‘Build’更适合物理建设，‘establish’更适合正式设立组织。）"
+        },
+        {
+          "scene": "一位大学毕业生加入了一家跨国公司，并希望与同事们建立良好的工作关系。",
+          "chineseIdea": "他希望通过团队合作和日常交流，与同事们形成信任和友谊。",
+          "sentenceWithBlank": "He made an effort to @ @ @ with his new colleagues.",
+          "fullEnglishSentence": "He made an effort to 「establish a relationship」 with his new colleagues.",
+          "chineseTranslation": "他努力与新同事「建立关系」。",
+          "chinglishFix": "中式英语：He wants to make a relationship with colleagues. 纠正：He wants to establish a relationship with colleagues.（‘Make a relationship’不自然，‘establish’更适合正式或长期的关系。）"
+        }
+      ]
+    },
+    {
+      "meaning": "确立或证明某事，使其被接受或确认",
+      "usage": "指通过证据、事实或行动使某事被认可，通常用于抽象概念如声誉、事实、权威等的确立。",
+      "collocations": ["a fact", "credibility", "authority", "a reputation"],
+      "examples": [
+        {
+          "scene": "一位科学家在实验室中通过实验验证了一个新的理论，希望在学术界获得认可。",
+          "chineseIdea": "她希望通过实验数据和论文发表，让这个理论被广泛接受。",
+          "sentenceWithBlank": "Her experiments helped to @ @ @ about climate change.",
+          "fullEnglishSentence": "Her experiments helped to 「establish a fact」 about climate change.",
+          "chineseTranslation": "她的实验帮助「确立了一个关于气候变化的事实」。",
+          "chinglishFix": "中式英语：Her experiments proved a truth. 纠正：Her experiments helped to establish a fact.（‘Prove a truth’不够具体，‘establish a fact’更符合学术语境。）"
+        },
+        {
+          "scene": "一位新上任的经理希望在团队中展现自己的领导能力，赢得员工的尊重。",
+          "chineseIdea": "他通过高效的工作和公平的决策，让团队相信他的能力。",
+          "sentenceWithBlank": "By making fair decisions, he was able to @ @ @ in the team.",
+          "fullEnglishSentence": "By making fair decisions, he was able to 「establish authority」 in the team.",
+          "chineseTranslation": "通过公平的决策，他能够在团队中「确立权威」。",
+          "chinglishFix": "中式英语：He built his power in the team. 纠正：He established authority in the team.（‘Build power’听起来不自然且有负面含义，‘establish authority’更中性且专业。）"
+        }
+      ]
+    }
+  ]
+}
+```
