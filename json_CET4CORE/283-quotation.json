@@ -1,0 +1,53 @@
+```json
+{
+  "word": "quotation",
+  "definitions": [
+    {
+      "meaning": "A direct statement or passage repeated from a speech, book, or other source",
+      "usage": "Refers to repeating someone else's exact words, often to support an argument, illustrate a point, or give an example. Typically used in writing or formal speech, and usually accompanied by attribution to the original source.",
+      "collocations": ["direct quotation", "famous quotation", "use a quotation"],
+      "examples": [
+        {
+          "scene": "一位学生在写学术论文时，需要引用某位学者的原话来支持自己的论点。他在论文中加入了一段来自一本书的文字，并标明了出处。",
+          "chineseIdea": "我想通过引用权威人士的原话来增强我的论点可信度，同时展示我对文献的熟悉。",
+          "sentenceWithBlank": "To support her argument, she included a @ @ in her essay, citing the author’s name.",
+          "fullEnglishSentence": "To support her argument, she included a 「direct quotation」 in her essay, citing the author’s name.",
+          "chineseTranslation": "为了支持她的论点，她在论文中加入了一段「直接引用」，并注明了作者的名字。",
+          "chinglishFix": "Chinglish: She used a sentence from the book in her essay. Correct: She included a direct quotation from the book in her essay, properly citing the source."
+        },
+        {
+          "scene": "一位老师在课堂上讲解莎士比亚的作品时，向学生们展示了一段《哈姆雷特》中的经典台词，以帮助学生理解角色的内心冲突。",
+          "chineseIdea": "我想通过展示一段经典的原文，让学生感受到原作的语言魅力和情感深度。",
+          "sentenceWithBlank": "The teacher shared a @ @ from Hamlet to illustrate the character’s inner turmoil.",
+          "fullEnglishSentence": "The teacher shared a 「famous quotation」 from Hamlet to illustrate the character’s inner turmoil.",
+          "chineseTranslation": "老师分享了《哈姆雷特》中的一段「著名引用」，以展示角色的内心冲突。",
+          "chinglishFix": "Chinglish: The teacher told a sentence from Hamlet. Correct: The teacher shared a famous quotation from Hamlet to highlight the character’s emotions."
+        }
+      ]
+    },
+    {
+      "meaning": "A formal statement of the estimated cost for a particular job or service",
+      "usage": "Used in business contexts to refer to a document or statement provided by a supplier or contractor detailing the expected cost of goods or services. Often used in negotiations or when comparing offers.",
+      "collocations": ["request a quotation", "provide a quotation", "competitive quotation"],
+      "examples": [
+        {
+          "scene": "一家公司计划装修办公室，联系了多家装修公司，要求每家公司提交一份详细的费用估算，以便比较和选择。",
+          "chineseIdea": "我想通过收集不同公司的费用估算，找到性价比最高的装修方案。",
+          "sentenceWithBlank": "The company decided to @ @ @ from several contractors before making a decision.",
+          "fullEnglishSentence": "The company decided to 「request a quotation」 from several contractors before making a decision.",
+          "chineseTranslation": "公司决定在做决定前向多家承包商「请求报价」。",
+          "chinglishFix": "Chinglish: The company asked for a price from contractors. Correct: The company requested a quotation from contractors to compare costs."
+        },
+        {
+          "scene": "一位客户联系了一家印刷公司，询问制作1000份宣传册的费用，公司很快回复了一份包含价格和细节的正式文件。",
+          "chineseIdea": "我想通过提供一份清晰的费用说明，让客户了解我们的服务并建立信任。",
+          "sentenceWithBlank": "The printing company was quick to @ @ @ for the brochure project.",
+          "fullEnglishSentence": "The printing company was quick to 「provide a quotation」 for the brochure project.",
+          "chineseTranslation": "印刷公司很快为宣传册项目「提供了报价」。",
+          "chinglishFix": "Chinglish: The company gave a price to the client. Correct: The company provided a quotation detailing the costs for the client."
+        }
+      ]
+    }
+  ]
+}
+```

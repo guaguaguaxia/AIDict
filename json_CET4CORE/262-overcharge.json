@@ -1,0 +1,53 @@
+```json
+{
+  "word": "overcharge",
+  "definitions": [
+    {
+      "meaning": "向某人收取过高的费用或价格",
+      "usage": "通常用于描述商家、服务提供者或个人向客户索要超过合理或约定价格的费用，常带有负面含义，暗示不公平或欺诈。",
+      "collocations": ["overcharge for a service", "overcharge a customer", "overcharge on a bill"],
+      "examples": [
+        {
+          "scene": "你在一家餐馆用餐，点了一份普通的炒饭和一杯饮料。服务员送来账单时，你发现价格远高于菜单上的标价，甚至比同类型餐馆高出许多。你感到被坑了。",
+          "chineseIdea": "你觉得餐馆故意多收了钱，账单上的价格不合理，想和老板理论。",
+          "sentenceWithBlank": "The restaurant @ @ @, making the bill much higher than expected.",
+          "fullEnglishSentence": "The restaurant 「overcharged for a service」, making the bill much higher than expected.",
+          "chineseTranslation": "这家餐馆「为服务多收费」，导致账单远高于预期。",
+          "chinglishFix": "典型中式英语：'The restaurant give me a too high bill.' 纠正：'The restaurant overcharged me for the meal.'"
+        },
+        {
+          "scene": "你叫了一辆网约车去机场，行程结束后，司机告诉你因为高峰时段需要额外收费，但你发现费用比平台预估的高出50%。你怀疑司机故意多收了钱。",
+          "chineseIdea": "你认为司机利用高峰时段的借口，偷偷提高了费用，感到不公平。",
+          "sentenceWithBlank": "The driver @ @ @, claiming it was due to peak hours.",
+          "fullEnglishSentence": "The driver 「overcharged a customer」, claiming it was due to peak hours.",
+          "chineseTranslation": "司机「向客户多收费」，声称是因为高峰时段。",
+          "chinglishFix": "典型中式英语：'The driver charge me too much money.' 纠正：'The driver overcharged me.'"
+        }
+      ]
+    },
+    {
+      "meaning": "给电池或设备充电过多",
+      "usage": "在技术或电子设备领域，指给电池或设备充电超过其容量或推荐时间，可能导致损坏或性能下降。通常用于描述不正确的充电行为。",
+      "collocations": ["overcharge a battery", "overcharge a device", "overcharge an electric vehicle"],
+      "examples": [
+        {
+          "scene": "你新买了一部智能手机，出于担心电量不足，总是整夜充电。朋友提醒你这样可能会损害电池寿命。",
+          "chineseIdea": "你意识到长时间充电可能会让电池过载，影响手机的长期使用。",
+          "sentenceWithBlank": "Leaving the phone plugged in overnight might @ @ @, reducing its lifespan.",
+          "fullEnglishSentence": "Leaving the phone plugged in overnight might 「overcharge a battery」, reducing its lifespan.",
+          "chineseTranslation": "整夜插着电源可能会「过度充电电池」，从而缩短其寿命。",
+          "chinglishFix": "典型中式英语：'Charge the phone too long will hurt battery.' 纠正：'Overcharging the phone can damage the battery.'"
+        },
+        {
+          "scene": "你有一辆电动车，充电站的操作员建议你不要每次都充满电，因为长期充满可能会影响电池性能。",
+          "chineseIdea": "你了解到为了保护电池，充电时需要控制时间，避免过量充电。",
+          "sentenceWithBlank": "Frequent full charges can @ @ @, leading to faster battery degradation.",
+          "fullEnglishSentence": "Frequent full charges can 「overcharge an electric vehicle」, leading to faster battery degradation.",
+          "chineseTranslation": "频繁充满电可能会「过度充电电动车」，导致电池更快老化。",
+          "chinglishFix": "典型中式英语：'Always full charge the car is bad for battery.' 纠正：'Overcharging the electric vehicle can harm the battery.'"
+        }
+      ]
+    }
+  ]
+}
+```
