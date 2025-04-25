@@ -1,0 +1,53 @@
+```json
+{
+  "word": "hospitable",
+  "definitions": [
+    {
+      "meaning": "对客人友好、热情好客",
+      "usage": "形容一个人、家庭或社区对来访者表现出热情、欢迎和慷慨的态度，通常包括提供舒适的环境、食物或帮助。",
+      "collocations": ["be hospitable to", "a hospitable environment", "hospitable host"],
+      "examples": [
+        {
+          "scene": "你来到一个陌生的城市，住在一个当地家庭的民宿里。房东不仅为你准备了干净的房间，还特意做了当地特色早餐，并热情地介绍附近的景点。",
+          "chineseIdea": "房东对你的到来非常热情，主动提供帮助，让你感到宾至如归。",
+          "sentenceWithBlank": "The family was @ @ their guests, offering homemade meals and local tips.",
+          "fullEnglishSentence": "The family was 「hospitable to」 their guests, offering homemade meals and local tips.",
+          "chineseTranslation": "这个家庭对他们的客人非常「热情好客」，提供了自制的饭菜和当地的建议。",
+          "chinglishFix": "典型中式英语：'The family is very warm to guests.' 纠正：'Warm' 在此不够地道，建议用 'hospitable' 或 'welcoming'，如 'The family is very hospitable to their guests.'"
+        },
+        {
+          "scene": "你参加一个朋友的家庭聚会，朋友的父母特意布置了温馨的客厅，准备了各种点心和饮料，还主动和你聊天，让你感到非常放松。",
+          "chineseIdea": "朋友的父母营造了一个舒适的氛围，让你感到被欢迎和重视。",
+          "sentenceWithBlank": "The warm decorations and kind gestures created @ @ @ for everyone.",
+          "fullEnglishSentence": "The warm decorations and kind gestures created 「a hospitable environment」 for everyone.",
+          "chineseTranslation": "温馨的装饰和友好的举动为每个人营造了一个「热情好客的环境」。",
+          "chinglishFix": "典型中式英语：'The environment is very warm.' 纠正：'Warm' 单独使用不够具体，建议用 'hospitable environment' 或 'welcoming atmosphere'，如 'The environment is very hospitable.'"
+        }
+      ]
+    },
+    {
+      "meaning": "适宜的、利于…的",
+      "usage": "描述环境或条件适合某种活动、生物或事物的发展，通常用于较为正式或技术性的语境，如生态、科学或比喻性描述。",
+      "collocations": ["hospitable climate", "hospitable conditions", "hospitable to life"],
+      "examples": [
+        {
+          "scene": "你正在阅读一篇关于外星探索的文章，科学家发现某个星球的大气和温度条件可能适合微生物生存。",
+          "chineseIdea": "这个星球的环境看起来对生命的存在提供了有利的条件。",
+          "sentenceWithBlank": "The planet’s atmosphere and temperature make it @ @ @.",
+          "fullEnglishSentence": "The planet’s atmosphere and temperature make it 「hospitable to life」.",
+          "chineseTranslation": "这颗行星的大气和温度使其「适宜生命存在」。",
+          "chinglishFix": "典型中式英语：'The planet is good for life.' 纠正：'Good' 过于笼统，建议用 'hospitable' 或 'suitable'，如 'The planet is hospitable to life.'"
+        },
+        {
+          "scene": "你在一个农业论坛上听讲座，专家提到某些地区的土壤和降雨模式非常适合种植某种水果。",
+          "chineseIdea": "这些地区的自然条件为水果的生长提供了理想的环境。",
+          "sentenceWithBlank": "The region’s soil and rainfall provide @ @ for fruit cultivation.",
+          "fullEnglishSentence": "The region’s soil and rainfall provide 「hospitable conditions」 for fruit cultivation.",
+          "chineseTranslation": "该地区的土壤和降雨为水果种植提供了「适宜的条件」。",
+          "chinglishFix": "典型中式英语：'The conditions are good for fruits.' 纠正：'Good' 缺乏具体性，建议用 'hospitable conditions' 或 'favorable conditions'，如 'The conditions are hospitable for fruit cultivation.'"
+        }
+      ]
+    }
+  ]
+}
+```

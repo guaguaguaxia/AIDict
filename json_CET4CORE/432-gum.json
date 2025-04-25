@@ -1,0 +1,76 @@
+```json
+{
+  "word": "gum",
+  "definitions": [
+    {
+      "meaning": "口香糖；一种嚼食的糖果，通常具有弹性和持久的口感",
+      "usage": "指一种可咀嚼的糖果，常用于清新口气或休闲娱乐。通常与动词如chew, blow, pop等搭配，描述咀嚼、吹泡泡或发出爆破声的行为。",
+      "collocations": ["chew gum", "blow a bubble", "pop gum"],
+      "examples": [
+        {
+          "scene": "在一个忙碌的下午，学生们在教室里准备期末考试。课间休息时，一个学生从包里掏出一片口香糖，开始咀嚼以缓解压力。",
+          "chineseIdea": "咀嚼口香糖可以让人感到放松，尤其是在紧张的学习或工作环境中。",
+          "sentenceWithBlank": "During the break, she started to @ @ to relax.",
+          "fullEnglishSentence": "During the break, she started to 「chew gum」 to relax.",
+          "chineseTranslation": "课间休息时，她开始「嚼口香糖」来放松。",
+          "chinglishFix": "典型中式英语：She eat gum to relax. 纠正：She chews gum to relax. (‘eat’不适用于口香糖，应使用‘chew’表示咀嚼。)"
+        },
+        {
+          "scene": "在公园里，几个青少年围坐在一起聊天。一个男孩拿出口香糖，试图吹一个大泡泡，引来朋友们的笑声。",
+          "chineseIdea": "吹口香糖泡泡是一种有趣的娱乐方式，常用于社交场合增添乐趣。",
+          "sentenceWithBlank": "He tried to @ @ @ with his gum, making everyone laugh.",
+          "fullEnglishSentence": "He tried to 「blow a bubble」 with his gum, making everyone laugh.",
+          "chineseTranslation": "他试图用口香糖「吹一个泡泡」，让大家都笑了。",
+          "chinglishFix": "典型中式英语：He blow bubble with gum. 纠正：He blows a bubble with his gum. (需使用第三人称单数‘blows’并注意搭配‘blow a bubble’。)"
+        }
+      ]
+    },
+    {
+      "meaning": "牙龈；口腔中包裹牙齿根部的软组织",
+      "usage": "指牙齿周围的软组织，常用于牙科或健康相关语境。与形容词如healthy, swollen, bleeding等搭配，描述牙龈的状态。",
+      "collocations": ["healthy gums", "swollen gums", "bleeding gums"],
+      "examples": [
+        {
+          "scene": "在牙医诊所，一位患者因为刷牙时牙龈出血而感到担忧。牙医检查后建议他改善口腔卫生习惯。",
+          "chineseIdea": "健康的牙龈对牙齿保护至关重要，忽视牙龈问题可能导致牙周病。",
+          "sentenceWithBlank": "The dentist advised him to brush gently to maintain @ @.",
+          "fullEnglishSentence": "The dentist advised him to brush gently to maintain 「healthy gums」.",
+          "chineseTranslation": "牙医建议他轻柔刷牙以保持「健康的牙龈」。",
+          "chinglishFix": "典型中式英语：He need healthy gum. 纠正：He needs healthy gums. (‘gum’在指牙龈时通常用复数‘gums’，且注意主谓一致。)"
+        },
+        {
+          "scene": "一位年轻女性在牙科检查中发现牙龈有些红肿。牙医建议她使用温和的牙膏并定期使用牙线。",
+          "chineseIdea": "牙龈红肿可能是牙龈炎的信号，需要及时采取措施防止恶化。",
+          "sentenceWithBlank": "She was concerned about her @ @ and started flossing daily.",
+          "fullEnglishSentence": "She was concerned about her 「swollen gums」 and started flossing daily.",
+          "chineseTranslation": "她担心自己的「肿胀的牙龈」，开始每天使用牙线。",
+          "chinglishFix": "典型中式英语：Her gum is swelling. 纠正：Her gums are swollen. (‘gum’应使用复数‘gums’，且‘swollen’比‘swelling’更常用于描述状态。)"
+        }
+      ]
+    },
+    {
+      "meaning": "胶黏物质；用于粘合或增稠的天然或合成物质",
+      "usage": "指一种黏性物质，如树胶或工业胶，常用于描述粘合、增稠或工艺制作。与动词如use, apply, extract等搭配，强调其功能。",
+      "collocations": ["chewing gum base", "gum arabic", "natural gum"],
+      "examples": [
+        {
+          "scene": "在食品加工厂，工人正在调配一种新口味的口香糖。他们需要选择合适的胶基来确保口感。",
+          "chineseIdea": "胶基是口香糖制作中的关键成分，影响咀嚼的弹性和口感。",
+          "sentenceWithBlank": "The factory tested different @ @ @ to improve the texture.",
+          "fullEnglishSentence": "The factory tested different 「chewing gum base」 to improve the texture.",
+          "chineseTranslation": "工厂测试了不同的「口香糖胶基」以改善口感。",
+          "chinglishFix": "典型中式英语：They use gum to make chewing gum. 纠正：They use a chewing gum base to make chewing gum. (需具体指明‘chewing gum base’而非泛泛的‘gum’。)"
+        },
+        {
+          "scene": "在艺术课堂上，老师向学生展示如何使用阿拉伯胶作为水彩画的增稠剂，以增强颜料的表现力。",
+          "chineseIdea": "阿拉伯胶是一种天然胶黏物质，广泛用于艺术和食品工业。",
+          "sentenceWithBlank": "The teacher showed how to mix @ @ with watercolor for better effects.",
+          "fullEnglishSentence": "The teacher showed how to mix 「gum arabic」 with watercolor for better effects.",
+          "chineseTranslation": "老师展示了如何将「阿拉伯胶」与水彩混合以获得更好的效果。",
+          "chinglishFix": "典型中式英语：She use gum in painting. 纠正：She uses gum arabic in painting. (‘gum arabic’是具体术语，需明确使用。)"
+        }
+      ]
+    }
+  ]
+}
+```

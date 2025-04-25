@@ -1,0 +1,53 @@
+```json
+{
+  "word": "hire",
+  "definitions": [
+    {
+      "meaning": "雇用某人从事工作，通常指支付薪水以换取其服务",
+      "usage": "主要用作动词，表示通过正式或非正式协议雇用某人从事特定工作或任务。通常涉及劳动合同、薪资谈判等场景。",
+      "collocations": ["hire an employee", "hire a contractor", "hire for a position", "hire someone on"],
+      "examples": [
+        {
+          "scene": "一家小型科技公司在快速扩张，需要增加一名软件工程师来开发新产品。HR部门正在筛选简历并安排面试。",
+          "chineseIdea": "公司想要找一个有经验的程序员来加入团队，负责新项目的开发。",
+          "sentenceWithBlank": "After reviewing dozens of resumes, the company decided to @ @ @ for their new project.",
+          "fullEnglishSentence": "After reviewing dozens of resumes, the company decided to 「hire an employee」 for their new project.",
+          "chineseTranslation": "在审阅了数十份简历后，公司决定为新项目「雇用一名员工」。",
+          "chinglishFix": "中式英语：'We want to employ a people for project.' 纠正：'We want to hire an employee for the project.'（注意：'people'应为单数，且'hire'比'employ'更常见于描述具体招聘行为。）"
+        },
+        {
+          "scene": "一家餐厅因为旺季客流量增加，需要临时增加一名服务员来应对高峰期。",
+          "chineseIdea": "餐厅想找一个短期服务员来帮忙，合同只持续到旺季结束。",
+          "sentenceWithBlank": "To handle the busy season, the restaurant chose to @ @ @ until the end of summer.",
+          "fullEnglishSentence": "To handle the busy season, the restaurant chose to 「hire someone on」 until the end of summer.",
+          "chineseTranslation": "为了应对旺季，餐厅选择「临时雇用一名员工」到夏季结束。",
+          "chinglishFix": "中式英语：'Restaurant find a person work short time.' 纠正：'The restaurant hired someone on for a short time.'（注意：避免直接翻译'找人'，使用'hire someone on'表示临时雇用。）"
+        }
+      ]
+    },
+    {
+      "meaning": "租用某物，通常指支付费用以暂时使用设备、车辆或服务",
+      "usage": "用作动词，指通过支付费用暂时使用某物，如汽车、设备或场地。通常涉及短期租赁协议。",
+      "collocations": ["hire a car", "hire equipment", "hire a venue"],
+      "examples": [
+        {
+          "scene": "一对夫妇计划去欧洲旅行，他们抵达伦敦后需要一辆车来探索乡村。",
+          "chineseIdea": "他们想在旅行期间租一辆车，以便自由地游览周边地区。",
+          "sentenceWithBlank": "Upon arriving in London, the couple decided to @ @ @ for their road trip.",
+          "fullEnglishSentence": "Upon arriving in London, the couple decided to 「hire a car」 for their road trip.",
+          "chineseTranslation": "抵达伦敦后，这对夫妇决定为他们的公路旅行「租一辆车」。",
+          "chinglishFix": "中式英语：'We rent a car to travel.' 纠正：'We hired a car for the trip.'（注意：在英式英语中，'hire a car'比'rent a car'更常见，且句式更自然。）"
+        },
+        {
+          "scene": "一家小型企业在举办年度庆典时，需要租用一个场地来容纳所有员工和客户。",
+          "chineseIdea": "公司需要一个足够大的地方来举办活动，包含餐饮和娱乐。",
+          "sentenceWithBlank": "For the annual celebration, the company chose to @ @ @ to accommodate everyone.",
+          "fullEnglishSentence": "For the annual celebration, the company chose to 「hire a venue」 to accommodate everyone.",
+          "chineseTranslation": "为了年度庆典，公司选择「租用一个场地」来容纳所有人。",
+          "chinglishFix": "中式英语：'Company borrow a place for party.' 纠正：'The company hired a venue for the party.'（注意：'borrow'不适用于付费租用，'hire a venue'是正确的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```
