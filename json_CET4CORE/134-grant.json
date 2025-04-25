@@ -1,0 +1,53 @@
+```json
+{
+  "word": "grant",
+  "definitions": [
+    {
+      "meaning": "正式给予或批准某物，通常是金钱、权利或许可",
+      "usage": "作为动词，用于描述官方或正式地将某物给予某人，常用于资助、许可或权利的场景；作为名词，指给予的资金或许可。",
+      "collocations": ["grant permission", "grant funding", "grant a request"],
+      "examples": [
+        {
+          "scene": "一位学生向学校申请在校园内举办慈善活动，学校管理层正在讨论是否批准。",
+          "chineseIdea": "学生希望得到官方的许可，以便在校园内组织活动，学校需要正式批准。",
+          "sentenceWithBlank": "After reviewing the proposal, the school decided to @ @ for the charity event.",
+          "fullEnglishSentence": "After reviewing the proposal, the school decided to 「grant permission」 for the charity event.",
+          "chineseTranslation": "在审查提案后，学校决定「批准」慈善活动。",
+          "chinglishFix": "典型中式英语：'The school allowed permission for the event.' 纠正：'The school granted permission for the event.'（'allow permission' 不自然，'grant permission' 是固定搭配）"
+        },
+        {
+          "scene": "一家小型企业向政府申请资金支持，用于开发环保技术，政府正在评估申请。",
+          "chineseIdea": "企业希望获得政府的资金支持，以推动技术研发，政府需要正式拨款。",
+          "sentenceWithBlank": "The government agreed to @ @ to support the company’s green technology project.",
+          "fullEnglishSentence": "The government agreed to 「grant funding」 to support the company’s green technology project.",
+          "chineseTranslation": "政府同意「提供资金」以支持公司的绿色技术项目。",
+          "chinglishFix": "典型中式英语：'The government gave money support to the company.' 纠正：'The government granted funding to the company.'（'gave money support' 过于直译，'grant funding' 是正式表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "承认或接受某事为真，通常带有不情愿或正式的语气",
+      "usage": "作为动词，用于表示承认某事为真，尤其是当说话者可能不同意或不情愿接受时，常用于正式或书面语境。",
+      "collocations": ["grant that", "grant the point", "readily grant"],
+      "examples": [
+        {
+          "scene": "在一场辩论中，一位辩手虽然不同意对手的观点，但承认对方在某一点上有道理。",
+          "chineseIdea": "辩手不情愿地承认对手的观点有一定道理，但仍坚持自己的立场。",
+          "sentenceWithBlank": "I @ @ your argument about renewable energy is valid, but I still believe nuclear power is more efficient.",
+          "fullEnglishSentence": "I 「grant that」 your argument about renewable energy is valid, but I still believe nuclear power is more efficient.",
+          "chineseTranslation": "我「承认」你关于可再生能源的论点是有效的，但我仍然认为核能更高效。",
+          "chinglishFix": "典型中式英语：'I agree your argument is right.' 纠正：'I grant that your argument is valid.'（'agree' 语气太强，'grant that' 表示有限承认）"
+        },
+        {
+          "scene": "一位经理在团队会议中讨论项目进展时，承认某个问题确实存在，但强调解决方案已经制定。",
+          "chineseIdea": "经理正式承认问题，但同时指出已经采取措施解决问题。",
+          "sentenceWithBlank": "I @ @ @ that delays have occurred, but we’ve implemented a new schedule to address this.",
+          "fullEnglishSentence": "I 「grant the point」 that delays have occurred, but we’ve implemented a new schedule to address this.",
+          "chineseTranslation": "我「承认这一点」，确实出现了延误，但我们已经制定了新的计划来解决这个问题。",
+          "chinglishFix": "典型中式英语：'I accept delays happened.' 纠正：'I grant the point that delays have occurred.'（'accept' 过于简单，'grant the point' 更正式且符合语境）"
+        }
+      ]
+    }
+  ]
+}
+```

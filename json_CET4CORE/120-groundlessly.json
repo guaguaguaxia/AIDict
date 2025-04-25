@@ -1,0 +1,30 @@
+```json
+{
+  "word": "groundlessly",
+  "definitions": [
+    {
+      "meaning": "毫无根据地；无理地",
+      "usage": "用作副词，描述某人或某事在没有事实依据或理由的情况下做出判断、指控或行为。通常带有负面含义，暗示缺乏证据或正当理由。",
+      "collocations": ["accuse someone groundlessly", "claim groundlessly", "fear groundlessly"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，员工小李因为没有完成项目而被同事小张批评。小张认为小李故意偷懒，但实际上小李是因为生病而无法按时完成。",
+          "chineseIdea": "小张在没有了解小李情况的情况下，错误地指责小李偷懒。",
+          "sentenceWithBlank": "He @ @ @ of being lazy without any evidence.",
+          "fullEnglishSentence": "He 「accused someone groundlessly」 of being lazy without any evidence.",
+          "chineseTranslation": "他在没有任何证据的情况下「毫无根据地指责某人」偷懒。",
+          "chinglishFix": "典型中式英语：'He blamed him no reason.' 纠正：'He accused him groundlessly.'"
+        },
+        {
+          "scene": "在学校里，学生小明因为成绩下降被老师怀疑作弊，但实际上他只是因为家庭问题分心。",
+          "chineseIdea": "老师在没有调查清楚的情况下，错误地怀疑小明作弊。",
+          "sentenceWithBlank": "The teacher @ @ that the student cheated on the exam.",
+          "fullEnglishSentence": "The teacher 「claimed groundlessly」 that the student cheated on the exam.",
+          "chineseTranslation": "老师「毫无根据地声称」学生在考试中作弊。",
+          "chinglishFix": "典型中式英语：'Teacher said he cheated without reason.' 纠正：'The teacher claimed groundlessly that he cheated.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "honor",
+  "definitions": [
+    {
+      "meaning": "崇高的道德品质或正直的行为，强调尊重和诚实",
+      "usage": "指个人或群体因坚持道德原则、诚实或忠诚而受到尊敬的行为或品质，常用于描述高尚的品格或行为。",
+      "collocations": ["code of honor", "sense of honor", "uphold honor"],
+      "examples": [
+        {
+          "scene": "在一个传统的武术学校，学生们被教导要遵循严格的道德准则，不仅在比赛中公平竞争，还要在生活中保持正直。一位学生在比赛中发现对手作弊，但选择不公开指责，而是以自己的努力赢得比赛。",
+          "chineseIdea": "这位学生认为，真正的胜利不是通过揭露别人的错误，而是通过坚持自己的原则和努力来证明自己的价值。",
+          "sentenceWithBlank": "He followed a strict @ @ @ to maintain his integrity during the competition.",
+          "fullEnglishSentence": "He followed a strict 「code of honor」 to maintain his integrity during the competition.",
+          "chineseTranslation": "他遵循严格的「荣誉准则」以在比赛中保持正直。",
+          "chinglishFix": "中式英语：He obeyed a honor rule to keep honest. 纠正：He followed a code of honor to maintain integrity."
+        },
+        {
+          "scene": "在一家公司，一位员工发现自己的团队在项目中犯了错误，但他选择主动向客户承认错误，而不是隐瞒问题，以保护公司的声誉。",
+          "chineseIdea": "这位员工认为，诚实面对错误比短期利益更重要，因为这能赢得长期的信任。",
+          "sentenceWithBlank": "His strong @ @ @ drove him to admit the mistake to the client.",
+          "fullEnglishSentence": "His strong 「sense of honor」 drove him to admit the mistake to the client.",
+          "chineseTranslation": "他强烈的「荣誉感」促使他向客户承认错误。",
+          "chinglishFix": "中式英语：His honor feeling made him tell the truth. 纠正：His sense of honor drove him to admit the mistake."
+        }
+      ]
+    },
+    {
+      "meaning": "对某人或某事的尊敬或致敬",
+      "usage": "指通过行动、仪式或言语来表达对他人的尊重、感激或纪念，常用于正式场合或描述对某人的敬意。",
+      "collocations": ["pay honor to", "in honor of", "bestow honor on"],
+      "examples": [
+        {
+          "scene": "在一场学校毕业典礼上，学生们组织了一个特别的仪式，以表彰一位退休的老师多年来对教育的贡献。",
+          "chineseIdea": "学生们希望通过这个仪式表达对老师的感激，认可她对学生和学校的深远影响。",
+          "sentenceWithBlank": "The students organized a ceremony to @ @ @ their beloved teacher.",
+          "fullEnglishSentence": "The students organized a ceremony to 「pay honor to」 their beloved teacher.",
+          "chineseTranslation": "学生们组织了一场仪式以「向他们敬爱的老师致敬」。",
+          "chinglishFix": "中式英语：The students held a ceremony to give honor to the teacher. 纠正：The students organized a ceremony to pay honor to their beloved teacher."
+        },
+        {
+          "scene": "在一个小镇，每年都会举办一场音乐节，以纪念一位为社区文化做出巨大贡献的已故音乐家。",
+          "chineseIdea": "小镇居民希望通过这个活动，让音乐家的精神和贡献被后人铭记。",
+          "sentenceWithBlank": "The town holds an annual festival @ @ @ the late musician.",
+          "fullEnglishSentence": "The town holds an annual festival 「in honor of」 the late musician.",
+          "chineseTranslation": "小镇每年举办节日「以纪念」那位已故的音乐家。",
+          "chinglishFix": "中式英语：The town makes a festival to honor the musician. 纠正：The town holds an annual festival in honor of the late musician."
+        }
+      ]
+    },
+    {
+      "meaning": "特权或被授予的崇高地位",
+      "usage": "指某人因成就或地位而获得的特殊待遇或认可，常用于描述被赋予的头衔、奖项或机会。",
+      "collocations": ["great honor", "receive an honor", "confer an honor"],
+      "examples": [
+        {
+          "scene": "在一场国际科学会议上，一位年轻的研究员因其突破性研究被邀请作为主讲人，这是她职业生涯中的重要时刻。",
+          "chineseIdea": "这位研究员认为，能在如此重要的场合演讲是对她多年努力的肯定。",
+          "sentenceWithBlank": "Being invited to speak at the conference was a @ @ for her.",
+          "fullEnglishSentence": "Being invited to speak at the conference was a 「great honor」 for her.",
+          "chineseTranslation": "被邀请在会议上演讲对她来说是一项「莫大的荣誉」。",
+          "chinglishFix": "中式英语：She got a big honor to speak at the conference. 纠正：Being invited to speak at the conference was a great honor for her."
+        },
+        {
+          "scene": "在一个文学奖颁奖典礼上，一位作家因其最新小说获得了年度最佳小说奖，评委们高度评价了她的创作。",
+          "chineseIdea": "作家感到这个奖项不仅是对她作品的认可，也是对她创作道路的鼓励。",
+          "sentenceWithBlank": "She was thrilled to @ @ @ for her latest novel.",
+          "fullEnglishSentence": "She was thrilled to 「receive an honor」 for her latest novel.",
+          "chineseTranslation": "她为自己的最新小说「获得一项荣誉」而感到兴奋。",
+          "chinglishFix": "中式英语：She was happy to get a honor for her book. 纠正：She was thrilled to receive an honor for her latest novel."
+        }
+      ]
+    }
+  ]
+}
+```

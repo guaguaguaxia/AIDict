@@ -1,0 +1,53 @@
+```json
+{
+  "word": "headquarter",
+  "definitions": [
+    {
+      "meaning": "作为名词，指一个组织、公司或机构的总部，即其主要的行政管理中心",
+      "usage": "通常用作名词，表示某个实体（如公司、军队、组织等）的中央办公地点，负责决策和协调。常用复数形式 'headquarters'，但单数 'headquarter' 在特定语境中也可能出现（如动词或非正式使用）。",
+      "collocations": ["corporate headquarters", "global headquarters", "regional headquarters"],
+      "examples": [
+        {
+          "scene": "一家跨国公司正在上海召开年度战略会议，讨论全球市场的扩张计划。会议地点是公司的亚洲总部。",
+          "chineseIdea": "公司的高层需要一个固定的地点来集中管理亚洲地区的业务，这个地点通常被称为总部。",
+          "sentenceWithBlank": "The company’s @ @ hosts the annual strategy meeting for its Asian operations.",
+          "fullEnglishSentence": "The company’s 「corporate headquarters」 hosts the annual strategy meeting for its Asian operations.",
+          "chineseTranslation": "公司的「企业总部」主办了亚洲业务的年度战略会议。",
+          "chinglishFix": "典型中式英语：'The company’s head office do the meeting.' 纠正：'Head office' 应为 'headquarters'，且动词应为 'hosts'，因为 'headquarters' 在此为单数概念。"
+        },
+        {
+          "scene": "一家科技公司在硅谷设立了新的办公大楼，用来集中管理其国际业务。",
+          "chineseIdea": "一个全球化的公司需要一个核心地点来协调所有海外业务，这个地点通常被称作全球总部。",
+          "sentenceWithBlank": "The tech giant established its @ @ in Silicon Valley to oversee international operations.",
+          "fullEnglishSentence": "The tech giant established its 「global headquarters」 in Silicon Valley to oversee international operations.",
+          "chineseTranslation": "这家科技巨头在硅谷建立了其「全球总部」，以监督国际业务。",
+          "chinglishFix": "典型中式英语：'The company build a headquarter in Silicon Valley.' 纠正：应为 'established its headquarters'，避免单数 'headquarter'，并使用更自然的动词 'established'。"
+        }
+      ]
+    },
+    {
+      "meaning": "作为动词，指将某个组织或公司的总部设在某个地点",
+      "usage": "用作动词时，'headquarter' 表示将某组织的总部设立或安置在特定地点。通常用于描述公司或机构选择主要运营地点的行为，常与介词 'in' 或 'at' 搭配。",
+      "collocations": ["headquarter in", "headquarter at", "headquarter operations"],
+      "examples": [
+        {
+          "scene": "一家初创公司决定将其主要办公地点设在深圳，以便利用当地的科技生态系统。",
+          "chineseIdea": "初创公司希望选择一个有利的城市作为其总部所在地，以支持业务增长。",
+          "sentenceWithBlank": "The startup decided to @ @ Shenzhen to leverage the city’s tech ecosystem.",
+          "fullEnglishSentence": "The startup decided to 「headquarter in」 Shenzhen to leverage the city’s tech ecosystem.",
+          "chineseTranslation": "这家初创公司决定「将总部设在」深圳，以利用该市的科技生态系统。",
+          "chinglishFix": "典型中式英语：'The company put its headquarter in Shenzhen.' 纠正：应为 'headquarter in Shenzhen'，使用动词 'headquarter' 而非 'put'，并搭配介词 'in'。"
+        },
+        {
+          "scene": "一家国际非营利组织选择在日内瓦设立总部，以便更好地协调全球人道主义工作。",
+          "chineseIdea": "非营利组织需要一个战略位置作为总部，以便有效管理全球项目。",
+          "sentenceWithBlank": "The organization chose to @ @ Geneva to coordinate its global humanitarian efforts.",
+          "fullEnglishSentence": "The organization chose to 「headquarter at」 Geneva to coordinate its global humanitarian efforts.",
+          "chineseTranslation": "该组织选择「将总部设在」日内瓦，以协调其全球人道主义工作。",
+          "chinglishFix": "典型中式英语：'The organization make headquarter in Geneva.' 纠正：应为 'headquarter at Geneva'，避免 'make'，并使用正确的动词形式和介词 'at'。"
+        }
+      ]
+    }
+  ]
+}
+```

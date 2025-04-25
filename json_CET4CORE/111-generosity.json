@@ -1,0 +1,53 @@
+```json
+{
+  "word": "generosity",
+  "definitions": [
+    {
+      "meaning": "愿意给予或分享的品质，特别是在金钱、时间或资源方面",
+      "usage": "通常用于描述一个人在物质或情感上对他人的无私奉献，常带有正面情感色彩，强调自愿和不求回报。",
+      "collocations": ["show generosity", "act of generosity", "spirit of generosity"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，志愿者们正在为贫困家庭筹集物资。一位名叫李明的年轻人不仅捐出了自己的旧衣物，还花时间帮助组织活动，赢得了大家的赞赏。",
+          "chineseIdea": "李明愿意花时间和精力帮助他人，展现了一种无私的奉献精神，这种行为让人们感到温暖和感动。",
+          "sentenceWithBlank": "Li Ming @ @ to the community by donating clothes and helping with the event.",
+          "fullEnglishSentence": "Li Ming 「showed generosity」 to the community by donating clothes and helping with the event.",
+          "chineseTranslation": "李明通过捐赠衣物和帮助组织活动对社区「展现了慷慨」。",
+          "chinglishFix": "典型中式英语：'Li Ming is very generosity to donate clothes.' 纠正：'Li Ming showed great generosity by donating clothes.'（应使用动词'show'并搭配适当结构，而非直接用名词。）"
+        },
+        {
+          "scene": "在一家咖啡店，顾客张女士发现前面的顾客忘了带钱包，她主动为对方支付了咖啡费用，店员和顾客都对她的行为表示感激。",
+          "chineseIdea": "张女士不认识对方，却愿意为陌生人付钱，这种行为体现了她对他人的善意和乐于助人的态度。",
+          "sentenceWithBlank": "Zhang’s @ @ @ touched everyone in the coffee shop when she paid for a stranger’s coffee.",
+          "fullEnglishSentence": "Zhang’s 「act of generosity」 touched everyone in the coffee shop when she paid for a stranger’s coffee.",
+          "chineseTranslation": "张女士的「慷慨行为」感动了咖啡店里的每个人，因为她为一个陌生人支付了咖啡费用。",
+          "chinglishFix": "典型中式英语：'Zhang did a generosity action.' 纠正：'Zhang performed an act of generosity.'（应使用固定搭配'act of'，避免生硬的直译。）"
+        }
+      ]
+    },
+    {
+      "meaning": "宽容或宽大的态度，特别是在判断或对待他人时",
+      "usage": "用于描述一个人在面对他人的错误或缺点时表现出的宽容或理解，常用于情感或道德层面，强调包容。",
+      "collocations": ["generosity of spirit", "extend generosity", "display generosity"],
+      "examples": [
+        {
+          "scene": "在一次团队会议中，小王因为误解任务要求犯了一个错误，导致项目延误。团队领导没有责骂他，而是耐心地解释问题，并给他机会改正。",
+          "chineseIdea": "领导没有因为小王的错误而批评他，而是选择以宽容的态度对待，这让小王感到被尊重和支持。",
+          "sentenceWithBlank": "The team leader’s @ @ @ helped Xiao Wang feel supported despite his mistake.",
+          "fullEnglishSentence": "The team leader’s 「generosity of spirit」 helped Xiao Wang feel supported despite his mistake.",
+          "chineseTranslation": "团队领导的「宽容精神」让小王尽管犯了错误仍感到被支持。",
+          "chinglishFix": "典型中式英语：'The leader has a big generosity to Xiao Wang.' 纠正：'The leader showed a generosity of spirit toward Xiao Wang.'（应使用固定搭配'generosity of spirit'，避免不自然的形容。）"
+        },
+        {
+          "scene": "在家庭聚会上，小李的表弟不小心打破了一个贵重的花瓶。小李没有生气，反而安慰表弟说这只是个意外，并帮忙清理碎片。",
+          "chineseIdea": "小李没有因为花瓶被打破而责怪表弟，而是用宽大的态度对待这个错误，体现了他对家人的理解和包容。",
+          "sentenceWithBlank": "Xiao Li @ @ to his cousin by calmly handling the broken vase incident.",
+          "fullEnglishSentence": "Xiao Li 「extended generosity」 to his cousin by calmly handling the broken vase incident.",
+          "chineseTranslation": "小李通过平静地处理花瓶破碎事件对他的表弟「展现了宽容」。",
+          "chinglishFix": "典型中式英语：'Xiao Li gave generosity to his cousin.' 纠正：'Xiao Li extended generosity to his cousin.'（应使用动词'extend'，符合英语表达习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```
