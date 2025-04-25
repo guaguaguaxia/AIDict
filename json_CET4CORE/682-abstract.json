@@ -1,0 +1,76 @@
+```json
+{
+  "word": "abstract",
+  "definitions": [
+    {
+      "meaning": "抽象的；理论的（与具体或实际相对，指概念、想法或理论上的东西）",
+      "usage": "用作形容词，描述某事物是概念性的、理论性的，而不是具体的、可触摸的。通常用于学术、艺术、哲学等领域，强调脱离具体实例的普遍性或概括性。",
+      "collocations": ["abstract concept", "abstract idea", "abstract thinking"],
+      "examples": [
+        {
+          "scene": "在一所大学的哲学课堂上，教授正在讲解形而上学的核心概念，学生们围绕‘自由’这个主题展开讨论。",
+          "chineseIdea": "学生们试图理解‘自由’作为一个脱离具体情境的普遍概念，而不是具体的行动或事件。",
+          "sentenceWithBlank": "The professor explained that freedom is an @ @ that requires deep reflection.",
+          "fullEnglishSentence": "The professor explained that freedom is an 「abstract concept」 that requires deep reflection.",
+          "chineseTranslation": "教授解释说，自由是一个「抽象的概念」，需要深入的思考。",
+          "chinglishFix": "典型中式英语：'Freedom is a very abstract thing.' 纠正：'Freedom is an abstract concept.'（避免用模糊的‘thing’，改为更精确的‘concept’）"
+        },
+        {
+          "scene": "在一场学术会议上，研究者们讨论如何培养儿童的逻辑思维能力，强调理论推理的重要性。",
+          "chineseIdea": "研究者认为，培养儿童脱离具体事例、进行理论推理的能力对他们的成长至关重要。",
+          "sentenceWithBlank": "Encouraging @ @ in children helps them solve complex problems.",
+          "fullEnglishSentence": "Encouraging 「abstract thinking」 in children helps them solve complex problems.",
+          "chineseTranslation": "鼓励儿童进行「抽象思考」有助于他们解决复杂问题。",
+          "chinglishFix": "典型中式英语：'Children should think abstract.' 纠正：'Children should engage in abstract thinking.'（避免省略必要名词‘thinking’，使表达更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "抽象的（指艺术作品，强调非具象的表现形式）",
+      "usage": "用作形容词，描述艺术作品（如绘画、雕塑）不直接描绘现实物体，而是通过形状、颜色、线条等表达情感或概念。",
+      "collocations": ["abstract art", "abstract painting", "abstract design"],
+      "examples": [
+        {
+          "scene": "在一个现代艺术展览中，观众们站在一幅色彩斑斓的画作前，试图解读其背后的含义。",
+          "chineseIdea": "观众们被画作中没有具体形象、仅用颜色和形状表达情感的风格所吸引。",
+          "sentenceWithBlank": "The gallery showcased a stunning @ @ that left visitors in awe.",
+          "fullEnglishSentence": "The gallery showcased a stunning 「abstract painting」 that left visitors in awe.",
+          "chineseTranslation": "画廊展出了一幅令人叹为观止的「抽象画作」，让参观者惊叹不已。",
+          "chinglishFix": "典型中式英语：'This is an abstract picture.' 纠正：'This is an abstract painting.'（用‘painting’更贴合艺术语境，避免泛泛的‘picture’）"
+        },
+        {
+          "scene": "一位室内设计师正在为客户展示一个新颖的家居装饰方案，强调非传统的美学。",
+          "chineseIdea": "设计师希望通过非具象的图案和色彩搭配，营造独特的氛围。",
+          "sentenceWithBlank": "The designer proposed an @ @ for the living room walls.",
+          "fullEnglishSentence": "The designer proposed an 「abstract design」 for the living room walls.",
+          "chineseTranslation": "设计师为客厅墙面提出了一个「抽象的设计」。",
+          "chinglishFix": "典型中式英语：'We can use abstract style on the wall.' 纠正：'We can use an abstract design for the wall.'（加上‘design’使表达更具体且专业）"
+        }
+      ]
+    },
+    {
+      "meaning": "摘要（指文章、报告等的简短概述）",
+      "usage": "用作名词，指学术文章、研究报告或会议论文的简短总结，通常概述主要内容、方法和结论。",
+      "collocations": ["write an abstract", "submit an abstract", "read an abstract"],
+      "examples": [
+        {
+          "scene": "一位研究生正在准备提交一篇论文到国际学术会议，需要先提交内容概述。",
+          "chineseIdea": "研究生需要总结研究的主要发现和方法，以便会议组织者评估论文。",
+          "sentenceWithBlank": "She spent hours to @ @ @ for the conference.",
+          "fullEnglishSentence": "She spent hours to 「write an abstract」 for the conference.",
+          "chineseTranslation": "她花了几个小时为会议「写摘要」。",
+          "chinglishFix": "典型中式英语：'She wrote a summary for the conference.' 纠正：'She wrote an abstract for the conference.'（学术语境中‘abstract’比‘summary’更专业）"
+        },
+        {
+          "scene": "一位教授在审稿前快速浏览一篇学术文章的概述，以决定是否深入阅读。",
+          "chineseIdea": "教授希望通过概述快速了解文章的研究重点和结论。",
+          "sentenceWithBlank": "He always @ @ @ before diving into the full paper.",
+          "fullEnglishSentence": "He always 「reads an abstract」 before diving into the full paper.",
+          "chineseTranslation": "他总是在深入阅读全文前先「读摘要」。",
+          "chinglishFix": "典型中式英语：'He reads the introduction first.' 纠正：'He reads the abstract first.'（区分‘introduction’和‘abstract’，后者是专门的概述）"
+        }
+      ]
+    }
+  ]
+}
+```

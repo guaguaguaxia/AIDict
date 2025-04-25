@@ -1,0 +1,53 @@
+```json
+{
+  "word": "considerable",
+  "definitions": [
+    {
+      "meaning": "相当大的；显著的（指数量、程度或规模很大，值得注意）",
+      "usage": "通常用作形容词，修饰名词，表示某事物在数量、程度或规模上很大，常用于正式或中立语境，带有一定强调意味。",
+      "collocations": ["amount of time", "amount of effort", "degree of success"],
+      "examples": [
+        {
+          "scene": "一位中国学生在准备雅思考试时，发现需要投入大量时间来提高写作水平。",
+          "chineseIdea": "学生意识到写作部分的提升需要花费很多时间来练习和修改。",
+          "sentenceWithBlank": "Preparing for the IELTS writing section requires an @ @ @ to improve.",
+          "fullEnglishSentence": "Preparing for the IELTS writing section requires a 「considerable amount of time」 to improve.",
+          "chineseTranslation": "准备雅思写作部分需要「相当多的时间」来提升。",
+          "chinglishFix": "典型中式英语：'It needs very much time to improve.' 纠正：'It requires a considerable amount of time to improve.'（避免直接翻译‘很多时间’，用更自然的搭配和词汇）"
+        },
+        {
+          "scene": "一家中国初创公司在开发新产品时，团队成员投入了大量精力来完善设计。",
+          "chineseIdea": "团队认为只有付出很多努力，才能让产品在市场上脱颖而出。",
+          "sentenceWithBlank": "The team put in an @ @ @ to perfect the product design.",
+          "fullEnglishSentence": "The team put in a 「considerable amount of effort」 to perfect the product design.",
+          "chineseTranslation": "团队投入了「相当多的精力」来完善产品设计。",
+          "chinglishFix": "典型中式英语：'They used big effort to design.' 纠正：'They put in a considerable amount of effort to design.'（避免‘big effort’这种不自然的表达，用更地道的搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "重要的；值得考虑的（指某人或某事物因其地位、影响或价值而值得重视）",
+      "usage": "用作形容词，描述某人或某事物在特定领域内具有重要性或影响力，常用于正式语境。",
+      "collocations": ["influence on", "impact on", "contribution to"],
+      "examples": [
+        {
+          "scene": "一位中国学者在国际会议上发表了关于气候变化的演讲，引起了广泛关注。",
+          "chineseIdea": "学者的观点对全球环保政策讨论产生了重要影响。",
+          "sentenceWithBlank": "Her speech had a @ @ @ global environmental policies.",
+          "fullEnglishSentence": "Her speech had a 「considerable influence on」 global environmental policies.",
+          "chineseTranslation": "她的演讲对全球环保政策产生了「相当大的影响」。",
+          "chinglishFix": "典型中式英语：'Her speech affected environment policy very much.' 纠正：'Her speech had a considerable influence on environmental policy.'（避免直接用‘affect very much’，选用更正式的搭配）"
+        },
+        {
+          "scene": "一位中国企业家通过慈善捐款支持了乡村教育的发展。",
+          "chineseIdea": "企业家的捐款为乡村学校的建设作出了重要贡献。",
+          "sentenceWithBlank": "His donations made a @ @ @ rural education.",
+          "fullEnglishSentence": "His donations made a 「considerable contribution to」 rural education.",
+          "chineseTranslation": "他的捐款为乡村教育作出了「相当大的贡献」。",
+          "chinglishFix": "典型中式英语：'His money helped education a lot.' 纠正：'His donations made a considerable contribution to education.'（避免过于简单的‘help a lot’，用更精确的表达）"
+        }
+      ]
+    }
+  ]
+}
+```

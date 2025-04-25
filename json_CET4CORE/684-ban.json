@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ban",
+  "definitions": [
+    {
+      "meaning": "正式禁止某事物或行为",
+      "usage": "指通过法律、规定或权威正式禁止某事物或活动，通常用于政府、机构或组织发布的禁令。",
+      "collocations": ["smoking in public", "plastic bags", "certain books"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的都市，市政府为了改善空气质量和公共健康，决定在所有公共场所禁止吸烟。市民们在咖啡馆、公园和公交车站等地看到新的标牌，提醒他们遵守规定。",
+          "chineseIdea": "政府希望通过禁止吸烟来保护非吸烟者的健康，同时减少二手烟的危害。",
+          "sentenceWithBlank": "The city council decided to @ @ @ to improve air quality.",
+          "fullEnglishSentence": "The city council decided to 「ban smoking in public」 to improve air quality.",
+          "chineseTranslation": "市议会决定「禁止在公共场所吸烟」以改善空气质量。",
+          "chinglishFix": "典型中式英语：'Forbid smoking in public place.' 纠正：'Ban smoking in public places.'（用'ban'更符合正式禁令的语境，'places'用复数更自然。）"
+        },
+        {
+          "scene": "在一个环保意识高涨的小镇，超市和商店不再提供一次性塑料袋，居民们开始使用可重复使用的布袋购物。这是响应政府对塑料制品的禁令。",
+          "chineseIdea": "通过禁止塑料袋，政府希望减少塑料污染，鼓励可持续的生活方式。",
+          "sentenceWithBlank": "The local government introduced a policy to @ @ to reduce plastic waste.",
+          "fullEnglishSentence": "The local government introduced a policy to 「ban plastic bags」 to reduce plastic waste.",
+          "chineseTranslation": "当地政府出台了一项政策「禁止塑料袋」以减少塑料垃圾。",
+          "chinglishFix": "典型中式英语：'Stop to use plastic bags.' 纠正：'Ban plastic bags.'（'ban'更直接表达禁止，'stop to use'不符合英语习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "限制或禁止某人做某事",
+      "usage": "指通过权威或规则限制某人从事特定活动，通常带有惩罚或约束的含义，例如禁止某人进入某地或参与某活动。",
+      "collocations": ["from entering", "from participating", "from driving"],
+      "examples": [
+        {
+          "scene": "在一场激烈的足球比赛后，一名球迷因在看台上扔杂物而被场馆管理方处罚。他收到一封正式通知，告知他未来一年不能进入体育场观看比赛。",
+          "chineseIdea": "管理方希望通过禁止不良行为者入场来维护比赛秩序和观众安全。",
+          "sentenceWithBlank": "The stadium authorities decided to @ @ @ for one year due to his disruptive behavior.",
+          "fullEnglishSentence": "The stadium authorities decided to 「ban him from entering」 for one year due to his disruptive behavior.",
+          "chineseTranslation": "体育场管理当局决定因他的破坏行为「禁止他入场」一年。",
+          "chinglishFix": "典型中式英语：'Not allow him enter.' 纠正：'Ban him from entering.'（'ban from'是固定搭配，'entering'用动名词更规范。）"
+        },
+        {
+          "scene": "一名学生在学校辩论俱乐部中因多次违反规则，例如打断他人发言和使用不当语言，而被老师暂时禁止参加活动，直到他能证明自己会遵守规则。",
+          "chineseIdea": "老师希望通过限制他的参与来让他意识到规则的重要性，同时维护团队的和谐。",
+          "sentenceWithBlank": "The teacher chose to @ @ @ for a month to enforce discipline.",
+          "fullEnglishSentence": "The teacher chose to 「ban her from participating」 for a month to enforce discipline.",
+          "chineseTranslation": "老师选择「禁止她参与」一个月以加强纪律。",
+          "chinglishFix": "典型中式英语：'Forbid her to join.' 纠正：'Ban her from participating.'（'ban from'更常见，'participating'比'join'更贴合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```
