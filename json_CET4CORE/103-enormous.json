@@ -1,0 +1,53 @@
+```json
+{
+  "word": "enormous",
+  "definitions": [
+    {
+      "meaning": "非常大的，巨大的（指尺寸、数量或程度）",
+      "usage": "形容某物在尺寸、数量或程度上远远超出常规，带有强调的语气，常用于描述具体或抽象的事物，如物体、数量、影响等。",
+      "collocations": ["an enormous amount of", "enormous pressure", "enormous potential"],
+      "examples": [
+        {
+          "scene": "一位中国学生在准备雅思考试时，发现需要记忆的单词量非常多，感到任务艰巨。",
+          "chineseIdea": "描述一种让人感到负担沉重的大量任务或资源。",
+          "sentenceWithBlank": "She was overwhelmed by @ @ @ vocabulary she had to memorize for the IELTS exam.",
+          "fullEnglishSentence": "She was overwhelmed by 「an enormous amount of」 vocabulary she had to memorize for the IELTS exam.",
+          "chineseTranslation": "她被需要为雅思考试记忆的「大量」词汇压得喘不过气。",
+          "chinglishFix": "中式英语：'She has very many words to remember.' 纠正：'She has an enormous amount of vocabulary to memorize.'（用'enormous amount of'更自然，强调数量巨大）"
+        },
+        {
+          "scene": "一家初创公司在短时间内获得了大量用户，展现出巨大的市场前景。",
+          "chineseIdea": "描述某事物在未来可能带来的巨大可能性或价值。",
+          "sentenceWithBlank": "The startup’s rapid growth showed @ @ in the competitive market.",
+          "fullEnglishSentence": "The startup’s rapid growth showed 「enormous potential」 in the competitive market.",
+          "chineseTranslation": "这家初创公司的快速增长显示了在竞争市场中的「巨大潜力」。",
+          "chinglishFix": "中式英语：'The company has very big possibility.' 纠正：'The company has enormous potential.'（'enormous potential'更地道，强调潜力巨大）"
+        }
+      ]
+    },
+    {
+      "meaning": "巨大的（指影响力或重要性）",
+      "usage": "强调某事物在影响力、重要性或效果方面的巨大程度，常用于抽象概念，如影响、贡献、挑战等。",
+      "collocations": ["enormous impact", "enormous challenge", "enormous responsibility"],
+      "examples": [
+        {
+          "scene": "一位中国科学家在全球气候变化研究中发表了突破性论文，引起广泛关注。",
+          "chineseIdea": "描述某件事对某个领域或社会产生的深远影响。",
+          "sentenceWithBlank": "Her research on climate change had @ @ on global environmental policies.",
+          "fullEnglishSentence": "Her research on climate change had 「an enormous impact」 on global environmental policies.",
+          "chineseTranslation": "她对气候变化的研究对全球环境政策产生了「巨大影响」。",
+          "chinglishFix": "中式英语：'Her research affects environment very much.' 纠正：'Her research has an enormous impact on the environment.'（'enormous impact'更精确，强调影响力）"
+        },
+        {
+          "scene": "一位年轻的中国企业家接管家族企业，面临管理庞大团队的压力。",
+          "chineseIdea": "描述某人面临的重大职责或任务。",
+          "sentenceWithBlank": "Taking over the family business was @ @ for the young entrepreneur.",
+          "fullEnglishSentence": "Taking over the family business was 「an enormous responsibility」 for the young entrepreneur.",
+          "chineseTranslation": "接管家族企业对这位年轻企业家来说是「重大责任」。",
+          "chinglishFix": "中式英语：'He has a very heavy duty.' 纠正：'He has an enormous responsibility.'（'enormous responsibility'更符合英语表达习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

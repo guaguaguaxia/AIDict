@@ -1,0 +1,76 @@
+```json
+{
+  "word": "establishment",
+  "definitions": [
+    {
+      "meaning": "建立或设立某事物，如机构、组织或系统的行为",
+      "usage": "指创建或设立一个实体，通常用于描述正式机构、组织、法律或规则的建立。常用于正式或法律语境。",
+      "collocations": ["establish a business", "found an organization", "set up a system"],
+      "examples": [
+        {
+          "scene": "一个年轻人在上海决定开始自己的咖啡店，经过数月的计划，他终于注册了公司并租下了店面。",
+          "chineseIdea": "他想要通过自己的努力创建一个属于自己的事业，并在这个城市站稳脚跟。",
+          "sentenceWithBlank": "After months of planning, he finally @ @ @ in Shanghai.",
+          "fullEnglishSentence": "After months of planning, he finally 「established a business」 in Shanghai.",
+          "chineseTranslation": "在数月的计划后，他终于在上海「建立了一家企业」。",
+          "chinglishFix": "典型中式英语：He opened a company in Shanghai. 纠正：'Open a company' 更偏向于描述物理开张，正确的表达是 「establish a business」 或 「start a business」，强调正式设立。"
+        },
+        {
+          "scene": "一个非营利组织在非洲某国致力于改善教育，他们决定创建一个新的教育基金会来支持当地学校。",
+          "chineseIdea": "他们希望通过设立一个正式的组织来长期支持教育事业。",
+          "sentenceWithBlank": "To support local schools, they decided to @ @ @ in the region.",
+          "fullEnglishSentence": "To support local schools, they decided to 「found an organization」 in the region.",
+          "chineseTranslation": "为了支持当地学校，他们决定在该地区「成立一个组织」。",
+          "chinglishFix": "典型中式英语：They built an organization. 纠正：'Build' 更常用于物理建设，正确的表达是 「found an organization」 或 「establish an organization」，强调正式创立。"
+        }
+      ]
+    },
+    {
+      "meaning": "已建立的机构、组织或企业",
+      "usage": "指一个已经存在且运行的实体，如公司、商店、餐厅等。通常用于描述有一定规模或声誉的实体，带有稳定或权威的含义。",
+      "collocations": ["reputable establishment", "commercial establishment", "fine dining establishment"],
+      "examples": [
+        {
+          "scene": "一位游客来到北京，想找一家有名的餐厅体验正宗的北京烤鸭。",
+          "chineseIdea": "他希望去一家声誉良好的餐厅，享受高品质的用餐体验。",
+          "sentenceWithBlank": "He visited a @ @ in Beijing to try authentic Peking duck.",
+          "fullEnglishSentence": "He visited a 「reputable establishment」 in Beijing to try authentic Peking duck.",
+          "chineseTranslation": "他去北京的一家「声誉良好的餐厅」尝试正宗的北京烤鸭。",
+          "chinglishFix": "典型中式英语：He went to a famous restaurant. 纠正：'Famous restaurant' 较为笼统，正确的表达是 「reputable establishment」，更能体现餐厅的声誉和正式感。"
+        },
+        {
+          "scene": "一个商务人士需要在伦敦市中心找一家高端餐厅来招待客户。",
+          "chineseIdea": "他需要一个环境优雅、菜品精致的餐厅来展示自己的专业形象。",
+          "sentenceWithBlank": "To impress his clients, he booked a table at a @ @ @ in London.",
+          "fullEnglishSentence": "To impress his clients, he booked a table at a 「fine dining establishment」 in London.",
+          "chineseTranslation": "为了给客户留下好印象，他在伦敦一家「高档餐厅」预订了座位。",
+          "chinglishFix": "典型中式英语：He reserved a high-class restaurant. 纠正：'High-class restaurant' 听起来生硬，正确的表达是 「fine dining establishment」，更自然地传达高端餐饮的概念。"
+        }
+      ]
+    },
+    {
+      "meaning": "（社会或政治的）体制、权势集团",
+      "usage": "指一个国家或社会的权力结构、传统机构或既得利益集团，常带有批评或中性含义，用于讨论政治、社会或文化话题。",
+      "collocations": ["political establishment", "challenge the establishment", "part of the establishment"],
+      "examples": [
+        {
+          "scene": "一个年轻的改革者在竞选活动中公开批评政府的传统政策，吸引了许多年轻选民的支持。",
+          "chineseIdea": "他认为当前的体制过于保守，需要新的声音来推动变革。",
+          "sentenceWithBlank": "His campaign aimed to @ @ @ by promoting progressive policies.",
+          "fullEnglishSentence": "His campaign aimed to 「challenge the establishment」 by promoting progressive policies.",
+          "chineseTranslation": "他的竞选活动通过推广进步政策来「挑战体制」。",
+          "chinglishFix": "典型中式英语：He wanted to change the system. 纠正：'Change the system' 过于模糊，正确的表达是 「challenge the establishment」，更准确地表达对既有权力结构的对抗。"
+        },
+        {
+          "scene": "一位资深的政客在党内拥有广泛的影响力，被认为是传统势力的代表。",
+          "chineseIdea": "他代表了长期掌权的精英群体，维护现有秩序。",
+          "sentenceWithBlank": "As a senior politician, he was considered @ @ @.",
+          "fullEnglishSentence": "As a senior politician, he was considered 「part of the establishment」.",
+          "chineseTranslation": "作为一名资深政客，他被认为是「体制的一部分」。",
+          "chinglishFix": "典型中式英语：He was an important person in politics. 纠正：'Important person' 缺乏语境，正确的表达是 「part of the establishment」，更能体现他与权力结构的关联。"
+        }
+      ]
+    }
+  ]
+}
+```
