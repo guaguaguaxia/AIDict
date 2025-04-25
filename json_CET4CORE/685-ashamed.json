@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ashamed",
+  "definitions": [
+    {
+      "meaning": "感到羞耻或尴尬，因为做了某件错误或不合适的事情",
+      "usage": "通常用于描述因个人行为、失败或不当举动而感到内疚或难堪的情绪，常与of或about搭配。",
+      "collocations": ["feel ashamed of", "be ashamed about", "make someone ashamed"],
+      "examples": [
+        {
+          "scene": "小明在课堂上因为没有完成作业被老师点名批评，同学们都看向他，他感到非常难堪，低下了头。",
+          "chineseIdea": "小明觉得自己让老师失望，也在同学面前丢了面子，心里充满了羞愧。",
+          "sentenceWithBlank": "He @ @ @ not doing his homework in front of the whole class.",
+          "fullEnglishSentence": "He 「felt ashamed of」 not doing his homework in front of the whole class.",
+          "chineseTranslation": "他在全班面前「为自己没做作业感到羞耻」。",
+          "chinglishFix": "典型中式英语：'He felt shy for not doing homework.' 纠正：'Shy'表示害羞，不适合这里。应为 'He felt ashamed of not doing his homework.'"
+        },
+        {
+          "scene": "小红在公司会议上错误地报告了一个数据，导致团队计划出现问题，事后她向同事道歉。",
+          "chineseIdea": "小红觉得自己因为粗心犯了错，觉得对不起团队，内心很尴尬。",
+          "sentenceWithBlank": "She @ @ @ presenting incorrect data during the meeting.",
+          "fullEnglishSentence": "She 「was ashamed about」 presenting incorrect data during the meeting.",
+          "chineseTranslation": "她「为在会议上呈现错误数据感到羞耻」。",
+          "chinglishFix": "典型中式英语：'She felt embarrassed to present wrong data.' 纠正：'Embarrassed'更偏向社交场合的尴尬，程度较轻。应为 'She was ashamed about presenting incorrect data.'"
+        }
+      ]
+    },
+    {
+      "meaning": "因某事或某人感到羞耻，通常涉及道德或社会标准",
+      "usage": "常用于表达对他人行为或某种情况的不满，带有评判意味，常与of搭配。",
+      "collocations": ["be ashamed of", "feel ashamed for", "ashamed to admit"],
+      "examples": [
+        {
+          "scene": "张伟发现自己的朋友在商店偷东西，他觉得这种行为完全不可接受，内心为朋友的行为感到羞耻。",
+          "chineseIdea": "张伟认为偷窃是道德败坏的行为，觉得朋友这样做让他也跟着丢脸。",
+          "sentenceWithBlank": "He @ @ @ his friend's behavior at the store.",
+          "fullEnglishSentence": "He 「was ashamed of」 his friend's behavior at the store.",
+          "chineseTranslation": "他「为朋友在商店的行为感到羞耻」。",
+          "chinglishFix": "典型中式英语：'He felt shame for his friend.' 纠正：'Shame'是名词，且表达不地道。应为 'He was ashamed of his friend's behavior.'"
+        },
+        {
+          "scene": "李娜在家庭聚会上不愿意承认自己失业了，因为她觉得这会让家人失望。",
+          "chineseIdea": "李娜觉得失业是一件丢脸的事情，害怕家人会因此看不起她。",
+          "sentenceWithBlank": "She was @ @ @ that she had lost her job.",
+          "fullEnglishSentence": "She was 「ashamed to admit」 that she had lost her job.",
+          "chineseTranslation": "她「羞于承认」自己失业了。",
+          "chinglishFix": "典型中式英语：'She felt shy to say she lost job.' 纠正：'Shy'不适合表达羞耻感，且语法不自然。应为 'She was ashamed to admit that she had lost her job.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "contest",
+  "definitions": [
+    {
+      "meaning": "比赛或竞争",
+      "usage": "指多个参与者为了赢得奖项或荣誉而进行的竞争活动，通常涉及技能、才能或表现的比拼。",
+      "collocations": ["enter a contest", "win a contest", "hold a contest"],
+      "examples": [
+        {
+          "scene": "在一所中学里，学校组织了一年一度的才艺表演，学生们报名参加，展示自己的唱歌、跳舞或乐器演奏等技能，争夺最佳表演奖。",
+          "chineseIdea": "学生们通过报名参与学校的才艺表演，希望展示自己的才华并赢得奖项。",
+          "sentenceWithBlank": "Many students @ @ @ to showcase their talents and win prizes.",
+          "fullEnglishSentence": "Many students 「enter a contest」 to showcase their talents and win prizes.",
+          "chineseTranslation": "许多学生「参加比赛」以展示他们的才华并赢得奖品。",
+          "chinglishFix": "典型中式英语：'Join a competition'（加入比赛）\n纠正：'Enter a contest'（参加比赛）更自然，强调主动报名参与竞争活动。"
+        },
+        {
+          "scene": "在一家科技公司，员工们参加了一个创新项目提案比赛，获胜的小组将获得公司资助来实现他们的想法。",
+          "chineseIdea": "员工们希望通过提交创新提案，在公司内部的比赛中获胜，获得资源支持。",
+          "sentenceWithBlank": "The team worked hard to @ @ @ with their groundbreaking idea.",
+          "fullEnglishSentence": "The team worked hard to 「win a contest」 with their groundbreaking idea.",
+          "chineseTranslation": "这个团队努力工作，希望凭借他们的突破性想法「赢得比赛」。",
+          "chinglishFix": "典型中式英语：'Get the victory of the competition'（获得比赛的胜利）\n纠正：'Win a contest'（赢得比赛）更简洁、自然，符合英语表达习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "争议或争论",
+      "usage": "指对某事提出异议、质疑或反对，通常用于正式或法律场景，表示挑战某决定、声明或权利。",
+      "collocations": ["contest a decision", "contest a will", "contest a claim"],
+      "examples": [
+        {
+          "scene": "在一家公司中，员工对管理层决定裁员的决定感到不满，向人力资源部门提交了正式申诉，要求重新审视这一决定。",
+          "chineseIdea": "员工认为裁员决定不公平，希望通过正式途径挑战这一决定。",
+          "sentenceWithBlank": "The employees decided to @ @ @ because they believed it was unfair.",
+          "fullEnglishSentence": "The employees decided to 「contest a decision」 because they believed it was unfair.",
+          "chineseTranslation": "员工们决定「质疑决定」，因为他们认为这不公平。",
+          "chinglishFix": "典型中式英语：'Oppose the decision'（反对决定）\n纠正：'Contest a decision'（质疑决定）更适合正式场景，强调通过程序挑战。"
+        },
+        {
+          "scene": "在遗产分配中，一位家庭成员对遗嘱的真实性提出质疑，聘请律师向法院提交了反对意见。",
+          "chineseIdea": "家庭成员怀疑遗嘱的合法性，试图通过法律手段推翻它。",
+          "sentenceWithBlank": "The lawyer was hired to @ @ @ in court.",
+          "fullEnglishSentence": "The lawyer was hired to 「contest a will」 in court.",
+          "chineseTranslation": "律师被聘请在法庭上「质疑遗嘱」。",
+          "chinglishFix": "典型中式英语：'Fightrue a will'（真实遗嘱）\n纠正：'Contest a will'（质疑遗嘱）更符合法律场景的正式表达。"
+        }
+      ]
+    }
+  ]
+}
+```
