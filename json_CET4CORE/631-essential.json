@@ -1,0 +1,53 @@
+```json
+{
+  "word": "essential",
+  "definitions": [
+    {
+      "meaning": "绝对必要的；不可或缺的",
+      "usage": "指某事物在特定情境下是必不可少的，缺少它会导致任务或目标无法完成。常用于描述物品、技能、条件等。",
+      "collocations": ["essential for", "essential to", "essential in", "essential component"],
+      "examples": [
+        {
+          "scene": "一个学生正在准备高考，复习资料和时间管理对他来说至关重要。",
+          "chineseIdea": "学生认为某些工具或方法对成功至关重要，没有它们就无法取得好成绩。",
+          "sentenceWithBlank": "A good study guide is @ @ @ passing the college entrance exam.",
+          "fullEnglishSentence": "A good study guide is 「essential for」 passing the college entrance exam.",
+          "chineseTranslation": "一本好的学习指南对「通过高考」至关重要。",
+          "chinglishFix": "典型中式英语：'Study guide is very important to pass exam.' 纠正：'A study guide is essential for passing the exam.'（用essential替代very important，并调整句式更自然）"
+        },
+        {
+          "scene": "一家公司在策划新产品发布会，市场调研被认为是成功的关键。",
+          "chineseIdea": "公司认为某些步骤对确保活动顺利进行是不可缺少的。",
+          "sentenceWithBlank": "Market research is @ @ @ the success of the product launch.",
+          "fullEnglishSentence": "Market research is 「essential to」 the success of the product launch.",
+          "chineseTranslation": "市场调研对「产品发布成功」至关重要。",
+          "chinglishFix": "典型中式英语：'Market research is very necessary for success.' 纠正：'Market research is essential to the success of the product launch.'（用essential替代very necessary，并优化搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "基本的；本质的",
+      "usage": "指某事物是某类事物或概念的核心或基础部分，强调其内在的重要属性。常用于描述特质、原则等。",
+      "collocations": ["essential nature", "essential part", "essential element"],
+      "examples": [
+        {
+          "scene": "一位哲学老师在课堂上讨论自由的定义，强调自由的核心特质。",
+          "chineseIdea": "老师想表达自由的核心属性是其定义的基础，没有这些属性就无法理解自由。",
+          "sentenceWithBlank": "Individual autonomy is an @ @ @ of freedom.",
+          "fullEnglishSentence": "Individual autonomy is an 「essential element」 of freedom.",
+          "chineseTranslation": "个人自主是「自由的基本要素」。",
+          "chinglishFix": "典型中式英语：'Autonomy is very important part of freedom.' 纠正：'Individual autonomy is an essential element of freedom.'（用essential element替代very important part）"
+        },
+        {
+          "scene": "一个工程师在设计一款新设备时，讨论其核心组成部分。",
+          "chineseIdea": "工程师认为某些部件是设备功能的核心，体现了其基本特性。",
+          "sentenceWithBlank": "The battery is an @ @ @ of this device’s functionality.",
+          "fullEnglishSentence": "The battery is an 「essential part」 of this device’s functionality.",
+          "chineseTranslation": "电池是「设备功能的基本部分」。",
+          "chinglishFix": "典型中式英语：'Battery is very key for device.' 纠正：'The battery is an essential part of this device’s functionality.'（用essential part替代very key，并完善句式）"
+        }
+      ]
+    }
+  ]
+}
+```

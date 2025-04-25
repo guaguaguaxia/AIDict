@@ -1,0 +1,53 @@
+```json
+{
+  "word": "expectation",
+  "definitions": [
+    {
+      "meaning": "对未来事件或结果的预测或期望",
+      "usage": "指某人对某事将会发生的方式或结果的信念，通常带有一定的情感（如希望或担忧）。常用于描述对他人行为、事件结果或自身目标的预期。",
+      "collocations": ["meet expectations", "exceed expectations", "fall short of expectations"],
+      "examples": [
+        {
+          "scene": "一位大学生小明即将参加一场重要的期末考试。他复习了一个月，对自己的表现充满信心，希望能拿到高分。",
+          "chineseIdea": "小明觉得自己复习充分，相信考试成绩会很好，内心充满希望。",
+          "sentenceWithBlank": "After weeks of preparation, Xiao Ming was confident he would @ @ in the final exam.",
+          "fullEnglishSentence": "After weeks of preparation, Xiao Ming was confident he would 「meet expectations」 in the final exam.",
+          "chineseTranslation": "经过几周的准备，小明自信他能在期末考试中「达到预期」。",
+          "chinglishFix": "典型中式英语：'I think my exam will reach my expect.' 纠正：'I believe I will meet expectations in my exam.'（避免直接翻译“达到期待”，使用自然搭配'meet expectations'）"
+        },
+        {
+          "scene": "一家餐厅新开业，顾客因为看到网上的好评而慕名前来。他们希望食物和服务都非常出色。",
+          "chineseIdea": "顾客因为好评对餐厅有很高期望，希望体验比一般餐厅更好。",
+          "sentenceWithBlank": "The new restaurant’s excellent reviews led customers to hope it would @ @ in both food and service.",
+          "fullEnglishSentence": "The new restaurant’s excellent reviews led customers to hope it would 「exceed expectations」 in both food and service.",
+          "chineseTranslation": "这家新餐厅的好评让顾客希望它在食物和服务上「超出预期」。",
+          "chinglishFix": "典型中式英语：'I hope the restaurant can over my expect.' 纠正：'I hope the restaurant will exceed expectations.'（避免用'over'，使用'exceed expectations'）"
+        }
+      ]
+    },
+    {
+      "meaning": "社会或文化对某人行为的规范或要求",
+      "usage": "指社会、家庭或群体对某人角色或行为的预设标准，通常带有一定的压力或责任感。常用于描述文化习俗、职业要求或家庭期望。",
+      "collocations": ["live up to expectations", "defy expectations", "set expectations"],
+      "examples": [
+        {
+          "scene": "小红是一个传统家庭的长女，父母希望她大学毕业后进入稳定的银行工作，而不是追求她的艺术梦想。",
+          "chineseIdea": "小红感到父母对她的职业选择有明确要求，她需要按照他们的标准生活。",
+          "sentenceWithBlank": "Hong felt pressure to @ @ @ as the eldest daughter by choosing a stable career over her artistic dreams.",
+          "fullEnglishSentence": "Hong felt pressure to 「live up to expectations」 as the eldest daughter by choosing a stable career over her artistic dreams.",
+          "chineseTranslation": "小红感到作为长女的压力，需要通过选择稳定职业来「达到预期」。",
+          "chinglishFix": "典型中式英语：'I must follow my parents’ expect.' 纠正：'I feel I must live up to my parents’ expectations.'（避免直接用'follow'，使用'live up to expectations'）"
+        },
+        {
+          "scene": "一位年轻的创业者小李在科技行业中崭露头角，大家都认为他会循规蹈矩，但他却推出了一个大胆的创新产品。",
+          "chineseIdea": "小李的行为出乎所有人意料，打破了行业对他的传统预期。",
+          "sentenceWithBlank": "Instead of following the traditional path, Li’s bold innovation allowed him to @ @ in the tech industry.",
+          "fullEnglishSentence": "Instead of following the traditional path, Li’s bold innovation allowed him to 「defy expectations」 in the tech industry.",
+          "chineseTranslation": "小李没有走传统路线，他的大胆创新让他在科技行业中「打破预期」。",
+          "chinglishFix": "典型中式英语：'He broke the expect of the industry.' 纠正：'He defied expectations in the industry.'（避免用'break'，使用'defy expectations'）"
+        }
+      ]
+    }
+  ]
+}
+```

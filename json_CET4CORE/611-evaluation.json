@@ -1,0 +1,53 @@
+```json
+{
+  "word": "evaluation",
+  "definitions": [
+    {
+      "meaning": "对某事物价值、质量或重要性的评估或判断",
+      "usage": "指通过分析和判断来确定某事物的价值、效果或意义，常用于正式或专业的语境，如学术、商业或工作环境中。",
+      "collocations": ["performance evaluation", "conduct an evaluation", "thorough evaluation"],
+      "examples": [
+        {
+          "scene": "在一所大学里，教授正在对学生的期末项目进行评分。学生们提交了各自的项目报告，教授需要根据创意、结构和内容质量来判断每个项目的优劣。",
+          "chineseIdea": "教授希望通过仔细检查每个学生的项目，确定他们的表现是否达到课程标准，并为他们提供反馈。",
+          "sentenceWithBlank": "The professor spent hours on each student's @ @ to ensure fair grading.",
+          "fullEnglishSentence": "The professor spent hours on each student's 「performance evaluation」 to ensure fair grading.",
+          "chineseTranslation": "教授花了几个小时对每个学生的「表现评估」进行评分，以确保公平。",
+          "chinglishFix": "典型中式英语：'The professor evaluated the student's performance.' 纠正：'The professor conducted a 「performance evaluation」 for each student.' 原因：'evaluated' 过于笼统，搭配「performance evaluation」更符合正式语境。"
+        },
+        {
+          "scene": "一家科技公司正在开发一款新产品，项目经理组织了一次会议，讨论产品原型的效果。团队需要通过数据分析和用户反馈来判断产品的性能。",
+          "chineseIdea": "项目经理希望通过系统的检查，了解产品是否满足市场需求，并决定是否需要改进。",
+          "sentenceWithBlank": "The team was tasked to @ @ @ of the new prototype before the launch.",
+          "fullEnglishSentence": "The team was tasked to 「conduct an evaluation」 of the new prototype before the launch.",
+          "chineseTranslation": "团队被要求在产品发布前「进行评估」新原型。",
+          "chinglishFix": "典型中式英语：'The team evaluated the prototype.' 纠正：'The team 「conducted an evaluation」 of the prototype.' 原因：'conduct an evaluation' 是更自然的搭配，强调正式的评估过程。"
+        }
+      ]
+    },
+    {
+      "meaning": "对某人或某事物进行系统性的检查或审查",
+      "usage": "指通过有条理的检查过程来了解某人或某事物的状态或进展，常用于医疗、教育或技术领域。",
+      "collocations": ["medical evaluation", "undergo an evaluation", "comprehensive evaluation"],
+      "examples": [
+        {
+          "scene": "在一家医院里，医生正在为一位病人安排检查。病人最近感到疲倦，医生需要通过一系列测试来确定病因。",
+          "chineseIdea": "医生希望通过详细的检查，了解病人的健康状况，以便制定治疗计划。",
+          "sentenceWithBlank": "The doctor recommended a @ @ to diagnose the patient's condition.",
+          "fullEnglishSentence": "The doctor recommended a 「medical evaluation」 to diagnose the patient's condition.",
+          "chineseTranslation": "医生建议进行「医疗评估」以诊断病人的病情。",
+          "chinglishFix": "典型中式英语：'The doctor evaluated the patient's health.' 纠正：'The doctor recommended a 「medical evaluation」 for the patient.' 原因：'medical evaluation' 是医疗领域更专业的表达。"
+        },
+        {
+          "scene": "在一所小学里，教师发现一名学生在阅读方面有困难。学校决定安排一次测试，以了解学生的具体问题并提供帮助。",
+          "chineseIdea": "学校希望通过系统的检查，了解学生在学习上的困难，并制定个性化的辅导计划。",
+          "sentenceWithBlank": "The student had to @ @ @ to identify their learning difficulties.",
+          "fullEnglishSentence": "The student had to 「undergo an evaluation」 to identify their learning difficulties.",
+          "chineseTranslation": "学生需要「接受评估」以确定他们的学习困难。",
+          "chinglishFix": "典型中式英语：'The student was evaluated for learning problems.' 纠正：'The student 「underwent an evaluation」 to identify learning difficulties.' 原因：'undergo an evaluation' 更准确地描述了接受评估的过程。"
+        }
+      ]
+    }
+  ]
+}
+```
