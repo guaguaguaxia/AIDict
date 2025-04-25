@@ -1,0 +1,76 @@
+```json
+{
+  "word": "scale",
+  "definitions": [
+    {
+      "meaning": "衡量或比较的等级或范围",
+      "usage": "指某事物的大小、程度或范围，通常用于描述等级、比例或范围的比较，常用于抽象概念如重要性、严重性等。",
+      "collocations": ["large scale", "small scale", "global scale"],
+      "examples": [
+        {
+          "scene": "一家公司正在讨论新项目的投资规模，管理层希望了解项目的潜在影响力。",
+          "chineseIdea": "描述项目涉及的范围和重要性，强调其广泛性。",
+          "sentenceWithBlank": "The project is planned on a @ @, aiming to impact multiple regions.",
+          "fullEnglishSentence": "The project is planned on a 「large scale」, aiming to impact multiple regions.",
+          "chineseTranslation": "该项目计划以「大规模」进行，旨在影响多个地区。",
+          "chinglishFix": "典型中式英语：'The project is very big scale.' 纠正：'The project is planned on a large scale.'"
+        },
+        {
+          "scene": "一位科学家在会议上介绍气候变化的影响，强调其全球性。",
+          "chineseIdea": "描述某现象的影响范围遍及全球，突出其重要性和广泛性。",
+          "sentenceWithBlank": "Climate change is a problem on a @ @, requiring international cooperation.",
+          "fullEnglishSentence": "Climate change is a problem on a 「global scale」, requiring international cooperation.",
+          "chineseTranslation": "气候变化是一个「全球范围」的问题，需要国际合作。",
+          "chinglishFix": "典型中式英语：'Climate change is whole world problem.' 纠正：'Climate change is a problem on a global scale.'"
+        }
+      ]
+    },
+    {
+      "meaning": "测量或称重的工具或系统",
+      "usage": "指用于测量重量或数量的工具或系统，如体重秤、厨房秤等，常用于具体测量场景。",
+      "collocations": ["kitchen scale", "digital scale", "weigh on a scale"],
+      "examples": [
+        {
+          "scene": "一个家庭主妇在厨房准备烘焙蛋糕，需要精确测量面粉的重量。",
+          "chineseIdea": "描述使用工具来确保食材的准确重量，以保证食谱的成功。",
+          "sentenceWithBlank": "She used a @ @ to measure the flour precisely.",
+          "fullEnglishSentence": "She used a 「kitchen scale」 to measure the flour precisely.",
+          "chineseTranslation": "她使用「厨房秤」来精确地测量面粉。",
+          "chinglishFix": "典型中式英语：'She use scale for flour.' 纠正：'She used a kitchen scale to measure the flour.'"
+        },
+        {
+          "scene": "一个人在健身房检查自己的体重，记录减肥进展。",
+          "chineseIdea": "描述使用设备来测量体重，以追踪健康目标的进展。",
+          "sentenceWithBlank": "He stepped on a @ @ to check his weight after the workout.",
+          "fullEnglishSentence": "He stepped on a 「digital scale」 to check his weight after the workout.",
+          "chineseTranslation": "他在锻炼后踩上「电子秤」检查体重。",
+          "chinglishFix": "典型中式英语：'He stand on scale to see weight.' 纠正：'He stepped on a digital scale to check his weight.'"
+        }
+      ]
+    },
+    {
+      "meaning": "按比例缩放或调整",
+      "usage": "指根据某种比例调整大小、数量或程度，常用于描述技术、商业或设计中的扩展或缩小。",
+      "collocations": ["scale up", "scale down", "scale operations"],
+      "examples": [
+        {
+          "scene": "一家初创公司获得投资后，计划扩大生产规模以满足市场需求。",
+          "chineseIdea": "描述业务增长的过程，强调增加生产能力以应对更大需求。",
+          "sentenceWithBlank": "With new funding, the company decided to @ @ its production.",
+          "fullEnglishSentence": "With new funding, the company decided to 「scale up」 its production.",
+          "chineseTranslation": "有了新资金，公司决定「扩大」生产。",
+          "chinglishFix": "典型中式英语：'Company want to make production bigger.' 纠正：'The company decided to scale up its production.'"
+        },
+        {
+          "scene": "一家餐厅因经济原因减少营业时间，调整运营规模以降低成本。",
+          "chineseIdea": "描述为了节省资源而缩小业务规模，突出调整的必要性。",
+          "sentenceWithBlank": "Due to financial constraints, the restaurant had to @ @ its hours.",
+          "fullEnglishSentence": "Due to financial constraints, the restaurant had to 「scale down」 its hours.",
+          "chineseTranslation": "由于财务限制，餐厅不得不「缩减」营业时间。",
+          "chinglishFix": "典型中式英语：'Restaurant make hours less.' 纠正：'The restaurant had to scale down its hours.'"
+        }
+      ]
+    }
+  ]
+}
+```

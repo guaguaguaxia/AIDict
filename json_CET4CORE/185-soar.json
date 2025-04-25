@@ -1,0 +1,53 @@
+```json
+{
+  "word": "soar",
+  "definitions": [
+    {
+      "meaning": "快速上升，飞翔（物理高度）",
+      "usage": "描述鸟类、飞机或物体在空中快速上升或高飞，常用于描述物理高度的增加。",
+      "collocations": ["soar into the sky", "soar above the clouds", "soar over the mountains"],
+      "examples": [
+        {
+          "scene": "在一个晴朗的秋日，你和朋友在山顶野餐，突然一只老鹰从悬崖边起飞，迅速飞向高空，消失在蓝天中。",
+          "chineseIdea": "老鹰展开翅膀，快速飞向天空，展现出自由和力量的感觉。",
+          "sentenceWithBlank": "The eagle @ @ @ with powerful wings.",
+          "fullEnglishSentence": "The eagle 「soar into the sky」 with powerful wings.",
+          "chineseTranslation": "老鹰展开有力的翅膀「冲向天空」。",
+          "chinglishFix": "典型中式英语：'The eagle fly high to sky.' 纠正：'The eagle soars into the sky.'（使用'soar'更生动，且搭配'into the sky'更自然。）"
+        },
+        {
+          "scene": "你站在海边悬崖上，观看一架小型飞机从远处机场起飞，迅速爬升，飞过云层，消失在视野中。",
+          "chineseIdea": "飞机快速上升，突破云层，象征着技术的进步和自由。",
+          "sentenceWithBlank": "The plane @ @ @ after takeoff.",
+          "fullEnglishSentence": "The plane 「soar above the clouds」 after takeoff.",
+          "chineseTranslation": "飞机起飞后「飞越云层」。",
+          "chinglishFix": "典型中式英语：'The plane fly over clouds.' 纠正：'The plane soars above the clouds.'（'soar'更适合描述高飞，'above the clouds'是自然搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "急剧增加（抽象概念，如价格、情绪等）",
+      "usage": "描述非物理事物的快速增长或高涨，如价格、信心、情绪等，常用于经济、心理或社会场景。",
+      "collocations": ["soar to new heights", "soar beyond expectations", "soar in popularity"],
+      "examples": [
+        {
+          "scene": "你正在关注最近的股市动态，发现一家科技公司的股价因为新产品发布而迅速上涨，创下历史新高。",
+          "chineseIdea": "股价快速攀升，达到前所未有的高度，反映市场对公司的信心。",
+          "sentenceWithBlank": "The company's stock price @ @ @ after the product launch.",
+          "fullEnglishSentence": "The company's stock price 「soar to new heights」 after the product launch.",
+          "chineseTranslation": "公司股价在产品发布后「达到新高」。",
+          "chinglishFix": "典型中式英语：'The stock price go up very high.' 纠正：'The stock price soars to new heights.'（'soar'更生动，'to new heights'是固定搭配。）"
+        },
+        {
+          "scene": "你参加了一场音乐会，新晋歌手凭借一首动人歌曲迅速走红，社交媒体上她的名字成为热搜。",
+          "chineseIdea": "歌手的人气迅速飙升，远远超出预期，吸引了大量粉丝。",
+          "sentenceWithBlank": "Her fame @ @ @ following the concert.",
+          "fullEnglishSentence": "Her fame 「soar beyond expectations」 following the concert.",
+          "chineseTranslation": "她的名气在音乐会后「远超预期」。",
+          "chinglishFix": "典型中式英语：'Her fame become very big.' 纠正：'Her fame soars beyond expectations.'（'soar'更能体现快速增长，'beyond expectations'更地道。）"
+        }
+      ]
+    }
+  ]
+}
+```
