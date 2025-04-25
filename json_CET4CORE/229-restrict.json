@@ -1,0 +1,53 @@
+```json
+{
+  "word": "restrict",
+  "definitions": [
+    {
+      "meaning": "限制或约束某事物，使其在特定范围或程度内",
+      "usage": "通常指通过规则、法律或物理手段将某事物的范围、数量或自由度控制在一定限度内，常用于正式或法律语境。",
+      "collocations": ["restrict access", "restrict movement", "restrict use"],
+      "examples": [
+        {
+          "scene": "在一个大型展览会上，组织者为了确保安全，决定只允许特定人群进入某些区域。",
+          "chineseIdea": "控制谁可以进入某个地方，以减少混乱或风险。",
+          "sentenceWithBlank": "To ensure safety, the organizers decided to @ @ to certain areas for authorized personnel only.",
+          "fullEnglishSentence": "To ensure safety, the organizers decided to 「restrict access」 to certain areas for authorized personnel only.",
+          "chineseTranslation": "为了确保安全，组织者决定将某些区域的「进入权限」限制给仅授权人员。",
+          "chinglishFix": "典型中式英语：'Limit the entrance of people.' 纠正：'Restrict access to authorized personnel.'（避免直接翻译‘限制进入’，使用更自然的搭配'restrict access'）。"
+        },
+        {
+          "scene": "在疫情期间，政府发布命令，禁止市民在夜间随意外出。",
+          "chineseIdea": "通过法律或政策减少人们在特定时间段的行动自由。",
+          "sentenceWithBlank": "During the pandemic, the government issued orders to @ @ of citizens at night.",
+          "fullEnglishSentence": "During the pandemic, the government issued orders to 「restrict movement」 of citizens at night.",
+          "chineseTranslation": "在疫情期间，政府发布命令「限制市民夜间行动」。",
+          "chinglishFix": "典型中式英语：'Control people’s walking at night.' 纠正：'Restrict movement of citizens at night.'（‘控制行走’显得生硬，改为更自然的'restrict movement'）。"
+        }
+      ]
+    },
+    {
+      "meaning": "限定某事物仅适用于特定情况或群体",
+      "usage": "指将某事物的适用范围缩小，仅允许在特定条件或对象中使用，常用于描述权限、资源或信息的分配。",
+      "collocations": ["restrict to", "restrict availability", "restrict information"],
+      "examples": [
+        {
+          "scene": "一家流媒体平台推出了一项新功能，但仅限高级会员使用。",
+          "chineseIdea": "将某项服务的权限限定给特定用户群体。",
+          "sentenceWithBlank": "The streaming platform launched a new feature but chose to @ @ premium subscribers.",
+          "fullEnglishSentence": "The streaming platform launched a new feature but chose to 「restrict to」 premium subscribers.",
+          "chineseTranslation": "该流媒体平台推出了一项新功能，但选择「仅限」高级订阅者使用。",
+          "chinglishFix": "典型中式英语：'Only give premium users the feature.' 纠正：'Restrict to premium subscribers.'（‘仅给’不够正式，改为'restrict to'更符合英语表达习惯）。"
+        },
+        {
+          "scene": "公司为了保护敏感数据，决定只允许高层管理人员查看某些报告。",
+          "chineseIdea": "将信息的访问权限限定给特定人群以确保安全。",
+          "sentenceWithBlank": "To protect sensitive data, the company decided to @ @ to senior management.",
+          "fullEnglishSentence": "To protect sensitive data, the company decided to 「restrict information」 to senior management.",
+          "chineseTranslation": "为了保护敏感数据，公司决定将「信息访问」限制给高级管理层。",
+          "chinglishFix": "典型中式英语：'Limit the report to managers.' 纠正：'Restrict information to senior management.'（‘限制报告’不够精确，改为'restrict information'更贴合语境）。"
+        }
+      ]
+    }
+  ]
+}
+```

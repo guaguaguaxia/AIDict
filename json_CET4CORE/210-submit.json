@@ -1,0 +1,53 @@
+```json
+{
+  "word": "submit",
+  "definitions": [
+    {
+      "meaning": "递交或提交文件、申请等给某人或机构，通常是为了审查或处理",
+      "usage": "常用于正式或官方场景，如提交申请、报告、作业等，通常涉及向权威机构或上级递交内容。",
+      "collocations": ["submit an application", "submit a report", "submit an assignment"],
+      "examples": [
+        {
+          "scene": "你是一名大学生，需要在截止日期前将期末论文交给教授。教授要求论文通过学校的在线系统上传。",
+          "chineseIdea": "你完成了论文，想正式交给教授以便评分。",
+          "sentenceWithBlank": "You need to @ @ @ to the professor via the online portal before the deadline.",
+          "fullEnglishSentence": "You need to 「submit an application」 to the professor via the online portal before the deadline.",
+          "chineseTranslation": "你需要在截止日期前通过在线门户向教授「提交申请」。",
+          "chinglishFix": "典型中式英语：'Give the application to the professor.' 纠正：'Submit the application to the professor.'（'Give'显得过于随意，'submit'更符合正式递交的语境。）"
+        },
+        {
+          "scene": "你是一家公司的员工，完成了一份市场分析报告，需要交给经理审阅。",
+          "chineseIdea": "你希望经理能看到你的工作成果，并提供反馈。",
+          "sentenceWithBlank": "Please @ @ @ to the manager by Friday for review.",
+          "fullEnglishSentence": "Please 「submit a report」 to the manager by Friday for review.",
+          "chineseTranslation": "请在周五前向经理「提交报告」以供审阅。",
+          "chinglishFix": "典型中式英语：'Hand in the report to the manager.' 纠正：'Submit the report to the manager.'（'Hand in'更常用于学生作业，'submit'更适合正式工作场景。）"
+        }
+      ]
+    },
+    {
+      "meaning": "屈服或顺从于某人或某事，通常表示接受权威或压力",
+      "usage": "常用于描述在压力、权威或不可抗力下屈服，或者自愿接受某种控制或规则。",
+      "collocations": ["submit to authority", "submit to pressure", "submit to rules"],
+      "examples": [
+        {
+          "scene": "你在一个严格的公司工作，公司有许多规定，比如必须按时打卡上下班。你虽然不喜欢，但还是遵守了。",
+          "chineseIdea": "你选择接受公司的规定，即使你内心有些抵触。",
+          "sentenceWithBlank": "As an employee, you have to @ @ @ to maintain discipline.",
+          "fullEnglishSentence": "As an employee, you have to 「submit to authority」 to maintain discipline.",
+          "chineseTranslation": "作为员工，你必须「服从权威」以保持纪律。",
+          "chinglishFix": "典型中式英语：'Follow the authority.' 纠正：'Submit to authority.'（'Follow'更多指跟随或遵守具体指示，'submit'强调接受权威的控制。）"
+        },
+        {
+          "scene": "你和朋友们在讨论去哪里度假，有人坚持要去海边，你最终同意了他们的选择。",
+          "chineseIdea": "你放弃了自己的想法，同意了大多数人的决定。",
+          "sentenceWithBlank": "After a long debate, you finally @ @ @ and agreed to go to the beach.",
+          "fullEnglishSentence": "After a long debate, you finally 「submit to pressure」 and agreed to go to the beach.",
+          "chineseTranslation": "经过长时间争论，你最终「屈服于压力」，同意去海边。",
+          "chinglishFix": "典型中式英语：'Give in the pressure.' 纠正：'Submit to pressure.'（'Give in'虽然也表示让步，但搭配'to pressure'时'submit'更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```
