@@ -1,0 +1,53 @@
+```json
+{
+  "word": "disappointing",
+  "definitions": [
+    {
+      "meaning": "未能达到期望或希望，让人感到不满意或沮丧",
+      "usage": "形容某事物、事件或结果未达到预期，常用于表达主观感受，带有轻微的情感色彩。可用于描述人、物、经历等。",
+      "collocations": ["a disappointing result", "a disappointing performance", "a disappointing outcome"],
+      "examples": [
+        {
+          "scene": "小明参加了一场期待已久的数学竞赛，他准备了几个月，信心满满。然而，比赛结果公布后，他发现自己只得了第三名，远低于他的预期。",
+          "chineseIdea": "小明觉得自己投入了大量努力，但结果却不如预期，让他感到有些失落和沮丧。",
+          "sentenceWithBlank": "Despite his hard work, the competition ended with @ @ @.",
+          "fullEnglishSentence": "Despite his hard work, the competition ended with 「a disappointing result」.",
+          "chineseTranslation": "尽管他努力准备，比赛最终以「令人失望的结果」告终。",
+          "chinglishFix": "典型中式英语：'The result is very disappoint.' 纠正：'The result is very disappointing.'（形容词形式需正确使用，disappoint是动词，disappointing是形容词）"
+        },
+        {
+          "scene": "小红和朋友们计划了一次周末露营，期待在湖边享受大自然。然而，活动当天天气恶劣，下了大雨，露营计划泡汤，大家只能待在帐篷里。",
+          "chineseIdea": "小红原本对露营充满期待，但天气原因让整个活动变得无趣，她感到非常遗憾。",
+          "sentenceWithBlank": "The camping trip turned out to be @ @ @ due to the bad weather.",
+          "fullEnglishSentence": "The camping trip turned out to be 「a disappointing outcome」 due to the bad weather.",
+          "chineseTranslation": "由于天气不好，露营旅行最终变成了「令人失望的结果」。",
+          "chinglishFix": "典型中式英语：'The trip makes me feel disappoint.' 纠正：'The trip was disappointing.'（避免直接套用动词disappoint，需用形容词形式；同时注意主语和句式结构）"
+        }
+      ]
+    },
+    {
+      "meaning": "让人感到遗憾或不尽如人意的表现或行为",
+      "usage": "强调某人的行为、表现或态度未达到预期，常用于评价他人的工作、表现或努力，带有一定的批评意味。",
+      "collocations": ["a disappointing effort", "a disappointing attitude", "a disappointing response"],
+      "examples": [
+        {
+          "scene": "李老师布置了一项小组作业，要求学生们合作完成一个关于环保的创意项目。小刚所在的小组敷衍了事，只提交了一份内容空洞的报告。",
+          "chineseIdea": "李老师原本期待学生们能展现创意和团队合作，但小刚小组的表现让她觉得他们没有认真对待任务。",
+          "sentenceWithBlank": "The teacher was frustrated by the group’s @ @ @ on the project.",
+          "fullEnglishSentence": "The teacher was frustrated by the group’s 「a disappointing effort」 on the project.",
+          "chineseTranslation": "老师对小组在项目上的「令人失望的努力」感到沮丧。",
+          "chinglishFix": "典型中式英语：'Their effort is not good and disappoint.' 纠正：'Their effort was disappointing.'（避免冗余表达，直接使用形容词disappointing）"
+        },
+        {
+          "scene": "公司举办了一次客户反馈会议，经理希望员工小王能积极回应客户的建议。然而，小王在会议上态度冷漠，几乎不发表意见。",
+          "chineseIdea": "经理觉得小王的表现缺乏主动性和责任感，未能展现出应有的专业态度。",
+          "sentenceWithBlank": "The manager found Xiao Wang’s @ @ @ during the meeting unprofessional.",
+          "fullEnglishSentence": "The manager found Xiao Wang’s 「a disappointing attitude」 during the meeting unprofessional.",
+          "chineseTranslation": "经理认为小王在会议上的「令人失望的态度」不够专业。",
+          "chinglishFix": "典型中式英语：'His attitude let me disappoint.' 纠正：'His attitude was disappointing.'（避免使用let动词结构，直接用be动词+形容词）"
+        }
+      ]
+    }
+  ]
+}
+```

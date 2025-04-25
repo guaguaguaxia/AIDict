@@ -1,0 +1,53 @@
+```json
+{
+  "word": "download",
+  "definitions": [
+    {
+      "meaning": "从互联网或另一个计算机系统将文件传输到自己的设备或计算机上",
+      "usage": "通常用作动词，指通过网络将数据（如文件、应用程序、音乐、视频等）从远程服务器传输到本地设备。常用于描述获取数字内容的行为。",
+      "collocations": ["download a file", "download an app", "download music", "download a video"],
+      "examples": [
+        {
+          "scene": "小明在家里用手机浏览一个学习网站，发现一个很有用的PDF教材，想保存到手机上以便随时查看。",
+          "chineseIdea": "小明想要从网站上获取这个PDF教材，保存到自己的手机里，方便日后学习。",
+          "sentenceWithBlank": "I found a useful PDF on the website and decided to @ @ @ to my phone.",
+          "fullEnglishSentence": "I found a useful PDF on the website and decided to 「download a file」 to my phone.",
+          "chineseTranslation": "我在网站上找到一个有用的PDF，决定「下载文件」到我的手机上。",
+          "chinglishFix": "典型中式英语：'I want to down the file to my phone.' 纠正：应使用'download'，而不是'down'，正确表达为'I want to download the file to my phone.'"
+        },
+        {
+          "scene": "小红在准备一个音乐会的宣传视频，需要从视频分享平台获取一个高清视频片段用于编辑。",
+          "chineseIdea": "小红希望从视频平台获取这个视频片段，保存到电脑上以便进行后期剪辑。",
+          "sentenceWithBlank": "She needed a high-quality clip for editing, so she chose to @ @ @ from the platform.",
+          "fullEnglishSentence": "She needed a high-quality clip for editing, so she chose to 「download a video」 from the platform.",
+          "chineseTranslation": "她需要一个高质量的片段进行编辑，所以她选择从平台上「下载视频」。",
+          "chinglishFix": "典型中式英语：'She wants to load the video down.' 纠正：应使用'download'，而不是'load down'，正确表达为'She wants to download the video.'"
+        }
+      ]
+    },
+    {
+      "meaning": "将数据或程序从主系统传输到较小的系统或设备上",
+      "usage": "在技术或计算机领域，指将数据或程序从中央服务器或主系统传输到较小的设备（如嵌入式系统或移动设备）。此用法较少见于日常对话，多用于专业技术语境。",
+      "collocations": ["download data", "download software", "download firmware"],
+      "examples": [
+        {
+          "scene": "工程师小李在为公司的新款智能手表开发系统更新，需要将最新的固件版本传输到手表设备上。",
+          "chineseIdea": "小李需要将最新的固件版本从服务器传输到智能手表上，以完成系统升级。",
+          "sentenceWithBlank": "To update the smartwatch, he had to @ @ @ to the device.",
+          "fullEnglishSentence": "To update the smartwatch, he had to 「download firmware」 to the device.",
+          "chineseTranslation": "为了更新智能手表，他需要将「下载固件」到设备上。",
+          "chinglishFix": "典型中式英语：'He needs to put the firmware down to the device.' 纠正：应使用'download'，而不是'put down'，正确表达为'He needs to download the firmware to the device.'"
+        },
+        {
+          "scene": "小王在实验室调试一个物联网设备，需要从云端服务器将实验数据传输到设备上进行分析。",
+          "chineseIdea": "小王希望从云端服务器获取实验数据，传输到物联网设备上以便进行本地分析。",
+          "sentenceWithBlank": "For local analysis, she needed to @ @ @ from the cloud server to the IoT device.",
+          "fullEnglishSentence": "For local analysis, she needed to 「download data」 from the cloud server to the IoT device.",
+          "chineseTranslation": "为了本地分析，她需要从云端服务器「下载数据」到物联网设备上。",
+          "chinglishFix": "典型中式英语：'She wants to take the data down to the device.' 纠正：应使用'download'，而不是'take down'，正确表达为'She wants to download the data to the device.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "depressed",
+  "definitions": [
+    {
+      "meaning": "感到沮丧、情绪低落",
+      "usage": "描述一个人因为生活事件、压力或其他原因而感到悲伤、无精打采或失去动力，通常用于表达心理状态。",
+      "collocations": ["feel depressed", "become depressed", "deeply depressed"],
+      "examples": [
+        {
+          "scene": "小明最近因为工作压力大，连续加班好几周，回到家只想躺在沙发上，提不起兴趣做任何事情。",
+          "chineseIdea": "小明感到心情低落，觉得自己没有动力，甚至对平时喜欢的活动也失去了兴趣。",
+          "sentenceWithBlank": "After weeks of overtime, Xiao Ming started to @ @ about his life.",
+          "fullEnglishSentence": "After weeks of overtime, Xiao Ming started to 「feel depressed」 about his life.",
+          "chineseTranslation": "在连续几周加班后，小明开始对生活「感到沮丧」。",
+          "chinglishFix": "典型中式英语：'He is very depress.' 纠正：'He feels very depressed.'（使用'feel'来表达心理状态，且形容词形式为'depressed'而非'depress'）。"
+        },
+        {
+          "scene": "丽丽和她的好朋友吵架后，觉得自己被误解了，整天心情不好，甚至不想和别人说话。",
+          "chineseIdea": "丽丽因为争吵感到情绪低落，觉得自己孤单且不被理解。",
+          "sentenceWithBlank": "After the argument with her friend, Lili 「became @」 and withdrew from social activities.",
+          "fullEnglishSentence": "After the argument with her friend, Lili 「became depressed」 and withdrew from social activities.",
+          "chineseTranslation": "在与朋友争吵后，丽丽「变得沮丧」，并退出了社交活动。",
+          "chinglishFix": "典型中式英语：'She is depress because of the fight.' 纠正：'She became depressed because of the fight.'（注意时态和搭配，使用'became'表示状态变化）。"
+        }
+      ]
+    },
+    {
+      "meaning": "经济或市场萧条",
+      "usage": "描述经济、市场或行业活动水平下降，交易或增长显著减少，通常用于经济或商业语境。",
+      "collocations": ["depressed economy", "depressed market", "severely depressed"],
+      "examples": [
+        {
+          "scene": "由于全球供应链问题，当地工厂的生产速度放缓，许多工人被裁员，商店的生意也不如以前。",
+          "chineseIdea": "当地的经济活动明显减少，工厂和商店都面临困境，整体市场不景气。",
+          "sentenceWithBlank": "The global supply chain issues have led to a @ @ in the region.",
+          "fullEnglishSentence": "The global supply chain issues have led to a 「depressed economy」 in the region.",
+          "chineseTranslation": "全球供应链问题导致该地区出现「经济萧条」。",
+          "chinglishFix": "典型中式英语：'The economy is depress.' 纠正：'The economy is depressed.'（注意形容词用法，且无需重复'is'）。"
+        },
+        {
+          "scene": "房地产市场在高利率的影响下，购房者减少，房价开始下跌，许多房子长时间无人问津。",
+          "chineseIdea": "房地产市场活动减少，交易量下降，市场整体表现低迷。",
+          "sentenceWithBlank": "High interest rates have caused a @ @ in the housing sector.",
+          "fullEnglishSentence": "High interest rates have caused a 「depressed market」 in the housing sector.",
+          "chineseTranslation": "高利率导致住房部门出现「市场萧条」。",
+          "chinglishFix": "典型中式英语：'The market is very depress.' 纠正：'The market is depressed.'（避免不必要的'very'，直接使用'depressed'描述状态）。"
+        }
+      ]
+    }
+  ]
+}
+```
