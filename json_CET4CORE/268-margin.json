@@ -1,0 +1,76 @@
+```json
+{
+  "word": "margin",
+  "definitions": [
+    {
+      "meaning": "边缘，边距",
+      "usage": "指物理上或视觉上的边界、边缘，或页面、屏幕等内容的空白边距，常用于描述书籍、文档、设计等中的空间布局。",
+      "collocations": ["wide margin", "narrow margin", "page margin"],
+      "examples": [
+        {
+          "scene": "一个中国学生在准备英语写作考试时，老师要求在作文纸上留出足够的空白边距，以便批改和写评语。",
+          "chineseIdea": "学生需要确保作文纸两侧有足够的空白区域，这样老师可以在旁边写下建议或评分。",
+          "sentenceWithBlank": "The teacher asked us to leave a @ @ on both sides of the paper for comments.",
+          "fullEnglishSentence": "The teacher asked us to leave a 「wide margin」 on both sides of the paper for comments.",
+          "chineseTranslation": "老师要求我们在纸张两侧留出「宽边距」以便写评语。",
+          "chinglishFix": "典型中式英语：'Keep some empty space on the paper.' 纠正：'Leave a wide margin on the paper.'"
+        },
+        {
+          "scene": "一个平面设计师在为客户设计宣传册时，客户要求文字和图片之间的空白区域要尽量小，以塞进更多内容。",
+          "chineseIdea": "客户希望宣传册看起来紧凑，空白边距要尽可能小，以容纳更多信息。",
+          "sentenceWithBlank": "The client requested a @ @ to fit more content on each page.",
+          "fullEnglishSentence": "The client requested a 「narrow margin」 to fit more content on each page.",
+          "chineseTranslation": "客户要求「窄边距」以在每页上放入更多内容。",
+          "chinglishFix": "典型中式英语：'Make the empty part smaller.' 纠正：'Use a narrow margin.'"
+        }
+      ]
+    },
+    {
+      "meaning": "差额，差距",
+      "usage": "指在竞争、选举、比赛等中两方之间的差距或领先幅度，常用于描述结果的接近程度。",
+      "collocations": ["by a large margin", "by a small margin", "winning margin"],
+      "examples": [
+        {
+          "scene": "在中国高考成绩公布后，一个学生发现自己的分数比录取线高出了很多，感到非常开心。",
+          "chineseIdea": "学生因为成绩远超最低要求，觉得自己有很大的优势。",
+          "sentenceWithBlank": "She passed the exam @ @ @, which gave her great confidence.",
+          "fullEnglishSentence": "She passed the exam 「by a large margin」, which gave her great confidence.",
+          "chineseTranslation": "她以「很大差距」通过了考试，这让她非常自信。",
+          "chinglishFix": "典型中式英语：'She passed with a big difference.' 纠正：'She passed by a large margin.'"
+        },
+        {
+          "scene": "在一场激烈的篮球比赛中，中国队在最后时刻以微弱优势赢得了比赛，观众都非常激动。",
+          "chineseIdea": "比赛结果非常接近，中国队只比对手多了几分，险胜。",
+          "sentenceWithBlank": "The Chinese team won the game @ @ @, thrilling the crowd.",
+          "fullEnglishSentence": "The Chinese team won the game 「by a small margin」, thrilling the crowd.",
+          "chineseTranslation": "中国队以「微弱差距」赢得了比赛，让观众兴奋不已。",
+          "chinglishFix": "典型中式英语：'They won with a little difference.' 纠正：'They won by a small margin.'"
+        }
+      ]
+    },
+    {
+      "meaning": "利润率，余地",
+      "usage": "在商业或经济中指利润率，或在时间、资源等方面表示可用的余地或缓冲。",
+      "collocations": ["profit margin", "margin of error", "margin of safety"],
+      "examples": [
+        {
+          "scene": "一个中国小企业主在分析公司财务时，发现今年的利润率比去年低，需要调整定价策略。",
+          "chineseIdea": "企业主希望通过提高价格来增加收入，因为目前的利润空间太小。",
+          "sentenceWithBlank": "The company’s @ @ was too low, so they decided to raise prices.",
+          "fullEnglishSentence": "The company’s 「profit margin」 was too low, so they decided to raise prices.",
+          "chineseTranslation": "公司的「利润率」太低，因此他们决定提高价格。",
+          "chinglishFix": "典型中式英语：'The profit space was small.' 纠正：'The profit margin was low.'"
+        },
+        {
+          "scene": "一个项目经理在规划一个新项目时，特意多留出了一些时间，以防意外情况发生。",
+          "chineseIdea": "经理希望有足够的缓冲时间来应对可能出现的延误或问题。",
+          "sentenceWithBlank": "We included a @ @ @ in the schedule to account for unexpected delays.",
+          "fullEnglishSentence": "We included a 「margin of safety」 in the schedule to account for unexpected delays.",
+          "chineseTranslation": "我们在日程中加入了「安全余地」以应对意外延误。",
+          "chinglishFix": "典型中式英语：'We left some extra time.' 纠正：'We included a margin of safety.'"
+        }
+      ]
+    }
+  ]
+}
+```

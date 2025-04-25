@@ -1,0 +1,76 @@
+```json
+{
+  "word": "narrow",
+  "definitions": [
+    {
+      "meaning": "宽度小；狭窄的",
+      "usage": "形容某物在物理空间上的宽度有限，通常用于描述道路、通道、物体等狭小的状态。",
+      "collocations": ["narrow street", "narrow path", "narrow gap"],
+      "examples": [
+        {
+          "scene": "你在一个古老的欧洲小镇旅游，街道非常狭窄，只能容纳一辆小型汽车通过，两旁是古老的石头房子。",
+          "chineseIdea": "描述一个地方的宽度非常有限，给人一种拥挤或局促的感觉。",
+          "sentenceWithBlank": "The @ @ was lined with charming old houses.",
+          "fullEnglishSentence": "The 「narrow street」 was lined with charming old houses.",
+          "chineseTranslation": "这条「狭窄的街道」两旁排列着迷人的老房子。",
+          "chinglishFix": "中式英语：The street is very narrow and has old houses. 纠正：The narrow street is lined with charming old houses.（避免冗余的“very”，并使用更自然的表达“lined with”来描述街道两旁的景象。）"
+        },
+        {
+          "scene": "你在山间徒步，来到一条非常狭窄的小路，旁边是陡峭的悬崖，需要小心通过。",
+          "chineseIdea": "强调一条路的宽度不足，可能带来挑战或危险。",
+          "sentenceWithBlank": "We carefully walked along the @ @ beside the cliff.",
+          "fullEnglishSentence": "We carefully walked along the 「narrow path」 beside the cliff.",
+          "chineseTranslation": "我们小心翼翼地沿着悬崖旁的「狭窄小路」行走。",
+          "chinglishFix": "中式英语：The path is very small and dangerous. 纠正：The narrow path beside the cliff was dangerous.（“small”不适合描述路径的宽度，应使用“narrow”；同时避免过多形容词堆砌。）"
+        }
+      ]
+    },
+    {
+      "meaning": "范围有限；狭隘的",
+      "usage": "形容某事物（如观点、兴趣、选择等）的范围或程度有限，带有一定局限性。",
+      "collocations": ["narrow focus", "narrow perspective", "narrow range"],
+      "examples": [
+        {
+          "scene": "在公司会议上，经理批评一个同事只关注自己的部门问题，而忽略了公司整体的目标。",
+          "chineseIdea": "批评某人的关注点过于局限，缺乏全局观念。",
+          "sentenceWithBlank": "His @ @ on his own team’s issues limited his contribution to the company.",
+          "fullEnglishSentence": "His 「narrow focus」 on his own team’s issues limited his contribution to the company.",
+          "chineseTranslation": "他对团队问题的「狭隘关注」限制了他对公司的贡献。",
+          "chinglishFix": "中式英语：His focus is very small on his team. 纠正：His narrow focus on his team limited his contribution.（“small”不适合描述范围，应使用“narrow”；同时结构更清晰。）"
+        },
+        {
+          "scene": "你在和朋友讨论一部电影的主题，但朋友只从一个角度分析，忽略了其他可能的解读。",
+          "chineseIdea": "指出某人的观点过于单一，缺乏广度。",
+          "sentenceWithBlank": "Her @ @ made it hard to appreciate the film’s complexity.",
+          "fullEnglishSentence": "Her 「narrow perspective」 made it hard to appreciate the film’s complexity.",
+          "chineseTranslation": "她的「狭隘视角」让她难以欣赏电影的复杂性。",
+          "chinglishFix": "中式英语：Her perspective is very limited. 纠正：Her narrow perspective made it hard to appreciate the film’s complexity.（“limited”虽可行，但“narrow”更具体；同时句子更具逻辑性。）"
+        }
+      ]
+    },
+    {
+      "meaning": "勉强；险胜",
+      "usage": "描述某事（如胜利、逃脱等）以非常小的优势或差距发生，通常带有紧张或惊险的含义。",
+      "collocations": ["narrow victory", "narrow escape", "narrow margin"],
+      "examples": [
+        {
+          "scene": "你在观看一场激烈的篮球比赛，比赛最后时刻，一队以一分之差获胜，观众都屏住了呼吸。",
+          "chineseIdea": "描述比赛结果非常接近，胜负悬于一线。",
+          "sentenceWithBlank": "The team celebrated their @ @ in the final seconds of the game.",
+          "fullEnglishSentence": "The team celebrated their 「narrow victory」 in the final seconds of the game.",
+          "chineseTranslation": "球队在比赛最后几秒庆祝rellebrate他们的「险胜」。",
+          "chinglishFix": "中式英语：The team won very closely. 纠正：The team secured a narrow victory.（“won very closely”不自然，应使用“narrow victory”表达险胜。）"
+        },
+        {
+          "scene": "你听朋友讲述他的一次旅行经历，提到在暴风雨中差点翻船，但最终安全到达岸边。",
+          "chineseIdea": "描述一次惊险的经历，差一点就发生危险。",
+          "sentenceWithBlank": "He described his @ @ from the stormy sea.",
+          "fullEnglishSentence": "He described his 「narrow escape」 from the stormy sea.",
+          "chineseTranslation": "他描述了从暴风雨中的「惊险逃生」。",
+          "chinglishFix": "中式英语：He escaped the storm very dangerously. 纠正：He had a narrow escape from the stormy sea.（“escaped very dangerously”不地道，应使用“narrow escape”。）"
+        }
+      ]
+    }
+  ]
+}
+```
