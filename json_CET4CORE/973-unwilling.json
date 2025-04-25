@@ -1,0 +1,53 @@
+```json
+{
+  "word": "unwilling",
+  "definitions": [
+    {
+      "meaning": "不愿意的；不情愿的",
+      "usage": "描述某人不想做某事或对某事缺乏意愿，通常带有一定的情感或心理抗拒。",
+      "collocations": ["be unwilling to", "seem unwilling to", "remain unwilling to"],
+      "examples": [
+        {
+          "scene": "在一个团队会议中，经理要求员工加班完成一个紧急项目，但张伟因为家庭原因不想加班。",
+          "chineseIdea": "张伟心里觉得加班会打乱他的家庭计划，所以他不想同意经理的要求。",
+          "sentenceWithBlank": "Despite the urgency, Zhang Wei @ @ @ work overtime.",
+          "fullEnglishSentence": "Despite the urgency, Zhang Wei 「was unwilling to」 work overtime.",
+          "chineseTranslation": "尽管情况紧急，张伟「不愿意」加班。",
+          "chinglishFix": "典型中式英语：He no want to work overtime. 纠正：He was unwilling to work overtime or He didn’t want to work overtime."
+        },
+        {
+          "scene": "在学校里，老师要求小明参加一个演讲比赛，但小明因为害羞不想参加。",
+          "chineseIdea": "小明觉得自己不擅长公开演讲，所以对参加比赛感到抗拒。",
+          "sentenceWithBlank": "Even with encouragement, Xiao Ming @ @ @ join the speech contest.",
+          "fullEnglishSentence": "Even with encouragement, Xiao Ming 「seemed unwilling to」 join the speech contest.",
+          "chineseTranslation": "即使有鼓励，小明「似乎不愿意」参加演讲比赛。",
+          "chinglishFix": "典型中式英语：He look like don’t want join contest. 纠正：He seemed unwilling to join the contest."
+        }
+      ]
+    },
+    {
+      "meaning": "不乐意的；勉强的",
+      "usage": "指某人虽然做了某事，但内心并不情愿，通常带有被迫或不情愿的情绪。",
+      "collocations": ["an unwilling participant", "with unwilling acceptance", "an unwilling partner"],
+      "examples": [
+        {
+          "scene": "在朋友的婚礼上，李娜被要求上台唱歌，但她其实很不喜欢在公众场合表演。",
+          "chineseIdea": "李娜觉得在众人面前唱歌很尴尬，但碍于面子只能勉强上台。",
+          "sentenceWithBlank": "Li Na was @ @ @ in the wedding performance.",
+          "fullEnglishSentence": "Li Na was 「an unwilling participant」 in the wedding performance.",
+          "chineseTranslation": "李娜是婚礼表演中的「不情愿的参与者」。",
+          "chinglishFix": "典型中式英语：She not happy join the performance. 纠正：She was an unwilling participant in the performance."
+        },
+        {
+          "scene": "公司要求员工参加一个为期两天的团队建设活动，但王强觉得这种活动很无聊。",
+          "chineseIdea": "王强认为团队建设浪费时间，但他不得不参加。",
+          "sentenceWithBlank": "Wang Qiang went to the team-building event @ @ @.",
+          "fullEnglishSentence": "Wang Qiang went to the team-building event 「with unwilling acceptance」.",
+          "chineseTranslation": "王强「不情愿地接受了」参加团队建设活动。",
+          "chinglishFix": "典型中式英语：He not want but go to activity. 纠正：He went to the activity with unwilling acceptance."
+        }
+      ]
+    }
+  ]
+}
+```

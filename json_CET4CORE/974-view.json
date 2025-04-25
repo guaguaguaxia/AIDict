@@ -1,0 +1,76 @@
+```json
+{
+  "word": "view",
+  "definitions": [
+    {
+      "meaning": "视觉上的看，观察某物或景象",
+      "usage": "指用眼睛看到某物，通常与景色、画面或具体物体相关，常用于描述欣赏或观察的行为。",
+      "collocations": ["enjoy the view", "have a view", "take in the view"],
+      "examples": [
+        {
+          "scene": "你在黄山旅游，站在山顶俯瞰云海和奇松，感觉非常震撼。",
+          "chineseIdea": "你想表达站在高处看到的美景让你心情愉悦。",
+          "sentenceWithBlank": "From the peak, you can @ @ @ of the misty valleys and unique pines.",
+          "fullEnglishSentence": "From the peak, you can 「enjoy the view」 of the misty valleys and unique pines.",
+          "chineseTranslation": "从山顶，你可以「欣赏美景」，看到雾气缭绕的山谷和独特的松树。",
+          "chinglishFix": "典型中式英语：'Look the scenery'。纠正：'Enjoy the view' 或 'Admire the scenery'，因为 'look' 不够具体，且搭配不自然。"
+        },
+        {
+          "scene": "你搬进一栋海边公寓，阳台正对大海，每天都能看到日出。",
+          "chineseIdea": "你想告诉朋友你的新家有一个绝佳的景观。",
+          "sentenceWithBlank": "My new apartment @ @ @ of the ocean and sunrise.",
+          "fullEnglishSentence": "My new apartment 「has a view」 of the ocean and sunrise.",
+          "chineseTranslation": "我的新公寓「有海景」，可以看到海洋和日出。",
+          "chinglishFix": "典型中式英语：'My house can see the sea'。纠正：'My house has a view of the sea'，因为 'can see' 显得生硬，'has a view' 是更自然的表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "观点，看法",
+      "usage": "指对某事物的意见、态度或看法，通常用于讨论思想、信念或立场。",
+      "collocations": ["express a view", "share a view", "hold a view"],
+      "examples": [
+        {
+          "scene": "在公司会议中，同事们讨论是否采用新的营销策略，你提出了自己的看法。",
+          "chineseIdea": "你想表达你对新策略的意见，希望大家考虑你的建议。",
+          "sentenceWithBlank": "During the meeting, I @ @ @ that we should focus on digital marketing.",
+          "fullEnglishSentence": "During the meeting, I 「expressed a view」 that we should focus on digital marketing.",
+          "chineseTranslation": "在会议中，我「表达了看法」，认为我们应该专注于数字营销。",
+          "chinglishFix": "典型中式英语：'I say my idea'。纠正：'I expressed my view' 或 'I shared my opinion'，因为 'say my idea' 不够正式且搭配不自然。"
+        },
+        {
+          "scene": "你和朋友讨论环境保护，提到你对一次性塑料的看法。",
+          "chineseIdea": "你想告诉朋友你认为一次性塑料应该被禁止。",
+          "sentenceWithBlank": "I @ @ @ that single-use plastics should be banned.",
+          "fullEnglishSentence": "I 「hold a view」 that single-use plastics should be banned.",
+          "chineseTranslation": "我「持有看法」，认为一次性塑料应该被禁止。",
+          "chinglishFix": "典型中式英语：'I think my opinion is...'。纠正：'I hold the view that...' 或 'In my opinion...'，因为 'think my opinion' 是冗余表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "视野，视线",
+      "usage": "指某人或某物能看到的范围或视线内的区域，通常用于描述空间或位置。",
+      "collocations": ["come into view", "be in view", "block the view"],
+      "examples": [
+        {
+          "scene": "你在火车上，窗外是一片田野，突然一座大山出现在你的视线中。",
+          "chineseIdea": "你想描述远处的大山逐渐变得清晰可见。",
+          "sentenceWithBlank": "As the train moved, a majestic mountain @ @ @.",
+          "fullEnglishSentence": "As the train moved, a majestic mountain 「came into view」.",
+          "chineseTranslation": "随着火车前行，一座雄伟的大山「进入视野」。",
+          "chinglishFix": "典型中式英语：'I can see a mountain'。纠正：'A mountain came into view'，因为 'come into view' 更生动地描述了物体逐渐出现的场景。"
+        },
+        {
+          "scene": "你在咖啡馆靠窗的座位，但前面停了一辆大卡车，挡住了外面的景色。",
+          "chineseIdea": "你想抱怨卡车阻碍了你看外面的风景。",
+          "sentenceWithBlank": "The truck parked outside @ @ @ of the street.",
+          "fullEnglishSentence": "The truck parked outside 「blocked the view」 of the street.",
+          "chineseTranslation": "停在外面的卡车「挡住了视线」，看不到街道。",
+          "chinglishFix": "典型中式英语：'The truck stop my see'。纠正：'The truck blocked my view'，因为 'stop my see' 是完全不自然的表达。"
+        }
+      ]
+    }
+  ]
+}
+```

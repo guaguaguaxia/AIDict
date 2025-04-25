@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ultimately",
+  "definitions": [
+    {
+      "meaning": "最终，在最后",
+      "usage": "用作副词，表示某事在经过一系列事件或过程后最终发生或得出结论，常用于强调结果或决定性时刻。",
+      "collocations": ["prove to be", "lead to", "depend on"],
+      "examples": [
+        {
+          "scene": "一位学生在为高考选择大学专业时，经过多次咨询和思考，最终决定学习计算机科学，因为他认为这个领域有长期的职业发展前景。",
+          "chineseIdea": "在反复权衡不同选择后，得出一个最终的决定。",
+          "sentenceWithBlank": "After exploring various options, his decision to study computer science @ @ @ the best choice.",
+          "fullEnglishSentence": "After exploring various options, his decision to study computer science 「proved to be」 the best choice.",
+          "chineseTranslation": "在探索多种选择后，他决定学习计算机科学「被证明是」最佳选择。",
+          "chinglishFix": "中式英语：'At last, he choosed computer science is best.' 纠正：'Ultimately, his choice of computer science proved to be the best.'（注意时态、动词形式和搭配的自然性）"
+        },
+        {
+          "scene": "一家初创公司在开发一款新应用时，面临技术难题和资金短缺，经过团队的努力和外部投资，最终成功推出产品。",
+          "chineseIdea": "通过坚持和努力，某件事在最后取得成功。",
+          "sentenceWithBlank": "Despite many challenges, their hard work @ @ a successful product launch.",
+          "fullEnglishSentence": "Despite many challenges, their hard work 「led to」 a successful product launch.",
+          "chineseTranslation": "尽管面临诸多挑战，他们的努力「带来了」产品成功发布。",
+          "chinglishFix": "中式英语：'They work hard and finally get success.' 纠正：'Their hard work ultimately led to a successful outcome.'（避免简单化的'finally'和不自然的表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "根本上，归根结底",
+      "usage": "用作副词，表示某事在最基本的层面上或从根本原因来看是某种情况，常用于讨论核心原因或本质。",
+      "collocations": ["come down to", "rest on", "be about"],
+      "examples": [
+        {
+          "scene": "在一次团队会议中，讨论为什么项目进度落后，经理指出，虽然表面上有技术问题，但根本原因是团队沟通不足。",
+          "chineseIdea": "揭示某事背后的根本原因或本质。",
+          "sentenceWithBlank": "Though technical issues were mentioned, the project’s delay @ @ @ poor communication.",
+          "fullEnglishSentence": "Though technical issues were mentioned, the project’s delay 「came down to」 poor communication.",
+          "chineseTranslation": "虽然提到了技术问题，但项目延误「归结为」沟通不畅。",
+          "chinglishFix": "中式英语：'The delay is because communication bad.' 纠正：'The delay ultimately came down to poor communication.'（使用更自然的搭配和句式）"
+        },
+        {
+          "scene": "一位老师在课堂上向学生解释环保的重要性，强调虽然技术可以帮助减少污染，但问题核心在于人们的生活习惯。",
+          "chineseIdea": "强调某事的本质或核心问题。",
+          "sentenceWithBlank": "While technology can help, environmental issues @ @ @ people’s habits.",
+          "fullEnglishSentence": "While technology can help, environmental issues 「are about」 people’s habits.",
+          "chineseTranslation": "虽然技术有帮助，但环境问题「关乎」人们的生活习惯。",
+          "chinglishFix": "中式英语：'Environment problem is people’s habit.' 纠正：'Environmental issues are ultimately about people’s habits.'（注意冠词和搭配的完整性）"
+        }
+      ]
+    }
+  ]
+}
+```
