@@ -1,0 +1,53 @@
+```json
+{
+  "word": "gift",
+  "definitions": [
+    {
+      "meaning": "A thing given willingly to someone without payment; a present",
+      "usage": "Refers to something given voluntarily, often to show affection, appreciation, or celebrate an occasion. Commonly used in personal, social, or festive contexts.",
+      "collocations": ["give a gift", "receive a gift", "wrap a gift"],
+      "examples": [
+        {
+          "scene": "朋友生日聚会上，你带了一份精心挑选的礼物，希望表达对朋友的祝福。",
+          "chineseIdea": "想通过送礼表达友情和对朋友生日的重视。",
+          "sentenceWithBlank": "I wanted to @ @ @ to show how much I value our friendship.",
+          "fullEnglishSentence": "I wanted to 「give a gift」 to show how much I value our friendship.",
+          "chineseTranslation": "我想「送一份礼物」来表达我多么重视我们的友谊。",
+          "chinglishFix": "Chinglish: 'I give you a present to show my friend heart.' Correct: 'I wanted to give you a gift to show how much I value our friendship.'"
+        },
+        {
+          "scene": "圣诞节前夕，你收到家人寄来的包裹，里面是一件毛衣。",
+          "chineseIdea": "家人通过礼物表达关爱，让你感到温暖。",
+          "sentenceWithBlank": "Opening the package, I was thrilled to @ @ @ from my family.",
+          "fullEnglishSentence": "Opening the package, I was thrilled to 「receive a gift」 from my family.",
+          "chineseTranslation": "打开包裹时，我很激动能「收到一份礼物」来自我的家人。",
+          "chinglishFix": "Chinglish: 'I happy get family present.' Correct: 'I was thrilled to receive a gift from my family.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A natural ability or talent",
+      "usage": "Describes an innate skill or exceptional ability someone possesses, often used to highlight unique strengths.",
+      "collocations": ["have a gift", "natural gift", "gift for"],
+      "examples": [
+        {
+          "scene": "在学校音乐会上，一个学生用小提琴演奏了一首复杂的曲子，震惊了观众。",
+          "chineseIdea": "想表达这个学生在音乐方面有天赋。",
+          "sentenceWithBlank": "Her performance showed that she truly @ @ @ for music.",
+          "fullEnglishSentence": "Her performance showed that she truly 「has a gift」 for music.",
+          "chineseTranslation": "她的表演显示她真正「有音乐天赋」。",
+          "chinglishFix": "Chinglish: 'She very good play music talent.' Correct: 'She truly has a gift for music.'"
+        },
+        {
+          "scene": "朋友总能轻松地让大家开怀大笑，即使在紧张的场合。",
+          "chineseIdea": "想称赞朋友在幽默方面的天生能力。",
+          "sentenceWithBlank": "His ability to make everyone laugh is a @ @ for comedy.",
+          "fullEnglishSentence": "His ability to make everyone laugh is a 「natural gift」 for comedy.",
+          "chineseTranslation": "他让每个人都笑的能力是「天生的幽默天赋」。",
+          "chinglishFix": "Chinglish: 'He born funny talent.' Correct: 'He has a natural gift for comedy.'"
+        }
+      ]
+    }
+  ]
+}
+```
