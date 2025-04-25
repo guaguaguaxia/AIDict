@@ -1,0 +1,53 @@
+```json
+{
+  "word": "diploma",
+  "definitions": [
+    {
+      "meaning": "A document issued by an educational institution certifying that a person has completed a course of study",
+      "usage": "Refers to an official certificate awarded upon graduation from a school, college, or university, often used to prove academic qualifications.",
+      "collocations": ["earn a diploma", "receive a diploma", "high school diploma"],
+      "examples": [
+        {
+          "scene": "一名中国学生刚刚从高中毕业，参加了学校的毕业典礼，领取了毕业证书。他感到非常骄傲，因为这是他努力学习的结果。",
+          "chineseIdea": "学生通过多年的学习，完成了高中课程，获得了官方的毕业证书，证明了他的学术能力。",
+          "sentenceWithBlank": "After years of hard work, she was thrilled to @ @ @ at the graduation ceremony.",
+          "fullEnglishSentence": "After years of hard work, she was thrilled to 「earn a diploma」 at the graduation ceremony.",
+          "chineseTranslation": "经过多年的努力，她在毕业典礼上兴奋地「获得了一张文凭」。",
+          "chinglishFix": "Chinglish: She got a diploma paper. \nCorrect: She earned a diploma."
+        },
+        {
+          "scene": "一位年轻的职场新人正在面试一份工作，面试官要求他提供学历证明。他拿出高中毕业证书作为证据。",
+          "chineseIdea": "求职者需要展示自己完成高中教育的证明，以满足工作岗位的学历要求。",
+          "sentenceWithBlank": "To meet the job requirements, he proudly presented his @ @ @ to the interviewer.",
+          "fullEnglishSentence": "To meet the job requirements, he proudly presented his 「high school diploma」 to the interviewer.",
+          "chineseTranslation": "为了满足工作要求，他自豪地向面试官展示了「高中毕业证书」。",
+          "chinglishFix": "Chinglish: He showed his high school paper. \nCorrect: He presented his high school diploma."
+        }
+      ]
+    },
+    {
+      "meaning": "A certificate or document conferring a privilege, honor, or qualification",
+      "usage": "Used in a broader sense to indicate an official document that grants a specific status, right, or recognition, not limited to academic contexts.",
+      "collocations": ["award a diploma", "diploma of recognition", "diploma in a field"],
+      "examples": [
+        {
+          "scene": "一位厨师完成了一家知名烹饪学校的专业课程，学校为他颁发了一份证明他烹饪技能的证书。他计划将这份证书挂在餐厅墙上。",
+          "chineseIdea": "通过专业培训，获得一份证明特定技能或资格的官方文件，展示专业能力。",
+          "sentenceWithBlank": "After completing the course, the chef was excited to @ @ @ in culinary arts.",
+          "fullEnglishSentence": "After completing the course, the chef was excited to 「diploma in a field」 in culinary arts.",
+          "chineseTranslation": "完成课程后，厨师兴奋地获得了「烹饪艺术领域的证书」。",
+          "chinglishFix": "Chinglish: He got a cook diploma. \nCorrect: He received a diploma in culinary arts."
+        },
+        {
+          "scene": "一家公司举办年度员工表彰大会，为表现优秀的员工颁发荣誉证书，以表彰他们的贡献。",
+          "chineseIdea": "公司通过颁发正式证书来表彰员工的杰出表现，增强员工的荣誉感。",
+          "sentenceWithBlank": "At the annual ceremony, the company decided to @ @ @ to outstanding employees.",
+          "fullEnglishSentence": "At the annual ceremony, the company decided to 「award a diploma」 to outstanding employees.",
+          "chineseTranslation": "在年度仪式上，公司决定向优秀员工「颁发证书」。",
+          "chinglishFix": "Chinglish: The company gave a diploma to workers. \nCorrect: The company awarded a diploma to outstanding employees."
+        }
+      ]
+    }
+  ]
+}
+```

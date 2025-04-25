@@ -1,0 +1,53 @@
+```json
+{
+  "word": "dominant",
+  "definitions": [
+    {
+      "meaning": "具有控制力或统治力的",
+      "usage": "描述某人、某事物或某群体在某个领域、关系或环境中占据主要或控制地位，常用于权力、地位或影响力较大的场景。",
+      "collocations": ["dominant position", "dominant force", "dominant player"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的会议中，讨论市场竞争时，经理提到某个公司在行业中的领先地位。",
+          "chineseIdea": "某个公司因为技术先进和市场份额大，在行业中占据了主导地位。",
+          "sentenceWithBlank": "Their innovative products have secured them a @ @ in the tech industry.",
+          "fullEnglishSentence": "Their innovative products have secured them a 「dominant position」 in the tech industry.",
+          "chineseTranslation": "他们的创新产品为他们在科技行业中赢得了「主导地位」。",
+          "chinglishFix": "典型中式英语：'They have the most strong position in the industry.' 纠正：'They hold a dominant position in the industry.'（避免用'most strong'，用'dominant'更自然。）"
+        },
+        {
+          "scene": "在国际象棋比赛中，一位选手通过精准的策略完全控制了局面。",
+          "chineseIdea": "这位棋手通过巧妙的走棋让对手几乎没有还手之力，掌控了比赛。",
+          "sentenceWithBlank": "Her strategic moves made her a @ @ in the chess match.",
+          "fullEnglishSentence": "Her strategic moves made her a 「dominant force」 in the chess match.",
+          "chineseTranslation": "她的战略走棋使她在国际象棋比赛中成为「主导力量」。",
+          "chinglishFix": "典型中式英语：'She is the strongest player in the game.' 纠正：'She is a dominant force in the game.'（'dominant force'更强调控制力和影响力。）"
+        }
+      ]
+    },
+    {
+      "meaning": "占优势的或最显著的",
+      "usage": "描述某事物在数量、重要性或显眼程度上超过其他，通常用于比较或描述主要特征。",
+      "collocations": ["dominant trait", "dominant culture", "dominant trend"],
+      "examples": [
+        {
+          "scene": "在生物课上，老师讲解遗传特征时提到某种特征在家族中更常见。",
+          "chineseIdea": "某个基因特征在家族中表现得更为明显，常出现在后代中。",
+          "sentenceWithBlank": "Brown eyes are a @ @ in her family.",
+          "fullEnglishSentence": "Brown eyes are a 「dominant trait」 in her family.",
+          "chineseTranslation": "棕色眼睛是她家族中的「显性特征」。",
+          "chinglishFix": "典型中式英语：'Brown eyes are the main character in her family.' 纠正：'Brown eyes are a dominant trait in her family.'（'main character'不适用于遗传特征，用'dominant trait'更准确。）"
+        },
+        {
+          "scene": "在文化研究课堂上，学生讨论全球化对当地文化的影响。",
+          "chineseIdea": "某种文化因为媒体和经济的传播，在某个地区变得最为显著。",
+          "sentenceWithBlank": "Western media has shaped the @ @ in many urban areas.",
+          "fullEnglishSentence": "Western media has shaped the 「dominant culture」 in many urban areas.",
+          "chineseTranslation": "西方媒体塑造了许多城市地区的「主流文化」。",
+          "chinglishFix": "典型中式英语：'Western culture is the biggest culture in cities.' 纠正：'Western culture is the dominant culture in cities.'（'biggest'不适合描述文化影响力，用'dominant'更贴切。）"
+        }
+      ]
+    }
+  ]
+}
+```

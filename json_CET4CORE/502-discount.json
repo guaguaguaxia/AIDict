@@ -1,0 +1,53 @@
+```json
+{
+  "word": "discount",
+  "definitions": [
+    {
+      "meaning": "折扣，减价",
+      "usage": "指在商品或服务的原价基础上降低价格，通常用于促销、吸引顾客或清库存。",
+      "collocations": ["offer a discount", "get a discount", "apply a discount", "student discount"],
+      "examples": [
+        {
+          "scene": "你在一家服装店购物，店员告诉你今天是促销日，特定商品有优惠。",
+          "chineseIdea": "店员表示可以给你的购买价格降低，以吸引你购买更多。",
+          "sentenceWithBlank": "The store is @ @ @ on all winter jackets today.",
+          "fullEnglishSentence": "The store is 「offering a discount」 on all winter jackets today.",
+          "chineseTranslation": "这家店今天对所有冬季夹克「提供折扣」。",
+          "chinglishFix": "典型中式英语：'The shop give discount for jackets.' 纠正：'The shop is offering a discount on jackets.'（英文中通常用'offer'搭配'discount'，且需要冠词'a'。）"
+        },
+        {
+          "scene": "你在网上购买电子产品，结账时发现学生可以享受特别优惠。",
+          "chineseIdea": "作为学生，你可以以更低的价格购买商品。",
+          "sentenceWithBlank": "As a student, you can @ @ @ on this laptop.",
+          "fullEnglishSentence": "As a student, you can 「get a discount」 on this laptop.",
+          "chineseTranslation": "作为学生，你可以在这台笔记本电脑上「获得折扣」。",
+          "chinglishFix": "典型中式英语：'I have discount because I am student.' 纠正：'I can get a discount because I am a student.'（英文中'get a discount'是固定搭配，且主语和动词搭配需清晰。）"
+        }
+      ]
+    },
+    {
+      "meaning": "不予考虑，忽视",
+      "usage": "指拒绝相信或不重视某事物、观点或可能性，通常用于表达对某事不予理会或否认其重要性。",
+      "collocations": ["discount a possibility", "discount a rumor", "discount an idea"],
+      "examples": [
+        {
+          "scene": "在公司会议中，同事提出了一个大胆的计划，但经理认为它不切实际。",
+          "chineseIdea": "经理觉得这个计划不值得考虑，决定忽视它。",
+          "sentenceWithBlank": "The manager decided to @ @ @ because it seemed unrealistic.",
+          "fullEnglishSentence": "The manager decided to 「discount an idea」 because it seemed unrealistic.",
+          "chineseTranslation": "经理决定「忽视这个想法」，因为它看起来不现实。",
+          "chinglishFix": "典型中式英语：'The boss not accept the idea.' 纠正：'The boss discounted the idea.'（英文中'discount'用于表示不予考虑，语气更正式且贴合语境。）"
+        },
+        {
+          "scene": "朋友间讨论一个关于名人的八卦，但你觉得这只是谣言，不值得相信。",
+          "chineseIdea": "你认为这个传言不可靠，决定不予理会。",
+          "sentenceWithBlank": "I chose to @ @ @ since there was no evidence.",
+          "fullEnglishSentence": "I chose to 「discount a rumor」 since there was no evidence.",
+          "chineseTranslation": "我选择「忽视这个谣言」，因为没有证据。",
+          "chinglishFix": "典型中式英语：'I don’t believe the gossip.' 纠正：'I discounted the rumor.'（'discount a rumor'更准确地表达不予理会的态度，且更符合英语表达习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "evolutionary",
+  "definitions": [
+    {
+      "meaning": "与进化或发展有关的，描述事物逐渐变化或进步的过程",
+      "usage": "通常用作形容词，修饰与生物进化、理论发展或技术进步相关的事物，强调渐进式变化。",
+      "collocations": ["evolutionary biology", "evolutionary process", "evolutionary change"],
+      "examples": [
+        {
+          "scene": "一名学生在大学生物学课堂上学习达尔文的进化论，老师正在讲解物种如何随时间变化。",
+          "chineseIdea": "学生想表达物种的变化是一个长期的、渐进的过程，与生物学理论紧密相关。",
+          "sentenceWithBlank": "The study of @ @ helps us understand how species adapt over millions of years.",
+          "fullEnglishSentence": "The study of 「evolutionary biology」 helps us understand how species adapt over millions of years.",
+          "chineseTranslation": "研究「进化生物学」帮助我们理解物种如何在数百万年间适应环境。",
+          "chinglishFix": "典型中式英语：'Species change is because of evolution biology.' 纠正：'The study of evolutionary biology explains how species change.'"
+        },
+        {
+          "scene": "一位科学家在学术会议上分享关于人类大脑如何随时间演化的研究。",
+          "chineseIdea": "科学家想强调大脑功能的变化是一个复杂的、持续的过程。",
+          "sentenceWithBlank": "The @ @ of the human brain involved gradual adaptations to environmental challenges.",
+          "fullEnglishSentence": "The 「evolutionary process」 of the human brain involved gradual adaptations to environmental challenges.",
+          "chineseTranslation": "人类大脑的「进化过程」涉及对环境挑战的逐渐适应。",
+          "chinglishFix": "典型中式英语：'Brain evolution process is slow.' 纠正：'The evolutionary process of the brain is gradual and complex.'"
+        }
+      ]
+    },
+    {
+      "meaning": "与创新或进步相关，描述某事物在技术、思想或方法上的演进",
+      "usage": "用作形容词，修饰技术、产品或理念的渐进式改进或发展，常用于科技、商业或社会领域。",
+      "collocations": ["evolutionary approach", "evolutionary design", "evolutionary step"],
+      "examples": [
+        {
+          "scene": "一家科技公司在发布会上介绍一款新型智能手机，强调其设计上的改进。",
+          "chineseIdea": "公司想传达新手机的设计是基于上一代产品的逐步优化。",
+          "sentenceWithBlank": "Our new smartphone reflects an @ @ to improve user experience.",
+          "fullEnglishSentence": "Our new smartphone reflects an 「evolutionary design」 to improve user experience.",
+          "chineseTranslation": "我们的新智能手机体现了「进化设计」，以提升用户体验。",
+          "chinglishFix": "典型中式英语：'New phone is evolution design.' 纠正：'The new phone features an evolutionary design.'"
+        },
+        {
+          "scene": "一名项目经理在团队会议上讨论如何改进工作流程。",
+          "chineseIdea": "经理想说明团队正在采取一种渐进的方式来优化流程，而不是彻底改变。",
+          "sentenceWithBlank": "We are taking an @ @ to streamline our operations gradually.",
+          "fullEnglishSentence": "We are taking an 「evolutionary approach」 to streamline our operations gradually.",
+          "chineseTranslation": "我们正在采取「进化方法」来逐步优化我们的运营。",
+          "chinglishFix": "典型中式英语：'We use evolution method to improve work.' 纠正：'We are adopting an evolutionary approach to improve our workflow.'"
+        }
+      ]
+    }
+  ]
+}
+```
