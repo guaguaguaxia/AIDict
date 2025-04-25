@@ -1,0 +1,53 @@
+```json
+{
+  "word": "protest",
+  "definitions": [
+    {
+      "meaning": "公开表达反对或不满，通常针对某事件、政策或情况",
+      "usage": "作为动词，表示通过言语、行动或集会等方式表达强烈的不满或反对；作为名词，表示反对的行为或事件，通常涉及群体活动。",
+      "collocations": ["stage a protest", "voice a protest", "peaceful protest", "violent protest"],
+      "examples": [
+        {
+          "scene": "一群学生在大学校园内聚集，手持标牌，抗议学校即将提高学费的决定。他们高喊口号，希望引起校方的注意。",
+          "chineseIdea": "学生们通过集体行动表达对学费上涨的不满，试图通过示威让学校重新考虑决定。",
+          "sentenceWithBlank": "The students decided to @ @ @ against the tuition hike.",
+          "fullEnglishSentence": "The students decided to 「stage a protest」 against the tuition hike.",
+          "chineseTranslation": "学生们决定「发起抗议」反对学费上涨。",
+          "chinglishFix": "典型中式英语：'They make a protest.' 纠正：'They stage a protest.'（'make a protest' 不符合英语习惯，'stage' 是更自然的搭配。）"
+        },
+        {
+          "scene": "在一次社区会议上，居民们对新建高速公路计划提出强烈反对，他们认为这会破坏当地的自然环境。",
+          "chineseIdea": "居民们通过公开表达意见，试图阻止破坏环境的建设项目。",
+          "sentenceWithBlank": "The residents gathered to @ @ @ about the highway project.",
+          "fullEnglishSentence": "The residents gathered to 「voice a protest」 about the highway project.",
+          "chineseTranslation": "居民们聚集起来「表达抗议」，反对高速公路项目。",
+          "chinglishFix": "典型中式英语：'They say protest.' 纠正：'They voice a protest.'（'say protest' 不地道，'voice' 是表达反对的常见动词。）"
+        }
+      ]
+    },
+    {
+      "meaning": "郑重声明或否认某事，通常为了澄清或强调",
+      "usage": "作为动词，表示强烈声明某事不正确或不属实，通常带有情感色彩；作为名词，表示这样的声明行为。",
+      "collocations": ["protest innocence", "protest loudly", "formal protest"],
+      "examples": [
+        {
+          "scene": "一名被指控盗窃的年轻人站在法庭上，激动地向法官声明自己是无辜的，试图说服所有人相信他。",
+          "chineseIdea": "年轻人通过强烈声明，试图证明自己没有犯罪。",
+          "sentenceWithBlank": "The young man continued to @ @ in court.",
+          "fullEnglishSentence": "The young man continued to 「protest innocence」 in court.",
+          "chineseTranslation": "年轻人继续在法庭上「声明无辜」。",
+          "chinglishFix": "典型中式英语：'He said he is innocent.' 纠正：'He protested his innocence.'（'said' 太平淡，'protest' 更能体现强烈的情感和正式性。）"
+        },
+        {
+          "scene": "在一次家庭聚会上，母亲责骂孩子因为他打破了花瓶，但孩子大声反驳，坚称自己没有做过。",
+          "chineseIdea": "孩子通过大声否认，试图让母亲相信他没有犯错。",
+          "sentenceWithBlank": "The child @ @ that he didn’t break the vase.",
+          "fullEnglishSentence": "The child 「protested loudly」 that he didn’t break the vase.",
+          "chineseTranslation": "孩子「大声抗辩」说他没有打破花瓶。",
+          "chinglishFix": "典型中式英语：'He shouted he didn’t do it.' 纠正：'He protested loudly.'（'shouted' 仅表示声音大，'protest loudly' 更准确地传达了否认的意图。）"
+        }
+      ]
+    }
+  ]
+}
+```

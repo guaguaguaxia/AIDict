@@ -1,0 +1,76 @@
+```json
+{
+  "word": "quality",
+  "definitions": [
+    {
+      "meaning": "品质，质量（指事物或服务的优劣程度）",
+      "usage": "用作名词，表示某事物或服务的标准、水平或优劣程度，常用于描述产品、服务或体验的好坏。",
+      "collocations": ["high quality", "poor quality", "ensure quality"],
+      "examples": [
+        {
+          "scene": "你在一个电子产品商店挑选一台新笔记本电脑，店员向你推荐一款性能优越的型号，强调它的制造工艺和耐用性。",
+          "chineseIdea": "你希望买一台性能好、经久耐用的电脑，而不是便宜但容易坏的。",
+          "sentenceWithBlank": "This laptop is known for its @ @ components and long-lasting battery.",
+          "fullEnglishSentence": "This laptop is known for its 「high quality」 components and long-lasting battery.",
+          "chineseTranslation": "这款笔记本电脑以其「高品质」的组件和持久的电池而闻名。",
+          "chinglishFix": "典型中式英语：This laptop has very good quality. 纠正：This laptop is of high quality."
+        },
+        {
+          "scene": "你在一家餐厅用餐后，对服务员的服务态度和食物的味道感到失望，决定向经理投诉。",
+          "chineseIdea": "你觉得餐厅的食物和服务都不好，达不到你的期望。",
+          "sentenceWithBlank": "The food and service here are of @ @, which is unacceptable for the price.",
+          "fullEnglishSentence": "The food and service here are of 「poor quality」, which is unacceptable for the price.",
+          "chineseTranslation": "这里的食物和服务「品质差」，对于这个价格来说是不可接受的。",
+          "chinglishFix": "典型中式英语：The food quality is bad. 纠正：The food is of poor quality."
+        }
+      ]
+    },
+    {
+      "meaning": "特性，特质（指某人或某物的典型特征）",
+      "usage": "用作名词，表示某人或某物所具有的特定属性或特点，通常是内在的、独特的品质。",
+      "collocations": ["personal quality", "unique quality", "leadership quality"],
+      "examples": [
+        {
+          "scene": "你在公司会议上表扬一位同事，提到她在团队合作中的优秀表现和积极态度。",
+          "chineseIdea": "你想表达这位同事在工作中展现出的友好和协作能力。",
+          "sentenceWithBlank": "She has a @ @ that makes her an excellent team player.",
+          "fullEnglishSentence": "She has a 「personal quality」 that makes her an excellent team player.",
+          "chineseTranslation": "她有一种「个人特质」，使她成为一名出色的团队成员。",
+          "chinglishFix": "典型中式英语：She has good quality in team. 纠正：She has a personal quality that enhances teamwork."
+        },
+        {
+          "scene": "你在写一封推荐信，为一位学生申请大学，强调他适合领导职位的能力。",
+          "chineseIdea": "你想突出学生在组织活动时展现的自信和决策能力。",
+          "sentenceWithBlank": "His @ @ stands out in organizing school events.",
+          "fullEnglishSentence": "His 「leadership quality」 stands out in organizing school events.",
+          "chineseTranslation": "他在组织学校活动时展现的「领导特质」非常突出。",
+          "chinglishFix": "典型中式英语：He has good quality for leader. 纠正：He possesses strong leadership qualities."
+        }
+      ]
+    },
+    {
+      "meaning": "高质量（形容某事物非常好或优秀）",
+      "usage": "用作形容词，表示某事物具有高标准或卓越的特性，常用于修饰产品、作品或体验。",
+      "collocations": ["quality product", "quality service", "quality education"],
+      "examples": [
+        {
+          "scene": "你在网上购物时，看到一家店铺宣传他们的手工皮包，强调材料和工艺的优越性。",
+          "chineseIdea": "你被店铺描述的皮包精致做工和优质材料吸引，想购买一个耐用的包。",
+          "sentenceWithBlank": "This store is famous for its @ @ made from genuine leather.",
+          "fullEnglishSentence": "This store is famous for its 「quality product」 made from genuine leather.",
+          "chineseTranslation": "这家店以其用真皮制作的「优质产品」而闻名。",
+          "chinglishFix": "典型中式英语：This store sells good quality bags. 纠正：This store offers quality products."
+        },
+        {
+          "scene": "你和朋友讨论一所国际学校，提到它的教学水平和师资力量非常出色。",
+          "chineseIdea": "你想表达这所学校的教育资源和教学质量很高，值得信赖。",
+          "sentenceWithBlank": "That school provides @ @ to prepare students for global challenges.",
+          "fullEnglishSentence": "That school provides 「quality education」 to prepare students for global challenges.",
+          "chineseTranslation": "那所学校提供「优质教育」，为学生应对全球挑战做准备。",
+          "chinglishFix": "典型中式英语：The school has high quality teaching. 纠正：The school offers quality education."
+        }
+      ]
+    }
+  ]
+}
+```

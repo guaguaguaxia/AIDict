@@ -1,0 +1,53 @@
+```json
+{
+  "word": "perception",
+  "definitions": [
+    {
+      "meaning": "感官知觉；通过感官获取信息的能力",
+      "usage": "指通过视觉、听觉、触觉等感官对外部世界的认知，通常用于描述人对环境或物体的直接感受。",
+      "collocations": ["visual perception", "auditory perception", "sensory perception"],
+      "examples": [
+        {
+          "scene": "在一个安静的森林里，你闭上眼睛，试图通过耳朵捕捉周围的声音，比如鸟鸣或树叶的沙沙声。",
+          "chineseIdea": "通过听觉去感受周围环境的变化，比如分辨不同的自然声音。",
+          "sentenceWithBlank": "Her @ @ helped her identify the distant sound of a waterfall.",
+          "fullEnglishSentence": "Her 「visual perception」 helped her identify the distant sound of a waterfall.",
+          "chineseTranslation": "她的「视觉知觉」帮助她辨认出远处瀑布的声音。",
+          "chinglishFix": "典型中式英语：'Her ear perception is very good.' 纠正：'Her auditory perception is very sharp.'"
+        },
+        {
+          "scene": "在一个科技展览上，你戴上虚拟现实头显，感受到逼真的画面，仿佛置身于另一个世界。",
+          "chineseIdea": "通过视觉感受到虚拟环境的真实感，仿佛身临其境。",
+          "sentenceWithBlank": "The VR headset enhanced his @ @, making the digital world feel real.",
+          "fullEnglishSentence": "The VR headset enhanced his 「visual perception」, making the digital world feel real.",
+          "chineseTranslation": "虚拟现实头显增强了他的「视觉知觉」，使数字世界感觉真实。",
+          "chinglishFix": "典型中式英语：'His eyes perception is strong.' 纠正：'His visual perception is highly developed.'"
+        }
+      ]
+    },
+    {
+      "meaning": "认知；对事物或情况的理解或看法",
+      "usage": "指一个人对某事物的主观理解或观点，通常与经验、文化或背景相关，强调心理层面的解读。",
+      "collocations": ["public perception", "common perception", "shape perception"],
+      "examples": [
+        {
+          "scene": "在公司会议上，市场团队讨论如何改变消费者对品牌老旧的看法，吸引年轻用户。",
+          "chineseIdea": "改变大众对品牌的固有印象，使其更符合现代潮流。",
+          "sentenceWithBlank": "The marketing campaign aimed to improve the @ @ of the brand among younger audiences.",
+          "fullEnglishSentence": "The marketing campaign aimed to improve the 「public perception」 of the brand among younger audiences.",
+          "chineseTranslation": "营销活动旨在改善年轻观众对品牌的「公众认知」。",
+          "chinglishFix": "典型中式英语：'We need to change people’s think about the brand.' 纠正：'We need to shape the public’s perception of the brand.'"
+        },
+        {
+          "scene": "在课堂讨论中，学生们分享对环保问题的看法，认为政府政策影响了大家的环保意识。",
+          "chineseIdea": "通过讨论认识到不同人对环保的态度受到政策和教育的影响。",
+          "sentenceWithBlank": "The new regulations helped to @ @ about environmental issues.",
+          "fullEnglishSentence": "The new regulations helped to 「shape perception」 about environmental issues.",
+          "chineseTranslation": "新法规有助于「塑造」对环境问题的认知。",
+          "chinglishFix": "典型中式英语：'The law changes how people see environment.' 纠正：'The law shapes public perception of environmental issues.'"
+        }
+      ]
+    }
+  ]
+}
+```

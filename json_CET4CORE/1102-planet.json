@@ -1,0 +1,53 @@
+```json
+{
+  "word": "planet",
+  "definitions": [
+    {
+      "meaning": "A celestial body that orbits a star, is spherical, and has cleared its orbit of other debris",
+      "usage": "Used in scientific and general contexts to describe large bodies in space, such as Earth or Mars, that meet specific astronomical criteria.",
+      "collocations": ["distant planet", "habitable planet", "explore a planet"],
+      "examples": [
+        {
+          "scene": "一个天文爱好者在夜间使用望远镜观察天空，试图找到一个遥远的星球。",
+          "chineseIdea": "描述一个在天文学中远离地球的星球，通常用来表达宇宙的辽阔或探索的愿望。",
+          "sentenceWithBlank": "Through the telescope, she spotted a @ @ in the constellation Orion.",
+          "fullEnglishSentence": "Through the telescope, she spotted a 「distant planet」 in the constellation Orion.",
+          "chineseTranslation": "通过望远镜，她在猎户座发现了一个「遥远的星球」。",
+          "chinglishFix": "Chinglish: 'She saw a far star.' Correction: 'She spotted a distant planet.' (Chinese learners often confuse 'star' with 'planet'; 'planet' is correct here as it refers to a body orbiting a star, not a star itself.)"
+        },
+        {
+          "scene": "科学家们在研讨会上讨论一个可能适合人类居住的星球，激发了公众的想象。",
+          "chineseIdea": "描述一个具有适宜生命条件的星球，常用于讨论宇宙移民或科学发现。",
+          "sentenceWithBlank": "The discovery of a @ @ excited astronomers worldwide.",
+          "fullEnglishSentence": "The discovery of a 「habitable planet」 excited astronomers worldwide.",
+          "chineseTranslation": "发现一个「宜居星球」让全世界的天文学家兴奋不已。",
+          "chinglishFix": "Chinglish: 'A living planet was found.' Correction: 'A habitable planet was discovered.' ('Living planet' is unnatural; 'habitable planet' is the standard term for a planet capable of supporting life.)"
+        }
+      ]
+    },
+    {
+      "meaning": "A metaphorical reference to a world or domain of activity or expertise",
+      "usage": "Used figuratively to describe a distinct sphere of activity, interest, or expertise, often to emphasize difference or uniqueness.",
+      "collocations": ["different planet", "own planet", "live on a planet"],
+      "examples": [
+        {
+          "scene": "一个程序员试图向朋友解释复杂的代码逻辑，但朋友完全听不懂，感觉像是来自另一个世界。",
+          "chineseIdea": "形容某人的思维或行为方式完全不同，像是生活在另一个世界，强调差异。",
+          "sentenceWithBlank": "When he talks about coding, it’s like he’s from a @ @.",
+          "fullEnglishSentence": "When he talks about coding, it’s like he’s from a 「different planet」.",
+          "chineseTranslation": "当他谈论编程时，感觉他像是来自一个「不同的世界」。",
+          "chinglishFix": "Chinglish: 'He is in another world.' Correction: 'He’s from a different planet.' (Chinese learners often use 'world' too broadly; 'different planet' is a common idiom for extreme difference in perspective.)"
+        },
+        {
+          "scene": "一位艺术家沉浸在自己的创作中，周围的人觉得她的想法和生活方式非常独特。",
+          "chineseIdea": "形容某人沉浸在自己的领域或兴趣中，显得与众不同，像是独居在一个独特的世界。",
+          "sentenceWithBlank": "She’s so absorbed in her art that she seems to @ @ @.",
+          "fullEnglishSentence": "She’s so absorbed in her art that she seems to 「live on a planet」 of her own.",
+          "chineseTranslation": "她如此沉迷于艺术，像是「生活在一个自己的世界」里。",
+          "chinglishFix": "Chinglish: 'She lives in her world.' Correction: 'She lives on a planet of her own.' ('Lives in her world' is less vivid; 'live on a planet' is a more idiomatic metaphor for isolation in one’s own domain.)"
+        }
+      ]
+    }
+  ]
+}
+```
