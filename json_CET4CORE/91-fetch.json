@@ -1,0 +1,53 @@
+```json
+{
+  "word": "fetch",
+  "definitions": [
+    {
+      "meaning": "去拿或取回某物",
+      "usage": "指为了获取某物而前往某处并将其带回，通常用于描述人或动物取回物品的行为，常见于日常口语或指令性语境。",
+      "collocations": ["fetch something for someone", "fetch a ball", "fetch water"],
+      "examples": [
+        {
+          "scene": "在一个阳光明媚的下午，小明和他的狗在公园里玩耍。小明的狗特别喜欢追球，每次小明扔出球，狗都会兴奋地跑过去。",
+          "chineseIdea": "小明希望狗能把球叼回来给他。",
+          "sentenceWithBlank": "The dog loves to @ @ @ when we play in the park.",
+          "fullEnglishSentence": "The dog loves to 「fetch a ball」 when we play in the park.",
+          "chineseTranslation": "这只狗喜欢在公园玩时「叼回球」。",
+          "chinglishFix": "典型中式英语：'The dog goes to take the ball back.' 纠正：'The dog fetches the ball.'（'take back'显得生硬，'fetch'更自然地表达狗叼回球的动作。）"
+        },
+        {
+          "scene": "在一个乡村小屋里，小红的妈妈正在准备晚饭。她发现厨房里没有水了，于是她叫小红去外面的水井打水。",
+          "chineseIdea": "小红的妈妈希望小红能去井边把水取回来。",
+          "sentenceWithBlank": "Can you @ @ from the well outside?",
+          "fullEnglishSentence": "Can you 「fetch water」 from the well outside?",
+          "chineseTranslation": "你能从外面的井里「取水」回来吗？",
+          "chinglishFix": "典型中式英语：'Can you take water from the well?' 纠正：'Can you fetch water from the well?'（'take'没有体现去某处取回的动作，'fetch'更贴合语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "卖得某个价格（通常用于拍卖或销售）",
+      "usage": "指某物在拍卖或交易中被卖出的价格，常见于正式或商业语境，强调物品的价值或交易结果。",
+      "collocations": ["fetch a high price", "fetch a good sum", "fetch millions"],
+      "examples": [
+        {
+          "scene": "在一个艺术品拍卖会上，一幅罕见的古画吸引了众多收藏家的关注。拍卖师宣布这幅画最终以天价成交。",
+          "chineseIdea": "拍卖师想表达这幅画卖出了很高的价格。",
+          "sentenceWithBlank": "The rare painting @ @ @ at the auction.",
+          "fullEnglishSentence": "The rare painting 「fetched a high price」 at the auction.",
+          "chineseTranslation": "这幅珍稀画作在拍卖会上「卖出了高价」。",
+          "chinglishFix": "典型中式英语：'The painting sold a high price.' 纠正：'The painting fetched a high price.'（'sold'后直接接价格不自然，'fetched'更常用于表达拍卖价格。）"
+        },
+        {
+          "scene": "在一个古董市场上，老王试图卖掉他收藏多年的瓷器。他希望这件瓷器能卖个好价钱。",
+          "chineseIdea": "老王希望他的瓷器能卖出很多钱。",
+          "sentenceWithBlank": "This antique vase could @ @ @ if marketed well.",
+          "fullEnglishSentence": "This antique vase could 「fetch a good sum」 if marketed well.",
+          "chineseTranslation": "这个古董花瓶如果营销得当，可以「卖个好价钱」。",
+          "chinglishFix": "典型中式英语：'This vase can sell much money.' 纠正：'This vase can fetch a good sum.'（'sell much money'语法错误且不自然，'fetch a good sum'更符合英语表达习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```

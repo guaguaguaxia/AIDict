@@ -1,0 +1,53 @@
+```json
+{
+  "word": "fiction",
+  "definitions": [
+    {
+      "meaning": "文学作品中虚构的故事，尤其是小说",
+      "usage": "指以想象为基础创作的叙事文学作品，通常包括小说、短篇小说等，与非虚构（non-fiction）相对。",
+      "collocations": ["science fiction", "historical fiction", "write fiction"],
+      "examples": [
+        {
+          "scene": "一个年轻人在书店里寻找一本新书，希望找到一部引人入胜的故事来放松自己。",
+          "chineseIdea": "他想要一部充满未来科技和冒险的故事，能够让他暂时逃离现实生活的压力。",
+          "sentenceWithBlank": "She browsed the shelves, hoping to find an exciting @ @ novel.",
+          "fullEnglishSentence": "She browsed the shelves, hoping to find an exciting 「science fiction」 novel.",
+          "chineseTranslation": "她在书架间浏览，希望找到一本激动人心的「科幻」小说。",
+          "chinglishFix": "典型中式英语：She want find a science imagine book. 纠正：She wants to find a science fiction book."
+        },
+        {
+          "scene": "一个历史爱好者在图书馆研究古代欧洲的历史，但也想读一些以那个时代为背景的故事。",
+          "chineseIdea": "他希望通过阅读以历史为背景的小说，感受那个时代的生活和文化。",
+          "sentenceWithBlank": "He borrowed a @ @ book set in medieval France.",
+          "fullEnglishSentence": "He borrowed a 「historical fiction」 book set in medieval France.",
+          "chineseTranslation": "他借了一本以中世纪法国为背景的「历史小说」。",
+          "chinglishFix": "典型中式英语：He borrow a history story book. 纠正：He borrowed a historical fiction book."
+        }
+      ]
+    },
+    {
+      "meaning": "虚构或不真实的事物",
+      "usage": "指某事并非真实，而是想象或捏造的，通常用于描述不真实的故事、说法或情况。",
+      "collocations": ["pure fiction", "work of fiction", "blurred the line between fact and fiction"],
+      "examples": [
+        {
+          "scene": "一群朋友在咖啡馆讨论一部电影的剧情，争论其中的情节是否有可能在现实中发生。",
+          "chineseIdea": "有人认为电影的故事完全是编造的，没有任何现实依据。",
+          "sentenceWithBlank": "The movie’s plot was so unrealistic that it felt like @ @.",
+          "fullEnglishSentence": "The movie’s plot was so unrealistic that it felt like 「pure fiction」.",
+          "chineseTranslation": "这部电影的剧情如此不现实，感觉完全是「纯粹的虚构」。",
+          "chinglishFix": "典型中式英语：The movie is all imagine. 纠正：The movie is pure fiction."
+        },
+        {
+          "scene": "一名记者在调查一则新闻时，发现报道中的一些细节似乎被夸大了。",
+          "chineseIdea": "她怀疑这些细节并非事实，而是有人故意编造来吸引读者。",
+          "sentenceWithBlank": "Her investigation revealed that the story was largely a @ @ @.",
+          "fullEnglishSentence": "Her investigation revealed that the story was largely a 「work of fiction」.",
+          "chineseTranslation": "她的调查显示，这个故事在很大程度上是「虚构作品」。",
+          "chinglishFix": "典型中式英语：The story is made-up thing. 纠正：The story is a work of fiction."
+        }
+      ]
+    }
+  ]
+}
+```
