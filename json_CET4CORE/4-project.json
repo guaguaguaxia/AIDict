@@ -1,0 +1,76 @@
+```json
+{
+  "word": "project",
+  "definitions": [
+    {
+      "meaning": "计划或工程，通常是有明确目标和时间限制的大型任务",
+      "usage": "作为名词，指一个有明确目标、需要组织和资源投入的计划或工程，常用于商业、建筑、科研或教育领域。",
+      "collocations": ["launch a project", "manage a project", "complete a project"],
+      "examples": [
+        {
+          "scene": "一个公司在计划开发一款新的智能手机，市场部门和研发部门需要合作制定开发时间表。",
+          "chineseIdea": "公司希望通过一个详细的计划来确保新产品按时上市，同时控制预算。",
+          "sentenceWithBlank": "The company decided to @ @ @ to develop a new smartphone.",
+          "fullEnglishSentence": "The company decided to 「launch a project」 to develop a new smartphone.",
+          "chineseTranslation": "公司决定「启动一个计划」来开发一款新智能手机。",
+          "chinglishFix": "典型中式英语：The company begin a plan to make a new phone. 纠正：The company launched a project to develop a new smartphone."
+        },
+        {
+          "scene": "一个建筑公司正在负责建造一座新桥，项目经理需要协调工人、材料和时间。",
+          "chineseIdea": "项目经理需要确保所有任务按计划进行，避免延误或超支。",
+          "sentenceWithBlank": "The project manager was tasked to @ @ @ to ensure timely completion.",
+          "fullEnglishSentence": "The project manager was tasked to 「manage a project」 to ensure timely completion.",
+          "chineseTranslation": "项目经理被指派「管理一个计划」以确保按时完成。",
+          "chinglishFix": "典型中式英语：The manager control the plan for the bridge. 纠正：The manager was tasked to manage the project for the bridge."
+        }
+      ]
+    },
+    {
+      "meaning": "学术或个人任务，通常是学生或个人为展示研究或创意成果而完成的工作",
+      "usage": "作为名词，指学生或个人为完成某项研究、作业或创意任务而进行的具体工作，常用于学校或个人兴趣场景。",
+      "collocations": ["work on a project", "present a project", "submit a project"],
+      "examples": [
+        {
+          "scene": "一个高中生在科学课上研究太阳能电池的效率，需要在课堂上展示成果。",
+          "chineseIdea": "学生希望通过实验和数据分析展示自己的研究能力。",
+          "sentenceWithBlank": "She spent weeks @ @ @ about solar energy efficiency.",
+          "fullEnglishSentence": "She spent weeks 「working on a project」 about solar energy efficiency.",
+          "chineseTranslation": "她花了几个星期「进行一个作业」关于太阳能效率的研究。",
+          "chinglishFix": "典型中式英语：She do a homework about solar energy. 纠正：She worked on a project about solar energy."
+        },
+        {
+          "scene": "一个大学生在学期末需要向教授提交一份关于城市规划的报告。",
+          "chineseIdea": "学生希望通过提交详细的报告来展示自己的分析和写作能力。",
+          "sentenceWithBlank": "He had to @ @ @ on urban planning by the end of the semester.",
+          "fullEnglishSentence": "He had to 「submit a project」 on urban planning by the end of the semester.",
+          "chineseTranslation": "他必须在学期末「提交一个作业」关于城市规划。",
+          "chinglishFix": "典型中式英语：He give a homework to the teacher. 纠正：He submitted a project to the professor."
+        }
+      ]
+    },
+    {
+      "meaning": "投射或预测，涉及将某事物延伸或推测到未来",
+      "usage": "作为动词，指通过数据或趋势预测未来情况，或将某事物投射到另一个领域，常用于商业、科学或心理学。",
+      "collocations": ["project an image", "project future trends", "project confidence"],
+      "examples": [
+        {
+          "scene": "一个公司在年度会议上向投资者展示未来五年的销售预测。",
+          "chineseIdea": "公司希望通过数据预测未来的市场表现，以吸引投资。",
+          "sentenceWithBlank": "The CEO tried to @ @ @ to reassure investors.",
+          "fullEnglishSentence": "The CEO tried to 「project future trends」 to reassure investors.",
+          "chineseTranslation": "首席执行官试图「预测未来趋势」以安抚投资者。",
+          "chinglishFix": "典型中式英语：The CEO guess the future sales. 纠正：The CEO projected future trends in sales."
+        },
+        {
+          "scene": "一个求职者在面试中试图展现自信和专业形象。",
+          "chineseIdea": "求职者希望通过肢体语言和表达给面试官留下积极印象。",
+          "sentenceWithBlank": "She aimed to @ @ @ during the interview.",
+          "fullEnglishSentence": "She aimed to 「project confidence」 during the interview.",
+          "chineseTranslation": "她旨在面试中「展现自信」。",
+          "chinglishFix": "典型中式英语：She want to show strong in the interview. 纠正：She aimed to project confidence in the interview."
+        }
+      ]
+    }
+  ]
+}
+```
