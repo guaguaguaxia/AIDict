@@ -1,0 +1,76 @@
+```json
+{
+  "word": "position",
+  "definitions": [
+    {
+      "meaning": "某人或某物所处的位置或地点",
+      "usage": "指物理上的位置、地点或空间中的排列，通常用于描述物体、人或抽象事物的具体位置。",
+      "collocations": ["strategic position", "central position", "upright position"],
+      "examples": [
+        {
+          "scene": "在一场足球比赛中，教练正在调整球员的站位，以确保防守更稳固。",
+          "chineseIdea": "教练希望通过调整球员的站位来占据更有利的地形，防止对方进攻。",
+          "sentenceWithBlank": "The coach moved the defenders to a more @ @ to block the opponent's attack.",
+          "fullEnglishSentence": "The coach moved the defenders to a more 「strategic position」 to block the opponent's attack.",
+          "chineseTranslation": "教练将后卫调整到更「战略位置」以阻挡对手的进攻。",
+          "chinglishFix": "典型中式英语：'The coach put defenders in a good place.' 纠正：使用'strategic position'更自然，强调战术上的位置安排。"
+        },
+        {
+          "scene": "在一个博物馆的展览中，策展人正在布置展品，确保每件展品都能被观众清晰看到。",
+          "chineseIdea": "策展人希望通过调整展品的位置，让参观者能从最佳角度欣赏。",
+          "sentenceWithBlank": "The curator placed the sculpture in a @ @ to highlight its details.",
+          "fullEnglishSentence": "The curator placed the sculpture in a 「central position」 to highlight its details.",
+          "chineseTranslation": "策展人将雕塑放置在「中心位置」以突出其细节。",
+          "chinglishFix": "典型中式英语：'The curator put the sculpture in the middle.' 纠正：使用'central position'更正式且符合语境。"
+        }
+      ]
+    },
+    {
+      "meaning": "工作或职务",
+      "usage": "指某人在组织或公司中的角色、职位或职责，常用于正式或职业语境。",
+      "collocations": ["senior position", "leadership position", "temporary position"],
+      "examples": [
+        {
+          "scene": "在一家科技公司中，一名员工因表现出色被提拔到一个更高的职位。",
+          "chineseIdea": "员工希望通过努力工作获得更高的职责和认可。",
+          "sentenceWithBlank": "After years of hard work, she was promoted to a @ @ in the company.",
+          "fullEnglishSentence": "After years of hard work, she was promoted to a 「senior position」 in the company.",
+          "chineseTranslation": "经过多年的努力，她被提拔到公司的「高级职位」。",
+          "chinglishFix": "典型中式英语：'She got a high job.' 纠正：使用'senior position'更准确，符合职业语境。"
+        },
+        {
+          "scene": "一名大学生在暑假期间找到了一份短期工作，以积累经验。",
+          "chineseIdea": "大学生希望通过短期工作来了解职场并赚取一些收入。",
+          "sentenceWithBlank": "He took a @ @ at a local startup to gain experience.",
+          "fullEnglishSentence": "He took a 「temporary position」 at a local startup to gain experience.",
+          "chineseTranslation": "他在一家本地初创公司接受了「临时职位」以积累经验。",
+          "chinglishFix": "典型中式英语：'He found a short-time job.' 纠正：使用'temporary position'更专业，强调职位的性质。"
+        }
+      ]
+    },
+    {
+      "meaning": "观点或立场",
+      "usage": "指某人在某问题上的态度、看法或官方立场，常见于讨论、辩论或正式声明。",
+      "collocations": ["firm position", "neutral position", "official position"],
+      "examples": [
+        {
+          "scene": "在一场关于环保政策的辩论中，一位官员表达了政府的明确态度。",
+          "chineseIdea": "官员希望通过清晰的表态来表明政府对环保的承诺。",
+          "sentenceWithBlank": "The official stated the government's @ @ on climate change policies.",
+          "fullEnglishSentence": "The official stated the government's 「firm position」 on climate change policies.",
+          "chineseTranslation": "这位官员陈述了政府在气候变化政策上的「坚定立场」。",
+          "chinglishFix": "典型中式英语：'The official said the government's idea.' 纠正：使用'firm position'更贴合正式语境，强调立场明确。"
+        },
+        {
+          "scene": "在一次国际会议中，一个国家选择不偏向任何一方，以保持中立。",
+          "chineseIdea": "国家希望通过中立的态度来避免冲突并促进对话。",
+          "sentenceWithBlank": "The country maintained a @ @ during the negotiations.",
+          "fullEnglishSentence": "The country maintained a 「neutral position」 during the negotiations.",
+          "chineseTranslation": "该国在谈判中保持了「中立立场」。",
+          "chinglishFix": "典型中式英语：'The country stayed in the middle.' 纠正：使用'neutral position'更准确，符合外交语言习惯。"
+        }
+      ]
+    }
+  ]
+}
+```

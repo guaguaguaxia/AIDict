@@ -1,0 +1,76 @@
+```json
+{
+  "word": "option",
+  "definitions": [
+    {
+      "meaning": "选择或可能性，指在多种可能中挑选一种的行为或机会",
+      "usage": "常用于描述在决策中可供选择的路径、方案或物品，强调自由选择的能力，常出现在日常对话、商业场景或学术讨论中。",
+      "collocations": ["explore all options", "have no option", "keep options open"],
+      "examples": [
+        {
+          "scene": "在咖啡店里，小明和朋友讨论周末的计划。朋友提议去爬山，但小明更想看电影。他们需要决定一个大家都满意的活动。",
+          "chineseIdea": "小明想表达在决定之前应该考虑所有可能的活动，以确保选择最适合的。",
+          "sentenceWithBlank": "Before we decide, let’s @ @ @ to see what’s best for everyone.",
+          "fullEnglishSentence": "Before we decide, let’s 「explore all options」 to see what’s best for everyone.",
+          "chineseTranslation": "在我们决定之前，让我们「考虑所有可能性」以确定什么对大家最好。",
+          "chinglishFix": "典型中式英语：'We should think all choices.' 纠正：'We should explore all options.'（'think all choices' 缺乏搭配依据，显得不自然，且 'choices' 不如 'options' 在此语境中常见。）"
+        },
+        {
+          "scene": "小红在公司会议中讨论项目预算问题。由于资金有限，团队必须尽快确定一个方案。",
+          "chineseIdea": "小红想表达由于时间紧迫，团队别无选择，只能接受当前方案。",
+          "sentenceWithBlank": "With the deadline approaching, we @ @ @ but to go with this plan.",
+          "fullEnglishSentence": "With the deadline approaching, we 「have no option」 but to go with this plan.",
+          "chineseTranslation": "随着截止日期临近，我们「别无选择」，只能采用这个方案。",
+          "chinglishFix": "典型中式英语：'We have no way but to choose this.' 纠正：'We have no option but to go with this.'（'no way' 不常用于此语境，'choose' 也不如 'go with' 自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "金融领域中的期权，指在特定时间内以约定价格买卖某资产的权利",
+      "usage": "主要用于金融和投资场景，描述一种金融衍生品，常见于股票、期货等交易中，强调买卖的权利而非义务。",
+      "collocations": ["exercise an option", "buy an option", "sell an option"],
+      "examples": [
+        {
+          "scene": "小刚是一位股票投资者，他在研究市场趋势后，决定购买某公司的期权以锁定未来价格。",
+          "chineseIdea": "小刚想表达他将行使期权以在未来以特定价格购买股票。",
+          "sentenceWithBlank": "If the stock price rises, I plan to @ @ @ to secure the shares.",
+          "fullEnglishSentence": "If the stock price rises, I plan to 「exercise an option」 to secure the shares.",
+          "chineseTranslation": "如果股价上涨，我计划「行使期权」以确保获得股票。",
+          "chinglishFix": "典型中式英语：'I will use the option.' 纠正：'I will exercise an option.'（'use' 在金融期权语境中不准确，'exercise' 是标准术语。）"
+        },
+        {
+          "scene": "小美在投资培训课上学习期权交易，老师提到可以通过出售期权来赚取额外收入。",
+          "chineseIdea": "小美想表达她可以通过出售期权来获得收益，即使市场波动。",
+          "sentenceWithBlank": "To generate income, I might @ @ @ on this stock.",
+          "fullEnglishSentence": "To generate income, I might 「sell an option」 on this stock.",
+          "chineseTranslation": "为了创造收入，我可能会「出售期权」在这只股票上。",
+          "chinglishFix": "典型中式英语：'I can sell a choice.' 纠正：'I can sell an option.'（'choice' 不适用于金融期权，'option' 是正确术语。）"
+        }
+      ]
+    },
+    {
+      "meaning": "计算机或设备中的选项，指在菜单或设置中可供用户选择的功能或配置",
+      "usage": "常见于技术领域，如软件界面、手机设置或设备操作中，指用户可通过点击或勾选来调整的功能。",
+      "collocations": ["select an option", "enable an option", "choose an option"],
+      "examples": [
+        {
+          "scene": "小华在调整新手机的设置，想把屏幕亮度调到自动模式，但不知道如何操作。",
+          "chineseIdea": "小华想表达他需要从设置菜单中选择一个功能来调整屏幕亮度。",
+          "sentenceWithBlank": "To adjust the brightness, you need to @ @ @ from the display settings.",
+          "fullEnglishSentence": "To adjust the brightness, you need to 「select an option」 from the display settings.",
+          "chineseTranslation": "要调整亮度，你需要从显示设置中「选择一个选项」。",
+          "chinglishFix": "典型中式英语：'You must pick a setting.' 纠正：'You need to select an option.'（'pick a setting' 不够具体，'select an option' 更符合技术语境。）"
+        },
+        {
+          "scene": "小李在安装一款新软件时，系统提示他是否开启自动更新功能。",
+          "chineseIdea": "小李想表达他将启用自动更新的功能以保持软件最新。",
+          "sentenceWithBlank": "To keep the software updated, I’ll @ @ @ for automatic updates.",
+          "fullEnglishSentence": "To keep the software updated, I’ll 「enable an option」 for automatic updates.",
+          "chineseTranslation": "为了保持软件更新，我将「启用一个选项」以进行自动更新。",
+          "chinglishFix": "典型中式英语：'I will open the update choice.' 纠正：'I will enable an option for automatic updates.'（'open' 和 'choice' 不适合此语境，'enable an option' 是正确表达。）"
+        }
+      ]
+    }
+  ]
+}
+```
