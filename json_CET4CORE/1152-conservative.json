@@ -1,0 +1,53 @@
+```json
+{
+  "word": "conservative",
+  "definitions": [
+    {
+      "meaning": "倾向于保持传统、避免变化或冒险的政治或社会态度",
+      "usage": "常用于描述政治立场、社会观念或个人态度，强调谨慎、稳定和传统价值。常见于政治讨论、政策分析或描述某人的意识形态。",
+      "collocations": ["conservative values", "conservative approach", "conservative policies", "conservative mindset"],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，讨论是否应该让孩子尽早接触智能手机。张先生认为应该限制孩子使用电子产品，保持传统的教育方式。",
+          "chineseIdea": "张先生认为传统教育更能培养孩子的品德和专注力，不希望孩子过早沉迷于科技。",
+          "sentenceWithBlank": "His @ @ shaped his decision to limit screen time for his children.",
+          "fullEnglishSentence": "His 「conservative values」 shaped his decision to limit screen time for his children.",
+          "chineseTranslation": "他的「保守价值观」影响了他限制孩子使用电子产品时间的决定。",
+          "chinglishFix": "典型中式英语：'His thinking is very traditional.' 纠正：'His conservative values guide his decisions.'（避免直接翻译'传统'，用更自然的'conservative values'表达意识形态。）"
+        },
+        {
+          "scene": "一家公司讨论是否采用激进的营销策略来吸引年轻消费者。李经理建议采取更稳妥的策略，以保护品牌形象。",
+          "chineseIdea": "李经理认为过于大胆的营销可能损害品牌长期声誉，主张谨慎行事。",
+          "sentenceWithBlank": "The manager advocated a @ @ to avoid risking the brand’s reputation.",
+          "fullEnglishSentence": "The manager advocated a 「conservative approach」 to avoid risking the brand’s reputation.",
+          "chineseTranslation": "经理主张采取「保守策略」以避免损害品牌声誉。",
+          "chinglishFix": "典型中式英语：'He wants a safe way.' 纠正：'He prefers a conservative approach.'（'safe way'过于模糊，'conservative approach'更准确地表达谨慎策略。）"
+        }
+      ]
+    },
+    {
+      "meaning": "谨慎或适度的行为方式，通常避免极端或冒险",
+      "usage": "常用于描述决策、投资、行为或风格，强调低风险和稳妥。常见于金融、时尚或日常生活场景。",
+      "collocations": ["conservative estimate", "conservative style", "conservative investment", "conservative choice"],
+      "examples": [
+        {
+          "scene": "在一次财务会议上，团队需要预测下一季度的销售收入。财务主管提出一个较为谨慎的数字，以确保不会高估。",
+          "chineseIdea": "财务主管希望通过低估收入来规避风险，确保公司计划稳妥。",
+          "sentenceWithBlank": "The CFO provided a @ @ to ensure the budget remained realistic.",
+          "fullEnglishSentence": "The CFO provided a 「conservative estimate」 to ensure the budget remained realistic.",
+          "chineseTranslation": "首席财务官提供了一个「保守估计」以确保预算保持现实。",
+          "chinglishFix": "典型中式英语：'He gave a careful number.' 纠正：'He provided a conservative estimate.'（'careful number'不地道，'conservative estimate'是财务领域的习惯表达。）"
+        },
+        {
+          "scene": "小王为公司年会挑选服装，她不想穿得太显眼，选择了一套简洁的黑色西装。",
+          "chineseIdea": "小王希望通过低调的着装展现专业形象，避免过于张扬。",
+          "sentenceWithBlank": "She opted for a @ @ to maintain a professional appearance.",
+          "fullEnglishSentence": "She opted for a 「conservative style」 to maintain a professional appearance.",
+          "chineseTranslation": "她选择了「保守风格」以保持专业形象。",
+          "chinglishFix": "典型中式英语：'She chose a simple dress.' 纠正：'She opted for a conservative style.'（'simple dress'缺乏语境，'conservative style'更准确描述低调专业的着装。）"
+        }
+      ]
+    }
+  ]
+}
+```
