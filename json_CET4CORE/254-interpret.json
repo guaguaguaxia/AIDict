@@ -1,0 +1,76 @@
+```json
+{
+  "word": "interpret",
+  "definitions": [
+    {
+      "meaning": "to explain or understand the meaning of something",
+      "usage": "Used when someone explains or decodes the significance of information, such as a text, speech, or data, often requiring insight or analysis.",
+      "collocations": ["interpret a text", "interpret the data", "interpret someone’s words"],
+      "examples": [
+        {
+          "scene": "在一所大学的中国文学课堂上，教授要求学生分析一首唐诗的深层含义。学生需要结合历史背景和诗人的生平来理解诗的意境。",
+          "chineseIdea": "学生需要通过分析诗歌的语言和背景，阐释诗歌所表达的情感或哲学思想。",
+          "sentenceWithBlank": "The professor asked the students to @ @ @ to uncover its hidden themes.",
+          "fullEnglishSentence": "The professor asked the students to 「interpret a text」 to uncover its hidden themes.",
+          "chineseTranslation": "教授要求学生「解读文本」以揭示其隐藏的主题。",
+          "chinglishFix": "Chinglish: 'Explain the text’s meaning.' Correction: 'Interpret the text to reveal its deeper meaning.' The verb 'interpret' emphasizes a deeper, analytical understanding rather than a surface-level explanation."
+        },
+        {
+          "scene": "在一家科技公司，数据分析团队正在讨论一份复杂的用户行为报告，试图理解用户的使用习惯。",
+          "chineseIdea": "团队需要通过分析数据，得出用户行为的趋势和原因。",
+          "sentenceWithBlank": "The analyst was tasked with @ @ @ to identify user trends.",
+          "fullEnglishSentence": "The analyst was tasked with 「interpreting the data」 to identify user trends.",
+          "chineseTranslation": "分析师被要求「解读数据」以识别用户趋势。",
+          "chinglishFix": "Chinglish: 'Analyze the data’s meaning.' Correction: 'Interpret the data to understand its implications.' 'Interpret' focuses on deriving meaning, not just analyzing."
+        }
+      ]
+    },
+    {
+      "meaning": "to translate spoken or signed language orally",
+      "usage": "Refers to the act of orally translating one language into another in real-time, often in settings like meetings or conferences.",
+      "collocations": ["interpret for someone", "interpret a speech", "interpret simultaneously"],
+      "examples": [
+        {
+          "scene": "在一次国际会议上，一位中国代表正在发表演讲，一位口译员需要将中文演讲实时翻译成英文。",
+          "chineseIdea": "口译员需要快速理解演讲内容，并准确地将其翻译成另一种语言，确保与会者理解。",
+          "sentenceWithBlank": "The translator had to @ @ @ to ensure the audience understood the speech.",
+          "fullEnglishSentence": "The translator had to 「interpret for someone」 to ensure the audience understood the speech.",
+          "chineseTranslation": "口译员需要「为某人翻译」以确保观众理解演讲内容。",
+          "chinglishFix": "Chinglish: 'Translate for him in the meeting.' Correction: 'Interpret for him during the meeting.' 'Interpret' is specific to real-time oral translation, unlike 'translate,' which often refers to written text."
+        },
+        {
+          "scene": "在一次外交会谈中，一位口译员需要将两国领导人的对话进行同声传译，确保双方沟通顺畅。",
+          "chineseIdea": "口译员需要同步将一种语言的对话翻译成另一种语言，保持交流的流畅性。",
+          "sentenceWithBlank": "The interpreter was skilled at @ @ to facilitate seamless communication.",
+          "fullEnglishSentence": "The interpreter was skilled at 「interpreting simultaneously」 to facilitate seamless communication.",
+          "chineseTranslation": "口译员擅长「同步翻译」以促进无缝沟通。",
+          "chinglishFix": "Chinglish: 'Translate at the same time.' Correction: 'Interpret simultaneously.' 'Interpret simultaneously' is the precise term for real-time oral translation."
+        }
+      ]
+    },
+    {
+      "meaning": "to perform or present something in a particular way",
+      "usage": "Used in artistic contexts, such as music, dance, or acting, to describe how someone expresses or performs a piece with their unique style or understanding.",
+      "collocations": ["interpret a role", "interpret a piece", "interpret music"],
+      "examples": [
+        {
+          "scene": "在一场话剧表演中，一位演员正在扮演一个复杂的角色，他需要通过自己的理解来展现角色的内心世界。",
+          "chineseIdea": "演员需要通过自己的表演方式，将角色的情感和动机生动地呈现出来。",
+          "sentenceWithBlank": "The actor’s ability to @ @ @ captivated the audience.",
+          "fullEnglishSentence": "The actor’s ability to 「interpret a role」 captivated the audience.",
+          "chineseTranslation": "演员「诠释角色」的能力深深吸引了观众。",
+          "chinglishFix": "Chinglish: 'Act the role well.' Correction: 'Interpret the role effectively.' 'Interpret' highlights the creative and personal expression in the performance."
+        },
+        {
+          "scene": "在一场钢琴独奏会上，钢琴家正在演奏一首肖邦的夜曲，她通过自己的情感投入为乐曲赋予了独特的风格。",
+          "chineseIdea": "钢琴家需要通过自己的理解和情感，将乐曲演绎出独特的艺术效果。",
+          "sentenceWithBlank": "Her ability to @ @ @ brought new life to the composition.",
+          "fullEnglishSentence": "Her ability to 「interpret a piece」 brought new life to the composition.",
+          "chineseTranslation": "她「诠释乐曲」的能力为作品注入了新的生命。",
+          "chinglishFix": "Chinglish: 'Play the music beautifully.' Correction: 'Interpret the piece with great sensitivity.' 'Interpret' emphasizes the performer’s unique artistic expression."
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "implementation",
+  "definitions": [
+    {
+      "meaning": "将计划、政策或系统付诸实践或执行的过程",
+      "usage": "指将抽象的计划、策略或设计转化为实际行动或具体结果，通常用于正式或技术性语境，如政策制定、项目管理或软件开发。",
+      "collocations": ["carry out a plan", "put into practice", "roll out a strategy"],
+      "examples": [
+        {
+          "scene": "一家科技公司正在推出新的客户管理系统，项目经理需要确保所有部门都能顺利过渡到新系统。",
+          "chineseIdea": "项目经理需要将新系统的计划变成实际操作，确保各部门能够使用新系统。",
+          "sentenceWithBlank": "The project manager worked hard to @ @ @ to ensure a smooth transition.",
+          "fullEnglishSentence": "The project manager worked hard to 「carry out a plan」 to ensure a smooth transition.",
+          "chineseTranslation": "项目经理努力「执行计划」，以确保顺利过渡。",
+          "chinglishFix": "典型中式英语：'The manager do the plan.' 纠正：'The manager carries out the plan.'（中文直译为“做计划”，但英文中“执行计划”用carry out更自然。）"
+        },
+        {
+          "scene": "政府宣布了一项新的环保政策，并指定了一个委员会来监督其在全国范围内的执行。",
+          "chineseIdea": "政府希望将环保政策从纸面上的规定变成实际行动，减少污染。",
+          "sentenceWithBlank": "The committee was tasked with @ @ @ to reduce pollution nationwide.",
+          "fullEnglishSentence": "The committee was tasked with 「put into practice」 to reduce pollution nationwide.",
+          "chineseTranslation": "委员会被指派「付诸实践」，以在全国范围内减少污染。",
+          "chinglishFix": "典型中式英语：'The committee make the policy real.' 纠正：'The committee puts the policy into practice.'（中文“让政策变成现实”在英文中更常用put into practice表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在计算机领域中，指将设计或算法转化为可运行的程序或系统的过程",
+      "usage": "主要用于技术性语境，描述将理论设计或算法转化为实际代码或软件系统的过程，常出现在编程、软件工程等领域。",
+      "collocations": ["develop a system", "deploy a solution", "build an application"],
+      "examples": [
+        {
+          "scene": "一家初创公司正在开发一款新的移动应用，程序员团队需要将设计师的原型转化为实际的应用程序。",
+          "chineseIdea": "程序员需要把设计图变成一个可以实际运行的手机应用。",
+          "sentenceWithBlank": "The developers spent months @ @ @ based on the prototype.",
+          "fullEnglishSentence": "The developers spent months 「building an application」 based on the prototype.",
+          "chineseTranslation": "开发人员花了几个月时间「构建应用程序」，基于原型。",
+          "chinglishFix": "典型中式英语：'The developers make the application.' 纠正：'The developers build the application.'（中文“制作应用”在技术语境中更常用build来表达。）"
+        },
+        {
+          "scene": "一家公司需要将其老旧的库存管理系统升级，IT团队被要求推出一个更高效的解决方案。",
+          "chineseIdea": "IT团队需要将新的库存管理方案转化为实际可用的系统。",
+          "sentenceWithBlank": "The IT team was responsible for @ @ @ to improve efficiency.",
+          "fullEnglishSentence": "The IT team was responsible for 「deploying a solution」 to improve efficiency.",
+          "chineseTranslation": "IT团队负责「部署解决方案」，以提高效率。",
+          "chinglishFix": "典型中式英语：'The team put the solution.' 纠正：'The team deployed the solution.'（中文“放置解决方案”在英文中用deploy更贴合技术语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "initiate",
+  "definitions": [
+    {
+      "meaning": "开始或启动某事物",
+      "usage": "用作及物动词，指正式或主动地开始一个过程、项目、活动或讨论。通常用于描述某人采取行动以启动某事，强调主动性和起始阶段。",
+      "collocations": ["initiate a project", "initiate a conversation", "initiate a process"],
+      "examples": [
+        {
+          "scene": "在一间现代化的办公室里，项目经理李明正在与团队开会，讨论新产品的开发计划。他希望通过这次会议正式启动项目，分配任务并设定时间表。",
+          "chineseIdea": "李明想要通过会议让大家明确目标，正式开始新产品的开发工作，体现他的领导力和主动性。",
+          "sentenceWithBlank": "To get things moving, Li Ming decided to @ @ @ with his team.",
+          "fullEnglishSentence": "To get things moving, Li Ming decided to 「initiate a project」 with his team.",
+          "chineseTranslation": "为了推动进展，李明决定与团队「启动一个项目」。",
+          "chinglishFix": "典型中式英语：'Li Ming want to start project with team.' 纠正：'start' 过于笼统，缺乏正式感，且语法不完整。应为 'Li Ming decided to initiate a project with his team.'，使用 'initiate' 更能体现正式启动的含义，并需注意语法结构。"
+        },
+        {
+          "scene": "在一个行业会议的休息时间，张华注意到一位潜在的合作伙伴独自站在一旁。他决定主动上前打招呼，以建立联系并探讨可能的合作机会。",
+          "chineseIdea": "张华希望通过主动与对方交谈，打破沉默，建立初步的业务关系，展现自己的社交能力。",
+          "sentenceWithBlank": "Seeing an opportunity, Zhang Hua chose to @ @ @ with the potential partner.",
+          "fullEnglishSentence": "Seeing an opportunity, Zhang Hua chose to 「initiate a conversation」 with the potential partner.",
+          "chineseTranslation": "看到机会，张华选择与潜在合作伙伴「发起一次对话」。",
+          "chinglishFix": "典型中式英语：'Zhang Hua want to talk with partner.' 纠正：'talk' 过于简单，缺乏主动发起的含义，且语法不完整。应为 'Zhang Hua chose to initiate a conversation with the potential partner.'，'initiate' 更能突出主动性和正式感。"
+        }
+      ]
+    },
+    {
+      "meaning": "使某人加入或介绍某人进入某个组织或团体",
+      "usage": "用作及物动词，指通过仪式或程序使某人成为某个组织、团体或秘密社团的成员，常见于正式或传统语境，如宗教、社团或秘密组织。",
+      "collocations": ["initiate a member", "initiate someone into", "initiate a ritual"],
+      "examples": [
+        {
+          "scene": "在一个古老的武术学校，新学员王强通过一系列严格的测试后，终于迎来了正式加入的仪式。学校长老在仪式上宣布他成为正式成员。",
+          "chineseIdea": "王强通过努力获得认可，学校通过仪式正式接纳他，象征他成为团体的一部分。",
+          "sentenceWithBlank": "After passing the tests, the elder decided to @ @ @ during the ceremony.",
+          "fullEnglishSentence": "After passing the tests, the elder decided to 「initiate a member」 during the ceremony.",
+          "chineseTranslation": "通过测试后，长老决定在仪式上「接纳一名成员」。",
+          "chinglishFix": "典型中式英语：'Elder want to let Wang Qiang join group.' 纠正：'join' 缺乏仪式感，且表达模糊。应为 'The elder decided to initiate a member during the ceremony.'，'initiate' 更能体现正式接纳的含义。"
+        },
+        {
+          "scene": "在一个神秘的文学社团中，新成员李娜被邀请参加一个秘密仪式，社团领袖通过阅读古老誓言正式将她引入社团。",
+          "chineseIdea": "李娜通过仪式被正式引入社团，感受到归属感和社团的神秘氛围。",
+          "sentenceWithBlank": "The leader performed a ritual to @ @ @ the literary society.",
+          "fullEnglishSentence": "The leader performed a ritual to 「initiate someone into」 the literary society.",
+          "chineseTranslation": "社团领袖通过仪式「将某人引入」文学社团。",
+          "chinglishFix": "典型中式英语：'Leader make Li Na join the society.' 纠正：'make join' 表达不自然，缺乏仪式感。应为 'The leader performed a ritual to initiate someone into the literary society.'，'initiate into' 更能突出正式引入的含义。"
+        }
+      ]
+    }
+  ]
+}
+```

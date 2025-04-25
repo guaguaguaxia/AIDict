@@ -1,0 +1,53 @@
+```json
+{
+  "word": "inflation",
+  "definitions": [
+    {
+      "meaning": "A general increase in prices and fall in the purchasing value of money",
+      "usage": "Refers to an economic condition where the prices of goods and services rise over time, reducing the purchasing power of a currency. Commonly used in discussions about economics, finance, and policy.",
+      "collocations": ["control inflation", "high inflation", "combat inflation", "inflation rate"],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，大家讨论最近的生活成本上升，抱怨物价上涨导致生活压力增加。",
+          "chineseIdea": "物价持续上涨，工资却没有跟上，生活变得更贵了。",
+          "sentenceWithBlank": "The government is struggling to @ @ because prices are rising too quickly.",
+          "fullEnglishSentence": "The government is struggling to 「control inflation」 because prices are rising too quickly.",
+          "chineseTranslation": "政府正努力「控制通货膨胀」，因为物价上涨得太快了。",
+          "chinglishFix": "Chinglish: 'The price is inflating so fast.' Correct: 'Prices are rising due to high inflation.'"
+        },
+        {
+          "scene": "一位经济学家在电视节目中分析当前经济形势，提到物价快速上涨对消费者的影响。",
+          "chineseIdea": "物价上涨过快，导致普通人购买力下降，生活质量受到影响。",
+          "sentenceWithBlank": "Consumers are feeling the impact of @ @, as their salaries can’t keep up.",
+          "fullEnglishSentence": "Consumers are feeling the impact of 「high inflation」, as their salaries can’t keep up.",
+          "chineseTranslation": "消费者正感受到「高通货膨胀」的影响，因为他们的工资跟不上。",
+          "chinglishFix": "Chinglish: 'The inflation is too high, so we can’t buy things.' Correct: 'High inflation is making it harder to afford things.'"
+        }
+      ]
+    },
+    {
+      "meaning": "The act of inflating or the state of being inflated, such as filling something with air or gas",
+      "usage": "Refers to the physical act of expanding or filling something, like a balloon or tire, with air or gas. Used in contexts involving physical objects or metaphorically for exaggeration.",
+      "collocations": ["inflation pressure", "inflation device", "rapid inflation", "balloon inflation"],
+      "examples": [
+        {
+          "scene": "在一个户外派对上，工作人员正在为活动准备彩色气球，忙着把气球充满氦气。",
+          "chineseIdea": "气球需要充满气体才能漂浮起来，工作人员忙着准备。",
+          "sentenceWithBlank": "The team checked the @ @ to ensure the balloons floated properly.",
+          "fullEnglishSentence": "The team checked the 「inflation pressure」 to ensure the balloons floated properly.",
+          "chineseTranslation": "团队检查了「充气压力」，以确保气球能正常漂浮。",
+          "chinglishFix": "Chinglish: 'We need to inflate the balloon with air.' Correct: 'We need to fill the balloon with helium for proper inflation.'"
+        },
+        {
+          "scene": "一位自行车爱好者在骑行前检查轮胎，确保轮胎气压足够以保证安全。",
+          "chineseIdea": "轮胎需要足够的空气压力，否则骑行会不安全或不顺畅。",
+          "sentenceWithBlank": "She used a pump for @ @ to make sure the tires were ready for the ride.",
+          "fullEnglishSentence": "She used a pump for 「rapid inflation」 to make sure the tires were ready for the ride.",
+          "chineseTranslation": "她用泵进行「快速充气」，以确保轮胎为骑行做好准备。",
+          "chinglishFix": "Chinglish: 'I need to blow air into the tire.' Correct: 'I need to inflate the tire with a pump.'"
+        }
+      ]
+    }
+  ]
+}
+```

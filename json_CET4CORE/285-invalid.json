@@ -1,0 +1,53 @@
+```json
+{
+  "word": "invalid",
+  "definitions": [
+    {
+      "meaning": "不合法的；无效的",
+      "usage": "指某事物（如文件、票据、合同等）由于不符合法律、规则或要求而失去效力或不被认可。",
+      "collocations": ["invalid contract", "invalid ticket", "invalid license"],
+      "examples": [
+        {
+          "scene": "在机场，一个人试图用一张过期的机票登机，但被工作人员拒绝。",
+          "chineseIdea": "想表达某张票因为过期而无法使用。",
+          "sentenceWithBlank": "The passenger was denied boarding because their ticket was @ @.",
+          "fullEnglishSentence": "The passenger was denied boarding because their ticket was 「invalid ticket」.",
+          "chineseTranslation": "乘客被拒绝登机，因为他们的票是「无效的票」。",
+          "chinglishFix": "典型中式英语：'The ticket is no use.' 纠正：'The ticket is invalid.'"
+        },
+        {
+          "scene": "在法庭上，律师指出对方提交的合同缺少必要签名，因此不具备法律效力。",
+          "chineseIdea": "想说明一份合同因为缺少关键要素而不能生效。",
+          "sentenceWithBlank": "The judge ruled that the agreement was an @ @ due to missing signatures.",
+          "fullEnglishSentence": "The judge ruled that the agreement was an 「invalid contract」 due to missing signatures.",
+          "chineseTranslation": "法官裁定该协议因缺少签名而是「无效的合同」。",
+          "chinglishFix": "典型中式英语：'This contract is not legal.' 纠正：'This contract is invalid.'"
+        }
+      ]
+    },
+    {
+      "meaning": "（人）残疾的；病弱的",
+      "usage": "指人因疾病或残疾而无法正常工作或生活，通常带有正式或较老式的语气。",
+      "collocations": ["invalid person", "invalid veteran", "invalid care"],
+      "examples": [
+        {
+          "scene": "在社区中心，志愿者为一位因车祸受伤而行动不便的老人提供帮助。",
+          "chineseIdea": "想描述一个人因为身体状况而需要特别照顾。",
+          "sentenceWithBlank": "The community provides support for every @ @ in the neighborhood.",
+          "fullEnglishSentence": "The community provides support for every 「invalid person」 in the neighborhood.",
+          "chineseTranslation": "社区为附近每个「残疾的人」提供支持。",
+          "chinglishFix": "典型中式英语：'He is a sick person.' 纠正：'He is an invalid person.'"
+        },
+        {
+          "scene": "在医院，护士专门负责照顾因长期疾病而卧床的退伍军人。",
+          "chineseIdea": "想说明某人因健康问题而需要医疗护理。",
+          "sentenceWithBlank": "The hospital has a wing dedicated to the care of @ @.",
+          "fullEnglishSentence": "The hospital has a wing dedicated to the care of 「invalid veterans」.",
+          "chineseTranslation": "医院有一个专门为「病弱的退伍军人」提供护理的区域。",
+          "chinglishFix": "典型中式英语：'They are weak soldiers.' 纠正：'They are invalid veterans.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "invade",
+  "definitions": [
+    {
+      "meaning": "军事入侵或进攻一个国家或地区",
+      "usage": "指军队或武装力量进入他国领土，通常带有敌意或征服目的，常用于描述战争或冲突。",
+      "collocations": ["invade a country", "invade a territory", "invade with force"],
+      "examples": [
+        {
+          "scene": "在一个历史课堂上，老师正在讲解二战期间的欧洲局势，学生们讨论德国对邻国的军事行动。",
+          "chineseIdea": "描述一个国家用武力强行进入另一个国家，占领其领土。",
+          "sentenceWithBlank": "The army decided to @ @ @ to expand their control.",
+          "fullEnglishSentence": "The army decided to 「invade a country」 to expand their control.",
+          "chineseTranslation": "军队决定「入侵一个国家」以扩大他们的控制。",
+          "chinglishFix": "典型中式英语：'The army enter a country with force.' 纠正：'The army invaded a country.'（'enter with force'显得生硬，'invade'更准确表达军事入侵的含义。）"
+        },
+        {
+          "scene": "在一部关于殖民时代的纪录片中，解说员提到欧洲国家如何争夺新大陆的控制权。",
+          "chineseIdea": "描述殖民者通过武力进入一片新的领土，试图建立统治。",
+          "sentenceWithBlank": "The colonial powers planned to @ @ @ to establish their dominance.",
+          "fullEnglishSentence": "The colonial powers planned to 「invade a territory」 to establish their dominance.",
+          "chineseTranslation": "殖民列强计划「入侵一片领土」以确立他们的统治。",
+          "chinglishFix": "典型中式英语：'The powers go into a territory.' 纠正：'The powers invaded a territory.'（'go into'过于模糊，'invade'更能体现军事行动的侵略性。）"
+        }
+      ]
+    },
+    {
+      "meaning": "侵入或干扰某人的空间、隐私或生活",
+      "usage": "指未经允许进入某人的私人领域，如个人空间、隐私或时间，常带有负面或不受欢迎的含义。",
+      "collocations": ["invade privacy", "invade personal space", "invade someone’s life"],
+      "examples": [
+        {
+          "scene": "在一个咖啡店里，小明和朋友聊天，但隔壁桌的陌生人不断偷听并插话，让他们感到不舒服。",
+          "chineseIdea": "描述某人未经允许干涉他人的私人对话，令人感到被打扰。",
+          "sentenceWithBlank": "The stranger’s behavior began to @ @, making them uneasy.",
+          "fullEnglishSentence": "The stranger’s behavior began to 「invade privacy」, making them uneasy.",
+          "chineseTranslation": "陌生人的行为开始「侵犯隐私」，让他们感到不安。",
+          "chinglishFix": "典型中式英语：'The stranger disturb their privacy.' 纠正：'The stranger invaded their privacy.'（'disturb'较为轻描淡写，'invade'更能表达对隐私的强烈干扰。）"
+        },
+        {
+          "scene": "小红在公司午休时，同事总是在她旁边大声打电话，让她无法安静休息。",
+          "chineseIdea": "描述某人通过噪音或行为干扰他人的私人空间。",
+          "sentenceWithBlank": "Her colleague’s loud calls continued to @ @ @ during her break.",
+          "fullEnglishSentence": "Her colleague’s loud calls continued to 「invade personal space」 during her break.",
+          "chineseTranslation": "她同事的大声通话在休息时间持续「侵犯个人空间」。",
+          "chinglishFix": "典型中式英语：'Her colleague affect her space.' 纠正：'Her colleague invaded her personal space.'（'affect'过于笼统，'invade personal space'更精确表达空间被干扰。）"
+        }
+      ]
+    },
+    {
+      "meaning": "（疾病、害虫等）侵袭或扩散",
+      "usage": "指疾病、害虫或类似事物迅速传播或侵入某个区域，通常用于描述自然或生物现象。",
+      "collocations": ["invade a region", "invade crops", "invade the body"],
+      "examples": [
+        {
+          "scene": "在一则农业新闻报道中，记者描述一种外来昆虫如何破坏当地的农田。",
+          "chineseIdea": "描述害虫快速扩散到农田，导致庄稼受损。",
+          "sentenceWithBlank": "The pests began to @ @ @, threatening the harvest.",
+          "fullEnglishSentence": "The pests began to 「invade crops」, threatening the harvest.",
+          "chineseTranslation": "害虫开始「侵袭庄稼」，威胁收成。",
+          "chinglishFix": "典型中式英语：'The pests attack the crops.' 纠正：'The pests invaded the crops.'（'attack'虽然接近，但'invade'更常用于描述害虫的扩散行为。）"
+        },
+        {
+          "scene": "在医院里，医生向病人解释感冒病毒如何影响身体，导致症状加重。",
+          "chineseIdea": "描述病毒进入人体并引发疾病。",
+          "sentenceWithBlank": "The virus can @ @ @ and cause severe symptoms.",
+          "fullEnglishSentence": "The virus can 「invade the body」 and cause severe symptoms.",
+          "chineseTranslation": "病毒可以「侵入身体」并引发严重症状。",
+          "chinglishFix": "典型中式英语：'The virus come into the body.' 纠正：'The virus invades the body.'（'come into'显得平淡，'invade'更能体现病毒的侵入性。）"
+        }
+      ]
+    }
+  ]
+}
+```
