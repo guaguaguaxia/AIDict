@@ -1,0 +1,61 @@
+```json
+{
+  "word": "encourage",
+  "definitions": [
+    {
+      "meaning": "激励或鼓舞某人做某事",
+      "usage": "常用于表达通过言语、行动或支持来激发某人的信心、动力或行动，通常带有积极的情感色彩。",
+      "collocations": [
+        "encourage someone to do something",
+        "encourage participation",
+        "encourage creativity"
+      ],
+      "examples": [
+        {
+          "scene": "在一个学校的课堂上，老师注意到一名学生对科学实验表现得很犹豫，担心自己做不好。老师想通过表扬和引导激发学生的信心。",
+          "chineseIdea": "老师希望通过肯定学生的努力，让学生更有动力去尝试新的实验。",
+          "sentenceWithBlank": "The teacher @ @ @ try the experiment with confidence.",
+          "fullEnglishSentence": "The teacher 「encouraged her to」 try the experiment with confidence.",
+          "chineseTranslation": "老师「鼓励她」自信地尝试这个实验。",
+          "chinglishFix": "典型中式英语：'Teacher let her try experiment bravely.' 纠正：'The teacher encouraged her to try the experiment with confidence.'（中式英语常忽略搭配和语义的自然表达，需使用encourage并注意搭配结构）"
+        },
+        {
+          "scene": "在一个社区活动中，组织者希望更多居民参与讨论关于环保的议题，但很多人因为害羞或缺乏兴趣而沉默。",
+          "chineseIdea": "组织者通过强调每个人的意见都很重要，激发大家加入讨论。",
+          "sentenceWithBlank": "The organizer’s speech @ @ in the environmental discussion.",
+          "fullEnglishSentence": "The organizer’s speech 「encouraged participation」 in the environmental discussion.",
+          "chineseTranslation": "组织者的演讲「鼓励参与」环保讨论。",
+          "chinglishFix": "典型中式英语：'Speech make people join discussion.' 纠正：'The organizer’s speech encouraged participation in the environmental discussion.'（中式英语常简化动词搭配，需使用encourage participation表达自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "促进或推动某事物的发展",
+      "usage": "指通过行动或条件促进某事物（如行为、趋势或结果）的发生或增长，常用于较为客观的语境。",
+      "collocations": [
+        "encourage growth",
+        "encourage development",
+        "encourage investment"
+      ],
+      "examples": [
+        {
+          "scene": "一个城市政府希望通过税收优惠吸引更多企业来投资，从而促进当地经济。",
+          "chineseIdea": "政府希望通过优惠政策让更多企业愿意在本地开设工厂，带动经济繁荣。",
+          "sentenceWithBlank": "The new tax policy @ @ in the local economy.",
+          "fullEnglishSentence": "The new tax policy 「encouraged growth」 in the local economy.",
+          "chineseTranslation": "新的税收政策「促进了增长」在当地经济中。",
+          "chinglishFix": "典型中式英语：'Policy help economy grow.' 纠正：'The new tax policy encouraged growth in the local economy.'（中式英语常缺少具体动词搭配，需用encourage growth表达促进）"
+        },
+        {
+          "scene": "一个科技公司在设计新产品时，领导希望通过开放的工作环境激发员工的创新想法。",
+          "chineseIdea": "公司希望通过自由的氛围让员工提出更多有创意的解决方案。",
+          "sentenceWithBlank": "The open workspace @ @ of innovative ideas.",
+          "fullEnglishSentence": "The open workspace 「encouraged development」 of innovative ideas.",
+          "chineseTranslation": "开放的工作空间「促进了发展」创新想法。",
+          "chinglishFix": "典型中式英语：'Workspace make ideas grow.' 纠正：'The open workspace encouraged development of innovative ideas.'（中式英语常忽略encourage development的固定搭配）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "donation",
+  "definitions": [
+    {
+      "meaning": "为慈善或公益事业无偿提供的金钱或物资",
+      "usage": "通常指个人或组织向慈善机构、基金会或需要帮助的团体提供资金、物品或服务，常用于正式或半正式语境。",
+      "collocations": ["make a donation", "charitable donation", "blood donation"],
+      "examples": [
+        {
+          "scene": "在一场学校组织的慈善活动中，学生们被鼓励为贫困地区的儿童筹集资金。每个人都可以贡献自己的一份力量，比如捐款或捐物。",
+          "chineseIdea": "我想表达某人通过捐款来支持慈善事业的行为，强调他们的慷慨。",
+          "sentenceWithBlank": "She decided to @ @ @ to the school’s fundraiser for underprivileged children.",
+          "fullEnglishSentence": "She decided to 「make a donation」 to the school’s fundraiser for underprivileged children.",
+          "chineseTranslation": "她决定为学校的贫困儿童筹款活动「捐款」。",
+          "chinglishFix": "典型中式英语：She gave money to the fundraiser. 纠正：She made a donation to the fundraiser.（‘gave money’过于笼统，‘make a donation’更具体且符合英语习惯。）"
+        },
+        {
+          "scene": "一家公司举办年度慈善晚宴，邀请员工和客户参与，所得款项将用于支持本地医院的医疗设备升级。",
+          "scene": "我想表达公司通过捐款支持社区的行为，突出其社会责任感。",
+          "sentenceWithBlank": "The company announced a @ @ to support the local hospital’s new equipment.",
+          "fullEnglishSentence": "The company announced a 「charitable donation」 to support the local hospital’s new equipment.",
+          "chineseTranslation": "公司宣布了一笔「慈善捐款」以支持本地医院的新设备。",
+          "chinglishFix": "典型中式英语：The company donated money for the hospital. 纠正：The company made a charitable donation to the hospital.（‘donated money’缺乏语境细节，‘charitable donation’更正式且贴合语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "为医疗或科学目的捐赠的身体部位或物质（如血液、器官等）",
+      "usage": "指个人自愿提供血液、器官或其他身体物质，用于医疗救治或研究，通常带有强烈的公益和牺牲精神。",
+      "collocations": ["blood donation", "organ donation", "donate blood"],
+      "examples": [
+        {
+          "scene": "在一次社区组织的献血活动中，许多志愿者来到移动献血站，希望通过自己的贡献帮助急需血液的病人。",
+          "chineseIdea": "我想表达某人通过献血来帮助他人的善举，强调无私奉献。",
+          "sentenceWithBlank": "He participates in @ @ every year to help save lives.",
+          "fullEnglishSentence": "He participates in 「blood donation」 every year to help save lives.",
+          "chineseTranslation": "他每年都参加「献血」活动以帮助拯救生命。",
+          "chinglishFix": "典型中式英语：He gives blood every year. 纠正：He participates in blood donation every year.（‘gives blood’不够正式，‘blood donation’是标准表达。）"
+        },
+        {
+          "scene": "一位年轻人在填写医疗文件时，决定登记成为器官捐献者，希望在未来能为他人带来生的希望。",
+          "chineseIdea": "我想表达某人愿意在去世后捐献器官的决定，突出其对生命的尊重。",
+          "sentenceWithBlank": "She signed up for @ @ to give others a chance at life.",
+          "fullEnglishSentence": "She signed up for 「organ donation」 to give others a chance at life.",
+          "chineseTranslation": "她登记了「器官捐献」，以给他人生的机会。",
+          "chinglishFix": "典型中式英语：She wants to donate her organs. 纠正：She signed up for organ donation.（‘donate her organs’过于直接，‘signed up for organ donation’更符合正式登记的语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

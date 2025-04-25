@@ -1,0 +1,76 @@
+```json
+{
+  "word": "equal",
+  "definitions": [
+    {
+      "meaning": "相同的，相等的（指数量、大小、程度或价值上相同）",
+      "usage": "用作形容词，表示两个或多个事物在某一方面具有相同的值、数量或程度。常用于数学、比较或描述平衡状态。",
+      "collocations": ["be equal to", "equal in size", "equal amount of"],
+      "examples": [
+        {
+          "scene": "在学校里，老师正在教授数学课，学生们需要比较两个数字的大小。",
+          "chineseIdea": "学生们需要判断两个数字是否在数值上相同。",
+          "sentenceWithBlank": "The two numbers @ @ @ five.",
+          "fullEnglishSentence": "The two numbers 「are equal to」 five.",
+          "chineseTranslation": "这两个数字「相等于」五。",
+          "chinglishFix": "典型中式英语：'The two numbers are same to five.' 纠正：'The two numbers are equal to five.'（'same' 通常不与 'to' 搭配，且 'equal' 更适合描述数值相等）"
+        },
+        {
+          "scene": "在一次家庭聚会上，妈妈在分蛋糕，确保每个孩子得到同样大小的一块。",
+          "chineseIdea": "妈妈希望每个孩子得到的蛋糕在大小上是一样的。",
+          "sentenceWithBlank": "She cut the cake so that each piece was @ @ @.",
+          "fullEnglishSentence": "She cut the cake so that each piece was 「equal in size」.",
+          "chineseTranslation": "她把蛋糕切得每块「大小相等」。",
+          "chinglishFix": "典型中式英语：'Each piece has same size.' 纠正：'Each piece is equal in size.'（'same' 需要 'the same as' 结构，'equal in size' 更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "平等的（指权利、机会或地位上的平等）",
+      "usage": "用作形容词，表示在权利、地位或机会等方面没有差别。常用于社会、法律或道德语境，强调公平。",
+      "collocations": ["equal rights", "equal opportunities", "equal treatment"],
+      "examples": [
+        {
+          "scene": "在一个职场会议中，员工们讨论如何确保性别平等。",
+          "chineseIdea": "公司希望所有员工不论性别都享有相同的权利。",
+          "sentenceWithBlank": "The company is committed to promoting @ @ for all employees.",
+          "fullEnglishSentence": "The company is committed to promoting 「equal rights」 for all employees.",
+          "chineseTranslation": "公司致力于为所有员工促进「平等权利」。",
+          "chinglishFix": "典型中式英语：'All employees have same rights.' 纠正：'All employees have equal rights.'（'same' 不适合正式语境，'equal rights' 是固定搭配）"
+        },
+        {
+          "scene": "在学校里，校长发表演讲，强调每个学生都应有公平的学习机会。",
+          "chineseIdea": "校长希望确保每个学生都能获得同等的教育资源。",
+          "sentenceWithBlank": "Our school ensures that every student has @ @.",
+          "fullEnglishSentence": "Our school ensures that every student has 「equal opportunities」.",
+          "chineseTranslation": "我们学校确保每个学生都有「平等机会」。",
+          "chinglishFix": "典型中式英语：'Every student has same chance.' 纠正：'Every student has equal opportunities.'（'chance' 不够正式，'equal opportunities' 是标准表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "匹敌的，相当的（指能力或水平上相当）",
+      "usage": "用作形容词，表示某人在能力、技能或水平上能与另一人或物相比拟。常用于描述竞争或能力比较。",
+      "collocations": ["equal to the task", "equal in ability", "no equal"],
+      "examples": [
+        {
+          "scene": "在公司里，经理正在评估谁能胜任一个复杂的项目。",
+          "chineseIdea": "经理需要确认某位员工是否有足够的能力完成这项工作。",
+          "sentenceWithBlank": "She proved she was @ @ @ of leading the project.",
+          "fullEnglishSentence": "She proved she was 「equal to the task」 of leading the project.",
+          "chineseTranslation": "她证明自己「足以胜任」领导这个项目。",
+          "chinglishFix": "典型中式英语：'She is enough for the task.' 纠正：'She is equal to the task.'（'enough' 不适合此语境，'equal to the task' 是固定表达）"
+        },
+        {
+          "scene": "在一次国际象棋比赛中，观众们惊讶于年轻选手的表现。",
+          "chineseIdea": "这位年轻选手的能力与经验丰富的对手不相上下。",
+          "sentenceWithBlank": "The young player was @ @ @ to the champion.",
+          "fullEnglishSentence": "The young player was 「equal in ability」 to the champion.",
+          "chineseTranslation": "这位年轻选手「能力相当」于冠军。",
+          "chinglishFix": "典型中式英语：'The young player has same ability as the champion.' 纠正：'The young player is equal in ability to the champion.'（'same' 需要 'the same as'，'equal in ability' 更简洁）"
+        }
+      ]
+    }
+  ]
+}
+```

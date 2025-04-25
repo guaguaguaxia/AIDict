@@ -1,0 +1,77 @@
+```json
+{
+  "word": "feature",
+  "definitions": [
+    {
+      "meaning": "一个产品、系统或物体的特定功能或特性",
+      "usage": "用作名词，指产品、设备、软件等具有的某种功能或特性，常用于描述技术、设计或性能方面的具体特点。",
+      "collocations": ["key feature", "unique feature", "advanced feature"],
+      "examples": [
+        {
+          "scene": "在科技公司的新产品发布会上，产品经理正在向观众介绍一款新型智能手机的亮点。",
+          "chineseIdea": "想突出这款手机的某个特别功能，比如它的防水性能，来吸引消费者的注意。",
+          "sentenceWithBlank": "The new smartphone has a @ @ that allows it to be submerged in water for up to 30 minutes.",
+          "fullEnglishSentence": "The new smartphone has a 「key feature」 that allows it to be submerged in water for up to 30 minutes.",
+          "chineseTranslation": "这款新智能手机有一个「关键特性」，可以让它在水下浸泡长达30分钟。",
+          "chinglishFix": "典型中式英语：This phone has a very good function to waterproof. 纠正：This phone has a 「key feature」 that makes it waterproof."
+        },
+        {
+          "scene": "在软件开发团队的会议中，工程师讨论新版应用的功能升级。",
+          "chineseIdea": "想说明新版应用新增了一个独特的功能，比如个性化推荐系统。",
+          "sentenceWithBlank": "Our app’s @ @ provides users with tailored content based on their preferences.",
+          "fullEnglishSentence": "Our app’s 「unique feature」 provides users with tailored content based on their preferences.",
+          "chineseTranslation": "我们应用的「独特特性」根据用户的偏好为他们提供定制化内容。",
+          "chinglishFix": "典型中式英语：The app has a special function for personal content. 纠正：The app has a 「unique feature」 that offers personalized content."
+        }
+      ]
+    },
+    {
+      "meaning": "某事物或人的显著特点或特色",
+      "usage": "用作名词，指某人、某地或某事物显著或典型的属性，常用于描述外貌、地理、文化或风格的突出特点。",
+      "collocations": ["distinctive feature", "common feature", "defining feature"],
+      "examples": [
+        {
+          "scene": "在旅游宣传活动中，导游向游客介绍一个古镇的独特魅力。",
+          "chineseIdea": "想强调古镇的某个显著特点，比如古老的石板街道，来吸引游客。",
+          "sentenceWithBlank": "The ancient town’s @ @ is its well-preserved cobblestone streets.",
+          "fullEnglishSentence": "The ancient town’s 「distinctive feature」 is its well-preserved cobblestone streets.",
+          "chineseTranslation": "这座古镇的「显著特色」是它保存完好的鹅卵石街道。",
+plevels.",
+          "chinglishFix": "典型中式英语：The town has a special character of old streets. 纠正：The town’s 「distinctive feature」 is its historic cobblestone streets."
+        },
+        {
+          "scene": "在艺术展览的开幕式上，策展人向观众介绍一位画家的作品风格。",
+          "chineseIdea": "想突出这位画家作品中一个标志性的特点，比如大胆的色彩运用。",
+          "sentenceWithBlank": "The artist’s @ @ is her bold use of vibrant colors.",
+          "fullEnglishSentence": "The artist’s 「defining feature」 is her bold use of vibrant colors.",
+          "chineseTranslation": "这位艺术家的「标志性特点」是她大胆使用鲜艳的色彩。",
+          "chinglishFix": "典型中式英语：Her paintings have a special feature of bright colors. 纠正：Her paintings’ 「defining feature」 is the bold use of vibrant colors."
+        }
+      ]
+    },
+    {
+      "meaning": "在电影、电视或媒体中作为主要内容或明星出现",
+      "usage": "用作动词或名词，指某人或某事物在节目、电影或活动中作为主要亮点或明星出现。",
+      "collocations": ["feature film", "feature article", "feature prominently"],
+      "examples": [
+        {
+          "scene": "在电影节的宣传活动中，组织者介绍即将上映的一部新片。",
+          "chineseIdea": "想说明这部电影是一部重要的长篇故事片，吸引影迷关注。",
+          "sentenceWithBlank": "This year’s festival will showcase a new @ @ about a historical event.",
+          "fullEnglishSentence": "This year’s festival will showcase a new 「feature film」 about a historical event.",
+          "chineseTranslation": "今年的电影节将展映一部关于历史事件的新「故事片」。",
+          "chinglishFix": "典型中式英语：The festival has a long movie about history. 纠正：The festival will showcase a 「feature film」 about a historical event."
+        },
+        {
+          "scene": "在杂志编辑会议中，编辑讨论下一期封面故事的主题。",
+          "chineseIdea": "想提议一篇关于某位名人的深度报道作为杂志的主要内容。",
+          "sentenceWithBlank": "The next issue will include a @ @ on a famous environmental activist.",
+          "fullEnglishSentence": "The next issue will include a 「feature article」 on a famous environmental activist.",
+          "chineseTranslation": "下一期杂志将包含一篇关于一位著名环保活动家的「专题文章」。",
+          "chinglishFix": "典型中式英语：The magazine will have a special story about an activist. 纠正：The magazine will include a 「feature article」 on an environmental activist."
+        }
+      ]
+    }
+  ]
+}
+```
