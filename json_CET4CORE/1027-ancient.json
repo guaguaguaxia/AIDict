@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ancient",
+  "definitions": [
+    {
+      "meaning": "非常古老的，属于遥远过去的",
+      "usage": "常用于描述存在于很久以前的事物，如文明、建筑、传统等，通常带有历史或时间的深远感。",
+      "collocations": ["ancient ruins", "ancient civilization", "ancient tradition"],
+      "examples": [
+        {
+          "scene": "一位游客在埃及旅行，站在金字塔前，感叹其悠久的历史。",
+          "chineseIdea": "游客想表达金字塔是几千年前的遗迹，令人震撼。",
+          "sentenceWithBlank": "The @ @ in Egypt never fail to amaze visitors with their grandeur.",
+          "fullEnglishSentence": "The 「ancient ruins」 in Egypt never fail to amaze visitors with their grandeur.",
+          "chineseTranslation": "埃及的「古老遗迹」总是以其壮观令游客惊叹。",
+          "chinglishFix": "典型中式英语：'Very old ruins in Egypt are amazing.' 纠正：使用 'ancient ruins' 更自然，体现历史深远感，避免 'very old' 的单薄表达。"
+        },
+        {
+          "scene": "一位历史学家在课堂上讲解玛雅文化的成就。",
+          "chineseIdea": "历史学家想强调玛雅文化在古代的先进性。",
+          "sentenceWithBlank": "The @ @ of the Maya developed sophisticated systems of writing and astronomy.",
+          "fullEnglishSentence": "The 「ancient civilization」 of the Maya developed sophisticated systems of writing and astronomy.",
+          "chineseTranslation": "玛雅的「古老文明」发展了复杂的书写和天文系统。",
+          "chinglishFix": "典型中式英语：'Old civilization of Maya was very advanced.' 纠正：使用 'ancient civilization' 更贴合英语习惯，'very advanced' 可改为 'sophisticated' 以提升表达精准度。"
+        }
+      ]
+    },
+    {
+      "meaning": "古老而过时的（带有轻微贬义）",
+      "usage": "用于描述某事物因年代久远而显得过时或不再适用，常用于技术、观念或物品，带有一定戏谑或批评语气。",
+      "collocations": ["ancient technology", "ancient ideas", "ancient equipment"],
+      "examples": [
+        {
+          "scene": "一位年轻人看到朋友还在用翻盖手机，忍不住调侃。",
+          "chineseIdea": "年轻人想表达这个手机太老旧了，早就被淘汰。",
+          "sentenceWithBlank": "Why are you still using that @ @? It’s practically a museum piece!",
+          "fullEnglishSentence": "Why are you still using that 「ancient technology」? It’s practically a museum piece!",
+          "chineseTranslation": "你怎么还在用那个「古老技术」？它简直是博物馆的展品！",
+          "chinglishFix": "典型中式英语：'Your phone is very old technology.' 纠正：使用 'ancient technology' 更生动且符合英语中的戏谑语气，避免 'very old' 的平淡表达。"
+        },
+        {
+          "scene": "一位员工在公司会议上抱怨老旧的电脑系统影响工作效率。",
+          "chineseIdea": "员工想表达电脑系统太落后，已经不适合现代工作需求。",
+          "sentenceWithBlank": "We can’t keep relying on this @ @; it slows down everything.",
+          "fullEnglishSentence": "We can’t keep relying on this 「ancient equipment」; it slows down everything.",
+          "chineseTranslation": "我们不能继续依赖这个「古老设备」，它让一切都变慢。",
+          "chinglishFix": "典型中式英语：'This equipment is too old.' 纠正：使用 'ancient equipment' 更能传达过时且不适用的含义，语气更符合英语习惯。"
+        }
+      ]
+    }
+  ]
+}
+```

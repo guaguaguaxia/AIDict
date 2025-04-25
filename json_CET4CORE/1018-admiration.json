@@ -1,0 +1,53 @@
+```json
+{
+  "word": "admiration",
+  "definitions": [
+    {
+      "meaning": "对某人或某事的赞赏或敬佩，通常因其品质、成就或能力",
+      "usage": "常用于表达对某人优秀特质、行为或成就的正面评价，语气较为正式或深情，可用于人、物或抽象概念。",
+      "collocations": ["express admiration", "win admiration", "full of admiration", "mutual admiration"],
+      "examples": [
+        {
+          "scene": "在一个艺术展览会上，你被一幅画作的细节和色彩深深吸引，忍不住向朋友分享你的感受。",
+          "chineseIdea": "你想告诉朋友这幅画让你感到惊叹，并且你很佩服画家的技巧。",
+          "sentenceWithBlank": "I couldn’t help but @ @ for the artist’s incredible talent.",
+          "fullEnglishSentence": "I couldn’t help but 「express admiration」 for the artist’s incredible talent.",
+          "chineseTranslation": "我忍不住为画家的惊人才华「表达赞赏」。",
+          "chinglishFix": "中式英语：'I very admire this painter’s skill.' 纠正：'I really admire this painter’s skill.' 或 'I can’t help but express admiration for this painter’s skill.'（避免'very admire'，用'really admire'或更自然的表达。）"
+        },
+        {
+          "scene": "在公司会议上，同事分享了一个创新的项目计划，所有人都对她的创意印象深刻。",
+          "chineseIdea": "你想表达同事的计划让大家刮目相看，赢得了大家的尊重和赞赏。",
+          "sentenceWithBlank": "Her innovative proposal @ @ from everyone in the room.",
+          "fullEnglishSentence": "Her innovative proposal 「won admiration」 from everyone in the room.",
+          "chineseTranslation": "她的创新提案「赢得了」房间里每个人的「赞赏」。",
+          "chinglishFix": "中式英语：'Her plan makes everyone admire.' 纠正：'Her plan won everyone’s admiration.'（避免直接用'make admire'，用'win admiration'更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物的喜爱或欣赏，通常带有愉悦或满足的情感",
+      "usage": "强调对某事物（如风景、艺术、设计等）的愉悦欣赏，语气较轻松，常用于描述感官或审美体验。",
+      "collocations": ["gaze in admiration", "stand in admiration", "show admiration"],
+      "examples": [
+        {
+          "scene": "你和朋友在山顶俯瞰日落，橙红色的天空和连绵的山脉让你感到震撼。",
+          "chineseIdea": "你想表达自己被眼前的美景深深吸引，几乎无法移开视线。",
+          "sentenceWithBlank": "We just @ @ @ at the breathtaking sunset.",
+          "fullEnglishSentence": "We just 「gazed in admiration」 at the breathtaking sunset.",
+          "chineseTranslation": "我们只是「陶醉地凝视」着令人叹为观止的日落。",
+          "chinglishFix": "中式英语：'We look at the sunset and feel admire.' 纠正：'We gazed at the sunset in admiration.'（避免'feel admire'，用'in admiration'表达欣赏之情。）"
+        },
+        {
+          "scene": "你参观了一座古老的建筑，其精美的雕刻和结构让你忍不住停下来细看。",
+          "chineseIdea": "你想表达自己对建筑工艺的惊叹，并且完全被它的美吸引。",
+          "sentenceWithBlank": "I couldn’t help but @ @ @ at the intricate details of the ancient temple.",
+          "fullEnglishSentence": "I couldn’t help but 「stand in admiration」 at the intricate details of the ancient temple.",
+          "chineseTranslation": "我忍不住「驻足赞叹」古寺的精美细节。",
+          "chinglishFix": "中式英语：'I admire the temple very much.' 纠正：'I stood in admiration of the temple’s intricate details.'（避免'very much'的泛泛表达，用更具体的'stand in admiration'。）"
+        }
+      ]
+    }
+  ]
+}
+```

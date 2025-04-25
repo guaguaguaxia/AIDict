@@ -1,0 +1,53 @@
+```json
+{
+  "word": "appointment",
+  "definitions": [
+    {
+      "meaning": "安排好的会面或约会",
+      "usage": "指与某人预先安排的时间见面，通常用于正式或半正式场合，如商务、医疗或个人会面。",
+      "collocations": ["make an appointment", "keep an appointment", "cancel an appointment"],
+      "examples": [
+        {
+          "scene": "你在一家公司工作，需要与客户讨论新项目的细节。你通过邮件与客户约定了一个具体时间见面。",
+          "chineseIdea": "为了确保双方都有时间准备，需要提前安排一个正式的会面时间。",
+          "sentenceWithBlank": "I need to @ @ @ with the client to discuss the project timeline.",
+          "fullEnglishSentence": "I need to 「make an appointment」 with the client to discuss the project timeline.",
+          "chineseTranslation": "我需要与客户「安排一个会面」来讨论项目时间表。",
+          "chinglishFix": "典型中式英语：'I want to fix a meeting with the client.' 纠正：'I need to make an appointment with the client.'（'fix a meeting' 不常用于此场景，'make an appointment' 更自然。）"
+        },
+        {
+          "scene": "你计划去医院看牙医，但发现时间冲突，需要重新安排。",
+          "chineseIdea": "由于时间冲突，你需要取消原定的看牙时间并重新计划。",
+          "sentenceWithBlank": "I had to @ @ @ because of a scheduling conflict.",
+          "fullEnglishSentence": "I had to 「cancel an appointment」 because of a scheduling conflict.",
+          "chineseTranslation": "由于时间冲突，我不得不「取消一个会面」。",
+          "chinglishFix": "典型中式英语：'I canceled my meeting with the dentist.' 纠正：'I canceled my appointment with the dentist.'（'meeting' 在医疗场景中不常用，'appointment' 更贴切。）"
+        }
+      ]
+    },
+    {
+      "meaning": "任命或委任",
+      "usage": "指正式指定某人担任某个职位或角色，通常用于职业或官方场合。",
+      "collocations": ["secure an appointment", "announce an appointment", "receive an appointment"],
+      "examples": [
+        {
+          "scene": "一家公司刚刚选定了一位新的首席执行官，董事会通过新闻发布来告知公众。",
+          "chineseIdea": "公司需要正式公布新领导的任命，以确保透明度和权威性。",
+          "sentenceWithBlank": "The board will @ @ @ of the new CEO next week.",
+          "fullEnglishSentence": "The board will 「announce an appointment」 of the new CEO next week.",
+          "chineseTranslation": "董事会将在下周「宣布一项任命」，任命新的首席执行官。",
+          "chinglishFix": "典型中式英语：'The board will publish the new CEO’s job.' 纠正：'The board will announce the appointment of the new CEO.'（'publish the job' 不符合英语表达习惯，'announce an appointment' 是正确用法。）"
+        },
+        {
+          "scene": "你在政府部门工作，经过严格的选拔，你被正式任命为一个重要项目的负责人。",
+          "chineseIdea": "通过努力和竞争，你获得了正式的职位任命，标志着职业的进步。",
+          "sentenceWithBlank": "After months of evaluation, I was thrilled to @ @ @ as project leader.",
+          "fullEnglishSentence": "After months of evaluation, I was thrilled to 「receive an appointment」 as project leader.",
+          "chineseTranslation": "经过几个月的评估，我很激动能「获得一项任命」为项目负责人。",
+          "chinglishFix": "典型中式英语：'I was given a job as project leader.' 纠正：'I received an appointment as project leader.'（'given a job' 显得过于笼统，'receive an appointment' 更正式且准确。）"
+        }
+      ]
+    }
+  ]
+}
+```
