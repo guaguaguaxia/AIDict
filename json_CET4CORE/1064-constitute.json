@@ -1,0 +1,88 @@
+```json
+{
+  "word": "constitute",
+  "definitions": [
+    {
+      "meaning": "组成，形成（某事物的一部分或整体）",
+      "usage": "指多个部分或元素共同构成一个整体，常用于描述结构、成分或群体。",
+      "collocations": [
+        "constitute a majority",
+        "constitute an element",
+        "constitute a threat"
+      ],
+      "examples": [
+        {
+          "scene": "在一个公司的年度会议上，管理层正在讨论员工的分布情况，注意到某个部门的员工数量占主导地位。",
+          "chineseIdea": "某个部门的员工数量足够多，足以在公司中占据主要地位。",
+          "sentenceWithBlank": "The employees from the marketing department @ @ @ of the company’s workforce.",
+          "fullEnglishSentence": "The employees from the marketing department 「constitute a majority」 of the company’s workforce.",
+          "chineseTranslation": "市场部门的员工「构成公司员工的大多数」。",
+          "chinglishFix": "典型中式英语：'The employees from the marketing department occupy the most of the company.' 纠正：'The employees from the marketing department constitute a majority of the company’s workforce.'（避免用'occupy'表示比例构成，用'constitute'更准确。）"
+        },
+        {
+          "scene": "在一场关于城市规划的讨论会上，专家们分析了城市绿地的重要性，指出公园是城市生态系统的重要部分。",
+          "chineseIdea": "公园是城市生态系统中不可或缺的一个组成部分。",
+          "sentenceWithBlank": "Public parks @ @ @ of the city’s ecological balance.",
+          "fullEnglishSentence": "Public parks 「constitute an element」 of the city’s ecological balance.",
+          "chineseTranslation": "公共公园「构成城市生态平衡的一个要素」。",
+          "chinglishFix": "典型中式英语：'Public parks are a part of the city’s ecology.' 纠正：'Public parks constitute an element of the city’s ecological balance.'（'are a part of'过于宽泛，'constitute an element'更精确地表达组成部分。）"
+        }
+      ]
+    },
+    {
+      "meaning": "被视为，相当于",
+      "usage": "表示某事物在特定情境下被认为具有某种性质、地位或作用，常用于法律、正式或抽象语境。",
+      "collocations": [
+        "constitute a violation",
+        "constitute evidence",
+        "constitute a crime"
+      ],
+      "examples": [
+        {
+          "scene": "在一场法庭听证会上，法官正在评估某公司的行为是否违反了环境保护法规。",
+          "chineseIdea": "公司的某些行为被认为违反了法律规定。",
+          "sentenceWithBlank": "Discharging chemicals into the river @ @ @ of environmental regulations.",
+          "fullEnglishSentence": "Discharging chemicals into the river 「constitutes a violation」 of environmental regulations.",
+          "chineseTranslation": "将化学物质排入河中「构成对环境法规的违反」。",
+          "chinglishFix": "典型中式英语：'Discharging chemicals into the river is a break of the law.' 纠正：'Discharging chemicals into the river constitutes a violation of environmental regulations.'（'is a break of'不地道，'constitutes a violation'更正式且准确。）"
+        },
+        {
+          "scene": "在一场学术会议上，研究人员提交了一份报告，强调某些数据可以作为支持他们理论的依据。",
+          "chineseIdea": "这些数据被认为是有力的证据，支持他们的研究结论。",
+          "sentenceWithBlank": "The data from the experiment @ @ @ to support the hypothesis.",
+          "fullEnglishSentence": "The data from the experiment 「constitutes evidence」 to support the hypothesis.",
+          "chineseTranslation": "实验数据「构成支持该假设的证据」。",
+          "chinglishFix": "典型中式英语：'The data from the experiment is the proof of the hypothesis.' 纠正：'The data from the experiment constitutes evidence to support the hypothesis.'（'is the proof'过于绝对且不正式，'constitutes evidence'更学术化。）"
+        }
+      ]
+    },
+    {
+      "meaning": "设立，建立（组织、机构等）",
+      "usage": "指正式设立或组建某组织、团体或系统，常用于法律或正式语境。",
+      "collocations": [
+        "constitute a committee",
+        "constitute a government",
+        "constitute an organization"
+      ],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，居民们决定成立一个小组来处理当地的交通问题。",
+          "chineseIdea": "居民们想要正式组建一个小组来解决交通相关的投诉。",
+          "sentenceWithBlank": "The residents decided to @ @ @ to address traffic issues.",
+          "fullEnglishSentence": "The residents decided to 「constitute a committee」 to address traffic issues.",
+          "chineseTranslation": "居民们决定「成立一个委员会」来解决交通问题。",
+          "chinglishFix": "典型中式英语：'The residents want to build a group for traffic problems.' 纠正：'The residents decided to constitute a committee to address traffic issues.'（'build a group'不正式且模糊，'constitute a committee'更准确。）"
+        },
+        {
+          "scene": "在一次国际会议上，几个国家同意联合成立一个新的机构来促进贸易合作。",
+          "chineseIdea": "这些国家计划正式设立一个组织来推动贸易发展。",
+          "sentenceWithBlank": "The countries agreed to @ @ @ to promote trade cooperation.",
+          "fullEnglishSentence": "The countries agreed to 「constitute an organization」 to promote trade cooperation.",
+          "chineseTranslation": "这些国家同意「成立一个组织」以促进贸易合作。",
+          "chinglishFix": "典型中式英语：'The countries will set up a team for trade.' 纠正：'The countries agreed to constitute an organization to promote trade cooperation.'（'set up a team'过于随意，'constitute an organization'更正式。）"
+        }
+      ]
+    }
+  ]
+}
+```

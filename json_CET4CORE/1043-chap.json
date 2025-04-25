@@ -1,0 +1,53 @@
+```json
+{
+  "word": "chap",
+  "definitions": [
+    {
+      "meaning": "男性，家伙（通常指友善或普通的男人，常用于非正式语境）",
+      "usage": "用作名词，指代一个男人，通常带有亲切、随意的语气，可能用于朋友之间或描述某人时。常用于英国英语，语气轻松，略带老派感觉。",
+      "collocations": ["a decent chap", "a nice chap", "an old chap"],
+      "examples": [
+        {
+          "scene": "在一家英国酒吧里，几个朋友正在聊天，讨论昨晚足球比赛。他们提到一个共同的朋友，觉得他为人很好，总是乐于助人。",
+          "chineseIdea": "想表达这个朋友是一个很好的人，性格友善，容易相处。",
+          "sentenceWithBlank": "You know Tom, he’s really @ @ @, always helping out when you need him.",
+          "fullEnglishSentence": "You know Tom, he’s really 「a decent chap」, always helping out when you need him.",
+          "chineseTranslation": "你知道汤姆，他真的是「一个很正派的人」，总是在你需要的时候帮忙。",
+          "chinglishFix": "典型中式英语：'He is a good man person.' 纠正：'He’s a decent chap.' 或 'He’s a great guy.'（避免冗余的‘man person’，用更自然的表达如‘chap’或‘guy’）"
+        },
+        {
+          "scene": "在一个社区聚会上，有人提到一个新搬来的邻居，觉得他看起来很友好，喜欢和大家打招呼。",
+          "chineseIdea": "想表达这个新邻居给人的第一印象很好，性格似乎很不错。",
+          "sentenceWithBlank": "The new neighbor seems like @ @ @, always waving and saying hello.",
+          "fullEnglishSentence": "The new neighbor seems like 「a nice chap」, always waving and saying hello.",
+          "chineseTranslation": "新邻居看起来像「一个很好的人」，总是挥手打招呼。",
+          "chinglishFix": "典型中式英语：'He is a very kind person man.' 纠正：'He’s a nice chap.' 或 'He’s a friendly guy.'（避免重复的‘person man’，用更地道的‘chap’或‘guy’）"
+        }
+      ]
+    },
+    {
+      "meaning": "嘴唇或皮肤开裂（通常因寒冷或干燥引起）",
+      "usage": "用作动词或名词，描述因天气干燥或寒冷导致的嘴唇、皮肤等部位裂开或粗糙的现象。动词形式表示皮肤变裂，名词形式指裂痕本身。",
+      "collocations": ["chapped lips", "chapped hands", "chapped skin"],
+      "examples": [
+        {
+          "scene": "冬天，北京的空气非常干燥，小明发现自己的嘴唇裂开了，感到疼痛，决定涂点润唇膏。",
+          "chineseIdea": "想表达嘴唇因为干燥而裂开，需要采取措施来缓解。",
+          "sentenceWithBlank": "After a week in Beijing’s dry winter, I ended up with @ @ @ and had to buy some lip balm.",
+          "fullEnglishSentence": "After a week in Beijing’s dry winter, I ended up with 「chapped lips」 and had to buy some lip balm.",
+          "chineseTranslation": "在北京干燥的冬天待了一周后，我的嘴唇「干裂了」，不得不买了润唇膏。",
+          "chinglishFix": "典型中式英语：'My lips are broken because of dry.' 纠正：'My lips are chapped because of the dryness.'（避免用‘broken’描述皮肤裂开，用‘chapped’更准确）"
+        },
+        {
+          "scene": "在户外滑雪一天后，小红发现自己的手因为寒冷和干燥变得粗糙，甚至有点裂开。",
+          "chineseIdea": "想表达手部皮肤因为寒冷干燥而变得粗糙开裂。",
+          "sentenceWithBlank": "Skiing all day left me with @ @ @, so I applied some moisturizer.",
+          "fullEnglishSentence": "Skiing all day left me with 「chapped hands」, so I applied some moisturizer.",
+          "chineseTranslation": "滑了一整天雪后，我的手「干裂了」，所以我涂了点保湿霜。",
+          "chinglishFix": "典型中式英语：'My hands are cracked by cold.' 纠正：'My hands are chapped from the cold.'（避免用‘cracked’而用‘chapped’，并用‘from’更自然）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "administrative",
+  "definitions": [
+    {
+      "meaning": "与管理或组织事务相关的，涉及办公室或机构的运作",
+      "usage": "常用于描述与管理、组织或执行机构日常事务相关的职责、流程或角色，通常出现在正式或商业语境中。",
+      "collocations": ["administrative tasks", "administrative support", "administrative costs", "administrative staff"],
+      "examples": [
+        {
+          "scene": "在一家中型公司中，行政部门负责处理日常办公事务，比如安排会议、整理文件和协调员工日程。",
+          "chineseIdea": "行政工作通常涉及琐碎但重要的日常事务，确保公司运作顺畅。",
+          "sentenceWithBlank": "The new assistant was hired to handle @ @ @ to keep the office running smoothly.",
+          "fullEnglishSentence": "The new assistant was hired to handle 「administrative tasks」 to keep the office running smoothly.",
+          "chineseTranslation": "新助理被雇来处理「行政任务」，以确保办公室顺畅运作。",
+          "chinglishFix": "典型中式英语：'She do some manage work to help office.' 纠正：'She handles administrative tasks to support office operations.'"
+        },
+        {
+          "scene": "在大学里，学生注册和课程安排由行政办公室负责，学生需要与行政人员沟通以解决问题。",
+          "chineseIdea": "行政支持在教育机构中帮助学生和教职员工处理注册、文件或其他事务。",
+          "sentenceWithBlank": "The registrar’s office provides @ @ to students during enrollment.",
+          "fullEnglishSentence": "The registrar’s office provides 「administrative support」 to students during enrollment.",
+          "chineseTranslation": "注册办公室在注册期间为学生提供「行政支持」。",
+          "chinglishFix": "典型中式英语：'Office give student help for register.' 纠正：'The office provides administrative support for student registration.'"
+        }
+      ]
+    },
+    {
+      "meaning": "与政府或公共机构的管理或政策执行相关",
+      "usage": "常用于描述政府、公共部门或大型机构中与政策执行、法规管理或公共事务相关的活动。",
+      "collocations": ["administrative law", "administrative procedures", "administrative authority", "administrative reforms"],
+      "examples": [
+        {
+          "scene": "在市政府中，行政部门需要确保新出台的政策符合现有法规，并且能够顺利实施。",
+          "chineseIdea": "行政法规涉及政府如何依法管理公共事务，确保政策合规。",
+          "sentenceWithBlank": "The city council updated its @ @ to comply with new regulations.",
+          "fullEnglishSentence": "The city council updated its 「administrative procedures」 to comply with new regulations.",
+          "chineseTranslation": "市议会更新了其「行政程序」，以符合新法规。",
+          "chinglishFix": "典型中式英语：'City change rule to follow law.' 纠正：'The city updated its administrative procedures to comply with the law.'"
+        },
+        {
+          "scene": "在国家层面，行政改革通常是为了提高政府部门的效率和透明度，比如简化审批流程。",
+          "chineseIdea": "行政改革旨在优化政府运作，减少官僚作风，提高公众满意度。",
+          "sentenceWithBlank": "The government launched a series of @ @ to streamline public services.",
+          "fullEnglishSentence": "The government launched a series of 「administrative reforms」 to streamline public services.",
+          "chineseTranslation": "政府启动了一系列「行政改革」，以简化公共服务。",
+          "chinglishFix": "典型中式英语：'Government make new rule to help people.' 纠正：'The government introduced administrative reforms to improve public services.'"
+        }
+      ]
+    }
+  ]
+}
+```
