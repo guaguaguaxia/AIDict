@@ -1,0 +1,53 @@
+```json
+{
+  "word": "definition",
+  "definitions": [
+    {
+      "meaning": "对一个词、短语或概念的具体解释或含义",
+      "usage": "通常用于描述对某事物进行明确、正式的解释，常出现在字典、学术讨论或法律文件中。",
+      "collocations": ["provide a definition", "clear definition", "broad definition"],
+      "examples": [
+        {
+          "scene": "在一个英语课堂上，老师要求学生解释新学的单词，学生需要给出准确的解释。",
+          "chineseIdea": "学生想要表达某个单词的具体含义，并且希望表达得很清晰。",
+          "sentenceWithBlank": "Can you @ @ @ of the word 'resilience' for the class?",
+          "fullEnglishSentence": "Can you 「provide a definition」 of the word 'resilience' for the class?",
+          "chineseTranslation": "你能为全班「提供一个定义」来解释‘resilience’这个词吗？",
+          "chinglishFix": "中式英语：'Give a meaning of the word.' 纠正：'Provide a definition of the word.'（‘give a meaning’听起来不自然，英语中更常用‘provide a definition’。）"
+        },
+        {
+          "scene": "在学术写作中，作者需要为读者阐明一个术语的具体含义，以确保文章的严谨性。",
+          "chineseIdea": "作者希望确保术语的含义明确且易于理解。",
+          "sentenceWithBlank": "The paper begins with a @ @ of the term 'sustainability'.",
+          "fullEnglishSentence": "The paper begins with a 「clear definition」 of the term 'sustainability'.",
+          "chineseTranslation": "这篇论文以对‘可持续性’术语的「清晰定义」开头。",
+          "chinglishFix": "中式英语：'The paper starts with an explanation of the word.' 纠正：'The paper begins with a clear definition of the term.'（‘explanation’过于笼统，‘definition’更适合学术语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "事物的明确特征或界限",
+      "usage": "指某事物被清晰界定或区分的特性，常用于描述图像、概念或范围的清晰度。",
+      "collocations": ["high definition", "sharp definition", "lack of definition"],
+      "examples": [
+        {
+          "scene": "一个摄影爱好者在讨论新买的相机时，提到照片的清晰度。",
+          "chineseIdea": "摄影师想要强调照片的细节非常清晰，图像质量很高。",
+          "sentenceWithBlank": "This camera captures images in @ @, making every detail stand out.",
+          "fullEnglishSentence": "This camera captures images in 「high definition」, making every detail stand out.",
+          "chineseTranslation": "这款相机以「高清晰度」捕捉图像，让每个细节都非常突出。",
+          "chinglishFix": "中式英语：'This camera takes very clear pictures.' 纠正：'This camera captures images in high definition.'（‘very clear’不够具体，‘high definition’更贴合技术语境。）"
+        },
+        {
+          "scene": "在艺术评论中，评论家描述一幅画的线条和轮廓是否清晰。",
+          "chineseIdea": "评论家想表达画作的线条非常鲜明，轮廓分明。",
+          "sentenceWithBlank": "The artist’s work is known for its @ @ in outlining shapes.",
+          "fullEnglishSentence": "The artist’s work is known for its 「sharp definition」 in outlining shapes.",
+          "chineseTranslation": "这位艺术家的作品以其在勾勒形状时的「鲜明轮廓」而闻名。",
+          "chinglishFix": "中式英语：'The artist’s work has clear lines.' 纠正：'The artist’s work is known for its sharp definition in outlining shapes.'（‘clear lines’过于简单，‘sharp definition’更能体现艺术评论的专业性。）"
+        }
+      ]
+    }
+  ]
+}
+```

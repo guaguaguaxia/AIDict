@@ -1,0 +1,53 @@
+```json
+{
+  "word": "deadline",
+  "definitions": [
+    {
+      "meaning": "完成某事或提交某物的最后期限",
+      "usage": "通常指在特定时间点之前必须完成任务、项目或提交材料的时间限制，常用于工作、学术或法律场景。",
+      "collocations": ["meet a deadline", "miss a deadline", "set a deadline"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的广告公司，项目经理正在与团队讨论一个新客户的广告活动。时间紧迫，客户要求在一周内看到初步设计。",
+          "chineseIdea": "团队需要全力以赴，确保在客户规定的时间内完成设计初稿，以赢得客户的信任。",
+          "sentenceWithBlank": "We need to work overtime to @ @ @ for the client’s ad campaign.",
+          "fullEnglishSentence": "We need to work overtime to 「meet a deadline」 for the client’s ad campaign.",
+          "chineseTranslation": "我们需要加班以「满足客户广告活动的最后期限」。",
+          "chinglishFix": "典型中式英语：'We must finish the deadline.' 纠正：'We must meet the deadline.'（deadline不是完成的对象，而是需要满足的时间限制）。"
+        },
+        {
+          "scene": "一名大学生正在准备期末论文，教授要求所有学生在下周五之前通过电子邮件提交论文。",
+          "chineseIdea": "学生担心无法按时完成论文，因为还有其他课程的作业需要同时处理。",
+          "sentenceWithBlank": "I’m stressed because I might @ @ @ for my final paper.",
+          "fullEnglishSentence": "I’m stressed because I might 「miss a deadline」 for my final paper.",
+          "chineseTranslation": "我很焦虑，因为我可能会「错过期末论文的最后期限」。",
+          "chinglishFix": "典型中式英语：'I may not catch the deadline.' 纠正：'I may miss the deadline.'（catch不用于deadline，miss是正确搭配）。"
+        }
+      ]
+    },
+    {
+      "meaning": "新闻报道的截稿时间",
+      "usage": "在新闻行业中，指记者必须在特定时间之前提交文章以赶上出版或广播的时间。",
+      "collocations": ["face a tight deadline", "work against a deadline", "push back a deadline"],
+      "examples": [
+        {
+          "scene": "一名记者正在报道一场突发的政治事件，编辑要求他在今晚10点前提交文章，以便刊登在明早的报纸上。",
+          "chineseIdea": "记者需要快速整理信息并撰写文章，因为时间非常有限，错过时间就无法刊登。",
+          "sentenceWithBlank": "I’m scrambling to finish this article because I @ @ @ @ tonight.",
+          "fullEnglishSentence": "I’m scrambling to finish this article because I 「face a tight deadline」 tonight.",
+          "chineseTranslation": "我正忙着完成这篇文章，因为今晚我「面临一个严格的截稿时间」。",
+          "chinglishFix": "典型中式英语：'I have a hurry deadline.' 纠正：'I face a tight deadline.'（hurry不适用于deadline，tight更能表达时间紧迫）。"
+        },
+        {
+          "scene": "一家杂志社的记者因为采访对象临时取消，难以在原定时间完成文章，向编辑请求更多时间。",
+          "chineseIdea": "记者希望能有更多时间来完善文章内容，而不是匆匆提交不完整的稿件。",
+          "sentenceWithBlank": "I had to ask the editor to @ @ @ @ because my interviewee canceled.",
+          "fullEnglishSentence": "I had to ask the editor to 「push back a deadline」 because my interviewee canceled.",
+          "chineseTranslation": "我不得不请求编辑「推迟截稿时间」，因为我的采访对象取消了。",
+          "chinglishFix": "典型中式英语：'Please delay the deadline.' 纠正：'Please push back the deadline.'（delay虽可用于其他语境，但push back是更自然的新闻行业表达）。"
+        }
+      ]
+    }
+  ]
+}
+```

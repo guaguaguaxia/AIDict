@@ -1,0 +1,76 @@
+```json
+{
+  "word": "frontier",
+  "definitions": [
+    {
+      "meaning": "边境；边界",
+      "usage": "指一个国家或地区的地理边界，通常与另一个国家或未开发区域接壤，常带有政治或文化意义。",
+      "collocations": ["push back the frontier", "cross the frontier", "guard the frontier"],
+      "examples": [
+        {
+          "scene": "一位旅行者在计划穿越中国和俄罗斯的边境，准备体验不同文化的交汇。他需要办理签证并了解边境检查的流程。",
+          "chineseIdea": "旅行者想要通过边境进入另一个国家，感受异国风情，同时需要应对边境的安全检查。",
+          "sentenceWithBlank": "The traveler was excited to @ @ @ into Russia.",
+          "fullEnglishSentence": "The traveler was excited to 「cross the frontier」 into Russia.",
+          "chineseTranslation": "这位旅行者兴奋地「穿越边境」进入俄罗斯。",
+          "chinglishFix": "典型中式英语：'He wants to pass the border to Russia.' 纠正：'Cross the frontier' 更自然，'pass the border' 听起来生硬且不常用。"
+        },
+        {
+          "scene": "在历史课上，老师讲述了清朝时期如何加强对边境地区的管控，以防止外敌入侵。",
+          "chineseIdea": "国家通过部署军队和设立检查站来保护边境，确保领土安全。",
+          "sentenceWithBlank": "The government sent troops to @ @ @ along the northern border.",
+          "fullEnglishSentence": "The government sent troops to 「guard the frontier」 along the northern border.",
+          "chineseTranslation": "政府派遣军队「守卫边境」，沿北部边界布防。",
+          "chinglishFix": "典型中式英语：'The army protects the border.' 纠正：'Guard the frontier' 更贴合语境，强调边境的防御性。"
+        }
+      ]
+    },
+    {
+      "meaning": "前沿；尖端",
+      "usage": "指某个领域（如科技、知识或探索）的最新发展或未知领域，带有创新和探索的含义。",
+      "collocations": ["new frontier", "explore the frontier", "push the frontier"],
+      "examples": [
+        {
+          "scene": "在一场科技研讨会上，科学家们讨论了人工智能在医疗领域的最新突破，强调这些技术如何改变未来。",
+          "chineseIdea": "科学家们认为人工智能是医疗领域的尖端技术，能够带来革命性的变化。",
+          "sentenceWithBlank": "AI is considered a @ @ in medical research.",
+          "fullEnglishSentence": "AI is considered a 「new frontier」 in medical research.",
+          "chineseTranslation": "人工智能被认为是医疗研究中的「新前沿」。",
+          "chinglishFix": "典型中式英语：'AI is the new area of medicine.' 纠正：'New frontier' 更能表达尖端和探索的含义。"
+        },
+        {
+          "scene": "一个年轻的研究者在实验室中致力于开发新型清洁能源，希望为环保事业做出贡献。",
+          "chineseIdea": "研究者希望通过探索未知的能源技术，为全球可持续发展开辟新的可能性。",
+          "sentenceWithBlank": "Her team is working to @ @ @ of renewable energy.",
+          "fullEnglishSentence": "Her team is working to 「push the frontier」 of renewable energy.",
+          "chineseTranslation": "她的团队致力于「推动可再生能源的前沿」。",
+          "chinglishFix": "典型中式英语：'They want to advance the energy field.' 纠正：'Push the frontier' 更生动，强调突破性进展。"
+        }
+      ]
+    },
+    {
+      "meaning": "未开发地区；边远地区",
+      "usage": "指尚未被完全开发或定居的地区，通常与荒野、自然或冒险相关，常见于描述历史上的拓荒场景。",
+      "collocations": ["settle the frontier", "life on the frontier", "open up the frontier"],
+      "examples": [
+        {
+          "scene": "在19世纪的美国，許多家庭迁往西部，希望在广袤的土地上建立新的家园。",
+          "chineseIdea": "移民们带着对新生活的憧憬，前往未开发的地区开垦土地，建立社区。",
+          "sentenceWithBlank": "Pioneers moved west to @ @ @ in search of opportunity.",
+          "fullEnglishSentence": "Pioneers moved west to 「settle the frontier」 in search of opportunity.",
+          "chineseTranslation": "拓荒者西迁以「开拓边疆」，寻找机会。",
+          "chinglishFix": "典型中式英语：'They went to live in the wild land.' 纠正：'Settle the frontier' 更符合历史语境，强调拓荒行为。"
+        },
+        {
+          "scene": "一部纪录片讲述了早期探险者在北美荒野中的生活，展示了他们面临的自然挑战和生存智慧。",
+         46          "chineseIdea": "探险者在未开发的地区生活，依靠勇气和技能应对恶劣环境。",
+          "sentenceWithBlank": "The documentary showed the harsh realities of @ @ @.",
+          "fullEnglishSentence": "The documentary showed the harsh realities of 「life on the frontier」.",
+          "chineseTranslation": "这部纪录片展示了「边疆生活」的严酷现实。",
+          "chinglishFix": "典型中式英语：'Life in the wild place was hard.' 纠正：'Life on the frontier' 更具历史感和文化特异性。"
+        }
+      ]
+    }
+  ]
+}
+```
