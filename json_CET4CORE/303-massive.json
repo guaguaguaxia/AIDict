@@ -1,0 +1,53 @@
+```json
+{
+  "word": "massive",
+  "definitions": [
+    {
+      "meaning": "非常大的，巨大的",
+      "usage": "形容某物在体积、数量或程度上非常大，通常带有令人印象深刻或震撼的含义，常用于描述物理对象、规模或影响。",
+      "collocations": ["huge impact", "large scale", "significant growth"],
+      "examples": [
+        {
+          "scene": "一位中国留学生在描述自己参观美国大峡谷时的震撼感受。",
+          "chineseIdea": "想表达大峡谷的景色非常壮观，给人一种强烈的震撼感。",
+          "sentenceWithBlank": "The Grand Canyon left a @ @ on me with its breathtaking views.",
+          "fullEnglishSentence": "The Grand Canyon left a 「huge impact」 on me with its breathtaking views.",
+          "chineseTranslation": "大峡谷的壮丽景色给我留下了「巨大的影响」。",
+          "chinglishFix": "典型中式英语：'The Grand Canyon is very big impact.' 纠正：'The Grand Canyon has a huge impact.' 原因：'impact' 作为名词需要搭配 'have' 或 'leave'，而不是直接用 'is'。"
+        },
+        {
+          "scene": "一位工程师在团队会议上讨论公司新项目的规模。",
+          "chineseIdea": "想说明这个项目涉及的范围非常广泛，需要大量资源。",
+          "sentenceWithBlank": "This project is planned on a @ @ to meet global demands.",
+          "fullEnglishSentence": "This project is planned on a 「large scale」 to meet global demands.",
+          "chineseTranslation": "这个项目计划在「大规模」上进行，以满足全球需求。",
+          "chinglishFix": "典型中式英语：'This project is very large.' 纠正：'This project is on a large scale.' 原因：'large scale' 是固定搭配，强调规模的广泛性，而 'very large' 显得模糊且不地道。"
+        }
+      ]
+    },
+    {
+      "meaning": "大量的，数量极多的",
+      "usage": "强调某事物在数量上非常多，通常用于描述抽象事物，如数据、支持或工作量。",
+      "collocations": ["amount of data", "number of users", "volume of work"],
+      "examples": [
+        {
+          "scene": "一位数据分析师在向客户介绍公司处理的数据量。",
+          "chineseIdea": "想说明公司每天需要处理的数据量非常庞大。",
+          "sentenceWithBlank": "Our platform processes a @ @ @ every day to generate insights.",
+          "fullEnglishSentence": "Our platform processes a 「amount of data」 every day to generate insights.",
+          "chineseTranslation": "我们的平台每天处理「大量数据」以生成洞察。",
+          "chinglishFix": "典型中式英语：'We have very much data.' 纠正：'We process a massive amount of data.' 原因：'amount of data' 是固定搭配，'very much' 不适用于不可数名词且显得不正式。"
+        },
+        {
+          "scene": "一位创业者在向投资者展示平台的用户增长情况。",
+          "chineseIdea": "想突出平台吸引了非常多的用户，增长迅速。",
+          "sentenceWithBlank": "The app has attracted a @ @ @ since its launch.",
+          "fullEnglishSentence": "The app has attracted a 「number of users」 since its launch.",
+          "chineseTranslation": "自推出以来，该应用吸引了「大量用户」。",
+          "chinglishFix": "典型中式英语：'The app has many users.' 纠正：'The app has attracted a massive number of users.' 原因：'number of users' 是更具体的搭配，'many' 过于简单且缺乏力度。"
+        }
+      ]
+    }
+  ]
+}
+```

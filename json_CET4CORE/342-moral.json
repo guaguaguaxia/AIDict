@@ -1,0 +1,53 @@
+```json
+{
+  "word": "moral",
+  "definitions": [
+    {
+      "meaning": "与对错、善恶相关的原则或信念",
+      "usage": "作为形容词，用于描述与伦理、正义或行为准则相关的事物，通常指个人或社会的价值观。",
+      "collocations": ["high standards", "duty", "values", "compass"],
+      "examples": [
+        {
+          "scene": "一位年轻人在公司面临一个困境：是否要向老板报告同事的小错误。年轻人认为诚实是重要的，但又不想让同事难堪。",
+          "chineseIdea": "他想坚持自己的原则，认为诚实和正直是做人的根本，但同时也担心报告会影响团队和谐。",
+          "sentenceWithBlank": "He always tries to maintain @ @ in his decisions, even when it's challenging.",
+          "fullEnglishSentence": "He always tries to maintain 「high standards」 in his decisions, even when it's challenging.",
+          "chineseTranslation": "他总是努力在决策中保持「高标准」，即使这很有挑战性。",
+          "chinglishFix": "典型中式英语：'He wants to keep his moral high.' 纠正：'He strives to uphold high moral standards.'"
+        },
+        {
+          "scene": "一位老师在课堂上讨论社会问题，鼓励学生思考自己的行为如何影响他人。",
+          "chineseIdea": "老师希望学生能培养一种内在的指引，帮助他们在复杂情况下做出正确选择。",
+          "sentenceWithBlank": "The teacher emphasized the importance of developing a strong @ to guide their actions.",
+          "fullEnglishSentence": "The teacher emphasized the importance of developing a strong 「compass」 to guide their actions.",
+          "chineseTranslation": "老师强调培养一个强大的「指南针」来指导他们行为的重要性。",
+          "chinglishFix": "典型中式英语：'The teacher said we need a moral GPS.' 纠正：'The teacher stressed the need for a strong moral compass.'"
+        }
+      ]
+    },
+    {
+      "meaning": "故事或事件的教训或寓意",
+      "usage": "作为名词，通常指从故事、寓言或经历中得出的教益，常见于叙述性语境。",
+      "collocations": ["of the story", "lesson", "tale", "fable"],
+      "examples": [
+        {
+          "scene": "一位母亲在给孩子讲《龟兔赛跑》的故事，讲完后问孩子从中学到了什么。",
+          "chineseIdea": "母亲想通过故事让孩子明白坚持和努力的重要性，而不是过于自信。",
+          "sentenceWithBlank": "After the story, she asked her child what the @ @ @ was.",
+          "fullEnglishSentence": "After the story, she asked her child what the 「of the story」 was.",
+          "chineseTranslation": "讲完故事后，她问孩子「故事的寓意」是什么。",
+          "chinglishFix": "典型中式英语：'She asked what the story’s moral meaning is.' 纠正：'She asked what the moral of the story is.'"
+        },
+        {
+          "scene": "一位朋友分享自己因贪图小便宜而损失更多的经历，希望大家吸取教训。",
+          "chineseIdea": "朋友想通过自己的失败案例提醒大家不要因小失大。",
+          "sentenceWithBlank": "He shared his experience to teach us a valuable @.",
+          "fullEnglishSentence": "He shared his experience to teach us a valuable 「lesson」.",
+          "chineseTranslation": "他分享了自己的经历，以教给我们一个宝贵的「教训」。",
+          "chinglishFix": "典型中式英语：'His story gives us a moral teaching.' 纠正：'His story teaches us a valuable moral lesson.'"
+        }
+      ]
+    }
+  ]
+}
+```

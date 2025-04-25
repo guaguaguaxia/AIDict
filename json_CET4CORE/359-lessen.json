@@ -1,0 +1,53 @@
+```json
+{
+  "word": "lessen",
+  "definitions": [
+    {
+      "meaning": "使某事物在程度、强度或数量上减少",
+      "usage": "用作及物动词，表示主动采取行动使某事物的程度、数量或强度降低，常用于描述减轻负担、痛苦、压力等",
+      "collocations": ["reduce the impact", "ease the pain", "decrease the risk", "alleviate the burden"],
+      "examples": [
+        {
+          "scene": "一位医生在医院与患者交谈，患者因为手术后疼痛难忍，医生建议使用药物来缓解症状。",
+          "chineseIdea": "医生希望通过药物帮助患者感觉好一些，减少身体上的不适。",
+          "sentenceWithBlank": "The doctor prescribed medication to @ @ @ of the patient’s post-surgery discomfort.",
+          "fullEnglishSentence": "The doctor prescribed medication to 「ease the pain」 of the patient’s post-surgery discomfort.",
+          "chineseTranslation": "医生开了药来「缓解疼痛」，减轻患者术后的不适。",
+          "chinglishFix": "中式英语：'Make the pain smaller.' 纠正：'Ease the pain' or 'Reduce the pain.'"
+        },
+        {
+          "scene": "一家公司面临市场竞争，经理提出通过优化流程来降低运营中的潜在问题。",
+          "chineseIdea": "经理希望通过改进工作流程来降低公司可能遇到的麻烦。",
+          "sentenceWithBlank": "The manager suggested streamlining operations to @ @ @ of costly errors.",
+          "fullEnglishSentence": "The manager suggested streamlining operations to 「decrease the risk」 of costly errors.",
+          "chineseTranslation": "经理建议优化运营以「降低风险」，避免昂贵的错误。",
+          "chinglishFix": "中式英语：'Make the risk lower.' 纠正：'Decrease the risk' or 'Minimize the risk.'"
+        }
+      ]
+    },
+    {
+      "meaning": "某事物在程度或数量上自然减少或变小",
+      "usage": "用作不及物动词，表示某事物自身逐渐减少或变弱，无需明确施加外力，常用于描述自然衰退或逐渐消失的情况",
+      "collocations": ["gradually diminish", "slowly fade", "steadily decline"],
+      "examples": [
+        {
+          "scene": "一个小镇的居民讨论天气，夏季的酷热在秋季到来时逐渐消退。",
+          "chineseIdea": "居民们注意到随着季节变化，炎热的天气慢慢变得不那么强烈。",
+          "sentenceWithBlank": "As autumn approached, the intense heat began to @ @.",
+          "fullEnglishSentence": "As autumn approached, the intense heat began to 「gradually diminish」.",
+          "chineseTranslation": "随着秋天到来，酷热开始「逐渐减弱」。",
+          "chinglishFix": "中式英语：'The heat becomes smaller.' 纠正：'The heat gradually diminishes' or 'The heat subsides.'"
+        },
+        {
+          "scene": "一位学生在考试后感到紧张，但随着时间推移，焦虑感慢慢消失。",
+          "chineseIdea": "学生发现自己的紧张情绪在考试后逐渐平息。",
+          "sentenceWithBlank": "After the exam, her anxiety started to @ @.",
+          "fullEnglishSentence": "After the exam, her anxiety started to 「slowly fade」.",
+          "chineseTranslation": "考试后，她的焦虑开始「慢慢消退」。",
+          "chinglishFix": "中式英语：'Her anxiety becomes less.' 纠正：'Her anxiety slowly fades' or 'Her anxiety gradually lessens.'"
+        }
+      ]
+    }
+  ]
+}
+```
