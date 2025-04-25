@@ -1,0 +1,76 @@
+```json
+{
+  "word": "issue",
+  "definitions": [
+    {
+      "meaning": "问题或争议",
+      "usage": "指某个需要讨论、解决或引起争议的问题，常用于正式或半正式语境，如社会、政治、环境等话题。",
+      "collocations": ["address an issue", "resolve an issue", "raise an issue"],
+      "examples": [
+        {
+          "scene": "在公司会议中，员工们正在讨论如何提高工作效率。一位员工提到团队协作中存在的问题。",
+          "chineseIdea": "想表达团队合作中存在一些需要解决的具体问题，希望引起大家注意并讨论解决方案。",
+          "sentenceWithBlank": "We need to @ @ @ to improve our teamwork.",
+          "fullEnglishSentence": "We need to 「address an issue」 to improve our teamwork.",
+          "chineseTranslation": "我们需要「解决一个问题」来改善团队合作。",
+          "chinglishFix": "典型中式英语：'We must solve a question for teamwork.' 纠正：'Question'应改为'issue'，因为'question'指疑问，而'issue'指需要解决的问题。正确表达：'We need to address an issue to improve our teamwork.'"
+        },
+        {
+          "scene": "在一场社区会议上，居民们讨论垃圾分类的实施情况，有人提到部分居民不遵守规则。",
+          "chineseIdea": "想表达希望大家关注并提出垃圾分类执行中的问题，以便找到解决办法。",
+          "sentenceWithBlank": "Someone needs to @ @ @ about improper waste sorting.",
+          "fullEnglishSentence": "Someone needs to 「raise an issue」 about improper waste sorting.",
+          "chineseTranslation": "有人需要「提出一个问题」关于不正确的垃圾分类。",
+          "chinglishFix": "典型中式英语：'We should talk a problem about waste sorting.' 纠正：'Talk a problem'不自然，应使用'raise an issue'表示提出问题。正确表达：'We should raise an issue about waste sorting.'"
+        }
+      ]
+    },
+    {
+      "meaning": "发行或发布",
+      "usage": "指正式发布或发行某物，如书籍、杂志、股票、护照等，通常用于书面或正式语境。",
+      "collocations": ["issue a statement", "issue a passport", "issue a magazine"],
+      "examples": [
+        {
+          "scene": "政府在一次重大事件后，官方发布了一份声明以澄清事实。",
+          "chineseIdea": "想表达政府通过发布正式声明来回应公众的疑问。",
+          "sentenceWithBlank": "The government decided to @ @ @ to clarify the situation.",
+          "fullEnglishSentence": "The government decided to 「issue a statement」 to clarify the situation.",
+          "chineseTranslation": "政府决定「发布一份声明」来澄清情况。",
+          "chinglishFix": "典型中式英语：'The government gives a speech to explain.' 纠正：'Give a speech'不准确，'issue a statement'更适合表示正式发布书面声明。正确表达：'The government issued a statement to clarify the situation.'"
+        },
+        {
+          "scene": "在机场，护照申请人终于拿到了新护照，准备出国旅行。",
+          "chineseIdea": "想表达护照由政府机构正式发放给申请人。",
+          "sentenceWithBlank": "The embassy will @ @ @ to the applicant tomorrow.",
+          "fullEnglishSentence": "The embassy will 「issue a passport」 to the applicant tomorrow.",
+          "chineseTranslation": "大使馆明天将「发放一本护照」给申请人。",
+          "chinglishFix": "典型中式英语：'The embassy sends a passport to him.' 纠正：'Send'不够正式，且未体现官方发放的含义。正确表达：'The embassy will issue a passport to the applicant.'"
+        }
+      ]
+    },
+    {
+      "meaning": "期刊或期号",
+      "usage": "指杂志、报纸或学术期刊的某一期，常见于出版领域。",
+      "collocations": ["current issue", "special issue", "back issue"],
+      "examples": [
+        {
+          "scene": "在图书馆，学生在查找一本时尚杂志的最新一期以了解流行趋势。",
+          "chineseIdea": "想表达正在寻找杂志的最新一期来获取最新的信息。",
+          "sentenceWithBlank": "I’m looking for the @ @ of this fashion magazine.",
+          "fullEnglishSentence": "I’m looking for the 「current issue」 of this fashion magazine.",
+          "chineseTranslation": "我在找这本时尚杂志的「最新一期」。",
+          "chinglishFix": "典型中式英语：'I want the new number of this magazine.' 纠正：'Number'不用于指杂志期号，应使用'issue'。正确表达：'I’m looking for the current issue of this magazine.'"
+        },
+        {
+          "scene": "一位研究人员想查阅某学术期刊的特别专题，内容关于人工智能。",
+          "chineseIdea": "想表达需要找到一本期刊的特别版，专注于某个主题。",
+          "sentenceWithBlank": "The library has the @ @ of that journal on AI.",
+          "fullEnglishSentence": "The library has the 「special issue」 of that journal on AI.",
+          "chineseTranslation": "图书馆有那本关于人工智能的期刊的「特别一期」。",
+          "chinglishFix": "典型中式英语：'The library has a special book of that journal.' 纠正：'Book'不适合指期刊的某一期，应使用'issue'。正确表达：'The library has the special issue of that journal.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "intelligence",
+  "definitions": [
+    {
+      "meaning": "The ability to acquire, understand, and use knowledge or skills effectively",
+      "usage": "Refers to cognitive abilities such as reasoning, problem-solving, and learning, often applied to humans or animals.",
+      "collocations": ["artificial intelligence", "emotional intelligence", "high intelligence"],
+      "examples": [
+        {
+          "scene": "在一所大学的技术研讨会上，教授正在介绍最新的AI研究成果，吸引了许多学生的兴趣。",
+          "chineseIdea": "描述一种技术系统能够像人类一样思考和解决问题。",
+          "sentenceWithBlank": "The latest advancements in @ @ have enabled machines to mimic human reasoning.",
+          "fullEnglishSentence": "The latest advancements in 「artificial intelligence」 have enabled machines to mimic human reasoning.",
+          "chineseTranslation": "「人工智能」的最新进展使机器能够模仿人类的推理能力。",
+          "chinglishFix": "Chinglish: 'The machine has smart thinking.' Correct: 'The machine exhibits 「artificial intelligence」.'"
+        },
+        {
+          "scene": "在职场培训中，HR经理强调团队合作中理解他人情感的重要性。",
+          "chineseIdea": "强调理解和处理情感的能力对人际关系至关重要。",
+          "sentenceWithBlank": "Developing @ @ is crucial for effective teamwork and leadership.",
+          "fullEnglishSentence": "Developing 「emotional intelligence」 is crucial for effective teamwork and leadership.",
+          "chineseTranslation": "培养「情感智能」对于有效的团队合作和领导力至关重要。",
+          "chinglishFix": "Chinglish: 'Good feelings control is needed for teamwork.' Correct: '「Emotional intelligence」 is needed for teamwork.'"
+        }
+      ]
+    },
+    {
+      "meaning": "Information collected, often secretly, for strategic or security purposes",
+      "usage": "Refers to data or insights gathered, typically in contexts like espionage, military, or government operations.",
+      "collocations": ["gather intelligence", "military intelligence", "classified intelligence"],
+      "examples": [
+        {
+          "scene": "在一个国家安全会议上，官员们讨论从敌方收集到的最新情报。",
+          "chineseIdea": "描述通过秘密手段获取关键信息以制定战略。",
+          "sentenceWithBlank": "The agency was tasked with @ @ on foreign operations.",
+          "fullEnglishSentence": "The agency was tasked with 「gathering intelligence」 on foreign operations.",
+          "chineseTranslation": "该机构被指派「收集情报」关于外国行动。",
+          "chinglishFix": "Chinglish: 'Get secret news about enemies.' Correct: '「Gather intelligence」 about adversaries.'"
+        },
+        {
+          "scene": "在军事基地中，指挥官分析从侦察任务中获得的机密数据。",
+          "chineseIdea": "强调处理高度敏感的信息以保护国家安全。",
+          "sentenceWithBlank": "Access to @ @ is restricted to authorized personnel only.",
+          "fullEnglishSentence": "Access to 「classified intelligence」 is restricted to authorized personnel only.",
+          "chineseTranslation": "只有授权人员才能访问「机密情报」。",
+          "chinglishFix": "Chinglish: 'Secret knowledge is only for some people.' Correct: '「Classified intelligence」 is restricted to authorized personnel.'"
+        }
+      ]
+    }
+  ]
+}
+```

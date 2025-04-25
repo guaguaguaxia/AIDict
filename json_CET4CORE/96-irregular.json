@@ -1,0 +1,76 @@
+```json
+{
+  "word": "irregular",
+  "definitions": [
+    {
+      "meaning": "不规则的；不规律的",
+      "usage": "描述某事物不符合常规模式、形状、时间或规则，常用于描述形状、行为、时间间隔等。",
+      "collocations": ["irregular shape", "irregular pattern", "irregular schedule"],
+      "examples": [
+        {
+          "scene": "在一个艺术课堂上，老师让学生观察不同的几何图形，并描述它们的特征。学生注意到一个图形没有固定的边长或角度。",
+          "chineseIdea": "这个图形没有规则的形状，边长和角度都不统一，看起来很特别。",
+          "sentenceWithBlank": "The sculpture we studied had an @ @ that fascinated everyone.",
+          "fullEnglishSentence": "The sculpture we studied had an 「irregular shape」 that fascinated everyone.",
+          "chineseTranslation": "我们研究的雕塑有一个「不规则的形状」，让每个人都着迷。",
+          "chinglishFix": "典型中式英语：This sculpture's shape is not regular. 纠正：The sculpture has an irregular shape."
+        },
+        {
+          "scene": "在一家服装工厂，质检员检查一批新生产的布料，发现有些布料的纹理分布不均匀。",
+          "chineseIdea": "这些布料的纹路没有固定的规律，分布得很随意。",
+          "sentenceWithBlank": "The fabric was rejected due to its @ @.",
+          "fullEnglishSentence": "The fabric was rejected due to its 「irregular pattern」.",
+          "chineseTranslation": "这块布料因为其「不规则的纹理」而被拒绝。",
+          "chinglishFix": "典型中式英语：The fabric's pattern is not even. 纠正：The fabric has an irregular pattern."
+        }
+      ]
+    },
+    {
+      "meaning": "不正常的；异常的",
+      "usage": "描述某事物偏离正常状态或标准，常用于描述行为、健康、情况等。",
+      "collocations": ["irregular heartbeat", "irregular behavior", "irregular circumstances"],
+      "examples": [
+        {
+          "scene": "在医院里，医生正在为一位患者检查心电图，发现心跳节奏异常。",
+          "chineseIdea": "患者的心跳没有固定的节奏，可能是健康问题。",
+          "sentenceWithBlank": "The doctor was concerned about the patient’s @ @.",
+          "fullEnglishSentence": "The doctor was concerned about the patient’s 「irregular heartbeat」.",
+          "chineseTranslation": "医生担心患者的「不正常的心跳」。",
+          "chinglishFix": "典型中式英语：The patient’s heart beats not normal. 纠正：The patient has an irregular heartbeat."
+        },
+        {
+          "scene": "在学校里，老师注意到一个学生最近的行为有些反常，经常无故缺课。",
+          "chineseIdea": "这个学生的行为不符合平时的表现，显得很奇怪。",
+          "sentenceWithBlank": "The teacher reported the student’s @ @ to the counselor.",
+          "fullEnglishSentence": "The teacher reported the student’s 「irregular behavior」 to the counselor.",
+          "chineseTranslation": "老师向辅导员报告了学生的「异常行为」。",
+          "chinglishFix": "典型中式英语：The student’s behavior is not usual. 纠正：The student is showing irregular behavior."
+        }
+      ]
+    },
+    {
+      "meaning": "不合常规的；不符合规则的",
+      "usage": "描述某事物或行为不符合既定的规则、标准或预期，常用于正式或法律场景。",
+      "collocations": ["irregular procedure", "irregular election", "irregular practice"],
+      "examples": [
+        {
+          "scene": "在一个公司内部审计中，审计员发现某些财务操作不符合标准流程。",
+          "chineseIdea": "这些操作没有按照规定的程序进行，存在问题。",
+          "sentenceWithBlank": "The audit revealed an @ @ in the financial department.",
+          "fullEnglishSentence": "The audit revealed an 「irregular procedure」 in the financial department.",
+          "chineseTranslation": "审计发现财务部门存在「不合规的程序」。",
+          "chinglishFix": "典型中式英语：The procedure is not according to rules. 纠正：The procedure is irregular."
+        },
+        {
+          "scene": "在一个社区选举中，居民投诉投票过程存在不公平现象。",
+          "chineseIdea": "选举的某些环节没有按照规定进行，影响了公正性。",
+          "sentenceWithBlank": "The committee investigated claims of an @ @.",
+          "fullEnglishSentence": "The committee investigated claims of an 「irregular election」.",
+          "chineseTranslation": "委员会调查了关于「不合规选举」的投诉。",
+          "chinglishFix": "典型中式英语：The election is not standard. 纠正：The election was irregular."
+        }
+      ]
+    }
+  ]
+}
+```
