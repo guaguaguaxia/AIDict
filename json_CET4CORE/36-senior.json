@@ -1,0 +1,76 @@
+```json
+{
+  "word": "senior",
+  "definitions": [
+    {
+      "meaning": "年长的，资深的",
+      "usage": "用作形容词，指某人年龄较大或在某个领域有较多经验，通常用于描述人或其地位。",
+      "collocations": ["senior citizen", "senior member", "senior management"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，组织者正在向一群年龄较大的参与者介绍活动安排。",
+          "chineseIdea": "想表达这些参与者是年纪较大的群体，享有某些特殊待遇。",
+          "sentenceWithBlank": "The community center offers discounts to @ @.",
+          "fullEnglishSentence": "The community center offers discounts to 「senior citizens」.",
+          "chineseTranslation": "社区中心为「老年人」提供折扣。",
+          "chinglishFix": "典型中式英语：'old people get discounts'，纠正为：'Senior citizens receive discounts'，因为'senior citizen'是更礼貌且常见的表达。"
+        },
+        {
+          "scene": "在一家公司的新员工培训中，导师提到一位在公司工作多年的员工。",
+          "chineseIdea": "想表达这位员工在公司有很长的资历，是团队中的重要人物。",
+          "sentenceWithBlank": "You’ll be working closely with a @ @ of our team.",
+          "fullEnglishSentence": "You’ll be working closely with a 「senior member」 of our team.",
+          "chineseTranslation": "你将与我们团队的「资深成员」密切合作。",
+          "chinglishFix": "典型中式英语：'old member of team'，纠正为：'senior member of the team'，因为'senior'更准确地表示资历而非年龄。"
+        }
+      ]
+    },
+    {
+      "meaning": "高年级的",
+      "usage": "用作形容词，主要用于教育场景，指处于学校最后一年或更高年级的学生。",
+      "collocations": ["senior year", "senior student", "senior class"],
+      "examples": [
+        {
+          "scene": "在一所高中，学生们正在讨论即将到来的毕业典礼。",
+          "chineseIdea": "想表达这是学生们在学校的最后一年，充满期待和挑战。",
+          "sentenceWithBlank": "The @ @ is always the most exciting time in high school.",
+          "fullEnglishSentence": "The 「senior year」 is always the most exciting time in high school.",
+          "chineseTranslation": "「高三年级」总是高中最激动人心的时光。",
+          "chinglishFix": "典型中式英语：'last year of high school'，纠正为：'senior year'，因为'senior year'是美国教育体系中的固定表达。"
+        },
+        {
+          "scene": "在大学校园里，学生会正在招募志愿者组织一场活动。",
+          "chineseIdea": "想表达招募对象是即将毕业的高年级学生，因为他们更有经验。",
+          "sentenceWithBlank": "We’re looking for @ @ to lead this event.",
+          "fullEnglishSentence": "We’re looking for 「senior students」 to lead this event.",
+          "chineseTranslation": "我们正在寻找「高年级学生」来领导这项活动。",
+          "chinglishFix": "典型中式英语：'old students'，纠正为：'senior students'，因为'senior'特指高年级学生，而非年龄。"
+        }
+      ]
+    },
+    {
+      "meaning": "高级的，较高的",
+      "usage": "用作形容词，指职位、地位或级别较高，通常用于职业或组织结构中。",
+      "collocations": ["senior position", "senior executive", "senior officer"],
+      "examples": [
+        {
+          "scene": "在一家跨国公司的年度会议上，主持人介绍了一位新上任的高管。",
+          "chineseIdea": "想表达这位高管在公司中占据重要的高级职位。",
+          "sentenceWithBlank": "She was recently promoted to a @ @ in the company.",
+          "fullEnglishSentence": "She was recently promoted to a 「senior position」 in the company.",
+          "chineseTranslation": "她最近被提升为公司中的「高级职位」。",
+          "chinglishFix": "典型中式英语：'high position'，纠正为：'senior position'，因为'senior position'更常用于描述职场中的高级角色。"
+        },
+        {
+          "scene": "在一家银行的新闻发布会上，记者询问一位高管关于新政策的问题。",
+          "chineseIdea": "想表达这位高管是银行中负责重大决策的高级管理人员。",
+          "sentenceWithBlank": "The decision was made by a @ @ in the bank.",
+          "fullEnglishSentence": "The decision was made by a 「senior executive」 in the bank.",
+          "chineseTranslation": "该决定由银行中的「高级管理人员」作出。",
+          "chinglishFix": "典型中式英语：'big manager'，纠正为：'senior executive'，因为'senior executive'是更专业和自然的表达。"
+        }
+      ]
+    }
+  ]
+}
+```
