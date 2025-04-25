@@ -1,0 +1,76 @@
+```json
+{
+  "word": "choke",
+  "definitions": [
+    {
+      "meaning": "无法正常呼吸，因为喉咙被堵塞或空气不足",
+      "usage": "指因食物、物体卡住喉咙或外部压力导致呼吸困难，常用于描述紧急或危险情况。",
+      "collocations": ["choke on food", "choke to death", "choke back tears"],
+      "examples": [
+        {
+          "scene": "在一个热闹的家庭聚会上，大家围坐在餐桌旁吃晚饭。突然，一个孩子因为吃得太快，食物卡在喉咙里，开始咳嗽，脸色发红。",
+          "chineseIdea": "描述一个人因为食物堵塞喉咙而无法呼吸的紧急情况。",
+          "sentenceWithBlank": "The child started to @ @ @ during dinner, causing everyone to panic.",
+          "fullEnglishSentence": "The child started to 「choke on food」 during dinner, causing everyone to panic.",
+          "chineseTranslation": "孩子在晚餐时开始「被食物卡住」，让所有人都惊慌失措。",
+          "chinglishFix": "中式英语：'He was blocked by food.' 纠正：'He choked on his food.'"
+        },
+        {
+          "scene": "在一场感人的婚礼上，新娘回忆起已故的父亲，强忍住泪水，努力继续她的演讲。",
+          "chineseIdea": "描述一个人在情感激动时试图控制泪水，喉咙像被堵住的感觉。",
+          "sentenceWithBlank": "She struggled to @ @ @ while giving her speech at the wedding.",
+          "fullEnglishSentence": "She struggled to 「choke back tears」 while giving her speech at the wedding.",
+          "chineseTranslation": "她在婚礼上演讲时努力「强忍泪水」。",
+          "chinglishFix": "中式英语：'She held her tears.' 纠正：'She choked back her tears.'"
+        }
+      ]
+    },
+    {
+      "meaning": "在关键时刻失败或表现失常，通常因紧张或压力",
+      "usage": "常用于描述在比赛、考试或重要场合中因心理压力而未能发挥正常水平。",
+      "collocations": ["choke under pressure", "choke in competition", "choke at the last moment"],
+      "examples": [
+        {
+          "scene": "在一场重要的篮球比赛最后几秒，球队明星球员拿到球，准备投决定胜负的一球，但因为全场观众的注视，他投篮失误。",
+          "chineseIdea": "描述一个人在关键时刻因紧张而失败。",
+          "sentenceWithBlank": "The star player @ @ @ during the final shot, missing the basket.",
+          "fullEnglishSentence": "The star player 「choked under pressure」 during the final shot, missing the basket.",
+          "chineseTranslation": "明星球员在最后投篮时「因压力失常」，错失了进球。",
+          "chinglishFix": "中式英语：'He failed because of nervous.' 纠正：'He choked under pressure.'"
+        },
+        {
+          "scene": "在一场全国演讲比赛的决赛中，一位参赛者平时表现很好，但在面对评委和观众时，忘记了台词，愣在台上。",
+          "chineseIdea": "描述一个人在比赛中因紧张而表现失常。",
+          "sentenceWithBlank": "Despite her preparation, she @ @ @ in front of the judges.",
+          "fullEnglishSentence": "Despite her preparation, she 「choked in competition」 in front of the judges.",
+          "chineseTranslation": "尽管准备充分，她在评委面前「在比赛中失常」。",
+          "chinglishFix": "中式英语：'She lost her words in the competition.' 纠正：'She choked in the competition.'"
+        }
+      ]
+    },
+    {
+      "meaning": "阻塞或堵塞某物，如管道或通道",
+      "usage": "指物理上堵塞物体或空间，常见于描述管道、道路或机械设备。",
+      "collocations": ["choke a drain", "choke with debris", "choke the engine"],
+      "examples": [
+        {
+          "scene": "在一个老旧的房子里，厨房的下水道因为长期积累的油脂和食物残渣，水流变得非常缓慢，几乎无法排水。",
+          "chineseIdea": "描述管道被杂物堵塞导致无法正常运作。",
+          "sentenceWithBlank": "The kitchen sink was slow because grease had started to @ @ @.",
+          "fullEnglishSentence": "The kitchen sink was slow because grease had started to 「choke a drain」.",
+          "chineseTranslation": "厨房水槽排水慢，因为油脂开始「堵塞下水道」。",
+          "chinglishFix": "中式英语：'The drain was blocked by oil.' 纠正：'The drain was choked with grease.'"
+        },
+        {
+          "scene": "在一场暴风雨后，城市的街道被落叶和垃圾覆盖，排水系统被堵塞，导致路面积水严重。",
+          "chineseIdea": "描述通道被杂物堵塞，影响正常功能。",
+          "sentenceWithBlank": "The storm left the streets @ @ @, causing widespread flooding.",
+          "fullEnglishSentence": "The storm left the streets 「choked with debris」, causing widespread flooding.",
+          "chineseTranslation": "暴风雨让街道「被杂物堵塞」，导致大范围积水。",
+          "chinglishFix": "中式英语：'The street was full of rubbish.' 纠正：'The street was choked with debris.'"
+        }
+      ]
+    }
+  ]
+}
+```

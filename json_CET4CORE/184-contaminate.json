@@ -1,0 +1,53 @@
+```json
+{
+  "word": "contaminate",
+  "definitions": [
+    {
+      "meaning": "使某物受到污染或有害物质的影响，导致其不纯净或不安全",
+      "usage": "通常用于描述环境、食品、水源或物体因接触有害物质（如化学物质、细菌等）而变得不安全或不适合使用。",
+      "collocations": ["contaminated water", "contaminated food", "contaminated soil"],
+      "examples": [
+        {
+          "scene": "在一个乡村地区，附近的工厂未经处理的废水排入河流，导致河水无法饮用。村民们发现鱼类开始死亡，水质变得浑浊。",
+          "chineseIdea": "工厂的废水让河水变脏，村民担心喝了会生病。",
+          "sentenceWithBlank": "The river has been polluted, and the @ @ is no longer safe to drink.",
+          "fullEnglishSentence": "The river has been polluted, and the 「contaminated water」 is no longer safe to drink.",
+          "chineseTranslation": "这条河被污染了，「被污染的水」不再适合饮用。",
+          "chinglishFix": "典型中式英语：'The water is dirty because of the factory.' 纠正：'The water is contaminated due to industrial waste.'（用'contaminated'更精确地描述污染状态，并指出原因）"
+        },
+        {
+          "scene": "在一个食品加工厂，工人发现一批鸡肉在运输过程中被细菌感染，必须销毁以防止消费者生病。",
+          "chineseIdea": "鸡肉被细菌弄坏了，不能卖给顾客。",
+          "sentenceWithBlank": "Due to improper storage, the @ @ had to be discarded to avoid health risks.",
+          "fullEnglishSentence": "Due to improper storage, the 「contaminated food」 had to be discarded to avoid health risks.",
+          "chineseTranslation": "由于储存不当，「被污染的食品」不得不被丢弃以避免健康风险。",
+          "chinglishFix": "典型中式英语：'The food is bad and cannot be eaten.' 纠正：'The food is contaminated and unsafe for consumption.'（'contaminated'更具体，强调食品安全问题）"
+        }
+      ]
+    },
+    {
+      "meaning": "在比喻意义上，玷污或破坏某事物的纯洁性或完整性",
+      "usage": "用于描述抽象概念，如思想、名誉、文化等，因外部不良影响而受到损害或玷污。",
+      "collocations": ["contaminated reputation", "contaminated culture", "contaminated ideas"],
+      "examples": [
+        {
+          "scene": "一位公众人物因被曝光参与不道德的商业交易，导致其多年来建立的良好形象受损。",
+          "chineseIdea": "丑闻让他的名声不再干净，公众不再信任他。",
+          "sentenceWithBlank": "The scandal severely damaged his @ @, making it hard for him to regain public trust.",
+          "fullEnglishSentence": "The scandal severely damaged his 「contaminated reputation」, making it hard for him to regain public trust.",
+          "chineseTranslation": "丑闻严重损害了他的「被玷污的名声」，使他难以重新获得公众信任。",
+          "chinglishFix": "典型中式英语：'His name is broken by the scandal.' 纠正：'His reputation has been contaminated by the scandal.'（用'contaminated reputation'更贴合英语表达，强调名声的玷污）"
+        },
+        {
+          "scene": "在一个传统村落，外来文化的过度商业化让当地节日失去了原有的精神内涵。",
+          "chineseIdea": "外来的商业化让传统文化变得不纯粹。",
+          "sentenceWithBlank": "The influx of tourism has led to a @ @, diluting the village’s authentic traditions.",
+          "fullEnglishSentence": "The influx of tourism has led to a 「contaminated culture」, diluting the village’s authentic traditions.",
+          "chineseTranslation": "旅游业的涌入导致了「被玷污的文化」，冲淡了村庄的真实传统。",
+          "chinglishFix": "典型中式英语：'The culture is not pure because of tourists.' 纠正：'The culture has been contaminated by excessive tourism.'（用'contaminated'更生动，突出文化纯洁性的丧失）"
+        }
+      ]
+    }
+  ]
+}
+```

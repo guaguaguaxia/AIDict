@@ -1,0 +1,53 @@
+```json
+{
+  "word": "capable",
+  "definitions": [
+    {
+      "meaning": "有能力做某事，能胜任",
+      "usage": "形容一个人或事物具有完成某项任务或处理某情况的能力，通常强调技能、才干或潜力。常用于正面评价，搭配of后接动名词或名词。",
+      "collocations": ["capable of doing", "capable of handling", "capable of achieving"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，团队正在讨论谁能领导一个复杂的新项目。经理对一位年轻员工的表现印象深刻，认为她能胜任这个挑战。",
+          "chineseIdea": "经理想表达这位员工有足够的能力来领导项目，强调她的技能和潜力。",
+          "sentenceWithBlank": "She is @ @ @ the project successfully despite its complexity.",
+          "fullEnglishSentence": "She is 「capable of doing」 the project successfully despite its complexity.",
+          "chineseTranslation": "她「有能力完成」这个项目，尽管它很复杂。",
+          "chinglishFix": "典型中式英语：She has ability to do the project. 纠正：She is capable of doing the project.（‘has ability’不够地道，capable of更自然。）"
+        },
+        {
+          "scene": "在学校，老师正在评价一名学生在数学竞赛中的表现，觉得他能够应对高难度的题目。",
+          "chineseIdea": "老师想表达学生有处理复杂数学问题的能力，强调他的才干。",
+          "sentenceWithBlank": "He is @ @ @ complex math problems under pressure.",
+          "fullEnglishSentence": "He is 「capable of handling」 complex math problems under pressure.",
+          "chineseTranslation": "他「有能力处理」压力下的复杂数学问题。",
+          "chinglishFix": "典型中式英语：He can handle complex math problems very good. 纠正：He is capable of handling complex math problems.（‘very good’不适合描述能力，capable of更精确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "有潜力达到某目标，具有可能性",
+      "usage": "强调某人或某事物有实现某目标的潜力，常用于描述未来可能性或预期成就。搭配of后接动名词或名词，语气稍显正式。",
+      "collocations": ["capable of becoming", "capable of producing", "capable of delivering"],
+      "examples": [
+        {
+          "scene": "在创业公司，一位投资者在评估一个初创团队时，认为他们的产品有很大的市场潜力。",
+          "chineseIdea": "投资者想表达这个团队的产品有成为市场领导者的潜力。",
+          "sentenceWithBlank": "Their product is @ @ @ a market leader in the industry.",
+          "fullEnglishSentence": "Their product is 「capable of becoming」 a market leader in the industry.",
+          "chineseTranslation": "他们的产品「有潜力成为」行业中的市场领导者。",
+          "chinglishFix": "典型中式英语：Their product can become market leader. 纠正：Their product is capable of becoming a market leader.（‘can become’缺乏潜力强调，capable of更适合。）"
+        },
+        {
+          "scene": "在一场环保会议上，演讲者讨论一种新型太阳能技术，认为它能显著减少碳排放。",
+          "chineseIdea": "演讲者想表达这种技术有提供高效能源的潜力。",
+          "sentenceWithBlank": "This technology is @ @ @ clean energy on a large scale.",
+          "fullEnglishSentence": "This technology is 「capable of delivering」 clean energy on a large scale.",
+          "chineseTranslation": "这项技术「有能力提供」大规模的清洁能源。",
+          "chinglishFix": "典型中式英语：This technology can give clean energy. 纠正：This technology is capable of delivering clean energy.（‘can give’不地道，deliver更适合描述技术输出。）"
+        }
+      ]
+    }
+  ]
+}
+```
