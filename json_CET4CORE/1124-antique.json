@@ -1,0 +1,53 @@
+```json
+{
+  "word": "antique",
+  "definitions": [
+    {
+      "meaning": "古老且有价值的物品，通常因其历史、文化或工艺价值而被珍视",
+      "usage": "作为名词，指具有历史或文化价值的古老物品，通常用于收藏或装饰；作为形容词，描述某物古老或具有古董特征。",
+      "collocations": ["antique furniture", "antique jewelry", "antique shop"],
+      "examples": [
+        {
+          "scene": "一位年轻女性在周末逛当地的古董市场，寻找独特的家居装饰品。她发现了一件精美的老式木椅，吸引了她的注意。",
+          "chineseIdea": "她想为自己的新公寓增添一些复古的韵味，希望通过购买老式物品来体现个人品味。",
+          "sentenceWithBlank": "She found a beautiful piece of @ @ in the market.",
+          "fullEnglishSentence": "She found a beautiful piece of 「antique furniture」 in the market.",
+          "chineseTranslation": "她在市场上找到了一件漂亮的「古董家具」。",
+          "chinglishFix": "典型中式英语：'She buy old furniture for house.' 纠正：'She bought antique furniture to decorate her home.'"
+        },
+        {
+          "scene": "一位收藏家在拍卖会上看到一件精致的19世纪项链，决定将其加入自己的收藏。",
+          "chineseIdea": "他认为这件首饰不仅美观，还承载了历史价值，值得投资。",
+          "sentenceWithBlank": "He bid on a stunning piece of @ @ at the auction.",
+          "fullEnglishSentence": "He bid on a stunning piece of 「antique jewelry」 at the auction.",
+          "chineseTranslation": "他在拍卖会上竞拍了一件惊艳的「古董珠宝」。",
+          "chinglishFix": "典型中式英语：'He want old jewelry in auction.' 纠正：'He wanted to acquire antique jewelry at the auction.'"
+        }
+      ]
+    },
+    {
+      "meaning": "形容某物或某人过时或属于过去时代",
+      "usage": "作为形容词，用来描述某事物或某人显得过时、陈旧，通常带有轻微的贬义或中性语气。",
+      "collocations": ["antique methods", "antique ideas", "antique charm"],
+      "examples": [
+        {
+          "scene": "一位年轻工程师在公司会议上提出改进建议，但老员工坚持使用传统的工作方式，认为新方法不必要。",
+          "chineseIdea": "老员工认为传统方法经过时间考验，依然有效，不需要改变。",
+          "sentenceWithBlank": "The senior staff clung to their @ @ despite new technology.",
+          "fullEnglishSentence": "The senior staff clung to their 「antique methods」 despite new technology.",
+          "chineseTranslation": "资深员工坚持使用他们的「古老方法」，尽管有新技术。",
+          "chinglishFix": "典型中式英语：'They use old method for work.' 纠正：'They insisted on using antique methods for their work.'"
+        },
+        {
+          "scene": "一位游客在参观一座古老的欧洲小镇时，被其传统的建筑和街道布局所吸引，感觉仿佛穿越回了中世纪。",
+          "chineseIdea": "游客认为这种古老的氛围为小镇增添了独特的吸引力，让人流连忘返。",
+          "sentenceWithBlank": "The town’s @ @ captivated every visitor.",
+          "fullEnglishSentence": "The town’s 「antique charm」 captivated every visitor.",
+          "chineseTranslation": "小镇的「古老魅力」吸引了每一位游客。",
+          "chinglishFix": "典型中式英语：'Town has old feeling.' 纠正：'The town’s antique charm was enchanting.'"
+        }
+      ]
+    }
+  ]
+}
+```

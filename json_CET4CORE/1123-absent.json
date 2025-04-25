@@ -1,0 +1,53 @@
+```json
+{
+  "word": "absent",
+  "definitions": [
+    {
+      "meaning": "不在场；缺席",
+      "usage": "形容一个人或物不在某个预期或应该出现的地方，通常用于描述物理上的缺席，如不在房间、会议或活动中。",
+      "collocations": ["absent from", "conspicuously absent", "absent without leave"],
+      "examples": [
+        {
+          "scene": "在一个重要的公司会议中，团队成员小李因为生病没有到场，领导对此感到有些不满。",
+          "chineseIdea": "想表达某人没有出现在应该出现的地方，强调缺席的状态。",
+          "sentenceWithBlank": "Li was @ @ the meeting due to illness.",
+          "fullEnglishSentence": "Li was 「absent from」 the meeting due to illness.",
+          "chineseTranslation": "小李因为生病「缺席了」会议。",
+          "chinglishFix": "典型中式英语：'Li didn't come to the meeting.' 纠正：'Li was absent from the meeting.'（避免直接翻译‘没来’，使用更自然的‘absent from’表达缺席。）"
+        },
+        {
+          "scene": "在一场家庭聚会上，大家都期待看到老王，但他在没有任何通知的情况下没有出现。",
+          "chineseIdea": "想突出某人明显地没有出现在众人期待的场合，带有一种引人注目的缺席感。",
+          "sentenceWithBlank": "Wang was @ @ at the family gathering, which surprised everyone.",
+          "fullEnglishSentence": "Wang was 「conspicuously absent」 at the family gathering, which surprised everyone.",
+          "chineseTranslation": "老王在家庭聚会上「明显缺席」，这让大家都感到惊讶。",
+          "chinglishFix": "典型中式英语：'Wang didn't show up obviously.' 纠正：'Wang was conspicuously absent.'（避免‘明显地没出现’，使用‘conspicuously absent’更贴合英语表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "心不在焉；缺乏",
+      "usage": "形容某人精神上不在状态，注意力不集中，或某事物（如某种特质或情感）缺失。",
+      "collocations": ["absent-minded", "absent look", "absent of"],
+      "examples": [
+        {
+          "scene": "课堂上，学生小张因为昨晚没睡好，总是走神，老师注意到他眼神空洞。",
+          "chineseIdea": "想描述一个人因为分心或疲惫而显得注意力不集中，精神状态不佳。",
+          "sentenceWithBlank": "Zhang seemed @ during the class, staring blankly.",
+          "fullEnglishSentence": "Zhang seemed 「absent-minded」 during the class, staring blankly.",
+          "chineseTranslation": "小张在课堂上显得「心不在焉」，眼神空洞。",
+          "chinglishFix": "典型中式英语：'Zhang's heart was not here.' 纠正：'Zhang seemed absent-minded.'（避免直译‘心不在这里’，使用‘absent-minded’更自然。）"
+        },
+        {
+          "scene": "在一场讨论会上，主持人试图激发大家的热情，但参与者反应冷淡，缺乏活力。",
+          "chineseIdea": "想表达某种特质（如热情、兴趣）在某场景中明显缺失。",
+          "sentenceWithBlank": "The discussion was @ @ enthusiasm, making it quite dull.",
+          "fullEnglishSentence": "The discussion was 「absent of」 enthusiasm, making it quite dull.",
+          "chineseTranslation": "讨论「缺乏」热情，显得非常乏味。",
+          "chinglishFix": "典型中式英语：'The discussion had no enthusiasm.' 纠正：'The discussion was absent of enthusiasm.'（‘absent of’更正式且符合英语习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```

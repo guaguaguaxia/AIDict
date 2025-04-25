@@ -1,0 +1,53 @@
+```json
+{
+  "word": "appealing",
+  "definitions": [
+    {
+      "meaning": "吸引人的，有吸引力的",
+      "usage": "形容某事物因其美观、令人愉悦或有趣而引起兴趣或好感，常用于描述产品、想法、外观或体验。",
+      "collocations": ["visually appealing", "highly appealing", "broadly appealing"],
+      "examples": [
+        {
+          "scene": "你在一家咖啡店，看到一个装饰精美的蛋糕展示柜，蛋糕的颜色和设计让人忍不住想买一个。",
+          "chineseIdea": "蛋糕的外观非常吸引人，让人觉得它们不仅好看，而且可能会很好吃。",
+          "sentenceWithBlank": "The cakes in the display case were @ @, drawing in customers with their vibrant colors.",
+          "fullEnglishSentence": "The cakes in the display case were 「visually appealing」, drawing in customers with their vibrant colors.",
+          "chineseTranslation": "展示柜里的蛋糕「非常吸引人」，它们鲜艳的颜色吸引了顾客。",
+          "chinglishFix": "中式英语：The cakes look very attract. 纠正：The cakes are visually appealing."
+        },
+        {
+          "scene": "你在网上浏览度假旅游套餐，看到一个海岛度假的广告，图片和描述让你特别想去。",
+          "chineseIdea": "广告的设计和内容让人觉得这个度假套餐非常有吸引力，值得一游。",
+          "sentenceWithBlank": "The island vacation package was @ @, with stunning photos and exciting activities.",
+          "fullEnglishSentence": "The island vacation package was 「highly appealing」, with stunning photos and exciting activities.",
+          "chineseTranslation": "这个海岛度假套餐「非常吸引人」，有惊艳的照片和激动人心的活动。",
+          "chinglishFix": "中式英语：This package is very interesting. 纠正：This package is highly appealing."
+        }
+      ]
+    },
+    {
+      "meaning": "恳求的，请求的",
+      "usage": "描述某人或某行为带有恳求或请求的语气，通常用于表达强烈的情感诉求或请求帮助。",
+      "collocations": ["appealing look", "appealing tone", "appealing gesture"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，你的小侄女用可怜巴巴的眼神看着你，希望你能给她一块巧克力。",
+          "chineseIdea": "小侄女的眼神充满了请求，让你觉得不给巧克力都不好意思。",
+          "sentenceWithBlank": "Her @ @ made it impossible to refuse her request for chocolate.",
+          "fullEnglishSentence": "Her 「appealing look」 made it impossible to refuse her request for chocolate.",
+          "chineseTranslation": "她「恳求的眼神」让人无法拒绝她要巧克力的请求。",
+          "chinglishFix": "中式英语：Her eyes are very beg. 纠正：She had an appealing look."
+        },
+        {
+          "scene": "你在看一部电影，主角在法庭上用充满感情的声音向法官请求宽恕。",
+          "chineseIdea": "主角的声音带着强烈的恳求，试图打动法官以获得同情。",
+          "sentenceWithBlank": "The defendant spoke in an @ @, hoping to sway the judge’s decision.",
+          "fullEnglishSentence": "The defendant spoke in an 「appealing tone」, hoping to sway the judge’s decision.",
+          "chineseTranslation": "被告用「恳求的语气」说话，希望能影响法官的决定。",
+          "chinglishFix": "中式英语：His voice is very plead. 纠正：He spoke in an appealing tone."
+        }
+      ]
+    }
+  ]
+}
+```
