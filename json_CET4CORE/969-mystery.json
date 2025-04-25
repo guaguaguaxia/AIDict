@@ -1,0 +1,53 @@
+```json
+{
+  "word": "mystery",
+  "definitions": [
+    {
+      "meaning": "Something that is difficult or impossible to understand or explain",
+      "usage": "Refers to events, situations, or phenomena that are puzzling or have unknown causes, often sparking curiosity or investigation.",
+      "collocations": ["solve a mystery", "unravel a mystery", "shrouded in mystery"],
+      "examples": [
+        {
+          "scene": "在一个安静的小镇上，居民们发现了一座废弃的老宅，里面传出奇怪的声音。每个人都在猜测这些声音的来源，但没人能给出确切的答案。",
+          "chineseIdea": "人们希望通过调查或搜集线索来解释这些奇怪现象背后的原因。",
+          "sentenceWithBlank": "The strange noises in the old house were so puzzling that the townspeople gathered to @ @ @.",
+          "fullEnglishSentence": "The strange noises in the old house were so puzzling that the townspeople gathered to 「solve a mystery」.",
+          "chineseTranslation": "老宅里奇怪的声音如此令人费解，以至于镇上的人们聚集在一起「解开一个谜团」。",
+          "chinglishFix": "Chinglish: 'Find the answer of the mystery.' Correct: 'Solve the mystery.' Explanation: In English, 'solve' is the natural verb for addressing a mystery, while 'find the answer' is less idiomatic."
+        },
+        {
+          "scene": "一位记者在调查一个著名画家的失踪案。画家的最后作品似乎隐藏着线索，但没人能完全理解它的含义。",
+          "chineseIdea": "记者试图通过分析画作的细节，逐步揭开画家失踪背后的真相。",
+          "sentenceWithBlank": "The journalist spent months analyzing the painting to @ @ @ behind the artist’s disappearance.",
+          "fullEnglishSentence": "The journalist spent months analyzing the painting to 「unravel a mystery」 behind the artist’s disappearance.",
+          "chineseTranslation": "记者花了几个月分析这幅画，试图「揭开一个谜团」，了解画家失踪背后的真相。",
+          "chinglishFix": "Chinglish: 'Open the mystery.' Correct: 'Unravel the mystery.' Explanation: 'Unravel' conveys the gradual process of solving something complex, while 'open' is not used in this context."
+        }
+      ]
+    },
+    {
+      "meaning": "A novel, story, or movie dealing with a puzzling crime, especially a murder",
+      "usage": "Refers to a genre of fiction where the plot revolves around solving a crime, often with suspense and investigation.",
+       "collocations": ["read a mystery", "write a mystery", "a gripping mystery"],
+      "examples": [
+        {
+          "scene": "在一个下雨的周末，李明决定待在家里，泡一杯茶，打开一本新买的侦探小说，沉浸在故事中。",
+          "chineseIdea": "李明想通过阅读一本扣人心弦的小说来放松心情，享受推理的乐趣。",
+          "sentenceWithBlank": "On a rainy afternoon, Li Ming curled up with a cup of tea to @ @ @.",
+          "fullEnglishSentence": "On a rainy afternoon, Li Ming curled up with a cup of tea to 「read a mystery」.",
+          "chineseTranslation": "在一个下雨的下午，李明蜷缩在沙发上，端着一杯茶「读一本悬疑小说」。",
+          "chinglishFix": "Chinglish: 'See a mystery book.' Correct: 'Read a mystery.' Explanation: The verb 'read' is used for books, while 'see' is incorrect in this context."
+        },
+        {
+          "scene": "一位年轻作家在咖啡馆里构思自己的第一部小说，希望创作一个让读者无法放下来的故事。",
+          "chineseIdea": "作家想通过精心设计的情节和意想不到的转折，创作一部引人入胜的小说。",
+          "sentenceWithBlank": "The young author spent hours in the café, plotting twists for @ @ @.",
+          "fullEnglishSentence": "The young author spent hours in the café, plotting twists for 「a gripping mystery」.",
+          "chineseTranslation": "这位年轻作家在咖啡馆里花了几个小时，为「一部扣人心弦的悬疑小说」设计曲折的情节。",
+          "chinglishFix": "Chinglish: 'A very interesting mystery.' Correct: 'A gripping mystery.' Explanation: 'Gripping' is a precise adjective for a story that holds attention, while 'very interesting' is vague and less idiomatic."
+        }
+      ]
+    }
+  ]
+}
+```

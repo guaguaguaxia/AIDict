@@ -1,0 +1,53 @@
+```json
+{
+  "word": "marvelous",
+  "definitions": [
+    {
+      "meaning": "令人惊叹的，极好的（描述某事物非常出色、令人印象深刻）",
+      "usage": "用作形容词，通常用来描述令人惊叹或非常优秀的事物、经历或品质，常用于正面评价，带有赞美和惊喜的情感色彩。",
+      "collocations": ["a marvelous experience", "marvelous weather", "a marvelous performance"],
+      "examples": [
+        {
+          "scene": "你在上海参加了一场国际音乐节，乐队的现场演出非常精彩，观众都沉浸在音乐中。",
+          "chineseIdea": "你想表达这场音乐会给你留下了深刻的印象，乐队的表演让你感到震撼和愉悦。",
+          "sentenceWithBlank": "The concert was truly @ @ @, with every musician playing in perfect harmony.",
+          "fullEnglishSentence": "The concert was truly 「a marvelous experience」, with every musician playing in perfect harmony.",
+          "chineseTranslation": "这场音乐会真是「一次令人惊叹的体验」，每个音乐家都演奏得完美和谐。",
+          "chinglishFix": "典型中式英语：The concert is very good experience. 纠正：The concert was a marvelous experience.（避免用‘very good’这种泛泛的词，marvelous更能传达强烈的正面评价）"
+        },
+        {
+          "scene": "你和朋友在杭州西湖边散步，阳光明媚，微风轻轻吹过，景色美得让人心情愉悦。",
+          "chineseIdea": "你想表达今天的天气非常适合户外活动，阳光和微风让人感到非常舒服。",
+          "sentenceWithBlank": "We enjoyed @ @ @ today, perfect for a walk by the lake.",
+          "fullEnglishSentence": "We enjoyed 「marvelous weather」 today, perfect for a walk by the lake.",
+          "chineseTranslation": "我们今天享受了「极好的天气」，非常适合在湖边散步。",
+          "chinglishFix": "典型中式英语：Today’s weather is very beautiful. 纠正：The weather was marvelous today.（‘very beautiful’不够地道，marvelous更自然且符合英语表达习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "不可思议的，奇妙的（强调某事物超乎寻常，令人难以置信）",
+      "usage": "用作形容词，描述某事物因其非凡或出乎意料的特性而显得奇妙，通常带有一种惊奇或敬畏的情感。",
+      "collocations": ["a marvelous invention", "marvelous technology", "a marvelous coincidence"],
+      "examples": [
+        {
+          "scene": "你在北京的一个科技展会上看到了一款智能机器人，它能与人对话、完成复杂任务，令人叹为观止。",
+          "chineseIdea": "你想表达这个机器人是一个令人惊叹的科技成果，展示了人类创造力的无限可能。",
+          "sentenceWithBlank": "This robot is @ @ @, capable of performing tasks we never thought possible.",
+          "fullEnglishSentence": "This robot is 「a marvelous invention」, capable of performing tasks we never thought possible.",
+          "chineseTranslation": "这个机器人是「一项不可思议的发明」，能够完成我们从未想过的任务。",
+          "chinglishFix": "典型中式英语：This robot is very great invention. 纠正：This robot is a marvelous invention.（‘very great’显得生硬，marvelous更能表达惊叹之情）"
+        },
+        {
+          "scene": "你在广州旅行时，意外遇到了一个多年未见的老朋友，恰好你们住在同一家酒店。",
+          "chineseIdea": "你想表达这次偶遇非常巧合，简直让人觉得不可思议。",
+          "sentenceWithBlank": "Meeting my old friend here was @ @ @, like something out of a movie.",
+          "fullEnglishSentence": "Meeting my old friend here was 「a marvelous coincidence」, like something out of a movie.",
+          "chineseTranslation": "在这里遇到老朋友是「一个奇妙的巧合」，就像电影里的情节一样。",
+          "chinglishFix": "典型中式英语：This is very strange coincidence. 纠正：This was a marvelous coincidence.（‘very strange’不准确，marvelous更能表达奇妙的感觉）"
+        }
+      ]
+    }
+  ]
+}
+```

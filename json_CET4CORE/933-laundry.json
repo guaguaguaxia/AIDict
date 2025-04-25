@@ -1,0 +1,53 @@
+```json
+{
+  "word": "laundry",
+  "definitions": [
+    {
+      "meaning": "需要清洗或已经清洗的衣物",
+      "usage": "指一堆需要洗涤的衣物，通常是日常生活中穿过的脏衣服、床单、毛巾等。可以是未洗的，也可以是已经洗好但还未整理的衣物。",
+      "collocations": ["do the laundry", "wash the laundry", "fold the laundry"],
+      "examples": [
+        {
+          "scene": "周末的早晨，小明在家里整理房间，发现床边堆了一堆脏衣服和床单，妈妈让他把这些衣物处理好。",
+          "chineseIdea": "小明需要把这些脏衣物清洗干净，恢复整洁。",
+          "sentenceWithBlank": "Mom asked Xiao Ming to @ @ @ to keep the house tidy.",
+          "fullEnglishSentence": "Mom asked Xiao Ming to 「do the laundry」 to keep the house tidy.",
+          "chineseTranslation": "妈妈让小明「洗衣服」以保持房子整洁。",
+          "chinglishFix": "典型中式英语：'Wash clothes' → 纠正：'Do the laundry'（用'do the laundry'更自然，表示完成整个洗衣过程）"
+        },
+        {
+          "scene": "李女士下班回家，看到洗衣机里有一堆刚洗好的湿衣服，她决定把它们晾起来。",
+          "chineseIdea": "李女士需要把洗好的湿衣服整理好，可能是晾干或放入烘干机。",
+          "sentenceWithBlank": "Ms. Li decided to @ @ @ after taking them out of the washing machine.",
+          "fullEnglishSentence": "Ms. Li decided to 「fold the laundry」 after taking them out of the washing machine.",
+          "chineseTranslation": "李女士决定在从洗衣机取出衣物后「叠衣服」。",
+          "chinglishFix": "典型中式英语：'Arrange clothes' → 纠正：'Fold the laundry'（'fold the laundry'更具体，指洗好后整理衣物的动作）"
+        }
+      ]
+    },
+    {
+      "meaning": "洗衣店或洗衣服务",
+      "usage": "指提供洗衣服务的商业场所或服务，如干洗店或自助洗衣房。也可以指洗衣的整体行为或业务。",
+      "collocations": ["send to the laundry", "pick up the laundry", "drop off the laundry"],
+      "examples": [
+        {
+          "scene": "张先生有一件昂贵的西装需要干洗，他决定送到专业的洗衣店处理。",
+          "chineseIdea": "张先生希望西装被专业清洗，保持衣物的质地和外观。",
+          "sentenceWithBlank": "Mr. Zhang decided to @ @ @ to ensure his suit was properly cleaned.",
+          "fullEnglishSentence": "Mr. Zhang decided to 「send to the laundry」 to ensure his suit was properly cleaned.",
+          "chineseTranslation": "张先生决定「送到洗衣店」以确保他的西装被妥善清洗。",
+          "chinglishFix": "典型中式英语：'Give clothes to wash shop' → 纠正：'Send to the laundry'（'send to the laundry'更简洁自然，指送去洗衣服务）"
+        },
+        {
+          "scene": "王小姐周末去自助洗衣房洗衣服，洗完后她需要回去取回。",
+          "chineseIdea": "王小姐需要在洗衣完成后返回洗衣房把衣服取回来。",
+          "sentenceWithBlank": "Miss Wang went to @ @ @ after the washing cycle was done.",
+          "fullEnglishSentence": "Miss Wang went to 「pick up the laundry」 after the washing cycle was done.",
+          "chineseTranslation": "王小姐在洗衣周期完成后去「取回衣服」。",
+          "chinglishFix": "典型中式英语：'Take clothes back' → 纠正：'Pick up the laundry'（'pick up the laundry'是更地道的表达，指从洗衣店取回）"
+        }
+      ]
+    }
+  ]
+}
+```
