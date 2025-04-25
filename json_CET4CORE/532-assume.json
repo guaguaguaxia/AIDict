@@ -1,0 +1,53 @@
+```json
+{
+  "word": "assume",
+  "definitions": [
+    {
+      "meaning": "认为某事为真（未经证实）",
+      "usage": "指在没有充分证据的情况下，主观认为某事是真实的，常用于猜测或推测的语境。",
+      "collocations": ["take for granted", "make an assumption", "based on the assumption"],
+      "examples": [
+        {
+          "scene": "在公司会议中，同事们正在讨论一个新项目的预算，但数据尚未完全确认。有人提出一个大胆的计划。",
+          "chineseIdea": "你觉得这个计划可能过于乐观，因为它建立在一些未经证实的基础上。",
+          "sentenceWithBlank": "You shouldn't @ @ @ that the budget will be approved without further review.",
+          "fullEnglishSentence": "You shouldn't 「take for granted」 that the budget will be approved without further review.",
+          "chineseTranslation": "你不应该「想当然地认为」预算会未经进一步审查就通过。",
+          "chinglishFix": "典型中式英语：'You think budget will pass no problem.' 纠正：'You shouldn't assume the budget will be approved without issues.'"
+        },
+        {
+          "scene": "在大学课堂上，教授布置了一个小组项目，但没有明确说明评分标准。学生们开始猜测。",
+          "chineseIdea": "你推测评分可能是基于团队合作和最终成果的质量。",
+          "sentenceWithBlank": "The students @ @ @ that teamwork is a key factor in grading.",
+          "fullEnglishSentence": "The students 「made an assumption」 that teamwork is a key factor in grading.",
+          "chineseTranslation": "学生们「做出了假设」，认为团队合作是评分的关键因素。",
+          "chinglishFix": "典型中式英语：'Students guess teamwork is important.' 纠正：'Students assumed that teamwork is a key factor.'"
+        }
+      ]
+    },
+    {
+      "meaning": "承担（责任、角色等）",
+      "usage": "指正式接受或开始承担某项职责、角色或义务，常用于正式或职业场合。",
+      "collocations": ["assume responsibility", "assume the role", "assume control"],
+      "examples": [
+        {
+          "scene": "一家公司的高层管理人员突然离职，新上任的经理需要快速适应并领导团队。",
+          "chineseIdea": "你认为新经理需要迅速承担起领导团队的责任。",
+          "sentenceWithBlank": "The new manager had to @ @ quickly to stabilize the team.",
+          "fullEnglishSentence": "The new manager had to 「assume responsibility」 quickly to stabilize the team.",
+          "chineseTranslation": "新经理必须迅速「承担责任」，以稳定团队。",
+          "chinglishFix": "典型中式英语：'New manager must take the job fast.' 纠正：'The new manager must assume responsibility quickly.'"
+        },
+        {
+          "scene": "在学校的学生会选举后，新当选的主席需要领导组织未来的活动。",
+          "chineseIdea": "你认为新主席需要正式开始履行职责，展现领导力。",
+          "sentenceWithBlank": "After the election, she @ @ @ as the student council president.",
+          "fullEnglishSentence": "After the election, she 「assumed the role」 as the student council president.",
+          "chineseTranslation": "选举后，她「担任了角色」作为学生会主席。",
+          "chinglishFix": "典型中式英语：'She become president after election.' 纠正：'She assumed the role of president after the election.'"
+        }
+      ]
+    }
+  ]
+}
+```

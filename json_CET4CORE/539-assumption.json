@@ -1,0 +1,53 @@
+```json
+{
+  "word": "assumption",
+  "definitions": [
+    {
+      "meaning": "未经证实就认为某事为真",
+      "usage": "指在没有充分证据的情况下，假定某事是真实的。通常用于描述对事实、情况或他人意图的推测，可能带有轻微的负面含义，因为它可能导致误解。",
+      "collocations": ["make an assumption", "based on the assumption", "challenge an assumption"],
+      "examples": [
+        {
+          "scene": "在公司会议中，团队正在讨论新产品的市场策略。营销经理根据过去的经验，推测年轻消费者会更喜欢鲜艳的包装。",
+          "chineseIdea": "营销经理认为年轻消费者喜欢鲜艳的颜色，但没有实际数据支持这个想法。",
+          "sentenceWithBlank": "The marketing manager @ @ @ that younger consumers prefer bright packaging.",
+          "fullEnglishSentence": "The marketing manager 「made an assumption」 that younger consumers prefer bright packaging.",
+          "chineseTranslation": "营销经理「假设」年轻消费者更喜欢鲜艳的包装。",
+          "chinglishFix": "典型中式英语：'He suppose younger people like bright colors.' 纠正：'Suppose'通常指假设某事可能发生，语气较轻，不适合正式推测。应使用'make an assumption'表示基于某种依据的推测。"
+        },
+        {
+          "scene": "在大学课堂上，教授正在讨论一项研究，指出研究结论的前提是所有参与者都诚实回答了问卷。",
+          "chineseIdea": "教授认为研究结果的可靠性依赖于参与者的诚实，但这只是一个未经验证的前提。",
+          "sentenceWithBlank": "The study was @ @ @ @ that all participants answered honestly.",
+          "fullEnglishSentence": "The study was 「based on the assumption」 that all participants answered honestly.",
+          "chineseTranslation": "这项研究「基于假设」所有参与者都诚实回答。",
+          "chinglishFix": "典型中式英语：'The study depend on all people answer truly.' 纠正：'Depend on'不适合表达研究的假设基础，且'truly'不自然。应使用'based on the assumption'来表示研究的假设前提。"
+        }
+      ]
+    },
+    {
+      "meaning": "承担某事物（如责任、角色等）",
+      "usage": "指正式接受或承担某项责任、职务或角色，通常用于正式或法律语境，强调主动或被动的接管。",
+      "collocations": ["assumption of responsibility", "assumption of power", "assumption of a role"],
+      "examples": [
+        {
+          "scene": "在一家公司中，由于前任经理突然离职，新上任的经理需要迅速接管团队的领导职责。",
+          "chineseIdea": "新经理需要正式承担起领导团队的责任，尽管他还没有完全准备好。",
+          "sentenceWithBlank": "The new manager faced the @ @ @ in leading the team.",
+          "fullEnglishSentence": "The new manager faced the 「assumption of responsibility」 in leading the team.",
+          "chineseTranslation": "新经理面临「承担责任」领导团队的挑战。",
+          "chinglishFix": "典型中式英语：'He must take the duty to lead team.' 纠正：'Take the duty'显得生硬，且不够正式。应使用'assumption of responsibility'来表达正式承担责任。"
+        },
+        {
+          "scene": "在一个政治事件中，新当选的领导人正式接管国家权力，开始履行职责。",
+          "chineseIdea": "新领导人通过仪式或法律程序，正式开始掌控国家的治理权。",
+          "sentenceWithBlank": "The ceremony marked the @ @ @ by the new leader.",
+          "fullEnglishSentence": "The ceremony marked the 「assumption of power」 by the new leader.",
+          "chineseTranslation": "仪式标志着新领导人「接管权力」。",
+          "chinglishFix": "典型中式英语：'He start to control the power.' 纠正：'Control the power'不地道，且缺乏正式感。应使用'assumption of power'表示正式接管权力。"
+        }
+      ]
+    }
+  ]
+}
+```
