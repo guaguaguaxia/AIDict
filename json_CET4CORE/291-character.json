@@ -1,0 +1,76 @@
+```json
+{
+  "word": "character",
+  "definitions": [
+    {
+      "meaning": "个性、性格",
+      "usage": "指一个人或事物的独特品质、个性或特点，通常用来描述内在的道德、行为或态度。",
+      "collocations": ["strong character", "build character", "true character"],
+      "examples": [
+        {
+          "scene": "在一次团队合作的项目中，团队成员需要面对高强度的工作压力和时间限制。每个人都在观察彼此如何应对挑战。",
+          "chineseIdea": "在压力下，一个人的真实品质会显现出来，比如是否坚韧、冷静或有责任感。",
+          "sentenceWithBlank": "She showed a @ @ during the crisis, staying calm and leading the team effectively.",
+          "fullEnglishSentence": "She showed a 「strong character」 during the crisis, staying calm and leading the team effectively.",
+          "chineseTranslation": "她在危机中展现了「坚强的个性」，保持冷静并有效领导团队。",
+          "chinglishFix": "典型中式英语：'She has a strong personality in the crisis.' 纠正：'Personality' 更指外在性格或社交特质，而 'character' 强调内在品质。应改为 'She showed a strong character.'"
+        },
+        {
+          "scene": "一位家长在和老师讨论孩子的成长，提到参加夏令营对孩子的积极影响。",
+          "chineseIdea": "通过克服困难的经历，孩子可以培养坚韧和自信的品质。",
+          "sentenceWithBlank": "The summer camp helped the kids @ @ by pushing them out of their comfort zones.",
+          "fullEnglishSentence": "The summer camp helped the kids 「build character」 by pushing them out of their comfort zones.",
+          "chineseTranslation": "夏令营通过让孩子们走出舒适区，帮助他们「培养个性」。",
+          "chinglishFix": "典型中式英语：'The camp made kids stronger.' 纠正：'Stronger' 过于模糊，未体现内在品质的培养。应改为 'build character' 以突出内在成长。"
+        }
+      ]
+    },
+    {
+      "meaning": "角色",
+      "usage": "指故事、电影、戏剧或游戏中的人物角色，强调其在叙事中的身份或功能。",
+      "collocations": ["main character", "play a character", "complex character"],
+      "examples": [
+        {
+          "scene": "一群朋友在讨论一部新上映的电影，重点聊到电影中领导反抗军的英雄。",
+          "chineseIdea": "故事中最重要的人物往往推动剧情发展，吸引观众的注意力。",
+          "sentenceWithBlank": "The @ @ in the movie was a brave leader who inspired everyone.",
+          "fullEnglishSentence": "The 「main character」 in the movie was a brave leader who inspired everyone.",
+          "chineseTranslation": "电影中的「主要角色」是一个勇敢的领袖，激励了所有人。",
+          "chinglishFix": "典型中式英语：'The most important person in the movie.' 纠正：'Person' 过于口语化且不专业，'main character' 是描述虚构角色的标准表达。"
+        },
+        {
+          "scene": "一位演员在接受采访时谈到自己如何准备一个历史剧中的角色。",
+          "chineseIdea": "演员需要深入理解角色的背景和情感，以便真实地呈现其形象。",
+          "sentenceWithBlank": "To @ @ @ convincingly, she studied the historical period for months.",
+          "fullEnglishSentence": "To 「play a character」 convincingly, she studied the historical period for months.",
+          "chineseTranslation": "为了「扮演角色」得令人信服，她研究了数月的历史背景。",
+          "chinglishFix": "典型中式英语：'To act a person well.' 纠正：'Act a person' 不符合英语习惯，'play a character' 是描述表演角色的正确表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "文字、符号",
+      "usage": "指书写系统中的单个字母、数字或符号，特别是在中文或其他非字母语言的语境中。",
+      "collocations": ["Chinese character", "write a character", "recognize a character"],
+      "examples": [
+        {
+          "scene": "一名外国学生在学习中文时，面对汉字的复杂结构感到困惑。",
+          "chineseIdea": "汉字不仅是语言的工具，还承载了文化和历史的意义。",
+          "sentenceWithBlank": "Learning to write a @ @ like '龙' takes a lot of practice.",
+          "fullEnglishSentence": "Learning to write a 「Chinese character」 like '龙' takes a lot of practice.",
+          "chineseTranslation": "学习写像「汉字」'龙'这样的需要很多练习。",
+          "chinglishFix": "典型中式英语：'Learning to write a Chinese word like 龙.' 纠正：'Word' 不准确，汉字是字符单位而非单词，应改为 'Chinese character'。"
+        },
+        {
+          "scene": "一位书法老师在指导学生练习书法时，强调每个笔画的重要性。",
+          "chineseIdea": "书法中每个符号的形态和顺序都体现了对传统的尊重。",
+          "sentenceWithBlank": "He carefully taught the students how to @ @ @ with proper strokes.",
+          "fullEnglishSentence": "He carefully taught the students how to 「write a character」 with proper strokes.",
+          "chineseTranslation": "他认真地教学生如何用正确的笔画「写字」。",
+          "chinglishFix": "典型中式英语：'He taught how to draw a character.' 纠正：'Draw' 更适合绘画而非书法，'write a character' 是更自然的表达。"
+        }
+      ]
+    }
+  ]
+}
+```

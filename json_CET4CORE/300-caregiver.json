@@ -1,0 +1,53 @@
+```json
+{
+  "word": "caregiver",
+  "definitions": [
+    {
+      "meaning": "为需要帮助的人（例如病人、老人或儿童）提供日常照顾和支持的人",
+      "usage": "指为他人提供身体、情感或日常生活支持的人，通常用于医疗、养老或家庭环境中，可能包括专业护理人员或非正式的家庭成员。",
+      "collocations": ["provide care", "emotional support", "daily assistance"],
+      "examples": [
+        {
+          "scene": "一位中年女性在家中照顾她患有老年痴呆症的母亲，帮她洗澡、吃饭，并陪她聊天。",
+          "chineseIdea": "表达对亲人无微不至的关怀，体现家庭责任和爱。",
+          "sentenceWithBlank": "She @ @ to her mother, ensuring she feels safe and loved.",
+          "fullEnglishSentence": "She 「provides care」 to her mother, ensuring she feels safe and loved.",
+          "chineseTranslation": "她「提供照顾」给她的母亲，确保她感到安全和被爱。",
+          "chinglishFix": "典型中式英语：'She gives care to her mother.' 纠正：'Provide care' 是更自然的搭配，'give care' 听起来不地道。"
+        },
+        {
+          "scene": "一位专业护理人员在养老院工作，每天帮助老人穿衣、吃饭，并关注他们的健康状况。",
+          "chineseIdea": "体现专业职责，确保服务对象的生活质量。",
+          "sentenceWithBlank": "The nurse @ @ @ to the elderly residents, helping them with their daily routines.",
+          "fullEnglishSentence": "The nurse 「provides care」 to the elderly residents, helping them with their daily routines.",
+          "chineseTranslation": "护士「提供照顾」给老年居民，帮助他们完成日常活动。",
+          "chinglishFix": "典型中式英语：'The nurse takes care to the elderly.' 纠正：'Provide care' 是正确的动词搭配，且不需要额外的 'to'。"
+        }
+      ]
+    },
+    {
+      "meaning": "在情感或心理层面上为他人提供支持和关怀的人",
+      "usage": "指在非正式场景中为朋友、家人或社区成员提供情感支持或心理安慰的人，通常强调关怀和陪伴。",
+      "collocations": ["offer support", "provide comfort", "lend a hand"],
+      "examples": [
+        {
+          "scene": "一位朋友在另一位朋友失恋后，陪她聊天、看电影，帮她走出低谷。",
+          "chineseIdea": "表达友情中的支持和陪伴，帮助对方恢复情绪。",
+          "sentenceWithBlank": "She @ @ to her friend, listening patiently to her troubles.",
+          "fullEnglishSentence": "She 「offers support」 to her friend, listening patiently to her troubles.",
+          "chineseTranslation": "她「提供支持」给她的朋友，耐心地倾听她的烦恼。",
+          "chinglishFix": "典型中式英语：'She gives support for her friend.' 纠正：'Offer support' 是更自然的表达，且不需要 'for'。"
+        },
+        {
+          "scene": "一位社区志愿者定期探访独居老人，与他们聊天，帮他们做些小家务。",
+          "chineseIdea": "体现社区互助精神，通过陪伴减轻他人的孤独感。",
+          "sentenceWithBlank": "The volunteer @ @ @ to the elderly, making their days brighter.",
+          "fullEnglishSentence": "The volunteer 「provides comfort」 to the elderly, making their days brighter.",
+          "chineseTranslation": "志愿者「提供安慰」给老人，让他们的日子更愉快。",
+          "chinglishFix": "典型中式英语：'The volunteer gives comfort for the elderly.' 纠正：'Provide comfort' 是更自然的搭配，且不需要 'for'。"
+        }
+      ]
+    }
+  ]
+}
+```

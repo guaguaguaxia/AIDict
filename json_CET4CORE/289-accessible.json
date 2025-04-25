@@ -1,0 +1,76 @@
+```json
+{
+  "word": "accessible",
+  "definitions": [
+    {
+      "meaning": "容易到达或进入",
+      "usage": "指物理上能够接近某个地点、建筑或设施，常用于描述对所有人（包括残疾人）来说是否方便进入。",
+      "collocations": ["easily accessible", "wheelchair accessible", "publicly accessible"],
+      "examples": [
+        {
+          "scene": "你在一家公司面试，面试官带你参观办公楼，特别提到大楼对残障人士的友好设计。",
+          "chineseIdea": "你想表达这栋楼对轮椅使用者来说很方便，可以轻松进出。",
+          "sentenceWithBlank": "The building is @ @ for people with disabilities.",
+          "fullEnglishSentence": "The building is 「wheelchair accessible」 for people with disabilities.",
+          "chineseTranslation": "这座大楼对残疾人来说是「轮椅可进入的」。",
+          "chinglishFix": "中式英语：'The building is convenient for wheelchairs.' 纠正：'The building is wheelchair accessible.'（'convenient' 不准确，'accessible' 更具体且常用于此场景。）"
+        },
+        {
+          "scene": "你和朋友计划去一个旅游景点，朋友提到这个景点交通便利，容易到达。",
+          "chineseIdea": "你想说这个景点可以通过公共交通轻松到达。",
+          "sentenceWithBlank": "The tourist spot is @ @ by bus or train.",
+          "fullEnglishSentence": "The tourist spot is 「easily accessible」 by bus or train.",
+          "chineseTranslation": "这个旅游景点通过公交或火车「容易到达」。",
+          "chinglishFix": "中式英语：'The spot is easy to go.' 纠正：'The spot is easily accessible.'（'easy to go' 不地道，'accessible' 更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "容易理解或获得",
+      "usage": "指信息、知识或资源易于理解或获取，常用于描述内容是否对普通人友好。",
+      "collocations": ["readily accessible", "universally accessible", "make information accessible"],
+      "examples": [
+        {
+          "scene": "你在大学图书馆查阅资料，教授推荐了一本入门书籍，适合初学者。",
+          "chineseIdea": "你想表达这本书的语言简单，容易理解，适合新手。",
+          "sentenceWithBlank": "The book is written in a way that makes it @ @ to beginners.",
+          "fullEnglishSentence": "The book is written in a way that makes it 「universally accessible」 to beginners.",
+          "chineseTranslation": "这本书的写作方式使其对初学者来说「通俗易懂」。",
+          "chinglishFix": "中式英语：'The book is easy for beginners.' 纠正：'The book is universally accessible to beginners.'（'easy' 过于笼统，'accessible' 更强调内容的可理解性。）"
+        },
+        {
+          "scene": "你在一个科技公司的网站上查找产品说明，觉得说明很清晰，普通用户也能看懂。",
+          "chineseIdea": "你想说这些信息对公众来说很容易获取和理解。",
+          "sentenceWithBlank": "The company strives to @ @ @ to all users.",
+          "fullEnglishSentence": "The company strives to 「make information accessible」 to all users.",
+          "chineseTranslation": "这家公司努力「让信息易于获取」给所有用户。",
+          "chinglishFix": "中式英语：'The company makes information simple to users.' 纠正：'The company makes information accessible to users.'（'simple' 不够准确，'accessible' 更强调信息的可得性。）"
+        }
+      ]
+    },
+    {
+      "meaning": "平易近人，易于接近",
+      "usage": "形容人性格友善，容易相处或与之交流，常用于描述某人是否亲切。",
+      "collocations": ["warmly accessible", "highly accessible", "approachably accessible"],
+      "examples": [
+        {
+          "scene": "你在一次会议上遇到一位著名教授，觉得他非常和蔼，愿意回答学生的问题。",
+          "chineseIdea": "你想表达这位教授很亲切，容易接近。",
+          "sentenceWithBlank": "Despite his fame, the professor is @ @ to students.",
+          "fullEnglishSentence": "Despite his fame, the professor is 「highly accessible」 to students.",
+          "chineseTranslation": "尽管他很有名，这位教授对学生来说「非常平易近人」。",
+          "chinglishFix": "中式英语：'The professor is easy to talk.' 纠正：'The professor is highly accessible.'（'easy to talk' 不地道，'accessible' 更贴合描述人亲切的特质。）"
+        },
+        {
+          "scene": "你的新上司在团队会议上鼓励大家随时找她讨论问题，给人很友好的感觉。",
+          "chineseIdea": "你想说新上司很随和，欢迎大家交流。",
+          "sentenceWithBlank": "Our new manager is @ @ and open to feedback.",
+          "fullEnglishSentence": "Our new manager is 「approachably accessible」 and open to feedback.",
+          "chineseTranslation": "我们的新经理「平易近人」且乐于接受反馈。",
+          "chinglishFix": "中式英语：'The manager is kind and easy.' 纠正：'The manager is approachably accessible.'（'kind and easy' 过于模糊，'accessible' 更具体。）"
+        }
+      ]
+    }
+  ]
+}
+```
