@@ -1,0 +1,76 @@
+```json
+{
+  "word": "value",
+  "definitions": [
+    {
+      "meaning": "The importance, worth, or usefulness of something",
+      "usage": "Refers to how much something is considered important or beneficial, often in a subjective or practical sense.",
+      "collocations": ["place value on", "add value to", "recognize the value of"],
+      "examples": [
+        {
+          "scene": "在一家公司里，经理正在与团队讨论如何提升产品的竞争力。员工提出了一些创新的想法，经理对此表示赞赏。",
+          "chineseIdea": "经理认为这些创新的想法对公司的产品有很大的重要性，能够提升市场地位。",
+          "sentenceWithBlank": "The manager @ @ @ the innovative ideas proposed by the team.",
+          "fullEnglishSentence": "The manager 「places value on」 the innovative ideas proposed by the team.",
+          "chineseTranslation": "经理「重视」团队提出的创新想法。",
+          "chinglishFix": "Chinglish: The manager thinks the ideas are very value. Correct: The manager places great value on the ideas."
+        },
+        {
+          "scene": "一位老师在课堂上鼓励学生积极参与讨论，因为她认为学生的声音能够丰富课堂内容。",
+          "chineseIdea": "老师觉得学生的参与能让课堂内容更有意义，提升学习体验。",
+          "sentenceWithBlank": "The teacher believes that student participation @ @ @ the classroom experience.",
+          "fullEnglishSentence": "The teacher believes that student participation 「adds value to」 the classroom experience.",
+          "chineseTranslation": "老师相信学生的参与「为课堂体验增添价值」。",
+          "chinglishFix": "Chinglish: Student participation makes the class more value. Correct: Student participation adds value to the class."
+        }
+      ]
+    },
+    {
+      "meaning": "The monetary worth of something",
+      "usage": "Refers to the price or economic worth of an item, service, or asset in a market context.",
+      "collocations": ["market value", "appreciate in value", "assess the value of"],
+      "examples": [
+        {
+          "scene": "在一场房产交易中，买家和卖家正在讨论一套房子的价格，卖家强调房子的位置优势。",
+          "chineseIdea": "卖家认为房子的地理位置让它的价格更高，值得投资。",
+          "sentenceWithBlank": "The seller emphasized that the house’s location increases its @ @.",
+          "fullEnglishSentence": "The seller emphasized that the house’s location increases its 「market value」.",
+          "chineseTranslation": "卖家强调房子的位置提高了它的「市场价值」。",
+          "chinglishFix": "Chinglish: The house’s location makes it more value. Correct: The house’s location increases its market value."
+        },
+        {
+          "scene": "一位收藏家在拍卖会上购买了一幅画，几年后发现这幅画的价格大幅上涨。",
+          "chineseIdea": "收藏家高兴地发现这幅画的经济价值随着时间增长了很多。",
+          "sentenceWithBlank": "The collector was thrilled to see that the painting had @ @ @ over the years.",
+          "fullEnglishSentence": "The collector was thrilled to see that the painting had 「appreciated in value」 over the years.",
+          "chineseTranslation": "收藏家兴奋地发现这幅画多年来「价值升值」了。",
+          "chinglishFix": "Chinglish: The painting’s value became higher. Correct: The painting has appreciated in value."
+        }
+      ]
+    },
+    {
+      "meaning": "A person’s principles or standards of behavior",
+      "usage": "Refers to moral or ethical beliefs that guide someone’s actions or decisions.",
+      "collocations": ["core values", "uphold values", "share values"],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，父母与孩子讨论诚实和责任感的重要性，希望孩子能继承这些品质。",
+          "chineseIdea": "父母希望孩子能将诚实和责任感作为行为准则，贯穿一生。",
+          "sentenceWithBlank": "The parents emphasized the importance of @ @ like honesty and responsibility.",
+          "fullEnglishSentence": "The parents emphasized the importance of 「core values」 like honesty and responsibility.",
+          "chineseTranslation": "父母强调了像诚实和责任感这样的「核心价值观」的重要性。",
+          "chinglishFix": "Chinglish: Honesty is a good value for kids. Correct: Honesty is one of the core values for kids."
+        },
+        {
+          "scene": "一家公司在招聘时，特别注重寻找与公司文化契合的员工，强调共同的理念。",
+          "chineseIdea": "公司希望新员工能认同并践行与公司一致的道德标准和信念。",
+          "sentenceWithBlank": "The company looks for employees who @ @ such as teamwork and integrity.",
+          "fullEnglishSentence": "The company looks for employees who 「share values」 such as teamwork and integrity.",
+          "chineseTranslation": "公司寻找认同「共同价值观」的员工，如团队合作和正直。",
+          "chinglishFix": "Chinglish: The company wants employees with same value. Correct: The company seeks employees who share its values."
+        }
+      ]
+    }
+  ]
+}
+```

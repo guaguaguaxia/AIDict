@@ -1,0 +1,76 @@
+```json
+{
+  "word": "witness",
+  "definitions": [
+    {
+      "meaning": "目击者，亲眼看到某事发生的人",
+      "usage": "指某人亲眼看到事件、事故或犯罪等，通常用于描述在法律或日常语境中报告所见的人。",
+      "collocations": ["eye witness", "key witness", "bear witness"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的市中心十字路口，发生了一起交通事故。一辆红色轿车与一辆白色货车相撞，周围有很多行人看到这一幕。",
+          "chineseIdea": "我想表达有很多人亲眼看到了这场事故，并且他们可以提供事故的细节。",
+          "sentenceWithBlank": "Several people at the intersection were @ @ to the car accident.",
+          "fullEnglishSentence": "Several people at the intersection were 「eye witness」 to the car accident.",
+          "chineseTranslation": "十字路口的几个人是这场车祸的「目击者」。",
+          "chinglishFix": "典型中式英语：'Many people looked the accident.' 纠正：'Many people witnessed the accident.'（'look' 改为 'witness'，因为 'look' 不传达亲眼见证事件的意思）。"
+        },
+        {
+          "scene": "在法庭上，一名男子被要求讲述他在案发现场看到的情况，因为他的证词对案件非常重要。",
+          "chineseIdea": "我想表达这个人的证词在案件中起关键作用，因为他亲眼看到了事件发生。",
+          "sentenceWithBlank": "The man was called as a @ @ in the trial due to his crucial testimony.",
+          "fullEnglishSentence": "The man was called as a 「key witness」 in the trial due to his crucial testimony.",
+          "chineseTranslation": "这名男子因其关键证词被传唤为审判中的「关键目击者」。",
+          "chinglishFix": "典型中式英语：'He is an important see person.' 纠正：'He is a key witness.'（'see person' 不自然，改为 'witness'，并用 'key' 表示重要性）。"
+        }
+      ]
+    },
+    {
+      "meaning": "见证，正式观察或确认某事的发生",
+      "usage": "指在正式场合（如婚礼、合同签署）中，作为第三方确认某事发生，或在更广义的语境中表示亲历某事。",
+      "collocations": ["witness a ceremony", "witness a signature", "witness an event"],
+      "examples": [
+        {
+          "scene": "在一场温馨的婚礼上，新人的好友被邀请在结婚证书上签字，以确认婚礼的合法性。",
+          "chineseIdea": "我想表达这个朋友在婚礼上不仅参加了，还正式确认了仪式的进行。",
+          "sentenceWithBlank": "Their close friend was honored to @ @ @ at the wedding.",
+          "fullEnglishSentence": "Their close friend was honored to 「witness a ceremony」 at the wedding.",
+          "chineseTranslation": "他们的密友很荣幸在婚礼上「见证仪式」。",
+          "chinglishFix": "典型中式英语：'He joined the wedding and signed.' 纠正：'He witnessed the wedding ceremony.'（'join' 不准确，'witness' 更能表达正式确认的意思）。"
+        },
+        {
+          "scene": "在一家公司，两名员工被要求在合同上签字，以确保交易的透明和合法性。",
+          "chineseIdea": "我想表达这两个员工在合同签署过程中起到了确认作用。",
+          "sentenceWithBlank": "Two employees were asked to @ @ @ on the legal document.",
+          "fullEnglishSentence": "Two employees were asked to 「witness a signature」 on the legal document.",
+          "chineseTranslation": "两名员工被要求在法律文件上「见证签名」。",
+          "chinglishFix": "典型中式英语：'They looked at the signing.' 纠正：'They witnessed the signature.'（'look at' 不传达正式见证的意思，改为 'witness'）。"
+        }
+      ]
+    },
+    {
+      "meaning": "证明或表明，体现某事的存在或真实性",
+      "usage": "用于描述某事作为证据，表明某种情况或趋势，通常带有抽象或历史性的含义。",
+      "collocations": ["witness a change", "witness a rise", "witness a decline"],
+      "examples": [
+        {
+          "scene": "过去十年，中国许多城市的高楼大厦如雨后春笋般出现，展现了快速的城市化进程。",
+          "chineseIdea": "我想表达这些高楼的出现反映了城市化进程的加快。",
+          "sentenceWithBlank": "The rapid construction of skyscrapers has @ @ @ in urban development.",
+          "fullEnglishSentence": "The rapid construction of skyscrapers has 「witnessed a change」 in urban development.",
+          "chineseTranslation": "摩天大楼的快速建设「见证了城市发展的变化」。",
+          "chinglishFix": "典型中式英语：'Skyscrapers show city grow.' 纠正：'Skyscrapers have witnessed a change in urban growth.'（'show' 过于简单，'witness a change' 更能表达抽象的证明含义）。"
+        },
+        {
+          "scene": "在全球科技行业，人工智能技术的应用在过去五年中显著增加。",
+          "chineseIdea": "我想表达人工智能的广泛应用表明了科技的进步。",
+          "sentenceWithBlank": "The past five years have @ @ @ in artificial intelligence applications.",
+          "fullEnglishSentence": "The past five years have 「witnessed a rise」 in artificial intelligence applications.",
+          "chineseTranslation": "过去五年「见证了人工智能应用的增长」。",
+          "chinglishFix": "典型中式英语：'AI has more use these years.' 纠正：'These years have witnessed a rise in AI applications.'（'more use' 不准确，'witness a rise' 更自然且符合英语表达习惯）。"
+        }
+      ]
+    }
+  ]
+}
+```
