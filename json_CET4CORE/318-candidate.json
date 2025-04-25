@@ -1,0 +1,53 @@
+```json
+{
+  "word": "candidate",
+  "definitions": [
+    {
+      "meaning": "竞选或申请某职位或角色的人",
+      "usage": "指参与竞选、求职或申请某个特定角色（如政治职位、工作岗位、奖项提名等）的人，通常强调其正在被评估或竞争。",
+      "collocations": ["run as a candidate", "select a candidate", "interview a candidate"],
+      "examples": [
+        {
+          "scene": "在一场地方选举中，社区居民正在讨论谁将代表他们的城市竞选市长。",
+          "chineseIdea": "人们希望选择一个有能力、有经验的人来领导城市，候选人需要通过竞选活动展示自己的优势。",
+          "sentenceWithBlank": "She decided to @ @ @ for mayor to address local issues.",
+          "fullEnglishSentence": "She decided to 「run as a candidate」 for mayor to address local issues.",
+          "chineseTranslation": "她决定「作为候选人竞选」市长，以解决当地问题。",
+          "chinglishFix": "典型中式英语：She wants to be a candidate to compete mayor. 纠正：She decided to run as a candidate for mayor."
+        },
+        {
+          "scene": "一家公司正在招聘新员工，人力资源部门正在筛选简历，准备面试。",
+          "chineseIdea": "公司希望找到最适合岗位的人，候选人需要通过面试展示自己的能力和经验。",
+          "sentenceWithBlank": "The HR team will @ @ @ tomorrow to assess their skills.",
+          "fullEnglishSentence": "The HR team will 「interview a candidate」 tomorrow to assess their skills.",
+          "chineseTranslation": "人力资源团队明天将「面试一名候选人」以评估他们的技能。",
+          "chinglishFix": "典型中式英语：We will talk with a candidate. 纠正：We will interview a candidate."
+        }
+      ]
+    },
+    {
+      "meaning": "适合某事物或被提名的人或物",
+      "usage": "指某人或某物被认为适合某个特定目的、角色或奖项，通常带有被推荐或被考虑的含义。",
+      "collocations": ["nominate a candidate", "ideal candidate", "potential candidate"],
+      "examples": [
+        {
+          "scene": "一个电影节的评审团正在讨论哪些电影应该获得最佳影片提名。",
+          "chineseIdea": "评审团希望选择一部真正优秀的电影作为提名对象，候选影片需要有独特的艺术价值。",
+          "sentenceWithBlank": "The jury decided to @ @ @ for the best film award.",
+          "fullEnglishSentence": "The jury decided to 「nominate a candidate」 for the best film award.",
+          "chineseTranslation": "评审团决定「提名一部候选影片」角逐最佳影片奖。",
+          "chinglishFix": "典型中式英语：They choose a candidate for the award. 纠正：They nominate a candidate for the award."
+        },
+        {
+          "scene": "一所大学正在寻找新的校长，校董会正在讨论合适的人选。",
+          "chineseIdea": "校董会希望找到一个既有学术背景又有领导能力的人，候选人需要满足多方面的要求。",
+          "sentenceWithBlank": "She is considered an @ @ for the position of university president.",
+          "fullEnglishSentence": "She is considered an 「ideal candidate」 for the position of university president.",
+          "chineseTranslation": "她被认为是大学校长职位的「理想候选人」。",
+          "chinglishFix": "典型中式英语：She is a perfect candidate. 纠正：She is an ideal candidate."
+        }
+      ]
+    }
+  ]
+}
+```

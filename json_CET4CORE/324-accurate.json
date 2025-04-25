@@ -1,0 +1,53 @@
+```json
+{
+  "word": "accurate",
+  "definitions": [
+    {
+      "meaning": "精确的，无误的",
+      "usage": "描述某事物在细节、数据或描述上完全正确，没有偏差或错误，通常用于测量、描述或信息传达。",
+      "collocations": ["accurate information", "accurate measurement", "accurate prediction", "accurate description"],
+      "examples": [
+        {
+          "scene": "一位工程师在工厂中检查机器生产出来的零件，确保它们符合设计规格。",
+          "chineseIdea": "工程师需要确保零件的尺寸和规格完全符合设计图纸，没有任何偏差。",
+          "sentenceWithBlank": "The engineer confirmed that the parts were produced with @ @.",
+          "fullEnglishSentence": "The engineer confirmed that the parts were produced with 「accurate measurement」.",
+          "chineseTranslation": "工程师确认零件是按照「精确的测量」生产的。",
+          "chinglishFix": "典型中式英语：'The parts are very correct.' 纠正：'The parts are accurately measured.'"
+        },
+        {
+          "scene": "一名记者在新闻发布会上记录政府官员的发言，确保报道内容真实。",
+          "chineseIdea": "记者希望自己的报道完全反映官员所说的话，没有任何歪曲。",
+          "sentenceWithBlank": "The journalist provided an @ @ of the official’s statement.",
+          "fullEnglishSentence": "The journalist provided an 「accurate description」 of the official’s statement.",
+          "chineseTranslation": "记者提供了官员声明的「精确描述」。",
+          "chinglishFix": "典型中式英语：'The description is very true.' 纠正：'The description is accurate.'"
+        }
+      ]
+    },
+    {
+      "meaning": "准确的，命中目标的",
+      "usage": "描述动作、判断或技能在目标达成上非常精准，常用于体育、射击或预测等场景。",
+      "collocations": ["accurate shot", "accurate aim", "accurate forecast", "accurate assessment"],
+      "examples": [
+        {
+          "scene": "一名足球运动员在比赛中尝试射门，球精准地飞向球门。",
+          "chineseIdea": "运动员希望自己的射门能够直接命中球门，而不是偏离目标。",
+          "sentenceWithBlank": "The striker’s @ @ went straight into the goal.",
+          "fullEnglishSentence": "The striker’s 「accurate shot」 went straight into the goal.",
+          "chineseTranslation": "前锋的「精准射门」直接进了球门。",
+          "chinglishFix": "典型中式英语：'The shot is very good.' 纠正：'The shot was accurate.'"
+        },
+        {
+          "scene": "一位气象学家在电视上预测未来一周的天气情况。",
+          "chineseIdea": "气象学家希望自己的预测能够与实际天气情况完全吻合。",
+          "sentenceWithBlank": "The meteorologist’s @ @ helped people prepare for the storm.",
+          "fullEnglishSentence": "The meteorologist’s 「accurate forecast」 helped people prepare for the storm.",
+          "chineseTranslation": "气象学家的「准确预测」帮助人们为风暴做好准备。",
+          "chinglishFix": "典型中式英语：'The forecast is very right.' 纠正：'The forecast was accurate.'"
+        }
+      ]
+    }
+  ]
+}
+```
