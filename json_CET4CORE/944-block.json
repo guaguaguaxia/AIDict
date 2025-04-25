@@ -1,0 +1,76 @@
+```json
+{
+  "word": "block",
+  "definitions": [
+    {
+      "meaning": "一个大的固体物体，通常有平坦的表面",
+      "usage": "指物理上的立方体或类似形状的物体，常用于建筑、玩具或切割材料。",
+      "collocations": ["building block", "wooden block", "concrete block"],
+      "examples": [
+        {
+          "scene": "在一个幼儿园的教室里，孩子们正在玩耍，地上散落着各种彩色的积木。他们用这些积木搭建房子、桥梁等结构。",
+          "chineseIdea": "孩子们用积木来创造不同的形状，堆叠它们来表达自己的创意。",
+          "sentenceWithBlank": "The children used @ @ to construct a tall tower.",
+          "fullEnglishSentence": "The children used 「building blocks」 to construct a tall tower.",
+          "chineseTranslation": "孩子们使用「积木」来建造一座高塔。",
+          "chinglishFix": "典型中式英语：'The children use blocks to build tower.' 纠正：'The children use building blocks to construct a tall tower.'（需使用正确的搭配building blocks，并注意construct更适合描述搭建过程）"
+        },
+        {
+          "scene": "在一个建筑工地上，工人们正在搬运材料，准备建造一堵墙。他们从卡车上卸下灰色的方形材料。",
+          "chineseIdea": "工人们用坚固的材料来建造墙体，确保结构稳固。",
+          "sentenceWithBlank": "The workers stacked @ @ to form the foundation of the wall.",
+          "fullEnglishSentence": "The workers stacked 「concrete blocks」 to form the foundation of the wall.",
+          "chineseTranslation": "工人堆砌「混凝土块」来构成墙的基础。",
+          "chinglishFix": "典型中式英语：'The workers put blocks to make wall.' 纠正：'The workers stacked concrete blocks to form the foundation of the wall.'（需使用concrete blocks，并用stack和form更精确地描述动作）"
+        }
+      ]
+    },
+    {
+      "meaning": "阻止或阻碍某事物的移动或进展",
+      "usage": "指物理上或抽象地阻挡某物，如道路、计划或信号。",
+      "collocations": ["block the way", "block access", "block progress"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的城市街道上，一辆卡车停在路中间，导致后面的车辆无法通过。司机们开始按喇叭，表达不满。",
+          "chineseIdea": "卡车阻碍了道路，阻止了其他车辆前进。",
+          "sentenceWithBlank": "The truck was @ @ @, causing a traffic jam.",
+          "fullEnglishSentence": "The truck was 「blocking the way」, causing a traffic jam.",
+          "chineseTranslation": "卡车「挡住了路」，导致了交通堵塞。",
+          "chinglishFix": "典型中式英语：'The truck stop the road.' 纠正：'The truck was blocking the way, causing a traffic jam.'（需使用block the way，并注意时态和搭配）"
+        },
+        {
+          "scene": "在一个公司会议中，团队正在讨论一个新项目的计划，但一位经理提出了许多反对意见，拖慢了讨论进程。",
+          "chineseIdea": "经理的反对阻碍了项目的推进，让团队难以达成共识。",
+          "sentenceWithBlank": "Her objections continued to @ @, delaying the project.",
+          "fullEnglishSentence": "Her objections continued to 「block progress」, delaying the project.",
+          "chineseTranslation": "她的反对继续「阻碍进展」，推迟了项目。",
+          "chinglishFix": "典型中式英语：'Her ideas stop the project.' 纠正：'Her objections continued to block progress, delaying the project.'（需使用block progress，并用objections更准确地表达反对）"
+        }
+      ]
+    },
+    {
+      "meaning": "城市中的街区，通常指建筑物之间的区域",
+      "usage": "指城市规划中的一个区域，通常由街道包围，常用在描述距离或位置时。",
+      "collocations": ["city block", "walk a block", "around the block"],
+      "examples": [
+        {
+          "scene": "在一个阳光明媚的下午，小明决定去附近的咖啡店买杯咖啡。他穿上鞋子，步行到街角的店铺。",
+          "chineseIdea": "咖啡店离小明的家很近，只需要走一小段路。",
+          "sentenceWithBlank": "The coffee shop is just @ @ @ away from his apartment.",
+          "fullEnglishSentence": "The coffee shop is just 「a block」 away from his apartment.",
+          "chineseTranslation": "咖啡店离他的公寓只有「一个街区」的距离。",
+          "chinglishFix": "典型中式英语：'The coffee shop is near one street.' 纠正：'The coffee shop is just a block away from his apartment.'（需使用a block来表示街区，并注意away的用法）"
+        },
+        {
+          "scene": "在一个安静的住宅区，孩子们在周末骑自行车，绕着他们住的区域玩耍，家长们站在路边看着。",
+          "chineseIdea": "孩子们在住的街区附近骑车，享受周末的乐趣。",
+          "sentenceWithBlank": "The kids rode their bikes @ @ @ to have fun.",
+          "fullEnglishSentence": "The kids rode their bikes 「around the block」 to have fun.",
+          "chineseTranslation": "孩子们骑着自行车「绕着街区」玩耍。",
+          "chinglishFix": "典型中式英语：'The kids ride bike near the street.' 纠正：'The kids rode their bikes around the block to have fun.'（需使用around the block，并注意ride的过去式）"
+        }
+      ]
+    }
+  ]
+}
+```

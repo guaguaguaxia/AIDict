@@ -1,0 +1,53 @@
+```json
+{
+  "word": "conspicuous",
+  "definitions": [
+    {
+      "meaning": "显眼的，引人注目的",
+      "usage": "形容某物或某人因突出、明显而容易被注意到，常用于描述外貌、行为或物体在环境中格外显眼的情况。",
+      "collocations": ["conspicuous by its absence", "make oneself conspicuous", "stand out conspicuously"],
+      "examples": [
+        {
+          "scene": "在一个安静的图书馆里，大家都在低头看书或写字，突然有个人穿着鲜艳的红色外套，大声地跟朋友聊天。",
+          "chineseIdea": "这个人因为穿着和行为与安静的环境形成强烈对比，吸引了所有人的目光。",
+          "sentenceWithBlank": "His bright red jacket and loud conversation @ @ @ in the quiet library.",
+          "fullEnglishSentence": "His bright red jacket and loud conversation 「made him conspicuous」 in the quiet library.",
+          "chineseTranslation": "他鲜艳的红色外套和响亮的谈话声在安静的图书馆里「让他非常显眼」。",
+          "chinglishFix": "中式英语：He is very 'eye-catching' in the library. 纠正：'Eye-catching' 更适合描述吸引目光的物体或设计，而非人的行为。应改为 'He stands out' 或 'He is conspicuous'。"
+        },
+        {
+          "scene": "在一场正式的会议中，所有人都穿着深色西装，但有一个人戴着夸张的绿色领带，显得格外突出。",
+          "chineseIdea": "绿色领带在单调的深色西装中显得特别显眼，让人不由得多看几眼。",
+          "sentenceWithBlank": "His green tie @ @ @ among the sea of dark suits at the meeting.",
+          "fullEnglishSentence": "His green tie 「stood out conspicuously」 among the sea of dark suits at the meeting.",
+          "chineseTranslation": "他的绿色领带在会议上一片深色西装中「格外显眼」。",
+          "chinglishFix": "中式英语：His tie is very 'obvious'. 纠正：'Obvious' 更强调逻辑上的显而易见，而非视觉上的突出。应改为 'His tie stands out' 或 'His tie is conspicuous'。"
+        }
+      ]
+    },
+    {
+      "meaning": "明显的，显而易见的",
+      "usage": "描述某事物（通常是问题、特征或事实）非常明显，容易被察觉，带有一定负面或中性含义，常用于正式或批评性语境。",
+      "collocations": ["conspicuous lack of", "conspicuous absence of", "conspicuously absent"],
+      "examples": [
+        {
+          "scene": "一个团队提交了一份项目报告，但报告中完全没有提到预算问题，尽管这是客户最关心的问题。",
+          "chineseIdea": "预算问题没有被提及，显得特别明显，让客户觉得团队可能在回避这个问题。",
+          "sentenceWithBlank": "The report’s @ @ @ budget details raised concerns among the clients.",
+          "fullEnglishSentence": "The report’s 「conspicuous absence of」 budget details raised concerns among the clients.",
+          "chineseTranslation": "报告中「明显缺乏」预算细节引起了客户的担忧。",
+          "chinglishFix": "中式英语：The report has no budget, it’s very 'clear'. 纠正：'Clear' 更适合描述透明或易懂，而非缺失的明显性。应改为 'The report conspicuously lacks' 或 'The absence of budget details is conspicuous'。"
+        },
+        {
+          "scene": "在一场重要的科技展览上，所有公司都展示了最新的产品，但一家知名公司却没有任何展位或宣传。",
+          "chineseIdea": "这家公司的缺席特别引人注目，因为大家都在期待他们的亮相。",
+          "sentenceWithBlank": "The company was @ @ at the technology expo, sparking widespread speculation.",
+          "fullEnglishSentence": "The company was 「conspicuously absent」 at the technology expo, sparking widespread speculation.",
+          "chineseTranslation": "这家公司在科技博览会上「明显缺席」，引发了广泛的猜测。",
+          "chinglishFix": "中式英语：The company didn’t come, it’s very 'strange'. 纠正：'Strange' 强调奇怪的感觉，而非缺席的明显性。应改为 'The company was conspicuously absent' 或 'Their absence was conspicuous'。"
+        }
+      ]
+    }
+  ]
+}
+```

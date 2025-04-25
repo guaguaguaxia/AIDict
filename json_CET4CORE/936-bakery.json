@@ -1,0 +1,53 @@
+```json
+{
+  "word": "bakery",
+  "definitions": [
+    {
+      "meaning": "A place where bread, cakes, pastries, and other baked goods are made or sold",
+      "usage": "Refers to a physical location, often a shop or store, where baked goods are produced on-site or sold to customers. Can also refer to the business itself.",
+      "collocations": ["freshly baked bread", "visit a bakery", "local bakery", "artisan bakery"],
+      "examples": [
+        {
+          "scene": "一个周末的早晨，你和朋友计划去市中心散步，闻到空气中飘来的面包香味，决定走进一家小店买些刚出炉的面包。",
+          "chineseIdea": "想要表达那种刚出炉的面包香气扑鼻，吸引人走进店里的感觉。",
+          "sentenceWithBlank": "The smell of @ @ @ drew us into the shop.",
+          "fullEnglishSentence": "The smell of 「freshly baked bread」 drew us into the shop.",
+          "chineseTranslation": "「刚烤好的面包」的香味把我们吸引进了店里。",
+          "chinglishFix": "Chinglish: 'The bread just baked smell let us go in.' Correction: 'The smell of freshly baked bread drew us into the shop.'"
+        },
+        {
+          "scene": "你住在一个安静的小镇，每周日早上你都会去附近的一家店买早餐用的面包和蛋糕。",
+          "chineseIdea": "描述一种习惯，定期去某个地方买烘焙食品的日常行为。",
+          "sentenceWithBlank": "Every Sunday, I @ @ @ to buy croissants and cakes.",
+          "fullEnglishSentence": "Every Sunday, I 「visit a bakery」 to buy croissants and cakes.",
+          "chineseTranslation": "每个星期天，我都会「去面包店」买羊角面包和蛋糕。",
+          "chinglishFix": "Chinglish: 'I go bakery every Sunday.' Correction: 'I visit a bakery every Sunday.'"
+        }
+      ]
+    },
+    {
+      "meaning": "The act or process of baking or the business of operating a place that produces baked goods",
+      "usage": "Refers to the trade, craft, or business operation of producing baked goods, often used in a more technical or industry context.",
+      "collocations": ["run a bakery", "work in a bakery", "start a bakery"],
+      "examples": [
+        {
+          "scene": "你的朋友一直梦想创业，她对烘焙充满热情，决定开一家自己的店，专注于手工面包和甜点。",
+          "chineseIdea": "表达某人为了实现梦想而开始经营一家烘焙生意的情景。",
+          "sentenceWithBlank": "She quit her job to @ @ @ specializing in artisan pastries.",
+          "fullEnglishSentence": "She quit her job to 「start a bakery」 specializing in artisan pastries.",
+          "chineseTranslation": "她辞掉工作去「开一家面包店」，专门做手工糕点。",
+          "chinglishFix": "Chinglish: 'She open a bake shop.' Correction: 'She started a bakery.'"
+        },
+        {
+          "scene": "你的邻居是一位面包师，每天清晨都在店里忙碌，制作各种面包和蛋糕，供应给社区的居民。",
+          "chineseIdea": "描述一个人在烘焙行业中工作的日常，强调他们的职业角色。",
+          "sentenceWithBlank": "He wakes up at 4 a.m. to @ @ @, preparing bread for the day.",
+          "fullEnglishSentence": "He wakes up at 4 a.m. to 「work in a bakery」, preparing bread for the day.",
+          "chineseTranslation": "他每天凌晨4点起床去「在面包店工作」，为当天准备面包。",
+          "chinglishFix": "Chinglish: 'He go to bakery work early.' Correction: 'He works in a bakery, starting early.'"
+        }
+      ]
+    }
+  ]
+}
+```

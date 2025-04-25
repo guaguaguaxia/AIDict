@@ -1,0 +1,53 @@
+```json
+{
+  "word": "comply",
+  "definitions": [
+    {
+      "meaning": "服从或遵循规则、法律、要求或指令",
+      "usage": "指在正式或强制性情境下，按照规定、法律、标准或他人要求采取行动。通常用于描述对权威或制度的顺从。",
+      "collocations": ["comply with regulations", "comply with the law", "comply with a request"],
+      "examples": [
+        {
+          "scene": "一家公司正在接受政府部门的审计，审计人员要求公司提供过去三年的财务记录。公司管理层指示会计部门全力配合，以确保符合相关规定。",
+          "chineseIdea": "公司需要按照政府部门的规章制度提供所需的文件，以避免处罚或法律问题。",
+          "sentenceWithBlank": "The company was required to @ @ @ to avoid penalties during the audit.",
+          "fullEnglishSentence": "The company was required to 「comply with regulations」 to avoid penalties during the audit.",
+          "chineseTranslation": "公司被要求「遵循规定」以在审计期间避免处罚。",
+          "chinglishFix": "典型中式英语：'The company must obey the regulations.' 纠正：'Obey' 更强调盲从，语气较强，而 'comply with regulations' 更正式且符合商业语境，强调按规则行事。"
+        },
+        {
+          "scene": "一位员工收到上司的邮件，要求在项目截止日期前提交一份详细的报告。员工尽管时间紧张，但仍努力完成并按时提交。",
+          "chineseIdea": "员工需要满足上司的要求，按时完成任务以展示职业态度。",
+          "sentenceWithBlank": "She worked overtime to @ @ @ from her manager.",
+          "fullEnglishSentence": "She worked overtime to 「comply with a request」 from her manager.",
+          "chineseTranslation": "她加班以「满足经理的要求」。",
+          "chinglishFix": "典型中式英语：'She must follow the manager’s request.' 纠正：'Follow' 过于笼统，'comply with a request' 更精确，强调正式回应要求。"
+        }
+      ]
+    },
+    {
+      "meaning": "顺从或配合某人的意愿或期望",
+      "usage": "指在非强制性情境下，为了满足他人期望或保持和谐而采取行动。通常带有自愿或礼貌的含义，常见于人际互动。",
+      "collocations": ["comply with expectations", "comply with a suggestion", "comply with someone’s wishes"],
+      "examples": [
+        {
+          "scene": "在一场家庭聚会上，母亲希望大家穿正式服装以营造温馨的氛围。尽管儿子更喜欢休闲装，但他还是穿上了西装。",
+          "chineseIdea": "儿子为了让母亲高兴，愿意按照她的期望调整自己的穿着。",
+          "sentenceWithBlank": "He wore a suit to @ @ @ of his mother.",
+          "fullEnglishSentence": "He wore a suit to 「comply with expectations」 of his mother.",
+          "chineseTranslation": "他穿了西装以「满足母亲的期望」。",
+          "chinglishFix": "典型中式英语：'He followed his mother’s expectation.' 纠正：'Follow' 缺乏礼貌顺从的语气，'comply with expectations' 更自然，体现尊重对方意愿。"
+        },
+        {
+          "scene": "在团队会议中，同事提出一个关于项目展示方式的建议。虽然这不是强制要求，但团队成员同意尝试以促进合作。",
+          "chineseIdea": "团队成员愿意接受同事的建议，以保持团队的和谐与协作。",
+          "sentenceWithBlank": "The team decided to @ @ @ to foster collaboration.",
+          "fullEnglishSentence": "The team decided to 「comply with a suggestion」 to foster collaboration.",
+          "chineseTranslation": "团队决定「接受建议」以促进协作。",
+          "chinglishFix": "典型中式英语：'The team obeyed the suggestion.' 纠正：'Obey' 带有强制性，'comply with a suggestion' 更适合描述自愿配合的场景。"
+        }
+      ]
+    }
+  ]
+}
+```

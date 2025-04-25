@@ -1,0 +1,53 @@
+```json
+{
+  "word": "constructive",
+  "definitions": [
+    {
+      "meaning": "有助于改进或发展的；建设性的",
+      "usage": "形容词，用于描述能够促进积极结果、解决问题或改善情况的行为、建议、批评等。通常与讨论、反馈、方法等相关，强调实用性和积极影响。",
+      "collocations": ["constructive feedback", "constructive criticism", "constructive dialogue", "constructive approach"],
+      "examples": [
+        {
+          "scene": "在一个团队会议中，项目经理对一名员工的设计提案提出了一些改进建议，语气温和且具体，旨在帮助员工提升设计质量。",
+          "chineseIdea": "经理希望通过具体的建议帮助员工改进设计，而不是简单地否定员工的工作。",
+          "sentenceWithBlank": "The manager provided @ @ to help refine the employee's design proposal.",
+          "fullEnglishSentence": "The manager provided 「constructive feedback」 to help refine the employee's design proposal.",
+          "chineseTranslation": "经理提供了「建设性的反馈」来帮助完善员工的设计提案。",
+          "chinglishFix": "典型中式英语：'The manager gave some useful suggestions.' 纠正：'The manager provided constructive feedback.'（中式英语常使用泛化的'suggestions'，而'constructive feedback'更具体，强调积极的改进作用。）"
+        },
+        {
+          "scene": "在学校的家长会上，老师与一位学生的家长讨论孩子在课堂上的表现，提出了具体的改进方法，比如增加课后阅读时间。",
+          "chineseIdea": "老师希望通过提出切实可行的建议，帮助学生提高学习表现，而不是仅仅批评孩子的不足。",
+          "sentenceWithBlank": "The teacher offered @ @ to guide the student toward better academic performance.",
+          "fullEnglishSentence": "The teacher offered 「constructive criticism」 to guide the student toward better academic performance.",
+          "chineseTranslation": "老师提供了「建设性的批评」来引导学生取得更好的学业表现。",
+          "chinglishFix": "典型中式英语：'The teacher gave some advice to the student.' 纠正：'The teacher offered constructive criticism.'（'advice'过于笼统，'constructive criticism'更精确，强调具体的改进建议。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在法律或技术领域中，推定为或解释为某种意义的",
+      "usage": "形容词，主要用于法律、合同或技术性语境，指某事物被推定或解释为具有某种效果或意义，尽管表面上可能不明确。常见于书面或正式语境。",
+      "collocations": ["constructive dismissal", "constructive notice", "constructive trust"],
+      "examples": [
+        {
+          "scene": "一名员工因公司故意更改其工作职责而被迫辞职，律师认为这种行为构成了法律上的不公平解雇。",
+          "chineseIdea": "律师认为公司的行为实际上等同于解雇员工，尽管表面上员工是主动辞职。",
+          "sentenceWithBlank": "The lawyer argued that the employee’s resignation was a case of @ @ due to unfair treatment.",
+          "fullEnglishSentence": "The lawyer argued that the employee’s resignation was a case of 「constructive dismissal」 due to unfair treatment.",
+          "chineseTranslation": "律师辩称，员工的辞职是由于不公平待遇导致的「推定解雇」。",
+          "chinglishFix": "典型中式英语：'The company forced the employee to resign.' 纠正：'The company’s actions amounted to constructive dismissal.'（中式英语缺乏法律术语的精确性，'constructive dismissal'是正式的法律表达。）"
+        },
+        {
+          "scene": "在房地产交易中，买方被认为已经知晓某项法律限制，因为相关信息已在公共记录中披露。",
+          "chineseIdea": "法律假设买方已经了解某些信息，即使他们实际上没有亲自查阅。",
+          "sentenceWithBlank": "The buyer was deemed to have received @ @ of the property’s legal restrictions.",
+          "fullEnglishSentence": "The buyer was deemed to have received 「constructive notice」 of the property’s legal restrictions.",
+          "chineseTranslation": "买方被认为已收到有关财产法律限制的「推定通知」。",
+          "chinglishFix": "典型中式英语：'The buyer should know the property’s rules.' 纠正：'The buyer was deemed to have received constructive notice.'（中式英语用词模糊，'constructive notice'是法律领域的专业术语。）"
+        }
+      ]
+    }
+  ]
+}
+```
