@@ -1,0 +1,76 @@
+```json
+{
+  "word": "occupation",
+  "definitions": [
+    {
+      "meaning": "职业，工作",
+      "usage": "指一个人从事的固定或主要的工作，通常用于描述生计或职业身份。",
+      "collocations": ["choose a career", "pursue an occupation", "change jobs"],
+      "examples": [
+        {
+          "scene": "小明在大学毕业后，正在考虑未来的职业方向。他和朋友讨论自己想成为一名软件工程师。",
+          "chineseIdea": "小明希望找到一个能让他发挥技术能力的职业，软件工程师是一个热门选择。",
+          "sentenceWithBlank": "After graduating, Xiao Ming decided to @ @ @ as a software engineer.",
+          "fullEnglishSentence": "After graduating, Xiao Ming decided to 「choose a career」 as a software engineer.",
+          "chineseTranslation": "毕业后，小明决定「选择职业」做软件工程师。",
+          "chinglishFix": "典型中式英语：'He wants to do a job of software engineer.' 纠正：'He wants to pursue a career as a software engineer.'"
+        },
+        {
+          "scene": "张女士是一名教师，但她觉得这份工作压力大，考虑转行做自由职业者。",
+          "chineseIdea": "张女士想尝试不同的工作，追求更有灵活性的职业。",
+          "sentenceWithBlank": "Feeling stressed, Ms. Zhang wants to @ @ @ as a freelancer.",
+          "fullEnglishSentence": "Feeling stressed, Ms. Zhang wants to 「pursue an occupation」 as a freelancer.",
+          "chineseTranslation": "感到压力大，张女士想「追求职业」做自由职业者。",
+          "chinglishFix": "典型中式英语：'She wants to find a new work.' 纠正：'She wants to pursue a new occupation.'"
+        }
+      ]
+    },
+    {
+      "meaning": "占领，占据",
+      "usage": "指军事或政治上对某一地区的控制或占领，通常带有强制性含义。",
+      "collocations": ["military occupation", "end the occupation", "under occupation"],
+      "examples": [
+        {
+          "scene": "二战期间，某国军队占领了一座城市，当地居民生活受到很大影响。",
+          "chineseIdea": "军队控制了城市，居民不得不适应新的生活方式。",
+          "sentenceWithBlank": "During the war, the city experienced a harsh @ @ @ by foreign forces.",
+          "fullEnglishSentence": "During the war, the city experienced a harsh 「military occupation」 by foreign forces.",
+          "chineseTranslation": "战争期间，这座城市经历了外国军队的苛刻「军事占领」。",
+          "chinglishFix": "典型中式英语：'The city was occupied by army.' 纠正：'The city was under military occupation.'"
+        },
+        {
+          "scene": "战后，当地居民组织抗议，要求外国军队撤离，结束占领状态。",
+          "chineseIdea": "居民希望恢复自由，摆脱外来势力的控制。",
+          "sentenceWithBlank": "The locals protested to @ @ @ of their land.",
+          "fullEnglishSentence": "The locals protested to 「end the occupation」 of their land.",
+          "chineseTranslation": "当地人抗议以「结束占领」他们的土地。",
+          "chinglishFix": "典型中式英语：'They want to stop the occupy.' 纠正：'They want to end the occupation.'"
+        }
+      ]
+    },
+    {
+      "meaning": "消遣，活动",
+      "usage": "指某人用来打发时间或兴趣爱好的活动，通常是非正式的。",
+      "collocations": ["favorite pastime", "leisure activity", "engage in hobbies"],
+      "examples": [
+        {
+          "scene": "李先生退休后，每天花时间画画，觉得这是一种充实的消遣。",
+          "chineseIdea": "李先生通过画画来丰富退休生活，享受艺术的乐趣。",
+          "sentenceWithBlank": "In retirement, Mr. Li found painting to be his @ @ @.",
+          "fullEnglishSentence": "In retirement, Mr. Li found painting to be his 「favorite pastime」.",
+          "chineseTranslation": "退休后，李先生发现画画是他的「最喜欢的消遣」。",
+          "chinglishFix": "典型中式英语：'Painting is his hobby to kill time.' 纠正：'Painting is his favorite pastime.'"
+        },
+        {
+          "scene": "周末，小红喜欢去公园跑步，觉得这是一种健康的活动。",
+          "chineseIdea": "小红通过跑步保持健康，同时享受户外时光。",
+          "sentenceWithBlank": "On weekends, Xiao Hong loves to @ @ @ like jogging in the park.",
+          "fullEnglishSentence": "On weekends, Xiao Hong loves to 「engage in hobbies」 like jogging in the park.",
+          "chineseTranslation": "周末，小红喜欢「参与兴趣活动」，比如在公园慢跑。",
+          "chinglishFix": "典型中式英语：'She does jogging for fun.' 纠正：'She engages in jogging as a leisure activity.'"
+        }
+      ]
+    }
+  ]
+}
+```

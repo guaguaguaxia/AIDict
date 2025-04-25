@@ -1,0 +1,53 @@
+```json
+{
+  "word": "startle",
+  "definitions": [
+    {
+      "meaning": "使某人突然受惊或震惊",
+      "usage": "用作及物动词，表示因突然的动作、声音或其他意外事件使人感到惊讶或轻微恐惧，通常强调短暂的、突发的反应。",
+      "collocations": ["a loud noise", "a sudden movement", "an unexpected sound"],
+      "examples": [
+        {
+          "scene": "在一个安静的图书馆里，你正在专心阅读一本小说。突然，旁边有人不小心把一摞书掉在地上，发出巨大的响声。",
+          "chineseIdea": "你被这突如其来的声音吓了一跳，心跳加速，抬头看向声音来源。",
+          "sentenceWithBlank": "The @ @ @ in the quiet library made me jump.",
+          "fullEnglishSentence": "The 「a loud noise」 in the quiet library startled me.",
+          "chineseTranslation": "图书馆里的「巨大响声」吓了我一跳。",
+          "chinglishFix": "典型中式英语：'The loud noise made me scared suddenly.' 纠正：'The loud noise startled me.'（'scared' 更强调持续的恐惧，而 'startled' 强调短暂的受惊反应。）"
+        },
+        {
+          "scene": "你和朋友在夜晚的公园散步，周围很安静。突然，一只猫从灌木丛中跳出来，打破了宁静。",
+          "chineseIdea": "你被这突然的动作吓得后退一步，感到一阵短暂的惊慌。",
+          "sentenceWithBlank": "The @ @ @ of the cat jumping out startled us both.",
+          "fullEnglishSentence": "The 「a sudden movement」 of the cat jumping out startled us both.",
+          "chineseTranslation": "猫突然跳出的「突然动作」吓了我们俩一跳。",
+          "chinglishFix": "典型中式英语：'The cat’s sudden jump made us shock.' 纠正：'The sudden movement of the cat startled us.'（'shock' 语气过重，且搭配不自然；'startled' 更贴合短暂惊吓的语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "使某人感到意外或吃惊",
+      "usage": "用作及物动词，表示因意外的消息、行为或其他出乎意料的事情使人感到惊讶，通常不涉及恐惧，而是轻微的震惊或诧异。",
+      "collocations": ["an unexpected announcement", "a surprising revelation", "a sudden change"],
+      "examples": [
+        {
+          "scene": "你在公司会议上，经理突然宣布一个完全出乎意料的决定：整个团队将搬到另一个城市工作。",
+          "chineseIdea": "你听到这个消息时感到非常惊讶，因为之前没有任何迹象表明会有这样的变化。",
+          "sentenceWithBlank": "The @ @ @ about the office relocation startled everyone in the meeting.",
+          "fullEnglishSentence": "The 「an unexpected announcement」 about the office relocation startled everyone in the meeting.",
+          "chineseTranslation": "关于办公室搬迁的「意外宣布」让会议上的每个人都感到惊讶。",
+          "chinglishFix": "典型中式英语：'The announcement surprised us very much.' 纠正：'The unexpected announcement startled us.'（'surprised' 较为中性，而 'startled' 更强调突发的惊讶感。）"
+        },
+        {
+          "scene": "你正在和一个很久没联系的朋友聊天，他突然告诉你他已经辞职并开始了自己的创业公司。",
+          "chineseIdea": "你对这个消息感到非常吃惊，因为你一直以为他会继续在原来的公司工作。",
+          "sentenceWithBlank": "His @ @ @ about starting his own company startled me.",
+          "fullEnglishSentence": "His 「a surprising revelation」 about starting his own company startled me.",
+          "chineseTranslation": "他关于创业的「令人惊讶的透露」让我吃了一惊。",
+          "chinglishFix": "典型中式英语：'His news shocked me a lot.' 纠正：'His surprising revelation startled me.'（'shocked' 语气过强，'startled' 更适合描述轻微的惊讶。）"
+        }
+      ]
+    }
+  ]
+}
+```

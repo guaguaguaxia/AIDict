@@ -1,0 +1,76 @@
+```json
+{
+  "word": "scratch",
+  "definitions": [
+    {
+      "meaning": "用尖锐物划或擦表面，造成轻微损伤或痕迹",
+      "usage": "通常指用指甲、爪子或尖锐物体在表面上划动，可能是为了缓解瘙痒、留下痕迹或无意中造成损伤。常用于描述人或动物的动作。",
+      "collocations": ["scratch the surface", "scratch an itch", "scratch off"],
+      "examples": [
+        {
+          "scene": "你在家里养了一只猫，某天你发现猫在你的新沙发上用爪子划来划去，留下了明显的痕迹。你有点生气，想描述这个情况。",
+          "chineseIdea": "我想表达猫在沙发上划出了痕迹，强调表面被轻微破坏的样子。",
+          "sentenceWithBlank": "My cat keeps @ @ @ of the new sofa, leaving visible marks.",
+          "fullEnglishSentence": "My cat keeps 「scratching the surface」 of the new sofa, leaving visible marks.",
+          "chineseTranslation": "我的猫不停地「划破」新沙发的表面，留下了明显的痕迹。",
+          "chinglishFix": "典型中式英语：'My cat scratches the sofa's face.' 纠正：'My cat scratches the surface of the sofa.'（中文常说'划脸'，但英语中用'surface'指物体表面）"
+        },
+        {
+          "scene": "你感到手臂上有点痒，可能被蚊子咬了，于是你忍不住用手指去抓挠，想缓解那种不舒服的感觉。",
+          "chineseIdea": "我想描述抓挠皮肤来缓解瘙痒的行为，突出那种本能的动作。",
+          "sentenceWithBlank": "I couldn’t help but @ @ @ on my arm after the mosquito bite.",
+          "fullEnglishSentence": "I couldn’t help but 「scratch an itch」 on my arm after the mosquito bite.",
+          "chineseTranslation": "我忍不住在被蚊子咬后「抓痒」我的手臂。",
+          "chinglishFix": "典型中式英语：'I scratch my arm because it’s itchy.' 纠正：'I scratch an itch on my arm.'（英语中'scratch an itch'是固定搭配，表达抓痒的动作）"
+        }
+      ]
+    },
+    {
+      "meaning": "从头开始，重新开始某事",
+      "usage": "指在没有任何基础或先前成果的情况下开始一项任务、项目或计划，通常用于强调从零开始的努力或重新尝试。",
+      "collocations": ["start from scratch", "build from scratch", "make from scratch"],
+      "examples": [
+        {
+          "scene": "你和朋友计划开一家小餐馆，但预算有限，无法购买现成的商业模式或设备，所以决定一切都自己动手，从零开始。",
+          "chineseIdea": "我想表达从零开始建立餐馆，强调没有任何现成资源的情况。",
+          "sentenceWithBlank": "We decided to @ @ @ for our restaurant, doing everything ourselves.",
+          "fullEnglishSentence": "We decided to 「start from scratch」 for our restaurant, doing everything ourselves.",
+          "chineseTranslation": "我们决定为我们的餐馆「从零开始」，所有事情都自己做。",
+          "chinglishFix": "典型中式英语：'We start the restaurant from zero.' 纠正：'We start from scratch.'（英语中'start from scratch'是固定表达，'from zero'不自然）"
+        },
+        {
+          "scene": "你在家想尝试做蛋糕，但不想用超市买的蛋糕粉，而是想用最基本的原料，比如面粉、鸡蛋和糖，亲手制作。",
+          "chineseIdea": "我想描述用基础原料从头制作蛋糕，突出亲手制作的过程。",
+          "sentenceWithBlank": "Instead of using a mix, I decided to @ @ @ for the cake.",
+          "fullEnglishSentence": "Instead of using a mix, I decided to 「make from scratch」 for the cake.",
+          "chineseTranslation": "我没有用预混粉，而是决定「从头制作」蛋糕。",
+          "chinglishFix": "典型中式英语：'I make the cake from nothing.' 纠正：'I make the cake from scratch.'（'from nothing'在英语中不用于此语境，'from scratch'更地道）"
+        }
+      ]
+    },
+    {
+      "meaning": "取消或废弃某事物",
+      "usage": "指取消计划、项目或想法，通常是因为它不再可行或需要重新考虑。常见于正式或半正式的语境。",
+      "collocations": ["scratch a plan", "scratch an idea", "scratch from the list"],
+      "examples": [
+        {
+          "scene": "你和朋友计划周末去远足，但天气预报说会下大雨，你们不得不取消这个计划。",
+          "chineseIdea": "我想表达因为天气原因取消远足计划，突出计划被放弃的情况。",
+          "sentenceWithBlank": "Due to the bad weather, we had to @ @ @ for the weekend.",
+          "fullEnglishSentence": "Due to the bad weather, we had to 「scratch a plan」 for the weekend.",
+          "chineseTranslation": "由于天气不好，我们不得不「取消计划」周末的活动。",
+          "chinglishFix": "典型中式英语：'We cancel the plan because of weather.' 纠正：'We had to scratch the plan due to bad weather.'（'scratch a plan'更生动，'cancel'较为平淡）"
+        },
+        {
+          "scene": "你在公司开会讨论新产品，但老板觉得某个提案不切实际，决定把它从候选名单中剔除。",
+          "chineseIdea": "我想描述从名单中移除一个不好的想法，强调被剔除的动作。",
+          "sentenceWithBlank": "The boss decided to @ @ @ that wasn’t feasible.",
+          "fullEnglishSentence": "The boss decided to 「scratch an idea」 that wasn’t feasible.",
+          "chineseTranslation": "老板决定「剔除一个」不可行的想法。",
+          "chinglishFix": "典型中式英语：'The boss removes the idea.' 纠正：'The boss scratches the idea.'（'scratch an idea'比'remove'更口语化且生动）"
+        }
+      ]
+    }
+  ]
+}
+```

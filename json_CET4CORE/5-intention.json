@@ -1,0 +1,53 @@
+```json
+{
+  "word": "intention",
+  "definitions": [
+    {
+      "meaning": "计划或意图去做某事",
+      "usage": "指某人心中有意识地计划或打算做某事，通常与目标或目的相关。常用于表达主观意愿或决心。",
+      "collocations": ["have the intention", "good intention", "with the intention", "original intention"],
+      "examples": [
+        {
+          "scene": "一位学生在学期开始时与老师讨论自己的学习目标。",
+          "chineseIdea": "学生想表达自己认真学习并取得好成绩的决心。",
+          "sentenceWithBlank": "I @ @ @ to study hard and improve my grades this semester.",
+          "fullEnglishSentence": "I 「have the intention」 to study hard and improve my grades this semester.",
+          "chineseTranslation": "我「有计划」努力学习并在这个学期提高成绩。",
+          "chinglishFix": "典型中式英语：'I want to have intention to study hard.' 纠正：'I have the intention to study hard.'（直接用'have the intention'表达计划或意图，避免冗余的'want to have'。）"
+        },
+        {
+          "scene": "朋友之间讨论周末的活动安排。",
+          "chineseIdea": "一个人想说明自己原本打算去远足，但因为天气不好改变了计划。",
+          "sentenceWithBlank": "My @ @ was to go hiking, but the weather changed my plans.",
+          "fullEnglishSentence": "My 「original intention」 was to go hiking, but the weather changed my plans.",
+          "chineseTranslation": "我的「最初计划」是去远足，但天气改变了我计划。",
+          "chinglishFix": "典型中式英语：'My first intention was to hike.' 纠正：'My original intention was to go hiking.'（用'original intention'更自然地表达最初的打算，'go hiking'是更常见的搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "目的或动机",
+      "usage": "指某人做某事背后的目的或动机，通常强调行为背后的意图。常用于讨论行为的原因或道德考量。",
+      "collocations": ["with the intention of", "bad intention", "true intention", "hidden intention"],
+      "examples": [
+        {
+          "scene": "一位同事在公司会议上提出一个新建议。",
+          "chineseIdea": "同事想说明自己的建议是为了提高团队效率。",
+          "sentenceWithBlank": "I proposed the idea @ @ @ @ improving our team's efficiency.",
+          "fullEnglishSentence": "I proposed the idea 「with the intention of」 improving our team's efficiency.",
+          "chineseTranslation": "我提出这个想法「目的是」提高我们团队的效率。",
+          "chinglishFix": "典型中式英语：'I propose this for intention to improve efficiency.' 纠正：'I proposed this with the intention of improving efficiency.'（用'with the intention of'更自然地表达目的，避免'for intention'的错误搭配。）"
+        },
+        {
+          "scene": "朋友之间讨论某人突然送礼物的行为。",
+          "chineseIdea": "一个人猜测送礼物的人可能有其他动机。",
+          "sentenceWithBlank": "I wonder if he had a @ @ behind his generous gift.",
+          "fullEnglishSentence": "I wonder if he had a 「hidden intention」 behind his generous gift.",
+          "chineseTranslation": "我想知道他慷慨送礼背后是否有「隐藏动机」。",
+          "chinglishFix": "典型中式英语：'I think he has secret intention for the gift.' 纠正：'I wonder if he had a hidden intention behind the gift.'（用'hidden intention'和'behind'更自然地表达隐藏动机，'wonder'更符合猜测的语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

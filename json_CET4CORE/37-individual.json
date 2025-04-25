@@ -1,0 +1,76 @@
+```json
+{
+  "word": "individual",
+  "definitions": [
+    {
+      "meaning": "单独的、个人的，指某人或某物作为一个独立实体",
+      "usage": "用作形容词，强调某人或某物的单独性、独特性，常用于描述与集体相对的个体或独立的事物。",
+      "collocations": ["rights", "needs", "responsibility"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，经理正在讨论如何平衡员工的个人需求与团队目标。员工们希望自己的诉求被重视，而不是被统一要求。",
+          "chineseIdea": "每个人都有自己的需求，比如工作时间灵活性或个人发展机会，这些需要被公司尊重。",
+          "sentenceWithBlank": "The company strives to respect each employee’s @ while fostering teamwork.",
+          "fullEnglishSentence": "The company strives to respect each employee’s 「individual needs」 while fostering teamwork.",
+          "chineseTranslation": "公司努力尊重每个员工的「个人需求」，同时促进团队合作。",
+          "chinglishFix": "典型中式英语：'Every people’s need' 纠正：'Each individual’s needs' 或 'Every employee’s needs'，避免用 'people' 表示个体，且注意单复数一致。"
+        },
+        {
+          "scene": "在学校里，老师鼓励学生们为自己的行为负责，而不是推卸给别人。课堂上，老师表扬了一个学生独立完成项目的态度。",
+          "chineseIdea": "每个人都应该为自己的选择和行为承担后果，而不是依赖集体或推卸责任。",
+          "sentenceWithBlank": "Teachers encourage students to take @ for their own actions.",
+          "fullEnglishSentence": "Teachers encourage students to take 「individual responsibility」 for their own actions.",
+          "chineseTranslation": "老师鼓励学生为自己的行为承担「个人责任」。",
+          "chinglishFix": "典型中式英语：'Students should responsible for themselves' 纠正：'Students should take individual responsibility for their actions'，避免遗漏动词 'take' 和搭配 'responsibility'。"
+        }
+      ]
+    },
+    {
+      "meaning": "独特的、与众不同的，指某人或某物具有独特或特殊的品质",
+      "usage": "用作形容词，强调某人或某物的独特性或个性化，常用于描述风格、性格或特点。",
+      "collocations": ["style", "approach", "character"],
+      "examples": [
+        {
+          "scene": "在一个艺术展览中，观众们被一位年轻画家的作品吸引，因为她的画风非常独特，与其他画家的传统风格完全不同。",
+          "chineseIdea": "这位画家通过大胆的色彩和构图展现了自己独特的艺术风格，令人印象深刻。",
+          "sentenceWithBlank": "Her paintings stand out due to her @ as an artist.",
+          "fullEnglishSentence": "Her paintings stand out due to her 「individual style」 as an artist.",
+          "chineseTranslation": "她的画作因其作为艺术家的「独特风格」而脱颖而出。",
+          "chinglishFix": "典型中式英语：'Her special style' 纠正：'Her individual style'，'special' 虽有类似含义，但 'individual' 更强调独特性，且为更自然的搭配。"
+        },
+        {
+          "scene": "在一个团队项目中，领导注意到一位成员总是提出新颖的解决方案，与其他人的常规方法不同，展现了独特的思维方式。",
+          "chineseIdea": "这个人的创新方法让整个团队受益，因为他总能从不同角度看待问题。",
+          "sentenceWithBlank": "His @ to problem-solving impressed the entire team.",
+          "fullEnglishSentence": "His 「individual approach」 to problem-solving impressed the entire team.",
+          "chineseTranslation": "他对问题解决的「独特方法」给整个团队留下了深刻印象。",
+          "chinglishFix": "典型中式英语：'His different way to solve problems' 纠正：'His individual approach to problem-solving'，'approach' 是更贴切的搭配，且需注意动词与名词的正确结构。"
+        }
+      ]
+    },
+    {
+      "meaning": "个人，单独的人，指一个具体的人而非群体",
+      "usage": "用作名词，指代一个单独的人，常用于正式或法律语境，也用于强调某人的独特性。",
+      "collocations": ["talented", "private", "concerned"],
+      "examples": [
+        {
+          "scene": "在一场音乐比赛中，评委们需要从众多参赛者中挑选出最具天赋的选手，每个人都有机会展示自己的才华。",
+          "chineseIdea": "评委关注的是每个参赛者的独特才能，而不是他们的背景或团队。",
+          "sentenceWithBlank": "The judges were looking for a @ to award the top prize.",
+          "fullEnglishSentence": "The judges were looking for a 「talented individual」 to award the top prize.",
+          "chineseTranslation": "评委们在寻找一个「有才华的个人」来颁发最高奖项。",
+          "chinglishFix": "典型中式英语：'A talent person' 纠正：'A talented individual'，'talented' 是形容词，'individual' 更适合正式语境，且避免 'person' 的单调使用。"
+        },
+        {
+          "scene": "在社区会议上，居民们讨论如何保护隐私权，尤其是关于个人数据的使用问题。每个人都希望自己的信息不被滥用。",
+          "chineseIdea": "每个人都希望自己的个人信息得到保护，不被公司或机构随意使用。",
+          "sentenceWithBlank": "The new policy aims to protect the rights of every @ .",
+          "fullEnglishSentence": "The new policy aims to protect the rights of every 「private individual」.",
+          "chineseTranslation": "新政策旨在保护每个「私人个体」的权利。",
+          "chinglishFix": "典型中式英语：'Every person’s privacy' 纠正：'The rights of every private individual'，'private individual' 是更正式且贴切的表达，适合法律或政策语境。"
+        }
+      ]
+    }
+  ]
+}
+```

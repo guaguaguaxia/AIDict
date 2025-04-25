@@ -1,0 +1,53 @@
+```json
+{
+  "word": "standpoint",
+  "definitions": [
+    {
+      "meaning": "A position or perspective from which something is considered or evaluated",
+      "usage": "Refers to a person's point of view, opinion, or perspective on a specific issue, often used in discussions or arguments to clarify one's position.",
+      "collocations": ["from a standpoint", "adopt a standpoint", "neutral standpoint"],
+      "examples": [
+        {
+          "scene": "在一个学术会议上，几位学者正在讨论人工智能的伦理问题。一位学者想表达自己从技术发展的角度看待这个问题。",
+          "chineseIdea": "我想说明我的观点是从技术进步的角度出发，而不是从道德或法律的角度。",
+          "sentenceWithBlank": "When discussing AI ethics, I approach the issue @ @ @ of technological advancement.",
+          "fullEnglishSentence": "When discussing AI ethics, I approach the issue 「from a standpoint」 of technological advancement.",
+          "chineseTranslation": "在讨论人工智能伦理时，我从「技术进步的角度」来处理这个问题。",
+          "chinglishFix": "Chinglish: I look this problem from technology advance. \nCorrected: I approach this issue from the standpoint of technological advancement."
+        },
+        {
+          "scene": "在公司会议中，团队成员讨论是否应该推出新产品。一位经理想表达自己站在中立的角度分析市场需求。",
+          "chineseIdea": "我想表明我没有偏向任何一方，只是从市场的角度客观分析。",
+          "sentenceWithBlank": "To ensure fairness, I prefer to @ @ @ in this discussion.",
+          "fullEnglishSentence": "To ensure fairness, I prefer to 「adopt a standpoint」 in this discussion.",
+          "chineseTranslation": "为了确保公平，我更倾向于在这个讨论中「采取中立立场」。",
+          "chinglishFix": "Chinglish: I want to stand in a middle position. \nCorrected: I prefer to adopt a neutral standpoint."
+        }
+      ]
+    },
+    {
+      "meaning": "A physical or metaphorical position from which something is observed",
+      "usage": "Describes a specific vantage point or position, either literally (e.g., a physical location) or figuratively (e.g., a perspective in a debate). Less common in everyday conversation but used in formal or descriptive contexts.",
+      "collocations": ["strategic standpoint", "historical standpoint", "unique standpoint"],
+      "examples": [
+        {
+          "scene": "在历史课上，老师要求学生分析二战的原因。一位学生从经济危机的角度来讨论。",
+          "chineseIdea": "我想从经济危机的背景来分析二战的原因，而不是只看政治因素。",
+          "sentenceWithBlank": "Analyzing World War II from a @ @ @ provides insight into its economic causes.",
+          "fullEnglishSentence": "Analyzing World War II from a 「historical standpoint」 provides insight into its economic causes.",
+          "chineseTranslation": "从「历史的立场」分析二战，可以深入了解其经济原因。",
+          "chinglishFix": "Chinglish: I see World War II from history side. \nCorrected: I analyze World War II from a historical standpoint."
+        },
+        {
+          "scene": "在一场辩论赛中，选手需要从独特的视角解释气候变化的影响。一位选手选择从岛国的角度切入。",
+          "chineseIdea": "我想从岛国的特殊情况出发，说明气候变化的严重性。",
+          "sentenceWithBlank": "From a @ @ @, climate change poses an existential threat to small island nations.",
+          "fullEnglishSentence": "From a 「unique standpoint」, climate change poses an existential threat to small island nations.",
+          "chineseTranslation": "从「独特的立场」来看，气候变化对小岛国构成了生存威胁。",
+          "chinglishFix": "Chinglish: I think climate change from island’s view is serious. \nCorrected: From the unique standpoint of islands, climate change is a serious threat."
+        }
+      ]
+    }
+  ]
+}
+```

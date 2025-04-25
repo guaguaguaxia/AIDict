@@ -1,0 +1,53 @@
+```json
+{
+  "word": "contemporary",
+  "definitions": [
+    {
+      "meaning": "现代的，当代的",
+      "usage": "指与当前时间或时代相关的事物，常用于描述艺术、文学、设计、音乐等领域的现代风格或趋势。",
+      "collocations": ["art", "design", "literature", "music"],
+      "examples": [
+        {
+          "scene": "你在一家艺术画廊参观，导览员正在介绍最近展出的作品，这些作品反映了最新的艺术趋势。",
+          "chineseIdea": "你想表达这些作品是最新、最前沿的艺术风格，属于当下的创作。",
+          "sentenceWithBlank": "The gallery showcases a range of @ works that reflect current trends.",
+          "fullEnglishSentence": "The gallery showcases a range of 「contemporary art」 works that reflect current trends.",
+          "chineseTranslation": "画廊展示了一系列「当代艺术」作品，反映了当前的趋势。",
+          "chinglishFix": "典型中式英语：'The gallery has many modern art.' 纠正：'Modern' 可能指现代主义风格，而非时间上的当代。应使用 'The gallery showcases contemporary art.'"
+        },
+        {
+          "scene": "你在与朋友讨论最近流行的室内装修风格，提到一种简约且符合现代审美的设计。",
+          "chineseIdea": "你想说明这种设计是当下流行的，体现了现代生活方式。",
+          "sentenceWithBlank": "Many young homeowners prefer @ that emphasizes minimalism.",
+          "fullEnglishSentence": "Many young homeowners prefer 「contemporary design」 that emphasizes minimalism.",
+          "chineseTranslation": "许多年轻房主更喜欢「当代设计」，它强调极简主义。",
+          "chinglishFix": "典型中式英语：'They like new design.' 纠正：'New' 过于笼统，可能指任何新事物，而非当下的风格。应使用 'They prefer contemporary design.'"
+        }
+      ]
+    },
+    {
+      "meaning": "同时代的",
+      "usage": "指生活在同一时期的人或事物，常用于历史或人物比较的语境中。",
+      "collocations": ["of", "with", "to"],
+      "examples": [
+        {
+          "scene": "你在历史课上讨论莎士比亚，老师提到与他同时代的另一位剧作家。",
+          "chineseIdea": "你想说明这两位剧作家生活在同一时期，创作背景相似。",
+          "sentenceWithBlank": "Christopher Marlowe was a @ Shakespeare, writing plays in the same era.",
+          "fullEnglishSentence": "Christopher Marlowe was a 「contemporary of」 Shakespeare, writing plays in the same era.",
+          "chineseTranslation": "克里斯托弗·马洛是莎士比亚的「同时代人」，在同一时期创作戏剧。",
+          "chinglishFix": "典型中式英语：'Marlowe and Shakespeare were same time people.' 纠正：'Same time people' 不自然且不准确。应使用 'Marlowe was a contemporary of Shakespeare.'"
+        },
+        {
+          "scene": "你在写一篇关于19世纪科学家的文章，提到两位科学家在同一时期有类似发现。",
+          "chineseIdea": "你想表达这两位科学家是同时代的，研究领域有交集。",
+          "sentenceWithBlank": "Darwin’s theories were developed @ those of Alfred Russel Wallace.",
+          "fullEnglishSentence": "Darwin’s theories were developed 「contemporary with」 those of Alfred Russel Wallace.",
+          "chineseTranslation": "达尔的理论是与阿尔弗雷德·罗素·华莱士的理论「同时代」发展起来的。",
+          "chinglishFix": "典型中式英语：'Darwin and Wallace worked in same time.' 纠正：'Same time' 表达不正式且模糊。应使用 'Darwin’s theories were contemporary with Wallace’s.'"
+        }
+      ]
+    }
+  ]
+}
+```

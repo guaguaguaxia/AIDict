@@ -1,0 +1,76 @@
+```json
+{
+  "word": "emission",
+  "definitions": [
+    {
+      "meaning": "释放或排放（气体、物质等），尤指对环境有影响的排放物",
+      "usage": "主要用于描述气体、烟雾、污染物或其他物质从某个来源释放到环境中，常用于环境科学、工业或交通领域。",
+      "collocations": ["carbon emissions", "greenhouse gas emissions", "reduce emissions"],
+      "examples": [
+        {
+          "scene": "在一场关于气候变化的国际会议上，发言人正在讨论各国如何应对全球变暖的问题。",
+          "chineseIdea": "发言人想强调某些国家在减少温室气体排放方面取得了显著进展。",
+          "sentenceWithBlank": "Some countries have made significant progress in reducing their @ @.",
+          "fullEnglishSentence": "Some countries have made significant progress in reducing their 「carbon emissions」.",
+          "chineseTranslation": "一些国家在减少「碳排放」方面取得了显著进展。",
+          "chinglishFix": "典型中式英语：'Some countries have reduced their carbon release.' 纠正：'release' 不够具体，'emissions' 是环境领域更自然的术语，应使用 'reduce carbon emissions'。"
+        },
+        {
+          "scene": "一家汽车制造公司发布新款电动车，宣传其环保特性。",
+          "chineseIdea": "公司想突出新款电动车在减少温室气体排放方面的优势。",
+          "sentenceWithBlank": "Our new electric vehicles significantly cut down on @ @ @.",
+          "fullEnglishSentence": "Our new electric vehicles significantly cut down on 「greenhouse gas emissions」.",
+          "chineseTranslation": "我们的新型电动车显著减少了「温室气体排放」。",
+          "chinglishFix": "典型中式英语：'Our cars reduce greenhouse gas output.' 纠正：'output' 在此语境中不常用，'emissions' 是更贴切的术语，应使用 'greenhouse gas emissions'。"
+        }
+      ]
+    },
+    {
+      "meaning": "（光、热、声音等的）发出或辐射",
+      "usage": "指光、热、声音或其他能量的发出，常用于物理、科学或技术领域，强调能量的传播。",
+      "collocations": ["light emission", "thermal emission", "sound emission"],
+      "examples": [
+        {
+          "scene": "在物理实验室中，学生们正在研究不同材料在加热时发出的光。",
+          "chineseIdea": "学生想描述某种材料在特定条件下发出特定波长的光。",
+          "sentenceWithBlank": "This material produces a unique @ @ when heated to high temperatures.",
+          "fullEnglishSentence": "This material produces a unique 「light emission」 when heated to high temperatures.",
+          "chineseTranslation": "这种材料在高温加热时会产生独特的「光发射」。",
+          "chinglishFix": "典型中式英语：'This material gives light when heated.' 纠正：'gives light' 过于模糊，'light emission' 是科学语境中更精确的表达。"
+        },
+        {
+          "scene": "工程师们在设计一款新型扬声器，关注其声音输出的质量。",
+          "chineseIdea": "工程师想说明这款扬声器在声音发出方面表现优异。",
+          "sentenceWithBlank": "The new speaker design optimizes @ @ for clearer audio output.",
+          "fullEnglishSentence": "The new speaker design optimizes 「sound emission」 for clearer audio output.",
+          "chineseTranslation": "新型扬声器设计优化了「声音发射」，以获得更清晰的音频输出。",
+          "chinglishFix": "典型中式英语：'The speaker improves sound sending.' 纠正：'sending' 不适用于此语境，'sound emission' 是更专业的术语。"
+        }
+      ]
+    },
+    {
+      "meaning": "（正式）发行或发布",
+      "usage": "指正式发布或发行某物，如货币、股票或出版物，多用于金融或出版领域。",
+      "collocations": ["bond emission", "currency emission", "new emission"],
+      "examples": [
+        {
+          "scene": "一家大型企业在金融市场上准备发行新的债券来筹集资金。",
+          "chineseIdea": "企业想说明新债券的发行将帮助他们扩展业务。",
+          "sentenceWithBlank": "The company announced a @ @ to fund its expansion plans.",
+          "fullEnglishSentence": "The company announced a 「bond emission」 to fund its expansion plans.",
+          "chineseTranslation": "公司宣布发行「债券」以资助其扩张计划。",
+          "chinglishFix": "典型中式英语：'The company will send bonds.' 纠正：'send bonds' 不准确，'bond emission' 是金融领域正确的术语，意指发行债券。"
+        },
+        {
+          "scene": "一家出版社计划推出一本新书的特别版。",
+          "chineseIdea": "出版社想宣传新书的特别版即将发布。",
+          "sentenceWithBlank": "The publisher is preparing a @ @ of the bestselling novel.",
+          "fullEnglishSentence": "The publisher is preparing a 「new emission」 of the bestselling novel.",
+          "chineseTranslation": "出版社正在准备畅销小说的「新版发行」。",
+          "chinglishFix": "典型中式英语：'The publisher will release a new book version.' 纠正：'release a new book version' 虽可理解，但 'new emission' 在出版语境中更正式，强调特别版的发行。"
+        }
+      ]
+    }
+  ]
+}
+```

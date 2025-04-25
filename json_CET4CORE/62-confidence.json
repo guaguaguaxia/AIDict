@@ -1,0 +1,76 @@
+```json
+{
+  "word": "confidence",
+  "definitions": [
+    {
+      "meaning": "相信自己有能力做好某事的感觉",
+      "usage": "指对自身能力、判断或成功的坚定信念，常用于描述个人在面对挑战时的心理状态。",
+      "collocations": ["build confidence", "lack confidence", "boost confidence", "exude confidence"],
+      "examples": [
+        {
+          "scene": "一个学生即将在学校演讲比赛中上台，他准备充分但仍感到紧张。朋友鼓励他，告诉他可以通过练习来增强自信。",
+          "chineseIdea": "通过不断的练习和准备，一个人可以在公众场合表现得更从容，内心更坚定。",
+          "sentenceWithBlank": "You can @ @ by practicing your speech multiple times in front of a mirror.",
+          "fullEnglishSentence": "You can 「build confidence」 by practicing your speech multiple times in front of a mirror.",
+          "chineseTranslation": "你可以通过在镜子前多次练习演讲来「建立自信」。",
+          "chinglishFix": "典型中式英语：'Make confidence' 或 'Increase confidence'。纠正：应使用'build confidence'，因为'build'更常与抽象概念如'confidence'搭配，表示逐渐增强。"
+        },
+        {
+          "scene": "一位职场新人刚加入公司，面对复杂项目时觉得自己能力不足，显得犹豫不决。经理注意到后，给了她一些小任务来帮助她建立自信。",
+          "chineseIdea": "通过完成小任务，一个人可以逐渐克服自我怀疑，变得更有底气。",
+          "sentenceWithBlank": "She tends to @ @ when tackling large projects, but small successes can help her grow.",
+          "fullEnglishSentence": "She tends to 「lack confidence」 when tackling large projects, but small successes can help her grow.",
+          "chineseTranslation": "她在处理大项目时往往「缺乏自信」，但小的成功可以帮助她成长。",
+          "chinglishFix": "典型中式英语：'Have no confidence' 或 'Not confident'。纠正：'lack confidence'是更自然的表达，'lack'直接表明不足，且搭配更地道。"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事或某人可信度的信任",
+      "usage": "指对某人、某事或某种情况的可靠性或真实性的信念，常用于表达对他人的信任或对信息的依赖。",
+      "collocations": ["have confidence in", "lose confidence in", "inspire confidence", "undermine confidence"],
+      "examples": [
+        {
+          "scene": "一位客户与一家公司合作多年，始终对他们的产品质量和服务感到满意，因此愿意继续合作。",
+          "chineseIdea": "长期的良好体验让人们对某个品牌或团队产生持续的信任感。",
+          "sentenceWithBlank": "The company’s consistent quality makes it easy for customers to @ @ @ their products.",
+          "fullEnglishSentence": "The company’s consistent quality makes it easy for customers to 「have confidence in」 their products.",
+          "chineseTranslation": "公司一贯的质量让客户很容易对他们的产品「抱有信任」。",
+          "chinglishFix": "典型中式英语：'Believe their products' 或 'Trust on their products'。纠正：'have confidence in'是更地道的表达，'in'是固定搭配，且语气更正式。"
+        },
+        {
+          "scene": "一个团队的领导者在会议上清晰地阐述了计划，展现出专业素养，让团队成员对项目的成功充满信心。",
+          "chineseIdea": "一个有条理且专业的表现可以让他人对某项计划或某人产生强烈的信任感。",
+          "sentenceWithBlank": "Her clear presentation and expertise @ @ among the team members.",
+          "fullEnglishSentence": "Her clear presentation and expertise 「inspired confidence」 among the team members.",
+          "chineseTranslation": "她清晰的展示和专业知识在团队成员中「激发了信任」。",
+          "chinglishFix": "典型中式英语：'Give confidence to' 或 'Make team confident'。纠正：'inspire confidence'更自然，'inspire'常用于表示激发出某种积极情感或信念。"
+        }
+      ]
+    },
+    {
+      "meaning": "秘密或私密信息的分享",
+      "usage": "指私下分享的秘密或敏感信息，通常带有信任对方会保密的期待。",
+      "collocations": ["in confidence", "share in confidence", "betray confidence", "take into confidence"],
+      "examples": [
+        {
+          "scene": "一位朋友在咖啡馆里小声地向你倾诉她最近的感情困扰，希望你能保守秘密。",
+          "chineseIdea": "在信任的基础上，一个人会向亲近的人分享私密的事情，并期待对方不会泄露。",
+          "sentenceWithBlank": "She told me about her breakup @ @, trusting I wouldn’t tell anyone.",
+          "fullEnglishSentence": "She told me about her breakup 「in confidence」, trusting I wouldn’t tell anyone.",
+          "chineseTranslation": "她「私下」告诉我她分手的事，相信我不会告诉别人。",
+          "chinglishFix": "典型中式英语：'Tell me secretly' 或 'Share with secret'。纠正：'in confidence'是固定短语，专门用于表示私下分享敏感信息。"
+        },
+        {
+          "scene": "一位员工被老板叫到办公室，老板向他透露公司即将进行重组的计划，并要求他不要对外泄露。",
+          "chineseIdea": "在职场中，领导可能会向可信的员工透露敏感信息，期待对方能保守秘密。",
+          "sentenceWithBlank": "The boss @ @ @ about the company’s restructuring plans.",
+          "fullEnglishSentence": "The boss 「took me into confidence」 about the company’s restructuring plans.",
+          "chineseTranslation": "老板「私下对我透露」了公司重组计划。",
+          "chinglishFix": "典型中式英语：'Tell me in secret' 或 'Share secret with me'。纠正：'take into confidence'是更正式的表达，强调信任对方并分享机密。"
+        }
+      ]
+    }
+  ]
+}
+```

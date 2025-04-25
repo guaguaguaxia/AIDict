@@ -1,0 +1,53 @@
+```json
+{
+  "word": "detection",
+  "definitions": [
+    {
+      "meaning": "发现或识别某事物（通常是隐藏或不易察觉的事物）的行为",
+      "usage": "指通过观察、仪器或技术手段发现某事物的存在，常用于科学、犯罪调查、医学或技术领域。",
+      "collocations": ["early detection", "motion detection", "error detection"],
+      "examples": [
+        {
+          "scene": "在医院的体检中心，一位医生正在向患者解释定期检查的重要性，强调某些疾病如果能及时发现，治疗效果会更好。",
+          "chineseIdea": "医生想表达的是，通过定期的体检，可以在疾病初期发现问题，从而提高治愈的可能性。",
+          "sentenceWithBlank": "Regular checkups are crucial for @ @ of potential health issues.",
+          "fullEnglishSentence": "Regular checkups are crucial for 「early detection」 of potential health issues.",
+          "chineseTranslation": "定期体检对「早期发现」潜在健康问题至关重要。",
+          "chinglishFix": "典型中式英语：'Find disease early'。纠正：'Early detection of disease'。原因：'find'过于笼统，且搭配不自然；'detection'更精确，'early detection'是固定搭配。"
+        },
+        {
+          "scene": "在一个科技公司的会议室，工程师们正在讨论如何改进智能家居系统的传感器，以更好地识别房间内的活动。",
+          "chineseIdea": "工程师想说明，新型传感器可以更准确地感知到人的移动，从而提高系统的效率。",
+          "sentenceWithBlank": "The new sensor improves the accuracy of @ @ in smart home systems.",
+          "fullEnglishSentence": "The new sensor improves the accuracy of 「motion detection」 in smart home systems.",
+          "chineseTranslation": "新型传感器提高了智能家居系统中「动作检测」的准确性。",
+          "chinglishFix": "典型中式英语：'Feel the move'。纠正：'Motion detection'。原因：'feel'不适合描述传感器功能，且'move'不准确；'motion detection'是技术领域的标准表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "在系统中发现错误或问题的过程",
+      "usage": "常用于计算机科学、工程或技术领域，指通过算法或程序识别系统中的错误或异常。",
+      "collocations": ["error detection", "fault detection", "anomaly detection"],
+      "examples": [
+        {
+          "scene": "在一所大学的计算机科学课堂上，教授正在讲解如何在编程中加入代码来检查潜在的错误，以确保程序运行顺畅。",
+          "chineseIdea": "教授想表达的是，通过特定的代码，可以在程序运行时发现错误，从而避免系统崩溃。",
+          "sentenceWithBlank": "Adding specific code helps with @ @ in software applications.",
+          "fullEnglishSentence": "Adding specific code helps with 「error detection」 in software applications.",
+          "chineseTranslation": "添加特定代码有助于软件应用程序中的「错误检测」。",
+          "chinglishFix": "典型中式英语：'Find mistake in program'。纠正：'Error detection in programs'。原因：'find mistake'过于口语化且不专业；'error detection'是技术领域的标准术语。"
+        },
+        {
+          "scene": "在一个制造工厂的控制室，工程师们正在讨论如何通过数据分析发现生产线上设备的异常行为。",
+          "chineseIdea": "工程师想说明，通过监控系统的数据，可以发现设备运行中的异常，从而及时维修。",
+          "sentenceWithBlank": "Real-time monitoring enables @ @ in production equipment.",
+          "fullEnglishSentence": "Real-time monitoring enables 「anomaly detection」 in production equipment.",
+          "chineseTranslation": "实时监控能够实现生产设备中的「异常检测」。",
+          "chinglishFix": "典型中式英语：'See strange thing in machine'。纠正：'Anomaly detection in machines'。原因：'see strange thing'不准确且不专业；'anomaly detection'是工业领域的常用表达。"
+        }
+      ]
+    }
+  ]
+}
+```

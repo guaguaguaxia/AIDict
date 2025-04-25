@@ -1,0 +1,53 @@
+```json
+{
+  "word": "crucial",
+  "definitions": [
+    {
+      "meaning": "对某事的结果或成功至关重要",
+      "usage": "形容某事物在特定情境下具有决定性影响，通常用于强调不可或缺的重要性。",
+      "collocations": ["play a role", "make a difference", "at a moment"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的新产品发布会上，团队正在讨论如何确保产品能在竞争激烈的市场中脱颖而出。项目经理强调了用户体验的重要性。",
+          "chineseIdea": "用户体验对产品成功至关重要，因为它直接影响用户满意度和市场口碑。",
+          "sentenceWithBlank": "User experience @ @ @ in ensuring the product stands out in the competitive market.",
+          "fullEnglishSentence": "User experience 「plays a crucial role」 in ensuring the product stands out in the competitive market.",
+          "chineseTranslation": "用户体验在确保产品在竞争激烈的市场中脱颖而出方面「起到至关重要的作用」。",
+          "chinglishFix": "典型中式英语：'User experience is very important to product's success.' 纠正：'User experience plays a crucial role in the product's success.'（避免使用泛泛的‘very important’，改为更具体且地道的‘play a crucial role’）"
+        },
+        {
+          "scene": "在一场重要的国际会议上，各国代表正在讨论气候变化问题。一位科学家强调了减少碳排放的迫切性。",
+          "chineseIdea": "减少碳排放对应对气候变化至关重要，因为它直接关系到全球生态系统的稳定。",
+          "sentenceWithBlank": "Reducing carbon emissions can @ @ @ in combating climate change effectively.",
+          "fullEnglishSentence": "Reducing carbon emissions can 「make a crucial difference」 in combating climate change effectively.",
+          "chineseTranslation": "减少碳排放在有效应对气候变化方面可以「起到至关重要的作用」。",
+          "chinglishFix": "典型中式英语：'Reduce carbon emissions is key for climate change.' 纠正：'Reducing carbon emissions can make a crucial difference in addressing climate change.'（避免主语不一致和‘key’的模糊表达，改为更精确的‘make a crucial difference’）"
+        }
+      ]
+    },
+    {
+      "meaning": "关键时刻或转折点",
+      "usage": "描述某个时间点或阶段对某事的发展具有决定性意义，常用于叙述故事、比赛或历史事件中的关键节点。",
+      "collocations": ["at a juncture", "prove to be", "in a phase"],
+      "examples": [
+        {
+          "scene": "在一场紧张的足球比赛中，比分胶着，比赛接近尾声。教练决定换上一名年轻球员，希望改变局势。",
+          "chineseIdea": "这个换人决定是比赛的关键时刻，可能决定胜负。",
+          "sentenceWithBlank": "The coach’s decision to substitute a young player came @ @ @ in the match.",
+          "fullEnglishSentence": "The coach’s decision to substitute a young player came 「at a crucial juncture」 in the match.",
+          "chineseTranslation": "教练替换年轻球员的决定发生在比赛的「关键时刻」。",
+          "chinglishFix": "典型中式英语：'The coach’s decision is very important time.' 纠正：'The coach’s decision came at a crucial juncture.'（避免‘very important time’的模糊表达，改为更地道的‘at a crucial juncture’）"
+        },
+        {
+          "scene": "一位创业者在公司初创阶段面临资金短缺的困境，决定是否接受一笔风险投资。这是一个决定公司未来的时刻。",
+          "chineseIdea": "接受投资的决定是公司发展的关键阶段，可能影响长期战略。",
+          "sentenceWithBlank": "The decision to accept the investment @ @ @ for the startup’s future.",
+          "fullEnglishSentence": "The decision to accept the investment 「proved to be crucial」 for the startup’s future.",
+          "chineseTranslation": "接受投资的决定「对初创公司的未来至关重要」。",
+          "chinglishFix": "典型中式英语：'Accept investment is very critical for company.' 纠正：'Accepting the investment proved to be crucial for the company’s future.'（避免‘very critical’的生硬表达，改为更自然的‘prove to be crucial’）"
+        }
+      ]
+    }
+  ]
+}
+```

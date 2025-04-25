@@ -1,0 +1,53 @@
+```json
+{
+  "word": "fiction",
+  "definitions": [
+    {
+      "meaning": "虚构的文学作品，如小说或故事，通常基于想象而非事实",
+      "usage": "指通过作者的想象力创作的故事，可能包括小说、短篇故事等，常用于描述文学类别或作品类型。",
+      "collocations": ["science fiction", "historical fiction", "write fiction"],
+      "examples": [
+        {
+          "scene": "一个年轻人在书店里寻找一本新书，想读一些关于未来世界的故事。他对科技和太空旅行很感兴趣。",
+          "chineseIdea": "他想找一本描绘未来科技世界的虚构故事，充满想象力和冒险。",
+          "sentenceWithBlank": "She recommended a gripping @ @ novel about interstellar travel.",
+          "fullEnglishSentence": "She recommended a gripping 「science fiction」 novel about interstellar travel.",
+          "chineseTranslation": "她推荐了一本扣人心弦的「科幻」小说，讲述星际旅行。",
+          "chinglishFix": "典型中式英语：'She suggested me a science fiction book.' 纠正：'She recommended a science fiction novel to me.'（suggest 不直接接人作宾语，recommend 更适合推荐具体事物）"
+        },
+        {
+          "scene": "一位历史爱好者在图书馆寻找一本关于古代中国的书，希望读到既有历史背景又充满想象的故事。",
+          "chineseIdea": "他想读一本结合历史事实和虚构情节的故事，了解古代生活。",
+          "sentenceWithBlank": "The librarian suggested a beautifully written @ @ novel set in the Tang Dynasty.",
+          "fullEnglishSentence": "The librarian suggested a beautifully written 「historical fiction」 novel set in the Tang Dynasty.",
+          "chineseTranslation": "图书管理员推荐了一本写得很美的「历史虚构」小说，背景设定在唐朝。",
+          "chinglishFix": "典型中式英语：'This book is about history fiction.' 纠正：'This book is a work of historical fiction.'（避免逐字翻译，historical fiction 是固定搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "不真实或虚构的事物，与事实相反",
+      "usage": "指非真实的事件、故事或陈述，通常用来描述某事物是捏造的或不符合现实。",
+      "collocations": ["pure fiction", "separate fact from fiction", "work of fiction"],
+      "examples": [
+        {
+          "scene": "一群朋友在讨论一个关于本地闹鬼房子的传言，有人认为这是真的，有人觉得是编造的。",
+          "chineseIdea": "有人想澄清这个传言是完全捏造的，没有任何事实依据。",
+          "sentenceWithBlank": "The story about the haunted house is @ @, invented to scare people.",
+          "fullEnglishSentence": "The story about the haunted house is 「pure fiction」, invented to scare people.",
+          "chineseTranslation": "关于闹鬼房子的故事是「纯属虚构」，是为了吓唬人而编造的。",
+          "chinglishFix": "典型中式英语：'This story is all fake.' 纠正：'This story is pure fiction.'（fake 更常用于描述伪造物品，fiction 更适合虚构故事）"
+        },
+        {
+          "scene": "一名记者在调查一则新闻时，发现报道中有很多不实信息，需要澄清真相。",
+          "chineseIdea": "记者希望帮助读者区分哪些是事实，哪些是捏造的内容。",
+          "sentenceWithBlank": "The article helped readers @ @ @ @, revealing the truth behind the rumors.",
+          "fullEnglishSentence": "The article helped readers 「separate fact from fiction」, revealing the truth behind the rumors.",
+          "chineseTranslation": "这篇文章帮助读者「区分事实与虚构」，揭示了谣言背后的真相。",
+          "chinglishFix": "典型中式英语：'The article tells true from false.' 纠正：'The article separates fact from fiction.'（tell true from false 不是英语惯用表达，separate fact from fiction 是固定搭配）"
+        }
+      ]
+    }
+  ]
+}
+```

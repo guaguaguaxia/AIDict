@@ -1,0 +1,53 @@
+```json
+{
+  "word": "philosopher",
+  "definitions": [
+    {
+      "meaning": "从事哲学研究或提出哲学思想的人",
+      "usage": "指那些深入思考存在、知识、价值、理性等根本问题的人，通常与学术研究或系统性思想相关。",
+      "collocations": ["ancient philosopher", "moral philosopher", "political philosopher"],
+      "examples": [
+        {
+          "scene": "在一所大学的哲学课堂上，教授正在讲解古代思想家的贡献，学生们讨论这些思想对现代社会的影响。",
+          "chineseIdea": "想表达某位古代思想家对智慧和伦理的深刻见解如何启发后人。",
+          "sentenceWithBlank": "Socrates, a renowned @, emphasized the importance of self-knowledge.",
+          "fullEnglishSentence": "Socrates, a renowned 「ancient philosopher」, emphasized the importance of self-knowledge.",
+          "chineseTranslation": "苏格拉底，一位著名的「古代哲学家」，强调自我认知的重要性。",
+          "chinglishFix": "典型中式英语：'Socrates is a very famous philosophy person.' 纠正：'Socrates is a renowned ancient philosopher.'"
+        },
+        {
+          "scene": "在一次学术会议上，学者们讨论伦理学问题，提到某位思想家如何定义道德行为。",
+          "chineseIdea": "想表达某位思想家在道德领域的系统性思考如何影响现代伦理学。",
+          "sentenceWithBlank": "Immanuel Kant, a prominent @, developed the concept of the categorical imperative.",
+          "fullEnglishSentence": "Immanuel Kant, a prominent 「moral philosopher」, developed the concept of the categorical imperative.",
+          "chineseTranslation": "伊曼努尔·康德，一位杰出的「道德哲学家」，提出了绝对命令的概念。",
+          "chinglishFix": "典型中式英语：'Kant is a thinker of morality.' 纠正：'Kant is a prominent moral philosopher.'"
+        }
+      ]
+    },
+    {
+      "meaning": "以哲学态度面对生活的人",
+      "usage": "指那些以冷静、理性或深刻思考的方式看待生活问题的人，通常是非正式或比喻性用法。",
+      "collocations": ["amateur philosopher", "armchair philosopher", "everyday philosopher"],
+      "examples": [
+        {
+          "scene": "在咖啡馆里，朋友们讨论生活的意义，一个人以冷静的态度分享对幸福的看法。",
+          "chineseIdea": "想表达某人虽然不是专业学者，但对生活有深刻的思考。",
+          "sentenceWithBlank": "My friend, an @, always has insightful thoughts about happiness.",
+          "fullEnglishSentence": "My friend, an 「amateur philosopher」, always has insightful thoughts about happiness.",
+          "chineseTranslation": "我的朋友，一个「业余哲学家」，总是有关于幸福的深刻见解。",
+          "chinglishFix": "典型中式英语：'My friend likes to think philosophy.' 纠正：'My friend is an amateur philosopher.'"
+        },
+        {
+          "scene": "在家庭聚会上，某人分享如何以平和的心态面对生活中的挑战，赢得大家认同。",
+          "chineseIdea": "想表达某人以哲学的方式看待生活中的起伏，显得智慧而豁达。",
+          "sentenceWithBlank": "My uncle, an @, believes that acceptance is the key to a peaceful life.",
+          "fullEnglishSentence": "My uncle, an 「everyday philosopher」, believes that acceptance is the key to a peaceful life.",
+          "chineseTranslation": "我叔叔，一个「日常哲学家」，相信接受是平静生活的关键。",
+          "chinglishFix": "典型中式英语：'My uncle is a person who thinks deeply about life.' 纠正：'My uncle is an everyday philosopher.'"
+        }
+      ]
+    }
+  ]
+}
+```

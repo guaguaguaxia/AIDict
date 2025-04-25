@@ -1,0 +1,76 @@
+```json
+{
+  "word": "preserve",
+  "definitions": [
+    {
+      "meaning": "保护或维持某物，使其免受损害或破坏",
+      "usage": "常用于描述保护自然环境、文物、传统或某种状态，强调防止损失或改变。",
+      "collocations": ["natural resources", "cultural heritage", "historical sites"],
+      "examples": [
+        {
+          "scene": "你在一家环保组织工作，负责宣传保护森林和水源的重要性。你的任务是写一篇演讲稿，呼吁大家采取行动。",
+          "chineseIdea": "强调保护自然环境，确保资源不被过度开发，为子孙后代留下可持续的生态。",
+          "sentenceWithBlank": "We must take action to @ @ @ from deforestation and pollution.",
+          "fullEnglishSentence": "We must take action to 「preserve natural resources」 from deforestation and pollution.",
+          "chineseTranslation": "我们必须采取行动「保护自然资源」，使其免受森林砍伐和污染的破坏。",
+          "chinglishFix": "典型中式英语：'We need to protect nature resources.' 纠正：'We need to preserve natural resources.'（使用正确的动词'preserve'，并注意'natural resources'的表达。）"
+        },
+        {
+          "scene": "你在一个博物馆工作，负责向游客介绍如何保护古老文物免受时间和环境的侵蚀。",
+          "chineseIdea": "通过适当的措施，保持文物的原始状态，防止损坏或褪色。",
+          "sentenceWithBlank": "Our team works tirelessly to @ @ @ for future generations.",
+          "fullEnglishSentence": "Our team works tirelessly to 「preserve cultural heritage」 for future generations.",
+          "chineseTranslation": "我们的团队不懈努力，以「保护文化遗产」，使其留给后代。",
+          "chinglishFix": "典型中式英语：'We keep culture heritage.' 纠正：'We preserve cultural heritage.'（'keep'不适合此语境，'preserve'更准确，且搭配'cultural heritage'更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "保存食物，使其不易腐烂",
+      "usage": "常用于描述通过冷冻、腌制、罐装等方式延长食物的保质期，常见于烹饪或食品加工语境。",
+      "collocations": ["fresh fruit", "vegetables", "meat"],
+      "examples": [
+        {
+          "scene": "你在家准备过冬的食物，决定用罐装的方式保存夏天采摘的水果。",
+          "chineseIdea": "通过加工水果，防止其腐烂，保持其口感和营养，供冬季食用。",
+          "sentenceWithBlank": "My grandmother taught me how to @ @ @ in jars for the winter.",
+          "fullEnglishSentence": "My grandmother taught me how to 「preserve fresh fruit」 in jars for the winter.",
+          "chineseTranslation": "我奶奶教我如何将「新鲜水果」装罐保存，供冬天食用。",
+          "chinglishFix": "典型中式英语：'I save fresh fruit in jars.' 纠正：'I preserve fresh fruit in jars.'（'save'不适用于食物保存，'preserve'更贴切。）"
+        },
+        {
+          "scene": "你在一家食品加工厂参观，负责人向你展示如何通过冷冻技术保持蔬菜的新鲜度。",
+          "chineseIdea": "通过现代技术，延长蔬菜的保质期，同时保留其营养和风味。",
+          "sentenceWithBlank": "This facility uses advanced technology to @ @ @ for global distribution.",
+          "fullEnglishSentence": "This facility uses advanced technology to 「preserve vegetables」 for global distribution.",
+          "chineseTranslation": "这家工厂使用先进技术「保存蔬菜」，以供全球分销。",
+          "chinglishFix": "典型中式英语：'They keep vegetables fresh.' 纠正：'They preserve vegetables.'（'keep fresh'不如'preserve'精确，且搭配'preserve vegetables'更地道。）"
+        }
+      ]
+    },
+    {
+      "meaning": "保持或维持某种状态、品质或特性",
+      "usage": "用于抽象语境，如保持和平、名誉、秩序等，强调不变或延续。",
+      "collocations": ["peace and order", "good reputation", "personal dignity"],
+      "examples": [
+        {
+          "scene": "你是一个社区领袖，在一次会议上讨论如何在动荡时期维持社区的和谐。",
+          "chineseIdea": "通过对话和合作，确保社区的稳定与和平，避免冲突升级。",
+          "sentenceWithBlank": "Our goal is to @ @ @ @ during these challenging times.",
+          "fullEnglishSentence": "Our goal is to 「preserve peace and order」 during these challenging times.",
+          "chineseTranslation": "我们的目标是在这些挑战时期「维护和平与秩序」。",
+          "chinglishFix": "典型中式英语：'We want to keep peace and order.' 纠正：'We aim to preserve peace and order.'（'keep'较为口语化，'preserve'更正式，且搭配'peace and order'更常见。）"
+        },
+        {
+          "scene": "你是一个公众人物，在一次采访中被问及如何应对负面新闻，维护自己的形象。",
+          "chineseIdea": "通过谨慎的言行和积极的行动，保持公众对你的信任和尊重。",
+          "sentenceWithBlank": "I strive to @ @ @ despite media scrutiny.",
+          "fullEnglishSentence": "I strive to 「preserve good reputation」 despite media scrutiny.",
+          "chineseTranslation": "我努力「保持良好声誉」，尽管面临媒体的审视。",
+          "chinglishFix": "典型中式英语：'I want to protect my fame.' 纠正：'I strive to preserve my good reputation.'（'protect fame'不地道，'preserve good reputation'更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```

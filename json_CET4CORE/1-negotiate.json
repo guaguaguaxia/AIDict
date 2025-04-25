@@ -1,0 +1,51 @@
+{
+  "word": "negotiate",
+  "definitions": [
+    {
+      "meaning": "通过讨论达成协议或妥协",
+      "usage": "指在商业、外交或其他正式场合中，双方或多方通过对话解决分歧、达成共识或签订协议。通常涉及讨价还价或条件调整。",
+      "collocations": ["a contract", "a deal", "terms", "a settlement"],
+      "examples": [
+        {
+          "scene": "一家中国公司与一家美国供应商讨论一份长期供货合同。双方在价格和交货时间上存在分歧，需要通过多轮会议来达成一致。",
+          "chineseIdea": "希望通过谈判让对方降低价格，同时保证交货时间符合需求。",
+          "sentenceWithBlank": "After several rounds of talks, they managed to @ @ @ that satisfied both parties.",
+          "fullEnglishSentence": "After several rounds of talks, they managed to 「negotiate a contract」 that satisfied both parties.",
+          "chineseTranslation": "经过几轮谈判，他们成功「商定了一份合同」，令双方都满意。",
+          "chinglishFix": "典型中式英语：'They talk a contract successfully.' 纠正：'They successfully negotiated a contract.'（应使用negotiate表示谈判达成协议，而不是笼统的talk。）"
+        },
+        {
+          "scene": "在国际贸易展会上，一位中国出口商与欧洲客户讨论一笔大宗商品交易，双方需要就价格和数量达成一致。",
+          "chineseIdea": "希望通过灵活的沟通促成交易，确保双方都能接受最终的交易条件。",
+          "sentenceWithBlank": "The exporter worked hard to @ @ @ with the client to secure the order.",
+          "fullEnglishSentence": "The exporter worked hard to 「negotiate a deal」 with the client to secure the order.",
+          "chineseTranslation": "出口商努力与客户「达成一笔交易」，以确保获得订单。",
+          "chinglishFix": "典型中式英语：'They make a deal with talking.' 纠正：'They negotiated a deal through discussions.'（应使用negotiate来表达通过谈判达成交易，而不是make或talk。）"
+        }
+      ]
+    },
+    {
+      "meaning": "处理或应对复杂情况",
+      "usage": "指在非正式或物理环境中，通过技巧或努力处理困难、复杂或危险的情况，如通过障碍、复杂地形等。",
+      "collocations": ["a obstacle", "a turn", "a situation"],
+      "examples": [
+        {
+          "scene": "一名中国游客在国外山区徒步旅行，遇到一条狭窄且湿滑的小路，需要小心通过。",
+          "chineseIdea": "希望通过谨慎的步伐和专注力，安全地通过这条危险的路段。",
+          "sentenceWithBlank": "He carefully @ @ @ to avoid slipping on the wet rocks.",
+          "fullEnglishSentence": "He carefully 「negotiated an obstacle」 to avoid slipping on the wet rocks.",
+          "chineseTranslation": "他小心地「通过了一个障碍」，以避免在湿滑的岩石上滑倒。",
+          "chinglishFix": "典型中式英语：'He passed a difficulty.' 纠正：'He negotiated an obstacle.'（应使用negotiate来表示处理或通过复杂情况，而不是简单的pass。）"
+        },
+        {
+          "scene": "一名中国司机在繁忙的曼谷街头开车，面对复杂的路况和拥挤的交通，需要灵活应对多个急转弯。",
+          "chineseIdea": "希望通过熟练的驾驶技巧，安全地通过每一个转弯，避免事故。",
+          "sentenceWithBlank": "The driver skillfully @ @ @ in the chaotic traffic.",
+          "fullEnglishSentence": "The driver skillfully 「negotiated a turn」 in the chaotic traffic.",
+          "chineseTranslation": "司机熟练地在混乱的交通中「通过了一个转弯」。",
+          "chinglishFix": "典型中式英语：'He turned the car difficultly.' 纠正：'He negotiated the turn skillfully.'（应使用negotiate来表示处理复杂转弯，而不是直接描述动作。）"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "awareness",
+  "definitions": [
+    {
+      "meaning": "对某事物或情况的了解、感知或认识",
+      "usage": "指意识到某事物的存在或理解其重要性，常用于描述对社会问题、环境、自身状态等的感知。可以用在正式或非正式语境中，常见于讨论教育、宣传或个人成长。",
+      "collocations": ["raise awareness", "public awareness", "increase awareness"],
+      "examples": [
+        {
+          "scene": "一个非营利组织在社区中开展活动，希望让更多人关注气候变化问题。他们通过社交媒体、讲座和公益广告来传递信息。",
+          "chineseIdea": "让更多人知道气候变化的严重性，并激励他们采取行动。",
+          "sentenceWithBlank": "The organization launched a campaign to @ @ of climate change issues.",
+          "fullEnglishSentence": "The organization launched a campaign to 「raise awareness」 of climate change issues.",
+          "chineseTranslation": "该组织发起了一场运动，以「提高认识」气候变化问题。",
+          "chinglishFix": "典型中式英语：'Let people know more about climate change.' 纠正：'Raise awareness of climate change.' 说明：'know more' 过于笼统，英语中更常用 'raise awareness' 来表达宣传或提升公众对某事的关注。"
+        },
+        {
+          "scene": "在一所学校里，老师组织了一场关于网络安全的讲座，邀请专家讲解如何保护个人信息。",
+          "chineseIdea": "帮助学生明白网络安全的重要性，学会保护自己。",
+          "sentenceWithBlank": "The school invited experts to boost @ @ of cybersecurity among students.",
+          "fullEnglishSentence": "The school invited experts to boost 「public awareness」 of cybersecurity among students.",
+          "chineseTranslation": "学校邀请专家来提升学生对网络安全的「公众认识」。",
+          "chinglishFix": "典型中式英语：'Make students understand cybersecurity.' 纠正：'Increase public awareness of cybersecurity.' 说明：'make understand' 不地道，'increase awareness' 是更自然的表达，强调意识的提升。"
+        }
+      ]
+    },
+    {
+      "meaning": "自我意识或对自己状态的感知",
+      "usage": "指个体对自己思想、情感、行为或身体状态的察觉，常见于心理学、冥想或个人成长的语境。语气通常较为内省或学术化。",
+      "collocations": ["self-awareness", "heightened awareness", "develop awareness"],
+      "examples": [
+        {
+          "scene": "在一个冥想课程中，老师引导学员专注于自己的呼吸，观察自己的情绪和思绪。",
+          "chineseIdea": "通过冥想，学会更好地理解自己的内心状态。",
+          "sentenceWithBlank": "Meditation helps individuals cultivate @ @ of their emotions.",
+          "fullEnglishSentence": "Meditation helps individuals cultivate 「self-awareness」 of their emotions.",
+          "chineseTranslation": "冥想帮助个人培养对其情绪的「自我意识」。",
+          "chinglishFix": "典型中式英语：'Know yourself better.' 纠正：'Develop self-awareness.' 说明：'know yourself' 过于模糊，'self-awareness' 更精准地表达对自身状态的感知。"
+        },
+        {
+          "scene": "一位职场新人接受导师的反馈，导师建议他更关注自己的沟通方式，以改进与同事的互动。",
+          "chineseIdea": "通过反思，认识到自己的沟通习惯并加以改进。",
+          "sentenceWithBlank": "The mentor advised him to @ @ of his communication style.",
+          "fullEnglishSentence": "The mentor advised him to 「develop awareness」 of his communication style.",
+          "chineseTranslation": "导师建议他「培养意识」对自己的沟通方式。",
+          "chinglishFix": "典型中式英语：'Pay attention to how you talk.' 纠正：'Develop awareness of your communication style.' 说明：'pay attention' 显得不够具体，'develop awareness' 更适合表达逐渐培养对某事的感知。"
+        }
+      ]
+    }
+  ]
+}
+```

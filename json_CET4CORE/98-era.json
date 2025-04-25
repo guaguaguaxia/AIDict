@@ -1,0 +1,53 @@
+```json
+{
+  "word": "era",
+  "definitions": [
+    {
+      "meaning": "A long and distinct period of history with a particular feature or characteristic",
+      "usage": "Used to describe a significant period in history marked by notable events, characteristics, or figures, often with a specific name or theme.",
+      "collocations": ["new era", "modern era", "bygone era"],
+      "examples": [
+        {
+          "scene": "一位历史老师在课堂上向学生介绍20世纪的科技进步，强调计算机和互联网的出现如何改变了人类的生活方式。",
+          "chineseIdea": "想表达一个全新的历史阶段，充满了技术革新和全球化的特征。",
+          "sentenceWithBlank": "The invention of the internet ushered in a @ @ of unprecedented connectivity.",
+          "fullEnglishSentence": "The invention of the internet ushered in a 「new era」 of unprecedented connectivity.",
+          "chineseTranslation": "互联网的发明开启了一个「新时代」，带来了前所未有的互联性。",
+          "chinglishFix": "Chinglish: 'Internet make a new time of connection.' Correction: 'The internet ushered in a new era of connectivity.'"
+        },
+        {
+          "scene": "一位记者在文章中回顾过去，感叹智能手机如何改变了人们的沟通方式，标志着一个技术主导的时期。",
+          "chineseIdea": "想描述一个以智能手机和数字技术为核心的当代历史阶段。",
+          "sentenceWithBlank": "Smartphones have defined the @ @ of digital communication.",
+          "fullEnglishSentence": "Smartphones have defined the 「modern era」 of digital communication.",
+          "chineseTranslation": "智能手机定义了「现代」，以数字通信为主导。",
+          "chinglishFix": "Chinglish: 'Smartphone is modern time's communication.' Correction: 'Smartphones have defined the modern era of digital communication.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A period of time associated with a particular person, event, or cultural phenomenon",
+      "usage": "Refers to a time period defined by the influence of a specific individual, movement, or event, often used in cultural or artistic contexts.",
+      "collocations": ["golden era", "Victorian era", "era of"],
+      "examples": [
+        {
+          "scene": "一位音乐爱好者在博客中回忆20世纪60年代的摇滚乐，称其为音乐史上的巅峰时期。",
+          "chineseIdea": "想表达一个因某特定文化现象而闻名的历史时期，充满了创造力和影响力。",
+          "sentenceWithBlank": "The 1960s marked a @ @ of rock music with bands like The Beatles.",
+          "fullEnglishSentence": "The 1960s marked a 「golden era」 of rock music with bands like The Beatles.",
+          "chineseTranslation": "20世纪60年代标志着摇滚乐的「黄金时代」，有像披头士这样的乐队。",
+          "chinglishFix": "Chinglish: '1960s is rock music’s best time.' Correction: 'The 1960s marked a golden era of rock music.'"
+        },
+        {
+          "scene": "一位历史学家在讲座中讨论19世纪英国的文学和文化，提到维多利亚女王统治时期的独特风格。",
+          "chineseIdea": "想描述一个以某位重要人物命名的历史时期，具有鲜明的文化和社会特征。",
+          "sentenceWithBlank": "Charles Dickens’ novels vividly capture the @ @ of British society.",
+          "fullEnglishSentence": "Charles Dickens’ novels vividly capture the 「Victorian era」 of British society.",
+          "chineseTranslation": "查尔斯·狄更斯的小说生动地捕捉了英国社会的「维多利亚时代」。",
+          "chinglishFix": "Chinglish: 'Dickens write about Victoria’s time.' Correction: 'Dickens’ novels capture the Victorian era.'"
+        }
+      ]
+    }
+  ]
+}
+```

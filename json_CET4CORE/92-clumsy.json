@@ -1,0 +1,53 @@
+```json
+{
+  "word": "clumsy",
+  "definitions": [
+    {
+      "meaning": "动作笨拙、不灵活，缺乏协调性",
+      "usage": "描述一个人在动作上不优雅，容易摔倒、撞到东西或打翻物品，通常带有轻微的贬义，但有时也可表示可爱或无意。",
+      "collocations": ["clumsy hands", "clumsy movements", "clumsy attempt"],
+      "examples": [
+        {
+          "scene": "在一个热闹的咖啡店里，小明端着一杯满满的咖啡，试图穿过拥挤的人群回到座位。他不小心撞到桌子，咖啡洒了一地。",
+          "chineseIdea": "想表达小明动作不灵活，端咖啡时显得笨拙，导致失误。",
+          "sentenceWithBlank": "With @ @, he spilled his coffee all over the table.",
+          "fullEnglishSentence": "With 「clumsy hands」, he spilled his coffee all over the table.",
+          "chineseTranslation": "他「手脚笨拙」，把咖啡洒了一桌子。",
+          "chinglishFix": "典型中式英语：'His hands are stupid' → 纠正为 'He has clumsy hands' 或 'He is clumsy with his hands'，因为'stupid'不适用于描述动作的灵活性。"
+        },
+        {
+          "scene": "在学校操场上，体育课上小红第一次尝试踢足球。她用力过猛，球飞到完全错误的方向，同学们都笑了。",
+          "chineseIdea": "想描述小红踢球时动作不协调，显得笨拙，缺乏技巧。",
+          "sentenceWithBlank": "Her @ @ made everyone laugh during the soccer game.",
+          "fullEnglishSentence": "Her 「clumsy movements」 made everyone laugh during the soccer game.",
+          "chineseTranslation": "她在足球比赛中「笨拙的动作」让大家都笑了。",
+          "chinglishFix": "典型中式英语：'She moves very stupid' → 纠正为 'Her movements are clumsy' 或 'She moves clumsily'，因为'stupid'不适合描述动作的协调性。"
+        }
+      ]
+    },
+    {
+      "meaning": "言语或行为笨拙、不够得体，缺乏技巧或敏感性",
+      "usage": "指某人在社交场合或表达上显得不圆滑，可能会冒犯他人或显得尴尬，通常带有批评意味。",
+      "collocations": ["clumsy apology", "clumsy remark", "clumsy handling"],
+      "examples": [
+        {
+          "scene": "在公司会议上，小李试图为迟到道歉，但他说的话让老板觉得他没有诚意，反而更生气了。",
+          "chineseIdea": "想表达小李的道歉方式不得体，显得笨拙，未能有效化解尴尬。",
+          "sentenceWithBlank": "His @ @ only made the boss angrier.",
+          "fullEnglishSentence": "His 「clumsy apology」 only made the boss angrier.",
+          "chineseTranslation": "他「笨拙的道歉」只会让老板更生气。",
+          "chinglishFix": "典型中式英语：'His sorry is not good' → 纠正为 'His apology was clumsy' 或 'He apologized awkwardly'，因为'sorry is not good'不符合英语表达习惯。"
+        },
+        {
+          "scene": "在朋友聚会上，小王想开个玩笑活跃气氛，但他的评论冒犯了在场的一位朋友，气氛变得尴尬。",
+          "chineseIdea": "想描述小王的玩笑不得体，显得笨拙，导致社交失误。",
+          "sentenceWithBlank": "His @ @ turned the party atmosphere awkward.",
+          "fullEnglishSentence": "His 「clumsy remark」 turned the party atmosphere awkward.",
+          "chineseTranslation": "他「不得体的评论」让聚会的气氛变得尴尬。",
+          "chinglishFix": "典型中式英语：'His joke is not suitable' → 纠正为 'His remark was clumsy' 或 'He made an awkward comment'，因为'not suitable'不够具体，难以传达社交上的笨拙感。"
+        }
+      ]
+    }
+  ]
+}
+```

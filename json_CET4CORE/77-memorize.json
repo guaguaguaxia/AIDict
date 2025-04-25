@@ -1,0 +1,53 @@
+```json
+{
+  "word": "memorize",
+  "definitions": [
+    {
+      "meaning": "通过重复学习将信息储存在记忆中，以便能够准确回忆",
+      "usage": "指通过刻意练习或重复，将事实、单词、诗句等内容牢记在心，通常用于需要准确复述的场景，如学习语言、准备考试或表演。",
+      "collocations": ["new words", "a poem", "lines for a play", "facts and figures"],
+      "examples": [
+        {
+          "scene": "一个中国学生正在准备英语考试，需要记住大量词汇以提高阅读和写作能力。学生每天花一个小时复习单词表。",
+          "chineseIdea": "学生希望通过反复背诵，将英语单词深深印在脑海中，以便在考试中快速回忆。",
+          "sentenceWithBlank": "She spends hours each day trying to @ @ so she can use them in her essays.",
+          "fullEnglishSentence": "She spends hours each day trying to 「memorize new words」 so she can use them in her essays.",
+          "chineseTranslation": "她每天花几个小时试图「记住新单词」，以便在作文中使用它们。",
+          "chinglishFix": "典型中式英语：She studies hard to remember new words by heart. 纠正：She works hard to memorize new words."
+        },
+        {
+          "scene": "一个英语学习者在参加英语角时，想流利地用新学的短语进行对话，因此提前背诵了一些常用表达。",
+          "chineseIdea": "学习者希望通过提前准备，确保在对话中能自然地说出正确的表达，而不是临时想不起来。",
+          "sentenceWithBlank": "Before the English club meeting, he practiced @ @ @ to sound more natural.",
+          "fullEnglishSentence": "Before the English club meeting, he practiced 「memorizing new words」 to sound more natural.",
+          "chineseTranslation": "在英语俱乐部会议之前，他练习「记住新单词」以听起来更自然。",
+          "chinglishFix": "典型中式英语：He learns new words in heart for the meeting. 纠正：He memorizes new words for the meeting."
+        }
+      ]
+    },
+    {
+      "meaning": "将某事深刻记住，通常带有情感或经历的含义",
+      "usage": "指通过经历或情感联结，使某事在记忆中留下深刻印象，通常用于描述对事件、场景或特殊时刻的记忆，不一定需要刻意背诵。",
+      "collocations": ["a special moment", "a meaningful experience", "a beautiful scene", "a lesson learned"],
+      "examples": [
+        {
+          "scene": "一个学生在国外旅行时，被当地节日庆典的热闹场景深深吸引，多年后依然能清晰回忆。",
+          "chineseIdea": "学生希望将这次旅行的美好瞬间留在记忆中，每次想起都能感受到当时的快乐。",
+          "sentenceWithBlank": "During her trip, she tried to @ @ @ to cherish it forever.",
+          "fullEnglishSentence": "During her trip, she tried to 「memorize a special moment」 to cherish it forever.",
+          "chineseTranslation": "在旅行中，她试图「记住一个特殊时刻」，以便永远珍藏。",
+          "chinglishFix": "典型中式英语：She wants to keep the moment in her mind. 纠正：She wants to memorize the special moment."
+        },
+        {
+          "scene": "一个年轻人在参加志愿者活动时，被一位老人的故事深深感动，决心将这次经历铭记于心。",
+          "chineseIdea": "年轻人希望将这次感人的经历保存在记忆中，作为未来生活的动力。",
+          "sentenceWithBlank": "After the event, he wanted to @ @ @ to stay inspired.",
+          "fullEnglishSentence": "After the event, he wanted to 「memorize a meaningful experience」 to stay inspired.",
+          "chineseTranslation": "活动结束后，他想「记住一次有意义的经历」以保持激励。",
+          "chinglishFix": "典型中式英语：He keeps the experience in heart. 纠正：He memorizes the meaningful experience."
+        }
+      ]
+    }
+  ]
+}
+```

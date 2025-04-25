@@ -1,0 +1,53 @@
+```json
+{
+  "word": "cozy",
+  "definitions": [
+    {
+      "meaning": "舒适的，温馨的（指环境或氛围让人感到温暖、放松）",
+      "usage": "形容一个地方或环境让人感到温暖、舒适、亲切，通常与温暖的灯光、柔软的家具或亲密的氛围相关。常用于描述家庭、房间或小空间。",
+      "collocations": ["cozy atmosphere", "cozy corner", "cozy blanket", "cozy evening"],
+      "examples": [
+        {
+          "scene": "寒冷的冬夜，你和家人围坐在客厅的壁炉旁，柔和的灯光洒在木质地板上，沙发上铺着厚实的毛毯，桌上放着热可可。",
+          "chineseIdea": "你想表达这个环境让人感到温暖、放松，仿佛时间都慢下来了，充满了家庭的温馨。",
+          "sentenceWithBlank": "The living room was filled with a @ @, perfect for a winter night.",
+          "fullEnglishSentence": "The living room was filled with a 「cozy atmosphere」, perfect for a winter night.",
+          "chineseTranslation": "客厅里充满了「温馨的氛围」，非常适合冬夜。",
+          "chinglishFix": "典型中式英语：'The room is very warm and comfortable.' 纠正：'The room has a cozy atmosphere.'（中式英语倾向于直接翻译'温暖舒适'，但英语中'cozy atmosphere'更能传达具体的温馨感。）"
+        },
+        {
+          "scene": "你在一个小咖啡馆里，靠窗的座位上放着软垫，周围是木质书架，窗外下着小雨，你手里捧着一本小说。",
+          "chineseIdea": "你想描述这个角落让人感到安静、舒适，像一个可以躲避喧嚣的小世界。",
+          "sentenceWithBlank": "I found a @ @ in the café to read my book.",
+          "fullEnglishSentence": "I found a 「cozy corner」 in the café to read my book.",
+          "chineseTranslation": "我在咖啡馆里找到了一个「舒适的角落」来读书。",
+          "chinglishFix": "典型中式英语：'The corner is very comfortable for reading.' 纠正：'The corner is cozy for reading.'（中式英语常忽略'cozy'的亲切和氛围感，需用更贴切的词。）"
+        }
+      ]
+    },
+    {
+      "meaning": "亲密的，友好的（指人际关系或互动让人感到温暖、亲近）",
+      "usage": "描述人与人之间的互动或关系，强调一种亲密、友好的感觉，通常用于小规模的聚会或对话。",
+      "collocations": ["cozy chat", "cozy gathering", "cozy dinner"],
+      "examples": [
+        {
+          "scene": "周末晚上，你邀请了几个好友到家里，围坐在餐桌旁，分享简单的家常菜，聊着最近的生活琐事。",
+          "chineseIdea": "你想表达这次聚会让人感到亲切、放松，大家像家人一样自然地交流。",
+          "sentenceWithBlank": "We had a @ @ by the dining table with friends.",
+          "fullEnglishSentence": "We had a 「cozy chat」 by the dining table with friends.",
+          "chineseTranslation": "我们围坐在餐桌旁与朋友们进行了一次「亲密的聊天」。",
+          "chinglishFix": "典型中式英语：'We talked happily with friends.' 纠正：'We had a cozy chat with friends.'（中式英语常忽略'cozy'的亲密感和氛围，直接用'开心'等词。）"
+        },
+        {
+          "scene": "你和几个同事下班后去了一家小餐厅，点了一些小份食物，边吃边聊工作之外的兴趣爱好。",
+          "chineseIdea": "你想描述这次晚餐让人感到轻松、友好，没有正式场合的拘束。",
+          "sentenceWithBlank": "The small restaurant was perfect for a @ @ with colleagues.",
+          "fullEnglishSentence": "The small restaurant was perfect for a 「cozy dinner」 with colleagues.",
+          "chineseTranslation": "这家小餐厅非常适合与同事们共进一顿「温馨的晚餐」。",
+          "chinglishFix": "典型中式英语：'We had a happy dinner with colleagues.' 纠正：'We had a cozy dinner with colleagues.'（中式英语常忽略'cozy'的亲密和轻松感。）"
+        }
+      ]
+    }
+  ]
+}
+```

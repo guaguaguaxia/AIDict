@@ -1,0 +1,53 @@
+```json
+{
+  "word": "extraordinary",
+  "definitions": [
+    {
+      "meaning": "非常不寻常的，卓越的，超出常规的",
+      "usage": "形容某事物或人远超普通，具有惊人或非凡的特质，常用于正面评价，强调独特或令人印象深刻的特点。",
+      "collocations": ["extraordinary achievement", "extraordinary talent", "extraordinary effort", "extraordinary beauty"],
+      "examples": [
+        {
+          "scene": "在一个国际科技创新大赛的颁奖典礼上，主持人正在介绍一位年轻发明家，她发明了一种低成本的太阳能净化水设备，解决了许多偏远地区的安全饮水问题。",
+          "chineseIdea": "这位发明家因其非凡的创新成果而受到全球关注，她的成就不仅改变了技术领域，还对社会产生了深远影响。",
+          "sentenceWithBlank": "Her @ @ was recognized with the top award at the global innovation summit.",
+          "fullEnglishSentence": "Her 「extraordinary achievement」 was recognized with the top award at the global innovation summit.",
+          "chineseTranslation": "她的「非凡成就」在全球创新峰会上获得了最高奖项。",
+          "chinglishFix": "典型中式英语：'Her very great success was awarded.' 纠正：'Her extraordinary achievement was recognized with an award.'（避免直接翻译‘非常伟大的成功’，使用更自然的搭配‘extraordinary achievement’）"
+        },
+        {
+          "scene": "在一所艺术学院的毕业典礼上，校长正在致辞，特别表扬一位学生在绘画领域的独特表现，她的画作被博物馆收藏。",
+          "chineseIdea": "这位学生因其卓越的艺术天赋而备受瞩目，她的画作展现了令人惊叹的创造力和情感深度。",
+          "sentenceWithBlank": "The young artist’s @ @ captivated the audience and earned her a place in the national museum.",
+          "fullEnglishSentence": "The young artist’s 「extraordinary talent」 captivated the audience and earned her a place in the national museum.",
+          "chineseTranslation": "这位年轻艺术家的「卓越天赋」吸引了观众，并为她在国家博物馆赢得了一席之地。",
+          "chinglishFix": "典型中式英语：'Her very special skill was liked by people.' 纠正：'Her extraordinary talent captivated the audience.'（避免‘非常特殊的技能’这种生硬表达，改为更地道的‘extraordinary talent’）"
+        }
+      ]
+    },
+    {
+      "meaning": "临时的，特别的（用于正式或官方场合）",
+      "usage": "通常用于描述为特定目的而设立的临时或特别的事物，如会议、职位等，多见于正式或法律语境。",
+      "collocations": ["extraordinary meeting", "extraordinary session", "extraordinary measures"],
+      "examples": [
+        {
+          "scene": "一家跨国公司因突发财务危机，董事会决定召开一次紧急会议，讨论如何应对市场动荡。",
+          "chineseIdea": "这次会议是为了应对紧急情况而特别安排的，显示了公司对危机的高度重视。",
+          "sentenceWithBlank": "The board called an @ @ to address the financial crisis immediately.",
+          "fullEnglishSentence": "The board called an 「extraordinary meeting」 to address the financial crisis immediately.",
+          "chineseTranslation": "董事会召开了一次「特别会议」以立即应对金融危机。",
+          "chinglishFix": "典型中式英语：'The board held a very urgent meeting.' 纠正：'The board called an extraordinary meeting.'（避免直接翻译‘非常紧急的会议’，使用更正式的‘extraordinary meeting’）"
+        },
+        {
+          "scene": "在一次国际组织的年度大会上，由于突发事件，各国代表决定延长会议时间，专门讨论新的全球安全政策。",
+          "chineseIdea": "这次额外的会议是为了处理紧急的全球问题而特别安排的，体现了国际合作的紧迫性。",
+          "sentenceWithBlank": "The delegates agreed to hold an @ @ to discuss the new global security policies.",
+          "fullEnglishSentence": "The delegates agreed to hold an 「extraordinary session」 to discuss the new global security policies.",
+          "chineseTranslation": "代表们同意举行一次「特别会议」以讨论新的全球安全政策。",
+          "chinglishFix": "典型中式英语：'They had a special meeting for the policies.' 纠正：'They held an extraordinary session to discuss the policies.'（避免‘特殊会议’的模糊表达，改为更贴合语境的‘extraordinary session’）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "depressed",
+  "definitions": [
+    {
+      "meaning": "感到沮丧、情绪低落",
+      "usage": "描述一个人因生活事件、压力或其他原因感到悲伤、失去动力或无望的情绪状态，通常用于表达心理或情感上的低落。",
+      "collocations": ["feel depressed", "become depressed", "deeply depressed"],
+      "examples": [
+        {
+          "scene": "小明最近因为工作压力大，连续加班，回家后总是感到疲惫不堪，提不起兴趣做任何事情，甚至周末也不想出门。",
+          "chineseIdea": "小明觉得自己心情很低落，像是被什么压得喘不过气，觉得生活没有乐趣。",
+          "sentenceWithBlank": "After months of overtime, Xiao Ming started to @ @ about his life.",
+          "fullEnglishSentence": "After months of overtime, Xiao Ming started to 「feel depressed」 about his life.",
+          "chineseTranslation": "在连续几个月的加班后，小明开始对生活「感到沮丧」。",
+          "chinglishFix": "典型中式英语：'I feel very depress.' 纠正：'I feel very depressed.'（depress是动词，depressed是形容词，用于描述状态）。"
+        },
+        {
+          "scene": "小红在朋友聚会上发现自己总是强颜欢笑，回到家后却独自坐在沙发上发呆，觉得自己无法真正开心起来。",
+          "chineseIdea": "小红觉得自己像是陷入了某种低谷，表面上正常，但内心却很沉重。",
+          "sentenceWithBlank": "Despite her efforts to socialize, Xiao Hong has 「become @」 over time.",
+          "fullEnglishSentence": "Despite her efforts to socialize, Xiao Hong has 「become depressed」 over time.",
+          "chineseTranslation": "尽管她努力去社交，小红随着时间推移「变得沮丧」。",
+          "chinglishFix": "典型中式英语：'She become depress.' 纠正：'She has become depressed.'（注意时态和形容词使用）。"
+        }
+      ]
+    },
+    {
+      "meaning": "经济萧条或低迷",
+      "usage": "描述经济、市场或商业活动处于低谷或不活跃的状态，通常用于正式或经济相关的语境。",
+      "collocations": ["depressed economy", "depressed market", "severely depressed"],
+      "examples": [
+        {
+          "scene": "在某个小城市，工厂接连关闭，许多工人失业，当地商店的生意也变得很冷清，整体经济陷入低迷。",
+          "chineseIdea": "这个城市的经济像是停滞了一样，商店几乎没有顾客，生活变得艰难。",
+          "sentenceWithBlank": "Due to factory closures, the town is struggling with a @ @.",
+          "fullEnglishSentence": "Due to factory closures, the town is struggling with a 「depressed economy」.",
+          "chineseTranslation": "由于工厂关闭，这个小镇正面临「经济萧条」的困境。",
+          "chinglishFix": "典型中式英语：'The economy is very depress.' 纠正：'The economy is very depressed.'（注意形容词形式和语义准确性）。"
+        },
+        {
+          "scene": "在全球经济波动期间，房地产市场受到重创，房价持续下跌，购房者几乎销声匿迹。",
+          "chineseIdea": "房地产市场像是失去了活力，交易量大幅下降，投资者信心不足。",
+          "sentenceWithBlank": "The real estate sector has been hit hard, resulting in a @ @.",
+          "fullEnglishSentence": "The real estate sector has been hit hard, resulting in a 「depressed market」.",
+          "chineseTranslation": "房地产行业受到重创，导致「市场低迷」。",
+          "chinglishFix": "典型中式英语：'The market is depress now.' 纠正：'The market is depressed now.'（注意形容词使用和语法正确性）。"
+        }
+      ]
+    }
+  ]
+}
+```

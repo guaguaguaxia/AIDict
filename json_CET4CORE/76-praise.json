@@ -1,0 +1,53 @@
+```json
+{
+  "word": "praise",
+  "definitions": [
+    {
+      "meaning": "表达赞美或钦佩",
+      "usage": "用作动词或名词，表示对某人或某事的成就、品质或行为的认可和好评，通常带有积极的情感。",
+      "collocations": ["high praise", "sing someone's praises", "win praise"],
+      "examples": [
+        {
+          "scene": "在一个公司的年会上，经理在全体员工面前表扬了一位表现出色的员工。",
+          "chineseIdea": "想要表达对员工出色工作的认可，希望激励他继续努力，同时让其他员工感受到正面的氛围。",
+          "sentenceWithBlank": "The manager gave @ @ to Sarah for her outstanding performance this year.",
+          "fullEnglishSentence": "The manager gave 「high praise」 to Sarah for her outstanding performance this year.",
+          "chineseTranslation": "经理对莎拉今年的出色表现给予了「高度赞扬」。",
+          "chinglishFix": "典型中式英语：The manager praised Sarah very high. 纠正：The manager gave high praise to Sarah 或 The manager highly praised Sarah."
+        },
+        {
+          "scene": "在一场家庭聚会上，姑姑夸奖侄子在学校的音乐表演非常精彩。",
+          "chineseIdea": "想表达对侄子才华的欣赏，同时鼓励他在音乐方面继续发展。",
+          "sentenceWithBlank": "Aunt Lily couldn’t stop @ @ @ about Tom’s violin solo at the school concert.",
+          "fullEnglishSentence": "Aunt Lily couldn’t stop 「singing Tom’s praises」 about his violin solo at the school concert.",
+          "chineseTranslation": "莉莉姑姑不停地「为汤姆的才华赞不绝口」关于他在学校音乐会上的小提琴独奏。",
+          "chinglishFix": "典型中式英语：Aunt Lily praised Tom’s violin very much. 纠正：Aunt Lily was singing Tom’s praises for his violin solo."
+        }
+      ]
+    },
+    {
+      "meaning": "获得赞誉或认可",
+      "usage": "用作动词或名词，表示某人或某事因其成就或品质而受到公开的称赞，通常与评价或奖励相关。",
+      "collocations": ["earn praise", "receive praise", "deserve praise"],
+      "examples": [
+        {
+          "scene": "一位年轻作家出版了第一本小说，文学评论家们对她的作品给予了很高的评价。",
+          "chineseIdea": "想表达作家的作品因其独特性和深度而受到专业人士的认可。",
+          "sentenceWithBlank": "Her debut novel @ @ from critics for its originality.",
+          "fullEnglishSentence": "Her debut novel 「earned praise」 from critics for its originality.",
+          "chineseTranslation": "她的处女作小说因其独创性「赢得了评论家的赞誉」。",
+          "chinglishFix": "典型中式英语：Her novel was praised by critics very good. 纠正：Her novel earned praise from critics."
+        },
+        {
+          "scene": "一名学生在科学展览会上展示了创新项目，老师和评委都对他表示了肯定。",
+          "chineseIdea": "想表达学生因努力和创造力而得到认可，激励他继续探索科学。",
+          "sentenceWithBlank": "Jack’s innovative project @ @ from both teachers and judges at the science fair.",
+          "fullEnglishSentence": "Jack’s innovative project 「received praise」 from both teachers and judges at the science fair.",
+          "chineseTranslation": "杰克的创新项目在科学展览会上「获得了老师和评委的称赞」。",
+          "chinglishFix": "典型中式英语：Jack’s project was praised very much by teachers. 纠正：Jack’s project received praise from teachers."
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "vital",
+  "definitions": [
+    {
+      "meaning": "对某事或某人的生存、成功或运作极其重要的",
+      "usage": "用作形容词，通常描述某事物在特定情境下不可或缺的作用，常用于强调生命、健康、成功或运作的关键性。",
+      "collocations": ["vital role", "vital importance", "vital part", "vital information"],
+      "examples": [
+        {
+          "scene": "在一个科技公司，项目经理正在向团队强调某个核心技术对产品开发的重要性，团队需要围绕这一技术制定开发计划。",
+          "chineseIdea": "项目经理想表达这项技术是项目成功的关键，没有它整个产品可能无法正常运作。",
+          "sentenceWithBlank": "This technology plays a @ @ in ensuring the product’s success.",
+          "fullEnglishSentence": "This technology plays a 「vital role」 in ensuring the product’s success.",
+          "chineseTranslation": "这项技术在确保产品成功中扮演了「至关重要的角色」。",
+          "chinglishFix": "典型中式英语：'This technology is very important role.' 纠正：'This technology plays a vital role.'（避免直接翻译‘重要角色’，需用‘play a role’结构。）"
+        },
+        {
+          "scene": "在一场商业会议中，销售主管向客户强调及时提供市场数据的重要性，以便制定有效的销售策略。",
+          "chineseIdea": "销售主管想说明市场数据对决策至关重要，没有这些数据可能导致策略失误。",
+          "sentenceWithBlank": "Having access to @ @ is crucial for making informed decisions.",
+          "fullEnglishSentence": "Having access to 「vital information」 is crucial for making informed decisions.",
+          "chineseTranslation": "获取「至关重要的信息」对于做出明智的决策至关重要。",
+          "chinglishFix": "典型中式英语：'This information is very key.' 纠正：'This information is vital.'（避免用‘key’直接翻译‘关键’，‘vital’更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "充满活力或生命力的",
+      "usage": "用作形容词，描述某人、某事物或某场景充满生机、活跃或精力充沛的状态，常用于描述人、艺术、文化等。",
+      "collocations": ["vital energy", "vital spirit", "vital community"],
+      "examples": [
+        {
+          "scene": "在一个艺术节开幕式上，主持人介绍一个充满创意的年轻艺术家群体，他们的作品展现了无限的生命力。",
+          "chineseIdea": "主持人想表达这些艺术家充满活力，他们的作品让人感到生机勃勃。",
+          "sentenceWithBlank": "These young artists bring a @ @ to their creations.",
+          "fullEnglishSentence": "These young artists bring a 「vital energy」 to their creations.",
+          "chineseTranslation": "这些年轻艺术家为他们的创作带来了「充满活力的能量」。",
+          "chinglishFix": "典型中式英语：'These artists have very lively power.' 纠正：'These artists have vital energy.'（避免用‘lively power’翻译‘活力’，‘vital energy’更地道。）"
+        },
+        {
+          "scene": "一位导游在向游客介绍一个历史悠久但依然充满活力的老城区，这里有热闹的市场和丰富的文化活动。",
+          "chineseIdea": "导游想说明这个老城区虽然古老，但依然生机盎然，吸引着游客。",
+          "sentenceWithBlank": "This old town remains a @ @, attracting visitors from all over.",
+          "fullEnglishSentence": "This old town remains a 「vital community」, attracting visitors from all over.",
+          "chineseTranslation": "这个老城区依然是一个「充满活力的社区」，吸引了来自各地的游客。",
+          "chinglishFix": "典型中式英语：'This town is very active place.' 纠正：'This town is a vital community.'（避免用‘active place’翻译‘充满活力的社区’，‘vital community’更贴切。）"
+        }
+      ]
+    }
+  ]
+}
+```

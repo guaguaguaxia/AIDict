@@ -1,0 +1,53 @@
+```json
+{
+  "word": "access",
+  "definitions": [
+    {
+      "meaning": "进入或使用的权利或机会",
+      "usage": "指获得进入某地、获取信息、使用资源或接触某人的权限，通常用于正式或技术性语境。",
+      "collocations": ["gain access", "have access", "provide access", "restrict access"],
+      "examples": [
+        {
+          "scene": "你是一家科技公司的员工，需要进入公司的内部数据库来完成一个项目，但你需要管理员的权限。",
+          "chineseIdea": "你想表达你需要被授予进入数据库的权限，以便查看和使用里面的数据。",
+          "sentenceWithBlank": "I need to @ @ to the company’s internal database to complete the project.",
+          "fullEnglishSentence": "I need to 「gain access」 to the company’s internal database to complete the project.",
+          "chineseTranslation": "我需要「获得权限」进入公司的内部数据库来完成这个项目。",
+          "chinglishFix": "典型中式英语：'I need to enter the database.' 纠正：'Enter' 强调物理进入，而 'gain access' 更适合描述获得权限。应说 'I need to gain access to the database.'"
+        },
+        {
+          "scene": "你是一个学生，学校新推出了一个在线学习平台，学生可以随时登录查看课程资料。",
+          "chineseIdea": "你想说明学生能够随时登录并使用这个平台的资源。",
+          "sentenceWithBlank": "All students @ @ to the online learning platform for course materials.",
+          "fullEnglishSentence": "All students 「have access」 to the online learning platform for course materials.",
+          "chineseTranslation": "所有学生都可以「使用」在线学习平台获取课程资料。",
+          "chinglishFix": "典型中式英语：'Students can enter the platform.' 纠正：'Enter' 不适合描述使用权限，应使用 'have access'。应说 'Students have access to the platform.'"
+        }
+      ]
+    },
+    {
+      "meaning": "进入某地的通道或方式",
+      "usage": "指物理上进入某地点的路径或方法，常用于描述建筑物、场所或地点的入口。",
+      "collocations": ["easy access", "direct access", "public access", "wheelchair access"],
+      "examples": [
+        {
+          "scene": "你去一个大型购物中心，发现入口设计得很方便，适合家庭和老人。",
+          "chineseIdea": "你想表达这个购物中心的入口设计让人们很容易进入。",
+          "sentenceWithBlank": "The shopping mall provides @ @ for families and elderly visitors.",
+          "fullEnglishSentence": "The shopping mall provides 「easy access」 for families and elderly visitors.",
+          "chineseTranslation": "这个购物中心为家庭和老年访客提供了「便捷的入口」。",
+          "chinglishFix": "典型中式英语：'The mall is easy to enter.' 纠正：'Easy to enter' 听起来不够自然，且缺乏搭配的习惯表达。应说 'The mall provides easy access.'"
+        },
+        {
+          "scene": "你参观一个博物馆，注意到有一个专门为残疾人设计的入口。",
+          "chineseIdea": "你想说明博物馆为残疾人提供了专门的通道。",
+          "sentenceWithBlank": "The museum offers @ @ for visitors with disabilities.",
+          "fullEnglishSentence": "The museum offers 「wheelchair access」 for visitors with disabilities.",
+          "chineseTranslation": "博物馆为残疾访客提供了「轮椅通道」。",
+          "chinglishFix": "典型中式英语：'The museum has a road for wheelchairs.' 纠正：'Road' 不适合描述入口或通道，且表达不地道。应说 'The museum offers wheelchair access.'"
+        }
+      ]
+    }
+  ]
+}
+```

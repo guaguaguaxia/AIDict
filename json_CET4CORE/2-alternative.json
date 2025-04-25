@@ -1,0 +1,74 @@
+{
+  "word": "alternative",
+  "definitions": [
+    {
+      "meaning": "可供选择的，替代的（指在两个或多个选项中选择一个）",
+      "usage": "用作形容词，描述某事物是可供选择的一种可能性，通常用于表示替代方案或选项。",
+      "collocations": ["alternative approach", "alternative solution", "alternative plan"],
+      "examples": [
+        {
+          "scene": "在公司会议中，团队正在讨论如何提高销售额，但当前策略效果不佳，经理希望听到新的想法。",
+          "chineseIdea": "经理希望团队提出一种不同的方法来解决问题，而不是继续沿用老办法。",
+          "sentenceWithBlank": "We need to consider an @ @ to boost our sales figures this quarter.",
+          "fullEnglishSentence": "We need to consider an 「alternative approach」 to boost our sales figures this quarter.",
+          "chineseTranslation": "我们需要考虑一种「替代方法」来提升本季度的销售数字。",
+          "chinglishFix": "典型中式英语：'We need a new method to instead the old one.' 纠正：'We need an alternative approach to replace the old one.'"
+        },
+        {
+          "scene": "在学校项目中，学生们发现原定的野外考察因天气原因无法进行，老师建议换一种方式完成任务。",
+          "chineseIdea": "老师提出可以用另一种解决方案来代替原来的计划，比如室内模拟实验。",
+          "sentenceWithBlank": "Since the field trip is canceled, let’s find an @ @ to complete the project.",
+          "fullEnglishSentence": "Since the field trip is canceled, let’s find an 「alternative solution」 to complete the project.",
+          "chineseTranslation": "由于野外考察取消了，我们来找一个「替代方案」来完成项目。",
+          "chinglishFix": "典型中式英语：'We need another way to instead this plan.' 纠正：'We need an alternative solution to replace this plan.'"
+        }
+      ]
+    },
+    {
+      "meaning": "非传统的，另类的（指与主流或传统不同的风格、方法或选择）",
+      "usage": "用作形容词，描述某事物具有非主流或独特的特点，常用于音乐、生活方式、时尚等领域。",
+      "collocations": ["alternative lifestyle", "alternative medicine", "alternative energy"],
+      "examples": [
+        {
+          "scene": "在大学校园里，一些学生选择不追求传统职业，而是过着自由、环保的生活方式，比如住在面包车里旅行。",
+          "chineseIdea": "这些学生追求一种与主流社会不同的生活方式，强调自由和可持续发展。",
+          "sentenceWithBlank": "She’s always been drawn to an @ @, living off-grid and traveling the world.",
+          "fullEnglishSentence": "She’s always been drawn to an 「alternative lifestyle」, living off-grid and traveling the world.",
+          "chineseTranslation": "她一直被「另类生活方式」吸引，过着离网生活并环游世界。",
+          "chinglishFix": "典型中式英语：'She likes a different life style.' 纠正：'She’s drawn to an alternative lifestyle.'"
+        },
+        {
+          "scene": "在健康论坛上，有人分享他们如何通过针灸和草药来治疗慢性疼痛，而不是依赖西药。",
+          "chineseIdea": "分享者介绍了一种非传统的治疗方式，强调自然疗法的效果。",
+          "sentenceWithBlank": "Many people are turning to @ @ to treat chronic conditions naturally.",
+          "fullEnglishSentence": "Many people are turning to 「alternative medicine」 to treat chronic conditions naturally.",
+          "chineseTranslation": "许多人转向「替代医学」来自然治疗慢性疾病。",
+          "chinglishFix": "典型中式英语：'They use other medicine to cure sickness.' 纠正：'They use alternative medicine to treat illnesses.'"
+        }
+      ]
+    },
+    {
+      "meaning": "替代品，选项（作为名词，指可供选择的某事物）",
+      "usage": "用作名词，指代一种可以替代其他事物的选择，通常与介词to搭配。",
+      "collocations": ["alternative to", "viable alternative", "better alternative"],
+      "examples": [
+        {
+          "scene": "在咖啡店，顾客询问是否有不含牛奶的饮品，因为他们对乳制品过敏。",
+          "chineseIdea": "顾客想知道是否有其他饮品可以代替含奶的咖啡，比如植物奶选项。",
+          "sentenceWithBlank": "Is there an @ @ regular milk for my latte?",
+          "fullEnglishSentence": "Is there an 「alternative to」 regular milk for my latte?",
+          "chineseTranslation": "我的拿铁有「替代」普通牛奶的选项吗？",
+          "chinglishFix": "典型中式英语：'Do you have something instead milk?' 纠正：'Is there an alternative to milk?'"
+        },
+        {
+          "scene": "在家庭讨论中，父母在考虑暑假去哪里度假，孩子们不喜欢去海边，想找其他选择。",
+          "chineseIdea": "孩子们希望找到一个比海边度假更有趣的替代选项，比如去山区露营。",
+          "sentenceWithBlank": "Can we find a @ @ going to the beach this summer?",
+          "fullEnglishSentence": "Can we find a 「better alternative」 to going to the beach this summer?",
+          "chineseTranslation": "我们能找到一个「更好的替代选择」来代替今年夏天去海边吗？",
+          "chinglishFix": "典型中式英语：'We want a good instead for beach.' 纠正：'We want a better alternative to the beach.'"
+        }
+      ]
+    }
+  ]
+}

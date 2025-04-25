@@ -1,0 +1,76 @@
+```json
+{
+  "word": "project",
+  "definitions": [
+    {
+      "meaning": "计划或项目，通常是有组织的、需要时间和资源完成的具体任务",
+      "usage": "指一个有明确目标、需要规划和执行的活动，常用于工作、学术或个人领域。可以用作名词，表示具体的计划或项目。",
+      "collocations": ["launch a project", "manage a project", "complete a project"],
+      "examples": [
+        {
+          "scene": "你是一家科技公司的产品经理，团队正在开发一款新的手机应用程序。领导要求你在下周的会议上介绍这个计划的进展。",
+          "chineseIdea": "你需要向团队和上级说明这个计划的启动情况，包括目标、时间表和资源分配。",
+          "sentenceWithBlank": "We plan to @ @ @ next month after finalizing the budget.",
+          "fullEnglishSentence": "We plan to 「launch a project」 next month after finalizing the budget.",
+          "chineseTranslation": "我们计划在下个月完成预算后「启动一个项目」。",
+          "chinglishFix": "典型中式英语：We will open a project next month. 纠正：'Open' 不适合此处，正确表达是 'launch a project'，表示正式开始一个项目。"
+        },
+        {
+          "scene": "你是一名项目协调员，负责监督一个跨部门的环保倡议。你需要确保所有任务按时完成，并与不同团队沟通。",
+          "chineseIdea": "你希望强调自己有效组织和监督这个计划的能力，确保一切顺利进行。",
+          "sentenceWithBlank": "She has successfully @ @ @ for the past six months.",
+          "fullEnglishSentence": "She has successfully 「managed a project」 for the past six months.",
+          "chineseTranslation": "她在过去六个月里成功地「管理了一个项目」。",
+          "chinglishFix": "典型中式英语：She controlled a project for six months. 纠正：'Control' 语气过于强硬，'manage a project' 更自然，表示协调和监督。"
+        }
+      ]
+    },
+    {
+      "meaning": "预测或投射，基于现有信息推测未来趋势或结果",
+      "usage": "用作动词，表示对未来情况的估计或预测，常用于商业、财务或数据分析场景。",
+      "collocations": ["project future growth", "project sales figures", "project an outcome"],
+      "examples": [
+        {
+          "scene": "你是一家零售公司的市场分析师，正在为下一季度准备销售报告。管理层希望了解未来的市场趋势。",
+          "chineseIdea": "你需要根据过去的数据和市场情况，预测公司未来的增长潜力。",
+          "sentenceWithBlank": "Analysts expect to @ @ @ based on current market trends.",
+          "fullEnglishSentence": "Analysts expect to 「project future growth」 based on current market trends.",
+          "chineseTranslation": "分析师预计根据当前市场趋势「预测未来增长」。",
+          "chinglishFix": "典型中式英语：Analysts guess future growth. 纠正：'Guess' 显得不专业，'project future growth' 更准确，表示基于数据的预测。"
+        },
+        {
+          "scene": "你是一名财务顾问，正在为客户制定投资计划。客户想知道某只股票的潜在收益。",
+          "chineseIdea": "你需要通过分析市场数据，预测这只股票可能的表现。",
+          "sentenceWithBlank": "We can @ @ @ by analyzing historical data.",
+          "fullEnglishSentence": "We can 「project sales figures」 by analyzing historical data.",
+          "chineseTranslation": "我们可以通过分析历史数据「预测销售数字」。",
+          "chinglishFix": "典型中式英语：We calculate sales figures for the future. 纠正：'Calculate' 强调计算过程，而 'project sales figures' 更适合表示基于分析的预测。"
+        }
+      ]
+    },
+    {
+      "meaning": "投射或投影，将影像、声音或情感传递到某个表面或对象上",
+      "usage": "用作动词，表示将某物（光、影像、声音或情感）投射到另一物体或空间上，常见于技术或心理场景。",
+      "collocations": ["project an image", "project a voice", "project confidence"],
+      "examples": [
+        {
+          "scene": "你在一间会议室里做演示，使用投影仪将幻灯片显示在屏幕上。观众需要清楚地看到内容。",
+          "chineseIdea": "你希望确保幻灯片的内容清晰地呈现在屏幕上，以便观众理解。",
+          "sentenceWithBlank": "The presenter used a device to @ @ @ onto the screen.",
+          "fullEnglishSentence": "The presenter used a device to 「project an image」 onto the screen.",
+          "chineseTranslation": "演示者使用设备将「一张图片投射」到屏幕上。",
+          "chinglishFix": "典型中式英语：The presenter showed an image on the screen. 纠正：'Show' 没有体现投影的动作，'project an image' 更精确，强调使用设备投射。"
+        },
+        {
+          "scene": "你是一名公开演讲者，在一个大型活动中向数百人发表演讲。你需要让自己的声音传到会场每个角落。",
+          "chineseIdea": "你希望自己的声音洪亮且清晰，确保每个人都能听到你的演讲内容。",
+          "sentenceWithBlank": "She learned to @ @ @ to reach the entire audience.",
+          "fullEnglishSentence": "She learned to 「project a voice」 to reach the entire audience.",
+          "chineseTranslation": "她学会了「放大声音」以覆盖整个观众群。",
+          "chinglishFix": "典型中式英语：She made her voice loud. 纠正：'Make loud' 显得生硬，'project a voice' 是更自然的表达，特指在演讲中让声音传远。"
+        }
+      ]
+    }
+  ]
+}
+```

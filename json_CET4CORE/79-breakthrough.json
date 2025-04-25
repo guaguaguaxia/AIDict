@@ -1,0 +1,76 @@
+```json
+{
+  "word": "breakthrough",
+  "definitions": [
+    {
+      "meaning": "在某个领域取得重大进展或发现",
+      "usage": "指在科学、技术、医学或其他领域中，克服重大障碍或实现重要发现，通常带来显著的进步或改变。",
+      "collocations": ["scientific breakthrough", "technological breakthrough", "major breakthrough"],
+      "examples": [
+        {
+          "scene": "一个研究团队在实验室中夜以继日地工作，试图找到治疗某种疾病的新方法。经过数年的努力，他们终于发现了一种新的药物，可以显著延长患者的生命。",
+          "chineseIdea": "团队在研究中取得了重大进展，找到了一种前所未有的解决方案，改变了人们对疾病治疗的看法。",
+          "sentenceWithBlank": "The research team achieved a @ @ in their study of cancer treatments.",
+          "fullEnglishSentence": "The research team achieved a 「scientific breakthrough」 in their study of cancer treatments.",
+          "chineseTranslation": "研究团队在癌症治疗研究中取得了「科学突破」。",
+          "chinglishFix": "典型中式英语：'They made a big success in science.' 纠正：'They achieved a scientific breakthrough.'（'Big success' 过于模糊，缺乏具体性，'breakthrough' 更能体现重大进展的意义。）"
+        },
+        {
+          "scene": "一家科技公司在开发人工智能技术时，解决了长期困扰业界的计算速度问题，使得AI系统能够实时处理海量数据。",
+          "chineseIdea": "公司通过创新解决了技术瓶颈，让AI技术迈上了一个新台阶。",
+          "sentenceWithBlank": "The company announced a @ @ in AI processing capabilities.",
+          "fullEnglishSentence": "The company announced a 「technological breakthrough」 in AI processing capabilities.",
+          "chineseTranslation": "该公司宣布了人工智能处理能力方面的「技术突破」。",
+          "chinglishFix": "典型中式英语：'They got a big improvement in technology.' 纠正：'They announced a technological breakthrough.'（'Big improvement' 过于泛泛，'breakthrough' 更能突出里程碑式的进展。）"
+        }
+      ]
+    },
+    {
+      "meaning": "突破障碍或僵局，取得进展",
+      "usage": "指在谈判、冲突或其他陷入僵局的情况下，通过努力打破限制或障碍，取得进展或达成协议。",
+      "collocations": ["diplomatic breakthrough", "breakthrough in negotiations", "significant breakthrough"],
+      "examples": [
+        {
+          "scene": "两个国家在边界争端问题上谈判多年，始终无法达成一致。在一次关键会议中，双方终于找到妥协方案，签署了和平协议。",
+          "chineseIdea": "通过艰苦的谈判，双方终于打破了僵局，达成了重要的协议。",
+          "sentenceWithBlank": "The summit led to a @ @ in resolving the border dispute.",
+          "fullEnglishSentence": "The summit led to a 「diplomatic breakthrough」 in resolving the border dispute.",
+          "chineseTranslation": "峰会促成了解决边界争端方面的「外交突破」。",
+          "chinglishFix": "典型中式英语：'They made a big step in diplomacy.' 纠正：'They achieved a diplomatic breakthrough.'（'Big step' 缺乏突破的力度，'breakthrough' 更能体现关键性进展。）"
+        },
+        {
+          "scene": "一家公司与工会因为薪资问题谈判陷入僵局，员工威胁罢工。经过数周的讨论，双方终于达成了一项公平的薪资协议。",
+          "chineseIdea": "公司和工会在谈判中克服了分歧，达成了双方都能接受的解决方案。",
+          "sentenceWithBlank": "After weeks of talks, they achieved a @ @ @ in the labor dispute.",
+          "fullEnglishSentence": "After weeks of talks, they achieved a 「breakthrough in negotiations」 in the labor dispute.",
+          "chineseTranslation": "经过数周的谈判，他们在劳资纠纷中取得了「谈判突破」。",
+          "chinglishFix": "典型中式英语：'They solved the problem in talks.' 纠正：'They achieved a breakthrough in negotiations.'（'Solved the problem' 过于简单，'breakthrough' 更能突出谈判中的关键进展。）"
+        }
+      ]
+    },
+    {
+      "meaning": "个人或职业上的重大进展",
+      "usage": "指个人在职业、艺术或个人发展中取得显著成功或突破，通常标志着事业或表现的新高度。",
+      "collocations": ["career breakthrough", "personal breakthrough", "artistic breakthrough"],
+      "examples": [
+        {
+          "scene": "一位年轻的演员多年来一直在小剧场表演，始终未被主流媒体关注。终于，她在一部大制作电影中获得了主角角色，赢得了广泛好评。",
+          "chineseIdea": "演员通过这次机会一举成名，事业迈上了新台阶。",
+          "sentenceWithBlank": "Her role in the blockbuster film was a @ @ for her acting career.",
+          "fullEnglishSentence": "Her role in the blockbuster film was a 「career breakthrough」 for her acting career.",
+          "chineseTranslation": "她在票房大片中的角色为她的演艺事业带来了「职业突破」。",
+          "chinglishFix": "典型中式英语：'She got a big chance in her career.' 纠正：'She achieved a career breakthrough.'（'Big chance' 强调机会而非成果，'breakthrough' 更能体现事业的重大进展。）"
+        },
+        {
+          "scene": "一位作家多年来一直尝试出版自己的小说，但屡次被出版社拒绝。经过不断的努力，她终于完成了一部广受好评的作品，获得了文学奖。",
+          "chineseIdea": "作家通过不懈努力，创作出了一部标志性的作品，获得了认可。",
+          "sentenceWithBlank": "Her award-winning novel marked a @ @ in her creative journey.",
+          "fullEnglishSentence": "Her award-winning novel marked an 「artistic breakthrough」 in her creative journey.",
+          "chineseTranslation": "她获奖的小说标志着她创作道路上的「艺术突破」。",
+          "chinglishFix": "典型中式英语：'Her book was a big success.' 纠正：'Her novel marked an artistic breakthrough.'（'Big success' 缺乏艺术成就的深度，'breakthrough' 更能突出创作上的里程碑。）"
+        }
+      ]
+    }
+  ]
+}
+```

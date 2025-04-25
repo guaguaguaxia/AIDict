@@ -1,0 +1,76 @@
+```json
+{
+  "word": "grab",
+  "definitions": [
+    {
+      "meaning": "迅速地抓住或拿取某物，通常带有急切或粗略的动作",
+      "usage": "常用于描述快速、突然地用手抓住某物，强调动作的迅速或随意。常见于日常口语，带有一种非正式的感觉。",
+      "collocations": ["grab a bite", "grab a seat", "grab someone's attention", "grab an opportunity"],
+      "examples": [
+        {
+          "scene": "你和朋友在忙碌的工作日中午只有短暂的午餐时间，决定去附近的小吃店快速吃点东西。",
+          "chineseIdea": "想表达你们匆忙地去吃点简单的食物，以填饱肚子。",
+          "sentenceWithBlank": "Let's @ @ @ before the meeting starts.",
+          "fullEnglishSentence": "Let's 「grab a bite」 before the meeting starts.",
+          "chineseTranslation": "我们在会议开始前去「吃点东西」。",
+          "chinglishFix": "典型中式英语：'Let's go to eat something quickly.' 纠正：'Let's grab a bite.'（用'grab a bite'更符合英语母语者的表达，简洁且自然。）"
+        },
+        {
+          "scene": "你在一个拥挤的咖啡店里，看到角落里有一个空座位，赶紧走过去占住。",
+          "chineseIdea": "想表达你迅速占据了一个位置，以确保有地方坐。",
+          "sentenceWithBlank": "I managed to @ @ @ in the crowded café.",
+          "fullEnglishSentence": "I managed to 「grab a seat」 in the crowded café.",
+          "chineseTranslation": "我在拥挤的咖啡店里设法「占了个座位」。",
+          "chinglishFix": "典型中式英语：'I took a seat quickly.' 纠正：'I grabbed a seat.'（'grab a seat'更生动，强调动作的迅速和竞争性。）"
+        }
+      ]
+    },
+    {
+      "meaning": "吸引或引起某人的兴趣或注意",
+      "usage": "用于描述某事物迅速引起注意或兴趣，常见于描述广告、标题、表演等吸引眼球的情景。",
+      "collocations": ["grab someone's attention", "grab the headlines", "grab the spotlight"],
+      "examples": [
+        {
+          "scene": "你正在浏览新闻网站，一个醒目的标题让你立刻点击了文章。",
+          "chineseIdea": "想表达这个标题非常吸引人，让你忍不住想了解更多。",
+          "sentenceWithBlank": "The bold headline managed to @ @ @ on the news site.",
+          "fullEnglishSentence": "The bold headline managed to 「grab my attention」 on the news site.",
+          "chineseTranslation": "那个醒目的标题在新闻网站上成功「吸引了我的注意」。",
+          "chinglishFix": "典型中式英语：'The headline made me interested.' 纠正：'The headline grabbed my attention.'（'grab someone's attention'更直接，符合英语中描述吸引力的习惯。）"
+        },
+        {
+          "scene": "在一个颁奖典礼上，一位新演员的精彩表演让所有观众都为之震撼。",
+          "chineseIdea": "想表达这个表演非常出色，吸引了所有人的目光。",
+          "sentenceWithBlank": "Her performance at the ceremony @ @ @.",
+          "fullEnglishSentence": "Her performance at the ceremony 「grabbed the spotlight」.",
+          "chineseTranslation": "她在颁奖典礼上的表演「吸引了所有目光」。",
+          "chinglishFix": "典型中式英语：'Her performance was very popular.' 纠正：'Her performance grabbed the spotlight.'（'grab the spotlight'更生动，强调突出和吸引。）"
+        }
+      ]
+    },
+    {
+      "meaning": "迅速获取或抢占某物（如机会、物品等）",
+      "usage": "用于描述快速获取某物，尤其是机会、优惠或有限资源，常带有竞争或时间紧迫的含义。",
+      "collocations": ["grab an opportunity", "grab a bargain", "grab a chance"],
+      "examples": [
+        {
+          "scene": "你听说公司有一个出国培训的机会，只有少数名额，你立刻提交了申请。",
+          "chineseIdea": "想表达你迅速抓住了这个难得的机会。",
+          "sentenceWithBlank": "I decided to @ @ @ to train abroad.",
+          "fullEnglishSentence": "I decided to 「grab an opportunity」 to train abroad.",
+          "chineseTranslation": "我决定「抓住一个机会」去国外培训。",
+          "chinglishFix": "典型中式英语：'I took the chance to train abroad.' 纠正：'I grabbed the opportunity to train abroad.'（'grab an opportunity'更强调主动和迅速。）"
+        },
+        {
+          "scene": "你在商场看到一件打折的衣服，折扣非常划算，你立刻买了下来。",
+          "chineseIdea": "想表达你快速抢购了一件便宜的商品。",
+          "sentenceWithBlank": "I couldn't resist and @ @ @ during the sale.",
+          "fullEnglishSentence": "I couldn't resist and 「grabbed a bargain」 during the sale.",
+          "chineseTranslation": "我忍不住在促销期间「抢了个便宜货」。",
+          "chinglishFix": "典型中式英语：'I bought a cheap thing.' 纠正：'I grabbed a bargain.'（'grab a bargain'更符合英语中描述抢购优惠的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

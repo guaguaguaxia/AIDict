@@ -1,0 +1,76 @@
+```json
+{
+  "word": "obtain",
+  "definitions": [
+    {
+      "meaning": "获取、得到（通过努力、请求或购买等方式）",
+      "usage": "指通过一定的努力、过程或合法手段获得某物，通常用于正式或半正式语境，强调获得的结果。",
+      "collocations": ["a degree", "permission", "information", "funding"],
+      "examples": [
+        {
+          "scene": "小明是一名大学生，即将毕业。他努力学习并通过了所有考试，最终拿到了梦寐以求的学位证书。",
+          "chineseIdea": "通过多年的学习和考试，成功拿到大学学位。",
+          "sentenceWithBlank": "After years of hard work, Xiao Ming was able to @ @ @.",
+          "fullEnglishSentence": "After years of hard work, Xiao Ming was able to 「obtain a degree」.",
+          "chineseTranslation": "经过多年的努力，小明终于「获得了学位」。",
+          "chinglishFix": "典型中式英语：'He got a degree certificate.' 纠正：'He obtained a degree.'（'Got'过于口语化，且'certificate'多指具体证书，而非学位本身。）"
+        },
+        {
+          "scene": "小红在公司计划举办一个大型活动，但需要使用公共场地。她向市政府提交了申请，最终得到了批准。",
+          "chineseIdea": "通过正式申请，成功得到官方的许可。",
+          "sentenceWithBlank": "Xiao Hong submitted an application and successfully @ @.",
+          "fullEnglishSentence": "Xiao Hong submitted an application and successfully 「obtained permission」.",
+          "chineseTranslation": "小红提交了申请，并成功「获得了许可」。",
+          "chinglishFix": "典型中式英语：'She got the allowance to use the place.' 纠正：'She obtained permission to use the venue.'（'Allowance'通常指津贴，'place'不够具体，改为'venue'更恰当。）"
+        }
+      ]
+    },
+    {
+      "meaning": "获得、取得（抽象事物，如支持、认可等）",
+      "usage": "指通过努力或表现获得某种无形的支持、认可或结果，常用于正式或书面语境。",
+      "collocations": ["support", "recognition", "approval", "evidence"],
+      "examples": [
+        {
+          "scene": "李华是一名创业者，他向投资人展示了详细的商业计划书，赢得了他们的信任和支持。",
+          "chineseIdea": "通过展示能力和计划，赢得他人的支持。",
+          "sentenceWithBlank": "Li Hua presented a solid business plan and was able to @ @ from investors.",
+          "fullEnglishSentence": "Li Hua presented a solid business plan and was able to 「obtain support」 from investors.",
+          "chineseTranslation": "李华展示了扎实的商业计划，成功从投资人那里「获得了支持」。",
+          "chinglishFix": "典型中式英语：'He got investors' help.' 纠正：'He obtained support from investors.'（'Help'过于笼统，'support'更符合商业语境。）"
+        },
+        {
+          "scene": "张伟是一名科学家，他在实验室中进行了多次实验，终于找到了支持他理论的关键证据。",
+          "chineseIdea": "通过实验和研究，找到支持理论的证据。",
+          "sentenceWithBlank": "After months of experiments, Zhang Wei finally @ @ to support his theory.",
+          "fullEnglishSentence": "After months of experiments, Zhang Wei finally 「obtained evidence」 to support his theory.",
+          "chineseTranslation": "经过几个月的实验，张伟终于「获得了证据」来支持他的理论。",
+          "chinglishFix": "典型中式英语：'He got the proof for his idea.' 纠正：'He obtained evidence to support his theory.'（'Proof'多用于数学或逻辑，'evidence'更适合科学语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "（规则、条件等）适用、存在",
+      "usage": "指某种规则、条件或情况在特定语境下有效或适用，通常用于正式或法律语境，较为少见。",
+      "collocations": ["a condition", "a rule", "a policy"],
+      "examples": [
+        {
+          "scene": "小刚在公司申请休假时，发现今年的休假政策已经发生了变化，旧的政策已经不再适用。",
+          "chineseIdea": "某个规则或政策在当前情况下已经不再有效。",
+          "sentenceWithBlank": "Xiao Gang found that the old leave @ @ no longer @ in the company.",
+          "fullEnglishSentence": "Xiao Gang found that the old leave 「policy」 no longer 「obtained」 in the company.",
+          "chineseTranslation": "小刚发现旧的休假「政策」在公司已经不再「适用」。",
+          "chinglishFix": "典型中式英语：'The old rule is not used now.' 纠正：'The old policy no longer obtains.'（'Is not used'过于口语化，'obtains'在此表示规则的适用性。）"
+        },
+        {
+          "scene": "在法庭上，律师指出某些旧的法律条款在现代社会已经不适用，必须参考新的法律。",
+          "chineseIdea": "某些法律或条件在当前环境下已经无效。",
+          "sentenceWithBlank": "The lawyer argued that the old @ @ no longer @ in today’s society.",
+          "fullEnglishSentence": "The lawyer argued that the old 「condition」 no longer 「obtained」 in today’s society.",
+          "chineseTranslation": "律师辩称旧的「条件」在当今社会已经不再「适用」。",
+          "chinglishFix": "典型中式英语：'The old law is not working now.' 纠正：'The old condition no longer obtains.'（'Working'不适合描述法律或条件的适用性，'obtains'更正式。）"
+        }
+      ]
+    }
+  ]
+}
+```

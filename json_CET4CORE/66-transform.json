@@ -1,0 +1,53 @@
+```json
+{
+  "word": "transform",
+  "definitions": [
+    {
+      "meaning": "to change the form, appearance, or structure of something significantly",
+      "usage": "Often used when describing a dramatic or significant change in physical appearance, structure, or character of an object, person, or place.",
+      "collocations": ["transform into", "transform the way", "transform completely"],
+      "examples": [
+        {
+          "scene": "一个破旧的工厂被改造成现代化的艺术展览空间，吸引了大量游客。",
+          "chineseIdea": "通过重新设计和装修，一个原本废弃的地方焕然一新，变成了一个充满活力的文化场所。",
+          "sentenceWithBlank": "The old factory was @ @ a vibrant art gallery.",
+          "fullEnglishSentence": "The old factory was 「transformed into」 a vibrant art gallery.",
+          "chineseTranslation": "这座旧工厂被「改造成」一个充满活力的艺术画廊。",
+          "chinglishFix": "Chinglish: The old factory was changed to an art gallery. Correction: The old factory was transformed into a vibrant art gallery. (Note: 'changed to' is less specific and lacks the sense of dramatic improvement conveyed by 'transformed into.')"
+        },
+        {
+          "scene": "一家公司通过引入新技术，极大地改变了员工的工作方式。",
+          "chineseIdea": "通过采用创新工具，员工的工作效率和协作方式发生了显著变化。",
+          "sentenceWithBlank": "New software has @ @ @ employees collaborate.",
+          "fullEnglishSentence": "New software has 「transformed the way」 employees collaborate.",
+          "chineseTranslation": "新软件「改变了」员工协作的方式。",
+          "chinglishFix": "Chinglish: New software changed employees' work way. Correction: New software transformed the way employees collaborate. (Note: 'work way' is unnatural; 'the way' is the idiomatic collocation.)"
+        }
+      ]
+    },
+    {
+      "meaning": "to change the nature, function, or condition of something, often in a profound way",
+      "usage": "Used to describe a fundamental shift in purpose, behavior, or essence, often with a positive or innovative outcome.",
+      "collocations": ["transform lives", "transform society", "transform business"],
+      "examples": [
+        {
+          "scene": "一个教育项目帮助贫困地区的孩子获得更好的学习机会，改变了他们的未来。",
+          "chineseIdea": "通过提供资源和支持，孩子们的生活轨迹发生了深远的改变。",
+          "sentenceWithBlank": "The charity program has @ @ of children in rural areas.",
+          "fullEnglishSentence": "The charity program has 「transformed lives」 of children in rural areas.",
+          "chineseTranslation": "这个慈善项目「改变了」农村地区孩子的生活。",
+          "chinglishFix": "Chinglish: The program changed children's life. Correction: The charity program transformed the lives of children. (Note: 'changed life' is too vague and misses the plural 'lives' and the depth of 'transformed.')"
+        },
+        {
+          "scene": "一家初创公司通过开发环保技术，改变了整个行业的运作模式。",
+          "chineseIdea": "通过创新的解决方案，行业的传统做法被重新定义。",
+          "sentenceWithBlank": "Their green technology has @ @ in the energy sector.",
+          "fullEnglishSentence": "Their green technology has 「transformed business」 in the energy sector.",
+          "chineseTranslation": "他们的绿色技术「改变了」能源行业的商业模式。",
+          "chinglishFix": "Chinglish: Their technology changed energy business. Correction: Their green technology transformed business in the energy sector. (Note: 'changed energy business' lacks specificity and the idiomatic use of 'transformed business.')"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "strategy",
+  "definitions": [
+    {
+      "meaning": "为实现长期目标而制定的计划或方法",
+      "usage": "指在商业、军事、政治或个人事务中，为达成某目标而设计的整体计划，通常涉及资源分配和行动步骤。",
+      "collocations": ["develop a strategy", "implement a strategy", "long-term strategy"],
+      "examples": [
+        {
+          "scene": "一家科技公司在新产品发布前的会议中，营销团队正在讨论如何在竞争激烈的市场中脱颖而出。",
+          "chineseIdea": "营销团队希望通过一个详细的计划来吸引目标客户，包括社交媒体推广和线下活动。",
+          "sentenceWithBlank": "To ensure the product launch succeeds, we need to @ @ @ that targets young professionals.",
+          "fullEnglishSentence": "To ensure the product launch succeeds, we need to 「develop a strategy」 that targets young professionals.",
+          "chineseTranslation": "为了确保产品发布成功，我们需要「制定一个策略」来针对年轻职业人士。",
+          "chinglishFix": "典型中式英语：'Make a strategy' → 纠正：'Develop a strategy'，因为'make'在搭配中显得不够正式，且'develop'更常用于描述策略的构建过程。"
+        },
+        {
+          "scene": "一家零售公司的高管团队在年度会议上讨论如何提高市场份额。",
+          "chineseIdea": "高管们希望通过执行一个新的计划来优化供应链并提升客户体验。",
+          "sentenceWithBlank": "The CEO emphasized the need to @ @ @ to improve supply chain efficiency.",
+          "fullEnglishSentence": "The CEO emphasized the need to 「implement a strategy」 to improve supply chain efficiency.",
+          "chineseTranslation": "首席执行官强调需要「实施一个策略」来提高供应链效率。",
+          "chinglishFix": "典型中式英语：'Do a strategy' → 纠正：'Implement a strategy'，因为'do'过于笼统，'implement'更精确地表达执行计划的动作。"
+        }
+      ]
+    },
+    {
+      "meaning": "在特定活动中应对挑战或达成目标的技巧或方法",
+      "usage": "指在游戏、谈判或短期活动中使用的具体技巧或方法，通常强调灵活性和针对性。",
+      "collocations": ["adopt a strategy", "effective strategy", "winning strategy"],
+      "examples": [
+        {
+          "scene": "一群朋友在玩桌游，游戏需要玩家通过分配资源和预测对手行动来获胜。",
+          "chineseIdea": "一位玩家决定通过集中资源在一个关键区域来增加胜算。",
+          "sentenceWithBlank": "To outsmart her opponents, Lisa decided to @ @ @ that focused on resource control.",
+          "fullEnglishSentence": "To outsmart her opponents, Lisa decided to 「adopt a strategy」 that focused on resource control.",
+          "chineseTranslation": "为了智胜对手，丽莎决定「采取一种策略」，专注于资源控制。",
+          "chinglishFix": "典型中式英语：'Use a strategy' → 纠正：'Adopt a strategy'，因为'adopt'更常用于表示选择或接受某种方法，且语气更正式。"
+        },
+        {
+          "scene": "一名学生准备英语口语考试，需要在有限时间内展示流利表达和逻辑思维。",
+          "chineseIdea": "学生计划通过提前准备常见话题和使用简单但清晰的句式来提升表现。",
+          "sentenceWithBlank": "To perform well in the speaking test, he practiced an @ @ that emphasized clarity over complexity.",
+          "fullEnglishSentence": "To perform well in the speaking test, he practiced an 「effective strategy」 that emphasized clarity over complexity.",
+          "chineseTranslation": "为了在口语考试中表现出色，他练习了一种「有效的策略」，强调清晰而非复杂。",
+          "chinglishFix": "典型中式英语：'Good strategy' → 纠正：'Effective strategy'，因为'good'过于泛泛，'effective'更能表达策略的实用性和效果。"
+        }
+      ]
+    }
+  ]
+}
+```

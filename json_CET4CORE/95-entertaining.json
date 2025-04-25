@@ -1,0 +1,53 @@
+```json
+{
+  "word": "entertaining",
+  "definitions": [
+    {
+      "meaning": "有趣的，令人愉快的（指活动、表演或内容能够吸引人并让人感到快乐）",
+      "usage": "通常用作形容词，描述某事物（如电影、书籍、表演等）能够吸引注意力并带来乐趣，常用于娱乐相关的语境。",
+      "collocations": ["an entertaining story", "an entertaining show", "an entertaining evening"],
+      "examples": [
+        {
+          "scene": "你和朋友在周末一起看了一部新上映的喜剧电影，电影情节幽默，节奏紧凑，让你们笑声不断。看完后，你想表达这部电影非常有趣。",
+          "chineseIdea": "我想说这部电影让我感到很快乐，故事很吸引人，充满了笑点。",
+          "sentenceWithBlank": "The movie we watched last night was truly @ @ @, full of hilarious moments.",
+          "fullEnglishSentence": "The movie we watched last night was truly 「an entertaining story」, full of hilarious moments.",
+          "chineseTranslation": "我们昨晚看的电影真是一个「有趣的故事」，充满了搞笑的时刻。",
+          "chinglishFix": "典型中式英语：'This movie is very funny story.' 纠正：'This movie is a very entertaining story.'（应使用'entertaining'来描述整体趣味性，而不是仅用'funny'，且避免语法错误。）"
+        },
+        {
+          "scene": "你在朋友的聚会上听了一个朋友分享他旅行中的奇闻轶事，他的讲述方式生动有趣，吸引了所有人的注意。",
+          "chineseIdea": "我想表达他的讲述非常吸引人，让大家都很享受这个时刻。",
+          "sentenceWithBlank": "His anecdotes made the party @ @ @ for everyone.",
+          "fullEnglishSentence": "His anecdotes made the party 「an entertaining evening」 for everyone.",
+          "chineseTranslation": "他的轶事让聚会成为一个「有趣的夜晚」，大家都乐在其中。",
+          "chinglishFix": "典型中式英语：'His story makes the party very happy.' 纠正：'His anecdotes made the party an entertaining evening.'（'happy'不适合描述事件整体的趣味性，应使用'entertaining'，并注意搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "款待的，招待的（指为客人提供食物、饮料或娱乐活动）",
+      "usage": "用作动词entertain的现在分词或形容词形式，描述为主人或东道主提供款待的行为，常见于正式或社交场合。",
+      "collocations": ["entertaining guests", "entertaining friends", "entertaining at home"],
+      "examples": [
+        {
+          "scene": "你邀请了一些同事到家里共进晚餐，你精心准备了美食，还安排了一些轻松的音乐和游戏，让大家感到宾至如归。",
+          "chineseIdea": "我想表达我很擅长招待客人，让他们感到舒适和快乐。",
+          "sentenceWithBlank": "She is always good at @ @ @, making everyone feel at home.",
+          "fullEnglishSentence": "She is always good at 「entertaining guests」, making everyone feel at home.",
+          "chineseTranslation": "她总是很擅长「招待客人」，让每个人都感到宾至如归。",
+          "chinglishFix": "典型中式英语：'She is good at receive guests.' 纠正：'She is good at entertaining guests.'（'receive'仅指接待，缺乏娱乐和款待的含义，应使用'entertain'。）"
+        },
+        {
+          "scene": "你的朋友在自家后院举办了一场烧烤派对，他热情地招呼大家，提供各种美食和饮品，还组织了一些户外游戏。",
+          "chineseIdea": "我想说他在家里招待朋友的方式非常棒，让人印象深刻。",
+          "sentenceWithBlank": "He loves @ @ @, with great food and fun activities.",
+          "fullEnglishSentence": "He loves 「entertaining at home」, with great food and fun activities.",
+          "chineseTranslation": "他喜欢「在家里招待」，提供美食和有趣的活动。",
+          "chinglishFix": "典型中式英语：'He likes to invite friends at home.' 纠正：'He loves entertaining at home.'（'invite'仅指邀请，缺少款待和娱乐的含义，应使用'entertaining'。）"
+        }
+      ]
+    }
+  ]
+}
+```

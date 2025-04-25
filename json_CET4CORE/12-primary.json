@@ -1,0 +1,76 @@
+```json
+{
+  "word": "primary",
+  "definitions": [
+    {
+      "meaning": "主要的，最重要的",
+      "usage": "指某事物在重要性、优先级或地位上居于首位，常用于描述核心或主导的事物。",
+      "collocations": ["primary concern", "primary goal", "primary responsibility"],
+      "examples": [
+        {
+          "scene": "在一家公司的高层会议中，经理们正在讨论新项目的优先事项。他们需要决定哪个问题需要最先解决。",
+          "chineseIdea": "表达某件事是当前最重要的事情，需要优先考虑。",
+          "sentenceWithBlank": "Our @ @ is to ensure customer satisfaction before expanding the product line.",
+          "fullEnglishSentence": "Our 「primary concern」 is to ensure customer satisfaction before expanding the product line.",
+          "chineseTranslation": "我们的「主要关注点」是确保客户满意度，然后再扩展产品线。",
+          "chinglishFix": "中式英语：Our first care is customer satisfaction. 纠正：'Care' 不常用于此语境，应使用 'concern'，如 Our primary concern is customer satisfaction."
+        },
+        {
+          "scene": "一位学生在规划自己的职业发展时，向导师咨询如何设定目标。",
+          "chineseIdea": "表达某件事是自己的核心目标，需要全力以赴。",
+          "sentenceWithBlank": "My @ @ is to secure a position in a leading tech company within two years.",
+          "fullEnglishSentence": "My 「primary goal」 is to secure a position in a leading tech company within two years.",
+          "chineseTranslation": "我的「主要目标」是在两年内进入一家领先的科技公司。",
+          "chinglishFix": "中式英语：My first aim is to join a tech company. 纠正：'Aim' 较为模糊，'goal' 更具体且常见，如 My primary goal is to secure a position in a tech company."
+        }
+      ]
+    },
+    {
+      "meaning": "初级的，基础的",
+      "usage": "指处于起始阶段或基础层次的事物，常见于教育、医疗或发展阶段的描述。",
+      "collocations": ["primary education", "primary care", instantly recognizable"],
+      "examples": [
+        {
+          "scene": "一位家长在与老师讨论孩子的学习进度，关注孩子在学校的早期教育。",
+          "chineseIdea": "描述孩子接受的最初阶段的教育，强调其基础性。",
+          "sentenceWithBlank": "Every child should have access to quality @ @ to build a strong foundation.",
+          "fullEnglishSentence": "Every child should have access to quality 「primary education」 to build a strong foundation.",
+         .."chineseTranslation": "每个孩子都应该接受优质的「初等教育」，以打下坚实的基础。",
+          "chinglishFix": "中式英语：Every child needs basic study. 纠正：'Basic study' 不准确且不自然，应使用 'primary education'，如 Every child needs access to quality primary education."
+        },
+        {
+          "scene": "一位患者在社区医院咨询医生，询问日常健康问题应该找谁。",
+          "chineseIdea": "表达基础医疗服务作为健康管理的起点。",
+          "sentenceWithBlank": "For routine health issues, you should first visit a @ @ provider.",
+          "fullEnglishSentence": "For routine health issues, you should first visit a 「primary care」 provider.",
+          "chineseTranslation": "对于常规健康问题，你应该首先咨询「初级医疗」提供者。",
+          "chinglishFix": "中式英语：You should see a basic doctor. 纠正：'Basic doctor' 不符合英语表达习惯，应使用 'primary care provider'，如 You should visit a primary care provider."
+        }
+      ]
+    },
+    {
+      "meaning": "原始的，最初的",
+      "usage": "指事物处于最初的状态或来源，未经加工或修改，常用于学术、科学或数据分析领域。",
+      "collocations": ["primary source", "primary data", "primary evidence"],
+      "examples": [
+        {
+          "scene": "一位历史学专业的学生在写论文时，导师建议使用第一手资料来支持论点。",
+          "chineseIdea": "强调使用未经加工的原始资料来确保研究的真实性。",
+          "sentenceWithBlank": "To support your argument, you should rely on a @ @ like an original manuscript.",
+          "fullEnglishSentence": "To support your argument, you should rely on a 「primary source」 like an original manuscript.",
+          "chineseTranslation": "为了支持你的论点，你应该依赖像原始手稿这样的「原始资料」。",
+          "chinglishFix": "中式英语：Use an original material for your paper. 纠正：'Original material' 不够具体，学术英语中常用 'primary source'，如 Rely on a primary source for your argument."
+        },
+        {
+          "scene": "一位数据分析师在向团队展示研究结果时，解释数据的来源。",
+          "chineseIdea": "说明数据是直接收集的，强调其原始性和可靠性。",
+          "sentenceWithBlank": "Our findings are based on @ @ collected directly from user surveys.",
+          "fullEnglishSentence": "Our findings are based on 「primary data」 collected directly from user surveys.",
+          "chineseTranslation": "我们的发现基于直接从用户调查中收集的「原始数据」。",
+          "chinglishFix": "中式英语：We used direct data from surveys. 纠正：'Direct data' 不够正式，学术或专业语境中常用 'primary data'，如 Our findings are based on primary data."
+        }
+      ]
+    }
+  ]
+}
+```

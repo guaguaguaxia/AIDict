@@ -1,0 +1,53 @@
+```json
+{
+  "word": "upbringing",
+  "definitions": [
+    {
+      "meaning": "The way a person is raised and educated by their parents or guardians during childhood",
+      "usage": "Refers to the nurturing, education, and values instilled in a person during their formative years, often used to explain personality traits or behaviors",
+      "collocations": ["strict upbringing", "privileged upbringing", "cultural upbringing"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，朋友们讨论各自的童年经历，有人提到父母对纪律要求很高。",
+          "chineseIdea": "描述一个人小时候被父母严格管教，养成了守规矩的性格。",
+          "sentenceWithBlank": "Her @ @ shaped her into a highly disciplined individual.",
+          "fullEnglishSentence": "Her 「strict upbringing」 shaped her into a highly disciplined individual.",
+          "chineseTranslation": "她的「严格教养」使她成为一个非常自律的人。",
+          "chinglishFix": "Chinglish: 'Her parents very strict education made her discipline.' Correct: 'Her strict upbringing shaped her into a disciplined person.'"
+        },
+        {
+          "scene": "在职场中，同事们讨论某人的自信和资源，提到他出身于一个富裕的家庭。",
+          "chineseIdea": "描述一个人因为家庭条件优越，从小接触到很多机会，形成了自信的性格。",
+          "sentenceWithBlank": "His @ @ gave him access to opportunities that built his confidence.",
+          "fullEnglishSentence": "His 「privileged upbringing」 gave him access to opportunities that built his confidence.",
+          "chineseTranslation": "他的「优越教养」让他接触到很多机会，培养了他的自信。",
+          "chinglishFix": "Chinglish: 'He grow up in rich family so he confident.' Correct: 'His privileged upbringing helped him develop confidence.'"
+        }
+      ]
+    },
+    {
+      "meaning": "The process or environment of raising and educating a child within a specific cultural or social context",
+      "usage": "Emphasizes the cultural or social influences on a person’s childhood, often used to highlight differences in traditions or societal norms",
+      "collocations": ["traditional upbringing", "religious upbringing", "multicultural upbringing"],
+      "examples": [
+        {
+          "scene": "在国际学校，学生们分享自己家庭的文化传统，有人提到自己遵循古老的习俗长大。",
+          "chineseIdea": "描述一个人在传统习俗中长大，深受文化价值观影响。",
+          "sentenceWithBlank": "Her @ @ instilled in her a deep respect for family traditions.",
+          "fullEnglishSentence": "Her 「traditional upbringing」 instilled in her a deep respect for family traditions.",
+          "chineseTranslation": "她的「传统教养」使她对家庭传统有深深的尊重。",
+          "chinglishFix": "Chinglish: 'She grow up with tradition so she respect tradition.' Correct: 'Her traditional upbringing fostered a deep respect for traditions.'"
+        },
+        {
+          "scene": "在一次文化交流活动中，有人分享自己在多种文化环境中长大的经历。",
+          "chineseIdea": "描述一个人因为接触多种文化，形成了开放和包容的性格。",
+          "sentenceWithBlank": "His @ @ helped him adapt to diverse environments with ease.",
+          "fullEnglishSentence": "His 「multicultural upbringing」 helped him adapt to diverse environments with ease.",
+          "chineseTranslation": "他的「多元文化教养」让他轻松适应不同的环境。",
+          "chinglishFix": "Chinglish: 'He live in many culture so he open.' Correct: 'His multicultural upbringing made him open to diverse cultures.'"
+        }
+      ]
+    }
+  ]
+}
+```

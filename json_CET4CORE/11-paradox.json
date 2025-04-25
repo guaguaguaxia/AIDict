@@ -1,0 +1,53 @@
+```json
+{
+  "word": "paradox",
+  "definitions": [
+    {
+      "meaning": "A statement or situation that seems self-contradictory or absurd but in reality expresses a possible truth",
+      "usage": "Used to describe ideas, statements, or situations that appear to contradict themselves but may reveal deeper truths upon closer examination. Common in philosophical, literary, and everyday discussions.",
+      "collocations": ["apparent paradox", "resolve a paradox", "present a paradox"],
+      "examples": [
+        {
+          "scene": "在一场哲学课堂讨论中，老师引导学生思考自由与规则之间的关系，学生们发现看似对立的观点竟然可以同时成立。",
+          "chineseIdea": "自由意味着没有约束，但真正的自由需要规则来保障，这听起来很矛盾，但仔细思考后发现两者相辅相成。",
+          "sentenceWithBlank": "The idea that true freedom requires rules seems like an @ paradox at first glance.",
+          "fullEnglishSentence": "The idea that true freedom requires rules seems like an 「apparent paradox」 at first glance.",
+          "chineseTranslation": "真正的自由需要规则这一想法乍看之下像是一个「明显的矛盾」。",
+          "chinglishFix": "Chinglish: 'Freedom and rules are very paradox.' Corrected: 'The relationship between freedom and rules presents an apparent paradox.'"
+        },
+        {
+          "scene": "在一场科技会议上，演讲者讨论人工智能的伦理问题，提到AI既能造福人类又可能带来风险，听众对此感到困惑。",
+          "chineseIdea": "人工智能既能解决复杂问题又可能引发危险，这种矛盾让人思考如何平衡其发展。",
+          "sentenceWithBlank": "The speaker tried to @ @ paradox by explaining how AI can be both beneficial and risky.",
+          "fullEnglishSentence": "The speaker tried to 「resolve a paradox」 by explaining how AI can be both beneficial and risky.",
+          "chineseTranslation": "演讲者试图「解决一个矛盾」，通过解释人工智能如何既有益又有风险。",
+          "chinglishFix": "Chinglish: 'AI is good and bad, it’s paradox.' Corrected: 'AI’s dual nature as both helpful and harmful presents a paradox.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A person or thing that combines contradictory features or qualities",
+      "usage": "Used to describe individuals, objects, or situations that embody opposing characteristics, often highlighting their complexity or uniqueness.",
+      "collocations": ["living paradox", "embody a paradox", "strike as a paradox"],
+      "examples": [
+        {
+          "scene": "在一次朋友聚会上，大家讨论一个共同的朋友，他既非常慷慨又极其节俭，这让大家觉得他很有趣。",
+          "chineseIdea": "这个朋友对朋友大方到极点，但在日常生活中小气到极点，这种矛盾的性格让人觉得他很特别。",
+          "sentenceWithBlank": "His generosity paired with extreme frugality makes him a @ paradox.",
+          "fullEnglishSentence": "His generosity paired with extreme frugality makes him a 「living paradox」.",
+          "chineseTranslation": "他的慷慨与极端的节俭相结合，使他成为一个「活生生的矛盾」。",
+          "chinglishFix": "Chinglish: 'He is generous but stingy, so paradox.' Corrected: 'His mix of generosity and frugality makes him a living paradox.'"
+        },
+        {
+          "scene": "在艺术展览中，一幅画作同时展现了混乱与和谐，观众被这种对立元素的融合深深吸引。",
+          "chineseIdea": "这幅画既充满了杂乱无章的线条，又有种和谐的美感，这种矛盾让人印象深刻。",
+          "sentenceWithBlank": "The painting’s blend of chaos and harmony @ @ paradox to the viewers.",
+          "fullEnglishSentence": "The painting’s blend of chaos and harmony 「strikes as a paradox」 to the viewers.",
+          "chineseTranslation": "这幅画将混乱与和谐融合，对观众来说「显得是一个矛盾」。",
+          "chinglishFix": "Chinglish: 'The painting is messy and harmonious, very paradox.' Corrected: 'The painting’s mix of chaos and harmony strikes as a paradox.'"
+        }
+      ]
+    }
+  ]
+}
+```

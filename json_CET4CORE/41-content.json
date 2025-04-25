@@ -1,0 +1,53 @@
+```json
+{
+  "word": "content",
+  "definitions": [
+    {
+      "meaning": "满足的，满意的",
+      "usage": "形容词，表示对某事感到满足或高兴，通常用于描述人的情绪或状态，常见于正式或书面语境，也可在日常对话中使用。",
+      "collocations": ["be content with", "feel content about", "seem content to"],
+      "examples": [
+        {
+          "scene": "小明在一家公司工作了五年，虽然薪水不高，但他对自己的工作环境和同事关系非常满意，觉得生活很充实。",
+          "chineseIdea": "小明觉得自己不需要追求更高的职位或更多的钱，因为他已经对现状感到满足。",
+          "sentenceWithBlank": "Xiaoming @ @ @ his current job because it offers a good work-life balance.",
+          "fullEnglishSentence": "Xiaoming 「is content with」 his current job because it offers a good work-life balance.",
+          "chineseTranslation": "小明对他的当前工作「感到满足」，因为它提供了很好的工作与生活平衡。",
+          "chinglishFix": "典型中式英语：'Xiaoming is satisfy with his job.' 纠正：'satisfy'是动词，形容词应为'satisfied'或'content'。正确表达：'Xiaoming is content with his job.'"
+        },
+        {
+          "scene": "李阿姨退休后开始种植花草，她每天在花园里忙碌，觉得这样的生活让她内心平静且满足。",
+          "chineseIdea": "李阿姨觉得自己不需要去旅游或追求刺激，种花让她感到满足。",
+          "sentenceWithBlank": "Aunt Li @ @ @ gardening every day after retirement.",
+          "fullEnglishSentence": "Aunt Li 「seems content to」 garden every day after retirement.",
+          "chineseTranslation": "李阿姨退休后每天种花，她「似乎满足于」这种生活。",
+          "chinglishFix": "典型中式英语：'Aunt Li is happy to gardening.' 纠正：'happy'虽正确但不够贴切，且动词后需用动名词。正确表达：'Aunt Li seems content to garden.'"
+        }
+      ]
+    },
+    {
+      "meaning": "内容，包含的东西",
+      "usage": "名词，指某物（如书、网站、课程等）所包含的信息、材料或实质内容，常用于描述具体或抽象的事物。",
+      "collocations": ["digital content", "educational content", "create content"],
+      "examples": [
+        {
+          "scene": "小红是一名自媒体博主，她每天花很多时间制作视频，分享关于健康饮食的知识，吸引了很多粉丝。",
+          "chineseIdea": "小红希望通过分享有用的信息来帮助别人，同时提升自己的影响力。",
+          "sentenceWithBlank": "Xiaohong spends hours producing @ @ for her social media channel.",
+          "fullEnglishSentence": "Xiaohong spends hours producing 「digital content」 for her social media channel.",
+          "chineseTranslation": "小红花几个小时为她的社交媒体频道制作「数字内容」。",
+          "chinglishFix": "典型中式英语：'Xiaohong makes content of digital.' 纠正：'content'已是名词，无需'of'，且搭配应为'digital content'。正确表达：'Xiaohong produces digital content.'"
+        },
+        {
+          "scene": "张老师正在准备一门新的在线课程，他需要设计课程大纲，确保学生能学到实用的知识。",
+          "chineseIdea": "张老师希望课程内容既有趣又实用，能让学生有所收获。",
+          "sentenceWithBlank": "Teacher Zhang is designing @ @ for his new online course.",
+          "fullEnglishSentence": "Teacher Zhang is designing 「educational content」 for his new online course.",
+          "chineseTranslation": "张老师正在为他的新在线课程设计「教育内容」。",
+          "chinglishFix": "典型中式英语：'Teacher Zhang prepares content of education.' 纠正：搭配应为'educational content'，避免'of'。正确表达：'Teacher Zhang designs educational content.'"
+        }
+      ]
+    }
+  ]
+}
+```

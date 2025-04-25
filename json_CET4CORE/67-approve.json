@@ -1,0 +1,53 @@
+```json
+{
+  "word": "approve",
+  "definitions": [
+    {
+      "meaning": "正式同意或批准某事",
+      "usage": "通常用于描述官方或权威机构对计划、请求、提案等的认可，常出现在正式或半正式语境中。",
+      "collocations": ["approve a plan", "approve an application", "approve a budget"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，管理层需要决定是否通过一个新项目的提案。项目负责人提交了一份详细的计划书，等待批准。",
+          "chineseIdea": "管理层仔细审查提案后，决定正式同意这个项目的实施。",
+          "sentenceWithBlank": "After reviewing the proposal, the board decided to @ @ @.",
+          "fullEnglishSentence": "After reviewing the proposal, the board decided to 「approve a plan」.",
+          "chineseTranslation": "在审查提案后，董事会决定「通过计划」。",
+          "chinglishFix": "典型中式英语：The board agreed the plan. 纠正：The board approved the plan. (‘agree’通常指双方达成共识，而‘approve’强调单方正式批准。)"
+        },
+        {
+          "scene": "一位学生申请出国留学，需要学校的国际办公室批准她的申请表。",
+          "chineseIdea": "学生提交了所有必要文件，等待学校确认她的申请是否符合要求。",
+          "sentenceWithBlank": "The international office will @ @ @ once all documents are verified.",
+          "fullEnglishSentence": "The international office will 「approve an application」 once all documents are verified.",
+          "chineseTranslation": "国际办公室将在所有文件验证后「批准申请」。",
+          "chinglishFix": "典型中式英语：The office passed her application. 纠正：The office approved her application. (‘pass’在考试或测试中更常见，而‘approve’用于正式批准文件或请求。)"
+        }
+      ]
+    },
+    {
+      "meaning": "对某人或某事表示赞同或满意",
+      "usage": "用于表达对某人行为、品质或某事的认可，通常带有情感或主观评价，常见于日常或非正式语境。",
+      "collocations": ["approve of someone", "approve of a decision", "approve of an idea"],
+      "examples": [
+        {
+          "scene": "一位母亲看到女儿在学校努力学习并帮助同学，感到非常满意。",
+          "chineseIdea": "母亲对女儿的行为表示认可，觉得她做得很好。",
+          "sentenceWithBlank": "The mother @ @ @ for her kindness and hard work.",
+          "fullEnglishSentence": "The mother 「approved of someone」 for her kindness and hard work.",
+          "chineseTranslation": "母亲因她的善良和努力而「赞同某人」。",
+          "chinglishFix": "典型中式英语：The mother agreed with her daughter. 纠正：The mother approved of her daughter. (‘agree with’通常指意见一致，而‘approve of’表示赞同或认可某人的行为。)"
+        },
+        {
+          "scene": "一群朋友讨论是否要一起去露营，有人提出了一个详细的计划，大家都很喜欢。",
+          "chineseIdea": "朋友们觉得这个计划很棒，纷纷表示支持。",
+          "sentenceWithBlank": "Everyone @ @ @ because it was well thought out.",
+          "fullEnglishSentence": "Everyone 「approved of an idea」 because it was well thought out.",
+          "chineseTranslation": "每个人都因为计划周密而「赞同这个想法」。",
+          "chinglishFix": "典型中式英语：Everyone accepted the idea. 纠正：Everyone approved of the idea. (‘accept’指接受某物，而‘approve of’表示对某事的认可或喜爱。)"
+        }
+      ]
+    }
+  ]
+}
+```

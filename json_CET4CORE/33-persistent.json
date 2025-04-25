@@ -1,0 +1,53 @@
+```json
+{
+  "word": "persistent",
+  "definitions": [
+    {
+      "meaning": "持续的；坚持不懈的",
+      "usage": "指某人或某事持续进行或存在，不轻易放弃或消失，常用于描述努力、问题、症状等。",
+      "collocations": ["persistent effort", "persistent problem", "persistent symptoms", "persistent rain"],
+      "examples": [
+        {
+          "scene": "一个学生在准备高考时，面对数学难题反复尝试，即使失败多次也不放弃。",
+          "chineseIdea": "学生通过不断的练习和钻研，最终攻克了难题，体现了不懈的努力。",
+          "sentenceWithBlank": "Her @ @ led her to solve the complex math problem after weeks of trying.",
+          "fullEnglishSentence": "Her 「persistent effort」 led her to solve the complex math problem after weeks of trying.",
+          "chineseTranslation": "她的「持续努力」使她在数周的尝试后解决了复杂的数学问题。",
+          "chinglishFix": "典型中式英语：'She very effort to solve the problem.' 纠正：'Her persistent effort helped her solve the problem.'（避免直接翻译‘很努力’，用persistent表达持续的努力。）"
+        },
+        {
+          "scene": "一个职场新人面对工作中反复出现的系统故障，持续寻找解决方案。",
+          "chineseIdea": "新人通过研究和咨询，逐步解决了系统问题，展现了解决难题的毅力。",
+          "sentenceWithBlank": "The IT team worked tirelessly to address the @ @ in the company’s software.",
+          "fullEnglishSentence": "The IT team worked tirelessly to address the 「persistent problem」 in the company’s software.",
+          "chineseTranslation": "IT团队不懈努力，解决了公司软件中的「持续问题」。",
+          "chinglishFix": "典型中式英语：'The problem is very continue.' 纠正：'The problem was persistent.'（避免用‘continue’直接翻译持续，用persistent更贴合语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "反复出现的；持续存在的",
+      "usage": "指某事物（如现象、症状或天气）反复或长时间存在，难以消退，常用于医学、环境等语境。",
+      "collocations": ["persistent symptoms", "persistent rain", "persistent cough", "persistent pain"],
+      "examples": [
+        {
+          "scene": "一个人感冒后，咳嗽症状持续了几个星期，医生建议进一步检查。",
+          "chineseIdea": "咳嗽长时间不消失，提示可能有更严重的问题，需要关注。",
+          "sentenceWithBlank": "The doctor was concerned about the patient’s @ @, which lasted for over a month.",
+          "fullEnglishSentence": "The doctor was concerned about the patient’s 「persistent cough」, which lasted for over a month.",
+          "chineseTranslation": "医生对病人「持续咳嗽」感到担忧，这种情况持续了一个多月。",
+          "chinglishFix": "典型中式英语：'He coughs for long time.' 纠正：'He has a persistent cough.'（避免简单描述时间长，用persistent cough表达反复的症状。）"
+        },
+        {
+          "scene": "某城市进入雨季，连续多日阴雨连绵，影响了人们的出行和心情。",
+          "chineseIdea": "连绵的雨让城市显得湿冷，居民希望天气能尽快好转。",
+          "sentenceWithBlank": "The @ @ made it difficult for residents to plan outdoor activities.",
+          "fullEnglishSentence": "The 「persistent rain」 made it difficult for residents to plan outdoor activities.",
+          "chineseTranslation": "「持续降雨」让居民难以计划户外活动。",
+          "chinglishFix": "典型中式英语：'The rain is always fall.' 纠正：'The rain is persistent.'（避免用‘always’描述持续天气，用persistent更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```

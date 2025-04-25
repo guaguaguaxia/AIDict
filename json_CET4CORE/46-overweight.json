@@ -1,0 +1,53 @@
+```json
+{
+  "word": "overweight",
+  "definitions": [
+    {
+      "meaning": "体重超标，超过正常或健康的体重范围",
+      "usage": "用作形容词，描述人或动物因体重超过健康标准而被认为是超重的情况，通常与健康、饮食或生活方式相关。",
+      "collocations": ["be overweight", "become overweight", "slightly overweight"],
+      "examples": [
+        {
+          "scene": "在一次健康体检中，医生与患者讨论体重问题，指出患者的体重超出了健康范围。",
+          "chineseIdea": "医生希望提醒患者注意体重管理，建议调整饮食和运动习惯以改善健康。",
+          "sentenceWithBlank": "After the check-up, the doctor told John that he was @ @.",
+          "fullEnglishSentence": "After the check-up, the doctor told John that he was 「be overweight」.",
+          "chineseTranslation": "体检后，医生告诉约翰他「超重了」。",
+          "chinglishFix": "典型中式英语：'John is too fat.' 纠正：'John is overweight.'（'too fat' 听起来不礼貌且不专业，'overweight' 是更中性的医学术语）"
+        },
+        {
+          "scene": "一位母亲在与朋友聊天时，担心自己的孩子因为久坐和吃零食而体重增加。",
+          "chineseIdea": "母亲表达对孩子健康状况的担忧，提到孩子最近体重增加，可能是因为不良的生活习惯。",
+          "sentenceWithBlank": "She noticed her son had @ @ due to excessive snacking.",
+          "fullEnglishSentence": "She noticed her son had 「become overweight」 due to excessive snacking.",
+          "chineseTranslation": "她注意到儿子因为吃太多零食而「变得超重了」。",
+          "chinglishFix": "典型中式英语：'Her son is getting fat.' 纠正：'Her son has become overweight.'（'getting fat' 过于直接且不正式，'become overweight' 更自然且适用于健康讨论）"
+        }
+      ]
+    },
+    {
+      "meaning": "超过规定或允许的重量（通常指物体、行李等）",
+      "usage": "用作形容词，描述行李、货物或其他物体因重量超出限制而被认为是超重的，常用于旅行、运输或物流场景。",
+      "collocations": ["overweight luggage", "overweight baggage", "overweight parcel"],
+      "examples": [
+        {
+          "scene": "在机场值机柜台，乘客被告知他们的行李超过了航空公司允许的重量限制。",
+          "chineseIdea": "乘客需要为超重的行李支付额外费用，或者重新整理行李以减轻重量。",
+          "sentenceWithBlank": "At the check-in counter, she was charged extra for her @ @.",
+          "fullEnglishSentence": "At the check-in counter, she was charged extra for her 「overweight luggage」.",
+          "chineseTranslation": "在值机柜台，她因为「超重行李」被收取了额外费用。",
+          "chinglishFix": "典型中式英语：'Her luggage is too heavy.' 纠正：'Her luggage is overweight.'（'too heavy' 不够具体，'overweight' 是航空领域描述行李超重的标准术语）"
+        },
+        {
+          "scene": "在邮局寄包裹时，工作人员称重后发现包裹超出了标准邮寄重量。",
+          "chineseIdea": "寄件人需要支付更高的邮费，因为包裹重量超过了普通邮寄的限制。",
+          "sentenceWithBlank": "The clerk informed him that his @ @ would cost more to ship.",
+          "fullEnglishSentence": "The clerk informed him that his 「overweight parcel」 would cost more to ship.",
+          "chineseTranslation": "工作人员告诉他，他的「超重包裹」需要更高的邮费。",
+          "chinglishFix": "典型中式英语：'His parcel is very heavy.' 纠正：'His parcel is overweight.'（'very heavy' 缺乏上下文，'overweight' 更准确地传达超出重量限制的意思）"
+        }
+      ]
+    }
+  ]
+}
+```

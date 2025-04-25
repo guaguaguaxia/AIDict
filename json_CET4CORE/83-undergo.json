@@ -1,0 +1,53 @@
+```json
+{
+  "word": "undergo",
+  "definitions": [
+    {
+      "meaning": "经历或接受（某过程、变化或治疗）",
+      "usage": "指某人或某物经历一个特定的过程、变化或治疗，通常带有被动接受的含义，常用于医疗、变革或重大经历的语境。",
+      "collocations": ["surgery", "treatment", "transformation", "training"],
+      "examples": [
+        {
+          "scene": "一位中年男子因为心脏问题需要进行一次复杂的手术，医生告知他手术的风险和恢复期。",
+          "chineseIdea": "他将要接受一个重要的医疗过程，这可能会改变他的生活质量。",
+          "sentenceWithBlank": "He will have to @ to address his heart condition.",
+          "fullEnglishSentence": "He will have to 「undergo surgery」 to address his heart condition.",
+          "chineseTranslation": "他将要「接受手术」来解决他的心脏问题。",
+          "chinglishFix": "典型中式英语：'He will receive a surgery.' 纠正：'He will undergo surgery.'（英语中不常用'receive'来搭配surgery，'undergo'更自然。）"
+        },
+        {
+          "scene": "一位女性癌症患者在医院接受化疗，她需要定期检查以评估疗效。",
+          "chineseIdea": "她正在经历一个漫长而艰难的医疗过程，希望能恢复健康。",
+          "sentenceWithBlank": "She is currently @ to fight her cancer.",
+          "fullEnglishSentence": "She is currently 「undergoing treatment」 to fight her cancer.",
+          "chineseTranslation": "她目前正在「接受治疗」来对抗癌症。",
+          "chinglishFix": "典型中式英语：'She is accepting treatment.' 纠正：'She is undergoing treatment.'（'accept'不适合描述被动经历医疗过程，'undergo'更贴切。）"
+        }
+      ]
+    },
+    {
+      "meaning": "经历（某种变化或发展）",
+      "usage": "指某人、某物或某组织经历一个显著的变化、发展或过程，通常用于描述抽象的转变，如性格、组织结构或社会变迁。",
+      "collocations": ["change", "reform", "development", "transition"],
+      "examples": [
+        {
+          "scene": "一家传统制造公司为了适应市场，决定调整业务模式，引入自动化技术。",
+          "chineseIdea": "公司正在进行一次重大的结构和运营调整，以保持竞争力。",
+          "sentenceWithBlank": "The company is @ to stay competitive in the market.",
+          "fullEnglishSentence": "The company is 「undergoing change」 to stay competitive in the market.",
+          "chineseTranslation": "公司正在「经历变革」以在市场上保持竞争力。",
+          "chinglishFix": "典型中式英语：'The company is changing.' 纠正：'The company is undergoing change.'（'undergoing change'更强调一个正式、持续的过程。）"
+        },
+        {
+          "scene": "一个小镇因为旅游业的兴起，基础设施和生活方式发生了很大的变化。",
+          "chineseIdea": "小镇正在经历一个从传统农业社会到旅游驱动经济的转变。",
+          "sentenceWithBlank": "The town is @ due to the rise of tourism.",
+          "fullEnglishSentence": "The town is 「undergoing transition」 due to the rise of tourism.",
+          "chineseTranslation": "由于旅游业的兴起，这个小镇正在「经历转型」。",
+          "chinglishFix": "典型中式英语：'The town is transiting.' 纠正：'The town is undergoing transition.'（'transit'多指物理移动，'undergoing transition'更适合描述抽象转变。）"
+        }
+      ]
+    }
+  ]
+}
+```

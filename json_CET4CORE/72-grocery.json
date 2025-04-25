@@ -1,0 +1,53 @@
+```json
+{
+  "word": "grocery",
+  "definitions": [
+    {
+      "meaning": "食品杂货，日常生活中购买的食品和家庭用品",
+      "usage": "通常指在超市或商店购买的用于烹饪或家庭日常生活的食品和杂物，常用于单数形式（如‘grocery shopping’）或复数形式（如‘groceries’指具体物品）。",
+      "collocations": ["grocery shopping", "buy groceries", "grocery store", "grocery list"],
+      "examples": [
+        {
+          "scene": "一个周六的早晨，李明计划去超市购买一周的食物和生活用品。他列了一张清单，包括米、蔬菜、牛奶和洗涤剂。",
+          "chineseIdea": "李明想要为家里准备好一周的必需品，确保冰箱里有足够的食材，家里也有清洁用品。",
+          "sentenceWithBlank": "Every weekend, I go to the supermarket for @ @.",
+          "fullEnglishSentence": "Every weekend, I go to the supermarket for 「grocery shopping」.",
+          "chineseTranslation": "每个周末，我去超市进行「食品杂货购物」。",
+          "chinglishFix": "典型中式英语：'I go to supermarket to buy food things.' 纠正：'I go to the supermarket for grocery shopping.'（用'grocery shopping'表达购买食品杂货的习惯，而非模糊的'food things'）"
+        },
+        {
+          "scene": "张丽下班后赶到附近的超市，快速购买了一些食材，因为她今晚想做一顿丰盛的晚餐。",
+          "chineseIdea": "张丽需要购买一些新鲜的蔬菜、肉类和调料，以便为家人准备一顿特别的晚餐。",
+          "sentenceWithBlank": "After work, I stopped by the store to @ @.",
+          "fullEnglishSentence": "After work, I stopped by the store to 「buy groceries」.",
+          "chineseTranslation": "下班后，我顺路去商店「买杂货」。",
+          "chinglishFix": "典型中式英语：'I go to shop to buy some food.' 纠正：'I stopped by the store to buy groceries.'（用'buy groceries'更自然，且'stopped by'表示顺路拜访）"
+        }
+      ]
+    },
+    {
+      "meaning": "杂货店，销售食品和家庭用品的零售商店",
+      "usage": "指具体的零售商店，通常是小型的或社区内的商店，强调商店本身而非购买行为。常用单数形式（如‘the grocery’）。",
+      "collocations": ["local grocery", "corner grocery", "grocery clerk", "grocery chain"],
+      "examples": [
+        {
+          "scene": "王伟刚搬到一个新小区，发现街角有一家小商店，里面卖各种日常用品和食物，方便他随时购买。",
+          "chineseIdea": "王伟希望找到一个离家近的商店，方便购买日常所需的小物品，比如零食或牛奶。",
+          "sentenceWithBlank": "There’s a @ @ just down the street from my apartment.",
+          "fullEnglishSentence": "There’s a 「local grocery」 just down the street from my apartment.",
+          "chineseTranslation": "我公寓附近有一家「本地杂货店」。",
+          "chinglishFix": "典型中式英语：'There is a small shop near my home.' 纠正：'There’s a local grocery just down the street.'（'local grocery'更具体，'just down the street'更自然）"
+        },
+        {
+          "scene": "陈芳在一家小型社区商店工作，她每天帮助顾客挑选商品并整理货架。",
+          "chineseIdea": "陈芳的工作是协助顾客，确保商店的商品摆放整齐，同时提供友好的服务。",
+          "sentenceWithBlank": "She works as a @ @ at the small shop near the park.",
+          "fullEnglishSentence": "She works as a 「grocery clerk」 at the small shop near the park.",
+          "chineseTranslation": "她在公园附近的小商店做「杂货店店员」。",
+          "chinglishFix": "典型中式英语：'She is a worker in a shop.' 纠正：'She works as a grocery clerk.'（'grocery clerk'明确指杂货店的店员，职业描述更精准）"
+        }
+      ]
+    }
+  ]
+}
+```

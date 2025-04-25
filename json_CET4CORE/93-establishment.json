@@ -1,0 +1,76 @@
+```json
+{
+  "word": "establishment",
+  "definitions": [
+    {
+      "meaning": "建立、设立（某组织、机构或系统的行为或过程）",
+      "usage": "指创建或设立某事物，通常用于描述组织、机构、法律或系统的正式设立，强调动作或过程。",
+      "collocations": ["establish a company", "set up an organization", "found an institution"],
+      "examples": [
+        {
+          "scene": "一位年轻企业家计划在上海开设一家科技公司，准备注册公司并招募团队。",
+          "chineseIdea": "他希望通过正式注册和运营，创建一个能够长期发展的企业。",
+          "sentenceWithBlank": "She worked tirelessly to @ @ @ in the competitive tech industry.",
+          "fullEnglishSentence": "She worked tirelessly to 「establish a company」 in the competitive tech industry.",
+          "chineseTranslation": "她在竞争激烈的科技行业中不懈努力，以「建立一家公司」。",
+          "chinglishFix": "典型中式英语：She want to build a company. 纠正：She wants to establish a company.（'build' 更常用于物理建筑，而 'establish' 更适合正式设立公司。）"
+        },
+        {
+          "scene": "一个非政府组织计划在农村地区创建一个教育支持机构，为孩子们提供学习资源。",
+          "chineseIdea": "他们希望通过设立这个机构，改善当地的教育状况。",
+          "sentenceWithBlank": "The charity aimed to @ @ @ to support rural education.",
+          "fullEnglishSentence": "The charity aimed to 「set up an organization」 to support rural education.",
+          "chineseTranslation": "该慈善机构旨在「设立一个组织」以支持农村教育。",
+          "chinglishFix": "典型中式英语：The charity want to make an organization. 纠正：The charity wants to set up an organization.（'make' 不适用于设立组织，'set up' 更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "机构、组织（已设立的实体，如公司、商店、政府等）",
+      "usage": "指一个已经存在的实体，通常是商业、政府或社会机构，强调其作为具体组织的身份。",
+      "collocations": ["a commercial establishment", "a government establishment", "a retail establishment"],
+      "examples": [
+        {
+          "scene": "在市中心的一条繁忙街道上，有一家历史悠久的书店，深受当地人喜爱。",
+          "chineseIdea": "这家书店作为一个商业实体，已经经营了数十年，是社区的文化地标。",
+          "sentenceWithBlank": "The old bookstore is a well-known @ @ in the city center.",
+          "fullEnglishSentence": "The old bookstore is a well-known 「commercial establishment」 in the city center.",
+          "chineseTranslation": "这家老书店是市中心一家知名的「商业机构」。",
+          "chinglishFix": "典型中式英语：The bookstore is a business place. 纠正：The bookstore is a commercial establishment.（'business place' 不够具体，'commercial establishment' 更准确。）"
+        },
+        {
+          "scene": "一家大型超市连锁店在小镇开设了分店，吸引了大量顾客。",
+          "chineseIdea": "这家超市作为一个零售实体，为当地居民提供了便利的购物体验。",
+          "sentenceWithBlank": "The new supermarket is a major @ @ in the small town.",
+          "fullEnglishSentence": "The new supermarket is a major 「retail establishment」 in the small town.",
+          "chineseTranslation": "这家新超市是小镇上一个主要的「零售机构」。",
+          "chinglishFix": "典型中式英语：The supermarket is a shop company. 纠正：The supermarket is a retail establishment.（'shop company' 不自然，'retail establishment' 更贴合语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "体制、权势集团（指社会中掌控权力的精英阶层或传统势力）",
+      "usage": "指社会或政治中既有的权力结构或精英阶层，常带有批判意味，用于描述难以改变的传统势力。",
+      "collocations": ["the political establishment", "the cultural establishment", "challenge the establishment"],
+      "examples": [
+        {
+          "scene": "一位年轻的改革者试图通过竞选来改变国家的政治格局，挑战传统势力。",
+          "chineseIdea": "他希望通过新的政策和理念，打破旧的政治精英集团的控制。",
+          "sentenceWithBlank": "The young candidate vowed to reform @ @.",
+          "fullEnglishSentence": "The young candidate vowed to reform 「the political establishment」.",
+          "chineseTranslation": "这位年轻候选人发誓要改革「政治体制」。",
+          "chinglishFix": "典型中式英语：He wants to change the politics group. 纠正：He wants to challenge the political establishment.（'politics group' 不准确，'political establishment' 更能表达精英体制。）"
+        },
+        {
+          "scene": "一位艺术家通过大胆的作品挑战传统艺术界的审美标准。",
+          "chineseIdea": "她希望通过突破性的创作，动摇艺术界既定的权威和规范。",
+          "sentenceWithBlank": "Her provocative art aimed to @ @.",
+          "fullEnglishSentence": "Her provocative art aimed to 「challenge the establishment」.",
+          "chineseTranslation": "她挑衅的艺术旨在「挑战体制」。",
+          "chinglishFix": "典型中式英语：Her art wants to fight the art rules. 纠正：Her art seeks to challenge the establishment.（'fight the art rules' 不够精确，'challenge the establishment' 更符合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

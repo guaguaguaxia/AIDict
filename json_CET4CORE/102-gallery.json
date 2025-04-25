@@ -1,0 +1,76 @@
+```json
+{
+  "word": "gallery",
+  "definitions": [
+    {
+      "meaning": "展示艺术品或展品的场所，如博物馆或画廊",
+      "usage": "指一个专门用来展览绘画、雕塑或其他艺术品的空间，通常与艺术、文化相关，常用于描述参观或展示的情境。",
+      "collocations": ["art gallery", "visit a gallery", "exhibit in a gallery"],
+      "examples": [
+        {
+          "scene": "你和朋友计划周末去市中心参观一家新开的艺术展览场所，里面展示了许多现代艺术作品。",
+          "chineseIdea": "我想表达我们要去一个地方看艺术品，里面有很多画作和雕塑。",
+          "sentenceWithBlank": "We decided to @ @ to explore the new modern art exhibition.",
+          "fullEnglishSentence": "We decided to 「visit a gallery」 to explore the new modern art exhibition.",
+          "chineseTranslation": "我们决定「参观一家画廊」去探索新的现代艺术展览。",
+          "chinglishFix": "典型中式英语：'We go to see art place.' 纠正：'We decided to visit an art gallery.'（使用'visit a gallery'更自然，'art place'不常用于英语中）"
+        },
+        {
+          "scene": "一位年轻画家终于有机会在一家著名的艺术场所展示自己的作品，吸引了很多观众。",
+          "chineseIdea": "我想表达这位画家的画作被放在一个地方供大家欣赏。",
+          "sentenceWithBlank": "Her paintings were chosen to @ @ @ for the annual showcase.",
+          "fullEnglishSentence": "Her paintings were chosen to 「exhibit in a gallery」 for the annual showcase.",
+          "chineseTranslation": "她的画作被选中在年度展示中「在画廊展出」。",
+          "chinglishFix": "典型中式英语：'Her paintings show in art house.' 纠正：'Her paintings were exhibited in a gallery.'（'show in art house'不地道，'exhibit in a gallery'更符合英语表达习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "网站或应用程序上展示图片或内容的区域",
+      "usage": "指数字平台上用于展示图片、视频或其他内容的模块或页面，常用于描述浏览或上传内容的情境。",
+      "collocations": ["photo gallery", "online gallery", "browse a gallery"],
+      "examples": [
+        {
+          "scene": "你在社交媒体上浏览一个摄影师的页面，里面有一个专门展示他作品的区域。",
+          "chineseIdea": "我想表达我在网上看一个地方，那里有很多照片可以欣赏。",
+          "sentenceWithBlank": "I spent hours looking at his @ @ on Instagram.",
+          "fullEnglishSentence": "I spent hours looking at his 「photo gallery」 on Instagram.",
+          "chineseTranslation": "我在Instagram上花了几个小时看他的「照片库」。",
+          "chinglishFix": "典型中式英语：'I see his picture place online.' 纠正：'I browsed his photo gallery online.'（'picture place'不自然，'photo gallery'是标准表达）"
+        },
+        {
+          "scene": "你正在一个网站上查看朋友分享的旅行照片，这些照片被整理在一个专门的区域。",
+          "chineseIdea": "我想表达我在网站上翻看一个地方，里面有很多旅行照片。",
+          "sentenceWithBlank": "She invited me to @ @ @ of her recent trip to Italy.",
+          "fullEnglishSentence": "She invited me to 「browse a gallery」 of her recent trip to Italy.",
+          "chineseTranslation": "她邀请我「浏览一个照片库」，里面是她最近去意大利旅行的照片。",
+          "chinglishFix": "典型中式英语：'She let me see her travel photo area.' 纠正：'She invited me to browse her photo gallery.'（'photo area'不常用，'browse a gallery'更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "建筑物中的长廊或通道，通常有装饰或展示功能",
+      "usage": "指建筑物内的一个长而窄的走廊或通道，可能用于展示装饰品或作为连接空间，常用于描述建筑或历史场所。",
+      "collocations": ["long gallery", "walk through a gallery", "decorated gallery"],
+      "examples": [
+        {
+          "scene": "你参观一座古老的欧洲城堡，里面有一个长长的走廊，两侧挂满了历史画像。",
+          "chineseIdea": "我想表达我们在一个很长的通道里走，周围有很多古老的画。",
+          "sentenceWithBlank": "We were amazed as we @ @ @ filled with ancient portraits.",
+          "fullEnglishSentence": "We were amazed as we 「walked through a gallery」 filled with ancient portraits.",
+          "chineseTranslation": "我们「穿过一个长廊」时感到惊叹，那里挂满了古老的肖像画。",
+          "chinglishFix": "典型中式英语：'We walk in long picture hall.' 纠正：'We walked through a gallery.'（'picture hall'不地道，'walk through a gallery'更符合英语习惯）"
+        },
+        {
+          "scene": "在一座豪华酒店的大堂，你注意到一个装饰精美的通道，里面摆放着雕塑和艺术品。",
+          "chineseIdea": "我想表达我看到一个很漂亮的通道，里面有很多装饰品。",
+          "sentenceWithBlank": "The hotel featured a @ @ with stunning sculptures.",
+          "fullEnglishSentence": "The hotel featured a 「decorated gallery」 with stunning sculptures.",
+          "chineseTranslation": "酒店有一个「装饰精美的长廊」，里面有令人惊叹的雕塑。",
+          "chinglishFix": "典型中式英语：'The hotel has a beautiful decorate hall.' 纠正：'The hotel has a beautifully decorated gallery.'（'decorate hall'语法错误且不自然，'decorated gallery'更准确）"
+        }
+      ]
+    }
+  ]
+}
+```

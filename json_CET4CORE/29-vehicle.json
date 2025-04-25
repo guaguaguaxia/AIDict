@@ -1,0 +1,53 @@
+```json
+{
+  "word": "vehicle",
+  "definitions": [
+    {
+      "meaning": "一种用于运输人或货物的交通工具",
+      "usage": "指任何用于在陆地、水面或空中运输的设备，如汽车、卡车、船只或飞机。通常用于描述具体的交通工具，强调其功能性。",
+      "collocations": ["drive a", "park a", "rent a", "electric"],
+      "examples": [
+        {
+          "scene": "小明在城市里生活，每天需要从家里到公司上班，路程大约10公里，路上车流量很大。他选择了一种既方便又环保的交通方式。",
+          "chineseIdea": "小明想要一种能让他快速到达公司且容易操作的交通工具，类似于汽车这样的东西。",
+          "sentenceWithBlank": "Every morning, Xiao Ming @ @ @ to work to avoid traffic jams.",
+          "fullEnglishSentence": "Every morning, Xiao Ming 「drives a vehicle」 to work to avoid traffic jams.",
+          "chineseTranslation": "每天早上，小明「驾驶交通工具」去上班以避开交通堵塞。",
+          "chinglishFix": "典型中式英语：Xiao Ming ride car to work. 纠正：Xiao Ming drives a car to work.（‘ride car’是中式英语，正确的动词搭配是‘drive’而不是‘ride’，且通常需要冠词‘a’。）"
+        },
+        {
+          "scene": "周末，小红和朋友们计划去郊外野餐，停车场离野餐地点有点远，他们需要把食物和装备运过去。",
+          "chineseIdea": "小红希望把车停在合适的地方，方便他们把东西搬到野餐地点，类似于把车停在停车场的感觉。",
+          "sentenceWithBlank": "Xiao Hong needs to @ @ @ near the picnic site to unload the supplies.",
+          "fullEnglishSentence": "Xiao Hong needs to 「park a vehicle」 near the picnic site to unload the supplies.",
+          "chineseTranslation": "小红需要将「交通工具停放」在野餐地点附近以卸下物资。",
+          "chinglishFix": "典型中式英语：Xiao Hong stop car at picnic place. 纠正：Xiao Hong parks the car near the picnic site.（‘stop car’不够具体，正确的表达是‘park’表示停车，且需要冠词‘the’或‘a’。）"
+        }
+      ]
+    },
+    {
+      "meaning": "传播或表达的媒介或工具",
+      "usage": "比喻用法，指某种方式、方法或媒介用来传递信息、思想或情感，如书籍、电影或音乐等。",
+      "collocations": ["medium as a", "use as a", "powerful"],
+      "examples": [
+        {
+          "scene": "李老师在课堂上想要让学生更直观地理解历史事件，于是选择了一种能吸引学生注意的教学方式。",
+          "chineseIdea": "李老师希望通过一种能生动传递历史知识的方式，比如视频或电影，来帮助学生学习。",
+          "sentenceWithBlank": "Teacher Li uses documentaries @ @ @ to engage students in history lessons.",
+          "fullEnglishSentence": "Teacher Li uses documentaries 「as a vehicle」 to engage students in history lessons.",
+          "chineseTranslation": "李老师使用纪录片「作为媒介」来吸引学生学习历史。",
+          "chinglishFix": "典型中式英语：Teacher Li use movie to be tool for teaching. 纠正：Teacher Li uses movies as a vehicle for teaching.（‘to be tool’是中式表达，正确的比喻用法是‘as a vehicle’，更符合英语习惯。）"
+        },
+        {
+          "scene": "一家公司想通过社交媒体宣传他们的品牌，吸引更多年轻消费者。",
+          "chineseIdea": "公司希望利用一种能有效传达品牌理念的工具，比如社交媒体平台，来推广产品。",
+          "sentenceWithBlank": "The company employs social media @ @ @ to promote their brand.",
+          "fullEnglishSentence": "The company employs social media 「as a vehicle」 to promote their brand.",
+          "chineseTranslation": "公司使用社交媒体「作为媒介」来推广他们的品牌。",
+          "chinglishFix": "典型中式英语：Company use social media to make brand famous. 纠正：The company uses social media as a vehicle to promote their brand.（‘make brand famous’过于直译，‘promote’和‘as a vehicle’是更自然的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

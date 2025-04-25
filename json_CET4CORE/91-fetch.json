@@ -1,0 +1,53 @@
+```json
+{
+  "word": "fetch",
+  "definitions": [
+    {
+      "meaning": "去拿或取回某物",
+      "usage": "通常指去某个地方取回某物并带回，常用于描述人或动物（如狗）取物的动作。",
+      "collocations": ["fetch something for someone", "fetch a good price", "fetch and carry"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，小明被妈妈要求去厨房拿一瓶水给客人。",
+          "chineseIdea": "小明需要去厨房把水拿过来给客人，体现了一种帮忙取物的行为。",
+          "sentenceWithBlank": "Can you @ @ @ me from the kitchen?",
+          "fullEnglishSentence": "Can you 「fetch a bottle of water for me」 from the kitchen?",
+          "chineseTranslation": "你能从厨房为我「拿一瓶水」吗？",
+          "chinglishFix": "典型中式英语：'Can you help me take a bottle of water?' 纠正：'Can you fetch a bottle of water for me?'（'take'在这种语境中不自然，'fetch'更准确表达去取并带回的动作）"
+        },
+        {
+          "scene": "在一个拍卖会上，一件古董花瓶因为稀有而卖出了高价。",
+          "chineseIdea": "古董花瓶因为其价值被卖出了一个很好的价格，体现物品的价值。",
+          "sentenceWithBlank": "The antique vase is expected to @ @ @ at the auction.",
+          "fullEnglishSentence": "The antique vase is expected to 「fetch a good price」 at the auction.",
+          "chineseTranslation": "这件古董花瓶预计在拍卖会上能「卖个好价钱」。",
+          "chinglishFix": "典型中式英语：'The vase can sell a high price.' 纠正：'The vase is expected to fetch a good price.'（'sell a high price'语法不正确，'fetch a good price'是固定搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "吸引或引起（兴趣、注意等）",
+      "usage": "用于描述某事物吸引或激起他人的兴趣、注意或情感，通常用于非正式语境。",
+      "collocations": ["fetch attention", "fetch a smile", "fetch a crowd"],
+      "examples": [
+        {
+          "scene": "在一个街头表演中，杂技演员的精彩表演吸引了很多路人的目光。",
+          "chineseIdea": "杂技演员的表演让人驻足观看，引起了大家的注意。",
+          "sentenceWithBlank": "The acrobat’s performance never fails to @ @.",
+          "fullEnglishSentence": "The acrobat’s performance never fails to 「fetch attention」.",
+          "chineseTranslation": "杂技演员的表演总是能「吸引注意力」。",
+          "chinglishFix": "典型中式英语：'His performance makes people notice.' 纠正：'His performance fetches attention.'（'make people notice'不够简洁，'fetch attention'是更自然的表达）"
+        },
+        {
+          "scene": "在一个课堂上，老师讲了一个有趣的故事，让学生们都笑了。",
+          "chineseIdea": "老师的故事很有趣，引起了学生们的笑声和好感。",
+          "sentenceWithBlank": "Her funny story always @ @ from the students.",
+          "fullEnglishSentence": "Her funny story always 「fetches a smile」 from the students.",
+          "chineseTranslation": "她有趣的故事总能从学生那里「引来一笑」。",
+          "chinglishFix": "典型中式英语：'Her story makes students smile.' 纠正：'Her story fetches a smile from students.'（'make students smile'虽然正确，但'fetch a smile'更生动且常见）"
+        }
+      ]
+    }
+  ]
+}
+```

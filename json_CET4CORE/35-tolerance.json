@@ -1,0 +1,76 @@
+```json
+{
+  "word": "tolerance",
+  "definitions": [
+    {
+      "meaning": "接受或容忍不同意见、行为或信仰的能力",
+      "usage": "指对与自己观点或习惯不同的东西表现出耐心和理解，常用于描述个人或社会对多样性的态度。",
+      "collocations": ["show tolerance", "promote tolerance", "zero tolerance"],
+      "examples": [
+        {
+          "scene": "在一个国际学校里，来自不同文化背景的学生一起上课。老师注意到一些学生对其他文化的习俗感到不适应，于是组织了一场文化交流活动。",
+          "chineseIdea": "希望学生们能够学会尊重和接纳彼此的文化差异，而不是批评或排斥。",
+          "sentenceWithBlank": "The teacher encouraged students to @ @ for each other's cultural differences.",
+          "fullEnglishSentence": "The teacher encouraged students to 「show tolerance」 for each other's cultural differences.",
+          "chineseTranslation": "老师鼓励学生们对彼此的文化差异「表现出宽容」。",
+          "chinglishFix": "典型中式英语：'Students should tolerate other's culture.' 纠正：'Tolerate' 听起来过于勉强，建议用 'show tolerance' 或 'be tolerant' 来表达更自然的接纳态度，例如 'Students should show tolerance for others' cultures.'"
+        },
+        {
+          "scene": "一个社区正在讨论如何处理青少年涂鸦的问题。一些居民建议通过艺术项目引导青少年，而不是严厉惩罚。",
+          "chineseIdea": "通过教育和包容来减少冲突，促进社区的和谐。",
+          "sentenceWithBlank": "The community decided to @ @ through creative programs rather than punishment.",
+          "fullEnglishSentence": "The community decided to 「promote tolerance」 through creative programs rather than punishment.",
+          "chineseTranslation": "社区决定通过创意项目「促进宽容」，而不是惩罚。",
+          "chinglishFix": "典型中式英语：'We should tolerate young people’s behavior.' 纠正：'Tolerate' 在此显得消极，建议用 'promote tolerance' 来表达主动的包容态度，例如 'We should promote tolerance among young people.'"
+        }
+      ]
+    },
+    {
+      "meaning": "对不利条件或物质的耐受能力",
+      "usage": "指身体或系统对某些物质（如药物、酒精）或环境条件（如高温）的适应能力，通常与生理或技术相关。",
+      "collocations": ["build tolerance", "high tolerance", "low tolerance"],
+      "examples": [
+        {
+          "scene": "小明刚开始跑步时，每次只能跑1公里就觉得很累。经过几个月的训练，他发现自己可以跑更远的距离。",
+          "chineseIdea": "通过持续锻炼，身体逐渐适应了更大的运动量。",
+          "sentenceWithBlank": "After months of training, Xiao Ming was able to @ @ to longer distances.",
+          "fullEnglishSentence": "After months of training, Xiao Ming was able to 「build tolerance」 to longer distances.",
+          "chineseTranslation": "经过几个月的训练，小明能够「建立对更长距离的耐受力」。",
+          "chinglishFix": "典型中式英语：'He tolerated long distance running.' 纠正：'Tolerate' 不适合描述积极的适应过程，建议用 'build tolerance'，例如 'He built tolerance for long-distance running.'"
+        },
+        {
+          "scene": "丽丽发现自己喝咖啡后总是睡不着。医生建议她减少咖啡摄入量，因为她对咖啡因的耐受性较低。",
+          "chineseIdea": "有些人对某些物质的反应更敏感，需要调整生活习惯。",
+          "sentenceWithBlank": "The doctor noted that Lili had a @ @ to caffeine and should cut back.",
+          "fullEnglishSentence": "The doctor noted that Lili had a 「low tolerance」 to caffeine and should cut back.",
+          "chineseTranslation": "医生指出丽丽对咖啡因的「耐受力低」，应该减少摄入。",
+          "chinglishFix": "典型中式英语：'She can’t tolerate caffeine.' 纠正：'Tolerate' 在此显得过于笼统，建议用 'low tolerance' 来精确描述生理耐受性，例如 'She has a low tolerance for caffeine.'"
+        }
+      ]
+    },
+    {
+      "meaning": "工程或技术中的允许偏差",
+      "usage": "指在制造或设计中，允许的尺寸、重量或其他参数的偏差范围，通常用于描述精确度要求。",
+      "collocations": ["tight tolerance", "within tolerance", "meet tolerance"],
+      "examples": [
+        {
+          "scene": "一家工厂正在生产汽车零件，工程师要求每个零件的尺寸必须非常精确，以确保组装时的兼容性。",
+          "chineseIdea": "对零件尺寸的严格控制可以保证产品质量和安全性。",
+          "sentenceWithBlank": "The engineer specified a @ @ for the components to ensure perfect assembly.",
+          "fullEnglishSentence": "The engineer specified a 「tight tolerance」 for the components to ensure perfect assembly.",
+          "chineseTranslation": "工程师为零件指定了「严格的公差」，以确保完美组装。",
+          "chinglishFix": "典型中式英语：'The parts need to tolerate small errors.' 纠正：'Tolerate' 在工程中不用于描述偏差，建议用 'tight tolerance'，例如 'The parts require a tight tolerance.'"
+        },
+        {
+          "scene": "一名质检员在检查一批新生产的螺丝，发现大部分螺丝的尺寸都在可接受的范围内。",
+          "chineseIdea": "确保产品符合标准是质量控制的重要部分。",
+          "sentenceWithBlank": "The inspector confirmed that the screws were @ @ and approved the batch.",
+          "fullEnglishSentence": "The inspector confirmed that the screws were 「within tolerance」 and approved the batch.",
+          "chineseTranslation": "质检员确认螺丝的尺寸「在公差范围内」，并批准了这批产品。",
+          "chinglishFix": "典型中式英语：'The screws can tolerate the standard.' 纠正：'Tolerate' 用法错误，建议用 'within tolerance'，例如 'The screws are within tolerance.'"
+        }
+      ]
+    }
+  ]
+}
+```

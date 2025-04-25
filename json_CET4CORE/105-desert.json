@@ -1,0 +1,53 @@
+```json
+{
+  "word": "desert",
+  "definitions": [
+    {
+      "meaning": "A dry, barren area of land with little or no vegetation",
+      "usage": "Refers to a geographical region characterized by extreme aridity, often with sand, rocks, or sparse plant life. Commonly used in contexts describing natural landscapes, travel, or environmental discussions.",
+      "collocations": ["Sahara Desert", "arid desert", "vast desert", "desert landscape"],
+      "examples": [
+        {
+          "scene": "一位旅行者在中国西北部计划一次探险，准备穿越戈壁。",
+          "chineseIdea": "描述一片干燥、几乎没有植被的广阔土地，强调其壮丽但艰苦的环境。",
+          "sentenceWithBlank": "The @ @ stretches endlessly before the weary traveler.",
+          "fullEnglishSentence": "The 「Sahara Desert」 stretches endlessly before the weary traveler.",
+          "chineseTranslation": "「撒哈拉沙漠」在疲惫的旅行者面前无尽地延伸。",
+          "chinglishFix": "Chinglish: 'The desert is very big and no plants.' Corrected: 'The desert is vast and barren, with hardly any vegetation.'"
+        },
+        {
+          "scene": "一位生态学家在课堂上讲解全球变暖对干旱地区的影响。",
+          "chineseIdea": "强调干旱地区的气候条件，突出其干燥和极端环境。",
+          "sentenceWithBlank": "An @ @ can experience extreme temperature fluctuations.",
+          "fullEnglishSentence": "An 「arid desert」 can experience extreme temperature fluctuations.",
+          "chineseTranslation": "「干旱沙漠」可能会经历极端的温度波动。",
+          "chinglishFix": "Chinglish: 'Desert is very hot and cold.' Corrected: 'Deserts can have extreme temperature swings between day and night.'"
+        }
+      ]
+    },
+    {
+      "meaning": "To abandon or leave someone or something in a disloyal or irresponsible way",
+      "usage": "Used as a verb to describe the act of abandoning a person, place, or duty, often with a sense of betrayal or neglect. Common in emotional, relational, or duty-related contexts.",
+      "collocations": ["desert a family", "desert a post", "desert a friend", "desert a cause"],
+      "examples": [
+        {
+          "scene": "一个年轻人在家庭聚会上听到亲戚议论某人抛弃了家庭。",
+          "chineseIdea": "描述某人因自私或不负责任而离开亲人，留下情感伤害。",
+          "sentenceWithBlank": "He chose to @ @ @, leaving them to fend for themselves.",
+          "fullEnglishSentence": "He chose to 「desert a family」, leaving them to fend for themselves.",
+          "chineseTranslation": "他选择「抛弃家庭」，让他们自谋生路。",
+          "chinglishFix": "Chinglish: 'He run away from family.' Corrected: 'He abandoned his family.'"
+        },
+        {
+          "scene": "一名士兵在战场上面对道德困境，考虑是否继续坚守岗位。",
+          "chineseIdea": "描述某人在关键时刻放弃职责，带有背叛或失职的含义。",
+          "sentenceWithBlank": "The soldier was tempted to @ @ @ during the chaos.",
+          "fullEnglishSentence": "The soldier was tempted to 「desert a post」 during the chaos.",
+          "chineseTranslation": "士兵在混乱中曾想「放弃岗位」。",
+          "chinglishFix": "Chinglish: 'He want to leave his job.' Corrected: 'He was tempted to abandon his post.'"
+        }
+      ]
+    }
+  ]
+}
+```

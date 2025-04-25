@@ -1,0 +1,76 @@
+```json
+{
+  "word": "generous",
+  "definitions": [
+    {
+      "meaning": "愿意给予或分享，尤其是金钱、时间或资源",
+      "usage": "描述一个人在物质或非物质方面乐于给予他人，通常带有积极的赞美含义。常用于描述对他人无私的帮助或支持。",
+      "collocations": ["be generous with", "a generous amount of", "generous donation"],
+      "examples": [
+        {
+          "scene": "在一个慈善晚会上，一位富商决定为当地的儿童医院捐款。他不仅捐了钱，还花时间与孩子们互动，赢得了大家的尊重。",
+          "chineseIdea": "一个人愿意在金钱或时间上付出很多，表现出对他人的关心和支持。",
+          "sentenceWithBlank": "She @ @ @ her time, helping the new volunteers learn their roles.",
+          "fullEnglishSentence": "She 「was generous with」 her time, helping the new volunteers learn their roles.",
+          "chineseTranslation": "她「慷慨地分享」了自己的时间，帮助新志愿者学习他们的角色。",
+          "chinglishFix": "中式英语：She very kind give her time to volunteers. 纠正：She was generous with her time, helping the volunteers."
+        },
+        {
+          "scene": "在一家咖啡店，店员不小心多给了一位顾客一些蛋糕。顾客很开心，觉得店员的服务特别贴心。",
+          "chineseIdea": "提供比预期更多的东西，表现出一种大方和友好的态度。",
+          "sentenceWithBlank": "The barista gave me @ @ @ of cake, which made my day.",
+          "fullEnglishSentence": "The barista gave me 「a generous amount of」 cake, which made my day.",
+          "chineseTranslation": "咖啡师给了我「一大份」蛋糕，这让我一天都很开心。",
+          "chinglishFix": "中式英语：The barista give me many cake. 纠正：The barista gave me a generous amount of cake."
+        }
+      ]
+    },
+    {
+      "meaning": "数量或程度很大，超出预期",
+      "usage": "用于描述某事物（例如食物、空间、报酬等）的量或程度非常充足，甚至超过正常预期。常用于中性或积极语境。",
+      "collocations": ["generous portion", "generous offer", "generous space"],
+      "examples": [
+        {
+          "scene": "在一家新开的餐厅，朋友们聚会吃饭。服务员端上来的菜量非常大，每个人都吃得很满足，还打包了一些回家。",
+          "chineseIdea": "提供的食物或物品数量多到让人感到惊喜或满足。",
+          "sentenceWithBlank": "The restaurant served a @ @ of pasta, enough for two meals.",
+          "fullEnglishSentence": "The restaurant served a 「generous portion」 of pasta, enough for two meals.",
+          "chineseTranslation": "餐厅提供了一「大份」意大利面，足够吃两餐。",
+          "chinglishFix": "中式英语：The restaurant give very big pasta. 纠正：The restaurant served a generous portion of pasta."
+        },
+        {
+          "scene": "一位求职者在面试后收到了一家公司的录用通知，薪水和福利都非常优厚，超出了他的预期。",
+          "chineseIdea": "某项提议或条件非常优越，让人觉得难以拒绝。",
+          "sentenceWithBlank": "The company made a @ @ that was hard to turn down.",
+          "fullEnglishSentence": "The company made a 「generous offer」 that was hard to turn down.",
+          "chineseTranslation": "公司提出了一个「慷慨的条件」，让人难以拒绝。",
+          "chinglishFix": "中式英语：The company give a very good job. 纠正：The company made a generous offer."
+        }
+      ]
+    },
+    {
+      "meaning": "宽容或仁慈，不苛刻",
+      "usage": "描述一个人在对待他人时宽容、友好，不计较小事或不苛求完美。通常用于描述性格或行为。",
+      "collocations": ["generous spirit", "generous heart", "be generous in"],
+      "examples": [
+        {
+          "scene": "在一次团队项目中，一位同事犯了小错误，但团队领导并没有责骂，而是耐心地指导他改进，展现了宽容的态度。",
+          "chineseIdea": "对别人的错误或不足表现出理解和宽容，而不是严厉批评。",
+          "sentenceWithBlank": "The manager @ @ @ forgiving her team’s mistakes, which built trust.",
+          "fullEnglishSentence": "The manager 「was generous in」 forgiving her team’s mistakes, which built trust.",
+          "chineseTranslation": "经理「慷慨地」原谅了团队的错误，这建立了信任。",
+          "chinglishFix": "中式英语：The manager very kind to team’s mistake. 纠正：The manager was generous in forgiving her team’s mistakes."
+        },
+        {
+          "scene": "一位老师在课堂上总是鼓励学生，即使他们的回答不完美，也会微笑着给予肯定，让学生更有信心。",
+          "chineseIdea": "以一种宽容和支持的态度对待他人，鼓励他们成长。",
+          "sentenceWithBlank": "The teacher had a @ @, always encouraging her students.",
+          "fullEnglishSentence": "The teacher had a 「generous spirit」, always encouraging her students.",
+          "chineseTranslation": "老师有一颗「宽容的心」，总是鼓励她的学生。",
+          "chinglishFix": "中式英语：The teacher very good heart to students. 纠正：The teacher had a generous spirit, always encouraging her students."
+        }
+      ]
+    }
+  ]
+}
+```

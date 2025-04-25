@@ -1,0 +1,53 @@
+```json
+{
+  "word": "plague",
+  "definitions": [
+    {
+      "meaning": "传染病，尤其是大规模流行的致命疾病",
+      "usage": "指一种传播迅速、影响广泛的传染病，通常与历史上的重大疫情（如黑死病）相关，也可用于比喻极具破坏性的事物。",
+      "collocations": ["bubonic plague", "plague of locusts", "avoid like the plague"],
+      "examples": [
+        {
+          "scene": "在中世纪的欧洲，一种致命的疾病席卷了整个大陆，城市里的人们生活在恐惧中，因为这种病传播很快，几乎无人能幸免。",
+          "chineseIdea": "描述一种疾病如何像野火一样传播，摧毁一切。",
+          "sentenceWithBlank": "The @ @ swept through Europe, killing millions in the 14th century.",
+          "fullEnglishSentence": "The 「bubonic plague」 swept through Europe, killing millions in the 14th century.",
+          "chineseTranslation": "「黑死病」席卷欧洲，在14世纪杀死了数百万人。",
+          "chinglishFix": "典型中式英语：'Big sick killed many people.' 纠正：'The bubonic plague caused massive deaths.'"
+        },
+        {
+          "scene": "在一个古老的村庄，农民们发现田里的庄稼被一种奇怪的虫子毁坏殆尽，他们认为是某种天灾降临。",
+          "chineseIdea": "描述一种自然灾害如何像疾病一样侵袭农田。",
+          "sentenceWithBlank": "The village was devastated by a @ @ @ that destroyed all the crops.",
+          "fullEnglishSentence": "The village was devastated by a 「plague of locusts」 that destroyed all the crops.",
+          "chineseTranslation": "村庄被「蝗灾」摧毁，所有的庄稼都被毁坏了。",
+          "chinglishFix": "典型中式英语：'Many insects eat crops.' 纠正：'A plague of locusts ravaged the crops.'"
+        }
+      ]
+    },
+    {
+      "meaning": "困扰或折磨某人/某事的问题或麻烦",
+      "usage": "比喻性地描述某人或某事物持续受到某种问题、麻烦或不幸的困扰，通常带有负面情绪。",
+      "collocations": ["plagued by problems", "plagued with doubts", "plague of accidents"],
+      "examples": [
+        {
+          "scene": "一位年轻的企业家刚刚创业，但公司接连遇到资金短缺、员工离职和客户投诉的问题，让他感到筋疲力尽。",
+          "chineseIdea": "描述一个人被接踵而至的麻烦压得喘不过气。",
+          "sentenceWithBlank": "The startup was @ @ @, making it hard for the founder to stay optimistic.",
+          "fullEnglishSentence": "The startup was 「plagued by problems」, making it hard for the founder to stay optimistic.",
+          "chineseTranslation": "这家初创公司「麻烦不断」，让创始人很难保持乐观。",
+          "chinglishFix": "典型中式英语：'Company has many troubles.' 纠正：'The company was plagued by problems.'"
+        },
+        {
+          "scene": "一位学生即将参加重要的考试，但她总是担心自己准备不足，脑海中充满了自我怀疑的想法。",
+          "chineseIdea": "描述一个人被内心的不安和怀疑困扰。",
+          "sentenceWithBlank": "She was @ @ @ before the exam, unable to focus on her studies.",
+          "fullEnglishSentence": "She was 「plagued with doubts」 before the exam, unable to focus on her studies.",
+          "chineseTranslation": "她在考试前「满腹疑虑」，无法专注于学习。",
+          "chinglishFix": "典型中式英语：'She always think she not good.' 纠正：'She was plagued with doubts about her abilities.'"
+        }
+      ]
+    }
+  ]
+}
+```

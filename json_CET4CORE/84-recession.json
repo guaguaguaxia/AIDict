@@ -1,0 +1,53 @@
+```json
+{
+  "word": "recession",
+  "definitions": [
+    {
+      "meaning": "经济衰退，指经济活动普遍下降，通常表现为国内生产总值（GDP）连续两个季度负增长。",
+      "usage": "通常用于描述国家或地区经济在一段时间内出现收缩，常与失业率上升、企业利润下降等现象相关。在新闻报道、经济分析或日常讨论中常见。",
+      "collocations": ["economic recession", "global recession", "deep recession"],
+      "examples": [
+        {
+          "scene": "一位经济记者正在撰写关于中国经济现状的文章，提到过去一年全球经济面临的挑战。",
+          "chineseIdea": "记者想表达全球经济在过去一年中普遍放缓，许多国家都经历了增长停滞。",
+          "sentenceWithBlank": "The world has been grappling with a @ @ in the past year, affecting trade and investment.",
+          "fullEnglishSentence": "The world has been grappling with a 「global recession」 in the past year, affecting trade and investment.",
+          "chineseTranslation": "过去一年，世界一直在应对「全球经济衰退」，这影响了贸易和投资。",
+          "chinglishFix": "典型中式英语：'The world economy is not good last year.' 纠正：'The world has been experiencing a global recession last year.'"
+        },
+        {
+          "scene": "一位大学教授在课堂上向学生解释2008年金融危机的背景。",
+          "chineseIdea": "教授想说明2008年是一场严重的经济低迷，影响了全球多个行业。",
+          "sentenceWithBlank": "The 2008 financial crisis triggered a @ @ that impacted industries worldwide.",
+          "fullEnglishSentence": "The 2008 financial crisis triggered a 「deep recession」 that impacted industries worldwide.",
+          "chineseTranslation": "2008年的金融危机引发了「深度经济衰退」，影响了全球多个行业。",
+          "chinglishFix": "典型中式英语：'2008 crisis made economy very bad.' 纠正：'The 2008 crisis led to a deep recession.'"
+        }
+      ]
+    },
+    {
+      "meaning": "衰退或减少，泛指某事物数量、程度或活动的减少。",
+      "usage": "用于非经济领域，描述某种现象、活动或状态的逐渐减少，通常带有负面含义。常见于学术讨论或描述自然现象。",
+      "collocations": ["gradual recession", "recession of glaciers", "recession in demand"],
+      "examples": [
+        {
+          "scene": "一位环保科学家在会议上讨论气候变化对极地冰川的影响。",
+          "chineseIdea": "科学家想表达由于全球变暖，冰川正在逐渐缩小。",
+          "sentenceWithBlank": "Climate change has accelerated the @ @ of polar ice caps.",
+          "fullEnglishSentence": "Climate change has accelerated the 「recession of glaciers」 of polar ice caps.",
+          "chineseTranslation": "气候变化加速了极地冰盖的「冰川退缩」。",
+          "chinglishFix": "典型中式英语：'Glaciers become smaller because of hot weather.' 纠正：'Glaciers are undergoing a recession due to climate change.'"
+        },
+        {
+          "scene": "一位市场分析师在报告中讨论某产品市场的变化趋势。",
+          "chineseIdea": "分析师想指出消费者对某类产品的兴趣正在下降，导致市场萎缩。",
+          "sentenceWithBlank": "There has been a noticeable @ @ for luxury goods in recent months.",
+          "fullEnglishSentence": "There has been a noticeable 「recession in demand」 for luxury goods in recent months.",
+          "chineseTranslation": "近几个月，奢侈品市场的「需求下降」非常明显。",
+          "chinglishFix": "典型中式英语：'People don’t want luxury goods now.' 纠正：'There’s been a recession in demand for luxury goods.'"
+        }
+      ]
+    }
+  ]
+}
+```
