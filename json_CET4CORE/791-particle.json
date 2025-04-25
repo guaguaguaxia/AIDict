@@ -1,0 +1,76 @@
+```json
+{
+  "word": "particle",
+  "definitions": [
+    {
+      "meaning": "物理学中的微小物质单位，如原子、电子等",
+      "usage": "在科学语境中，指构成物质的最小单位，常用于物理学、化学等学科，描述微观世界的组成部分。",
+      "collocations": ["subatomic particle", "elementary particle", "charged particle"],
+      "examples": [
+        {
+          "scene": "在一个物理学课堂上，老师正在讲解量子力学，提到物质的基本组成。",
+          "chineseIdea": "老师想让学生明白，物质并不是连续的，而是由极小的单位构成，这些单位在微观世界中起着关键作用。",
+          "sentenceWithBlank": "The universe is made up of tiny @ @ that interact in complex ways.",
+          "fullEnglishSentence": "The universe is made up of tiny 「subatomic particles」 that interact in complex ways.",
+          "chineseTranslation": "宇宙是由微小的「亚原子粒子」构成的，这些粒子以复杂的方式相互作用。",
+          "chinglishFix": "典型中式英语：'The universe is made of very small things.' 纠正：Use 'subatomic particles' to specify the scientific term for tiny matter units."
+        },
+        {
+          "scene": "在实验室中，科学家们正在研究加速器中粒子的行为。",
+          "chineseIdea": "科学家想通过实验了解这些微小单位在高能量环境下的运动规律，以验证理论模型。",
+          "sentenceWithBlank": "The collider allows us to observe the behavior of @ @ under extreme conditions.",
+          "fullEnglishSentence": "The collider allows us to observe the behavior of 「elementary particles」 under extreme conditions.",
+          "chineseTranslation": "碰撞机让我们能够观察「基本粒子」在极端条件下的行为。",
+          "chinglishFix": "典型中式英语：'We study small pieces in the machine.' 纠正：Use 'elementary particles' to refer to fundamental units in physics."
+        }
+      ]
+    },
+    {
+      "meaning": "日常语言中的小颗粒，如灰尘、粉末等",
+      "usage": "在非科学语境中，指肉眼可见或不可见的微小物质，如灰尘、沙粒、粉末等，常用于描述环境或物质状态。",
+      "collocations": ["dust particle", "fine particle", "airborne particle"],
+      "examples": [
+        {
+          "scene": "在一个家具厂，工人们在打磨木头，空气中弥漫着细小的木屑。",
+          "chineseIdea": "工人们注意到空气中漂浮的细小木屑会影响呼吸，因此需要戴口罩。",
+          "sentenceWithBlank": "Workers wear masks to avoid inhaling @ @ during sanding.",
+          "fullEnglishSentence": "Workers wear masks to avoid inhaling 「dust particles」 during sanding.",
+          "chineseTranslation": "工人们戴上口罩，以避免在打磨时吸入「灰尘颗粒」。",
+          "chinglishFix": "典型中式英语：'There are many dusts in the air.' 纠正：Use 'dust particles' and avoid pluralizing 'dust' as it is uncountable."
+        },
+        {
+          "scene": "在一个城市公园，环保志愿者在检测空气质量，关注空气中的污染物。",
+          "chineseIdea": "志愿者想提醒公众，空气中的细小污染物可能对健康有害，特别是在雾霾天。",
+          "sentenceWithBlank": "High levels of @ @ in the air can cause respiratory issues.",
+          "fullEnglishSentence": "High levels of 「fine particles」 in the air can cause respiratory issues.",
+          "chineseTranslation": "空气中高浓度的「细小颗粒」可能引发呼吸问题。",
+          "chinglishFix": "典型中式英语：'Air has many small dirts.' 纠正：Use 'fine particles' to describe tiny pollutants and avoid 'dirts' as 'dirt' is uncountable."
+        }
+      ]
+    },
+    {
+      "meaning": "语法中的小品词，如英语中的语气词或短语中的小词",
+      "usage": "在语言学中，指没有独立意义但在句子中起连接或语气作用的词，如英语中的‘up’、‘off’等在短语动词中的用法。",
+      "collocations": ["phrasal verb particle", "prepositional particle", "adverbial particle"],
+      "examples": [
+        {
+          "scene": "在一个英语学习班上，老师正在讲解短语动词的构成，强调小品词的作用。",
+          "chineseIdea": "老师想让学生理解，短语动词中的小词会改变动词的意思，比如‘look up’和‘look’完全不同。",
+          "sentenceWithBlank": "In the phrase 'pick up,' the word 'up' acts as a @ @.",
+          "fullEnglishSentence": "In the phrase 'pick up,' the word 'up' acts as a 「phrasal verb particle」.",
+          "chineseTranslation": "在短语‘pick up’中，‘up’作为一个「短语动词小品词」。",
+          "chinglishFix": "典型中式英语：'Up is a small word in pick up.' 纠正：Use 'phrasal verb particle' to describe the grammatical role of 'up'."
+        },
+        {
+          "scene": "在一个语言学研讨会上，学者们讨论英语中某些小词的多功能性。",
+          "chineseIdea": "学者们想分析这些小词如何在不同语境中改变句子的语气或方向，比如‘off’在‘take off’中的作用。",
+          "sentenceWithBlank": "The word 'off' in 'take off' functions as an @ @.",
+          "fullEnglishSentence": "The word 'off' in 'take off' functions as an 「adverbial particle」.",
+          "chineseTranslation": "在‘take off’中，‘off’作为一个「副词小品词」。",
+          "chinglishFix": "典型中式英语：'Off is a helper word in take off.' 纠正：Use 'adverbial particle' to specify the linguistic function of 'off'."
+        }
+      ]
+    }
+  ]
+}
+```

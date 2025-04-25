@@ -1,0 +1,76 @@
+```json
+{
+  "word": "overflow",
+  "definitions": [
+    {
+      "meaning": "液体溢出容器",
+      "usage": "指液体因过多而从容器中溢出，通常用于描述水、饮料等物理液体的情况。",
+      "collocations": ["overflow with water", "overflow into the sink", "overflow from the cup"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的咖啡店里，店员正在快速地为顾客准备饮品。由于订单太多，店员不小心把水装得太满，导致水从杯子里溢了出来，弄湿了柜台。",
+          "chineseIdea": "描述水因为容器装得太满而流出来的情景，强调意外和轻微的混乱。",
+          "sentenceWithBlank": "The cup @ @ @, spilling onto the counter.",
+          "fullEnglishSentence": "The cup 「overflowed with water」, spilling onto the counter.",
+          "chineseTranslation": "杯子「溢满了水」，洒到了柜台上。",
+          "chinglishFix": "典型中式英语：'The cup is too full and water comes out.' 纠正：'The cup overflowed with water.'（使用'overflow'更自然地表达液体溢出的概念。）"
+        },
+        {
+          "scene": "在家里洗碗时，小明没有注意水龙头开着，洗碗池里的水越来越多，最后溢了出来，流到了厨房的地板上。",
+          "chineseIdea": "描述水因为无人注意而从容器中溢出，造成轻微的麻烦。",
+          "sentenceWithBlank": "The water @ @ @, flooding the kitchen floor.",
+          "fullEnglishSentence": "The water 「overflowed into the sink」, flooding the kitchen floor.",
+          "chineseTranslation": "水「溢到了水槽里」，淹没了厨房地板。",
+          "chinglishFix": "典型中式英语：'The sink has too much water and it flows out.' 纠正：'The water overflowed into the sink.'（'overflow'更简洁且符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "情感或事物过多",
+      "usage": "比喻性地描述情感、能量或某事物过多，超出正常界限，常见于描述强烈的情感或丰富的资源。",
+      "collocations": ["overflow with joy", "overflow with enthusiasm", "overflow with ideas"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，奶奶看着孙子孙女们嬉戏玩耍，回忆起自己的童年，内心充满了幸福和满足的感觉。",
+          "chineseIdea": "描述一个人因为看到温馨场景而内心充满幸福，情感非常充沛。",
+          "sentenceWithBlank": "Grandma’s heart @ @ @ as she watched the children play.",
+          "fullEnglishSentence": "Grandma’s heart 「overflowed with joy」 as she watched the children play.",
+          "chineseTranslation": "奶奶的内心「充满了喜悦」，看着孩子们玩耍。",
+          "chinglishFix": "典型中式英语：'Grandma feels very happy in her heart.' 纠正：'Grandma’s heart overflowed with joy.'（使用'overflow with joy'更生动地表达情感的充沛。）"
+        },
+        {
+          "scene": "在一个头脑风暴会议上，团队成员们提出了无数个创意，讨论异常热烈，会议室里充满了灵感。",
+          "chineseIdea": "描述一群人因为灵感爆发而产生大量想法，气氛活跃。",
+          "sentenceWithBlank": "The meeting @ @ @, sparking lively discussions.",
+          "fullEnglishSentence": "The meeting 「overflowed with ideas」, sparking lively discussions.",
+          "chineseTranslation": "会议「充满了创意」，引发了热烈的讨论。",
+          "chinglishFix": "典型中式英语：'The meeting has many ideas.' 纠正：'The meeting overflowed with ideas.'（'overflow with ideas'更能体现创意的丰富和活跃。）"
+        }
+      ]
+    },
+    {
+      "meaning": "数据或信息超出容量",
+      "usage": "在计算机或技术领域，指数据、内存或信息超出系统或容器的处理能力，常用于编程或数据库语境。",
+      "collocations": ["buffer overflow", "stack overflow", "overflow error"],
+      "examples": [
+        {
+          "scene": "一个程序员正在调试一个应用程序，但由于输入的数据量过大，程序崩溃了，显示了一个错误信息。",
+          "chineseIdea": "描述技术环境中数据过多导致系统无法处理，出现错误。",
+          "sentenceWithBlank": "The system crashed due to a @ @.",
+          "fullEnglishSentence": "The system crashed due to a 「buffer overflow」.",
+          "chineseTranslation": "系统因为「缓冲区溢出」而崩溃。",
+          "chinglishFix": "典型中式英语：'The system has too much data and breaks.' 纠正：'The system crashed due to a buffer overflow.'（使用专业术语'buffer overflow'更准确。）"
+        },
+        {
+          "scene": "在一个技术论坛上，用户提问为什么他们的代码运行时总是报错，得到回复说是因为某个变量超出了分配的内存。",
+          "chineseIdea": "描述编程中因内存分配不足导致数据溢出的问题。",
+          "sentenceWithBlank": "The program failed because of a @ @.",
+          "fullEnglishSentence": "The program failed because of a 「stack overflow」.",
+          "chineseTranslation": "程序因为「堆栈溢出」而失败。",
+          "chinglishFix": "典型中式英语：'The program stops because the memory is full.' 纠正：'The program failed because of a stack overflow.'（'stack overflow'是技术领域的标准表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

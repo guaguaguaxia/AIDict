@@ -1,0 +1,76 @@
+```json
+{
+  "word": "operation",
+  "definitions": [
+    {
+      "meaning": "手术",
+      "usage": "指医疗过程中对患者身体进行的专业干预，通常涉及切开身体或修复内部组织，常用于医院或诊所的语境。",
+      "collocations": ["perform an operation", "undergo an operation", "emergency operation"],
+      "examples": [
+        {
+          "scene": "一位中年男子因为突发阑尾炎被送往医院，医生建议立即进行手术以避免病情恶化。",
+          "chineseIdea": "医生需要通过切除阑尾来解决问题，这是一个紧急的医疗行为。",
+          "sentenceWithBlank": "The surgeon decided to @ @ @ to remove the inflamed appendix.",
+          "fullEnglishSentence": "The surgeon decided to 「perform an operation」 to remove the inflamed appendix.",
+          "chineseTranslation": "外科医生决定「进行手术」以切除发炎的阑尾。",
+          "chinglishFix": "典型中式英语：'The doctor will do an operation.' 纠正：'The doctor will perform an operation.'（'do' 在此语境中不够正式，'perform' 是更自然的搭配。）"
+        },
+        {
+          "scene": "一位年轻女性因为膝盖韧带撕裂，医生建议她进行修复手术，并需要一段时间康复。",
+          "chineseIdea": "患者需要接受医疗干预来修复身体损伤。",
+          "sentenceWithBlank": "She was nervous about having to @ @ @ for her knee injury.",
+          "fullEnglishSentence": "She was nervous about having to 「undergo an operation」 for her knee injury.",
+          "chineseTranslation": "她对必须「接受手术」来治疗膝盖损伤感到紧张。",
+          "chinglishFix": "典型中式英语：'She will receive an operation.' 纠正：'She will undergo an operation.'（'receive' 通常不与 operation 搭配，'undergo' 更符合英语习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "运作或运营",
+      "usage": "指某个系统、组织或机器的运行或管理工作，强调持续的活动或过程，常用于商业、工业或技术语境。",
+      "collocations": ["smooth operation", "day-to-day operation", "business operation"],
+      "examples": [
+        {
+          "scene": "一家初创公司在快速扩张后，面临如何高效管理日常事务的挑战。",
+          "chineseIdea": "公司需要确保所有部门协调工作，以维持业务的正常运行。",
+          "sentenceWithBlank": "The new manager focused on ensuring @ @ of all departments.",
+          "fullEnglishSentence": "The new manager focused on ensuring 「smooth operation」 of all departments.",
+          "chineseTranslation": "新经理专注于确保所有部门的「顺利运作」。",
+          "chinglishFix": "典型中式英语：'The company runs smoothly.' 纠正：'The company ensures smooth operation.'（'run smoothly' 更适合描述状态，而 'smooth operation' 强调管理的成果。）"
+        },
+        {
+          "scene": "一家工厂的负责人正在向员工介绍如何优化生产线的日常管理。",
+          "chineseIdea": "需要关注生产线上的每一个细节，以保证生产的高效和稳定。",
+          "sentenceWithBlank": "He explained the importance of efficient @ @ @ in the factory.",
+          "fullEnglishSentence": "He explained the importance of efficient 「day-to-day operation」 in the factory.",
+          "chineseTranslation": "他解释了工厂「日常运作」高效的重要性。",
+          "chinglishFix": "典型中式英语：'The factory’s daily work is important.' 纠正：'The factory’s day-to-day operation is important.'（'daily work' 过于笼统，'day-to-day operation' 更具体且专业。）"
+        }
+      ]
+    },
+    {
+      "meaning": "军事行动",
+      "usage": "指军队或武装力量执行的有计划的战略或战术任务，通常涉及战斗或防御。",
+      "collocations": ["military operation", "covert operation", "joint operation"],
+      "examples": [
+        {
+          "scene": "一个国家为了应对边境冲突，部署了一支部队进行秘密任务。",
+          "chineseIdea": "军队需要悄无声息地完成任务，以保护国家安全。",
+          "sentenceWithBlank": "The elite team was sent on a @ @ to neutralize the threat.",
+          "fullEnglishSentence": "The elite team was sent on a 「covert operation」 to neutralize the threat.",
+          "chineseTranslation": "精锐团队被派去执行一项「秘密行动」以消除威胁。",
+          "chinglishFix": "典型中式英语：'The army does a secret mission.' 纠正：'The army conducts a covert operation.'（'do a mission' 不够正式，'conduct a covert operation' 是更地道的表达。）"
+        },
+        {
+          "scene": "两个盟国联合起来，共同应对一场区域危机，派遣部队进行协作任务。",
+          "chineseIdea": "两国军队需要密切配合，执行一项大规模的战略行动。",
+          "sentenceWithBlank": "The two countries launched a @ @ to stabilize the region.",
+          "fullEnglishSentence": "The two countries launched a 「joint operation」 to stabilize the region.",
+          "chineseTranslation": "两国发起了一项「联合行动」以稳定该地区。",
+          "chinglishFix": "典型中式英语：'The countries work together for a mission.' 纠正：'The countries launched a joint operation.'（'work together for a mission' 过于模糊，'joint operation' 更精确且专业。）"
+        }
+      ]
+    }
+  ]
+}
+```
