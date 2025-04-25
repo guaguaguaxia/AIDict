@@ -1,0 +1,53 @@
+```json
+{
+  "word": "energetic",
+  "definitions": [
+    {
+      "meaning": "充满活力、精力充沛",
+      "usage": "描述人、动物或活动具有强烈的活力、热情或动力，通常用于积极的语境，强调充满能量和行动力。",
+      "collocations": ["burst with energy", "full of life", "vibrant personality"],
+      "examples": [
+        {
+          "scene": "在一个阳光明媚的周末，年轻的公司团队在户外进行团建活动，大家在草地上跑来跑去，玩游戏，笑声不断。",
+          "chineseIdea": "描述团队成员在活动中展现出无穷的活力，仿佛永远不会疲惫。",
+          "sentenceWithBlank": "The team members @ @ @ during the outdoor games, laughing and running non-stop.",
+          "fullEnglishSentence": "The team members 「burst with energy」 during the outdoor games, laughing and running non-stop.",
+          "chineseTranslation": "团队成员在户外游戏中「充满活力」，笑着跑个不停。",
+          "chinglishFix": "典型中式英语：'They are very energy in the games.' 纠正：'They burst with energy in the games.'（'very energy'语法错误，需用正确的形容词或搭配，如'energetic'或'burst with energy'）"
+        },
+        {
+          "scene": "在学校运动会上，一个小男孩在接力赛中飞快地冲向终点，观众为他的速度和热情欢呼。",
+          "chineseIdea": "强调小男孩在比赛中展现出的活力和生命力，让人印象深刻。",
+          "sentenceWithBlank": "The young boy was @ @ @ as he sprinted to the finish line in the relay race.",
+          "fullEnglishSentence": "The young boy was 「full of life」 as обращения he sprinted to the finish line in the relay race.",
+          "chineseTranslation": "那个小男孩在接力赛中冲向终点时「充满活力」。",
+          "chinglishFix": "典型中式英语：'He runs with much energy.' 纠正：'He is full of life when running.'（'much energy'不自然，'full of life'更符合英语表达习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "积极有力、充满干劲",
+      "usage": "描述行为、表演或风格具有强烈的动力或感染力，通常用于工作、艺术或表达方式，强调行动上的效率和热情。",
+      "collocations": ["dynamic approach", "lively performance", "spirited discussion"],
+      "examples": [
+        {
+          "scene": "在一场重要的商业会议中，一位年轻的创业者向投资者展示她的项目计划，逻辑清晰、充满热情，吸引了所有人的注意。",
+          "chineseIdea": "描述创业者在展示项目时展现出的积极态度和令人信服的风格。",
+          "sentenceWithBlank": "Her @ @ @ to pitching the project captivated the investors.",
+          "fullEnglishSentence": "Her 「dynamic approach」 to pitching the project captivated the investors.",
+          "chineseTranslation": "她对项目推介的「充满活力的方式」吸引了投资者。",
+          "chinglishFix": "典型中式英语：'Her speech is very energy.' 纠正：'Her dynamic approach to the speech is impressive.'（'very energy'不正确，需用'dynamic approach'等搭配）"
+        },
+        {
+          "scene": "在一场音乐会上，乐队的演出充满激情，观众被他们的节奏和能量带动，纷纷起立鼓掌。",
+          "chineseIdea": "强调乐队在表演中展现的感染力和活力，让观众沉浸其中。",
+          "sentenceWithBlank": "The band delivered a @ @ @ that got the audience on their feet.",
+          "fullEnglishSentence": "The band delivered a 「lively performance」 that got the audience on their feet.",
+          "chineseTranslation": "乐队献上的「充满活力的表演」让观众站了起来。",
+          "chinglishFix": "典型中式英语：'Their show is full of energy power.' 纠正：'Their lively performance is captivating.'（'energy power'不自然，'lively performance'更符合英语习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

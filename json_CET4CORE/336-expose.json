@@ -1,0 +1,76 @@
+```json
+{
+  "word": "expose",
+  "definitions": [
+    {
+      "meaning": "使暴露；显露（某物，使其可见或易受攻击）",
+      "usage": "指使某物或某人暴露在外部环境中，可能是物理上的暴露（如暴露在阳光下）或抽象的暴露（如暴露弱点）。常用于描述无意或有意让某事物显现。",
+      "collocations": ["expose to sunlight", "expose a weakness", "expose to danger"],
+      "examples": [
+        {
+          "scene": "在一个炎热的夏天，小明带着他的新手机去海边玩耍。他把手机放在沙滩上，忘记盖上遮阳伞，手机屏幕长时间暴露在强烈的阳光下，导致屏幕过热。",
+          "chineseIdea": "小明不小心让手机长时间受到阳光直射，可能会损坏手机。",
+          "sentenceWithBlank": "Leaving the phone on the beach @ @ @ could damage its screen.",
+          "fullEnglishSentence": "Leaving the phone on the beach 「exposed to sunlight」 could damage its screen.",
+          "chineseTranslation": "将手机留在沙滩上「暴露在阳光下」可能会损坏屏幕。",
+          "chinglishFix": "典型中式英语：'Put the phone under the sun.' 纠正：'Expose the phone to sunlight.'（'Put under the sun' 听起来不自然，且不符合英语表达习惯）"
+        },
+        {
+          "scene": "在一场激烈的公司会议上，经理批评了小李的提案，指出提案中的漏洞，让小李感到非常尴尬，因为他的不足被当众揭露。",
+          "chineseIdea": "经理公开指出了小李提案中的问题，让他的弱点暴露无遗。",
+          "sentenceWithBlank": "The manager’s critique @ @ @ in front of the team.",
+          "fullEnglishSentence": "The manager’s critique 「exposed a weakness」 in front of the team.",
+          "chineseTranslation": "经理的批评「暴露了弱点」在团队面前。",
+          "chinglishFix": "典型中式英语：'Show his weak point.' 纠正：'Expose a weakness.'（'Show weak point' 显得生硬，英语中更常用 'expose' 来表达揭露缺点）"
+        }
+      ]
+    },
+    {
+      "meaning": "揭露；公开（真相、秘密或不良行为）",
+      "usage": "指通过报道、调查等方式将隐藏的事实或不当行为公之于众，通常带有揭发丑闻或真相的含义，常用于新闻报道或道德讨论中。",
+      "collocations": ["expose a scandal", "expose corruption", "expose the truth"],
+      "examples": [
+        {
+          "scene": "一位记者经过数月的调查，终于收集到足够证据，揭露了一家大公司内部的财务丑闻，引起了公众的广泛关注。",
+          "chineseIdea": "记者通过调查让公司的不道德行为公之于众，引起社会轰动。",
+          "sentenceWithBlank": "The journalist’s report @ @ @ that shocked the public.",
+          "fullEnglishSentence": "The journalist’s report 「exposed a scandal」 that shocked the public.",
+          "chineseTranslation": "记者的报道「揭露了一桩丑闻」，震惊了公众。",
+          "chinglishFix": "典型中式英语：'Open a scandal.' 纠正：'Expose a scandal.'（'Open' 在此语境中不合适，'expose' 是揭露丑闻的常用表达）"
+        },
+        {
+          "scene": "在一个小镇上，居民们发现政府官员一直在挪用公共资金。一名勇敢的市民站出来，通过社交媒体公开了这些腐败行为。",
+          "chineseIdea": "市民通过公开信息让官员的腐败行为暴露在公众视野中。",
+          "sentenceWithBlank": "The citizen’s post on social media @ @ @ in the local government.",
+          "fullEnglishSentence": "The citizen’s post on social media 「exposed corruption」 in the local government.",
+          "chineseTranslation": "市民在社交媒体上的帖子「揭露了腐败」在当地政府中。",
+          "chinglishFix": "典型中式英语：'Tell the corruption.' 纠正：'Expose corruption.'（'Tell' 不适合用来表达揭露腐败，'expose' 更贴合英语习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "使接触；介绍（某人接触新事物或经验）",
+      "usage": "指让某人有机会体验或了解新的事物、知识或文化，通常带有教育或启发的含义，常用于教育、旅行或文化交流的语境。",
+      "collocations": ["expose to new ideas", "expose to different cultures", "expose to technology"],
+      "examples": [
+        {
+          "scene": "小红的父母决定带她去参加一个国际夏令营，让她有机会与来自不同国家的孩子交流，接触不同的思维方式。",
+          "chineseIdea": "父母希望小红通过夏令营了解新的观念，拓宽视野。",
+          "sentenceWithBlank": "The summer camp @ @ @ from around the world.",
+          "fullEnglishSentence": "The summer camp 「exposed her to new ideas」 from around the world.",
+          "chineseTranslation": "夏令营「让她接触到新观念」来自世界各地。",
+          "chinglishFix": "典型中式英语：'Know new ideas.' 纠正：'Expose to new ideas.'（'Know' 不够准确，'expose to' 更能表达主动接触新事物的含义）"
+        },
+        {
+          "scene": "在一所乡村学校，老师引入了新的电脑课程，让学生们有机会学习现代科技，改变他们对未来的看法。",
+          "chineseIdea": "老师通过课程让学生接触科技，激发他们的兴趣。",
+          "sentenceWithBlank": "The computer class @ @ @ for the first time.",
+          "fullEnglishSentence": "The computer class 「exposed them to technology」 for the first time.",
+          "chineseTranslation": "计算机课「让他们接触到科技」第一次。",
+          "chinglishFix": "典型中式英语：'Learn technology.' 纠正：'Expose to technology.'（'Learn' 强调学习成果，'expose to' 更强调初次接触的体验）"
+        }
+      ]
+    }
+  ]
+}
+```

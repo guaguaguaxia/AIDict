@@ -1,0 +1,53 @@
+```json
+{
+  "word": "dispute",
+  "definitions": [
+    {
+      "meaning": "A disagreement or argument, often formal or prolonged",
+      "usage": "Refers to a situation where two or more parties have conflicting opinions or claims, often leading to debate or legal proceedings. Commonly used in formal, professional, or legal contexts.",
+      "collocations": ["resolve a dispute", "settle a dispute", "in dispute"],
+      "examples": [
+        {
+          "scene": "在一家公司的会议室里，管理层正在讨论与供应商的合同问题。双方对于付款条款有不同意见，导致谈判陷入僵局。",
+          "chineseIdea": "当双方对某事有分歧时，通常需要通过谈判或调解来解决问题，以避免进一步的冲突。",
+          "sentenceWithBlank": "The company worked hard to @ @ @ with the supplier to avoid legal action.",
+          "fullEnglishSentence": "The company worked hard to 「resolve a dispute」 with the supplier to avoid legal action.",
+          "chineseTranslation": "公司努力「解决与供应商的争端」，以避免法律诉讼。",
+          "chinglishFix": "Chinglish: 'Solve the argument with supplier.' Correction: 'Resolve the dispute with the supplier.' 'Solve' is typically used for problems or puzzles, while 'resolve' is more appropriate for disputes or conflicts."
+        },
+        {
+          "scene": "在家庭聚会上，兄弟姐妹们因为遗产分配问题发生了激烈争吵，每个人都坚持自己的立场。",
+          "chineseIdea": "当亲人之间出现分歧时，通常希望通过沟通达成和解，以维护家庭关系。",
+          "sentenceWithBlank": "The siblings tried to @ @ @ through mediation to maintain family harmony.",
+          "fullEnglishSentence": "The siblings tried to 「settle a dispute」 through mediation to maintain family harmony.",
+          "chineseTranslation": "兄弟姐妹们试图通过调解「解决争端」，以维持家庭和谐。",
+          "chinglishFix": "Chinglish: 'Finish the fight with family.' Correction: 'Settle the dispute through mediation.' 'Finish' and 'fight' are too vague or aggressive; 'settle' and 'dispute' are more precise and formal."
+        }
+      ]
+    },
+    {
+      "meaning": "To challenge or question the truth or validity of something",
+      "usage": "Used when someone doubts or argues against a statement, claim, or fact, often in discussions or debates. Common in academic, legal, or intellectual contexts.",
+      "collocations": ["dispute a claim", "dispute the evidence", "hotly disputed"],
+      "examples": [
+        {
+          "scene": "在大学课堂上，学生们正在讨论一篇学术文章的结论。一位学生认为文章的数据分析方法有问题，并提出质疑。",
+          "chineseIdea": "当某人对某个结论或说法持怀疑态度时，会通过提出证据或论点来挑战其正确性。",
+          "sentenceWithBlank": "The student attempted to @ @ @ by presenting alternative data.",
+          "fullEnglishSentence": "The student attempted to 「dispute a claim」 by presenting alternative data.",
+          "chineseTranslation": "学生通过提供替代数据试图「质疑一个说法」。",
+          "chinglishFix": "Chinglish: 'Argue the point is wrong.' Correction: 'Dispute the claim.' 'Argue' is too general, and 'point' is vague; 'dispute a claim' is more specific and academic."
+        },
+        {
+          "scene": "在法庭上，辩护律师对检方提交的证据提出异议，认为其来源不可靠。",
+          "chineseIdea": "在法律环境中，质疑证据的有效性是辩护策略的重要部分，目的是削弱对方的论点。",
+          "sentenceWithBlank": "The lawyer sought to @ @ @ by questioning its authenticity.",
+          "fullEnglishSentence": "The lawyer sought to 「dispute the evidence」 by questioning its authenticity.",
+          "chineseTranslation": "律师通过质疑其真实性试图「挑战证据」。",
+          "chinglishFix": "Chinglish: 'Doubt the proof is real.' Correction: 'Dispute the evidence.' 'Doubt' is less formal and direct, and 'proof' is less common in legal contexts than 'evidence.'"
+        }
+      ]
+    }
+  ]
+}
+```
