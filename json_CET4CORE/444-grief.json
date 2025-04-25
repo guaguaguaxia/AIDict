@@ -1,0 +1,53 @@
+```json
+{
+  "word": "grief",
+  "definitions": [
+    {
+      "meaning": "深切的悲痛或哀伤，通常因失去亲人或其他重大损失而产生",
+      "usage": "指因死亡、重大损失或不幸事件引发的强烈情感，通常带有深刻的心理和情感影响。可用于描述个人经历或集体感受，常出现在文学、心理描述或日常对话中。",
+      "collocations": ["overwhelmed with grief", "cope with grief", "express grief", "profound grief"],
+      "examples": [
+        {
+          "scene": "一位年轻女性在母亲去世后的葬礼上，独自站在墓地旁，低声哭泣，周围的人试图安慰她，但她似乎沉浸在自己的世界中。",
+          "chineseIdea": "她感到一种无法言喻的痛苦，仿佛内心被掏空，难以接受母亲的离去。",
+          "sentenceWithBlank": "She was @ @ @ after her mother’s sudden passing, unable to speak or eat for days.",
+          "fullEnglishSentence": "She was 「overwhelmed with grief」 after her mother’s sudden passing, unable to speak or eat for days.",
+          "chineseTranslation": "她在母亲突然去世后「被悲痛压倒」，几天无法说话或吃饭。",
+          "chinglishFix": "典型中式英语：'She was very sad and cannot eat.' 纠正：'She was overwhelmed with grief and couldn’t eat.'（用更具体的搭配表达深刻的情感，避免笼统的形容词）"
+        },
+        {
+          "scene": "一位中年男子在心理咨询中，向治疗师倾诉自己如何在父亲去世后尝试重新开始生活，但仍然感到内心空虚。",
+          "chineseIdea": "他试图通过工作和社交来缓解内心的痛苦，但仍然需要时间来处理这种情感。",
+          "sentenceWithBlank": "He struggled to @ @ @, often retreating into silence when memories surfaced.",
+          "fullEnglishSentence": "He struggled to 「cope with grief」, often retreating into silence when memories surfaced.",
+          "chineseTranslation": "他努力「应对悲痛」，常常在回忆浮现时退回到沉默中。",
+          "chinglishFix": "典型中式英语：'He cannot forget his sadness.' 纠正：'He struggled to cope with grief.'（使用'cope with'这一搭配更准确地表达处理情感的过程）"
+        }
+      ]
+    },
+    {
+      "meaning": "麻烦、困扰或抱怨，通常指因某事不顺而产生的不满或轻微的痛苦",
+      "usage": "较少见，通常用于口语或非正式语境，指某人因小事而抱怨或给别人带来麻烦。带有轻微的贬义或戏谑意味。",
+      "collocations": ["give someone grief", "get grief from"],
+      "examples": [
+        {
+          "scene": "在一个忙碌的办公室里，一位员工因为迟交报告被同事戏谑地责骂，气氛轻松但略带调侃。",
+          "chineseIdea": "同事们半开玩笑地抱怨他的拖延，但并没有真的生气。",
+          "sentenceWithBlank": "He got @ @ @ his coworkers for missing the deadline again.",
+          "fullEnglishSentence": "He got 「grief from」 his coworkers for missing the deadline again.",
+          "chineseTranslation": "他因为再次错过截止日期而「被同事们抱怨」。",
+          "chinglishFix": "典型中式英语：'His coworkers were angry because he was late.' 纠正：'He got grief from his coworkers for being late.'（用'get grief from'更符合口语化的戏谑语气）"
+        },
+        {
+          "scene": "在家庭聚会上，青少年因为玩手机而被父母责骂，父母用半开玩笑的语气表达不满。",
+          "chineseIdea": "父母觉得孩子不应该在家庭时间里只顾玩手机，想让他多参与谈话。",
+          "sentenceWithBlank": "His parents @ @ @ for ignoring everyone at the dinner table.",
+          "fullEnglishSentence": "His parents 「gave him grief」 for ignoring everyone at the dinner table.",
+          "chineseTranslation": "他的父母因为他在餐桌上忽视大家而「责骂他」。",
+          "chinglishFix": "典型中式英语：'His parents scolded him for playing phone.' 纠正：'His parents gave him grief for playing on his phone.'（用'give someone grief'表达轻微的责骂或抱怨）"
+        }
+      ]
+    }
+  ]
+}
+```

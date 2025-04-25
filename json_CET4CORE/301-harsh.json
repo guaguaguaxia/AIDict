@@ -1,0 +1,53 @@
+```json
+{
+  "word": "harsh",
+  "definitions": [
+    {
+      "meaning": "粗糙的或严厉的（描述环境、条件或声音等不舒服或刺耳的情况）",
+      "usage": "形容天气、声音、光线等让人感到不适或严酷，常用于描述自然环境或物理条件。",
+      "collocations": ["harsh weather", "harsh voice", "harsh light"],
+      "examples": [
+        {
+          "scene": "你正在描述一场冬天的旅行，外面寒风凛冽，雪花打在脸上让人感到刺痛，天气条件非常恶劣。",
+          "chineseIdea": "想表达天气非常恶劣，让人感到不舒服甚至难以忍受。",
+          "sentenceWithBlank": "The @ @ made it nearly impossible to enjoy our winter hike.",
+          "fullEnglishSentence": "The 「harsh weather」 made it nearly impossible to enjoy our winter hike.",
+          "chineseTranslation": "「恶劣的天气」让我们的冬季徒步几乎无法享受。",
+          "chinglishFix": "典型中式英语：'The weather is very bad.' 纠正：'The weather is harsh and unforgiving.'"
+        },
+        {
+          "scene": "你在一家餐厅里，旁边一位顾客用尖锐刺耳的声音抱怨服务，声音让人感到不适。",
+          "chineseIdea": "想描述某人的声音尖锐、刺耳，听起来让人不舒服。",
+          "sentenceWithBlank": "Her @ @ startled everyone in the quiet restaurant.",
+          "fullEnglishSentence": "Her 「harsh voice」 startled everyone in the quiet restaurant.",
+          "chineseTranslation": "她「刺耳的声音」让安静的餐厅里所有人都吓了一跳。",
+          "chinglishFix": "典型中式英语：'Her voice is very loud.' 纠正：'Her voice was harsh and grating.'"
+        }
+      ]
+    },
+    {
+      "meaning": "严厉的或苛刻的（描述批评、惩罚或态度等过于严格或不友善）",
+      "usage": "用于描述人的行为、语言或态度，强调过于严格、冷酷或不近人情。",
+      "collocations": ["harsh criticism", "harsh punishment", "harsh tone"],
+      "examples": [
+        {
+          "scene": "你的老师在课堂上对一位同学的错误答案进行了非常严厉的批评，让全班都感到紧张。",
+          "chineseIdea": "想表达老师的批评非常严厉，甚至让人感到不安。",
+          "sentenceWithBlank": "The teacher’s @ @ left the student visibly upset.",
+          "fullEnglishSentence": "The teacher’s 「harsh criticism」 left the student visibly upset.",
+          "chineseTranslation": "老师的「严厉批评」让学生明显感到不安。",
+          "chinglishFix": "典型中式英语：'The teacher said very bad words.' 纠正：'The teacher gave harsh criticism.'"
+        },
+        {
+          "scene": "你在描述一个严厉的家长，对孩子犯错时总是用冷酷的语气责骂。",
+          "chineseIdea": "想表达家长说话的语气非常严厉，缺乏温暖。",
+          "sentenceWithBlank": "His @ @ made the child feel small and worthless.",
+          "fullEnglishSentence": "His 「harsh tone」 made the child feel small and worthless.",
+          "chineseTranslation": "他「严厉的语气」让孩子感到渺小和无价值。",
+          "chinglishFix": "典型中式英语：'He speaks very angry.' 纠正：'He spoke in a harsh tone.'"
+        }
+      ]
+    }
+  ]
+}
+```
