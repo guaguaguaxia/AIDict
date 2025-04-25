@@ -1,0 +1,53 @@
+```json
+{
+  "word": "admire",
+  "definitions": [
+    {
+      "meaning": "对某人或某事表示赞赏或敬佩，通常因为其品质、技能或成就",
+      "usage": "用作及物动词，表示主观上对某人或某物的正面评价，常用于表达对他人才能、外貌、品德或成就的欣赏。",
+      "collocations": ["admire someone's courage", "admire someone's work", "admire the beauty", "admire from afar"],
+      "examples": [
+        {
+          "scene": "在一个艺术展览中，你看到一幅令人震撼的画作，画中的色彩和构图让你感到惊叹。你想表达对这位艺术家的敬佩。",
+          "chineseIdea": "你觉得这位艺术家的作品展现了非凡的创造力和技巧，你想表达对他们创作的赞赏。",
+          "sentenceWithBlank": "I really @ @ @ of this painting; the artist has such a unique vision.",
+          "fullEnglishSentence": "I really 「admire the beauty」 of this painting; the artist has such a unique vision.",
+          "chineseTranslation": "我非常「欣赏这幅画的美」，这位艺术家有如此独特的视野。",
+          "chinglishFix": "典型中式英语：'I very like this painting's beauty.' 纠正：'I really admire the beauty of this painting.' 原因：'like'过于笼统，无法表达对艺术作品的深刻赞赏；'admire'更适合表达敬佩或欣赏。"
+        },
+        {
+          "scene": "你和朋友讨论一部新电影，提到主演在片中的表演令人印象深刻，尤其是他处理复杂角色的能力。",
+          "chineseIdea": "你想表达对这位演员表演技巧的敬佩，觉得他在电影中展现了出色的专业素养。",
+          "sentenceWithBlank": "I truly @ @ @; his performance in the movie was outstanding.",
+          "fullEnglishSentence": "I truly 「admire someone's work」; his performance in the movie was outstanding.",
+          "chineseTranslation": "我非常「欣赏他的作品」，他在电影中的表演非常出色。",
+          "chinglishFix": "典型中式英语：'His acting I very appreciate.' 纠正：'I truly admire his work.' 原因：'appreciate'更多用于感激，而'admire'更适合表达对才能的敬佩；句式也需调整以符合英语习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "远远地注视或欣赏某事物，通常带有一种距离感或不可触及的感觉",
+      "usage": "用作及物动词，强调从远处或以一种超然的态度观察某事物，常用于描述对某人或某物的欣赏，但不一定有直接互动。",
+      "collocations": ["admire from afar", "admire the view", "admire the scenery", "admire someone's lifestyle"],
+      "examples": [
+        {
+          "scene": "你站在山顶，俯瞰一片壮丽的山谷，夕阳洒在山间，景色美得令人屏息。你想表达对这自然景观的赞叹。",
+          "chineseIdea": "你被眼前的自然美景深深吸引，觉得这种美让人心生敬畏，想表达对大自然的欣赏。",
+          "sentenceWithBlank": "From the top of the hill, I could @ @ @ of the valley below.",
+          "fullEnglishSentence": "From the top of the hill, I could 「admire the view」 of the valley below.",
+          "chineseTranslation": "从山顶上，我可以「欣赏下面的山谷景色」。",
+          "chinglishFix": "典型中式英语：'I see the valley very beautiful.' 纠正：'I could admire the view of the valley.' 原因：'see'和'very beautiful'过于直白，缺乏欣赏的语气；'admire the view'更能表达沉浸式的赞美。"
+        },
+        {
+          "scene": "你听说一位同事的生活方式非常健康，每天早起锻炼、吃均衡饮食，还坚持冥想。你对此感到佩服，但你们关系不熟，只能默默欣赏。",
+          "chineseIdea": "你觉得这种自律的生活方式很值得学习，但因为不熟，只能从远处表示赞赏。",
+          "sentenceWithBlank": "I don’t know her well, but I really @ @ @; she seems so disciplined.",
+          "fullEnglishSentence": "I don’t know her well, but I really 「admire someone's lifestyle」; she seems so disciplined.",
+          "chineseTranslation": "我不太了解她，但我真的很「欣赏她的生活方式」，她看起来非常自律。",
+          "chinglishFix": "典型中式英语：'Her life I think is good.' 纠正：'I really admire her lifestyle.' 原因：'think is good'表达模糊且不地道；'admire someone's lifestyle'更具体且符合英语表达习惯。"
+        }
+      ]
+    }
+  ]
+}
+```

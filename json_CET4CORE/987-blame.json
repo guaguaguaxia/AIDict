@@ -1,0 +1,76 @@
+```json
+{
+  "word": "blame",
+  "definitions": [
+    {
+      "meaning": "指责或责怪某人做了某事",
+      "usage": "用作动词，表示将某事的不良后果或责任归咎于某人，通常带有批评或不满的情绪。常用于表达对错误或问题的责任归属。",
+      "collocations": ["take the blame", "put the blame on", "share the blame"],
+      "examples": [
+        {
+          "scene": "在一个团队项目中，项目因为延迟交付而失败，经理在会议上讨论责任问题。",
+          "chineseIdea": "经理认为团队中的某个人应该为延迟负责，并公开表达不满。",
+          "sentenceWithBlank": "The manager said that John should @ @ @ for the project’s delay.",
+          "fullEnglishSentence": "The manager said that John should 「take the blame」 for the project’s delay.",
+          "chineseTranslation": "经理说约翰应该「承担责任」因为项目延迟。",
+          "chinglishFix": "典型中式英语：'John must carry the responsibility for the delay.' 纠正：'John should take the blame for the delay.'（'carry responsibility' 听起来不自然，英语中更常用 'take the blame' 表示承担责任。）"
+        },
+        {
+          "scene": "两个孩子在家里打碎了一个花瓶，妈妈询问是谁干的，哥哥试图让弟弟承担责任。",
+          "chineseIdea": "哥哥想把责任推到弟弟身上，免得自己被惩罚。",
+          "sentenceWithBlank": "The older brother tried to @ @ @ @ his younger sibling to avoid punishment.",
+          "fullEnglishSentence": "The older brother tried to 「put the blame on」 his younger sibling to avoid punishment.",
+          "chineseTranslation": "哥哥试图「把责任推到」弟弟身上以避免惩罚。",
+          "chinglishFix": "典型中式英语：'He throw the responsibility to his brother.' 纠正：'He put the blame on his brother.'（'throw responsibility' 不是英语惯用表达，'put the blame on' 更符合语感。）"
+        }
+      ]
+    },
+    {
+      "meaning": "认为是某事的原因",
+      "usage": "用作动词，表示将某事（通常是负面结果）归因于某人或某物，侧重于因果关系，而不一定带有强烈的情绪指责。",
+      "collocations": ["blame someone for", "blame something on", "blame it on"],
+      "examples": [
+        {
+          "scene": "一场重要的足球比赛中，球队输了，教练在赛后新闻发布会上分析失败原因。",
+          "chineseIdea": "教练认为球员的失误是比赛失利的主要原因。",
+          "sentenceWithBlank": "The coach said the team’s loss was due to @ @ @ the players’ mistakes.",
+          "fullEnglishSentence": "The coach said the team’s loss was due to 「blame something on」 the players’ mistakes.",
+          "chineseTranslation": "教练说球队的失利应「归咎于」球员的失误。",
+          "chinglishFix": "典型中式英语：'The loss is because of players’ mistakes.' 纠正：'The loss can be blamed on the players’ mistakes.'（'because of' 虽然正确，但 'blame on' 更直接表达因果归因。）"
+        },
+        {
+          "scene": "一个学生考试成绩不好，向朋友抱怨自己的表现。",
+          "chineseIdea": "学生认为自己成绩差是因为考试当天状态不好。",
+          "sentenceWithBlank": "She said she did poorly because she could only @ @ @ her bad mood that day.",
+          "fullEnglishSentence": "She said she did poorly because she could only 「blame it on」 her bad mood that day.",
+          "chineseTranslation": "她说她考得不好只能「归咎于」那天的心情不好。",
+          "chinglishFix": "典型中式英语：'My bad score is because bad mood.' 纠正：'I blame my bad score on my bad mood.'（中式英语常忽略 'blame' 这样的动词，'blame it on' 是更自然的表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "责任或过错",
+      "usage": "用作不可数名词，表示某事错误的责任归属，强调责任本身而非指责的行为。",
+      "collocations": ["accept the blame", "shift the blame", "bear the blame"],
+      "examples": [
+        {
+          "scene": "一家公司因为产品质量问题被客户投诉，管理层内部讨论如何应对。",
+          "chineseIdea": "经理决定自己来承担责任，以保护团队的士气。",
+          "sentenceWithBlank": "The manager decided to @ @ @ to protect the team’s morale.",
+          "fullEnglishSentence": "The manager decided to 「accept the blame」 to protect the team’s morale.",
+          "chineseTranslation": "经理决定「接受责任」以保护团队的士气。",
+          "chinglishFix": "典型中式英语：'The manager take the responsibility.' 纠正：'The manager accepted the blame.'（'take responsibility' 虽然接近，但 'accept the blame' 更强调主动承担过错。）"
+        },
+        {
+          "scene": "在一次交通事故后，双方司机争论谁该为事故负责。",
+          "chineseIdea": "其中一个司机试图把责任推给对方，以避免保险费用增加。",
+          "sentenceWithBlank": "The driver tried to @ @ @ to the other party to avoid higher insurance costs.",
+          "fullEnglishSentence": "The driver tried to 「shift the blame」 to the other party to avoid higher insurance costs.",
+          "chineseTranslation": "司机试图「推卸责任」给对方以避免更高的保险费用。",
+          "chinglishFix": "典型中式英语：'He give the responsibility to another driver.' 纠正：'He shifted the blame to the other driver.'（'give responsibility' 不符合英语习惯，'shift the blame' 是更自然的表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

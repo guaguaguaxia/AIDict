@@ -1,0 +1,53 @@
+```json
+{
+  "word": "caution",
+  "definitions": [
+    {
+      "meaning": "小心，谨慎（指为了避免危险或错误而采取的注意）",
+      "usage": "用作名词，表示一种小心行事的状态或态度，通常与潜在的风险或不确定性相关。",
+      "collocations": ["exercise caution", "use caution", "proceed with caution"],
+      "examples": [
+        {
+          "scene": "一位妈妈带着孩子去公园玩耍，公园里有一个小湖泊，湖边有些湿滑的石头。",
+          "chineseIdea": "妈妈担心孩子会因为跑得太快而在湖边摔倒，所以提醒孩子要小心。",
+          "sentenceWithBlank": "She told her child to @ @ when playing near the lake.",
+          "fullEnglishSentence": "She told her child to 「exercise caution」 when playing near the lake.",
+          "chineseTranslation": "她告诉孩子在湖边玩耍时要「小心行事」。",
+          "chinglishFix": "典型中式英语：'Be careful very much.' 纠正：'Exercise caution.' 或 'Be careful.'"
+        },
+        {
+          "scene": "一个朋友开车带你去山里露营，山路弯曲且有些陡峭，天气也不太好。",
+          "chineseIdea": "你建议朋友在开车时要谨慎，因为路况和天气都不理想。",
+          "sentenceWithBlank": "I advised my friend to @ @ @ while driving on the mountain road.",
+          "fullEnglishSentence": "I advised my friend to 「proceed with caution」 while driving on the mountain road.",
+          "chineseTranslation": "我建议朋友在山路上开车时要「谨慎前行」。",
+          "chinglishFix": "典型中式英语：'Drive carefully slowly.' 纠正：'Proceed with caution.' 或 'Drive carefully.'"
+        }
+      ]
+    },
+    {
+      "meaning": "警告，告诫（指提醒某人注意潜在的危险或问题）",
+      "usage": "用作名词，表示正式或非正式的警告，通常用于提醒他人注意某些具体事项。",
+      "collocations": ["issue a caution", "words of caution", "throw caution to the wind"],
+      "examples": [
+        {
+          "scene": "一位老师在课堂上讲解化学实验，实验中需要用到一些危险的化学品。",
+          "chineseIdea": "老师在开始前提醒学生要注意安全，避免发生意外。",
+          "sentenceWithBlank": "The teacher @ @ @ about the risks of the chemicals before the experiment.",
+          "fullEnglishSentence": "The teacher 「issued a caution」 about the risks of the chemicals before the experiment.",
+          "chineseTranslation": "老师在实验前对化学品的风险「发出了警告」。",
+          "chinglishFix": "典型中式英语：'Teacher said be careful.' 纠正：'The teacher issued a caution.' 或 'The teacher warned us.'"
+        },
+        {
+          "scene": "你和朋友计划周末去海边玩，但天气预报说可能有大风。",
+          "chineseIdea": "你提醒朋友要考虑天气情况，不要冒险。",
+          "sentenceWithBlank": "I offered some @ @ @ about ignoring the weather forecast.",
+          "fullEnglishSentence": "I offered some 「words of caution」 about ignoring the weather forecast.",
+          "chineseTranslation": "我对忽视天气预报提出了一些「警告之词」。",
+          "chinglishFix": "典型中式英语：'I said careful words.' 纠正：'I offered words of caution.' 或 'I warned him.'"
+        }
+      ]
+    }
+  ]
+}
+```

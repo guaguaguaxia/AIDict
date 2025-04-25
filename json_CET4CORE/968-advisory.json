@@ -1,0 +1,53 @@
+```json
+{
+  "word": "advisory",
+  "definitions": [
+    {
+      "meaning": "提供建议或指导的，具有咨询性质的",
+      "usage": "通常作为形容词，用来描述某人、某机构或某事物具有提供建议或推荐的功能，常用于正式或专业场景，如商业、法律、政府或教育领域。",
+      "collocations": ["advisory board", "advisory committee", "advisory role", "advisory service"],
+      "examples": [
+        {
+          "scene": "一家科技初创公司正在筹备新产品发布，管理层需要外部专家的意见来优化市场策略。他们决定成立一个由行业资深人士组成的团队来提供专业建议。",
+          "chineseIdea": "公司希望通过专家的建议来确保新产品的市场定位和推广策略更加精准。",
+          "sentenceWithBlank": "The startup formed an @ @ to guide their product launch strategy.",
+          "fullEnglishSentence": "The startup formed an 「advisory board」 to guide their product launch strategy.",
+          "chineseTranslation": "这家初创公司成立了一个「顾问委员会」来指导他们的产品发布策略。",
+          "chinglishFix": "典型中式英语：'The company made a consult team to help product strategy.' 纠正：'Consult team' 应改为 'advisory board'，因为后者是更自然的表达，且 'consult' 作为动词不适合此处。"
+        },
+        {
+          "scene": "一家跨国公司的高管需要一位经验丰富的顾问来帮助制定全球扩张计划。他们聘请了一位在国际贸易领域有丰富经验的专家。",
+          "chineseIdea": "高管希望通过专家的经验和建议，制定更符合全球市场的扩张策略。",
+          "sentenceWithBlank": "The executive hired a consultant to take on an @ @ in the global expansion plan.",
+          "fullEnglishSentence": "The executive hired a consultant to take on an 「advisory role」 in the global expansion plan.",
+          "chineseTranslation": "这位高管聘请了一位顾问，在全球扩张计划中担任「顾问角色」。",
+          "chinglishFix": "典型中式英语：'The boss found a person to give advice job.' 纠正：'Advice job' 应改为 'advisory role'，因为 'advisory role' 是更正式且自然的表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "警告或建议的通知，通常与安全或风险相关",
+      "usage": "作为名词，指政府、机构或组织发布的正式建议或警告，常见于天气、旅行或公共安全领域。",
+      "collocations": ["travel advisory", "weather advisory", "health advisory", "security advisory"],
+      "examples": [
+        {
+          "scene": "由于台风即将来袭，当地气象部门向居民发布了一则通知，建议大家尽量待在室内并做好防风准备。",
+          "chineseIdea": "气象部门希望通过通知提醒居民注意安全，减少台风带来的风险。",
+          "sentenceWithBlank": "The meteorological department issued a @ @ due to the approaching typhoon.",
+          "fullEnglishSentence": "The meteorological department issued a 「weather advisory」 due to the approaching typhoon.",
+          "chineseTranslation": "气象部门因即将来袭的台风发布了一则「天气警告」。",
+          "chinglishFix": "典型中式英语：'The weather office gave a typhoon warning notice.' 纠正：'Warning notice' 应改为 'weather advisory'，因为 'advisory' 更准确地传达建议和警告的含义。"
+        },
+        {
+          "scene": "某国因近期政治动荡，外交部向计划前往该国的公民发布了一则通知，建议推迟非必要旅行。",
+          "chineseIdea": "外交部希望通过通知提醒公民注意旅行风险，避免不必要的安全问题。",
+          "sentenceWithBlank": "The foreign ministry issued a @ @ for citizens planning to visit the unstable region.",
+          "fullEnglishSentence": "The foreign ministry issued a 「travel advisory」 for citizens planning to visit the unstable region.",
+          "chineseTranslation": "外交部为计划前往不稳定地区的公民发布了一则「旅行警告」。",
+          "chinglishFix": "典型中式英语：'The government told a travel warning to people.' 纠正：'Told a travel warning' 应改为 'issued a travel advisory'，因为 'issue' 是发布通知的正式动词，'advisory' 更符合语境。"
+        }
+      ]
+    }
+  ]
+}
+```
