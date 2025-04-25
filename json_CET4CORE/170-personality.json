@@ -1,0 +1,53 @@
+```json
+{
+  "word": "personality",
+  "definitions": [
+    {
+      "meaning": "一个人独特的性格、行为方式和情感表达的总和",
+      "usage": "通常用于描述一个人整体的性格特质，强调其独特性和对他人的影响。常用于正面或中性的语境中，如描述某人的魅力、吸引力或与众不同的特质。",
+      "collocations": ["strong personality", "outgoing personality", "unique personality", "charming personality"],
+      "examples": [
+        {
+          "scene": "在一次公司团队建设活动中，新来的员工小李表现得很活跃，与每个人都能轻松聊天，很快就赢得了同事们的喜爱。",
+          "chineseIdea": "小李的性格非常有吸引力，给人留下深刻印象，让人觉得他很容易相处。",
+          "sentenceWithBlank": "Everyone was drawn to Xiaoli because he has a @ @.",
+          "fullEnglishSentence": "Everyone was drawn to Xiaoli because he has a 「charming personality」.",
+          "chineseTranslation": "每个人都被小李吸引，因为他有一种「迷人的性格」。",
+          "chinglishFix": "典型中式英语：'Xiaoli has a very good personality.'（表达模糊，缺乏具体性）\n纠正：'Xiaoli has a charming personality.'（更具体，符合英语表达习惯）"
+        },
+        {
+          "scene": "在朋友聚会上，小王总是能带动气氛，讲笑话、组织游戏，让每个人都感到开心。",
+          "chineseIdea": "小王的性格外向，总是能让周围的人感到轻松和快乐。",
+          "sentenceWithBlank": "Xiaowang’s @ @ makes every gathering lively and fun.",
+          "fullEnglishSentence": "Xiaowang’s 「outgoing personality」 makes every gathering lively and fun.",
+          "chineseTranslation": "小王的「外向性格」让每次聚会都充满活力和乐趣。",
+          "chinglishFix": "典型中式英语：'Xiaowang is very open personality.'（语法错误，搭配不自然）\n纠正：'Xiaowang has an outgoing personality.'（搭配正确，表达自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "鲜明的个人特质或公众形象，尤指名人或公众人物的独特风格",
+      "usage": "常用于描述公众人物（如演员、歌手、主持人等）的个人魅力或公众形象，强调其在公众眼中的独特吸引力或风格。",
+      "collocations": ["public personality", "media personality", "larger-than-life personality", "magnetic personality"],
+      "examples": [
+        {
+          "scene": "某知名电视节目主持人以幽默风趣和亲和力著称，每次节目都能吸引大量观众。",
+          "chineseIdea": "这位主持人的独特风格和吸引力让他在观众中非常受欢迎。",
+          "sentenceWithBlank": "The TV host’s @ @ draws millions of viewers to the show every week.",
+          "fullEnglishSentence": "The TV host’s 「magnetic personality」 draws millions of viewers to the show every week.",
+          "chineseTranslation": "这位电视主持人的「吸引人的性格」每周都吸引数百万观众观看节目。",
+          "chinglishFix": "典型中式英语：'The host has a very attractive personality.'（表达平淡，缺乏力度）\n纠正：'The host has a magnetic personality.'（更生动，符合英语语感）"
+        },
+        {
+          "scene": "一位流行歌手在社交媒体上以大胆的穿着和直率的言论吸引了大量年轻粉丝的关注。",
+          "chineseIdea": "这位歌手的公众形象非常鲜明，充满了活力和个性。",
+          "sentenceWithBlank": "The singer’s @ @ @ has made her a role model for young fans.",
+          "fullEnglishSentence": "The singer’s 「larger-than-life personality」 has made her a role model for young fans.",
+          "chineseTranslation": "这位歌手的「夸张鲜明的性格」使她成为年轻粉丝的榜样。",
+          "chinglishFix": "典型中式英语：'The singer has a very big personality.'（表达不地道，缺乏 idiomatic 感）\n纠正：'The singer has a larger-than-life personality.'（更符合英语表达习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

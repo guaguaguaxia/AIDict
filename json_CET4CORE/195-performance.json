@@ -1,0 +1,76 @@
+```json
+{
+  "word": "performance",
+  "definitions": [
+    {
+      "meaning": "演出或表演",
+      "usage": "指在舞台、音乐会、戏剧等场合的公开演出或表演，通常与艺术或娱乐相关。",
+      "collocations": ["give a performance", "outstanding performance", "live performance"],
+      "examples": [
+        {
+          "scene": "在一个音乐会上，一位年轻的钢琴家正在为观众演奏贝多芬的曲子，观众被她的技巧和情感深深打动。",
+          "chineseIdea": "我想表达这位钢琴家在音乐会上的演奏非常精彩，给观众留下了深刻印象。",
+          "sentenceWithBlank": "The young pianist @ @ @ that left the audience in awe.",
+          "fullEnglishSentence": "The young pianist 「gave a performance」 that left the audience in awe.",
+          "chineseTranslation": "这位年轻钢琴家「进行了一场演出」，让观众惊叹不已。",
+          "chinglishFix": "典型中式英语：She performed very good. 纠正：She 「gave an outstanding performance」."
+        },
+        {
+          "scene": "在一场户外音乐节中，一支摇滚乐队在舞台上充满能量地演出，吸引了数千名观众。",
+          "chineseIdea": "我想描述这支乐队的现场演出非常激动人心，观众都沉浸在音乐中。",
+          "sentenceWithBlank": "The rock band delivered an @ @ that electrified the crowd.",
+          "fullEnglishSentence": "The rock band delivered a 「live performance」 that electrified the crowd.",
+          "chineseTranslation": "这支摇滚乐队献上了一场「现场演出」，让观众兴奋不已。",
+          "chinglishFix": "典型中式英语：Their performance was very exciting. 纠正：Their 「live performance」 was thrilling."
+        }
+      ]
+    },
+    {
+      "meaning": "表现或绩效",
+      "usage": "指某人在工作、学习、体育等领域的表现或成果，通常与能力、效率或成果相关。",
+      "collocations": ["improve performance", "evaluate performance", "consistent performance"],
+      "examples": [
+        {
+          "scene": "在一家公司中，经理正在与员工进行年度考核，讨论员工在过去一年中的工作表现。",
+          "chineseIdea": "我想表达经理建议员工在某些方面提升自己的工作表现。",
+          "sentenceWithBlank": "The manager advised the employee to @ @ @ in project management.",
+          "fullEnglishSentence": "The manager advised the employee to 「improve performance」 in project management.",
+          "chineseTranslation": "经理建议员工在项目管理方面「提高表现」。",
+          "chinglishFix": "典型中式英语：You should perform better. 纠正：You should 「improve your performance」."
+        },
+        {
+          "scene": "在一所学校中，老师正在与学生家长讨论学生的学习情况，提到学生在数学方面的表现。",
+          "chineseIdea": "我想说明老师定期评估学生的学习表现，以帮助他们进步。",
+          "sentenceWithBlank": "The teacher regularly @ @ @ to provide feedback for improvement.",
+          "fullEnglishSentence": "The teacher regularly 「evaluates performance」 to provide feedback for improvement.",
+          "chineseTranslation": "老师定期「评估表现」，以提供改进反馈。",
+          "chinglishFix": "典型中式英语：The teacher checks student’s performance. 纠正：The teacher 「evaluates their performance」."
+        }
+      ]
+    },
+    {
+      "meaning": "性能",
+      "usage": "指机器、设备或系统的运行效果或效率，通常用于技术或工程领域。",
+      "collocations": ["enhance performance", "optimal performance", "system performance"],
+      "examples": [
+        {
+          "scene": "一家科技公司发布了一款新型智能手机，宣传其电池续航和处理速度得到了显著提升。",
+          "chineseIdea": "我想表达这款手机通过新技术提高了整体性能。",
+          "sentenceWithBlank": "The new smartphone uses advanced technology to @ @ @.",
+          "fullEnglishSentence": "The new smartphone uses advanced technology to 「enhance performance」.",
+          "chineseTranslation": "这款新智能手机使用先进技术来「提升性能」。",
+          "chinglishFix": "典型中式英语：The phone performs better. 纠正：The phone has 「enhanced performance」."
+        },
+        {
+          "scene": "一位工程师在测试一台服务器，检查其在高负载下的运行效率。",
+          "chineseIdea": "我想说明这台服务器在压力测试中表现出最佳性能。",
+          "sentenceWithBlank": "The server demonstrated @ @ during the stress test.",
+          "fullEnglishSentence": "The server demonstrated 「optimal performance」 during the stress test.",
+          "chineseTranslation": "这台服务器在压力测试中展现了「最佳性能」。",
+          "chinglishFix": "典型中式英语：The server’s performance is good. 纠正：The server achieved 「optimal performance」."
+        }
+      ]
+    }
+  ]
+}
+```

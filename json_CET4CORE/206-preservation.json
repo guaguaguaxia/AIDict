@@ -1,0 +1,53 @@
+```json
+{
+  "word": "preservation",
+  "definitions": [
+    {
+      "meaning": "保护或维持某事物以防止其损坏、丧失或改变",
+      "usage": "通常用于描述对自然环境、历史文物、文化遗产或资源的保护，强调保持其原有状态或完整性。",
+      "collocations": ["environmental protection", "cultural heritage", "natural resources", "historical artifacts"],
+      "examples": [
+        {
+          "scene": "在一个关于环境保护的国际会议上，演讲者正在讨论如何保护濒危物种和森林生态系统。",
+          "chineseIdea": "强调通过法律和行动来确保自然环境的完整性，防止生态系统被破坏。",
+          "sentenceWithBlank": "The organization launched a campaign to promote @ @ for endangered species.",
+          "fullEnglishSentence": "The organization launched a campaign to promote 「environmental protection」 for endangered species.",
+          "chineseTranslation": "该组织发起了一场运动，以促进对濒危物种的「环境保护」。",
+          "chinglishFix": "典型中式英语：'Protect environment for animals.' 纠正：'Promote environmental protection for endangered species.'"
+        },
+        {
+          "scene": "在一家博物馆的开幕式上，馆长向公众介绍他们如何修复和保护古老的手稿。",
+          "chineseIdea": "强调通过专业技术保护历史文献，使其免受时间和环境的影响。",
+          "sentenceWithBlank": "The museum invested heavily in preserving the 「cultural heritage」 of ancient manuscripts.",
+          "fullEnglishSentence": "The museum invested heavily in preserving the 「cultural heritage」 of ancient manuscripts.",
+          "chineseTranslation": "博物馆投入巨资保护古老手稿的「文化遗产」。",
+          "chinglishFix": "典型中式英语：'Keep old books safe.' 纠正：'Preserve the cultural heritage of ancient manuscripts.'"
+        }
+      ]
+    },
+    {
+      "meaning": "保存食物或其他易腐物品以延长其使用寿命",
+      "usage": "常用于描述通过冷冻、腌制、罐装等方式保持食物的新鲜或可用状态。",
+      "collocations": ["food safety", "long-term storage", "fresh produce", "traditional methods"],
+      "examples": [
+        {
+          "scene": "在一个家庭厨房中，妈妈正在教孩子如何制作果酱来保存夏季的水果。",
+          "chineseIdea": "通过烹饪技术将水果转化为可长期保存的食品，保持其风味。",
+          "sentenceWithBlank": "She used canning techniques to ensure @ @ of the summer harvest.",
+          "fullEnglishSentence": "She used canning techniques to ensure 「food safety」 of the summer harvest.",
+          "chineseTranslation": "她使用罐装技术来确保夏季丰收的「食品安全」。",
+          "chinglishFix": "典型中式英语：'Save fruit for long time.' 纠正：'Ensure food safety through canning techniques.'"
+        },
+        {
+          "scene": "在一个食品加工厂的培训会上，工人学习如何冷冻蔬菜以供冬季使用。",
+          "chineseIdea": "通过现代技术延长食品的保质期，方便未来使用。",
+          "sentenceWithBlank": "The factory adopted freezing techniques for @ @ of vegetables.",
+          "fullEnglishSentence": "The factory adopted freezing techniques for 「long-term storage」 of vegetables.",
+          "chineseTranslation": "工厂采用冷冻技术进行蔬菜的「长期储存」。",
+          "chinglishFix": "典型中式英语：'Put vegetables in fridge for long.' 纠正：'Adopt freezing techniques for long-term storage of vegetables.'"
+        }
+      ]
+    }
+  ]
+}
+```
