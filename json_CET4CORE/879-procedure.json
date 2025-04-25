@@ -1,0 +1,53 @@
+```json
+{
+  "word": "procedure",
+  "definitions": [
+    {
+      "meaning": "一系列正式或官方的步骤或流程，通常用于完成特定任务或达成目标",
+      "usage": "指官方或正式的做事步骤，常见于法律、医疗、行政或技术领域，强调有条理和规范性。",
+      "collocations": ["follow a procedure", "standard procedure", "operating procedure", "emergency procedure"],
+      "examples": [
+        {
+          "scene": "在一家医院的手术室，医生和护士正在为一名患者准备手术。手术前，他们必须严格遵守医院的规定，以确保手术安全。",
+          "chineseIdea": "医生和护士需要按照既定的步骤行事，以确保手术顺利进行，没有遗漏任何关键环节。",
+          "sentenceWithBlank": "Before the surgery, the medical team must @ @ @ to ensure patient safety.",
+          "fullEnglishSentence": "Before the surgery, the medical team must 「follow a procedure」 to ensure patient safety.",
+          "chineseTranslation": "在手术前，医疗团队必须「遵循一套流程」以确保患者安全。",
+          "chinglishFix": "中式英语：'do the steps' 或 'make the procedure' → 纠正：'follow a procedure' 或 'adhere to the protocol'，因为英语中表示遵守流程常用 'follow' 或 'adhere to'，而非 'do' 或 'make'。"
+        },
+        {
+          "scene": "在一所大学，学生需要申请奖学金。学校有一个明确的申请流程，学生必须按照步骤提交材料。",
+          "chineseIdea": "学生需要按照学校规定的正式步骤提交申请，以确保申请被正确处理。",
+          "sentenceWithBlank": "To apply for the scholarship, students must adhere to the @ @.",
+          "fullEnglishSentence": "To apply for the scholarship, students must adhere to the 「standard procedure」.",
+          "chineseTranslation": "要申请奖学金，学生必须遵守「标准流程」。",
+          "chinglishFix": "中式英语：'finish the procedure' 或 'do the procedure' → 纠正：'follow the standard procedure' 或 'comply with the standard procedure'，因为英语中表示按流程行事常用 'follow' 或 'comply with'，而非 'finish' 或 'do'。"
+        }
+      ]
+    },
+    {
+      "meaning": "程序或方法，指完成某项任务或操作的具体步骤，通常用于技术或日常操作场景",
+      "usage": "指具体的操作步骤或方法，常用于描述技术性或日常任务的执行方式，强调实际操作。",
+      "collocations": ["adopt a procedure", "simplify a procedure", "establish a procedure", "routine procedure"],
+      "examples": [
+        {
+          "scene": "在一间工厂，工程师们正在优化生产线。他们决定引入一种新的方法来提高效率。",
+          "chineseIdea": "工程师们希望通过引入新的操作步骤来加快生产速度，同时保持产品质量。",
+          "sentenceWithBlank": "To improve efficiency, the factory decided to @ @ @ for the assembly line.",
+          "fullEnglishSentence": "To improve efficiency, the factory decided to 「adopt a procedure」 for the assembly line.",
+          "chineseTranslation": "为了提高效率，工厂决定为生产线「采用一种流程」。",
+          "chinglishFix": "中式英语：'use a procedure' 或 'take a procedure' → 纠正：'adopt a procedure' 或 'implement a procedure'，因为英语中表示引入新方法常用 'adopt' 或 'implement'，而非 'use' 或 'take'。"
+        },
+        {
+          "scene": "在一个软件开发团队，程序员需要定期备份数据。他们制定了一个简单的方法来确保数据安全。",
+          "chineseIdea": "团队希望通过一个固定的步骤来保护数据，避免意外丢失。",
+          "sentenceWithBlank": "To prevent data loss, the team created a @ @ for backups.",
+          "fullEnglishSentence": "To prevent data loss, the team created a 「routine procedure」 for backups.",
+          "chineseTranslation": "为了防止数据丢失，团队为备份创建了一个「常规流程」。",
+          "chinglishFix": "中式英语：'make a procedure' 或 'build a procedure' → 纠正：'establish a procedure' 或 'create a procedure'，因为英语中表示制定流程常用 'establish' 或 'create'，而非 'make' 或 'build'。"
+        }
+      ]
+    }
+  ]
+}
+```

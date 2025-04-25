@@ -1,0 +1,76 @@
+```json
+{
+  "word": "profound",
+  "definitions": [
+    {
+      "meaning": "深刻的，深远的（指思想、感情、影响等具有深层意义或重要性）",
+      "usage": "通常用来形容抽象概念，如思想、影响、变化或感情，表示其深邃、重要或意义深远。常用于正式或书面语境，也可用于表达强烈的情感或洞察力。",
+      "collocations": ["profound impact", "profound effect", "profound influence", "profound change"],
+      "examples": [
+        {
+          "scene": "一位年轻人在阅读一本关于哲学的书籍后，感受到书中思想的深邃，彻底改变了自己对生活的看法。",
+          "chineseIdea": "年轻人被书中的哲学思想震撼，觉得这些思想不仅深奥，还对自己的人生观产生了深远的影响。",
+          "sentenceWithBlank": "The book’s ideas had a @ @ on his perspective, reshaping how he viewed life.",
+          "fullEnglishSentence": "The book’s ideas had a 「profound impact」 on his perspective, reshaping how he viewed life.",
+          "chineseTranslation": "这本书的思想对他的观点产生了「深远的影响」，重塑了他对生活的看法。",
+          "chinglishFix": "典型中式英语：'The book gave him a deep influence.' 纠正：'Deep influence' 不自然，应改为 'profound impact' 或 'significant influence'，因为 'influence' 搭配 'profound' 时更常见，且 'profound impact' 是固定表达。"
+        },
+        {
+          "scene": "一家公司在经历重大技术革新后，市场竞争力显著提升，行业专家认为这一变化意义重大。",
+          "chineseIdea": "公司的技术革新带来了巨大的变化，不仅提升了效率，还对整个行业产生了深远的影响。",
+          "sentenceWithBlank": "The company’s innovation led to a @ @ in its market position.",
+          "fullEnglishSentence": "The company’s innovation led to a 「profound change」 in its market position.",
+          "chineseTranslation": "公司的创新导致了其市场地位的「深远变化」。",
+          "chinglishFix": "典型中式英语：'The company had a deep change.' 纠正：'Deep change' 不地道，'profound change' 是更自然的搭配，强调变化的深远意义。"
+        }
+      ]
+    },
+    {
+      "meaning": "极度的，强烈的（指情感、状态等达到极高的程度）",
+      "usage": "用于描述情感、状态或体验的强度，表示极度或非常，常用于表达深刻的感受，如悲伤、喜悦或敬佩等。常见于文学性或情感丰富的语境。",
+      "collocations": ["profound sadness", "profound gratitude", "profound respect"],
+      "examples": [
+        {
+          "scene": "一位母亲在失去亲人后，长时间沉浸在深深的悲伤中，周围的人都能感受到她的痛苦。",
+          "chineseIdea": "母亲的悲伤非常深重，几乎无法用语言表达，给人一种强烈的情感冲击。",
+          "sentenceWithBlank": "After her loss, she was overwhelmed by a @ @ that lingered for months.",
+          "fullEnglishSentence": "After her loss, she was overwhelmed by a 「profound sadness」 that lingered for months.",
+          "chineseTranslation": "在失去亲人后，她被一种「深切的悲伤」淹没，持续了数月。",
+          "chinglishFix": "典型中式英语：'She had a deep sadness.' 纠正：'Deep sadness' 虽然可理解，但 'profound sadness' 更能传达强烈的情感，且是更地道的搭配。"
+        },
+        {
+          "scene": "一位学生在毕业典礼上向老师致谢，表达对老师多年教导的深深感激。",
+          "chineseIdea": "学生内心充满了对老师的感激之情，觉得老师的教诲对自己的人生意义重大。",
+          "sentenceWithBlank": "She expressed @ @ for her teacher’s guidance over the years.",
+          "fullEnglishSentence": "She expressed 「profound gratitude」 for her teacher’s guidance over the years.",
+          "chineseTranslation": "她表达了对老师多年指导的「深深的感恩」。",
+          "chinglishFix": "典型中式英语：'She felt very thankful to her teacher.' 纠正：'Very thankful' 显得平淡，'profound gratitude' 更能表达强烈的情感，且搭配更自然。"
+        }
+      ]
+    },
+    {
+      "meaning": "渊博的，深奥的（指知识、见解等具有很高的深度或复杂性）",
+      "usage": "用于描述知识、见解或学术内容，表示其深奥或需要深入理解。常用于学术、哲学或专业领域，带有敬佩或正式的语气。",
+      "collocations": ["profound knowledge", "profound understanding", "profound insight"],
+      "examples": [
+        {
+          "scene": "一位历史学家在讲座中分享了自己对古代文明的深入研究，听众被他的学识所折服。",
+          "chineseIdea": "历史学家的研究非常深入，他的知识广博且见解独到，让人印象深刻。",
+          "sentenceWithBlank": "The historian demonstrated a @ @ of ancient civilizations during his lecture.",
+          "fullEnglishSentence": "The historian demonstrated a 「profound knowledge」 of ancient civilizations during his lecture.",
+          "chineseTranslation": "这位历史学家在讲座中展示了对古代文明的「渊博知识」。",
+          "chinglishFix": "典型中式英语：'He has deep knowledge.' 纠正：'Deep knowledge' 可接受，但 'profound knowledge' 更正式，强调知识的深度和广度。"
+        },
+        {
+          "scene": "一位工程师在解决复杂的技术问题时，展现了深入的理解，团队成员都非常佩服。",
+          "chineseIdea": "工程师对技术细节的掌握非常深入，他的见解帮助团队攻克了难题。",
+          "sentenceWithBlank": "His @ @ of the system’s mechanics helped solve the issue.",
+          "fullEnglishSentence": "His 「profound understanding」 of the system’s mechanics helped solve the issue.",
+          "chineseTranslation": "他对系统机制的「深入理解」帮助解决了问题。",
+          "chinglishFix": "典型中式英语：'He knows the system very deeply.' 纠正：'Know deeply' 不自然，'profound understanding' 是更地道的表达，强调深入的领悟。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "provoke",
+  "definitions": [
+    {
+      "meaning": "引起或激发（强烈的情绪、反应或行为，通常是负面的，如愤怒、争论等）",
+      "usage": "常用于描述某人或某事通过言语、行为或事件引发他人的强烈情感或反应，特别是在争议或冲突的情境中。",
+      "collocations": ["provoke a reaction", "provoke anger", "provoke a debate"],
+      "examples": [
+        {
+          "scene": "在一场公司会议上，经理批评员工的工作表现，语气尖锐，导致员工情绪激动。",
+          "chineseIdea": "经理的批评让员工感到愤怒，引发了激烈的回应。",
+          "sentenceWithBlank": "The manager’s harsh words @ @ @ from the team.",
+          "fullEnglishSentence": "The manager’s harsh words 「provoked a reaction」 from the team.",
+          "chineseTranslation": "经理尖锐的话语「引发了团队的反应」。",
+          "chinglishFix": "典型中式英语：'His words made the team angry.' 纠正：'His words provoked anger in the team.'（避免直接用'make'，用更精确的'provoke'来表达引发强烈情绪。）"
+        },
+        {
+          "scene": "在一场电视辩论中，候选人故意提出争议性观点，试图激怒对手。",
+          "chineseIdea": "候选人的言论是为了让对手失去冷静，表现出愤怒。",
+          "sentenceWithBlank": "The candidate’s remarks were designed to @ @ from her opponent.",
+          "fullEnglishSentence": "The candidate’s remarks were designed to 「provoke anger」 from her opponent.",
+          "chineseTranslation": "候选人的言论旨在「激起对手的愤怒」。",
+          "chinglishFix": "典型中式英语：'She wanted to make her opponent angry.' 纠正：'She aimed to provoke anger in her opponent.'（'make'显得笼统，'provoke'更能体现故意激发的含义。）"
+        }
+      ]
+    },
+    {
+      "meaning": "激起或引发（某种行动、事件或状态，通常是中性或正面的，如思考、兴趣等）",
+      "usage": "用于描述某事或某人引发某种行动、兴趣或思考，强调引起某种状态或过程的开始。",
+      "collocations": ["provoke thought", "provoke interest", "provoke discussion"],
+      "examples": [
+        {
+          "scene": "在一堂哲学课上，老师提出一个关于生命意义的问题，促使学生深入思考。",
+          "chineseIdea": "老师的问题让学生开始反思自己的价值观和人生目标。",
+          "sentenceWithBlank": "The teacher’s question was meant to @ @ among the students.",
+          "fullEnglishSentence": "The teacher’s question was meant to 「provoke thought」 among the students.",
+          "chineseTranslation": "老师的问题旨在「激发学生思考」。",
+          "chinglishFix": "典型中式英语：'The question made students think.' 纠正：'The question provoked thought among students.'（'provoke thought'更能体现激发深层思考的含义。）"
+        },
+        {
+          "scene": "一篇关于气候变化的文章在社交媒体上引发了广泛的讨论。",
+          "chineseIdea": "文章的内容让人们开始关注环保问题并展开热烈讨论。",
+          "sentenceWithBlank": "The article on climate change @ @ on social media.",
+          "fullEnglishSentence": "The article on climate change 「provoked discussion」 on social media.",
+          "chineseTranslation": "关于气候变化的文章在社交媒体上「引发了讨论」。",
+          "chinglishFix": "典型中式英语：'The article caused people to discuss.' 纠正：'The article provoked discussion among people.'（'provoke discussion'更自然，符合英语表达习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```

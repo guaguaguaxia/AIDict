@@ -1,0 +1,53 @@
+```json
+{
+  "word": "poison",
+  "definitions": [
+    {
+      "meaning": "A substance that causes harm or death when ingested, inhaled, or absorbed",
+      "usage": "Used as a noun to refer to a toxic substance or as a verb to describe the act of administering such a substance.",
+      "collocations": ["deadly poison", "rat poison", "poison ivy"],
+      "examples": [
+        {
+          "scene": "在一个古老的村庄里，村民们发现他们的水井被污染了，怀疑有人恶意投毒。",
+          "chineseIdea": "描述一种致命物质被故意放入水中，威胁生命。",
+          "sentenceWithBlank": "The villagers were terrified when they found @ @ in their drinking water.",
+          "fullEnglishSentence": "The villagers were terrified when they found 「deadly poison」 in their drinking water.",
+          "chineseTranslation": "村民们发现饮用水中被放入「致命毒药」时非常恐惧。",
+          "chinglishFix": "Chinglish: 'The water has poison medicine.' Correct: 'The water has been poisoned.'"
+        },
+        {
+          "scene": "在一个家庭的厨房里，妈妈正在清理储藏室，警告孩子不要触碰某些化学物品。",
+          "chineseIdea": "提醒孩子远离专门用来消灭害虫的毒物。",
+          "sentenceWithBlank": "Mom warned Sleeping warned the kids to stay away from the @ @ on the shelf.",
+          "fullEnglishSentence": "Mom warned the kids to stay away from the 「rat poison」 on the shelf.",
+          "chineseTranslation": "妈妈警告孩子们远离架子上的「老鼠药」。",
+          "chinglishFix": "Chinglish: 'Don’t touch the medicine for rats.' Correct: 'Don’t touch the rat poison.'"
+        }
+      ]
+    },
+    {
+      "meaning": "Something that has a harmful or corrupting effect",
+      "usage": "Used metaphorically as a noun or verb to describe something that negatively influences or damages.",
+      "collocations": ["poison the mind", "poison the atmosphere", "poison someone’s thoughts"],
+      "examples": [
+        {
+          "scene": "在一所学校里，老师发现学生们因为网络上的谣言开始互相猜忌。",
+          "chineseIdea": "描述谣言如何破坏学生之间的信任。",
+          "sentenceWithBlank": "The teacher warned that gossip could @ @ @ among students.",
+          "fullEnglishSentence": "The teacher warned that gossip could 「poison the atmosphere」 among students.",
+          "chineseTranslation": "老师警告说，闲言碎语可能会「毒害学生之间的气氛」。",
+          "chinglishFix": "Chinglish: 'Gossip makes the air bad.' Correct: 'Gossip can poison the atmosphere.'"
+        },
+        {
+          "scene": "在一个团队会议中，经理试图解决员工之间的负面情绪。",
+          "chineseIdea": "描述消极的态度如何影响团队合作。",
+          "sentenceWithBlank": "The manager urged the team to stop letting negativity @ @ @.",
+          "fullEnglishSentence": "The manager urged the team to stop letting negativity 「poison their thoughts」.",
+          "chineseTranslation": "经理敦促团队停止让消极情绪「毒害他们的思想」。",
+          "chinglishFix": "Chinglish: 'Don’t let bad ideas hurt your mind.' Correct: 'Don’t let negativity poison your thoughts.'"
+        }
+      ]
+    }
+  ]
+}
+```

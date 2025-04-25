@@ -1,0 +1,53 @@
+```json
+{
+  "word": "opponent",
+  "definitions": [
+    {
+      "meaning": "在竞争、比赛或冲突中的对立方",
+      "usage": "指在体育比赛、辩论、选举或其他竞争性活动中与你对抗的人或团队。",
+      "collocations": ["formidable opponent", "defeat an opponent", "face an opponent"],
+      "examples": [
+        {
+          "scene": "在一场激烈的篮球比赛中，两支队伍正在争夺冠军，比赛已经进入最后几秒，双方比分非常接近。",
+          "chineseIdea": "描述一个在比赛中非常强大的对立方，强调他们的实力让比赛变得艰难。",
+          "sentenceWithBlank": "The team struggled to score against their @ @ in the final moments.",
+          "fullEnglishSentence": "The team struggled to score against their 「formidable opponent」 in the final moments.",
+          "chineseTranslation": "球队在最后时刻难以对他们的「强大对手」得分。",
+          "chinglishFix": "典型中式英语：'The team was hard to win the strong enemy.' 纠正：'The team struggled to score against their formidable opponent.'（避免用'enemy'，因为它更常用于战争或敌对关系，而非比赛。）"
+        },
+        {
+          "scene": "在一场国际象棋锦标赛中，一位年轻选手面对一位经验丰富的棋手，比赛异常激烈。",
+          "chineseIdea": "描述如何在比赛中击败对立方，突出策略和努力的重要性。",
+          "sentenceWithBlank": "With careful planning, she managed to @ @ @ in the chess match.",
+          "fullEnglishSentence": "With careful planning, she managed to 「defeat an opponent」 in the chess match.",
+          "chineseTranslation": "通过精心策划，她在象棋比赛中成功「击败了对手」。",
+          "chinglishFix": "典型中式英语：'She won the opponent with plans.' 纠正：'She managed to defeat an opponent with careful planning.'（'won'通常不直接搭配'opponent'，且句子结构需更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在观点或政治立场上的反对者",
+      "usage": "指在辩论、讨论或政治活动中持有相反观点或立场的人。",
+      "collocations": ["political opponent", "challenge an opponent", "criticize an opponent"],
+      "examples": [
+        {
+          "scene": "在一场关于环境保护的公开辩论中，双方针对是否限制工业排放展开激烈争论。",
+          "chineseIdea": "描述一个在政治或政策讨论中持相反立场的人，强调辩论的激烈性。",
+          "sentenceWithBlank": "During the debate, she sharply criticized her @ @ for ignoring scientific evidence.",
+          "fullEnglishSentence": "During the debate, she sharply criticized her 「political opponent」 for ignoring scientific evidence.",
+          "chineseTranslation": "在辩论中，她尖锐地批评她的「政治对手」忽视科学证据。",
+          "chinglishFix": "典型中式英语：'She attacked her debate enemy.' 纠正：'She sharply criticized her political opponent.'（'enemy'过于强烈，'political opponent'更适合正式辩论场景。）"
+        },
+        {
+          "scene": "在一次地方选举中，候选人试图通过提出更好的政策来赢得选民支持。",
+          "chineseIdea": "描述如何通过提出更具说服力的论点来挑战对立方，突出竞争的策略性。",
+          "sentenceWithBlank": "He tried to @ @ @ by presenting a more practical economic plan.",
+          "fullEnglishSentence": "He tried to 「challenge an opponent」 by presenting a more practical economic plan.",
+          "chineseTranslation": "他通过提出更实际的经济计划来「挑战对手」。",
+          "chinglishFix": "典型中式英语：'He fighted with the opponent by plans.' 纠正：'He challenged an opponent by presenting a practical plan.'（'fighted'是错误形式，且'challenge'更适合此语境。）"
+        }
+      ]
+    }
+  ]
+}
+```
