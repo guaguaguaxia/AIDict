@@ -1,0 +1,53 @@
+```json
+{
+  "word": "access",
+  "definitions": [
+    {
+      "meaning": "进入或使用的权利或机会",
+      "usage": "指获得进入某地、获取信息、使用资源或接近某人的权限，常用于描述物理或抽象的通道。",
+      "collocations": ["gain access to", "have access to", "restrict access to"],
+      "examples": [
+        {
+          "scene": "在一个科技公司中，员工需要使用内部数据库来完成项目分析。数据库受到权限保护，只有特定团队成员可以进入。",
+          "chineseIdea": "员工需要获得进入数据库的权限，以便查看和使用其中的数据。",
+          "sentenceWithBlank": "Only authorized personnel can @ @ @ the company’s internal database.",
+          "fullEnglishSentence": "Only authorized personnel can 「gain access to」 the company’s internal database.",
+          "chineseTranslation": "只有授权人员才能「获得进入」公司内部数据库的权限。",
+          "chinglishFix": "典型中式英语：'Only authorized people can enter the database.' 纠正：'Enter' 过于强调物理进入，而 'gain access to' 更适合描述获取权限的抽象概念。"
+        },
+        {
+          "scene": "在一所大学里，学生可以通过在线平台查看课程材料，但需要登录账户才能进入系统。",
+          "chineseIdea": "学生需要有权限来使用在线学习平台上的资源。",
+          "sentenceWithBlank": "Students must log in to @ @ @ the online learning platform.",
+          "fullEnglishSentence": "Students must log in to 「have access to」 the online learning platform.",
+          "chineseTranslation": "学生必须登录才能「有权限使用」在线学习平台。",
+          "chinglishFix": "典型中式英语：'Students can use the platform after login.' 纠正：'Use' 显得笼统，'have access to' 更准确地表达获得使用权。"
+        }
+      ]
+    },
+    {
+      "meaning": "进入的通道或途径",
+      "usage": "指物理上进入某地的通道或方式，常用于描述门、入口或路径等具体事物。",
+      "collocations": ["provide access to", "block access to", "easy access to"],
+      "examples": [
+        {
+          "scene": "在一栋办公大楼中，为了方便轮椅使用者，管理方在入口处增设了坡道。",
+          "chineseIdea": "坡道为行动不便的人提供了进入大楼的便利通道。",
+          "sentenceWithBlank": "The new ramp will @ @ @ the main entrance for wheelchair users.",
+          "fullEnglishSentence": "The new ramp will 「provide access to」 the main entrance for wheelchair users.",
+          "chineseTranslation": "新坡道将为轮椅使用者「提供进入」主入口的通道。",
+          "chinglishFix": "典型中式英语：'The ramp helps wheelchair users enter the entrance.' 纠正：'Enter' 过于简单，'provide access to' 更准确地描述通道的提供。"
+        },
+        {
+          "scene": "在一个旅游景点，为了保护生态环境，管理部门限制了部分区域的进入路径。",
+          "chineseIdea": "管理方封锁了某些路径，防止游客进入受保护的区域。",
+          "sentenceWithBlank": "The park authorities have @ @ @ certain trails to protect wildlife.",
+          "fullEnglishSentence": "The park authorities have 「blocked access to」 certain trails to protect wildlife.",
+          "chineseTranslation": "公园管理部门已「封锁进入」某些步道的通道以保护野生动物。",
+          "chinglishFix": "典型中式英语：'The park stops people from going to some trails.' 纠正：'Stop from going' 不够正式，'block access to' 更贴合语境。"
+        }
+      ]
+    }
+  ]
+}
+```
