@@ -1,0 +1,53 @@
+```json
+{
+  "word": "statistics",
+  "definitions": [
+    {
+      "meaning": "The science of collecting, analyzing, interpreting, and presenting numerical data",
+      "usage": "Refers to the academic discipline or field of study involving methods for handling data, often used in research, business, or policy-making.",
+      "collocations": ["collect data", "analyze results", "interpret findings"],
+      "examples": [
+        {
+          "scene": "一个市场研究团队在分析消费者行为，他们需要处理大量的问卷调查数据。",
+          "chineseIdea": "团队需要从问卷中整理出有用的信息，比如消费者的购买习惯。",
+          "sentenceWithBlank": "The team worked hard to @ @ from the surveys to understand customer preferences.",
+          "fullEnglishSentence": "The team worked hard to 「collect data」 from the surveys to understand customer preferences.",
+          "chineseTranslation": "团队努力从调查中「收集数据」以了解客户偏好。",
+          "chinglishFix": "Chinglish: 'They want to get data from surveys.' Correct: 'They aim to 「collect data」 from surveys.'"
+        },
+        {
+          "scene": "一位科学家在实验室中完成实验后，需要对实验结果进行深入研究。",
+          "chineseIdea": "科学家希望通过数据分析找出实验的关键结论。",
+          "sentenceWithBlank": "After the experiment, she used software to @ @ to identify key trends.",
+          "fullEnglishSentence": "After the experiment, she used software to 「analyze results」 to identify key trends.",
+          "chineseTranslation": "实验后，她使用软件「分析结果」以识别关键趋势。",
+          "chinglishFix": "Chinglish: 'She checked the experiment’s data.' Correct: 'She 「analyzed results」 from the experiment.'"
+        }
+      ]
+    },
+    {
+      "meaning": "Numerical data or figures that represent information",
+      "usage": "Refers to the actual numbers or data sets themselves, often presented as results or summaries in reports or discussions.",
+      "collocations": ["provide figures", "report numbers", "publish data"],
+      "examples": [
+        {
+          "scene": "一个政府部门发布了一份关于全国人口增长的年度报告。",
+          "chineseIdea": "报告中需要展示具体的数字来说明人口变化的趋势。",
+          "sentenceWithBlank": "The annual report was released to @ @ on population growth.",
+          "fullEnglishSentence": "The annual report was released to 「provide figures」 on population growth.",
+          "chineseTranslation": "年度报告发布以「提供数据」说明人口增长情况。",
+          "chinglishFix": "Chinglish: 'The report gives population data.' Correct: 'The report 「provides figures」 on population growth.'"
+        },
+        {
+          "scene": "一家公司在年度股东大会上分享了去年的销售业绩。",
+          "chineseIdea": "公司希望通过具体的销售数字让股东了解业绩表现。",
+          "sentenceWithBlank": "During the meeting, the CEO presented slides to @ @ on sales performance.",
+          "fullEnglishSentence": "During the meeting, the CEO presented slides to 「report numbers」 on sales performance.",
+          "chineseTranslation": "在会议中，首席执行官展示了幻灯片以「报告数字」说明销售业绩。",
+          "chinglishFix": "Chinglish: 'The CEO showed sales data.' Correct: 'The CEO 「reported numbers」 on sales performance.'"
+        }
+      ]
+    }
+  ]
+}
+```

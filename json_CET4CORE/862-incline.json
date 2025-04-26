@@ -1,0 +1,53 @@
+```json
+{
+  "word": "incline",
+  "definitions": [
+    {
+      "meaning": "倾斜，坡度（指物理上的斜面或倾斜）",
+      "usage": "用作名词，表示一个物理上的斜面或坡度，常用于描述地形、道路或物体的倾斜表面。",
+      "collocations": ["steep incline", "gentle incline", "climb an incline"],
+      "examples": [
+        {
+          "scene": "你正在一个风景优美的山区徒步，前面出现了一段上坡路，坡度很陡，需要你小心攀登。",
+          "chineseIdea": "描述一个需要努力爬上去的陡峭斜坡，强调地形的挑战性。",
+          "sentenceWithBlank": "The hikers struggled to ascend the @ @.",
+          "fullEnglishSentence": "The hikers struggled to ascend the 「steep incline」.",
+          "chineseTranslation": "徒步者们努力攀登「陡峭的斜坡」。",
+          "chinglishFix": "中式英语：'The hikers climbed the very slant hill.' 纠正：'Slant'不常用于描述坡度，改为'incline'或'slope'，如'The hikers climbed the steep incline.'"
+        },
+        {
+          "scene": "你骑自行车在一个公园里，前面是一段平缓的上坡路，骑起来需要一些力气但不困难。",
+          "chineseIdea": "描述一个不那么陡的斜坡，适合轻松的户外活动。",
+          "sentenceWithBlank": "She enjoyed cycling up the @ @ with ease.",
+          "fullEnglishSentence": "She enjoyed cycling up the 「gentle incline」 with ease.",
+          "chineseTranslation": "她轻松地骑车上了「平缓的斜坡」。",
+          "chinglishFix": "中式英语：'She rode the bike on the soft hill.' 纠正：'Soft 纠正：'Soft'不适合描述坡度，改为'gentle incline'，如'She rode up the gentle incline.'"
+        }
+      ]
+    },
+    {
+      "meaning": "倾向于，倾向（指心理或行为的倾向）",
+      "usage": "用作动词，表示某人倾向于做某事或持某种观点，通常描述一种倾向或偏好。",
+      "collocations": ["incline to agree", "incline toward a decision", "incline to believe"],
+      "examples": [
+        {
+          "scene": "你在和朋友讨论一部新上映的电影，朋友提出了一个观点，你部分同意但还有些保留。",
+          "chineseIdea": "表达一种部分认同但还未完全确定的态度。",
+          "sentenceWithBlank": "After hearing her argument, I @ @ @ with her.",
+          "fullEnglishSentence": "After hearing her argument, I 「incline to agree」 with her.",
+          "chineseTranslation": "在听完她的论点后，我「倾向于同意」她。",
+          "chinglishFix": "中式英语：'I more agree with her.' 纠正：'More agree'不自然，改为'incline to agree'，如'I incline to agree with her.'"
+        },
+        {
+          "scene": "你正在公司会议上讨论一个新项目的方向，团队在两个方案之间犹豫，你更偏向于其中一个。",
+          "chineseIdea": "表达在决策中更倾向于某个选项，但还未最终决定。",
+          "sentenceWithBlank": "Based on the data, I @ @ @ the new strategy.",
+          "fullEnglishSentence": "Based on the data, I 「incline toward a decision」 on the new strategy.",
+          "chineseTranslation": "基于数据，我「倾向于决定」采用新策略。",
+          "chinglishFix": "中式英语：'I prefer to choose the new strategy.' 纠正：'Prefer to choose'显得过于直接，改为'incline toward'，如'I incline toward a decision on the new strategy.'"
+        }
+      ]
+    }
+  ]
+}
+```

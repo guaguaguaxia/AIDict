@@ -1,0 +1,53 @@
+```json
+{
+  "word": "identity",
+  "definitions": [
+    {
+      "meaning": "一个人或群体的独特特征或个性，表明其独特性",
+      "usage": "指一个人、群体或事物因其特有的特征而被识别，常用于描述个人特质、文化背景或社会角色。",
+      "collocations": ["sense of identity", "cultural identity", "national identity"],
+      "examples": [
+        {
+          "scene": "一个年轻的中国留学生在国外大学参加文化节，面对来自不同国家的同学，她开始思考自己的根源和归属感。",
+          "chineseIdea": "她想表达自己对中国文化的认同，同时也在适应新的环境，找到自己在多元文化中的位置。",
+          "sentenceWithBlank": "Living abroad has strengthened her @ @ @.",
+          "fullEnglishSentence": "Living abroad has strengthened her 「sense of identity」.",
+          "chineseTranslation": "在国外生活增强了她的「身份认同感」。",
+          "chinglishFix": "典型中式英语：'She feels her identity stronger.' 纠正：'She has developed a stronger sense of identity.'（避免直接用'stronger'修饰抽象名词，改用搭配'sense of identity'更自然。）"
+        },
+        {
+          "scene": "一位设计师在国际会议上展示作品，强调作品灵感来源于自己国家的传统艺术。",
+          "chineseIdea": "他想说明自己的创作深受文化背景的影响，体现其独特的设计风格。",
+          "sentenceWithBlank": "His designs reflect a strong @ @.",
+          "fullEnglishSentence": "His designs reflect a strong 「cultural identity」.",
+          "chineseTranslation": "他的设计反映了强烈的「文化认同」。",
+          "chinglishFix": "典型中式英语：'His designs show his culture.' 纠正：'His designs reflect his cultural identity.'（避免笼统用'show'或'culture'，使用'reflect'和'cultural identity'更精确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "身份，即一个人在法律或社会环境中的正式名称或角色",
+      "usage": "指个人在法律、行政或社会背景下的正式身份标识，如姓名、国籍或证件信息，常用于正式场合或安全检查。",
+      "collocations": ["proof of identity", "verify identity", "false identity"],
+      "examples": [
+        {
+          "scene": "在机场安检时，旅客需要出示护照以确认自己的身份。",
+          "chineseIdea": "旅客需要提供官方文件来证明自己是谁，以通过安检。",
+          "sentenceWithBlank": "Please show your passport as @ @ @.",
+          "fullEnglishSentence": "Please show your passport as 「proof of identity」.",
+          "chineseTranslation": "请出示您的护照作为「身份证明」。",
+          "chinglishFix": "典型中式英语：'Show your ID card to prove who you are.' 纠正：'Please provide proof of identity.'（'prove who you are'显得冗长，'proof of identity'是固定搭配，更简洁。）"
+        },
+        {
+          "scene": "一个新员工在公司入职时，需要提交个人信息以便公司确认其身份。",
+          "chineseIdea": "公司需要核实员工的身份信息，确保其背景真实。",
+          "sentenceWithBlank": "The HR department will @ @ before hiring.",
+          "fullEnglishSentence": "The HR department will 「verify identity」 before hiring.",
+          "chineseTranslation": "人力资源部门将在招聘前「核实身份」。",
+          "chinglishFix": "典型中式英语：'HR will check your identity.' 纠正：'HR will verify your identity.'（'check'较为口语化，'verify'更适合正式场景。）"
+        }
+      ]
+    }
+  ]
+}
+```

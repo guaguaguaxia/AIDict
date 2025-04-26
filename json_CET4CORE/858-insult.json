@@ -1,0 +1,53 @@
+```json
+{
+  "word": "insult",
+  "definitions": [
+    {
+      "meaning": "言语或行为上对某人的冒犯或侮辱",
+      "usage": "用作动词或名词，表示通过言语或行动故意贬低、冒犯或伤害某人的感情。常用于描述对某人尊严或自尊的攻击。",
+      "collocations": ["hurl an insult", "take as an insult", "personal insult"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，同事们正在讨论项目进展。张伟提出一个新想法，但李明用尖刻的语言公开嘲笑这个想法，让张伟感到非常尴尬。",
+          "chineseIdea": "张伟觉得自己的努力被无视，甚至被公开羞辱，内心感到受伤。",
+          "sentenceWithBlank": "During the meeting, Li Ming @ @ @ at Wei's idea, making him feel humiliated.",
+          "fullEnglishSentence": "During the meeting, Li Ming 「hurled an insult」 at Wei's idea, making him feel humiliated.",
+          "chineseTranslation": "在会议中，李明对伟的想法「投掷侮辱」，让伟感到羞辱。",
+          "chinglishFix": "典型中式英语：'He say bad words to Wei's idea.' 纠正：'He hurled an insult at Wei's idea.'（避免直接翻译为‘说坏话’，用更自然的搭配‘hurl an insult’）"
+        },
+        {
+          "scene": "在学校操场上，小明因为跑得慢被同学取笑。小明试图无视这些评论，但内心却感到这些话很伤人。",
+          "chineseIdea": "小明认为这些嘲笑是针对他个人的攻击，让他感到自尊受损。",
+          "sentenceWithBlank": "Xiao Ming tried to ignore the comments, but he couldn’t help but @ @ @ @.",
+          "fullEnglishSentence": "Xiao Ming tried to ignore the comments, but he couldn’t help but 「take them as an insult」.",
+          "chineseTranslation": "小明试图无视那些评论，但他忍不住「将它们视为侮辱」。",
+          "chinglishFix": "典型中式英语：'He think these words are bad to him.' 纠正：'He took them as an insult.'（避免模糊的‘觉得这些话对他不好’，用‘take as an insult’更精确）"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物的不尊重或轻视",
+      "usage": "用作名词，表示对某事物（如传统、价值观等）的轻视或不敬行为，强调对重要事物的冒犯。",
+      "collocations": ["gross insult", "cultural insult", "direct insult"],
+      "examples": [
+        {
+          "scene": "在一个传统节日庆典中，外籍游客小杰无意中穿着随意，违反了当地的着装礼仪，引起了村民的不满。",
+          "chineseIdea": "村民认为小杰的行为是对他们文化的不尊重，感到被冒犯。",
+          "sentenceWithBlank": "The villagers saw Jie’s casual clothing as a @ @ to their traditions.",
+          "fullEnglishSentence": "The villagers saw Jie’s casual clothing as a 「gross insult」 to their traditions.",
+          "chineseTranslation": "村民们认为杰的随意着装是对他们传统的「严重侮辱」。",
+          "chinglishFix": "典型中式英语：'His clothes not respect their tradition.' 纠正：'His clothing was seen as a gross insult to their traditions.'（避免‘不尊重’的直译，用‘gross insult’表达严重性）"
+        },
+        {
+          "scene": "在一场国际会议中，某国代表无视主办国的礼仪，直接打断发言，被认为是对会议规则的冒犯。",
+          "chineseIdea": "主办方觉得这种行为是对他们组织权威的直接挑战。",
+          "sentenceWithBlank": "Interrupting the speaker was considered a @ @ to the conference protocol.",
+          "fullEnglishSentence": "Interrupting the speaker was considered a 「direct insult」 to the conference protocol.",
+          "chineseTranslation": "打断发言者被视为对会议规则的「直接侮辱」。",
+          "chinglishFix": "典型中式英语：'He break the rule not polite.' 纠正：'His interruption was a direct insult to the protocol.'（避免‘不礼貌’的笼统表达，用‘direct insult’更贴合语境）"
+        }
+      ]
+    }
+  ]
+}
+```

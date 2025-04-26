@@ -1,0 +1,53 @@
+```json
+{
+  "word": "engine",
+  "definitions": [
+    {
+      "meaning": "机械装置，尤其是为车辆或机器提供动力的装置",
+      "usage": "指内燃机、电动机或其他动力装置，通常用于驱动汽车、飞机、船只等交通工具或运行机械设备。",
+      "collocations": ["start the engine", "car engine", "jet engine", "engine failure"],
+      "examples": [
+        {
+          "scene": "小明开着他新买的汽车去兜风，阳光洒在车窗上，微风轻轻吹过。他按下启动按钮，听到机械运转的声音，感到非常兴奋。",
+          "chineseIdea": "小明想要启动汽车的动力装置，让车子开始行驶，体验驾驶的乐趣。",
+          "sentenceWithBlank": "He pressed the button to @ @ @ and felt the car come to life.",
+          "fullEnglishSentence": "He pressed the button to 「start the engine」 and felt the car come to life.",
+          "chineseTranslation": "他按下按钮「启动引擎」，感觉车子活了过来。",
+          "chinglishFix": "中式英语：He opened the engine. 纠正：'Open' 不用于启动引擎，正确表达是 'start the engine' 或 'turn on the engine'。"
+        },
+        {
+          "scene": "老王是一名汽车修理工，正在修理一辆客户的轿车。他打开引擎盖，发现动力装置内部有些零件需要更换。",
+          "chineseIdea": "老王需要检查汽车的动力装置，找出问题并进行维修。",
+          "sentenceWithBlank": "He inspected the @ @ to diagnose the issue.",
+          "fullEnglishSentence": "He inspected the 「car engine」 to diagnose the issue.",
+          "chineseTranslation": "他检查了「汽车引擎」，以诊断问题。",
+          "chinglishFix": "中式英语：He checked the machine of the car. 纠正：'Machine' 过于笼统，正确表达是 'car engine'。"
+        }
+      ]
+    },
+    {
+      "meaning": "推动或驱动某事发展的关键因素或工具",
+      "usage": "比喻用法，指推动某事物（如经济、项目、活动等）发展的核心力量或机制。",
+      "collocations": ["economic engine", "growth engine", "innovation engine"],
+      "examples": [
+        {
+          "scene": "在一场关于城市发展的会议上，市长提到科技产业是推动经济增长的重要力量，吸引了大量投资和人才。",
+          "chineseIdea": "市长想表达科技产业是城市经济发展的核心驱动力。",
+          "sentenceWithBlank": "The mayor highlighted technology as the @ @ of the city.",
+          "fullEnglishSentence": "The mayor highlighted technology as the 「economic engine」 of the city.",
+          "chineseTranslation": "市长强调科技是城市的「经济引擎」。",
+          "chinglishFix": "中式英语：Technology is the power of economy. 纠正：'Power' 过于模糊，正确表达是 'economic engine'。"
+        },
+        {
+          "scene": "一家初创公司正在向投资者展示他们的商业计划，强调他们的创新技术将是行业变革的关键。",
+          "chineseIdea": "公司想说明他们的技术是推动行业进步的核心力量。",
+          "sentenceWithBlank": "Our technology will serve as the @ @ for industry transformation.",
+          "fullEnglishSentence": "Our technology will serve as the 「innovation engine」 for industry transformation.",
+          "chineseTranslation": "我们的技术将成为行业转型的「创新引擎」。",
+          "chinglishFix": "中式英语：Our technology will push the industry. 纠正：'Push' 缺乏具体性，正确表达是 'innovation engine'。"
+        }
+      ]
+    }
+  ]
+}
+```
