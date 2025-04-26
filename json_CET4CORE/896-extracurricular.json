@@ -1,0 +1,53 @@
+```json
+{
+  "word": "extracurricular",
+  "definitions": [
+    {
+      "meaning": "与学校课程无关的活动，通常指学生在课外参与的兴趣活动或组织",
+      "usage": "通常作为形容词，用于描述学生在正式课程之外参与的活动，如社团、运动、志愿者工作等，强调个人兴趣发展和综合能力培养。",
+      "collocations": ["extracurricular activities", "extracurricular involvement", "extracurricular programs"],
+      "examples": [
+        {
+          "scene": "一名中国高中生在申请国外大学时，需要列出自己在学校参与的各种兴趣小组和活动，以展示自己的全面发展。",
+          "chineseIdea": "学生想表达自己积极参与学校组织的各种社团活动，比如辩论队和环保俱乐部，以证明自己不仅擅长学习，还有丰富的兴趣爱好。",
+          "sentenceWithBlank": "Participating in @ @ @ helped me develop leadership and teamwork skills.",
+          "fullEnglishSentence": "Participating in 「extracurricular activities」 helped me develop leadership and teamwork skills.",
+          "chineseTranslation": "参与「课外活动」帮助我培养了领导力和团队合作技能。",
+          "chinglishFix": "典型中式英语：'I joined many after-class activities.' 纠正：'I participated in various extracurricular activities.'"
+        },
+        {
+          "scene": "一名大学生在与朋友聊天时，分享自己如何通过加入学校的音乐俱乐部，认识了很多志同道合的朋友。",
+          "chineseIdea": "学生想说明通过课外活动，比如音乐俱乐部，不仅提升了自己的音乐技能，还拓展了社交圈。",
+          "sentenceWithBlank": "My @ @ in the music club allowed me to connect with like-minded people.",
+          "fullEnglishSentence": "My 「extracurricular involvement」 in the music club allowed me to connect with like-minded people.",
+          "chineseTranslation": "我在音乐俱乐部的「课外参与」让我结识了志同道合的人。",
+          "chinglishFix": "典型中式英语：'I entered the music club for my outside study.' 纠正：'I got involved in the music club as an extracurricular activity.'"
+        }
+      ]
+    },
+    {
+      "meaning": "超出常规课程或职责范围的事务，泛指任何额外或非核心的活动",
+      "usage": "较少见，通常用于非教育场景，形容某些超出主要职责或计划的活动或任务，带有附加或非必需的含义。",
+      "collocations": ["extracurricular duties", "extracurricular tasks", "extracurricular commitments"],
+      "examples": [
+        {
+          "scene": "一名公司员工在年终总结时，向领导汇报自己除了本职工作外，还主动参与了公司组织的公益活动。",
+          "chineseIdea": "员工想表达自己愿意承担额外的工作，比如组织公益活动，以展示自己的主动性和责任感。",
+          "sentenceWithBlank": "Taking on @ @ @ like organizing charity events showed my dedication to the company.",
+          "fullEnglishSentence": "Taking on 「extracurricular duties」 like organizing charity events showed my dedication to the company.",
+          "chineseTranslation": "承担「额外职责」如组织慈善活动，展示了我对公司的奉献精神。",
+          "chinglishFix": "典型中式英语：'I did some extra works like charity.' 纠正：'I took on extracurricular duties such as organizing charity events.'"
+        },
+        {
+          "scene": "一名志愿者在社区活动中，向负责人说明自己除了常规任务外，还额外帮助设计了宣传海报。",
+          "chineseIdea": "志愿者想强调自己愿意做超出预期的工作，比如设计宣传材料，以体现自己的多才多艺。",
+          "sentenceWithBlank": "I contributed to the project by taking on @ @ @ such as designing posters.",
+          "fullEnglishSentence": "I contributed to the project by taking on 「extracurricular tasks」 such as designing posters.",
+          "chineseTranslation": "我通过承担「额外任务」如设计海报，为项目做出了贡献。",
+          "chinglishFix": "典型中式英语：'I did some more jobs like posters.' 纠正：'I took on extracurricular tasks like designing posters.'"
+        }
+      ]
+    }
+  ]
+}
+```

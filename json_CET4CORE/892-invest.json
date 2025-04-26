@@ -1,0 +1,53 @@
+```json
+{
+  "word": "invest",
+  "definitions": [
+    {
+      "meaning": "将钱投入金融产品、项目或企业以获取利润",
+      "usage": "通常指将资金投入股票、债券、房地产或企业等，以期获得回报。常见于金融、商业场景。",
+      "collocations": ["invest money", "invest in stocks", "invest in a business"],
+      "examples": [
+        {
+          "scene": "一位年轻的白领在考虑如何利用自己的积蓄。他听说股市可能带来高回报，但也伴随着风险。",
+          "chineseIdea": "他想把自己的钱用在能增值的地方，比如购买股票或基金。",
+          "sentenceWithBlank": "He decided to @ @ in hopes of growing his savings.",
+          "fullEnglishSentence": "He decided to 「invest money」 in hopes of growing his savings.",
+          "chineseTranslation": "他决定「投资资金」以期增加储蓄。",
+          "chinglishFix": "典型中式英语：He wants to put money to stocks. 纠正：He wants to invest money in stocks."
+        },
+        {
+          "scene": "一位创业者正在与朋友讨论一个新项目的融资计划，朋友建议他投资一些热门行业的公司。",
+          "chineseIdea": "他希望通过支持有潜力的企业来获得长期回报。",
+          "sentenceWithBlank": "She advised him to @ @ @ to diversify his portfolio.",
+          "fullEnglishSentence": "She advised him to 「invest in stocks」 to diversify his portfolio.",
+          "chineseTranslation": "她建议他「投资股票」以分散投资组合。",
+          "chinglishFix": "典型中式英语：She said he should buy stocks for money. 纠正：She advised him to invest in stocks."
+        }
+      ]
+    },
+    {
+      "meaning": "投入时间、精力或资源以达成目标或改进某事物",
+      "usage": "指在非金融领域投入资源，如时间、精力或感情，用于学习、关系或项目等，强调长期努力以获得回报。",
+      "collocations": ["invest time", "invest effort", "invest in education"],
+      "examples": [
+        {
+          "scene": "一位大学生正在规划自己的职业发展，他决定报名参加一个编程课程来提升技能。",
+          "chineseIdea": "他认为花时间学习新技能会为未来带来更好的工作机会。",
+          "sentenceWithBlank": "He chose to @ @ in a coding bootcamp to boost his career.",
+          "fullEnglishSentence": "He chose to 「invest time」 in a coding bootcamp to boost his career.",
+          "chineseTranslation": "他选择「投入时间」参加编程训练营以提升职业发展。",
+          "chinglishFix": "典型中式英语：He spends time to learn coding. 纠正：He invests time in learning coding."
+        },
+        {
+          "scene": "一位经理注意到团队士气低落，决定组织培训来提升员工的能力和信心。",
+          "chineseIdea": "她希望通过培训帮助团队成长，从而提高工作效率。",
+          "sentenceWithBlank": "She decided to @ @ @ to improve team performance.",
+          "fullEnglishSentence": "She decided to 「invest in education」 to improve team performance.",
+          "chineseTranslation": "她决定「投资教育」以提高团队表现。",
+          "chinglishFix": "典型中式英语：She gives training to team. 纠正：She invests in education for the team."
+        }
+      ]
+    }
+  ]
+}
+```
