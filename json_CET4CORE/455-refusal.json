@@ -1,0 +1,53 @@
+```json
+{
+  "word": "refusal",
+  "definitions": [
+    {
+      "meaning": "拒绝，不接受某事物或提议",
+      "usage": "指明确表示不愿意接受某项提议、要求或机会，通常用于正式或非正式场合，可能涉及个人决定、社交互动或官方回应。",
+      "collocations": ["flat refusal", "polite refusal", "point-blank refusal"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理提出让小李加班完成一个紧急项目，但小李因为家庭原因无法加班。",
+          "chineseIdea": "小李需要明确但礼貌地表达自己无法接受加班的请求，同时保持职业形象。",
+          "sentenceWithBlank": "Despite the urgency, Li gave a @ @ to the manager’s request.",
+          "fullEnglishSentence": "Despite the urgency, Li gave a 「polite refusal」 to the manager’s request.",
+          "chineseTranslation": "尽管情况紧急，小李对经理的请求给出了「礼貌的拒绝」。",
+          "chinglishFix": "典型中式英语：'I refuse to work overtime politely.' 纠正：'I politely declined to work overtime.'（避免直接使用'refuse'，用'decline'更自然，且注意动词搭配）"
+        },
+        {
+          "scene": "朋友邀请小王周末去爬山，但小王因为已经计划好要复习考试，所以谢绝了邀请。",
+          "chineseIdea": "小王想表达谢意但同时坚定地谢绝邀请，以免朋友觉得被冷落。",
+          "sentenceWithBlank": "Wang offered a @ @ to the hiking invitation, explaining their study plans.",
+          "fullEnglishSentence": "Wang offered a 「flat refusal」 to the hiking invitation, explaining their study plans.",
+          "chineseTranslation": "小王对爬山邀请给出了「断然的拒绝」，并解释了自己的学习计划。",
+          "chinglishFix": "典型中式英语：'I refuse the invitation directly.' 纠正：'I firmly declined the invitation.'（'refuse'显得生硬，'decline'更符合日常用语，且搭配更自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "拒绝给予或提供某物",
+      "usage": "指不愿意提供某人所请求的事物、许可或资源，常用于描述权力或控制的情境，比如法律、行政或个人决定。",
+      "collocations": ["refusal of permission", "refusal of access", "refusal of service"],
+      "examples": [
+        {
+          "scene": "在机场安检处，小张因为未携带有效证件，被安检人员拒绝进入登机区域。",
+          "chineseIdea": "小张面对的是一个正式的决定，安检人员基于规定拒绝了他的请求。",
+          "sentenceWithBlank": "The security officer issued a @ @ @ to Zhang due to invalid documentation.",
+          "fullEnglishSentence": "The security officer issued a 「refusal of access」 to Zhang due to invalid documentation.",
+          "chineseTranslation": "安检人员因证件无效对小张发出了「拒绝进入」的决定。",
+          "chinglishFix": "典型中式英语：'They refuse me to enter.' 纠正：'They denied me access.'（'refuse'不直接接人，'deny access'是更自然的表达）"
+        },
+        {
+          "scene": "在餐厅，一位顾客因未提前预订而被服务员告知无法安排座位。",
+          "chineseIdea": "服务员需要礼貌但坚定地说明餐厅的座位限制，拒绝顾客的请求。",
+          "sentenceWithBlank": "The waiter explained the @ @ @, citing the lack of reservations.",
+          "fullEnglishSentence": "The waiter explained the 「refusal of service」, citing the lack of reservations.",
+          "chineseTranslation": "服务员解释了「拒绝服务」的决定，原因是缺少预订。",
+          "chinglishFix": "典型中式英语：'We refuse to serve you.' 纠正：'We’re unable to serve you.'（直接用'refuse'显得粗鲁，'unable to serve'更委婉且符合服务行业用语）"
+        }
+      ]
+    }
+  ]
+}
+```

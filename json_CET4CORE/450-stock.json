@@ -1,0 +1,76 @@
+```json
+{
+  "word": "stock",
+  "definitions": [
+    {
+      "meaning": "库存，存货",
+      "usage": "指商店、仓库或其他地方储存的商品或材料，通常用于商业或生产中。",
+      "collocations": ["keep in stock", "out of stock", "stock level"],
+      "examples": [
+        {
+          "scene": "在一家零售服装店中，店员正在检查库存以确保有足够的商品供节假日销售。",
+          "chineseIdea": "店员想确认货架上是否有足够的衣服，特别是热门款式，以满足顾客需求。",
+          "sentenceWithBlank": "We need to check if we @ @ @ the new winter jackets.",
+          "fullEnglishSentence": "We need to check if we 「keep in stock」 the new winter jackets.",
+          "chineseTranslation": "我们需要检查是否「有库存」新的冬季夹克。",
+          "chinglishFix": "典型中式英语：'We must see if we have stock the jackets.' 纠正：'We need to check if we keep the jackets in stock.'"
+        },
+        {
+          "scene": "在一家电子产品商店，顾客询问某种型号的手机是否有货。",
+          "chineseIdea": "顾客想买一款新手机，但担心这款手机可能已经卖完了。",
+          "sentenceWithBlank": "Sorry, that model is currently @ @ @.",
+          "fullEnglishSentence": "Sorry, that model is currently 「out of stock」.",
+          "chineseTranslation": "抱歉，那款型号目前「无库存」。",
+          "chinglishFix": "典型中式英语：'That phone no stock now.' 纠正：'That model is out of stock now.'"
+        }
+      ]
+    },
+    {
+      "meaning": "股票，股份",
+      "usage": "指在证券市场上交易的公司股份，代表对公司部分所有权的金融资产。",
+      "collocations": ["buy stocks", "sell stocks", "stock market"],
+      "examples": [
+        {
+          "scene": "在一次家庭聚会上，小明和他的叔叔讨论投资，叔叔建议他尝试购买一些公司的股份。",
+          "chineseIdea": "小明想通过投资来增加财富，但对股市不熟悉，叔叔建议他从小额投资开始。",
+          "sentenceWithBlank": "You should consider @ @ to diversify your investments.",
+          "fullEnglishSentence": "You should consider 「buying stocks」 to diversify your investments.",
+          "chineseTranslation": "你应该考虑「购买股票」来分散你的投资。",
+          "chinglishFix": "典型中式英语：'You can buy stock for more money.' 纠正：'You can buy stocks to diversify your investments.'"
+        },
+        {
+          "scene": "在金融新闻报道中，记者提到某科技公司的股价因新产品发布而上涨。",
+          "chineseIdea": "记者想说明投资者对该公司的新产品充满信心，导致更多人购买其股份。",
+          "sentenceWithBlank": "The company’s shares surged in the @ @ @ after the announcement.",
+          "fullEnglishSentence": "The company’s shares surged in the 「stock market」 after the announcement.",
+          "chineseTranslation": "该公司的股份在公告后在「股票市场」上飙升。",
+          "chinglishFix": "典型中式英语：'The company’s stock up in stock place.' 纠正：'The company’s shares surged in the stock market.'"
+        }
+      ]
+    },
+    {
+      "meaning": "原料，基础材料",
+      "usage": "指用于烹饪或其他制作过程中的基本原料，如汤底或材料储备。",
+      "collocations": ["chicken stock", "vegetable stock", "make stock"],
+      "examples": [
+        {
+          "scene": "在家中厨房，妈妈正在准备一锅汤，需要先熬制高汤作为基础。",
+          "chineseIdea": "妈妈想让汤的味道更浓郁，所以决定用鸡骨头熬制高汤。",
+          "sentenceWithBlank": "I’m going to use some bones to @ @ for the soup.",
+          "fullEnglishSentence": "I’m going to use some bones to 「make stock」 for the soup.",
+          "chineseTranslation": "我打算用一些骨头来「熬制高汤」做汤。",
+          "chinglishFix": "典型中式英语：'I use bones to cook stock.' 纠正：'I’m going to use bones to make stock for the soup.'"
+        },
+        {
+          "scene": "在一家餐厅，厨师正在为晚餐菜单准备一道需要用蔬菜高汤的菜肴。",
+          "chineseIdea": "厨师希望菜肴味道清淡且健康，因此选择用蔬菜熬制的高汤。",
+          "sentenceWithBlank": "This dish is made with a rich @ @ base.",
+          "fullEnglishSentence": "This dish is made with a rich 「vegetable stock」 base.",
+          "chineseTranslation": "这道菜是用浓郁的「蔬菜高汤」作为基础做的。",
+          "chinglishFix": "典型中式英语：'This dish use vegetable stock soup.' 纠正：'This dish is made with a vegetable stock base.'"
+        }
+      ]
+    }
+  ]
+}
+```

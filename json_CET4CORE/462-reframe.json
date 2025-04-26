@@ -1,0 +1,53 @@
+```json
+{
+  "word": "reframe",
+  "definitions": [
+    {
+      "meaning": "重新定义或重新表述某事物，通常是为了改变对其的看法或理解",
+      "usage": "通常用于描述以新的视角或方式来表达或思考某件事，常见于心理学、沟通、商业策略或个人成长的语境中。",
+      "collocations": ["reframe a situation", "reframe a problem", "reframe one’s thinking"],
+      "examples": [
+        {
+          "scene": "在一次团队会议中，项目进展缓慢，团队成员感到沮丧。经理希望通过改变大家对现状的看法来激励团队。",
+          "chineseIdea": "经理想让大家不再把当前的困难看作失败，而是看作一个需要调整策略的机会。",
+          "sentenceWithBlank": "By @ @ @, we can see this delay as a chance to improve our approach rather than a setback.",
+          "fullEnglishSentence": "By 「reframing a situation」, we can see this delay as a chance to improve our approach rather than a setback.",
+          "chineseTranslation": "通过「重新定义情况」，我们可以将这次延误视为改进方法的机会，而不是挫折。",
+          "chinglishFix": "典型中式英语：'Change the situation’s thinking'（改变情况的思考）\n纠正：'Reframe the situation'（重新定义情况）"
+        },
+        {
+          "scene": "在心理咨询中，咨询师帮助一位因考试失利而自责的学生重新看待自己的努力。",
+          "chineseIdea": "咨询师希望学生把考试失利看作学习过程中的一部分，而不是个人能力的失败。",
+          "sentenceWithBlank": "The counselor encouraged her to @ @ @ by viewing the failure as a learning opportunity.",
+          "fullEnglishSentence": "The counselor encouraged her to 「reframe a problem」 by viewing the failure as a learning opportunity.",
+          "chineseTranslation": "咨询师鼓励她通过「重新定义问题」将失败视为学习的机会。",
+          "chinglishFix": "典型中式英语：'Change the problem’s view'（改变问题的看法）\n纠正：'Reframe the problem'（重新定义问题）"
+        }
+      ]
+    },
+    {
+      "meaning": "重新组织或调整某事物的结构，通常指重新表述观点或计划以更清晰或更具吸引力",
+      "usage": "常见于正式的写作、演讲或计划调整中，强调以更有效或更有说服力的方式重新表达。",
+      "collocations": ["reframe an argument", "reframe a narrative", "reframe a strategy"],
+      "examples": [
+        {
+          "scene": "在一次营销会议中，团队发现他们的广告宣传没有吸引目标客户。营销主管建议调整宣传的重点。",
+          "chineseIdea": "营销主管希望通过重新表述广告的重点，让客户更关注产品的独特价值，而不是价格。",
+          "sentenceWithBlank": "Let’s @ @ @ to highlight the product’s unique benefits rather than its cost.",
+          "fullEnglishSentence": "Let’s 「reframe a strategy」 to highlight the product’s unique benefits rather than its cost.",
+          "chineseTranslation": "让我们「重新定义策略」，以突出产品的独特优势，而不是其成本。",
+          "chinglishFix": "典型中式英语：'Change the strategy’s idea'（改变策略的想法）\n纠正：'Reframe the strategy'（重新定义策略）"
+        },
+        {
+          "scene": "在一次公开演讲中，演讲者发现观众对她的论点反应冷淡，她决定换个方式表述。",
+          "chineseIdea": "演讲者希望通过重新组织论点，让观众更容易理解她的观点并产生共鸣。",
+          "sentenceWithBlank": "She decided to @ @ @ by focusing on the human impact of the issue.",
+          "fullEnglishSentence": "She decided to 「reframe an argument」 by focusing on the human impact of the issue.",
+          "chineseTranslation": "她决定通过「重新定义论点」来聚焦于问题对人的影响。",
+          "chinglishFix": "典型中式英语：'Adjust the argument’s way'（调整论点的方式）\n纠正：'Reframe the argument'（重新定义论点）"
+        }
+      ]
+    }
+  ]
+}
+```
