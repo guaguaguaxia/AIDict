@@ -1,0 +1,53 @@
+```json
+{
+  "word": "initially",
+  "definitions": [
+    {
+      "meaning": "在开始时，最初",
+      "usage": "用作副词，表示某事在过程或时间的开始阶段发生，通常暗示后来可能有变化或发展。常用于描述时间顺序、计划、反应或态度的起点。",
+      "collocations": ["at first", "in the beginning", "to start with"],
+      "examples": [
+        {
+          "scene": "一个学生刚开始学习编程，觉得自己完全无法理解代码的逻辑，但随着时间推移逐渐掌握了技能。",
+          "chineseIdea": "描述某人刚开始接触新事物时的困惑或初步状态，强调后续的变化。",
+          "sentenceWithBlank": "He found programming confusing @ @, but he later became proficient.",
+          "fullEnglishSentence": "He found programming confusing 「at first」, but he later became proficient.",
+          "chineseTranslation": "他「起初」觉得编程很困惑，但后来变得熟练了。",
+          "chinglishFix": "典型中式英语：'At the beginning he think programming is difficult.' 纠正：'At first, he found programming confusing.'（避免直接翻译‘开始时’，使用更自然的'at first'，并注意主语和动词的搭配）"
+        },
+        {
+          "scene": "一家公司在推出新产品时，市场反应冷淡，但通过改进营销策略，产品逐渐受到欢迎。",
+          "chineseIdea": "描述某事物在刚开始时不被接受或效果不佳，随后情况改善。",
+          "sentenceWithBlank": "The product received little attention @ @ @, but sales improved after rebranding.",
+          "fullEnglishSentence": "The product received little attention 「to start with」, but sales improved after rebranding.",
+          "chineseTranslation": "产品「一开始」几乎无人问津，但重新品牌化后销量提升了。",
+          "chinglishFix": "典型中式英语：'In the start, the product is not popular.' 纠正：'To start with, the product received little attention.'（避免'in the start'，使用'to start with'，并用更具体的表达描述情况）"
+        }
+      ]
+    },
+    {
+      "meaning": "作为初步反应或态度",
+      "usage": "用作副词，表示某人在面对某事时的第一反应或初步态度，通常带有后续可能改变的含义。常见于描述情感、判断或决策的初始状态。",
+      "collocations": ["react initially", "seem initially", "feel initially"],
+      "examples": [
+        {
+          "scene": "一位面试者在面试时面对一个复杂问题，起初感到紧张，但随后冷静下来给出了清晰的回答。",
+          "chineseIdea": "描述某人在面对新挑战时的初步情绪反应，随后有所调整。",
+          "sentenceWithBlank": "She would @ @ nervous when asked tough questions, but she quickly regained confidence.",
+          "fullEnglishSentence": "She would 「feel initially」 nervous when asked tough questions, but she quickly regained confidence.",
+          "chineseTranslation": "她在面对难题时「最初会感到」紧张，但很快就恢复了自信。",
+          "chinglishFix": "典型中式英语：'She at first is nervous for hard questions.' 纠正：'She would feel initially nervous when asked tough questions.'（避免'at first is'，使用'feel initially'，并注意句式结构）"
+        },
+        {
+          "scene": "一位客户在看到新设计的房子时，觉得设计过于前卫，但深入了解后开始欣赏它的独特性。",
+          "chineseIdea": "描述某人对某事物的第一印象或初步评价，后来发生改变。",
+          "sentenceWithBlank": "The design would @ @ too bold, but clients grew to love it.",
+          "fullEnglishSentence": "The design would 「seem initially」 too bold, but clients grew to love it.",
+          "chineseTranslation": "这个设计「最初显得」过于大胆，但客户逐渐喜欢上了它。",
+          "chinglishFix": "典型中式英语：'The design in beginning looks too bold.' 纠正：'The design would seem initially too bold.'（避免'in beginning looks'，使用'seem initially'，并注意动词和副词的搭配）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "irritate",
+  "definitions": [
+    {
+      "meaning": "使生气或恼怒",
+      "usage": "指某人或某事引起轻微的愤怒、不耐烦或不愉快的情绪，通常用于描述人际互动或行为导致的情绪反应。",
+      "collocations": ["irritate someone", "get irritated by", "find something irritating"],
+      "examples": [
+        {
+          "scene": "在办公室里，小明正在专注地写报告，但旁边的同事小刚一直在用笔敲桌子，发出有节奏的噪音。小明试图忽略，但噪音持续不断，让他越来越烦躁。",
+          "chineseIdea": "小明觉得小刚的行为让他无法集中注意力，内心开始感到不耐烦，甚至有点生气。",
+          "sentenceWithBlank": "The constant tapping sound @ Xiao Ming.",
+          "fullEnglishSentence": "The constant tapping sound 「irritated Xiao Ming」.",
+          "chineseTranslation": "持续的敲击声「让小明感到恼火」。",
+          "chinglishFix": "典型中式英语：'The tapping sound makes Xiao Ming angry.' 纠正：'Angry' 过于强烈，'irritate' 表示较轻的恼怒或不耐烦，应改为 'The tapping sound irritates Xiao Ming.'"
+        },
+        {
+          "scene": "小红在公交车上，看到一个乘客反复大声地用手机外放看视频，完全不顾周围人的感受。其他乘客纷纷皱眉，小红也觉得这种行为很烦人。",
+          "chineseIdea": "小红觉得这种不考虑他人的行为让她感到不舒服，甚至有点生气。",
+          "sentenceWithBlank": "She @ the passenger’s loud video.",
+          "fullEnglishSentence": "She 「got irritated by」 the passenger’s loud video.",
+          "chineseTranslation": "她「被乘客大声播放的视频惹恼了」。",
+          "chinglishFix": "典型中式英语：'She was angry about the loud video.' 纠正：'Angry' 语气过重，'irritated' 更适合轻度不悦，应改为 'She got irritated by the loud video.'"
+        }
+      ]
+    },
+    {
+      "meaning": "使（身体部位）发炎或不适",
+      "usage": "指物理或化学刺激导致皮肤、眼睛等身体部位的不适、发红或疼痛，通常用于描述医疗或生理情境。",
+      "collocations": ["irritate the skin", "irritate the eyes", "cause irritation to"],
+      "examples": [
+        {
+          "scene": "小李最近买了一款新的洗面奶，但使用后发现脸部有些红肿，皮肤感到刺痛。她怀疑是洗面奶的成分刺激了皮肤。",
+          "chineseIdea": "小李觉得洗面奶让她的皮肤感到不舒服，甚至有点发炎。",
+          "sentenceWithBlank": "The new cleanser @ her sensitive skin.",
+          "fullEnglishSentence": "The new cleanser 「irritated her sensitive skin」.",
+          "chineseTranslation": "这款新洗面奶「刺激了她敏感的皮肤」。",
+          "chinglishFix": "典型中式英语：'The cleanser hurts her skin.' 纠正：'Hurt' 表示更强烈的疼痛，'irritate' 更适合描述轻微刺激，应改为 'The cleanser irritated her skin.'"
+        },
+        {
+          "scene": "小王在装修房子时，油漆的强烈气味让他眼睛流泪，感到刺痛。他赶紧打开窗户通风，以减轻不适。",
+          "chineseIdea": "小王觉得油漆的气味让他的眼睛很不舒服，甚至有点发炎的感觉。",
+          "sentenceWithBlank": "The paint fumes @ his eyes.",
+          "fullEnglishSentence": "The paint fumes 「irritated his eyes」.",
+          "chineseTranslation": "油漆的味道「刺激了他的眼睛」。",
+          "chinglishFix": "典型中式英语：'The paint fumes make his eyes painful.' 纠正：'Painful' 过于强烈，'irritate' 表示轻微不适，应改为 'The paint fumes irritated his eyes.'"
+        }
+      ]
+    }
+  ]
+}
+```

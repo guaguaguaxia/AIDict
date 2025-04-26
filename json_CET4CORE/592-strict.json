@@ -1,0 +1,53 @@
+```json
+{
+  "word": "strict",
+  "definitions": [
+    {
+      "meaning": "严格的；要求严格的",
+      "usage": "形容规则、纪律或行为要求非常明确且必须遵守，常用于描述人、制度或环境",
+      "collocations": ["strict rules", "strict discipline", "strict teacher"],
+      "examples": [
+        {
+          "scene": "在一所寄宿学校，学生们每天的生活都被严格安排，从早上6点起床到晚上10点熄灯，任何违反规定的行为都会受到处罚。",
+          "chineseIdea": "学校为了让学生养成良好的习惯，制定了非常严格的规章制度，学生必须完全遵守。",
+          "sentenceWithBlank": "The school enforces @ @ to ensure students develop good habits.",
+          "fullEnglishSentence": "The school enforces 「strict rules」 to ensure students develop good habits.",
+          "chineseTranslation": "学校实施「严格的规则」以确保学生养成良好的习惯。",
+          "chinglishFix": "典型中式英语：'The school has very serious rules.' 纠正：'Serious' 更常用于描述问题或情况的严重性，而非规则的严格程度。应使用 'strict rules' 表示规则的严格。"
+        },
+        {
+          "scene": "在一家传统武术学校，教练对学生的训练要求极高，任何动作不规范都会被立即纠正。",
+          "chineseIdea": "武术教练希望通过严格的纪律来培养学生的专注力和技术。",
+          "sentenceWithBlank": "The martial arts coach maintains @ @ to build students' focus and skills.",
+          "fullEnglishSentence": "The martial arts coach maintains 「strict discipline」 to build students' focus and skills.",
+          "chineseTranslation": "武术教练保持「严格的纪律」来培养学生的专注力和技能。",
+          "chinglishFix": "典型中式英语：'The coach has very hard discipline.' 纠正：'Hard' 通常指难度或坚硬，而非纪律的严格。应使用 'strict discipline' 表示纪律严格。"
+        }
+      ]
+    },
+    {
+      "meaning": "精确的；完全符合的",
+      "usage": "描述某事物在定义、标准或要求上非常精确或完全一致，常用于技术、法律或学术语境",
+      "collocations": ["strict adherence", "strict interpretation", "strict guidelines"],
+      "examples": [
+        {
+          "scene": "在一家制药公司，生产药品的流程必须完全符合国家监管机构制定的标准，任何偏差都可能导致产品被召回。",
+          "chineseIdea": "为了确保药品安全，公司在生产过程中必须严格遵循规定。",
+          "sentenceWithBlank": "The company requires @ @ to national standards to ensure drug safety.",
+          "fullEnglishSentence": "The company requires 「strict adherence」 to national standards to ensure drug safety.",
+          "chineseTranslation": "公司要求「严格遵守」国家标准以确保药品安全。",
+          "chinglishFix": "典型中式英语：'The company must follow the standards very strictly.' 纠正：'Follow ... strictly' 是正确的，但 'strict adherence' 是更自然的搭配，尤其在正式语境中。"
+        },
+        {
+          "scene": "在法庭上，法官在解释法律条款时，必须确保自己的理解完全符合法律的原意，而不能随意扩展或缩减。",
+          "chineseIdea": "法官需要精准地理解法律条文，确保判决符合法律的原意。",
+          "sentenceWithBlank": "The judge applied a @ @ of the law to ensure a fair ruling.",
+          "fullEnglishSentence": "The judge applied a 「strict interpretation」 of the law to ensure a fair ruling.",
+          "chineseTranslation": "法官应用了「严格的解释」法律以确保公正的裁决。",
+          "chinglishFix": "典型中式英语：'The judge explained the law very strictly.' 纠正：'Explain ... strictly' 不常用于法律语境，'strict interpretation' 是更贴切的表达。"
+        }
+      ]
+    }
+  ]
+}
+```

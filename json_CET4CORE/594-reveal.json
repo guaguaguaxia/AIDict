@@ -1,0 +1,53 @@
+```json
+{
+  "word": "reveal",
+  "definitions": [
+    {
+      "meaning": "使显露或暴露某事物，之前未被看见或知道",
+      "usage": "常用于描述揭开隐藏的信息、真相、秘密或物理上暴露某物。通常带有使他人了解或震惊的效果，强调从隐藏到公开的过程。",
+      "collocations": ["reveal a secret", "reveal the truth", "reveal a plan"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，小明无意中说出了一个大家不知道的事情，引起了所有人的惊讶。",
+          "chineseIdea": "小明不小心说出了一个一直保守的家庭秘密，让大家感到震惊。",
+          "sentenceWithBlank": "During the family gathering, Xiao Ming @ @ @ that stunned everyone.",
+          "fullEnglishSentence": "During the family gathering, Xiao Ming 「revealed a secret」 that stunned everyone.",
+          "chineseTranslation": "在家庭聚会上，小明「暴露了一个秘密」，让大家都震惊了。",
+          "chinglishFix": "典型中式英语：'He opened a secret.' 纠正：'He revealed a secret.'（'open'不适用于抽象的秘密，应使用'reveal'来表示暴露或揭露。）"
+        },
+        {
+          "scene": "在一场新闻发布会上，公司CEO公开了公司的新战略，吸引了媒体的广泛关注。",
+          "chineseIdea": "CEO向公众展示了公司的未来计划，之前这些计划是保密的。",
+          "sentenceWithBlank": "At the press conference, the CEO @ @ @ to the media.",
+          "fullEnglishSentence": "At the press conference, the CEO 「revealed a plan」 to the media.",
+          "chineseTranslation": "在新闻发布会上，CEO向媒体「公布了一个计划」。",
+          "chinglishFix": "典型中式英语：'The CEO showed a plan.' 纠正：'The CEO revealed a plan.'（'show'更偏向展示具体物体，'reveal'更适合表示公开抽象计划或信息。）"
+        }
+      ]
+    },
+    {
+      "meaning": "展示或呈现某事物的特质或本质",
+      "usage": "强调通过某种方式使某事物的特征、细节或本质变得明显，常见于描述艺术、数据分析或情感表达等场景。",
+      "collocations": ["reveal a pattern", "reveal a flaw", "reveal one’s feelings"],
+      "examples": [
+        {
+          "scene": "在一场数据分析会议上，分析师通过图表向团队展示了隐藏在数据中的趋势。",
+          "chineseIdea": "分析师通过可视化数据，让团队清楚地看到了数据背后的规律。",
+          "sentenceWithBlank": "The analyst’s chart @ @ @ in the data to the team.",
+          "fullEnglishSentence": "The analyst’s chart 「revealed a pattern」 in the data to the team.",
+          "chineseTranslation": "分析师的图表向团队「展示了一个模式」。",
+          "chinglishFix": "典型中式英语：'The chart found a pattern.' 纠正：'The chart revealed a pattern.'（'find'表示主动发现，'reveal'更适合表示通过展示使某事物显现。）"
+        },
+        {
+          "scene": "在一次深夜的聊天中，小红向好友坦白了自己的真实情感，之前她一直隐藏这些情感。",
+          "chineseIdea": "小红通过倾诉，让朋友了解了她内心的真实感受。",
+          "sentenceWithBlank": "In the late-night talk, Xiao Hong @ @ @ to her friend.",
+          "fullEnglishSentence": "In the late-night talk, Xiao Hong 「revealed her feelings」 to her friend.",
+          "chineseTranslation": "在深夜的谈话中，小红向朋友「表露了自己的情感」。",
+          "chinglishFix": "典型中式英语：'She said her feelings.' 纠正：'She revealed her feelings.'（'say'仅表示说出，'reveal'更强调情感的暴露或坦白。）"
+        }
+      ]
+    }
+  ]
+}
+```
