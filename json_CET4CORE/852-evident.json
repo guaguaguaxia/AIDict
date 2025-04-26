@@ -1,0 +1,53 @@
+```json
+{
+  "word": "evident",
+  "definitions": [
+    {
+      "meaning": "显而易见的，清楚明白的（指某事物容易被看到或理解）",
+      "usage": "通常用作形容词，描述某事物明显可见或易于理解，常用于正式或半正式语境，可搭配名词或从句（如it is evident that...）。",
+      "collocations": ["clearly evident", "readily evident", "immediately evident"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，经理正在向团队展示最新的销售数据，数据图表显示销售业绩显著提升。",
+          "chineseIdea": "经理想表达销售增长的趋势非常明显，所有人都能一眼看出。",
+          "sentenceWithBlank": "From the charts, the upward trend in sales is @ @.",
+          "fullEnglishSentence": "From the charts, the upward trend in sales is 「clearly evident」.",
+          "chineseTranslation": "从图表来看，销售的上升趋势「显而易见」。",
+          "chinglishFix": "典型中式英语：'The sales increase is very obvious.' 纠正：'The upward trend in sales is clearly evident.'（使用更自然的搭配和正式表达，避免直接翻译‘明显’为‘obvious’）"
+        },
+        {
+          "scene": "在一次学术讨论中，研究人员展示实验结果，证明某种新药对疾病的疗效显著。",
+          "chineseIdea": "研究人员想强调实验结果立刻就能让人看出新药的效果。",
+          "sentenceWithBlank": "The effectiveness of the new drug was @ @ in the trial results.",
+          "fullEnglishSentence": "The effectiveness of the new drug was 「immediately evident」 in the trial results.",
+          "chineseTranslation": "新药的疗效在试验结果中「立刻显而易见」。",
+          "chinglishFix": "典型中式英语：'The drug’s effect is very clear.' 纠正：'The effectiveness of the new drug was immediately evident.'（避免使用‘clear’而用更贴切的搭配‘immediately evident’）"
+        }
+      ]
+    },
+    {
+      "meaning": "明显的，显露的（指证据或迹象明确可见）",
+      "usage": "用作形容词，强调证据、迹象或特征的明显性，常用于描述具体事物或情况，常与介词‘in’搭配，如evident in something。",
+      "collocations": ["evident in", "evident from", "painfully evident"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，父母注意到小女孩因为没被邀请参加朋友的生日派对而显得情绪低落。",
+          "chineseIdea": "父母想表达小女孩的失望情绪在她的行为中很明显。",
+          "sentenceWithBlank": "Her disappointment was @ @ her quiet demeanor.",
+          "fullEnglishSentence": "Her disappointment was 「evident in」 her quiet demeanor.",
+          "chineseTranslation": "她的失望「明显体现在」她安静的举止中。",
+          "chinglishFix": "典型中式英语：'Her disappointment is shown in her behavior.' 纠正：'Her disappointment was evident in her quiet demeanor.'（使用‘evident in’搭配，避免不自然的‘shown’）"
+        },
+        {
+          "scene": "在一次课堂讨论中，老师发现学生们对新课程内容缺乏兴趣，因为他们几乎不参与讨论。",
+          "chineseIdea": "老师想指出学生们的冷漠态度从他们的沉默中显而易见。",
+          "sentenceWithBlank": "The students’ lack of interest was @ @ their silence.",
+          "fullEnglishSentence": "The students’ lack of interest was 「evident from」 their silence.",
+          "chineseTranslation": "学生们缺乏兴趣「从他们的沉默中显而易见」。",
+          "chinglishFix": "典型中式英语：'Their silence shows they are not interested.' 纠正：'The students’ lack of interest was evident from their silence.'（使用‘evident from’搭配，使表达更自然）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "detective",
+  "definitions": [
+    {
+      "meaning": "调查犯罪案件的专业人员，通常为警察或私家侦探",
+      "usage": "指从事调查犯罪、收集证据、解决案件的人，可以是警方的刑侦人员或独立的私家侦探。",
+      "collocations": ["solve a case", "investigate a crime", "follow a lead"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的都市警察局里，警官们正在讨论一起复杂的盗窃案件。一名经验丰富的人员被指派负责这个案件，因为他以敏锐的观察力闻名。",
+          "chineseIdea": "这个人通过分析线索和证据，最终破解了案件，让罪犯无处遁形。",
+          "sentenceWithBlank": "The experienced officer was able to @ @ @ by analyzing the clues left at the crime scene.",
+          "fullEnglishSentence": "The experienced officer was able to 「solve a case」 by analyzing the clues left at the crime scene.",
+          "chineseTranslation": "这位经验丰富的警官通过分析犯罪现场的线索，成功「破了一个案子」。",
+          "chinglishFix": "典型中式英语：'He finished the case.' 纠正：'He solved the case.'（'finish'通常不用于表示破案，'solve'更自然。）"
+        },
+        {
+          "scene": "一名私家侦探受雇于一位富有的商人，调查公司内部的财务丑闻。他花了数周时间追踪线索，伪装身份，获取关键证据。",
+          "chineseIdea": "他深入挖掘，追踪每一条可能的线索，试图揭露隐藏的犯罪行为。",
+          "sentenceWithBlank": "The private investigator spent weeks @ @ @ to uncover the truth behind the scandal.",
+          "fullEnglishSentence": "The private investigator spent weeks 「investigating a crime」 to uncover the truth behind the scandal.",
+          "chineseTranslation": "这位私家侦探花了数周时间「调查一宗犯罪」，以揭露丑闻背后的真相。",
+          "chinglishFix": "典型中式英语：'He checked the crime.' 纠正：'He investigated the crime.'（'check'过于笼统，'investigate'更准确地表达深入调查。）"
+        }
+      ]
+    },
+    {
+      "meaning": "形容词，描述与侦探工作或调查相关的特性",
+      "usage": "作为形容词，用于描述与调查、侦查或解决谜团相关的事物或技能，通常出现在正式或专业语境中。",
+      "collocations": ["detective work", "detective skills", "detective story"],
+      "examples": [
+        {
+          "scene": "在一所大学的历史系，学生们被要求分析一份古老的手稿，找出其来源和真实性。教授称这种分析需要细致的调查能力。",
+          "chineseIdea": "学生们需要像侦探一样，通过线索拼凑出历史真相。",
+          "sentenceWithBlank": "Uncovering the manuscript’s origin required meticulous @ @.",
+          "fullEnglishSentence": "Uncovering the manuscript’s origin required meticulous 「detective work」.",
+          "chineseTranslation": "揭开手稿来源需要细致的「侦探工作」。",
+          "chinglishFix": "典型中式英语：'It needs detective job.' 纠正：'It requires detective work.'（'job'过于口语且不准确，'work'更适合描述这类专业活动。）"
+        },
+        {
+          "scene": "在一场文学俱乐部的讨论中，成员们分享了自己喜欢的悬疑小说。他们特别提到了一种故事类型，充满了复杂的案件和聪明的推理。",
+          "chineseIdea": "这种故事以扣人心弦的案件和逻辑推理吸引读者。",
+          "sentenceWithBlank": "The club members enjoyed reading a gripping @ @ about a clever investigator.",
+          "fullEnglishSentence": "The club members enjoyed reading a gripping 「detective story」 about a clever investigator.",
+          "chineseTranslation": "俱乐部成员喜欢读关于一位聪明调查者的扣人心弦的「侦探故事」。",
+          "chinglishFix": "典型中式英语：'They read detective book.' 纠正：'They read a detective story.'（'book'过于宽泛，'story'更具体且常用于描述这类文学作品。）"
+        }
+      ]
+    }
+  ]
+}
+```

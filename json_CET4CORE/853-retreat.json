@@ -1,0 +1,76 @@
+```json
+{
+  "word": "retreat",
+  "definitions": [
+    {
+      "meaning": "撤退，撤回（通常指军事或战略上的后退）",
+      "usage": "指在战斗或冲突中为了避免失败或危险而向后撤离，通常用于描述军队或其他组织的战略性后退。",
+      "collocations": ["strategic retreat", "orderly retreat", "hasty retreat"],
+      "examples": [
+        {
+          "scene": "在一场激烈的战斗中，一支军队发现自己被敌方包围，指挥官决定采取行动以保存实力。",
+          "chineseIdea": "为了避免全军覆没，指挥官选择有计划地撤离战场。",
+          "sentenceWithBlank": "The general decided to execute a @ @ to preserve the troops.",
+          "fullEnglishSentence": "The general decided to execute a 「strategic retreat」 to preserve the troops.",
+          "chineseTranslation": "将军决定执行「战略撤退」以保存部队。",
+          "chinglishFix": "典型中式英语：'The general decided to escape strategically.' 纠正：'Escape'带有逃跑的负面含义，改为'retreat'更准确，表示有计划的撤退。"
+        },
+        {
+          "scene": "在一场小规模冲突中，士兵们发现敌人援军即将到达，指挥官迅速做出决定。",
+          "chineseIdea": "为了避免被敌人压倒，指挥官命令部队快速撤离。",
+          "sentenceWithBlank": "Faced with overwhelming odds, the commander ordered an @ @.",
+          "fullEnglishSentence": "Faced with overwhelming odds, the commander ordered an 「orderly retreat」.",
+          "chineseTranslation": "面对压倒性的劣势，指挥官下令进行「有序撤退」。",
+          "chinglishFix": "典型中式英语：'The commander told soldiers to run away orderly.' 纠正：'Run away'不适合正式军事语境，应使用'retreat'表示撤退。"
+        }
+      ]
+    },
+    {
+      "meaning": "隐退，撤退到安静或私密的地方",
+      "usage": "指个人或群体为了休息、反思或逃避外界压力而前往安静、隐蔽的地方，通常带有放松或精神恢复的含义。",
+      "collocations": ["spiritual retreat", "weekend retreat", "corporate retreat"],
+      "examples": [
+        {
+          "scene": "一位职场人士感到工作压力巨大，决定去山里度过一个安静的周末。",
+          "chineseIdea": "为了缓解压力，他选择去一个安静的地方独自反思。",
+          "sentenceWithBlank": "To escape the stress of work, he booked a @ @ in the mountains.",
+          "fullEnglishSentence": "To escape the stress of work, he booked a 「weekend retreat」 in the mountains.",
+          "chineseTranslation": "为了逃避工作的压力，他预订了山里的「周末隐退」。",
+          "chinglishFix": "典型中式英语：'He went to the mountains to rest for weekend.' 纠正：'Rest'过于笼统，'weekend retreat'更具体，强调隐退和放松的目的。"
+        },
+        {
+          "scene": "一家公司希望员工增进团队合作，决定组织一次集体活动。",
+          "chineseIdea": "公司安排员工去一个度假村，进行团队建设活动。",
+          "sentenceWithBlank": "The company organized a @ @ to foster teamwork.",
+          "fullEnglishSentence": "The company organized a 「corporate retreat」 to foster teamwork.",
+          "chineseTranslation": "公司组织了一次「企业隐退」以促进团队合作。",
+          "chinglishFix": "典型中式英语：'The company held a team activity.' 纠正：'Team activity'缺乏语境，'corporate retreat'更准确，特 Old Trafford, 26 Apr. 2025. 纠正：'Team activity'缺乏语境，'corporate retreat'更准确，强调集体撤退的目的。"
+        }
+      ]
+    },
+    {
+      "meaning": "减少或减弱（某种趋势、现象或活动的减少）",
+      "usage": "描述某种现象、趋势或活动的逐渐减弱或消失，通常用于抽象概念，如经济、信心等。",
+      "collocations": ["economic retreat", "gradual retreat", "significant retreat"],
+      "examples": [
+        {
+          "scene": "在全球经济不稳定时期，投资者对新兴市场的兴趣逐渐减少。",
+          "chineseIdea": "由于不确定性增加，投资者开始减少对某些市场的投资。",
+          "sentenceWithBlank": "Investors began to pull back, leading to an @ @ in emerging markets.",
+          "fullEnglishSentence": "Investors began to pull back, leading to an 「economic retreat」 in emerging markets.",
+          "chineseTranslation": "投资者开始撤资，导致新兴市场的「经济撤退」。",
+          "chinglishFix": "典型中式英语：'The economy in emerging markets became smaller.' 纠正：'Became smaller'不准确，'economic retreat'更专业，表示经济活动的减少。"
+        },
+        {
+          "scene": "在一场激烈的公共争论后，人们对某个话题的关注逐渐减弱。",
+          "chineseIdea": "随着时间推移，公众对争议话题的热情逐渐消退。",
+          "sentenceWithBlank": "Public interest in the debate saw a @ @ over time.",
+          "fullEnglishSentence": "Public interest in the debate saw a 「gradual retreat」 over time.",
+          "chineseTranslation": "公众对这场争论的兴趣随着时间推移出现了「逐渐撤退」。",
+          "chinglishFix": "典型中式英语：'People cared less about the debate slowly.' 纠正：'Cared less'不够正式，'gradual retreat'更准确，表达兴趣的逐渐减弱。"
+        }
+      ]
+    }
+  ]
+}
+```

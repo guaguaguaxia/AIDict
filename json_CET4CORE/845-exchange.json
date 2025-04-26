@@ -1,0 +1,76 @@
+```json
+{
+  "word": "exchange",
+  "definitions": [
+    {
+      "meaning": "交换物品或服务",
+      "usage": "指通过以物换物或以服务换服务的方式进行交易，常用于描述物品、礼品或服务的互换。",
+      "collocations": ["exchange gifts", "exchange ideas", "exchange goods"],
+      "examples": [
+        {
+          "scene": "在圣诞节聚会上，朋友们围坐在客厅里，桌上摆满了包装精美的礼盒，每个人都期待着打开别人的礼物。",
+          "chineseIdea": "朋友之间互赠礼物以表达节日祝福和增进友谊。",
+          "sentenceWithBlank": "During the Christmas party, we all @ @ to celebrate the season.",
+          "fullEnglishSentence": "During the Christmas party, we all 「exchange gifts」 to celebrate the season.",
+          "chineseTranslation": "在圣诞节聚会上，我们都「交换礼物」来庆祝节日。",
+          "chinglishFix": "典型中式英语：We change gifts with each other. 纠正：We exchange gifts with one another."
+        },
+        {
+          "scene": "在一次团队头脑风暴会议中，同事们围坐在会议桌旁，热烈讨论新项目的创意，每个人都提出自己的想法。",
+          "chineseIdea": "通过分享和讨论，团队成员希望激发灵感并完善计划。",
+          "sentenceWithBlank": "In the meeting, we @ @ to spark creativity.",
+          "fullEnglishSentence": "In the meeting, we 「exchange ideas」 to spark creativity.",
+          "chineseTranslation": "在会议中，我们「交换想法」以激发创意。",
+          "chinglishFix": "典型中式英语：We change ideas in the meeting. 纠正：We exchange ideas during the meeting."
+        }
+      ]
+    },
+    {
+      "meaning": "货币兑换",
+      "usage": "指将一种货币转换为另一种货币，通常在旅行或国际交易中使用。",
+      "collocations": ["exchange currency", "exchange rate", "exchange money"],
+      "examples": [
+        {
+          "scene": "在机场的货币兑换柜台前，一个刚下飞机的游客正拿出一叠人民币，准备换成美元以便在美国使用。",
+          "chineseIdea": "为了在国外消费，游客需要将本国货币兑换成当地货币。",
+          "sentenceWithBlank": "At the airport, I need to @ @ before heading to the city.",
+          "fullEnglishSentence": "At the airport, I need to 「exchange currency」 before heading to the city.",
+          "chineseTranslation": "在机场，我需要「兑换货币」然后再去市区。",
+          "chinglishFix": "典型中式英语：I change money at the airport. 纠正：I exchange currency at the airport."
+        },
+        {
+          "scene": "在银行的电子屏幕上，显示着不同货币之间的兑换比率，一个商人正在查看以决定是否进行国际交易。",
+          "chineseIdea": "了解货币之间的兑换比率有助于做出明智的财务决策。",
+          "sentenceWithBlank": "Before the deal, he checked the @ @ to ensure profitability.",
+          "fullEnglishSentence": "Before the deal, he checked the 「exchange rate」 to ensure profitability.",
+          "chineseTranslation": "在交易前，他查看了「汇率」以确保盈利。",
+          "chinglishFix": "典型中式英语：He looked at the change rate. 纠正：He checked the exchange rate."
+        }
+      ]
+    },
+    {
+      "meaning": "交流或沟通",
+      "usage": "指人与人之间通过语言、文字或其他方式进行信息的传递或互动。",
+      "collocations": ["exchange words", "exchange emails", "exchange views"],
+      "examples": [
+        {
+          "scene": "在咖啡馆里，两个老朋友久别重逢，点了一杯咖啡后开始热烈地聊起各自的近况。",
+          "chineseIdea": "朋友之间通过交谈分享彼此的生活经历。",
+          "sentenceWithBlank": "Over coffee, they @ @ about their recent travels.",
+          "fullEnglishSentence": "Over coffee, they 「exchange words」 about their recent travels.",
+          "chineseTranslation": "在喝咖啡时，他们「交谈」了最近的旅行经历。",
+          "chinglishFix": "典型中式英语：They change words about their lives. 纠正：They exchange words about their experiences."
+        },
+        {
+          "scene": "在国际会议上，来自不同国家的代表通过电子邮件讨论合作项目的细节。",
+          "chineseIdea": "通过邮件往来，各方能够清晰地表达意见并推进项目。",
+          "sentenceWithBlank": "The delegates @ @ to finalize the project details.",
+          "fullEnglishSentence": "The delegates 「exchange emails」 to finalize the project details.",
+          "chineseTranslation": "代表们「互发邮件」以敲定项目细节。",
+          "chinglishFix": "典型中式英语：They change emails for the project. 纠正：They exchange emails to discuss the project."
+        }
+      ]
+    }
+  ]
+}
+```
