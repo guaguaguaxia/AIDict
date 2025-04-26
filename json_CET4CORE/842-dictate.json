@@ -1,0 +1,76 @@
+```json
+{
+  "word": "dictate",
+  "definitions": [
+    {
+      "meaning": "命令，指示（以权威的方式要求某人做某事）",
+      "usage": "用作动词，表示某人以权威或控制的方式强加命令、规则或要求他人遵循，通常带有一定的强制性。常见于正式或权威的语境，如领导对下属、政府对公民等。",
+      "collocations": ["dictate terms", "dictate policy", "dictate behavior"],
+      "examples": [
+        {
+          "scene": "在一家跨国公司的董事会会议上，CEO正在与高管们讨论新市场的扩张计划。由于市场竞争激烈，CEO需要确保公司采取统一的策略。",
+          "chineseIdea": "CEO希望通过明确的指示来控制扩张的方向，确保所有团队按照公司战略行事。",
+          "sentenceWithBlank": "The CEO used her authority to @ @ for the new market expansion.",
+          "fullEnglishSentence": "The CEO used her authority to 「dictate terms」 for the new market expansion.",
+          "chineseTranslation": "首席执行官利用她的权威为新市场扩张「规定条件」。",
+          "chinglishFix": "典型中式英语：'The CEO ordered the rules for expansion.' 纠正：'Ordered'过于笼统，'dictate terms'更能体现权威性和具体条件的制定。应使用'dictate terms'来表达正式且权威的指示。"
+        },
+        {
+          "scene": "在一所高中，校长针对学生的着装问题发布了一项新规定，要求所有学生必须穿着校服，以统一学校形象。",
+          "chineseIdea": "校长希望通过制定规则来规范学生的行为，确保学校整体纪律。",
+          "sentenceWithBlank": "The principal decided to @ @ to ensure a consistent school image.",
+          "fullEnglishSentence": "The principal decided to 「dictate behavior」 to ensure a consistent school image.",
+          "chineseTranslation": "校长决定「规范行为」以确保学校形象的一致性。",
+          "chinglishFix": "典型中式英语：'The principal forced students' behavior.' 纠正：'Forced'显得过于强硬且缺乏具体性，'dictate behavior'更适合表示权威性地规范行为。"
+        }
+      ]
+    },
+    {
+      "meaning": "口授（将内容口述给他人记录下来）",
+      "usage": "用作动词，表示将文字或内容口述给他人，通常由他人记录下来，常见于工作场景（如口授信件、报告）或历史语境（如口授回忆录）。也可用于描述机器录入语音。",
+      "collocations": ["dictate a letter", "dictate notes", "dictate a memo"],
+      "examples": [
+        {
+          "scene": "一位忙碌的律师在办公室里需要快速处理一封重要的客户信件，但她当天行程紧凑，只能通过口述让助理记录。",
+          "chineseIdea": "律师希望通过口述的方式快速完成信件内容，交给助理整理成书面形式。",
+          "sentenceWithBlank": "The lawyer chose to @ @ @ to her assistant to save time.",
+          "fullEnglishSentence": "The lawyer chose to 「dictate a letter」 to her assistant to save time.",
+          "chineseTranslation": "律师选择向助理「口授一封信」以节省时间。",
+          "chinglishFix": "典型中式英语：'The lawyer spoke a letter to her assistant.' 纠正：'Spoke'无法准确传达口授的行为，'dictate a letter'是正确的表达，强调口述内容供记录。"
+        },
+        {
+          "scene": "一位退休的将军正在撰写回忆录，他习惯于将自己的经历口述给一位专业作家，由作家整理成书。",
+          "chineseIdea": "将军通过口述的方式分享自己的故事，以便更快地记录下来并形成文字。",
+          "sentenceWithBlank": "The general preferred to @ @ @ to a writer for his memoir.",
+          "fullEnglishSentence": "The general preferred to 「dictate notes」 to a writer for his memoir.",
+          "chineseTranslation": "将军更喜欢向作家「口授笔记」以完成他的回忆录。",
+          "chinglishFix": "典型中式英语：'The general told notes to the writer.' 纠正：'Told'不适用于描述口授行为，'dictate notes'更准确地表达口述供记录的过程。"
+        }
+      ]
+    },
+    {
+      "meaning": "决定，影响（某事物的结果或进程）",
+      "usage": "用作动词，表示某因素或条件对某事的结果或进程起到决定性作用，通常用于抽象语境，如描述趋势、需求或环境如何影响结果。",
+      "collocations": ["dictate the outcome", "dictate the pace", "dictate the course"],
+      "examples": [
+        {
+          "scene": "在一场国际象棋锦标赛中，两位棋手实力相当，但比赛时间的限制使得选手们必须快速做出决策。",
+          "chineseIdea": "时间限制成为比赛的关键因素，直接影响了比赛的最终结果。",
+          "sentenceWithBlank": "The strict time limit was enough to @ @ @ of the chess match.",
+          "fullEnglishSentence": "The strict time limit was enough to 「dictate the outcome」 of the chess match.",
+          "chineseTranslation": "严格的时间限制足以「决定结果」这场象棋比赛。",
+          "chinglishFix": "典型中式英语：'The time limit controlled the result of the match.' 纠正：'Controlled'过于泛化，'dictate the outcome'更精准地表达某因素决定结果的过程。"
+        },
+        {
+          "scene": "在一家时尚公司，市场需求的变化迫使设计师调整新季度的服装设计方向，以迎合消费者喜好。",
+          "chineseIdea": "市场需求的变化直接影响了设计团队的创作方向和节奏。",
+          "sentenceWithBlank": "Consumer preferences often @ @ @ of the design process.",
+          "fullEnglishSentence": "Consumer preferences often 「dictate the pace」 of the design process.",
+          "chineseTranslation": "消费者偏好经常「决定节奏」设计过程。",
+          "chinglishFix": "典型中式英语：'Consumer preferences lead the speed of design.' 纠正：'Lead the speed'不够自然且不准确，'dictate the pace'是更地道的表达，强调决定节奏。"
+        }
+      ]
+    }
+  ]
+}
+```

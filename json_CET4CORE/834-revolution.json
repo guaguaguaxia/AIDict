@@ -1,0 +1,76 @@
+```json
+{
+  "word": "revolution",
+  "definitions": [
+    {
+      "meaning": "政治或社会的大变革，通常涉及暴力或重大权力更迭",
+      "usage": "指一个国家或社会通过起义、叛乱等方式推翻现有政权或社会秩序，建立新的体系。常用于历史或政治语境。",
+      "collocations": ["spark a revolution", "lead a revolution", "bring about a revolution"],
+      "examples": [
+        {
+          "scene": "在一个历史课堂上，老师正在讲解18世纪末的法国社会动荡，学生们讨论导致变革的因素。",
+          "chineseIdea": "某些事件或行动引发了巨大的社会变革，改变了国家的政治结构。",
+          "sentenceWithBlank": "The unfair taxation and widespread poverty @ @ @ in France.",
+          "fullEnglishSentence": "The unfair taxation and widespread poverty 「sparked a revolution」 in France.",
+          "chineseTranslation": "不公平的税收和广泛的贫困在法国「引发了一场革命」。",
+          "chinglishFix": "典型中式英语：'The bad taxes and poor people made a big change.' 纠正：'Unfair taxation and widespread poverty sparked a revolution.'（避免笼统的'big change'，使用具体搭配'spark a revolution'）"
+        },
+        {
+          "scene": "一部关于拉丁美洲独立运动的纪录片中，解说员描述一位领袖如何激励人民反抗殖民统治。",
+          "chineseIdea": "一位有魅力的领袖通过动员群众推动了社会和政治的彻底变革。",
+          "sentenceWithBlank": "Che Guevara’s vision and charisma @ @ @ in Cuba.",
+          "fullEnglishSentence": "Che Guevara’s vision and charisma 「led a revolution」 in Cuba.",
+          "chineseTranslation": "切·格瓦拉的愿景和魅力「领导了一场革命」在古巴。",
+          "chinglishFix": "典型中式英语：'He guided people to do a revolution.' 纠正：'He led a revolution.'（'guide'和'do a revolution'不自然，'lead a revolution'是地道的搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "技术、思想或文化的重大变革，带来全新的方式或观念",
+      "usage": "指某个领域（如科技、艺术、工业）发生根本性的变化，通常不涉及暴力，而是创新或突破。常用于描述进步或现代化。",
+      "collocations": ["usher in a revolution", "drive a revolution", "undergo a revolution"],
+      "examples": [
+        {
+          "scene": "在一场科技展会上，演讲者介绍人工智能如何改变了商业运营方式。",
+          "chineseIdea": "一项新技术彻底改变了某个行业的运作方式，带来了全新的可能性。",
+          "sentenceWithBlank": "The advent of artificial intelligence has @ @ @ in business operations.",
+          "fullEnglishSentence": "The advent of artificial intelligence has 「ushered in a revolution」 in business operations.",
+          "chineseTranslation": "人工智能的出现「开启了一场革命」在商业运营中。",
+          "chinglishFix": "典型中式英语：'AI brought a big new change to business.' 纠正：'AI ushered in a revolution in business.'（'big new change'显得冗余且不地道，'usher in a revolution'更精准）"
+        },
+        {
+          "scene": "一篇关于绿色能源的文章中，作者讨论太阳能技术如何改变了能源行业。",
+          "chineseIdea": "创新技术推动了某个领域的快速发展和转型。",
+          "sentenceWithBlank": "Advancements in solar technology have @ @ @ in the energy sector.",
+          "fullEnglishSentence": "Advancements in solar technology have 「driven a revolution」 in the energy sector.",
+          "chineseTranslation": "太阳能技术的进步「推动了一场革命」在能源领域。",
+          "chinglishFix": "典型中式英语：'Solar power made the energy industry have a revolution.' 纠正：'Solar technology has driven a revolution in the energy sector.'（'made...have'不自然，'drive a revolution'更符合英语习惯）"
+        }
+      ]
+    },
+    {
+      "meaning": "物体绕轴或轨道的完整旋转",
+      "usage": "指物理学或机械领域中，物体围绕某个中心点或轴完成一次完整的循环运动。常见于科学或技术语境。",
+      "collocations": ["complete a revolution", "make a revolution", "measure a revolution"],
+      "examples": [
+        {
+          "scene": "在一堂物理课上，老师用地球自转的例子来解释旋转的概念。",
+          "chineseIdea": "某个物体绕着自己的轴完成一次完整的转动。",
+          "sentenceWithBlank": "The Earth @ @ @ every 24 hours.",
+          "fullEnglishSentence": "The Earth 「completes a revolution」 every 24 hours.",
+          "chineseTranslation": "地球每24小时「完成一次自转」。",
+          "chinglishFix": "典型中式英语：'The Earth turns one circle every day.' 纠正：'The Earth completes a revolution every 24 hours.'（'turn one circle'不够正式，'complete a revolution'是科学术语）"
+        },
+        {
+          "scene": "一名工程师在测试一台新机器时，记录其转子的旋转速度。",
+          "chineseIdea": "测量一个机械部件绕轴旋转的次数或速度。",
+          "sentenceWithBlank": "The rotor’s speed is determined by how fast it can @ @ @.",
+          "fullEnglishSentence": "The rotor’s speed is determined by how fast it can 「make a revolution」.",
+          "chineseTranslation": "转子的速度由它能多快「完成一次旋转」决定。",
+          "chinglishFix": "典型中式英语：'The rotor’s speed depends on how fast it rotates one time.' 纠正：'The rotor’s speed depends on how fast it makes a revolution.'（'rotate one time'不够简洁，'make a revolution'更专业）"
+        }
+      ]
+    }
+  ]
+}
+```

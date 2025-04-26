@@ -1,0 +1,76 @@
+```json
+{
+  "word": "divine",
+  "definitions": [
+    {
+      "meaning": "与神或超自然存在相关的，具有神圣或天赐的特质",
+      "usage": "用作形容词，描述某事物与神、宗教或超自然力量相关，或者具有神圣、完美的特质。常用于宗教、文学或赞美语境。",
+      "collocations": ["divine intervention", "divine beauty", "divine inspiration"],
+      "examples": [
+        {
+          "scene": "在一个古老的教堂里，信徒们聚集在一起祈祷，感受到一种超自然的力量在引导他们。",
+          "chineseIdea": "人们相信某种神秘的力量在关键时刻介入，帮助他们渡过难关。",
+          "sentenceWithBlank": "The priest spoke of @ @ that saved the village from disaster.",
+          "fullEnglishSentence": "The priest spoke of 「divine intervention」 that saved the village from disaster.",
+          "chineseTranslation": "牧师谈到了「神圣干预」拯救村庄免于灾难。",
+          "chinglishFix": "典型中式英语：'God help' 或 'God’s power help'. 纠正：使用 'divine intervention' 来表达神在特定事件中的介入，而不是模糊的 'help'。"
+        },
+        {
+          "scene": "在一次艺术展览中，一位观众被一幅画作的美感深深吸引，觉得它仿佛不属于人间。",
+          "chineseIdea": "某件艺术品的美让人觉得它像是来自天界，完美无瑕。",
+          "sentenceWithBlank": "The painting captivated everyone with its @ @.",
+          "fullEnglishSentence": "The painting captivated everyone with its 「divine beauty」.",
+          "chineseTranslation": "这幅画以其「神圣之美」吸引了所有人。",
+          "chinglishFix": "典型中式英语：'very beautiful like god'. 纠正：使用 'divine beauty' 来形容超凡的美感，而不是直接翻译 '像神一样'。"
+        }
+      ]
+    },
+    {
+      "meaning": "极好的，令人愉悦的",
+      "usage": "用作形容词，以非正式或夸张的方式描述某事物极其美好、令人愉悦或完美。常用于日常对话中，特别是在描述食物、体验或感觉时。",
+      "collocations": ["divine taste", "divine experience", "divine feeling"],
+      "examples": [
+        {
+          "scene": "在一个高档餐厅里，朋友们正在享用一道精心制作的甜点，忍不住赞叹它的口感。",
+          "chineseIdea": "食物好吃到让人觉得完美，像是天赐的享受。",
+          "sentenceWithBlank": "This chocolate cake has a @ @ that melts in your mouth.",
+          "fullEnglishSentence": "This chocolate cake has a 「divine taste」 that melts in your mouth.",
+          "chineseTranslation": "这款巧克力蛋糕有种「神仙味道」，入口即化。",
+          "chinglishFix": "典型中式英语：'taste like heaven'. 纠正：使用 'divine taste' 来形容极致的美味，而不是字面翻译 '像天堂'。"
+        },
+        {
+          "scene": "在一个阳光明媚的周末，朋友们在海边度假，享受着放松的时光。",
+          "chineseIdea": "度假的体验让人觉得无比美好，仿佛一切都完美无缺。",
+          "sentenceWithBlank": "Lying on the beach was a @ @ I’ll never forget.",
+          "fullEnglishSentence": "Lying on the beach was a 「divine experience」 I’ll never forget.",
+          "chineseTranslation": "躺在沙滩上是一种「绝妙体验」，我永远不会忘记。",
+          "chinglishFix": "典型中式英语：'very good experience'. 纠正：使用 'divine experience' 来表达极度愉悦的体验，而不是泛泛的 'very good'。"
+        }
+      ]
+    },
+    {
+      "meaning": "预言或感知，通过超自然方式了解未知事物",
+      "usage": "用作动词，描述通过直觉、超自然能力或神秘方式预测或感知隐藏的事物。常用于神秘学、宗教或文学语境。",
+      "collocations": ["divine the future", "divine the truth", "divine someone’s intentions"],
+      "examples": [
+        {
+          "scene": "在一个古老的村庄里，一位老者通过观察星象试图预测来年的收成。",
+          "chineseIdea": "通过某种神秘的方式预测未来的事件或结果。",
+          "sentenceWithBlank": "The elder attempted to @ @ by reading the stars.",
+          "fullEnglishSentence": "The elder attempted to 「divine the future」 by reading the stars.",
+          "chineseTranslation": "这位长者试图通过观星来「预知未来」。",
+          "chinglishFix": "典型中式英语：'see future'. 纠正：使用 'divine the future' 来表达通过神秘方式预测未来，而不是简单的 'see'。"
+        },
+        {
+          "scene": "在一场谈判中，一位商人凭借敏锐的直觉猜测对方的真实目的。",
+          "chineseIdea": "通过观察和直觉，推测出某人隐藏的意图。",
+          "sentenceWithBlank": "She carefully observed his words to @ @.",
+          "fullEnglishSentence": "She carefully observed his words to 「divine his intentions」.",
+          "chineseTranslation": "她仔细观察他的话语，试图「揣摩他的意图」。",
+          "chinglishFix": "典型中式英语：'guess his thinking'. 纠正：使用 'divine someone’s intentions' 来表达通过直觉推测意图，而不是 'guess thinking'。"
+        }
+      ]
+    }
+  ]
+}
+```

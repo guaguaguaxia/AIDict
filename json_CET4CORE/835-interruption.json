@@ -1,0 +1,53 @@
+```json
+{
+  "word": "interruption",
+  "definitions": [
+    {
+      "meaning": "打断或中断某人正在说的话或某事的进行",
+      "usage": "指在对话、活动或进程中突然插入或暂停，通常带有使原有活动暂时停止的含义，常用于描述无意或不礼貌的打扰。",
+      "collocations": ["cause an interruption", "without interruption", "constant interruptions"],
+      "examples": [
+        {
+          "scene": "在一间会议室里，团队正在讨论新项目的计划。经理正在讲解一个重要的时间表，突然一位同事的手机响了，打破了讨论的节奏。",
+          "chineseIdea": "手机铃声打断了经理的讲话，让大家不得不暂停下来。",
+          "sentenceWithBlank": "The manager was explaining the timeline when a phone call @ @ @.",
+          "fullEnglishSentence": "The manager was explaining the timeline when a phone call 「caused an interruption」.",
+          "chineseTranslation": "经理正在解释时间表时，一个电话「引起了中断」。",
+          "chinglishFix": "典型中式英语：'The phone call stopped the meeting.' 纠正：'The phone call caused an interruption in the meeting.'（避免使用'stop'，因为它过于绝对，而'interruption'更准确地表达了临时打断。）"
+        },
+        {
+          "scene": "在咖啡馆里，两个朋友正在分享最近的生活经历。一个朋友正说到激动处时，服务员过来询问是否需要续杯。",
+          "chineseIdea": "服务员的询问打断了朋友的叙述，改变了谈话的节奏。",
+          "sentenceWithBlank": "She was sharing a story excitedly, but the waiter’s question @.",
+          "fullEnglishSentence": "She was sharing a story excitedly, but the waiter’s question 「caused an interruption」.",
+          "chineseTranslation": "她正兴奋地分享一个故事，但服务员的提问「引起了中断」。",
+          "chinglishFix": "典型中式英语：'The waiter broke her story.' 纠正：'The waiter caused an interruption in her story.'（'broke'不适用于描述打断谈话，'caused an interruption'更自然。）"
+        }
+      ]
+    },
+    {
+      "meaning": "某事连续进行的中止或暂停",
+      "usage": "指某项活动、进程或状态因外部因素而暂停或中断，强调连续性的暂时破坏，常用于描述技术、服务或计划的中止。",
+      "collocations": ["power interruption", "service interruption", "temporary interruption"],
+      "examples": [
+        {
+          "scene": "在一个暴风雨的夜晚，家里的电力突然中断，电视和灯光都停止了工作，全家只能点蜡烛照明。",
+          "chineseIdea": "暴风雨导致了电力供应暂停，影响了正常生活。",
+          "sentenceWithBlank": "The storm led to a @ @, leaving the house in darkness.",
+          "fullEnglishSentence": "The storm led to a 「power interruption」, leaving the house in darkness.",
+          "chineseTranslation": "暴风雨导致了「电力中断」，使房子陷入黑暗。",
+          "chinglishFix": "典型中式英语：'The storm made the power stop.' 纠正：'The storm caused a power interruption.'（'stop'过于简单，'power interruption'是更专业的表达。）"
+        },
+        {
+          "scene": "在一家公司的办公室里，员工们正在使用云服务处理数据，但服务器维护导致系统暂时无法访问。",
+          "chineseIdea": "服务器维护暂停了云服务的正常运行，影响了工作进度。",
+          "sentenceWithBlank": "The scheduled maintenance caused a @ @, delaying the team’s work.",
+          "fullEnglishSentence": "The scheduled maintenance caused a 「service interruption」, delaying the team’s work.",
+          "chineseTranslation": "计划中的维护导致了「服务中断」，延迟了团队的工作。",
+          "chinglishFix": "典型中式英语：'The maintenance stopped the service.' 纠正：'The maintenance caused a service interruption.'（'stopped'缺乏具体性，'service interruption'更贴合技术场景。）"
+        }
+      ]
+    }
+  ]
+}
+```

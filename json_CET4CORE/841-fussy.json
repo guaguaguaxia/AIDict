@@ -1,0 +1,53 @@
+```json
+{
+  "word": "fussy",
+  "definitions": [
+    {
+      "meaning": "过于挑剔或对细节过分关注",
+      "usage": "形容某人对事物（如食物、衣物、环境等）的选择过于苛刻或难以满足，强调对小细节的过度关注，通常带有轻微的负面含义。",
+      "collocations": ["fussy about", "fussy eater", "fussy over"],
+      "examples": [
+        {
+          "scene": "在一家高档餐厅，服务员正在为一位顾客介绍菜单，但这位顾客对每道菜的配料和做法都提出很多问题，甚至要求调整菜品的摆盘方式。",
+          "chineseIdea": "这位顾客对食物的选择非常严格，不仅关注味道，还在意食物的外观和制作过程，让人觉得他过于在意细节。",
+          "sentenceWithBlank": "The customer was @ @ the presentation of the dish, insisting on a specific arrangement.",
+          "fullEnglishSentence": "The customer was 「fussy about」 the presentation of the dish, insisting on a specific arrangement.",
+          "chineseTranslation": "这位顾客对菜品的摆盘「非常挑剔」，坚持要特定的排列方式。",
+          "chinglishFix": "典型中式英语：He is very picky for the dish's look. 纠正：He is very fussy about the presentation of the dish."
+        },
+        {
+          "scene": "在一个家庭聚会上，妈妈为孩子们准备了很多食物，但一个小男孩只吃了几口就说不喜欢这个不喜欢那个，剩下很多食物。",
+          "chineseIdea": "这个小男孩对食物非常挑剔，总是觉得食物不合口味，导致浪费了很多食物。",
+          "sentenceWithBlank": "The little boy is a @ @, refusing most of the dishes at the party.",
+          "fullEnglishSentence": "The little boy is a 「fussy eater」, refusing most of the dishes at the party.",
+          "chineseTranslation": "这个小男孩是个「挑食者」，拒绝了聚会上大部分的菜肴。",
+          "chinglishFix": "典型中式英语：He is very choosy to food. 纠正：He is a fussy eater."
+        }
+      ]
+    },
+    {
+      "meaning": "复杂或装饰过多",
+      "usage": "描述物品、设计或风格过于繁琐、装饰过多，通常带有不简洁或不实用的含义，常用于描述服装、家具或艺术品。",
+      "collocations": ["fussy design", "fussy details", "fussy pattern"],
+      "examples": [
+        {
+          "scene": "在一家家具店，顾客在挑选沙发时，看到一款布满花纹和装饰的沙发，觉得它看起来过于复杂，不适合简约的家居风格。",
+          "chineseIdea": "这款沙发的设计过于繁琐，装饰过多，与简约的家居风格不搭，让人觉得不够实用。",
+          "sentenceWithBlank": "The sofa had a @ @ that didn’t suit the minimalist aesthetic.",
+          "fullEnglishSentence": "The sofa had a 「fussy design」 that didn’t suit the minimalist aesthetic.",
+          "chineseTranslation": "这款沙发的「复杂设计」与极简主义美学不符。",
+          "chinglishFix": "典型中式英语：The sofa’s design is too fancy. 纠正：The sofa has a fussy design."
+        },
+        {
+          "scene": "在一个服装店，顾客试穿了一件裙子，但发现裙子上有太多的褶边、蕾丝和亮片，穿上后显得过于花哨。",
+          "chineseIdea": "这条裙子的装饰过于繁复，细节太多，穿上后显得不够优雅，反而有些夸张。",
+          "sentenceWithBlank": "The dress was overwhelmed by @ @ like ruffles and sequins.",
+          "fullEnglishSentence": "The dress was overwhelmed by 「fussy details」 like ruffles and sequins.",
+          "chineseTranslation": "这条裙子被褶边和亮片等「繁琐细节」所淹没。",
+          "chinglishFix": "典型中式英语：The dress has too much decoration. 纠正：The dress has too many fussy details."
+        }
+      ]
+    }
+  ]
+}
+```
