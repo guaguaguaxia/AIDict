@@ -1,0 +1,76 @@
+```json
+{
+  "word": "source",
+  "definitions": [
+    {
+      "meaning": "来源或出处，指某事物或信息的起源",
+      "usage": "通常用作名词，表示某事物（如信息、材料、能量等）的来源或出处，常用于描述新闻、学术研究或资源的起源。",
+      "collocations": ["reliable source", "primary source", "source of information"],
+      "examples": [
+        {
+          "scene": "一位记者正在调查一则新闻的真实性，需要找到可信的证据来支持报道。",
+          "chineseIdea": "记者希望确认信息的可信度，因此需要找到一个值得信赖的渠道或人来提供信息。",
+          "sentenceWithBlank": "The journalist was careful to verify the story with a @ @ before publishing.",
+          "fullEnglishSentence": "The journalist was careful to verify the story with a 「reliable source」 before publishing.",
+          "chineseTranslation": "记者在发布之前小心地通过一个「可靠来源」验证了故事。",
+          "chinglishFix": "中式英语：'The journalist checked the news with a believable source.' 纠正：'Believable' 不常用于描述来源，应使用 'reliable' 或 'trustworthy'，如 'reliable source'。"
+        },
+        {
+          "scene": "一名学生在写历史论文，需要引用原始文献来支持论点。",
+          "chineseIdea": "学生需要找到事件发生时的第一手资料，以确保论文的学术严谨性。",
+          "sentenceWithBlank": "For her thesis, she consulted a @ @ to ensure accuracy.",
+          "fullEnglishSentence": "For her thesis, she consulted a 「primary source」 to ensure accuracy.",
+          "chineseTranslation": "为了她的论文，她查阅了一个「原始来源」以确保准确性。",
+          "chinglishFix": "中式英语：'She used an original source for her paper.' 纠正：'Original' 不够精确，学术语境中更常用 'primary'，如 'primary source'。"
+        }
+      ]
+    },
+    {
+      "meaning": "资源或供给的来源，指提供某种物质或能量的起点",
+      "usage": "用作名词，指提供某种物质、能量或支持的来源，如自然资源、资金或能量的供给点。",
+      "collocations": ["source of energy", "source of income", "renewable source"],
+      "examples": [
+        {
+          "scene": "一家公司正在讨论如何减少对化石燃料的依赖，计划投资绿色能源。",
+          "chineseIdea": "公司希望找到可持续的能源供应方式，以降低环境影响。",
+          "sentenceWithBlank": "The company invested heavily in solar panels as a @ @ @.",
+          "fullEnglishSentence": "The company invested heavily in solar panels as a 「source of energy」.",
+          "chineseTranslation": "公司大力投资太阳能板作为「能源来源」。",
+          "chinglishFix": "中式英语：'The company used solar panels as an energy source.' 纠正：'Energy source' 虽可接受，但 'source of energy' 是更自然的搭配，尤其在正式语境中。"
+        },
+        {
+          "scene": "一位单亲妈妈在寻找额外的赚钱方式来支持家庭开支。",
+          "chineseIdea": "她需要找到一种稳定的收入渠道来支付孩子的教育费用。",
+          "sentenceWithBlank": "She started freelancing to create an additional @ @ @.",
+          "fullEnglishSentence": "She started freelancing to create an additional 「source of income」.",
+          "chineseTranslation": "她开始做自由职业以创造额外的「收入来源」。",
+          "chinglishFix": "中式英语：'She freelanced to get more income source.' 纠正：'Income source' 不自然，且语法上需用 'source of income'，如 'an additional source of income'。"
+        }
+      ]
+    },
+    {
+      "meaning": "动词，意为获取或采购（某物）",
+      "usage": "用作动词，表示从特定地方或渠道获取材料、产品或信息，通常用于商业或供应链语境。",
+      "collocations": ["source materials", "source products", "locally sourced"],
+      "examples": [
+        {
+          "scene": "一家餐厅老板正在计划新菜单，强调使用当地食材以吸引顾客。",
+          "chineseIdea": "老板希望通过使用本地采购的食材来提升餐厅的环保形象。",
+          "sentenceWithBlank": "The restaurant decided to @ @ from nearby farms to promote sustainability.",
+          "fullEnglishSentence": "The restaurant decided to 「source materials」 from nearby farms to promote sustainability.",
+          "chineseTranslation": "餐厅决定从附近的农场「采购材料」以促进可持续发展。",
+          "chinglishFix": "中式英语：'The restaurant bought materials from local farms.' 纠正：'Bought' 过于泛泛，'source' 更精确地表达采购行为，如 'source materials'。"
+        },
+        {
+          "scene": "一家服装公司正在设计新系列，强调环保和道德生产。",
+          "chineseIdea": "公司希望从可持续的供应商那里获取布料，以符合品牌价值观。",
+          "sentenceWithBlank": "They committed to using @ @ cotton for their new clothing line.",
+          "fullEnglishSentence": "They committed to using 「locally sourced」 cotton for their new clothing line.",
+          "chineseTranslation": "他们承诺在新服装系列中使用「本地采购的」棉花。",
+          "chinglishFix": "中式英语：'They used local cotton for their clothes.' 纠正：'Local cotton' 缺乏采购含义，'locally sourced' 更能体现主动获取的过程。"
+        }
+      ]
+    }
+  ]
+}
+```

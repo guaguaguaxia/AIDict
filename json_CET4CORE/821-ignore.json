@@ -1,0 +1,53 @@
+```json
+{
+  "word": "ignore",
+  "definitions": [
+    {
+      "meaning": "不理会；忽视",
+      "usage": "指故意不予理会或不注意某人、某事，通常带有主观意图",
+      "collocations": ["ignore a warning", "ignore someone's advice", "ignore the problem"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的办公室里，小明收到了一封关于系统更新的警告邮件，但他因为忙于其他工作，决定暂时不处理这封邮件。",
+          "chineseIdea": "小明觉得这封邮件不重要，决定不予理会，继续专注于手头的工作。",
+          "sentenceWithBlank": "He decided to @ @ @ and focus on his current tasks.",
+          "fullEnglishSentence": "He decided to 「ignore a warning」 and focus on his current tasks.",
+          "chineseTranslation": "他决定「不理会警告」，专注于当前的工作。",
+          "chinglishFix": "典型中式英语：'He not care the warning.' 纠正：'He ignored the warning.'"
+        },
+        {
+          "scene": "在家庭聚会上，小红的妈妈提醒她不要吃太多甜点，但小红觉得自己很健康，不需要担心。",
+          "chineseIdea": "小红认为妈妈的建议没有必要，所以选择不听。",
+          "sentenceWithBlank": "She chose to @ @ @ and ate another piece of cake.",
+          "fullEnglishSentence": "She chose to 「ignore someone's advice」 and ate another piece of cake.",
+          "chineseTranslation": "她选择「不理会某人的建议」，又吃了一块蛋糕。",
+          "chinglishFix": "典型中式英语：'She no listen her mom's advice.' 纠正：'She ignored her mom's advice.'"
+        }
+      ]
+    },
+    {
+      "meaning": "忽略；不予考虑",
+      "usage": "指无意或有意不将某事或某人纳入考虑范围，常用于正式或客观场景",
+      "collocations": ["ignore the details", "ignore the evidence", "ignore the consequences"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，研究员小李在分析数据时，决定不考虑一些次要的细节，以便更清晰地展示主要结论。",
+          "chineseIdea": "小李认为这些细节对整体分析影响不大，所以选择不予考虑。",
+          "sentenceWithBlank": "He chose to @ @ @ to present a clearer conclusion.",
+          "fullEnglishSentence": "He chose to 「ignore the details」 to present a clearer conclusion.",
+          "chineseTranslation": "他选择「忽略细节」，以呈现更清晰的结论。",
+          "chinglishFix": "典型中式英语：'He not see the details.' 纠正：'He ignored the details.'"
+        },
+        {
+          "scene": "在一个法律案件中，辩护律师提醒法官某些证据不可靠，但法官认为这些证据与案件核心无关。",
+          "chineseIdea": "法官觉得这些证据不重要，决定不予考虑。",
+          "sentenceWithBlank": "The judge decided to @ @ @ in the final ruling.",
+          "fullEnglishSentence": "The judge decided to 「ignore the evidence」 in the final ruling.",
+          "chineseTranslation": "法官决定在最终裁决中「忽略证据」。",
+          "chinglishFix": "典型中式英语：'The judge no care the evidence.' 纠正：'The judge ignored the evidence.'"
+        }
+      ]
+    }
+  ]
+}
+```
