@@ -1,0 +1,53 @@
+```json
+{
+  "word": "stressful",
+  "definitions": [
+    {
+      "meaning": "引起紧张、压力或焦虑的",
+      "usage": "形容某事或某情境让人感到心理或情感上的压力，通常与工作、学习或生活中的挑战相关。",
+      "collocations": ["high-pressure job", "demanding workload", "tight deadline"],
+      "examples": [
+        {
+          "scene": "小明是一名刚入职的程序员，负责一个重要项目的开发。客户要求在两周内完成一个复杂的功能，而他每天需要加班到深夜。",
+          "chineseIdea": "小明觉得这个项目让他非常紧张，因为时间紧迫，任务繁重，他担心无法按时完成。",
+          "sentenceWithBlank": "Working on this project with a @ @ @ is really overwhelming for me.",
+          "fullEnglishSentence": "Working on this project with a 「high-pressure job」 is really overwhelming for me.",
+          "chineseTranslation": "从事这个有着「高压工作」的项目对我来说真的很让人不堪重负。",
+          "chinglishFix": "典型中式英语：'This job makes me very pressure.' 纠正：'This job is very stressful.'（用'stressful'准确表达压力感，而不是直接翻译'pressure'）"
+        },
+        {
+          "scene": "丽丽是一名高中生，面临高考的压力。她的老师每天布置大量作业，而且她还要准备各种课外活动来丰富简历。",
+          "chineseIdea": "丽丽觉得每天的任务让她喘不过气，她总是担心自己做得不够好。",
+          "sentenceWithBlank": "Managing a @ @ with schoolwork makes every day exhausting.",
+          "fullEnglishSentence": "Managing a 「demanding workload」 with schoolwork makes every day exhausting.",
+          "chineseTranslation": "处理「繁重的工作量」和学业让每一天都筋疲力尽。",
+          "chinglishFix": "典型中式英语：'My homework is too heavy.' 纠正：'My workload is very stressful.'（用'stressful'和'workload'更自然地表达繁重任务带来的压力）"
+        }
+      ]
+    },
+    {
+      "meaning": "对身心造成负担的",
+      "usage": "强调某事对身体或心理健康产生负面影响，通常与长期的压力或紧张情境相关。",
+      "collocations": ["stressful situation", "challenging environment", "intense period"],
+      "examples": [
+        {
+          "scene": "张伟是一名急诊科医生，经常需要在高压环境中快速做出生死攸关的决定，比如抢救突发心脏病的患者。",
+          "chineseIdea": "张伟觉得这种工作环境让他身心俱疲，因为他需要时刻保持高度警觉。",
+          "sentenceWithBlank": "Dealing with a @ @ every day takes a toll on my health.",
+          "fullEnglishSentence": "Dealing with a 「stressful situation」 every day takes a toll on my health.",
+          "chineseTranslation": "每天应对「紧张的情况」对我的健康造成了影响。",
+          "chinglishFix": "典型中式英语：'This work makes me tired in heart.' 纠正：'This work is very stressful and exhausting.'（用'stressful'和'exhausting'表达身心疲惫）"
+        },
+        {
+          "scene": "小红刚搬到国外生活，语言不通、文化差异让她感到很不适应。她每天都在努力适应新环境，同时还要处理工作上的问题。",
+          "chineseIdea": "小红觉得这种新生活方式让她压力很大，因为她需要不断调整自己以适应陌生的环境。",
+          "sentenceWithBlank": "Adapting to a @ @ abroad is draining my energy.",
+          "fullEnglishSentence": "Adapting to a 「challenging environment」 abroad is draining my energy.",
+          "chineseTranslation": "适应国外的「具有挑战性的环境」正在耗尽我的精力。",
+          "chinglishFix": "典型中式英语：'New life is very hard.' 纠正：'Adapting to this new environment is very stressful.'（用'stressful'更准确表达环境带来的心理负担）"
+        }
+      ]
+    }
+  ]
+}
+```

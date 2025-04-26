@@ -1,0 +1,30 @@
+```json
+{
+  "word": "toothache",
+  "definitions": [
+    {
+      "meaning": "A pain or discomfort in or around a tooth, typically caused by dental issues such as cavities, gum disease, or tooth decay",
+      "usage": "Used as a countable noun to describe a specific instance of dental pain, often prompting a visit to the dentist. It can be used in both medical and casual contexts to express discomfort.",
+      "collocations": ["suffer from a toothache", "have a toothache", "relieve a toothache"],
+      "examples": [
+        {
+          "scene": "小明是一个大学生，昨晚熬夜吃了很多糖果，今天早上醒来后感觉牙齿一阵刺痛。他尝试喝冷水，但疼痛加剧，决定去看牙医。",
+          "chineseIdea": "小明想要表达他因为牙痛而感到不适，并且这种疼痛影响了他的日常生活。",
+          "sentenceWithBlank": "I’ve been @ @ @ @ all morning, and I can’t even drink cold water without wincing.",
+          "fullEnglishSentence": "I’ve been 「suffering from a toothache」 all morning, and I can’t even drink cold water without wincing.",
+          "chineseTranslation": "我整个早上都在「遭受牙痛的折磨」，连喝冷水都会痛得皱眉。",
+          "chinglishFix": "Chinglish: 'My tooth is painful.' Correction: 'I’m suffering from a toothache.' The word 'painful' is less natural here, and 'toothache' is a specific term for dental pain."
+        },
+        {
+          "scene": "丽丽是一个忙碌的上班族，最近因为工作压力大，忽视了口腔卫生。一天在公司开会时，她突然感到牙齿一阵剧痛，影响了她的注意力。",
+          "chineseIdea": "丽丽想告诉同事她因为牙痛而分心，同时表达她需要尽快处理这个问题。",
+          "sentenceWithBlank": "I can’t focus on the meeting because I @ @ @.",
+          "fullEnglishSentence": "I can’t focus on the meeting because I 「have a toothache」.",
+          "chineseTranslation": "我无法专注于会议，因为我「牙痛」。",
+          "chinglishFix": "Chinglish: 'I have tooth pain.' Correction: 'I have a toothache.' Using 'tooth pain' sounds unnatural; 'toothache' is the standard term."
+        }
+      ]
+    }
+  ]
+}
+```

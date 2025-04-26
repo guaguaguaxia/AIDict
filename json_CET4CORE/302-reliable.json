@@ -1,0 +1,63 @@
+```json
+{
+  "word": "reliable",
+  "definitions": [
+    {
+      "meaning": "可信赖的；可靠的（指人、系统或事物在持续表现上值得信赖）",
+      "usage": "常用于描述某人、某事物或某系统在长期使用中始终表现稳定、值得信任。可以用在人（如朋友、员工）、物品（如机器、工具）或信息（如数据、来源）。",
+      "collocations": [
+        "reliable source",
+        "reliable friend",
+        "reliable service",
+        "reliable performance"
+      ],
+      "examples": [
+        {
+          "scene": "小明在准备一篇关于气候变化的论文，需要找到权威的资料来支持他的论点。他在网上搜索时，看到很多信息，但不确定哪些可以信任。",
+          "chineseIdea": "小明希望找到一个值得信赖的信息来源，确保他的论文数据准确无误。",
+          "sentenceWithBlank": "He found a @ @ that provided accurate data on global warming.",
+          "fullEnglishSentence": "He found a 「reliable source」 that provided accurate data on global warming.",
+          "chineseTranslation": "他找到了一个「可靠的来源」，提供了关于全球变暖的准确数据。",
+          "chinglishFix": "典型中式英语：'He found a can believe source.' 纠正：'can believe' 不地道，应改为 'reliable'，表示值得信赖。"
+        },
+        {
+          "scene": "小红在公司负责选择物流供应商，她需要一家能够按时交付的公司，以确保供应链的顺畅。",
+          "chineseIdea": "小红希望找到一家服务稳定、值得信赖的物流公司。",
+          "sentenceWithBlank": "The company chose a provider known for its @ @.",
+          "fullEnglishSentence": "The company chose a provider known for its 「reliable service」.",
+          "chineseTranslation": "公司选择了一家以其「可靠的服务」而闻名的供应商。",
+          "chinglishFix": "典型中式英语：'The company chose a trustable service.' 纠正：'trustable' 虽可理解，但不常用，应改为 'reliable service'，更自然。"
+        }
+      ]
+    },
+    {
+      "meaning": "始终如一的；稳定的（指某事物或人在表现上始终保持一致）",
+      "usage": "强调某人或某事物在特定情境下表现稳定、一致，不会出现意外或波动。常用于描述机械、车辆、软件或人的行为。",
+      "collocations": [
+        "reliable car",
+        "reliable worker",
+        "reliable results",
+        "reliable system"
+      ],
+      "examples": [
+        {
+          "scene": "小刚最近想买一辆二手车，他希望这辆车在长途旅行中不会轻易抛锚。",
+          "chineseIdea": "小刚希望买一辆性能稳定、不会经常出故障的车。",
+          "sentenceWithBlank": "He bought a @ @ that never broke down on long trips.",
+          "fullEnglishSentence": "He bought a 「reliable car」 that never broke down on long trips.",
+          "chineseTranslation": "他买了一辆「可靠的车」，在长途旅行中从不抛锚。",
+          "chinglishFix": "典型中式英语：'He bought a good quality car.' 纠正：'good quality' 太笼统，应改为 'reliable'，更精准地表达稳定性。"
+        },
+        {
+          "scene": "一家科技公司正在测试新开发的软件，他们希望软件在各种情况下都能稳定运行。",
+          "chineseIdea": "公司希望确保软件系统在高负载下也能保持稳定。",
+          "sentenceWithBlank": "The new software proved to be a @ @ under heavy usage.",
+          "fullEnglishSentence": "The new software proved to be a 「reliable system」 under heavy usage.",
+          "chineseTranslation": "新软件在高负载下被证明是一个「可靠的系统」。",
+          "chinglishFix": "典型中式英语：'The software is a stable software.' 纠正：'stable software' 语法正确但不地道，应改为 'reliable system'，更符合英语表达习惯。"
+        }
+      ]
+    }
+  ]
+}
+```

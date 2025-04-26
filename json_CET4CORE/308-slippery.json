@@ -1,0 +1,53 @@
+```json
+{
+  "word": "slippery",
+  "definitions": [
+    {
+      "meaning": "光滑的；容易滑倒的",
+      "usage": "描述表面湿滑、油腻或光滑，导致人或物体容易滑倒或难以抓牢的情况。",
+      "collocations": ["slippery slope", "slippery surface", "slippery road"],
+      "examples": [
+        {
+          "scene": "下雨天，你走在一条湿漉漉的石板路上，路面上长满了青苔，脚下感觉不稳，随时可能摔倒。",
+          "chineseIdea": "描述一种表面因为湿润或光滑而让人难以保持平衡的情况。",
+          "sentenceWithBlank": "After the rain, the path became a @ @, making it hard to walk without falling.",
+          "fullEnglishSentence": "After the rain, the path became a 「slippery surface」, making it hard to walk without falling.",
+          "chineseTranslation": "雨后，小路变成了「光滑的表面」，走路时很难不摔倒。",
+          "chinglishFix": "典型中式英语：'The road is very slide.' 纠正：'The road is very slippery.'（用'slippery'准确描述湿滑状态，而不是用'slide'这种动作动词。）"
+        },
+        {
+          "scene": "你在讨论一个社会问题，比如过度使用社交媒体可能导致隐私泄露，进而引发更大的道德或法律问题。",
+          "chineseIdea": "描述一种行为或决定可能引发一系列不可控的后果。",
+          "sentenceWithBlank": "Allowing unrestricted data collection could lead to a @ @, where personal privacy is gradually eroded.",
+          "fullEnglishSentence": "Allowing unrestricted data collection could lead to a 「slippery slope」, where personal privacy is gradually eroded.",
+          "chineseTranslation": "允许无限制的数据收集可能导致「滑坡效应」，个人隐私逐渐被侵蚀。",
+          "chinglishFix": "典型中式英语：'This is a dangerous road.' 纠正：'This is a slippery slope.'（用'slippery slope'表达逐步恶化的趋势，而不是模糊的'dangerous road'。）"
+        }
+      ]
+    },
+    {
+      "meaning": "狡猾的；不可靠的",
+      "usage": "描述人或事物狡诈、不可信任，难以捉摸或难以应对。",
+      "collocations": ["slippery character", "slippery customer", "slippery deal"],
+      "examples": [
+        {
+          "scene": "你在市场上与一个摊贩讨价还价，他总是巧妙地回避你的问题，试图让你以更高的价格购买商品。",
+          "chineseIdea": "描述一个人说话或行为狡猾，让人难以信任或捉摸。",
+          "sentenceWithBlank": "The vendor was a @ @, always dodging my questions about the product’s quality.",
+          "fullEnglishSentence": "The vendor was a 「slippery character」, always dodging my questions about the product’s quality.",
+          "chineseTranslation": "那个摊贩是个「狡猾的家伙」，总是回避我关于产品质量的问题。",
+          "chinglishFix": "典型中式英语：'He is a cunning man.' 纠正：'He is a slippery character.'（用'slippery character'更生动地表达狡猾的个性，而不是笼统的'cunning'。）"
+        },
+        {
+          "scene": "你和朋友讨论一个商业交易，对方提出的合同条款看起来很有吸引力，但细节模糊，隐藏了很多风险。",
+          "chineseIdea": "描述一个交易或提议看似合理，但实际上隐藏风险，难以完全信任。",
+          "sentenceWithBlank": "The contract seemed promising, but it was a @ @ with too many vague clauses.",
+          "fullEnglishSentence": "The contract seemed promising, but it was a 「slippery deal」 with too many vague clauses.",
+          "chineseTranslation": "合同看似很有前景，但它是个「不可靠的交易」，条款过于模糊。",
+          "chinglishFix": "典型中式英语：'This deal is not clear.' 纠正：'This is a slippery deal.'（用'slippery deal'表达交易的不可靠和潜在风险，而不是简单的'not clear'。）"
+        }
+      ]
+    }
+  ]
+}
+```
