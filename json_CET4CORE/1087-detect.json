@@ -1,0 +1,53 @@
+```json
+{
+  "word": "detect",
+  "definitions": [
+    {
+      "meaning": "发现或识别某事物（通常是隐藏或不易察觉的事物）",
+      "usage": "指通过观察、检查或使用工具发现某事物存在，常用于描述发现微小、隐藏或不明显的事物，如问题、变化、疾病等。",
+      "collocations": ["detect a problem", "detect a change", "detect a signal"],
+      "examples": [
+        {
+          "scene": "在一家科技公司，工程师正在检查新开发的软件，以确保其正常运行。他们运行了一系列测试，试图找到任何可能导致系统崩溃的潜在问题。",
+          "chineseIdea": "工程师希望通过仔细检查，发现软件中可能存在的任何问题，以确保用户体验顺畅。",
+          "sentenceWithBlank": "After running the tests, the engineer was able to @ @ @ in the software.",
+          "fullEnglishSentence": "After running the tests, the engineer was able to 「detect a problem」 in the software.",
+          "chineseTranslation": "在运行测试后，工程师能够「发现一个问题」在软件中。",
+          "chinglishFix": "典型中式英语：'Find a problem in the software.' 纠正：'Detect a problem in the software.'（'find' 过于笼统，'detect' 更强调通过检查发现隐藏问题）"
+        },
+        {
+          "scene": "在医院中，医生使用先进的医疗设备检查患者的血液样本，试图发现任何可能表明疾病的异常情况。",
+          "chineseIdea": "医生希望通过设备分析，注意到血液样本中可能存在的微小变化，以确诊疾病。",
+          "sentenceWithBlank": "The doctor used a machine to @ @ @ in the patient's blood sample.",
+          "fullEnglishSentence": "The doctor used a machine to 「detect a change」 in the patient's blood sample.",
+          "chineseTranslation": "医生使用机器「发现一个变化」在患者的血液样本中。",
+          "chinglishFix": "典型中式英语：'See a change in the blood sample.' 纠正：'Detect a change in the blood sample.'（'see' 强调视觉观察，'detect' 更适合描述通过工具发现微小变化）"
+        }
+      ]
+    },
+    {
+      "meaning": "察觉或感知某事物（通常是感官或直觉上的察觉）",
+      "usage": "指通过感官（如听觉、嗅觉）或直觉察觉到某事物的存在，常用于描述细微的情绪、气味、声音等。",
+      "collocations": ["detect a hint", "detect a smell", "detect a tone"],
+      "examples": [
+        {
+          "scene": "在朋友聚会上，小李注意到朋友小张说话时语气有些异常，似乎隐藏了一些情绪。小李决定私下问问他是否有什么心事。",
+          "chineseIdea": "小李通过观察朋友的语气，感觉到一丝不寻常的情绪，可能表明对方有心事。",
+          "sentenceWithBlank": "During the conversation, Li could @ @ @ of sadness in Zhang's voice.",
+          "fullEnglishSentence": "During the conversation, Li could 「detect a hint」 of sadness in Zhang's voice.",
+          "chineseTranslation": "在谈话中，小李能「察觉一丝」悲伤在小张的声音中。",
+          "chinglishFix": "典型中式英语：'Feel a hint of sadness.' 纠正：'Detect a hint of sadness.'（'feel' 更强调主观感受，'detect' 强调通过观察察觉细微迹象）"
+        },
+        {
+          "scene": "在一个安静的厨房里，小王正在准备晚餐，突然闻到一股淡淡的烧焦气味，赶紧检查烤箱以防食物烧毁。",
+          "chineseIdea": "小王通过嗅觉感知到厨房里异常的气味，怀疑可能是食物烧焦了。",
+          "sentenceWithBlank": "While cooking, Wang suddenly @ @ @ of burning in the kitchen.",
+          "fullEnglishSentence": "While cooking, Wang suddenly 「detect a smell」 of burning in the kitchen.",
+          "chineseTranslation": "在烹饪时，小王突然「闻到一股」烧焦的气味在厨房里。",
+          "chinglishFix": "典型中式英语：'Smell a smell of burning.' 纠正：'Detect a smell of burning.'（'smell' 作为动词已包含感知气味的意思，重复使用显得冗余，'detect' 更自然）"
+        }
+      ]
+    }
+  ]
+}
+```

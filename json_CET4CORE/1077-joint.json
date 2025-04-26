@@ -1,0 +1,76 @@
+```json
+{
+  "word": "joint",
+  "definitions": [
+    {
+      "meaning": "连接处或关节",
+      "usage": "指两个或多个部分连接的地方，如骨头的关节、机械的连接点或物体的结合处，常用于描述物理结构中的连接。",
+      "collocations": ["joint pain", "joint venture", "ball joint", "welded joint"],
+      "examples": [
+        {
+          "scene": "一位中年人在健身房锻炼后感到膝盖不适，向医生咨询问题。",
+          "chineseIdea": "描述身体某个部位的疼痛，尤其是骨头连接的地方。",
+          "sentenceWithBlank": "After running, he felt @ @ in his knees.",
+          "fullEnglishSentence": "After running, he felt 「joint pain」 in his knees.",
+          "chineseTranslation": "跑步后，他感到膝盖有「关节疼痛」。",
+          "chinglishFix": "典型中式英语：'My knee joint is pain.' 纠正：'I have joint pain in my knee.'（避免直接翻译‘关节是痛’，用have表达疼痛状态）"
+        },
+        {
+          "scene": "两家科技公司决定合作开发一款新产品，签署了合作协议。",
+          "chineseIdea": "描述两家公司共同投资或合作开展一个项目。",
+          "sentenceWithBlank": "The two firms launched a @ @ to develop AI software.",
+          "fullEnglishSentence": "The two firms launched a 「joint venture」 to develop AI software.",
+          "chineseTranslation": "这两家公司启动了一项「合资企业」来开发人工智能软件。",
+          "chinglishFix": "典型中式英语：'They do a cooperate project.' 纠正：'They launched a joint venture.'（避免用‘do’或‘cooperate project’，用joint venture表达合作企业）"
+        }
+      ]
+    },
+    {
+      "meaning": "共享的或共同的",
+      "usage": "形容由多方共同拥有、承担或参与的事物，如责任、账户或决定，常用于描述合作或集体行为。",
+      "collocations": ["joint effort", "joint account", "joint decision", "joint ownership"],
+      "examples": [
+        {
+          "scene": "一个团队在公司项目截止日期前通力合作完成任务。",
+          "chineseIdea": "描述多个人的共同努力以达成目标。",
+          "sentenceWithBlank": "The project was completed thanks to a @ @ by the entire team.",
+          "fullEnglishSentence": "The project was completed thanks to a 「joint effort」 by the entire team.",
+          "chineseTranslation": "由于整个团队的「共同努力」，项目得以完成。",
+          "chinglishFix": "典型中式英语：'Everyone together work to finish.' 纠正：'It was a joint effort by everyone.'（避免‘together work’，用joint effort表达协作）"
+        },
+        {
+          "scene": "一对夫妇决定开设一个共同的银行账户来管理家庭开支。",
+          "chineseIdea": "描述两人共同使用的银行账户。",
+          "sentenceWithBlank": "They opened a @ @ to manage their household expenses.",
+          "fullEnglishSentence": "They opened a 「joint account」 to manage their household expenses.",
+          "chineseTranslation": "他们开设了一个「共同账户」来管理家庭开支。",
+          "chinglishFix": "典型中式英语：'They have a share bank account.' 纠正：'They opened a joint account.'（避免‘share bank account’，用joint account表示共有账户）"
+        }
+      ]
+    },
+    {
+      "meaning": "俚语：大麻烟卷",
+      "usage": "非正式用语，指用纸卷起的大麻，用于吸食，常见于休闲或亚文化场景。",
+      "collocations": ["smoke a joint", "roll a joint", "light a joint", "share a joint"],
+      "examples": [
+        {
+          "scene": "一群朋友在周末聚会上放松，点燃了一支大麻烟卷。",
+          "chineseIdea": "描述在休闲场合吸食大麻的行为。",
+          "sentenceWithBlank": "They sat on the porch and decided to @ @.",
+          "fullEnglishSentence": "They sat on the porch and decided to 「smoke a joint」.",
+          "chineseTranslation": "他们坐在门廊上，决定「抽一支大麻烟」。",
+          "chinglishFix": "典型中式英语：'They smoke a marijuana cigarette.' 纠正：'They smoked a joint.'（避免冗长的‘marijuana cigarette’，用joint更自然）"
+        },
+        {
+          "scene": "一个年轻人在音乐节上准备了一支大麻烟卷与朋友分享。",
+          "chineseIdea": "描述制作大麻烟卷的行为。",
+          "sentenceWithBlank": "At the festival, he took out some paper to @ @.",
+          "fullEnglishSentence": "At the festival, he took out some paper to 「roll a joint」.",
+          "chineseTranslation": "在音乐节上，他拿出纸来「卷一支大麻烟」。",
+          "chinglishFix": "典型中式英语：'He make a marijuana roll.' 纠正：'He rolled a joint.'（避免‘make a roll’，用roll a joint表达制作大麻烟卷）"
+        }
+      ]
+    }
+  ]
+}
+```
