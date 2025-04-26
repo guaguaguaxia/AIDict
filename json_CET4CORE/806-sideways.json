@@ -1,0 +1,53 @@
+```json
+{
+  "word": "sideways",
+  "definitions": [
+    {
+      "meaning": "朝向一侧；横着",
+      "usage": "用作副词或形容词，表示某物或某人朝一侧移动、面向一侧或以横向的方式进行。常用于描述物理方向或位置的变化。",
+      "collocations": ["move sideways", "glance sideways", "step sideways"],
+      "examples": [
+        {
+          "scene": "在一个拥挤的火车站候车大厅里，人群熙熙攘攘。你正站在站台上，试图避开迎面走来的人。",
+          "chineseIdea": "为了避免撞到别人，你需要向一侧移动身体，调整自己的位置。",
+          "sentenceWithBlank": "To avoid the oncoming crowd, she had to @ @ to make way.",
+          "fullEnglishSentence": "To avoid the oncoming crowd, she had to 「move sideways」 to make way.",
+          "chineseTranslation": "为了避开迎面的人群，她不得不「向一侧移动」以让路。",
+          "chinglishFix": "典型中式英语：She moved to side to avoid people. 纠正：She moved sideways to avoid the crowd."
+        },
+        {
+          "scene": "在一家咖啡店里，你和朋友坐在靠窗的座位上。朋友正在低声分享一个秘密，你偷偷地看向旁边，确认没人偷听。",
+          "chineseIdea": "你想确认周围是否有人在注意你们，所以快速地向一侧看了一眼。",
+          "sentenceWithBlank": "While her friend whispered, she @ @ to check if anyone was listening.",
+          "fullEnglishSentence": "While her friend whispered, she 「glanced sideways」 to check if anyone was listening.",
+          "chineseTranslation": "当她的朋友低声说话时，她「向一侧瞥了一眼」以确认是否有人在听。",
+          "chinglishFix": "典型中式英语：She looked to side quickly. 纠正：She glanced sideways quickly."
+        }
+      ]
+    },
+    {
+      "meaning": "间接地；非直接地",
+      "usage": "用作副词，描述以间接、迂回或非直截了当的方式处理或表达某事。通常用于描述交流、批评或解决问题的方式。",
+      "collocations": ["approach sideways", "criticize sideways", "deal sideways"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理不想直接批评团队的某个成员，而是通过讨论整体表现来暗示问题。",
+          "chineseIdea": "经理想指出某人的不足，但选择了一种不直接的方式来表达批评。",
+          "sentenceWithBlank": "Instead of naming anyone, the manager chose to @ @ the team’s performance issues.",
+          "fullEnglishSentence": "Instead of naming anyone, the manager chose to 「criticize sideways」 the team’s performance issues.",
+          "chineseTranslation": "经理没有点名任何人，而是选择「间接批评」团队的绩效问题。",
+          "chinglishFix": "典型中式英语：The manager criticized not directly. 纠正：The manager criticized sideways."
+        },
+        {
+          "scene": "你和朋友讨论一个敏感话题，比如他最近的工作压力。你不想直说他的问题，而是通过分享类似的故事来引导话题。",
+          "chineseIdea": "你希望以一种迂回的方式来处理这个话题，避免让朋友感到尴尬。",
+          "sentenceWithBlank": "Rather than addressing his stress directly, she chose to @ @ by sharing a similar story.",
+          "fullEnglishSentence": "Rather than addressing his stress directly, she chose to 「approach sideways」 by sharing a similar story.",
+          "chineseTranslation": "她没有直接提及他的压力，而是通过分享一个类似的故事来「间接处理」。",
+          "chinglishFix": "典型中式英语：She talked about his problem not straightly. 纠正：She approached the problem sideways."
+        }
+      ]
+    }
+  ]
+}
+```
