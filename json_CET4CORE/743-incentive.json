@@ -1,0 +1,53 @@
+```json
+{
+  "word": "incentive",
+  "definitions": [
+    {
+      "meaning": "鼓励或刺激人们采取行动的事物，通常通过提供奖励或好处",
+      "usage": "常用于描述促使某人努力工作、完成目标或改变行为的动机因素，常见于商业、职场、教育或政策场景。",
+      "collocations": ["provide an incentive", "financial incentive", "offer an incentive"],
+      "examples": [
+        {
+          "scene": "一家公司希望提高员工的生产效率，因此决定为表现优秀的员工提供额外的奖金。",
+          "chineseIdea": "通过金钱奖励来激发员工更加努力地工作。",
+          "sentenceWithBlank": "To boost productivity, the company decided to @ @ @ for top performers.",
+          "fullEnglishSentence": "To boost productivity, the company decided to 「provide an incentive」 for top performers.",
+          "chineseTranslation": "为了提高生产力，公司决定为表现优秀者「提供激励」。",
+          "chinglishFix": "典型中式英语：'Give a motivation to employees.' 纠正：'Provide an incentive for employees.'（'motivation' 更偏向内在驱动力，而 'incentive' 强调外在奖励。）"
+        },
+        {
+          "scene": "政府希望鼓励市民使用公共交通工具，因此对购买年票的乘客提供折扣。",
+          "chineseIdea": "通过优惠政策吸引更多人选择环保的出行方式。",
+          "sentenceWithBlank": "To promote eco-friendly travel, the government introduced a @ @ for annual bus pass holders.",
+          "fullEnglishSentence": "To promote eco-friendly travel, the government introduced a 「financial incentive」 for annual bus pass holders.",
+          "chineseTranslation": "为了推广环保出行，政府为年票持有者引入了「经济激励」。",
+          "chinglishFix": "典型中式英语：'Give money motivation for passengers.' 纠正：'Offer a financial incentive for passengers.'（'money motivation' 不自然，'financial incentive' 是固定搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "作为动机的刺激因素，强调内在或外在的驱动力",
+      "usage": "更广义地指任何促使行动的动机，可能不局限于物质奖励，常见于心理学或日常对话。",
+      "collocations": ["strong incentive", "create an incentive", "act as an incentive"],
+      "examples": [
+        {
+          "scene": "一位学生因为想要考上理想的大学而更加努力学习。",
+          "chineseIdea": "对未来的憧憬成为努力学习的动力。",
+          "sentenceWithBlank": "The dream of attending a top university was a @ @ for her to study harder.",
+          "fullEnglishSentence": "The dream of attending a top university was a 「strong incentive」 for her to study harder.",
+          "chineseTranslation": "考上顶尖大学的梦想是她更加努力学习的「强大激励」。",
+          "chinglishFix": "典型中式英语：'Big motivation for her study.' 纠正：'Strong incentive for her to study.'（'big motivation' 语法正确但不地道，'strong incentive' 更符合英语表达习惯。）"
+        },
+        {
+          "scene": "一家咖啡店推出积分制度，鼓励顾客重复消费。",
+          "chineseIdea": "通过奖励机制让顾客更愿意再次光顾。",
+          "sentenceWithBlank": "The loyalty program was designed to @ @ @ for customers to return.",
+          "fullEnglishSentence": "The loyalty program was designed to 「create an incentive」 for customers to return.",
+          "chineseTranslation": "忠诚计划旨在为顾客「创造激励」，以鼓励他们再次光顾。",
+          "chinglishFix": "典型中式英语：'Make a motivation for customers.' 纠正：'Create an incentive for customers.'（'make a motivation' 不符合英语搭配习惯，'create an incentive' 是正确表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

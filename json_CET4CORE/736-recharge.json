@@ -1,0 +1,54 @@
+```json
+{
+  "word": "recharge",
+  "definitions": [
+    {
+      "meaning": "为电池或电子设备补充电量",
+      "usage": "指通过连接电源为电池或电子设备恢复能量，通常用于手机、笔记本电脑、电动车等设备。",
+      "collocations": ["recharge a battery", "recharge a phone", "recharge an electric vehicle"],
+      "examples": [
+        {
+          "scene": "小明下班回家后发现手机电量只剩5%，他赶紧找到充电器插上电源。",
+          "chineseIdea": "手机没电了，需要插上电源让它恢复电量。",
+          "sentenceWithBlank": "I need to @ @ @ because it’s almost dead.",
+          "fullEnglishSentence": "I need to 「recharge a battery」 because it’s almost dead.",
+          "chineseTranslation": "我需要「给电池充电」，因为它快没电了。",
+          "chinglishFix": "典型中式英语：'I need to charge electricity to the battery.' 纠正：'I need to recharge the battery.'（英语中不说'charge electricity'，而是用'recharge'表示给电池补充电量。）"
+        },
+        {
+          "scene": "小红周末计划去郊外露营，她提前检查并确保移动电源已充满电。",
+          "scene": "小红在露营前确保她的手机有足够的电量。",
+          "chineseIdea": "为了避免手机在户外没电，提前给手机充满电。",
+          "sentenceWithBlank": "She always @ @ @ before going camping.",
+          "fullEnglishSentence": "She always 「recharges a phone」 before going camping.",
+          "chineseTranslation": "她总是在露营前「给手机充电」。",
+          "chinglishFix": "典型中式英语：'She fills the phone with electricity.' 纠正：'She recharges the phone.'（英语中不用'fill electricity'，而是用'recharge'表示充电。）"
+        }
+      ]
+    },
+    {
+      "meaning": "恢复精力或活力",
+      "usage": "比喻性地指通过休息、放松或其他活动使人重新获得能量或动力，常用于描述心理或身体状态的恢复。",
+      "collocations": ["recharge your energy", "recharge your batteries", "recharge through relaxation"],
+      "examples": [
+        {
+          "scene": "小李工作了一整周，感到筋疲力尽，于是决定周末去爬山放松一下。",
+          "chineseIdea": "通过户外活动来缓解疲劳，重新振作精神。",
+          "sentenceWithBlank": "Climbing mountains helps me @ @ @.",
+          "fullEnglishSentence": "Climbing mountains helps me 「recharge my energy」.",
+          "chineseTranslation": "爬山帮助我「恢复精力」。",
+          "chinglishFix": "典型中式英语：'Climbing mountains gives me new power.' 纠正：'Climbing mountains helps me recharge my energy.'（英语中'recharge'常用于比喻恢复精力，而不说'new power'。）"
+        },
+        {
+          "scene": "小张连续加班后，决定周六睡个懒觉然后看一部电影来放松。",
+          "chineseIdea": "通过休息和娱乐来让自己重新充满活力。",
+          "sentenceWithBlank": "A lazy weekend helps her @ @ @.",
+          "fullEnglishSentence": "A lazy weekend helps her 「recharge her batteries」.",
+          "chineseTranslation": "一个慵懒的周末帮助她「恢复活力」。",
+          "chinglishFix": "典型中式英语：'A lazy weekend charges her energy.' 纠正：'A lazy weekend helps her recharge her batteries.'（'recharge her batteries'是固定表达，'charge energy'不自然。）"
+        }
+      ]
+    }
+  ]
+}
+```
