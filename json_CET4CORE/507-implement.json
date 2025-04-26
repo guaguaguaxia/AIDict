@@ -1,0 +1,53 @@
+```json
+{
+  "word": "implement",
+  "definitions": [
+    {
+      "meaning": "执行或实施（计划、政策、决定等）",
+      "usage": "指将计划、政策、决定等付诸行动，通常用于正式或专业的语境，如商业、政府或组织管理中。",
+      "collocations": ["implement a plan", "implement a policy", "implement a strategy", "implement changes"],
+      "examples": [
+        {
+          "scene": "一家公司正在召开年度会议，讨论如何将新的市场扩张计划付诸行动。经理在会上强调需要快速行动。",
+          "chineseIdea": "经理希望团队能够将市场扩张的蓝图变成现实，具体执行每一步。",
+          "sentenceWithBlank": "To achieve our goals, we must @ @ @ immediately.",
+          "fullEnglishSentence": "To achieve our goals, we must 「implement a plan」 immediately.",
+          "chineseTranslation": "为了实现我们的目标，我们必须立即「实施计划」。",
+          "chinglishFix": "典型中式英语：'We must do the plan quickly.' 纠正：'We must implement the plan immediately.'（'do the plan'不符合英语表达习惯，需用'implement'表示执行计划）"
+        },
+        {
+          "scene": "政府部门正在推出新的环保政策，官员们在新闻发布会上解释如何在全国范围内推广。",
+          "chineseIdea": "官员希望通过具体措施让环保政策落地，改善空气质量。",
+          "sentenceWithBlank": "The government will @ @ @ to reduce emissions next year.",
+          "fullEnglishSentence": "The government will 「implement a policy」 to reduce emissions next year.",
+          "chineseTranslation": "政府明年将「实施政策」以减少排放。",
+          "chinglishFix": "典型中式英语：'The government will make a policy to reduce emissions.' 纠正：'The government will implement a policy to reduce emissions.'（'make a policy'意为制定政策，而非执行）"
+        }
+      ]
+    },
+    {
+      "meaning": "使用或应用（工具、方法等）",
+      "usage": "指在具体任务或场景中使用某种工具、方法或技术，通常出现在技术、学术或实际操作的语境中。",
+      "collocations": ["implement a tool", "implement a method", "implement a system", "implement technology"],
+      "examples": [
+        {
+          "scene": "一个软件开发团队正在讨论如何优化他们的工作流程，决定引入新的项目管理工具。",
+          "chineseIdea": "团队希望通过使用新工具来提高效率，简化任务分配。",
+          "sentenceWithBlank": "Our team decided to @ @ @ to streamline project management.",
+          "fullEnglishSentence": "Our team decided to 「implement a tool」 to streamline project management.",
+          "chineseTranslation": "我们团队决定「使用工具」来简化项目管理。",
+          "chinglishFix": "典型中式英语：'We will use a tool to make project management easier.' 纠正：'We will implement a tool to streamline project management.'（'use'过于笼统，'implement'更强调工具的实际应用和整合）"
+        },
+        {
+          "scene": "一所学校正在升级其教学方式，教师们学习如何将新的在线学习系统融入课堂。",
+          "chineseIdea": "教师希望通过新系统让学生更方便地获取学习资源。",
+          "sentenceWithBlank": "The school plans to @ @ @ to enhance online learning.",
+          "fullEnglishSentence": "The school plans to 「implement a system」 to enhance online learning.",
+          "chineseTranslation": "学校计划「应用系统」以提升在线学习。",
+          "chinglishFix": "典型中式英语：'The school will put a system to improve online learning.' 纠正：'The school will implement a system to enhance online learning.'（'put a system'不自然，'implement'更符合英语表达）"
+        }
+      ]
+    }
+  ]
+}
+```

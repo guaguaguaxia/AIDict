@@ -1,0 +1,53 @@
+```json
+{
+  "word": "interracial",
+  "definitions": [
+    {
+      "meaning": "涉及或发生在不同种族之间",
+      "usage": "通常用作形容词，描述涉及不同种族的人、关系、群体或活动，尤其在讨论婚姻、友谊、社区或社会互动时。",
+      "collocations": ["interracial marriage", "interracial couple", "interracial friendship"],
+      "examples": [
+        {
+          "scene": "在一所国际学校里，来自不同国家的学生经常一起参加活动，形成深厚的友谊。学生们来自亚洲、欧洲和非洲，彼此分享文化和生活习惯。",
+          "chineseIdea": "学生们通过共同的兴趣和活动，建立跨越种族的友谊，彼此尊重和理解对方的文化背景。",
+          "sentenceWithBlank": "The school promotes @ @ through cultural exchange programs.",
+          "fullEnglishSentence": "The school promotes 「interracial friendship」 through cultural exchange programs.",
+          "chineseTranslation": "学校通过文化交流项目促进「不同种族之间的友谊」。",
+          "chinglishFix": "典型中式英语：'Students make friendship between different races.' 纠正：'Students build interracial friendships.'"
+        },
+        {
+          "scene": "在一个多元化的城市社区中，一对夫妇因共同的价值观和兴趣走到一起，他们的结合受到邻居们的支持和祝福。",
+          "chineseIdea": "这对夫妇的结合体现了不同种族背景的人可以通过爱和尊重建立幸福的家庭。",
+          "sentenceWithBlank": "Their @ @ is celebrated by the entire neighborhood.",
+          "fullEnglishSentence": "Their 「interracial marriage」 is celebrated by the entire neighborhood.",
+          "chineseTranslation": "他们的「不同种族的婚姻」受到整个社区的庆祝。",
+          "chinglishFix": "典型中式英语：'They have a marriage of different races.' 纠正：'They have an interracial marriage.'"
+        }
+      ]
+    },
+    {
+      "meaning": "涉及不同种族的混合或互动",
+      "usage": "用作形容词，描述涉及不同种族的群体、活动或社会现象，强调种族多样性或融合。",
+      "collocations": ["interracial community", "interracial collaboration", "interracial dialogue"],
+      "examples": [
+        {
+          "scene": "在一个大型城市的工作场所，不同种族的员工一起合作完成一个重要的项目，各自贡献独特的视角和技能。",
+          "chineseIdea": "员工们通过团队合作，跨越种族差异，共同实现目标，体现了多元文化的力量。",
+          "sentenceWithBlank": "The project’s success relied on @ @ among team members.",
+          "fullEnglishSentence": "The project’s success relied on 「interracial collaboration」 among team members.",
+          "chineseTranslation": "项目的成功依赖于团队成员之间的「不同种族的合作」。",
+          "chinglishFix": "典型中式英语：'People from different races cooperate together.' 纠正：'Interracial collaboration drives success.'"
+        },
+        {
+          "scene": "在一个社区论坛上，居民们聚集在一起讨论如何改善邻里关系，特别关注如何促进不同种族之间的理解。",
+          "chineseIdea": "居民们希望通过开放的讨论，增进不同种族之间的相互理解，建立更和谐的社区。",
+          "sentenceWithBlank": "The forum encouraged @ @ to address local issues.",
+          "fullEnglishSentence": "The forum encouraged 「interracial dialogue」 to address local issues.",
+          "chineseTranslation": "论坛鼓励「不同种族之间的对话」来解决本地问题。",
+          "chinglishFix": "典型中式英语：'We talk between different races.' 纠正：'We engage in interracial dialogue.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "spread",
+  "definitions": [
+    {
+      "meaning": "扩展、展开、散布",
+      "usage": "指物理上或抽象地将某物铺开、扩展到更大范围，或使某物分散、传播。通常用于描述物体、疾病、消息、影响等的扩散。",
+      "collocations": ["spread out", "spread the word", "spread like wildfire"],
+      "examples": [
+        {
+          "scene": "在一个阳光明媚的周末，几个朋友决定去公园野餐。他们带了一块大毯子，准备在草地上铺开，享受美食和阳光。",
+          "chineseIdea": "他们想要把毯子平铺在草地上，以便大家可以舒服地坐下，分享食物，享受放松的时光。",
+          "sentenceWithBlank": "They found a nice spot in the park and @ @ their blanket on the grass.",
+          "fullEnglishSentence": "They found a nice spot in the park and 「spread out」 their blanket on the grass.",
+          "chineseTranslation": "他们在公园里找到一个好位置，然后「铺开」他们的毯子在草地上。",
+          "chinglishFix": "典型中式英语：They 'open' the blanket on the grass. 纠正：'Open'在此处不适合，应使用「spread out」表示铺开某物。"
+        },
+        {
+          "scene": "一个新推出的手机应用程序非常受欢迎，用户通过社交媒体分享它的功能，很快全世界都知道了这个应用。",
+          "chineseIdea": "用户希望通过口口相传，让更多人知道这个应用的存在和它的好处。",
+          "sentenceWithBlank": "The users were excited and began to @ @ @ about the new app.",
+          "fullEnglishSentence": "The users were excited and began to 「spread the word」 about the new app.",
+          "chineseTranslation": "用户们很兴奋，开始「传播消息」关于这个新应用。",
+          "chinglishFix": "典型中式英语：They 'tell everyone' about the app. 纠正：'Tell everyone'过于直接且不地道，应用「spread the word」更自然，表示广泛传播信息。"
+        }
+      ]
+    },
+    {
+      "meaning": "涂抹、涂上",
+      "usage": "指将柔软或半固态的物质（如黄油、果酱等）均匀地涂在表面上，通常与食物相关。",
+      "collocations": ["spread butter", "spread jam", "spread cream cheese"],
+      "examples": [
+        {
+          "scene": "在早餐时间，小明准备了一片吐司，他从冰箱里拿出黄油，准备涂在吐司上，享受美味的早餐。",
+          "chineseIdea": "他想把黄油均匀地涂抹在吐司表面，让吐司更香更好吃。",
+          "sentenceWithBlank": "He took a slice of toast and @ @ on it.",
+          "fullEnglishSentence": "He took a slice of toast and 「spread butter」 on it.",
+          "chineseTranslation": "他拿了一片吐司，然后「涂上黄油」。",
+          "chinglishFix": "典型中式英语：He 'put butter' on the toast. 纠正：'Put'不够具体，应用「spread butter」表示涂抹的动作。"
+        },
+        {
+          "scene": "在一个家庭聚会上，妈妈准备了百吉饼作为点心，她在每个百吉饼上涂上奶油奶酪，供大家享用。",
+          "chineseIdea": "她希望通过涂抹奶油奶酪，让百吉饼味道更丰富，增加聚会的美食体验。",
+          "sentenceWithBlank": "She prepared bagels and @ @ @ on each one for the guests.",
+          "fullEnglishSentence": "She prepared bagels and 「spread cream cheese」 on each one for the guests.",
+          "chineseTranslation": "她准备了百吉饼，并在每个上面「涂上奶油奶酪」给客人们。",
+          "chinglishFix": "典型中式英语：She 'applied cream cheese' on the bagels. 纠正：'Apply'在此处显得过于正式，应用「spread cream cheese」更符合日常用语。"
+        }
+      ]
+    },
+    {
+      "meaning": "传播（疾病、情绪等）",
+      "usage": "指疾病、情绪、谣言等在人群或区域中扩散或传染，通常带有某种自动或不可控的含义。",
+      "collocations": ["spread disease", "spread fear", "spread rumors"],
+      "examples": [
+        {
+          "scene": "在一个拥挤的火车站，感冒病毒通过咳嗽和打喷嚏在人群中传播，导致许多人生病。",
+          "chineseIdea": "病毒在人群中快速扩散，造成更多人感染感冒。",
+          "sentenceWithBlank": "The cold virus @ @ among the crowded station.",
+          "fullEnglishSentence": "The cold virus 「spread disease」 among the crowded station.",
+          "chineseTranslation": "感冒病毒在拥挤的车站中「传播疾病」。",
+          "chinglishFix": "典型中式英语：The virus 'transfers' in the crowd. 纠正：'Transfer'不适用于疾病传播，应用「spread disease」表示疾病的扩散。"
+        },
+        {
+          "scene": "在一个小镇上，关于工厂关闭的谣言开始流传，人们开始担心失业，情绪变得紧张。",
+          "chineseIdea": "谣言在社区中传播，引起人们的恐慌和不安。",
+          "sentenceWithBlank": "The news about the factory closing @ @ in the small town.",
+          "fullEnglishSentence": "The news about the factory closing 「spread rumors」 in the small town.",
+          "chineseTranslation": "关于工厂关闭的消息在小镇上「传播谣言」。",
+          "chinglishFix": "典型中式英语：The news 'scattered' in the town. 纠正：'Scatter'不适用于谣言的传播，应用「spread rumors」更准确。"
+        }
+      ]
+    }
+  ]
+}
+```
