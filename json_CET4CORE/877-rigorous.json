@@ -1,0 +1,53 @@
+```json
+{
+  "word": "rigorous",
+  "definitions": [
+    {
+      "meaning": "严格的；缜密的；要求高的",
+      "usage": "描述需要高度精确、仔细或严格遵循规则的过程、标准、方法或行为，通常用于学术、科学、训练或管理等领域。",
+      "collocations": ["rigorous standards", "rigorous training", "rigorous analysis", "rigorous approach"],
+      "examples": [
+        {
+          "scene": "在一所顶尖大学，教授正在审核学生的毕业论文，要求学生提供充分的证据和逻辑推理来支持他们的论点。",
+          "chineseIdea": "教授希望学生的研究过程非常严格，确保每一个结论都有可靠的数据支持。",
+          "sentenceWithBlank": "The professor demanded that students meet @ @ in their research to ensure credibility.",
+          "fullEnglishSentence": "The professor demanded that students meet 「rigorous standards」 in their research to ensure credibility.",
+          "chineseTranslation": "教授要求学生在研究中达到「严格的标准」，以确保可信度。",
+          "chinglishFix": "典型中式英语：'The professor asked students to do research very strict.' 纠正：'The professor required students to adhere to rigorous standards in their research.'"
+        },
+        {
+          "scene": "一家科技公司正在开发一款新的人工智能系统，工程师们需要对数据进行深入的检查和验证，以确保系统的高准确性。",
+          "chineseIdea": "工程师们需要对数据进行非常细致的分析，以避免任何错误。",
+          "sentenceWithBlank": "The team conducted a @ @ of the dataset to eliminate potential errors.",
+          "fullEnglishSentence": "The team conducted a 「rigorous analysis」 of the dataset to eliminate potential errors.",
+          "chineseTranslation": "团队对数据集进行了「严格的分析」，以消除潜在错误。",
+          "chinglishFix": "典型中式英语：'The team checked the data very carefully.' 纠正：'The team performed a rigorous analysis of the data.'"
+        }
+      ]
+    },
+    {
+      "meaning": "艰苦的；严苛的",
+      "usage": "描述某项活动、环境或条件非常苛刻，通常让人感到挑战或艰难，常见于描述训练、考试或生活条件。",
+      "collocations": ["rigorous training", "rigorous conditions", "rigorous schedule", "rigorous testing"],
+      "examples": [
+        {
+          "scene": "一位年轻运动员正在为奥运会做准备，每天需要进行高强度的体能训练和严格的饮食控制。",
+          "chineseIdea": "运动员需要接受非常艰苦的训练来提升自己的竞技水平。",
+          "sentenceWithBlank": "The athlete underwent @ @ to prepare for the Olympics.",
+          "fullEnglishSentence": "The athlete underwent 「rigorous training」 to prepare for the Olympics.",
+          "chineseTranslation": "这位运动员接受了「严格的训练」以准备奥运会。",
+          "chinglishFix": "典型中式英语：'The athlete did very hard training.' 纠正：'The athlete underwent rigorous training.'"
+        },
+        {
+          "scene": "一家汽车制造公司正在测试新款电动车，需要在极端天气条件下进行多轮试验，以确保车辆的安全性。",
+          "chineseIdea": "公司需要对车辆进行非常苛刻的测试，以确保其在各种环境下的可靠性。",
+          "sentenceWithBlank": "The new car model was subjected to @ @ to ensure its durability.",
+          "fullEnglishSentence": "The new car model was subjected to 「rigorous testing」 to ensure its durability.",
+          "chineseTranslation": "新型汽车接受了「严格的测试」以确保其耐用性。",
+          "chinglishFix": "典型中式英语：'The car was tested very strictly.' 纠正：'The car underwent rigorous testing.'"
+        }
+      ]
+    }
+  ]
+}
+```

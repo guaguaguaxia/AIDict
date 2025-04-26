@@ -1,0 +1,53 @@
+```json
+{
+  "word": "irrationally",
+  "definitions": [
+    {
+      "meaning": "没有理性依据地；不合逻辑地",
+      "usage": "描述某人的行为、决定或情绪缺乏理智依据，通常带有负面或冲动的含义，常用于批评或分析不合理的行为。",
+      "collocations": ["behave irrationally", "act irrationally", "think irrationally"],
+      "examples": [
+        {
+          "scene": "在一个重要的公司会议中，经理因为个人情绪而做出不合理的决定，导致团队士气低落。",
+          "chineseIdea": "经理因为私人问题而情绪化，拒绝了所有合理建议，坚持一个明显不切实际的计划。",
+          "sentenceWithBlank": "During the meeting, the manager @ @, ignoring all logical suggestions.",
+          "fullEnglishSentence": "During the meeting, the manager 「behaved irrationally」, ignoring all logical suggestions.",
+          "chineseTranslation": "在会议中，经理「表现得不理性」，完全无视所有合乎逻辑的建议。",
+          "chinglishFix": "典型中式英语：'The manager was very no reason in the meeting.' 纠正：'The manager behaved irrationally in the meeting.'"
+        },
+        {
+          "scene": "在股票市场上，一个投资者因为恐慌而迅速抛售股票，尽管市场数据表明没有必要。",
+          "chineseIdea": "投资者因为听到谣言而感到恐慌，匆忙做出决定，完全不考虑数据分析。",
+          "sentenceWithBlank": "Faced with rumors, the investor @ @, selling stocks at a loss.",
+          "fullEnglishSentence": "Faced with rumors, the investor 「acted irrationally」, selling stocks at a loss.",
+          "chineseTranslation": "面对谣言，投资者「行动得不理性」，以亏损价卖出了股票。",
+          "chinglishFix": "典型中式英语：'The investor did a not smart action.' 纠正：'The investor acted irrationally.'"
+        }
+      ]
+    },
+    {
+      "meaning": "不符合理性思维地；荒谬地",
+      "usage": "描述某种想法、信念或推理方式明显违背逻辑或常识，通常用于学术讨论或批评不合理的观点。",
+      "collocations": ["argue irrationally", "believe irrationally", "reason irrationally"],
+      "examples": [
+        {
+          "scene": "在一场辩论中，某人坚持一个没有证据支持的观点，即使面对反驳也拒绝改变立场。",
+          "chineseIdea": "辩论者固执己见，完全不接受逻辑反驳，坚持一个站不住脚的观点。",
+          "sentenceWithBlank": "Despite clear evidence, he @ @, sticking to his baseless claims.",
+          "fullEnglishSentence": "Despite clear evidence, he 「argued irrationally」, sticking to his baseless claims.",
+          "chineseTranslation": "尽管有明确证据，他仍「争辩得不理性」，坚持毫无根据的说法。",
+          "chinglishFix": "典型中式英语：'He talked with no logic.' 纠正：'He argued irrationally.'"
+        },
+        {
+          "scene": "一个人因为迷信而拒绝现代医学，坚持使用无效的传统方法治疗疾病。",
+          "chineseIdea": "患者因为迷信，拒绝科学治疗，固执地相信古老的偏方能治病。",
+          "sentenceWithBlank": "Rejecting modern medicine, she @ @ in outdated remedies.",
+          "fullEnglishSentence": "Rejecting modern medicine, she 「believed irrationally」 in outdated remedies.",
+          "chineseTranslation": "拒绝现代医学，她「相信得不理性」于过时的偏方。",
+          "chinglishFix": "典型中式英语：'She trusted wrong things.' 纠正：'She believed irrationally.'"
+        }
+      ]
+    }
+  ]
+}
+```
