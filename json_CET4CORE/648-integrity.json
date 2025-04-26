@@ -1,0 +1,53 @@
+```json
+{
+  "word": "integrity",
+  "definitions": [
+    {
+      "meaning": "道德正直，诚实",
+      "usage": "指一个人在道德上坚持原则，行为诚实可靠，不因外界压力而妥协。通常用于描述个人的品格或机构的信誉。",
+      "collocations": ["maintain integrity", "personal integrity", "professional integrity"],
+      "examples": [
+        {
+          "scene": "在一个公司会议中，经理正在讨论一位员工是否适合晋升。员工小李虽然能力出众，但曾因小事撒谎。",
+          "chineseIdea": "经理认为，晋升不仅需要能力，还需要一个人在工作中始终保持诚实和道德。",
+          "sentenceWithBlank": "We cannot promote someone who fails to @ @ in their daily work.",
+          "fullEnglishSentence": "We cannot promote someone who fails to 「maintain integrity」 in their daily work.",
+          "chineseTranslation": "我们不能提拔一个在日常工作中无法「保持正直」的人。",
+          "chinglishFix": "中式英语：'He has no honest in work.' 纠正：'He lacks integrity in his work.'"
+        },
+        {
+          "scene": "一位学生在考试中发现作弊的机会，但选择不这样做，因为他重视自己的原则。",
+          "chineseIdea": "学生认为，诚实比短期的成绩更重要，体现了他的个人品格。",
+          "sentenceWithBlank": "His decision to avoid cheating reflects his strong @ @.",
+          "fullEnglishSentence": "His decision to avoid cheating reflects his strong 「personal integrity」.",
+          "chineseTranslation": "他拒绝作弊的决定反映了他强烈的「个人正直」。",
+          "chinglishFix": "中式英语：'He has high moral.' 纠正：'He has strong personal integrity.'"
+        }
+      ]
+    },
+    {
+      "meaning": "完整性，整体性",
+      "usage": "指某事物保持完整、未受损害或未被分割的状态，常用于描述系统、结构或数据的整体性。",
+      "collocations": ["structural integrity", "data integrity", "ensure integrity"],
+      "examples": [
+        {
+          "scene": "一座老桥在暴风雨后需要检查，因为工程师担心桥的结构可能受损。",
+          "chineseIdea": "工程师需要确认桥的整体结构是否仍然稳固，以确保安全。",
+          "sentenceWithBlank": "The engineers conducted tests to assess the bridge’s @ @ after the storm.",
+          "fullEnglishSentence": "The engineers conducted tests to assess the bridge’s 「structural integrity」 after the storm.",
+          "chineseTranslation": "工程师们进行了测试，以评估风暴后桥梁的「结构完整性」。",
+          "chinglishFix": "中式英语：'The bridge’s complete is fine.' 纠正：'The bridge’s structural integrity is intact.'"
+        },
+        {
+          "scene": "一家公司正在升级数据库系统，技术团队强调必须保护用户信息不被篡改。",
+          "chineseIdea": "技术团队认为，数据库的完整性对于用户信任和系统运行至关重要。",
+          "sentenceWithBlank": "The IT team implemented measures to @ @ of the database during the upgrade.",
+          "fullEnglishSentence": "The IT team implemented measures to 「ensure integrity」 of the database during the upgrade.",
+          "chineseTranslation": "IT团队采取措施以在升级期间「确保数据库的完整性」。",
+          "chinglishFix": "中式英语：'We must keep database’s complete.' 纠正：'We must ensure the database’s integrity.'"
+        }
+      ]
+    }
+  ]
+}
+```

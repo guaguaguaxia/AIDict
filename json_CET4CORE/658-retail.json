@@ -1,0 +1,53 @@
+```json
+{
+  "word": "retail",
+  "definitions": [
+    {
+      "meaning": "以小额直接出售给消费者供个人使用的商品或服务的行为",
+      "usage": "指通过商店、在线平台或其他渠道向最终消费者销售商品，通常用于描述商业活动中的直接面向个人的销售环节。",
+      "collocations": ["retail store", "retail price", "retail sales", "retail business"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的购物中心里，小明走进一家服装店，看到一件标价为500元的衬衫。他注意到标签上写着‘建议零售价’。他询问店员是否有折扣，店员告诉他这是促销期间的最终价格。",
+          "chineseIdea": "小明想了解一件商品的最终售价，特别是在促销活动中，标价通常是消费者需要支付的价格。",
+          "sentenceWithBlank": "The shirt was displayed with its @ @ clearly marked at $50.",
+          "fullEnglishSentence": "The shirt was displayed with its 「retail price」 clearly marked at $50.",
+          "chineseTranslation": "这件衬衫上清楚地标示了其「零售价」为50美元。",
+          "chinglishFix": "典型中式英语：'The shirt's selling price is $50.' 纠正：'Selling price' 听起来不自然，且不够具体。应使用 'retail price' 来指明面向消费者的标价。"
+        },
+        {
+          "scene": "小红在网上浏览一家电子产品商店，注意到他们的销售额在节假日期间大幅增长。她读到一篇报道，提到这家商店在黑色星期五的销售额创下了纪录。",
+          "chineseIdea": "小红对商店在特定时间段的销售表现感兴趣，尤其是节假日这种高峰期，销售额通常能反映生意的好坏。",
+          "sentenceWithBlank": "The company reported a significant increase in @ @ during the holiday season.",
+          "fullEnglishSentence": "The company reported a significant increase in 「retail sales」 during the holiday season.",
+          "chineseTranslation": "该公司报告说，假期期间的「零售额」显著增长。",
+          "chinglishFix": "典型中式英语：'The shop's sell money increased a lot.' 纠正：'Sell money' 不是英语表达，且语法错误。应使用 'retail sales' 来表示零售业务的总销售额。"
+        }
+      ]
+    },
+    {
+      "meaning": "以零售方式销售，或与零售相关的活动",
+      "usage": "用作形容词或副词，描述与零售业务相关的事物或行为，如零售环境、零售价格等。",
+      "collocations": ["retail sector", "retail market", "retail environment"],
+      "examples": [
+        {
+          "scene": "小刚在一家咨询公司实习，负责分析不同行业的市场趋势。他被分配到一个项目，研究服装和电子产品等领域的消费者购买行为。",
+          "chineseIdea": "小刚需要了解某个商业领域的发展情况，特别是哪些因素影响了消费者的购买决策。",
+          "sentenceWithBlank": "His report focused on the challenges facing the @ @ in 2025.",
+          "fullEnglishSentence": "His report focused on the challenges facing the 「retail sector」 in 2025.",
+          "chineseTranslation": "他的报告重点分析了2025年「零售行业」面临的挑战。",
+          "chinglishFix": "典型中式英语：'His report is about sell industry.' 纠正：'Sell industry' 不准确且不地道。应使用 'retail sector' 来指代零售相关的行业。"
+        },
+        {
+          "scene": "小丽在一家大型连锁超市工作，她注意到店内的装饰和布局会影响顾客的购物体验。她向经理建议调整货架摆放，以创造更舒适的购物氛围。",
+          "chineseIdea": "小丽认为商店的内部环境对吸引顾客和提升销售额很重要，优化布局可以改善购物体验。",
+          "sentenceWithBlank": "The manager invested in redesigning the @ @ to attract more customers.",
+          "fullEnglishSentence": "The manager invested in redesigning the 「retail environment」 to attract more customers.",
+          "chineseTranslation": "经理投资重新设计了「零售环境」以吸引更多顾客。",
+          "chinglishFix": "典型中式英语：'The shop's selling place was redesigned.' 纠正：'Selling place' 模糊且不专业。应使用 'retail environment' 来描述商店的整体购物氛围。"
+        }
+      ]
+    }
+  ]
+}
+```
