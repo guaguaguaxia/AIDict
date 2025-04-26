@@ -1,0 +1,76 @@
+```json
+{
+  "word": "superficial",
+  "definitions": [
+    {
+      "meaning": "表面的，肤浅的（指只关注表面或外观，而不深入内在或实质）",
+      "usage": "形容某人、某事物或某行为只注重外表或表面现象，缺乏深度或实质内容。通常带有轻微贬义，暗示缺乏深刻理解或真诚。",
+      "collocations": ["superficial understanding", "superficial analysis", "superficial charm"],
+      "examples": [
+        {
+          "scene": "在一场学术研讨会上，几位学者正在讨论人工智能的伦理问题。一位年轻的研究员发表了简短的评论，但他的观点明显缺乏数据支持和深入思考，显得不够严谨。",
+          "chineseIdea": "这位研究员的评论只停留在表面，缺乏对问题的深入挖掘和分析，显得不够专业。",
+          "sentenceWithBlank": "His comments showed only a @ @ of the ethical issues in AI.",
+          "fullEnglishSentence": "His comments showed only a 「superficial understanding」 of the ethical issues in AI.",
+          "chineseTranslation": "他的评论仅表现出对人工智能伦理问题的「表面理解」。",
+          "chinglishFix": "典型中式英语：'His comment is very surface.' 纠正：'His comments lack depth and show only a superficial understanding.'"
+        },
+        {
+          "scene": "在一次朋友聚会上，有人提到最近的新闻事件，但其中一位朋友只是简单复述了标题内容，没有深入了解背景或细节，显得对事件了解不全面。",
+          "chineseIdea": "这位朋友的发言只是基于新闻标题，没有深入研究事件的全貌，显得讨论不够深入。",
+          "sentenceWithBlank": "Her remarks on the news were based on a @ @ of the situation.",
+          "fullEnglishSentence": "Her remarks on the news were based on a 「superficial analysis」 of the situation.",
+          "chineseTranslation": "她对新闻的评论基于对情况的「表面分析」。",
+          "chinglishFix": "典型中式英语：'She only knows the surface of the news.' 纠正：'Her understanding of the news is superficial and lacks depth.'"
+        }
+      ]
+    },
+    {
+      "meaning": "表面的（指物理上的外层或表面，客观描述，不涉及内在）",
+      "usage": "描述物理上的表面或外层，通常中性，用于客观描述某事物仅限于外表或外部特征，没有贬义。",
+      "collocations": ["superficial wound", "superficial damage", "superficial layer"],
+      "examples": [
+        {
+          "scene": "在一次户外活动中，小明不小心摔倒，膝盖擦伤了皮肤。医生检查后发现伤口不深，只影响了皮肤表面，没有伤到筋骨。",
+          "chineseIdea": "小明的伤口只是皮肤表面的擦伤，没有影响到深层组织，恢复很快。",
+          "sentenceWithBlank": "The doctor confirmed it was just a @ @ and would heal quickly.",
+          "fullEnglishSentence": "The doctor confirmed it was just a 「superficial wound」 and would heal quickly.",
+          "chineseTranslation": "医生确认这只是一个「表面伤口」，会很快愈合。",
+          "chinglishFix": "典型中式英语：'His wound is only on the skin.' 纠正：'His wound is superficial and not serious.'"
+        },
+        {
+          "scene": "一场小规模的地震后，工程师检查了一栋大楼，发现只有外墙有一些轻微的裂缝，没有影响到建筑的结构安全。",
+          "chineseIdea": "大楼的损坏仅限于外墙的轻微裂缝，内部结构没有受到影响，修复成本低。",
+          "sentenceWithBlank": "The inspection revealed only @ @ to the building’s exterior walls.",
+          "fullEnglishSentence": "The inspection revealed only 「superficial damage」 to the building’s exterior walls.",
+          "chineseTranslation": "检查显示大楼外墙只有「表面损坏」。",
+          "chinglishFix": "典型中式英语：'The building has some surface damage.' 纠正：'The building sustained only superficial damage.'"
+        }
+      ]
+    },
+    {
+      "meaning": "表面上的，虚假的（指情感、行为或态度看似真诚但实际上不真心）",
+      "usage": "描述某人的情感、态度或行为看似友好或真诚，但实际上缺乏真心或深度，带有贬义，常用于批评某人虚伪或不真诚。",
+      "collocations": ["superficial friendliness", "superficial concern", "superficial sympathy"],
+      "examples": [
+        {
+          "scene": "在公司会议上，一位同事在老板面前对新项目表现出极大的热情，但私下里他却对项目毫无兴趣，只是为了讨好老板。",
+          "chineseIdea": "这位同事的热情只是表面上的，实际上他对项目并不真正关心，只是为了给老板留下好印象。",
+          "sentenceWithBlank": "His enthusiasm for the project was just @ @ to impress the boss.",
+          "fullEnglishSentence": "His enthusiasm for the project was just 「superficial friendliness」 to impress the boss.",
+          "chineseTranslation": "他对项目的热情只是为了讨好老板的「表面友好」。",
+          "chinglishFix": "典型中式英语：'His friendliness is fake.' 纠正：'His friendliness is superficial and not genuine.'"
+        },
+        {
+          "scene": "在朋友遇到困难时，某人只是简单地说了几句安慰的话，但没有提供任何实质性的帮助，显得不够真诚。",
+          "chineseIdea": "这个人的安慰只是口头上的，缺乏真心的关怀，显得敷衍。",
+          "sentenceWithBlank": "Her words of comfort showed only @ @ and lacked genuine care.",
+          "fullEnglishSentence": "Her words of comfort showed only 「superficial concern」 and lacked genuine care.",
+          "chineseTranslation": "她的安慰话语仅表现出「表面关心」，缺乏真诚的关怀。",
+          "chinglishFix": "典型中式英语：'Her concern is not real.' 纠正：'Her concern is superficial and lacks sincerity.'"
+        }
+      ]
+    }
+  ]
+}
+```
