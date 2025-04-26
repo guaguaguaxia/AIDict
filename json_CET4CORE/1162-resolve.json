@@ -1,0 +1,76 @@
+```json
+{
+  "word": "resolve",
+  "definitions": [
+    {
+      "meaning": "解决（问题、争端等）",
+      "usage": "指通过努力或行动解决困难、问题或冲突，通常用于正式或严肃的语境，如法律、商务或个人纠纷。",
+      "collocations": ["resolve a dispute", "resolve a conflict", "resolve an issue"],
+      "examples": [
+        {
+          "scene": "在公司会议中，两个部门因为资源分配问题发生激烈争吵，经理需要介入平息争端。",
+          "chineseIdea": "经理希望通过讨论和妥协，让双方达成一致，消除矛盾。",
+          "sentenceWithBlank": "The manager stepped in to @ @ @ between the two departments.",
+          "fullEnglishSentence": "The manager stepped in to 「resolve a dispute」 between the two departments.",
+          "chineseTranslation": "经理介入「解决争端」，平息了两个部门之间的矛盾。",
+          "chinglishFix": "典型中式英语：'Solve the argument'（解决争论） -> 纠正：'Resolve a dispute'，因为'resolve'更常用于正式的争端解决，且'dispute'比'argument'更适用于描述部门间的冲突。"
+        },
+        {
+          "scene": "在家庭聚会上，兄弟姐妹因为遗产分配问题产生分歧，母亲试图调解。",
+          "chineseIdea": "母亲希望通过心平气和的对话，消除彼此的误解，达成共识。",
+          "sentenceWithBlank": "The mother patiently worked to @ @ @ among her children.",
+          "fullEnglishSentence": "The mother patiently worked to 「resolve a conflict」 among her children.",
+          "chineseTranslation": "母亲耐心地努力「解决冲突」，让孩子们达成和解。",
+          "chinglishFix": "典型中式英语：'Solve the family problem'（解决家庭问题） -> 纠正：'Resolve a conflict'，因为'resolve'更适合描述人与人之间的矛盾，且'conflict'更精确地表达家庭成员间的分歧。"
+        }
+      ]
+    },
+    {
+      "meaning": "决定或下定决心",
+      "usage": "指内心做出坚定决定或承诺，通常用于表达个人意愿或目标，常见于正式或书面语境。",
+      "collocations": ["resolve to do something", "resolve that", "resolve on a course of action"],
+      "examples": [
+        {
+          "scene": "新年到来时，小明回顾了过去一年的生活，决定要更加努力学习英语。",
+          "chineseIdea": "小明下定决心在新的一年里每天花一小时练习英语口语，提升自己的语言能力。",
+          "sentenceWithBlank": "Xiaoming @ @ @ his English speaking skills every day.",
+          "fullEnglishSentence": "Xiaoming 「resolved to improve」 his English speaking skills every day.",
+          "chineseTranslation": "小明「下定决心提升」他的英语口语技能，每天练习。",
+          "chinglishFix": "典型中式英语：'Decide to study hard'（决定努力学习） -> 纠正：'Resolve to improve'，因为'resolve'更强调坚定的内心承诺，且'improve'更具体地表达技能的提升。"
+        },
+        {
+          "scene": "公司面临财务危机，管理层在会议上决定采取激进的改革措施。",
+          "chineseIdea": "管理层一致同意必须果断行动，制定明确的计划来扭转局面。",
+          "sentenceWithBlank": "The board @ @ @ bold reforms to save the company.",
+          "fullEnglishSentence": "The board 「resolved on a course of action」 involving bold reforms to save the company.",
+          "chineseTranslation": "董事会「决定采取一系列行动」，包括大胆的改革来拯救公司。",
+          "chinglishFix": "典型中式英语：'Decide a plan'（决定一个计划） -> 纠正：'Resolve on a course of action'，因为'resolve'更适合正式决定，且'course of action'是更自然的搭配，表达具体的行动方针。"
+        }
+      ]
+    },
+    {
+      "meaning": "分解或解析",
+      "usage": "指将复杂的事物分解成更简单的部分，通常用于科学、技术或分析语境，如数学、化学或图像处理。",
+      "collocations": ["resolve into components", "resolve an image", "resolve a compound"],
+      "examples": [
+        {
+          "scene": "在化学实验课上，学生需要将一种混合物分离成不同的化学成分。",
+          "chineseIdea": "学生通过实验方法将混合物分解，识别出其中的每一种物质。",
+          "sentenceWithBlank": "The students used chromatography to @ @ @ the mixture.",
+          "fullEnglishSentence": "The students used chromatography to 「resolve into components」 the mixture.",
+          "chineseTranslation": "学生使用色谱法将混合物「分解成成分」。",
+          "chinglishFix": "典型中式英语：'Separate the mixture'（分离混合物） -> 纠正：'Resolve into components'，因为'resolve'在科学语境中更常用于描述分解成基本部分，且'components'更精确。"
+        },
+        {
+          "scene": "在摄影工作室，技术人员需要提高一张模糊照片的清晰度。",
+          "chineseIdea": "技术人员通过软件处理，增强照片的细节，使其更清晰可见。",
+          "sentenceWithBlank": "The technician used software to @ @ @ for better clarity.",
+          "fullEnglishSentence": "The technician used software to 「resolve an image」 for better clarity.",
+          "chineseTranslation": "技术人员使用软件「解析图像」，以获得更好的清晰度。",
+          "chinglishFix": "典型中式英语：'Make the photo clear'（使照片清晰） -> 纠正：'Resolve an image'，因为'resolve'在图像处理中常用于描述提高分辨率或清晰度，且'image'更专业。"
+        }
+      ]
+    }
+  ]
+}
+```

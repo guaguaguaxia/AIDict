@@ -1,0 +1,76 @@
+```json
+{
+  "word": "impact",
+  "definitions": [
+    {
+      "meaning": "对某事物产生的影响或效果",
+      "usage": "作为名词，指某件事、行为或变化对人、环境、社会等产生的显著影响，通常强调结果或后果。常用于描述正面或负面的效果。",
+      "collocations": ["make an impact", "have an impact on", "significant impact"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的年度会议上，CEO向员工介绍新产品如何改变了市场格局。",
+          "chineseIdea": "CEO想表达新产品在市场上引起了很大的反响，改变了消费者的行为。",
+          "sentenceWithBlank": "Our latest product has @ @ @ in the tech industry, redefining user expectations.",
+          "fullEnglishSentence": "Our latest product has 「made an impact」 in the tech industry, redefining user expectations.",
+          "chineseTranslation": "我们的最新产品在科技行业「产生了影响」，重新定义了用户的期望。",
+          "chinglishFix": "典型中式英语：'Our product gives a big influence to the market.' 纠正：'Our product has made a significant impact on the market.' 中式英语常误用 'influence' 或 'affect'，而 'make an impact' 是更自然的表达。"
+        },
+        {
+          "scene": "一位环保主义者在社区会议上讨论塑料污染对海洋生态的危害。",
+          "chineseIdea": "环保主义者想说明塑料垃圾对海洋生物的生存环境造成了严重后果。",
+          "sentenceWithBlank": "Plastic pollution continues to @ @ @ @ marine ecosystems, endangering countless species.",
+          "fullEnglishSentence": "Plastic pollution continues to 「have an impact on」 marine ecosystems, endangering countless species.",
+          "chineseTranslation": "塑料污染持续「对海洋生态系统产生影响」，威胁无数物种的生存。",
+          "chinglishFix": "典型中式英语：'Plastic pollution affects marine life badly.' 纠正：'Plastic pollution has a significant impact on marine ecosystems.' 中式英语倾向于用 'affect'，但 'have an impact on' 更具体且正式。"
+        }
+      ]
+    },
+    {
+      "meaning": "撞击或碰撞",
+      "usage": "作为名词，指物理上的撞击或物体之间的接触，通常用于描述事故、实验或自然现象。也可引申为强烈的情感或心理震撼。",
+      "collocations": ["physical impact", "impact of the collision", "absorb the impact"],
+      "examples": [
+        {
+          "scene": "在一次交通事故的新闻报道中，记者描述了一辆卡车撞上桥墩的场景。",
+          "chineseIdea": "记者想说明卡车与桥墩的猛烈碰撞造成了严重的破坏。",
+          "sentenceWithBlank": "The 「impact of the collision」 caused the bridge to tremble and debris to scatter.",
+          "fullEnglishSentence": "The 「impact of the collision」 caused the bridge to tremble and debris to scatter.",
+          "chineseTranslation": "「碰撞的影响」导致桥梁震动，碎片四散。",
+          "chinglishFix": "典型中式英语：'The crash’s power damaged the bridge.' 纠正：'The impact of the collision damaged the bridge.' 中式英语可能用 'power' 或 'force'，但 'impact of the collision' 是更贴切的表达。"
+        },
+        {
+          "scene": "在一个拳击比赛的解说中，解说员描述一名选手被重拳击中的瞬间。",
+          "chineseIdea": "解说员想强调拳头击中选手面部的力量和震撼效果。",
+          "sentenceWithBlank": "He took a direct hit but managed to @ @ @, staying on his feet.",
+          "fullEnglishSentence": "He took a direct hit but managed to 「absorb the impact」, staying on his feet.",
+          "chineseTranslation": "他被直接击中，但设法「吸收了冲击」，仍然站立着。",
+          "chinglishFix": "典型中式英语：'He received the hit but resisted the force.' 纠正：'He absorbed the impact of the hit.' 中式英语常误用 'resist' 或 'force'，而 'absorb the impact' 更符合运动场景的表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "影响或改变（作为动词）",
+      "usage": "作为动词，意为对某事物产生影响或改变，常用于描述政策、事件或行为如何改变现状。常与 'on' 或 'upon' 搭配。",
+      "collocations": ["impact on performance", "negatively impact", "positively impact"],
+      "examples": [
+        {
+          "scene": "在一所学校的教职工会议上，校长讨论新教学方法对学生成绩的影响。",
+          "chineseIdea": "校长想说明新的教学方法显著提高了学生的学习表现。",
+          "sentenceWithBlank": "The new teaching methods 「positively impact」 students’ academic results.",
+          "fullEnglishSentence": "The new teaching methods 「positively impact」 students’ academic results.",
+          "chineseTranslation": "新的教学方法「积极影响」学生的学业成绩。",
+          "chinglishFix": "典型中式英语：'New methods improve students’ grades very much.' 纠正：'New teaching methods positively impact students’ grades.' 中式英语常忽略 'impact' 的动词用法，直接用 'improve'，但 'positively impact' 更精确。"
+        },
+        {
+          "scene": "在一家公司的财务会议上，经理分析经济衰退对销售的影响。",
+          "chineseIdea": "经理想说明经济衰退导致销售业绩下滑。",
+          "sentenceWithBlank": "The economic downturn continues to @ @ @ our sales figures, creating challenges.",
+          "fullEnglishSentence": "The economic downturn continues to 「negatively impact」 our sales figures, creating challenges.",
+          "chineseTranslation": "经济衰退持续「消极影响」我们的销售数据，带来了挑战。",
+          "chinglishFix": "典型中式英语：'The economy makes our sales bad.' 纠正：'The economic downturn negatively impacts our sales.' 中式英语可能用过于简单的 'make bad'，而 'negatively impact' 更正式且准确。"
+        }
+      ]
+    }
+  ]
+}
+```

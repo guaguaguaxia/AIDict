@@ -1,0 +1,53 @@
+```json
+{
+  "word": "distraction",
+  "definitions": [
+    {
+      "meaning": "使人分心的事物或行为",
+      "usage": "指某事物或行为吸引了注意力，导致无法专注于主要任务或目标。通常用于描述干扰集中力的外部因素或内在冲动。",
+      "collocations": ["cause a distraction", "avoid distractions", "become a distraction"],
+      "examples": [
+        {
+          "scene": "在一个安静的图书馆里，小明正在准备期末考试，专注于复习数学公式。这时，旁边桌子的两个学生开始大声讨论昨晚的足球比赛。",
+          "chineseIdea": "小明觉得这些讨论很吵，影响了他的注意力，让他无法专心复习。",
+          "sentenceWithBlank": "The loud conversation @ @ @ for Xiao Ming, who was trying to focus on his math formulas.",
+          "fullEnglishSentence": "The loud conversation 「caused a distraction」 for Xiao Ming, who was trying to focus on his math formulas.",
+          "chineseTranslation": "大声的交谈为小明「造成了干扰」，他正试图专注于数学公式。",
+          "chinglishFix": "典型中式英语：'The loud talking made Xiao Ming cannot focus.' 纠正：'The loud conversation distracted Xiao Ming from focusing.' 说明：中式英语常忽略搭配，使用不自然的表达。应使用'distract'或'cause a distraction'来表达干扰。"
+        },
+        {
+          "scene": "小红在家里写作业，但她的手机不断收到社交媒体的通知，提示她有新的消息或点赞。",
+          "chineseIdea": "小红想集中精力完成作业，但这些通知让她忍不住去看手机，分散了注意力。",
+          "sentenceWithBlank": "To @ @, Xiao Hong turned off her phone notifications while doing homework.",
+          "fullEnglishSentence": "To 「avoid distractions」, Xiao Hong turned off her phone notifications while doing homework.",
+          "chineseTranslation": "为了「避免干扰」，小红在做作业时关掉了手机通知。",
+          "chinglishFix": "典型中式英语：'For not be disturbed, Xiao Hong closed her phone.' 纠正：'To avoid distractions, Xiao Hong turned off her phone.' 说明：中式英语常使用被动语态或不准确的动词。'avoid distractions'是更自然的表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "消遣或娱乐活动",
+      "usage": "指为了放松或暂时摆脱压力而从事的活动，通常带有轻松或愉悦的含义，常用于描述短暂的休息或娱乐。",
+      "collocations": ["provide a distraction", "seek a distraction", "welcome distraction"],
+      "examples": [
+        {
+          "scene": "小刚在公司加班了整整一周，感到非常疲惫。周末，他决定去公园散步，听听鸟叫，放松一下心情。",
+          "chineseIdea": "小刚希望通过散步来暂时忘却工作的压力，找点乐趣。",
+          "sentenceWithBlank": "A walk in the park @ @ @ for Xiao Gang after a stressful week at work.",
+          "fullEnglishSentence": "A walk in the park 「provided a distraction」 for Xiao Gang after a stressful week at work.",
+          "chineseTranslation": "在公园散步为小刚「提供了消遣」，缓解了一周工作的压力。",
+          "chinglishFix": "典型中式英语：'Walking in park let Xiao Gang relax.' 纠正：'A walk in the park provided a distraction for Xiao Gang.' 说明：中式英语常缺少具体搭配，表达过于简单。'provide a distraction'更能体现消遣的含义。"
+        },
+        {
+          "scene": "小美刚和朋友吵架，心情很低落。她决定去看一部轻松的喜剧电影来转移注意力。",
+          "chineseIdea": "小美想通过看电影来暂时忘掉不愉快，找点欢乐。",
+          "sentenceWithBlank": "Watching a comedy movie was a @ @ for Xiao Mei after her argument with a friend.",
+          "fullEnglishSentence": "Watching a comedy movie was a 「welcome distraction」 for Xiao Mei after her argument with a friend.",
+          "chineseTranslation": "看喜剧电影对小美来说是个「受欢迎的消遣」，让她暂时忘却与朋友的争吵。",
+          "chinglishFix": "典型中式英语：'See movie make Xiao Mei happy.' 纠正：'Watching a movie was a welcome distraction for Xiao Mei.' 说明：中式英语常使用简单动词，缺少搭配。'welcome distraction'更能传达受欢迎的娱乐感。"
+        }
+      ]
+    }
+  ]
+}
+```
