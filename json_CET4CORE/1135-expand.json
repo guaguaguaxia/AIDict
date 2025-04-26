@@ -1,0 +1,53 @@
+```json
+{
+  "word": "expand",
+  "definitions": [
+    {
+      "meaning": "使某物变得更大或更广泛（物理或抽象的扩展）",
+      "usage": "指某物在尺寸、范围、数量或影响力上增加，常用于描述物理空间、业务、知识、影响力等的增长。",
+      "collocations": ["expand a business", "expand operations", "expand horizons"],
+      "examples": [
+        {
+          "scene": "一家小型咖啡店的老板计划在其他城市开设分店，以吸引更多顾客。",
+          "chineseIdea": "老板希望通过在更多地方开设店铺来增加收入和品牌知名度。",
+          "sentenceWithBlank": "To increase revenue, the owner decided to @ @ @ by opening new branches.",
+          "fullEnglishSentence": "To increase revenue, the owner decided to 「expand a business」 by opening new branches.",
+          "chineseTranslation": "为了增加收入，老板决定通过开设新分店来「扩展业务」。",
+          "chinglishFix": "典型中式英语：'Enlarge the business' 纠正：'Expand the business'。'Enlarge' 更常用于描述物理尺寸的增大，而 'expand' 更适合描述业务或范围的扩展。"
+        },
+        {
+          "scene": "一家科技公司决定在国际市场上推出产品，以进入新的市场领域。",
+          "chineseIdea": "公司希望通过在全球范围内销售产品来提升市场份额。",
+          "sentenceWithBlank": "The company plans to @ @ to reach international markets.",
+          "fullEnglishSentence": "The company plans to 「expand operations」 to reach international markets.",
+          "chineseTranslation": "公司计划「扩展运营」以进入国际市场。",
+          "chinglishFix": "典型中式英语：'Extend operations' 纠正：'Expand operations'。'Extend' 更强调物理或时间的延长，而 'expand' 更适合描述业务或活动的扩展。"
+        }
+      ]
+    },
+    {
+      "meaning": "详细阐述或提供更多细节（抽象的扩展）",
+      "usage": "指在讨论或写作中对某个主题、观点或想法进行更详细的说明或展开，常用于学术、演讲或正式交流中。",
+      "collocations": ["expand on an idea", "expand upon a topic", "expand a point"],
+      "examples": [
+        {
+          "scene": "在一场学术会议上，教授被要求对自己的研究方法提供更多细节。",
+          "chineseIdea": "教授需要更详细地解释研究背后的思路和方法。",
+          "sentenceWithBlank": "The professor was asked to @ @ @ during the Q&A session.",
+          "fullEnglishSentence": "The professor was asked to 「expand on an idea」 during the Q&A session.",
+          "chineseTranslation": "在问答环节，教授被要求「详细阐述一个想法」。",
+          "chinglishFix": "典型中式英语：'Explain more about an idea' 纠正：'Expand on an idea'。'Explain' 是简单解释，而 'expand on' 强调更深入、更详细的阐述。"
+        },
+        {
+          "scene": "在一次团队会议中，经理要求员工对他们的项目提案提供更多背景信息。",
+          "chineseIdea": "经理希望员工能更全面地介绍提案的细节和意义。",
+          "sentenceWithBlank": "The manager requested the team to @ @ @ in the next meeting.",
+          "fullEnglishSentence": "The manager requested the team to 「expand upon a topic」 in the next meeting.",
+          "chineseTranslation": "经理要求团队在下次会议中「详细阐述一个话题」。",
+          "chinglishFix": "典型中式英语：'Talk more about a topic' 纠正：'Expand upon a topic'。'Talk more' 显得口语化且不够正式，而 'expand upon' 更适合正式场合的深入讨论。"
+        }
+      ]
+    }
+  ]
+}
+```

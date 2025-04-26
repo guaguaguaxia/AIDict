@@ -1,0 +1,53 @@
+```json
+{
+  "word": "rude",
+  "definitions": [
+    {
+      "meaning": "不礼貌的；粗鲁的",
+      "usage": "形容某人的行为、言语或态度缺乏礼貌，可能令人不舒服或冒犯。通常用于描述社交场合中的不当行为。",
+      "collocations": ["be rude to", "rude behavior", "rude comment"],
+      "examples": [
+        {
+          "scene": "在咖啡店里，你排队点单时，前面的人因为服务员动作慢而大声抱怨，并对服务员出言不逊。",
+          "chineseIdea": "你觉得这个人的态度非常不尊重服务员，显得没有教养。",
+          "sentenceWithBlank": "It was unacceptable to @ @ @ the barista just because the service was slow.",
+          "fullEnglishSentence": "It was unacceptable to 「be rude to」 the barista just because the service was slow.",
+          "chineseTranslation": "仅仅因为服务慢就对咖啡师「不礼貌」是不可接受的。",
+          "chinglishFix": "典型中式英语：'He is not polite to the waiter.' 纠正：'He was rude to the waiter.'（'not polite' 听起来生硬且不地道，'rude' 更自然且符合英语表达习惯）"
+        },
+        {
+          "scene": "在课堂上，一个学生随意打断老师讲话，并用嘲讽的语气评论老师的教学方法。",
+          "chineseIdea": "这种行为不仅干扰课堂秩序，还显得对老师非常不尊重。",
+          "sentenceWithBlank": "The student’s @ @ disrupted the class and offended the teacher.",
+          "fullEnglishSentence": "The student’s 「rude comment」 disrupted the class and offended the teacher.",
+          "chineseTranslation": "学生的「粗鲁评论」打断了课堂并冒犯了老师。",
+          "chinglishFix": "典型中式英语：'His words are not good.' 纠正：'His comment was rude.'（'not good' 过于模糊，'rude' 更具体且符合语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "突兀的；粗糙的",
+      "usage": "描述事物（通常是非人）显得不精致、粗糙或突然，可能缺乏细腻或准备。常见于描述艺术、工艺或某种经历。",
+      "collocations": ["rude awakening", "rude shock", "rude sketch"],
+      "examples": [
+        {
+          "scene": "你第一次独自旅行，计划得很完美，但到达目的地后发现酒店条件极差，完全没有达到预期。",
+          "chineseIdea": "这种落差让你感到非常失望，仿佛被现实狠狠地敲了一记。",
+          "sentenceWithBlank": "The poor hotel conditions were a @ @ for her dream vacation.",
+          "fullEnglishSentence": "The poor hotel conditions were a 「rude awakening」 for her dream vacation.",
+          "chineseTranslation": "糟糕的酒店条件对她的梦幻假期是一个「突兀的觉醒」。",
+          "chinglishFix": "典型中式英语：'The hotel is a big surprise.' 纠正：'The hotel was a rude awakening.'（'big surprise' 可能有正面含义，'rude awakening' 更准确传达负面冲击）"
+        },
+        {
+          "scene": "你在艺术课上看到一个同学快速画了一幅人物素描，线条粗糙但轮廓清晰。",
+          "chineseIdea": "虽然这幅画不精细，但它抓住了人物的基本特征，很有表现力。",
+          "sentenceWithBlank": "His @ @ captured the essence of the model despite its simplicity.",
+          "fullEnglishSentence": "His 「rude sketch」 captured the essence of the model despite its simplicity.",
+          "chineseTranslation": "他的「粗糙素描」尽管简单，却捕捉到了模特的神韵。",
+          "chinglishFix": "典型中式英语：'His drawing is not detailed.' 纠正：'His sketch was rude but expressive.'（'not detailed' 缺乏情感，'rude sketch' 更能传达粗糙但有力的特点）"
+        }
+      ]
+    }
+  ]
+}
+```

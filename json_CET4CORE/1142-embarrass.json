@@ -1,0 +1,53 @@
+```json
+{
+  "word": "embarrass",
+  "definitions": [
+    {
+      "meaning": "使某人感到尴尬或难堪",
+      "usage": "指因某事或某人的行为导致某人感到羞耻、不自在或难为情，通常用于社交场合或因失误而感到不适的情境。",
+      "collocations": ["feel embarrassed", "publicly embarrassed", "deeply embarrassed"],
+      "examples": [
+        {
+          "scene": "在一个重要的公司会议上，小明不小心把咖啡洒在了自己的白衬衫上，同事们都看向他，他感到非常不自在。",
+          "chineseIdea": "小明因为自己的失误在众人面前感到羞耻，想要赶紧掩饰自己的错误。",
+          "sentenceWithBlank": "He couldn’t help but @ @ when everyone stared at his stained shirt.",
+          "fullEnglishSentence": "He couldn’t help but 「feel embarrassed」 when everyone stared at his stained shirt.",
+          "chineseTranslation": "当所有人盯着他那件沾了污渍的衬衫时，他忍不住「感到尴尬」。",
+          "chinglishFix": "典型中式英语：'He felt very shy because of the stain.' 纠正：'Shy' 通常指性格内向，而非情境性尴尬。应改为 'He felt embarrassed because of the stain.'"
+        },
+        {
+          "scene": "在学校才艺表演中，小红忘记了舞蹈动作，站在舞台上愣住了，台下的观众开始窃窃私语。",
+          "chineseIdea": "小红因为在公开场合出错而感到无地自容，恨不得立刻离开舞台。",
+          "sentenceWithBlank": "She was @ @ when she forgot her dance moves in front of the audience.",
+          "fullEnglishSentence": "She was 「publicly embarrassed」 when she forgot her dance moves in front of the audience.",
+          "chineseTranslation": "当她在观众面前忘记舞蹈动作时，她被「公开地羞辱」。",
+          "chinglishFix": "典型中式英语：'She felt losing face in public.' 纠正：'Lose face' 是中式表达，应改为 'She felt publicly embarrassed.'"
+        }
+      ]
+    },
+    {
+      "meaning": "使某人财务窘迫或陷入困境",
+      "usage": "指因缺乏资源（通常是金钱）而使某人陷入困难或尴尬的处境，较为正式且较少用于日常口语。",
+      "collocations": ["financially embarrassed", "temporarily embarrassed", "severely embarrassed"],
+      "examples": [
+        {
+          "scene": "老王想请朋友去一家高档餐厅吃饭，但发现自己银行卡里余额不足，无法支付账单。",
+          "chineseIdea": "老王因为没钱支付账单而感到窘迫，担心朋友会觉得他没面子。",
+          "sentenceWithBlank": "He found himself @ @ when he couldn’t cover the dinner bill.",
+          "fullEnglishSentence": "He found himself 「financially embarrassed」 when he couldn’t cover the dinner bill.",
+          "chineseTranslation": "当他无法支付晚餐账单时，他发现自己「财务窘迫」。",
+          "chinglishFix": "典型中式英语：'He felt no money to pay.' 纠正：'No money' 是直译，缺乏语境，应改为 'He was financially embarrassed.'"
+        },
+        {
+          "scene": "小李的公司因资金周转问题，暂时无法支付供应商的款项，导致合作关系紧张。",
+          "chineseIdea": "小李因为公司短期资金不足而感到压力，想尽快解决这个问题以恢复正常合作。",
+          "sentenceWithBlank": "The company was @ @ due to cash flow issues last quarter.",
+          "fullEnglishSentence": "The company was 「temporarily embarrassed」 due to cash flow issues last quarter.",
+          "chineseTranslation": "由于上个季度的现金流问题，公司「暂时陷入困境」。",
+          "chinglishFix": "典型中式英语：'The company had no money last quarter.' 纠正：'No money' 过于直白，应改为 'The company was temporarily embarrassed.'"
+        }
+      ]
+    }
+  ]
+}
+```

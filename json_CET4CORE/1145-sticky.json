@@ -1,0 +1,76 @@
+```json
+{
+  "word": "sticky",
+  "definitions": [
+    {
+      "meaning": "黏的；有黏性的",
+      "usage": "描述物体表面具有黏性，能够粘附其他物体，常用于描述胶水、胶带、糖果等物理特性。",
+      "collocations": ["sticky tape", "sticky residue", "sticky situation"],
+      "examples": [
+        {
+          "scene": "在一个炎热的夏天，小明在家里吃了一块软糖，结果软糖融化了，粘在了他的手指上。他试图把手洗干净，但发现很难洗掉。",
+          "chineseIdea": "描述某物因为黏性而粘在其他表面上，难以去除。",
+          "sentenceWithBlank": "After eating the candy, he found @ @ on his fingers.",
+          "fullEnglishSentence": "After eating the candy, he found 「sticky residue」 on his fingers.",
+          "chineseTranslation": "吃完糖果后，他发现手指上有「黏黏的残留物」。",
+          "chinglishFix": "典型中式英语：'His fingers have sticky thing.' 纠正：'There was sticky residue on his fingers.'（避免用模糊的'thing'，明确指代具体物体）"
+        },
+        {
+          "scene": "小红在做手工时需要把两张纸粘在一起，她拿出了一卷胶带，用它来固定纸张。",
+          "chineseIdea": "描述使用具有黏性的工具来粘合物体。",
+          "sentenceWithBlank": "She used @ @ to attach the paper to the board.",
+          "fullEnglishSentence": "She used 「sticky tape」 to attach the paper to the board.",
+          "chineseTranslation": "她用「胶带」把纸粘在板子上。",
+          "chinglishFix": "典型中式英语：'She used sticky glue tape.' 纠正：'She used sticky tape.'（英语中'sticky tape'是常用表达，'glue tape'不自然）"
+        }
+      ]
+    },
+    {
+      "meaning": "棘手的；困难的",
+      "usage": "比喻性地描述问题、情况或决定复杂、难以处理，常用于描述需要小心应对的局面。",
+      "collocations": ["sticky situation", "sticky issue", "sticky problem"],
+      "examples": [
+        {
+          "scene": "在公司会议上，经理提出了一个关于裁员的建议，但这个话题让大家都感到不舒服，因为涉及到同事的去留。",
+          "chineseIdea": "描述一个复杂且敏感的局面，让人感到难以处理。",
+          "sentenceWithBlank": "The manager brought up a @ @ that no one wanted to discuss.",
+          "fullEnglishSentence": "The manager brought up a 「sticky situation」 that no one wanted to discuss.",
+          "chineseTranslation": "经理提出了一个「棘手的局面」，没人想讨论。",
+          "chinglishFix": "典型中式英语：'The manager said a difficult thing.' 纠正：'The manager brought up a sticky situation.'（'difficult thing'过于笼统，'sticky situation'更符合英语表达习惯）"
+        },
+        {
+          "scene": "小李在工作中发现客户的数据出现了错误，但他不知道是否应该直接告诉客户，因为这可能会影响公司的声誉。",
+          "chineseIdea": "描述一个需要谨慎处理的复杂问题。",
+          "sentenceWithBlank": "He was unsure how to handle the @ @ with the client’s data.",
+          "fullEnglishSentence": "He was unsure how to handle the 「sticky issue」 with the client’s data.",
+          "chineseTranslation": "他不确定如何处理客户数据的「棘手问题」。",
+          "chinglishFix": "典型中式英语：'He didn’t know how to solve the hard problem.' 纠正：'He was unsure how to handle the sticky issue.'（'hard problem'不够具体，'sticky issue'更能体现复杂性和敏感性）"
+        }
+      ]
+    },
+    {
+      "meaning": "闷热潮湿的",
+      "usage": "描述天气炎热且潮湿，让人感到不舒服，通常用于描述夏季的湿热气候。",
+      "collocations": ["sticky weather", "sticky heat", "sticky humidity"],
+      "examples": [
+        {
+          "scene": "夏天的一个下午，小明在户外踢足球，天气非常潮湿，汗水让他的衣服都贴在了身上，感觉非常不舒服。",
+          "chineseIdea": "描述炎热潮湿的天气让人感到不适。",
+          "sentenceWithBlank": "Playing football in the @ @ made him feel uncomfortable.",
+          "fullEnglishSentence": "Playing football in the 「sticky heat」 made him feel uncomfortable.",
+          "chineseTranslation": "在「湿热的天气」里踢足球让他感到不舒服。",
+          "chinglishFix": "典型中式英语：'The weather is hot and wet.' 纠正：'The sticky heat made him uncomfortable.'（'hot and wet'不够地道，'sticky heat'更能体现湿热的不适感）"
+        },
+        {
+          "scene": "小红计划去海边度假，但她查了天气预报，发现接下来几天都是高温高湿的天气，可能会影响她的心情。",
+          "chineseIdea": "描述湿热的天气对计划或心情的影响。",
+          "sentenceWithBlank": "She was worried about the @ @ during her beach vacation.",
+          "fullEnglishSentence": "She was worried about the 「sticky weather」 during her beach vacation.",
+          "chineseTranslation": "她担心海边度假期间的「湿热天气」。",
+          "chinglishFix": "典型中式英语：'She didn’t like the humid hot weather.' 纠正：'She was worried about the sticky weather.'（'humid hot weather'语法正确但不地道，'sticky weather'更简洁自然）"
+        }
+      ]
+    }
+  ]
+}
+```

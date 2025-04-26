@@ -1,0 +1,53 @@
+```json
+{
+  "word": "spontaneous",
+  "definitions": [
+    {
+      "meaning": "自发的，出于自然或本能的，未经计划或外部刺激的行为或反应",
+      "usage": "描述某人或某事在没有预先计划或外界推动的情况下自然发生的行为或反应，常用于表达自然的、即兴的动作、决定或情感表达。",
+      "collocations": ["spontaneous decision", "spontaneous reaction", "spontaneous laughter"],
+      "examples": [
+        {
+          "scene": "在一个周末的家庭聚会上，大家正在客厅里聊天。突然，小明提议去附近的公园野餐，因为天气很好。他没有提前计划，只是觉得这个想法很棒。",
+          "chineseIdea": "小明突然想到一个好主意，想立刻行动，没有经过深思熟虑。",
+          "sentenceWithBlank": "His @ @ to go for a picnic surprised everyone, but they loved the idea.",
+          "fullEnglishSentence": "His 「spontaneous decision」 to go for a picnic surprised everyone, but they loved the idea.",
+          "chineseTranslation": "他「自发的决定」去野餐让大家感到惊讶，但他们都很喜欢这个主意。",
+          "chinglishFix": "典型中式英语：'He sudden decide to picnic.' 纠正：'He made a spontaneous decision to go for a picnic.'（避免直接翻译“突然决定”，用'spontaneous decision'更自然。）"
+        },
+        {
+          "scene": "在一堂英语课上，老师讲了一个有趣的故事，学生们听后忍不住笑出声来。他们的笑声没有任何刻意，完全是听到故事后的自然反应。",
+          "chineseIdea": "学生们因为故事好笑，自然地发出笑声，没有任何预谋或控制。",
+          "sentenceWithBlank": "The students’ @ @ filled the classroom as the teacher shared a funny story.",
+          "fullEnglishSentence": "The students’ 「spontaneous laughter」 filled the classroom as the teacher shared a funny story.",
+          "chineseTranslation": "学生们的「自发的笑声」充满了教室，因为老师分享了一个有趣的故事。",
+          "chinglishFix": "典型中式英语：'Students laugh suddenly.' 纠正：'The students’ spontaneous laughter filled the room.'（避免“突然笑”，用'spontaneous laughter'更贴合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "自然的，不做作的，行为或表达显得轻松且真诚",
+      "usage": "描述某人的行为、语言或情感表达显得真诚、自然，没有刻意安排或表演的痕迹，常用于形容性格、互动或艺术表达。",
+      "collocations": ["spontaneous smile", "spontaneous gesture", "spontaneous speech"],
+      "examples": [
+        {
+          "scene": "在一个朋友的生日派对上，小红看到寿星走进来，脸上立刻绽放出温暖的笑容。这个笑容没有任何刻意，完全是她内心喜悦的自然流露。",
+          "chineseIdea": "小红的笑容是发自内心的，没有任何伪装或刻意。",
+          "sentenceWithBlank": "Her @ @ lit up the room as she greeted the birthday girl.",
+          "fullEnglishSentence": "Her 「spontaneous smile」 lit up the room as she greeted the birthday girl.",
+          "chineseTranslation": "她「自然的笑容」点亮了整个房间，当她迎接寿星时。",
+          "chinglishFix": "典型中式英语：'She smile very natural.' 纠正：'Her spontaneous smile lit up the room.'（避免“很自然地笑”，用'spontaneous smile'更地道。）"
+        },
+        {
+          "scene": "在一个社区活动中，主持人临时请一位观众上台分享自己的故事。小刚没有准备，但他上台后用真诚的语言讲述了自己的经历，赢得观众的掌声。",
+          "chineseIdea": "小刚的发言没有提前准备，但真诚自然，感染了所有人。",
+          "sentenceWithBlank": "His @ @ moved the audience with its sincerity and warmth.",
+          "fullEnglishSentence": "His 「spontaneous speech」 moved the audience with its sincerity and warmth.",
+          "chineseTranslation": "他的「自然的演讲」以其真诚和温暖打动了观众。",
+          "chinglishFix": "典型中式英语：'He speak very true.' 纠正：'His spontaneous speech was heartfelt.'（避免“讲得很真”，用'spontaneous speech'更符合英语表达。）"
+        }
+      ]
+    }
+  ]
+}
+```
