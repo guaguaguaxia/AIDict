@@ -1,0 +1,53 @@
+```json
+{
+  "word": "inadequacy",
+  "definitions": [
+    {
+      "meaning": "不足，不够好，能力或素质上的欠缺",
+      "usage": "指某人或某物在特定方面表现得不够好，未能达到预期标准，常用于描述能力、表现或资源的不足。",
+      "collocations": ["sense of inadequacy", "feeling of inadequacy", "address inadequacy"],
+      "examples": [
+        {
+          "scene": "一位正在准备英语演讲的中国学生，尽管练习了多次，但在模拟演讲时仍然感到紧张，觉得自己准备不足，担心无法流利表达。",
+          "chineseIdea": "学生觉得自己无法达到演讲的预期效果，内心充满自我怀疑，觉得自己能力不够。",
+          "sentenceWithBlank": "She couldn’t shake off the @ @ @ that overwhelmed her before the presentation.",
+          "fullEnglishSentence": "She couldn’t shake off the 「sense of inadequacy」 that overwhelmed her before the presentation.",
+          "chineseTranslation": "她无法摆脱演讲前压倒她的「不足感」。",
+          "chinglishFix": "典型中式英语：'I feel my ability not enough.' 纠正：'I feel a sense of inadequacy about my skills.'"
+        },
+        {
+          "scene": "一位职场新人被分配到一个需要快速学习新技能的项目，但觉得自己跟不上团队的节奏，觉得自己能力不足以胜任。",
+          "chineseIdea": "新人觉得自己无法满足工作要求，内心觉得自己不够优秀，担心被团队认为不称职。",
+          "sentenceWithBlank": "His constant @ @ @ made it hard for him to contribute confidently to the project.",
+          "fullEnglishSentence": "His constant 「feeling of inadequacy」 made it hard for him to contribute confidently to the project.",
+          "chineseTranslation": "他持续的「不足感」让他难以自信地为项目做出贡献。",
+          "chinglishFix": "典型中式英语：'I feel I am not enough good.' 纠正：'I struggle with a feeling of inadequacy.'"
+        }
+      ]
+    },
+    {
+      "meaning": "不充分，不足的数量或质量",
+      "usage": "指某物在数量、质量或程度上不足以满足需求或达到目的，常用于描述资源、准备或措施的不充分。",
+      "collocations": ["inadequacy of resources", "inadequacy of preparation", "highlight inadequacy"],
+      "examples": [
+        {
+          "scene": "一家小型创业公司计划扩展业务，但由于资金有限，无法购买足够的设备或雇佣更多员工，限制了发展。",
+          "chineseIdea": "公司意识到资金不足以支持他们的扩张计划，资源短缺成为主要障碍。",
+          "sentenceWithBlank": "The @ @ @ forced the company to delay its expansion plans.",
+          "fullEnglishSentence": "The 「inadequacy of resources」 forced the company to delay its expansion plans.",
+          "chineseTranslation": "「资源不足」迫使公司推迟了扩张计划。",
+          "chinglishFix": "典型中式英语：'The resource is not enough.' 纠正：'The inadequacy of resources is a major issue.'"
+        },
+        {
+          "scene": "一位老师在备课时发现学校的教学材料非常有限，无法满足学生的学习需求，影响了课程质量。",
+          "chineseIdea": "老师觉得现有的教学资源不足以支持高质量的教学，需要更丰富的材料。",
+          "sentenceWithBlank": "The outdated materials only served to @ @ in the school’s teaching methods.",
+          "fullEnglishSentence": "The outdated materials only served to 「highlight inadequacy」 in the school’s teaching methods.",
+          "chineseTranslation": "过时的材料只是突显了学校教学方法的「不足」。",
+          "chinglishFix": "典型中式英语：'The material is not enough good.' 纠正：'The materials highlight the inadequacy of our teaching approach.'"
+        }
+      ]
+    }
+  ]
+}
+```

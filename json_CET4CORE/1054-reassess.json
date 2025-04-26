@@ -1,0 +1,53 @@
+```json
+{
+  "word": "reassess",
+  "definitions": [
+    {
+      "meaning": "重新评价或重新考虑某事物，通常是在新的信息或情况基础上",
+      "usage": "常用于描述对计划、策略、价值、风险或个人观点的重新审视，强调在已有结论基础上进行更深入的分析或调整。",
+      "collocations": ["reassess the situation", "reassess priorities", "reassess the value"],
+      "examples": [
+        {
+          "scene": "一家公司发现市场竞争加剧，销售额下降，管理层决定重新审视当前的商业策略。",
+          "chineseIdea": "在面对新的市场挑战时，需要重新思考当前的计划是否仍然有效。",
+          "sentenceWithBlank": "After the competitor launched a new product, the team decided to @ @ @.",
+          "fullEnglishSentence": "After the competitor launched a new product, the team decided to 「reassess the situation」.",
+          "chineseTranslation": "在竞争对手推出新产品后，团队决定「重新评估形势」。",
+          "chinglishFix": "典型中式英语：'Again evaluate the situation'，纠正为：'Reassess the situation'，因为'reassess'更简洁且符合英语表达习惯，直接表示重新审视的意思。"
+        },
+        {
+          "scene": "一位员工在繁忙的工作中感到筋疲力尽，决定重新思考自己的工作与生活的平衡。",
+          "chineseIdea": "当感到压力过大时，需要重新考虑什么对自己更重要。",
+          "sentenceWithBlank": "Feeling overwhelmed, she took a break to @ @.",
+          "fullEnglishSentence": "Feeling overwhelmed, she took a break to 「reassess priorities」.",
+          "chineseTranslation": "感到不堪重负时，她停下来「重新评估优先事项」。",
+          "chinglishFix": "典型中式英语：'Think again about priorities'，纠正为：'Reassess priorities'，因为'reassess'更自然，强调重新审视和调整的过程。"
+        }
+      ]
+    },
+    {
+      "meaning": "重新估算或重新评估某物的数值、数量或程度",
+      "usage": "多用于正式或技术场景，如财务、资产、风险或数据的重新计算或重新估量。",
+      "collocations": ["reassess the value", "reassess the risk", "reassess the cost"],
+      "examples": [
+        {
+          "scene": "一位房产经纪人在房价波动后，需要重新估算客户房屋的市场价值。",
+          "chineseIdea": "在市场变化后，需要重新判断房屋的当前价值。",
+          "sentenceWithBlank": "Due to recent market trends, the agent had to @ @ @ of the house.",
+          "fullEnglishSentence": "Due to recent market trends, the agent had to 「reassess the value」 of the house.",
+          "chineseTranslation": "由于近期市场趋势，经纪人需要「重新评估房屋的价值」。",
+          "chinglishFix": "典型中式英语：'Recalculate the house value'，纠正为：'Reassess the value of the house'，因为'reassess'更适合描述综合性的重新评价，而非单纯的数值计算。"
+        },
+        {
+          "scene": "一家保险公司在一场自然灾害后，需要重新评估某些保险项目的风险等级。",
+          "chineseIdea": "在突发事件后，需要重新判断某些项目的潜在风险。",
+          "sentenceWithBlank": "After the flood, the company needed to @ @ @ of several policies.",
+          "fullEnglishSentence": "After the flood, the company needed to 「reassess the risk」 of several policies.",
+          "chineseTranslation": "洪水过后，公司需要「重新评估几项保险的风险」。",
+          "chinglishFix": "典型中式英语：'Again check the risk'，纠正为：'Reassess the risk'，因为'reassess'更正式且准确，表示全面重新审视风险。"
+        }
+      ]
+    }
+  ]
+}
+```

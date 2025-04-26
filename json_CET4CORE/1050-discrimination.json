@@ -1,0 +1,53 @@
+```json
+{
+  "word": "discrimination",
+  "definitions": [
+    {
+      "meaning": "不公平待遇，歧视",
+      "usage": "指基于种族、性别、年龄、宗教等特定特征对个人或群体进行不公平的对待，常用于社会、法律或职场场景。",
+      "collocations": ["face discrimination", "racial discrimination", "gender discrimination"],
+      "examples": [
+        {
+          "scene": "一个年轻的中国女性在一家国际公司面试时，面试官因为她的性别和年龄而质疑她的能力，尽管她的简历非常优秀。",
+          "chineseIdea": "她觉得自己被不公平对待，因为面试官的偏见让她失去了平等的机会。",
+          "sentenceWithBlank": "She felt she had to @ @ because of her gender and age during the interview.",
+          "fullEnglishSentence": "She felt she had to 「face discrimination」 because of her gender and age during the interview.",
+          "chineseTranslation": "她觉得自己因为性别和年龄而在面试中不得不「面对歧视」。",
+          "chinglishFix": "典型中式英语：'She suffered discrimination because she is female and young.' 纠正：'She faced discrimination based on her gender and age.'（使用'faced'和'based on'更符合英语表达习惯，避免'suffered'的过于强烈情感色彩。）"
+        },
+        {
+          "scene": "一个非洲裔员工发现自己总是被分配到最差的项目，而其他同事却得到了更好的机会，尽管他们的资质相似。",
+          "chineseIdea": "他认为公司根据种族对他进行了不公平的分配。",
+          "sentenceWithBlank": "He believed the company practiced @ @ in project assignments.",
+          "fullEnglishSentence": "He believed the company practiced 「racial discrimination」 in project assignments.",
+          "chineseTranslation": "他认为公司在项目分配中实行了「种族歧视」。",
+          "chinglishFix": "典型中式英语：'He thinks company has racial discriminate.' 纠正：'He believes the company engages in racial discrimination.'（使用'engages in'代替'has'，并修正'discriminate'为'discrimination'，符合语法和语义。）"
+        }
+      ]
+    },
+    {
+      "meaning": "辨别力，识别能力",
+      "usage": "指区分或辨别不同事物的能力，常用于描述对细节、品质或差异的敏锐感知，常见于艺术、品味或专业领域。",
+      "collocations": ["fine discrimination", "show discrimination", "require discrimination"],
+      "examples": [
+        {
+          "scene": "一位品酒师在葡萄酒比赛中需要从几十种酒中辨别出产地和年份，展现出极高的专业能力。",
+          "chineseIdea": "他需要通过味觉和嗅觉来精准区分每种酒的细微差别。",
+          "sentenceWithBlank": "The sommelier demonstrated @ @ in identifying the wine’s origin.",
+          "fullEnglishSentence": "The sommelier demonstrated 「fine discrimination」 in identifying the wine’s origin.",
+          "chineseTranslation": "这位品酒师在辨别葡萄酒产地时展现了「精细的辨别力」。",
+          "chinglishFix": "典型中式英语：'He has good discriminate ability for wines.' 纠正：'He shows fine discrimination in evaluating wines.'（使用'shows'和'discrimination'，避免'discriminate ability'的错误搭配。）"
+        },
+        {
+          "scene": "一位音乐老师在指导学生时，要求他们仔细听旋律的细微变化，以培养他们对音乐的敏感度。",
+          "chineseIdea": "老师希望学生能够通过训练提高区分音调和节奏的能力。",
+          "sentenceWithBlank": "This exercise will @ @ to distinguish subtle musical nuances.",
+          "fullEnglishSentence": "This exercise will 「require discrimination」 to distinguish subtle musical nuances.",
+          "chineseTranslation": "这项练习需要「辨别力」来区分微妙的音乐细微差别。",
+          "chinglishFix": "典型中式英语：'This needs students to have discrimination.' 纠正：'This exercise requires discrimination from students.'（使用'requires'和正确的句式，避免'needs...to have'的冗余表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

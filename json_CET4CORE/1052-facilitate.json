@@ -1,0 +1,53 @@
+```json
+{
+  "word": "facilitate",
+  "definitions": [
+    {
+      "meaning": "使某事更容易或更顺利地发生或进行",
+      "usage": "通常用作及物动词，指通过提供帮助、资源或条件来促进某事的发展或完成，常用于正式或专业语境，如商务、教育、会议等。",
+      "collocations": ["effective communication", "smooth collaboration", "knowledge sharing"],
+      "examples": [
+        {
+          "scene": "在一场国际商务会议中，来自不同国家的团队需要讨论一个新项目的合作计划。由于语言和文化的差异，沟通可能会出现障碍。一名专业的口译员被邀请来帮助会议顺利进行。",
+          "chineseIdea": "通过提供实时翻译，口译员帮助团队成员更好地理解彼此的观点，从而让会议更高效。",
+          "sentenceWithBlank": "The interpreter helped to @ @ @ between the teams from different countries.",
+          "fullEnglishSentence": "The interpreter helped to 「facilitate effective communication」 between the teams from different countries.",
+          "chineseTranslation": "口译员帮助「促进有效沟通」，让来自不同国家的团队能够顺利交流。",
+          "chinglishFix": "中式英语：The interpreter helped the teams to talk more easy. 纠正：The interpreter helped to facilitate effective communication."
+        },
+        {
+          "scene": "在一家跨国公司的团队项目中，成员分布在不同时区，协作存在困难。项目经理使用在线协作工具（如Trello和Zoom）来确保团队成员能够高效地共享信息和完成任务。",
+          "chineseIdea": "通过使用协作工具，项目经理让团队成员之间的合作更加顺畅，避免了因时差或距离导致的延误。",
+          "sentenceWithBlank": "The project manager used digital tools to @ @ @ among team members across different time zones.",
+          "fullEnglishSentence": "The project manager used digital tools to 「facilitate smooth collaboration」 among team members across different time zones.",
+          "chineseTranslation": "项目经理使用数字工具「促进顺畅协作」，让不同时区的团队成员能够高效工作。",
+          "chinglishFix": "中式英语：The manager made team work more easy with tools. 纠正：The project manager facilitated smooth collaboration with digital tools."
+        }
+      ]
+    },
+    {
+      "meaning": "帮助某人理解或获取信息",
+      "usage": "指通过解释、提供资源或引导来帮助某人更容易理解复杂信息或概念，常见于教育、培训或技术支持场景。",
+      "collocations": ["better understanding", "learning process", "skill development"],
+      "examples": [
+        {
+          "scene": "在一所大学的生物学课堂上，教授正在讲解复杂的细胞分裂过程。为了让学生更容易理解，教授使用了动画视频和互动模型来展示这一过程。",
+          "chineseIdea": "通过直观的教学工具，教授帮助学生更清晰地理解抽象的科学概念。",
+          "sentenceWithBlank": "The professor used visual aids to @ @ @ of complex biological concepts.",
+          "fullEnglishSentence": "The professor used visual aids to 「facilitate better understanding」 of complex biological concepts.",
+          "chineseTranslation": "教授使用视觉辅助工具「促进更好的理解」，帮助学生掌握复杂的生物学概念。",
+          "chinglishFix": "中式英语：The professor made students understand better with videos. 纠正：The professor facilitated better understanding with visual aids."
+        },
+        {
+          "scene": "在一家科技公司的新员工培训中，导师为新员工提供了一套详细的指南和实践练习，以帮助他们更快地掌握公司内部软件的使用方法。",
+          "chineseIdea": "通过提供结构化的资源和练习，导师帮助新员工快速适应并学习新技能。",
+          "sentenceWithBlank": "The mentor provided resources to @ @ @ for new employees.",
+          "fullEnglishSentence": "The mentor provided resources to 「facilitate skill development」 for new employees.",
+          "chineseTranslation": "导师提供了资源「促进技能发展」，帮助新员工快速上手。",
+          "chinglishFix": "中式英语：The mentor helped new employees to learn skills more fast. 纠正：The mentor facilitated skill development for new employees."
+        }
+      ]
+    }
+  ]
+}
+```
