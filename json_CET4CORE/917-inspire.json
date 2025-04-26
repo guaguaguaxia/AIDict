@@ -1,0 +1,53 @@
+```json
+{
+  "word": "inspire",
+  "definitions": [
+    {
+      "meaning": "激发，激励（使某人产生动力、热情或行动的欲望）",
+      "usage": "常用于描述某人或某事通过榜样、故事、行为等激发他人的动力、创造力或积极行动。通常搭配抽象名词（如confidence, creativity）或表示行动的动词。",
+      "collocations": ["inspire confidence", "inspire creativity", "inspire action"],
+      "examples": [
+        {
+          "scene": "在一所学校里，一位老师通过分享自己的奋斗故事，激励学生们努力学习，追求梦想。学生们听后感到充满动力，想要更加认真地对待学业。",
+          "chineseIdea": "老师的故事让学生们觉得自己也能克服困难，实现目标，点燃了他们学习的热情。",
+          "sentenceWithBlank": "Her story of overcoming challenges @ @ in her students.",
+          "fullEnglishSentence": "Her story of overcoming challenges 「inspired confidence」 in her students.",
+          "chineseTranslation": "她克服挑战的故事「激发了学生们的自信」。",
+          "chinglishFix": "典型中式英语：Her story 'give confidence' to students. 纠正：'Give confidence' 是不自然的表达，应改为 'inspire confidence'，因为 inspire 更能传达激励和点燃热情的含义。"
+        },
+        {
+          "scene": "在一家创业公司，CEO通过一场充满激情的演讲，鼓励团队尝试新想法，突破常规，开发创新产品。团队成员因此受到鼓舞，提出了许多新颖的方案。",
+          "chineseIdea": "CEO的演讲让团队成员感到充满活力，愿意跳出框框，发挥创造力。",
+          "sentenceWithBlank": "The CEO’s passionate speech @ @ among the team.",
+          "fullEnglishSentence": "The CEO’s passionate speech 「inspired creativity」 among the team.",
+          "chineseTranslation": "CEO充满激情的演讲「激发了团队的创造力」。",
+          "chinglishFix": "典型中式英语：The speech 'make team creative'. 纠正：'Make creative' 听起来生硬且不地道，正确表达是 'inspire creativity'，更能体现激发灵感和热情的动态过程。"
+        }
+      ]
+    },
+    {
+      "meaning": "启发（激发灵感或新想法，通常与艺术、创作或思考相关）",
+      "usage": "常用于描述某人或某事为他人的创作、思考或艺术表达提供灵感。通常搭配表示灵感来源的事物（如work, design）或抽象概念（如idea, vision）。",
+      "collocations": ["inspire a generation", "inspire new ideas", "inspire a movement"],
+      "examples": [
+        {
+          "scene": "一位年轻的设计师参观了一场传统手工艺展览，展览中的精美作品让她萌生了将传统元素融入现代设计的想法。",
+          "chineseIdea": "展览中的作品让设计师感受到传统与现代结合的可能性，激发了她设计新作品的灵感。",
+          "sentenceWithBlank": "The intricate craftsmanship @ @ of designers.",
+          "fullEnglishSentence": "The intricate craftsmanship 「inspired a generation」 of designers.",
+          "chineseTranslation": "精湛的工艺「启发了一代设计师」。",
+          "chinglishFix": "典型中式英语：The craftsmanship 'give inspiration' to designers. 纠正：'Give inspiration' 显得笼统且不地道，应使用 'inspire a generation'，更能体现深远的影响力。"
+        },
+        {
+          "scene": "一位环保活动家通过社交媒体分享气候变化的真实故事，促使许多人开始关注环保问题，并发起社区清洁活动。",
+          "chineseIdea": "活动家的故事让人们意识到环保的重要性，激发了他们采取实际行动的灵感。",
+          "sentenceWithBlank": "Her powerful stories @ @ in local communities.",
+          "fullEnglishSentence": "Her powerful stories 「inspired a movement」 in local communities.",
+          "chineseTranslation": "她感人的故事「在当地社区激发了一场运动」。",
+          "chinglishFix": "典型中式英语：Her stories 'make a movement'. 纠正：'Make a movement' 不符合英语习惯，正确表达是 'inspire a movement'，更能传达激发广泛行动的含义。"
+        }
+      ]
+    }
+  ]
+}
+```

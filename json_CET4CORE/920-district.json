@@ -1,0 +1,53 @@
+```json
+{
+  "word": "district",
+  "definitions": [
+    {
+      "meaning": "行政区域（如城市中的区、县或特定管辖区）",
+      "usage": "指城市或国家中划分的行政区域，通常有明确的地理边界和行政功能，常用于描述政府管理、选举或城市规划的区域。",
+      "collocations": ["business district", "school district", "historic district"],
+      "examples": [
+        {
+          "scene": "你在上海的一个咖啡馆和朋友聊天，谈到上海市中心的商业区域，那里有很多高楼大厦和公司总部。",
+          "chineseIdea": "想表达某个城市区域有很多商业活动和办公楼，是经济中心。",
+          "sentenceWithBlank": "The @ @ is always bustling with activity, with skyscrapers and corporate offices everywhere.",
+          "fullEnglishSentence": "The 「business district」 is always bustling with activity, with skyscrapers and corporate offices everywhere.",
+          "chineseTranslation": "「商业区」总是熙熙攘攘，遍布摩天大楼和公司办公室。",
+          "chinglishFix": "典型中式英语：'The center area has many businesses.' 纠正：'The business district is full of commercial activity.'"
+        },
+        {
+          "scene": "你和朋友讨论美国的教育系统，提到每个区域有自己的学校管理体系，负责当地的公立学校。",
+          "chineseIdea": "想说明一个区域有自己独立的教育管理机构，负责学校运营。",
+          "sentenceWithBlank": "Each @ @ manages its own public schools and sets local education policies.",
+          "fullEnglishSentence": "Each 「school district」 manages its own public schools and sets local education policies.",
+          "chineseTranslation": "每个「学区」管理自己的公立学校并制定当地教育政策。",
+          "chinglishFix": "典型中式英语：'The school area controls the schools.' 纠正：'The school district oversees local schools.'"
+        }
+      ]
+    },
+    {
+      "meaning": "特定功能或特色的区域（非正式划分，常因文化、历史或用途而命名）",
+      "usage": "指因某种特点或功能而被非正式划分的区域，如购物区、娱乐区或历史区域，常用于描述城市中具有特定氛围或用途的地点。",
+      "collocations": ["shopping district", "entertainment district", "cultural district"],
+      "examples": [
+        {
+          "scene": "你在北京旅游，朋友推荐去一个有很多时尚商店和精品店的区域购物。",
+          "chineseIdea": "想描述一个区域有很多商店，适合购物和体验城市时尚文化。",
+          "sentenceWithBlank": "The @ @ is perfect for finding trendy clothes and unique accessories.",
+          "fullEnglishSentence": "The 「shopping district」 is perfect for finding trendy clothes and unique accessories.",
+          "chineseTranslation": "「购物区」非常适合寻找时尚的衣服和独特的配饰。",
+          "chinglishFix": "典型中式英语：'The shop area has many stores.' 纠正：'The shopping district is great for shopping.'"
+        },
+        {
+          "scene": "你和朋友计划晚上去一个有很多酒吧、餐厅和音乐场所的区域玩。",
+          "chineseIdea": "想表达某个区域是夜生活的中心，有很多娱乐场所。",
+          "sentenceWithBlank": "The @ @ comes alive at night with bars, restaurants, and live music.",
+          "fullEnglishSentence": "The 「entertainment district」 comes alive at night with bars, restaurants, and live music.",
+          "chineseTranslation": "「娱乐区」在晚上变得热闹非凡，有酒吧、餐厅和现场音乐。",
+          "chinglishFix": "典型中式英语：'The fun area has many bars.' 纠正：'The entertainment district is vibrant with nightlife.'"
+        }
+      ]
+    }
+  ]
+}
+```
