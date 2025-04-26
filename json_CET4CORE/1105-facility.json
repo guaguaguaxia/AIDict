@@ -1,0 +1,76 @@
+```json
+{
+  "word": "facility",
+  "definitions": [
+    {
+      "meaning": "建筑物或场所，提供特定功能或服务的地方，如工厂、医院、学校等",
+      "usage": "通常指为特定目的而设计或使用的物理场所，强调其功能性，常用于描述大型或专业化的建筑或场所。",
+      "collocations": ["manufacturing facility", "medical facility", "educational facility"],
+      "examples": [
+        {
+          "scene": "在一座工业园区内，一家大型汽车公司新建了一个现代化的生产基地，里面有各种高科技设备，用于组装新能源汽车。",
+          "chineseIdea": "描述一个专门用来生产产品的场所，强调其规模和技术先进性。",
+          "sentenceWithBlank": "The new @ @ produces electric vehicles with cutting-edge technology.",
+          "fullEnglishSentence": "The new 「manufacturing facility」 produces electric vehicles with cutting-edge technology.",
+          "chineseTranslation": "新的「制造场所」使用尖端技术生产电动汽车。",
+          "chinglishFix": "典型中式英语：'The new factory place makes cars.' 纠正：'Factory place' 是不自然的表达，应使用 'manufacturing facility' 来准确传达专业生产场所的意思。"
+        },
+        {
+          "scene": "在一座小城市里，政府投资兴建了一所综合医院，里面有急诊室、手术室和住院部，为居民提供全面的医疗服务。",
+          "chineseIdea": "描述一个为人们提供医疗服务的专业场所，突出其服务功能。",
+          "sentenceWithBlank": "The city’s new @ @ offers advanced healthcare services to residents.",
+          "fullEnglishSentence": "The city’s new 「medical facility」 offers advanced healthcare services to residents.",
+          "chineseTranslation": "这座城市的新「医疗场所」为居民提供先进的医疗服务。",
+          "chinglishFix": "典型中式英语：'The new hospital building gives medical help.' 纠正：'Hospital building' 和 'gives medical help' 显得生硬，应使用 'medical facility' 和 'offers healthcare services' 来表达专业性和功能性。"
+        }
+      ]
+    },
+    {
+      "meaning": "设备、工具或服务，便于完成某项任务或活动",
+      "usage": "指为特定活动提供的便利工具、设备或服务，强调其辅助功能，常用于描述抽象或具体的资源，如软件功能、银行服务等。",
+      "collocations": ["online banking facility", "credit facility", "storage facility"],
+      "examples": [
+        {
+          "scene": "一位年轻的白领在手机上使用银行的应用程序，可以随时随地查看账户余额、转账或支付账单，极大地方便了日常生活。",
+          "chineseIdea": "描述一种通过技术手段提供便利的服务，突出其高效性和易用性。",
+          "sentenceWithBlank": "The bank’s @ @ @ allows customers to manage their accounts from anywhere.",
+          "fullEnglishSentence": "The bank’s 「online banking facility」 allows customers to manage their accounts from anywhere.",
+          "chineseTranslation": "银行的「在线银行服务」允许客户随时随地管理他们的账户。",
+          "chinglishFix": "典型中式英语：'The bank’s internet service lets people use money.' 纠正：'Internet service' 和 'use money' 过于模糊，应使用 'online banking facility' 和 'manage their accounts' 来精确描述服务功能。"
+        },
+        {
+          "scene": "一家小型企业在快速发展，需要向银行申请一笔贷款来购买新设备，以支持业务的扩张。",
+          "chineseIdea": "描述一种金融服务，帮助企业解决资金需求，强调其支持作用。",
+          "sentenceWithBlank": "The company applied for a @ @ to fund its expansion.",
+          "fullEnglishSentence": "The company applied for a 「credit facility」 to fund its expansion.",
+          "chineseTranslation": "该公司申请了一项「信贷服务」来资助其扩张。",
+          "chinglishFix": "典型中式英语：'The company asked for a loan money.' 纠正：'Loan money' 是不规范的表达，应使用 'credit facility' 来体现正式的金融服务术语。"
+        }
+      ]
+    },
+    {
+      "meaning": "能力或才能，通常指轻松完成某事的天赋或技能",
+      "usage": "指某人天生或后天培养的某种能力，强调其熟练或轻松完成任务的特点，常用于描述语言、艺术或技术方面的才能。",
+      "collocations": ["facility with languages", "facility for problem-solving", "facility in writing"],
+      "examples": [
+        {
+          "scene": "一位中国学生在国际学校学习，很快就掌握了流利的英语，能够轻松地与外籍老师和同学交流。",
+          "chineseIdea": "描述某人在语言学习上的天赋，突出其快速掌握的能力。",
+          "sentenceWithBlank": "She has an impressive @ @ @, picking up English in just a few months.",
+          "fullEnglishSentence": "She has an impressive 「facility with languages」, picking up English in just a few months.",
+          "chineseTranslation": "她有令人印象深刻的「语言天赋」，在短短几个月内就学会了英语。",
+          "chinglishFix": "典型中式英语：'She is good at language.' 纠正：'Good at language' 过于简单，无法体现天赋的特殊性，应使用 'facility with languages' 来突出熟练和天赋。"
+        },
+        {
+          "scene": "一位年轻工程师在公司里以快速解决复杂技术问题而闻名，总是能找到创新的解决方案。",
+          "chineseIdea": "描述某人在解决技术问题上的才能，强调其高效和创造力。",
+          "sentenceWithBlank": "His @ @ @ makes him a valuable asset to the team.",
+          "fullEnglishSentence": "His 「facility for problem-solving」 makes him a valuable asset to the team.",
+          "chineseTranslation": "他的「解决问题的才能」使他成为团队中宝贵的资产。",
+          "chinglishFix": "典型中式英语：'He is smart to fix problems.' 纠正：'Smart to fix problems' 显得口语化且不精确，应使用 'facility for problem-solving' 来表达专业能力和天赋。"
+        }
+      ]
+    }
+  ]
+}
+```

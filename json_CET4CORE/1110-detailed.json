@@ -1,0 +1,61 @@
+```json
+{
+  "word": "detailed",
+  "definitions": [
+    {
+      "meaning": "包含许多细节的；详尽的",
+      "usage": "形容某事物（如报告、描述、计划等）包含大量具体信息，注重细节，信息全面且深入。",
+      "collocations": [
+        "detailed analysis",
+        "detailed description",
+        "detailed plan"
+      ],
+      "examples": [
+        {
+          "scene": "一名市场分析师在会议上向团队展示一份关于消费者行为的报告，报告中包含大量数据和具体案例。",
+          "chineseIdea": "分析师希望通过展示大量具体数据和案例，让团队清楚了解消费者的购买习惯。",
+          "sentenceWithBlank": "The analyst provided a @ @ to explain consumer purchasing habits.",
+          "fullEnglishSentence": "The analyst provided a 「detailed analysis」 to explain consumer purchasing habits.",
+          "chineseTranslation": "分析师提供了一份「详尽的分析」来解释消费者的购买习惯。",
+          "chinglishFix": "典型中式英语：'The analyst gave a very detail analysis.' 纠正：'Detailed' 应为 'detailed'，避免用 'very detail'，因为 'detailed' 本身已表示程度，正确表达为 'a detailed analysis'。"
+        },
+        {
+          "scene": "一名导游在带领游客参观古镇时，向游客介绍古镇的历史和建筑特色。",
+          "chineseIdea": "导游希望通过生动的讲解，让游客感受到古镇的文化底蕴。",
+          "sentenceWithBlank": "The tour guide gave a @ @ of the ancient town’s history.",
+          "fullEnglishSentence": "The tour guide gave a 「detailed description」 of the ancient town’s history.",
+          "chineseTranslation": "导游对古镇的历史进行了「详尽的描述」。",
+          "chinglishFix": "典型中式英语：'The guide said the history very detailed.' 纠正：应避免 'very detailed'，改为 'a detailed description'，并注意语法结构。"
+        }
+      ]
+    },
+    {
+      "meaning": "精细的；复杂的",
+      "usage": "形容某事物（如设计、图案、工艺等）具有复杂或精巧的细节，通常与视觉或技术上的精致相关。",
+      "collocations": [
+        "detailed design",
+        "detailed pattern",
+        "detailed work"
+      ],
+      "examples": [
+        {
+          "scene": "一名服装设计师在时装秀后接受采访时，谈到她最新系列的灵感来源于传统刺绣。",
+          "chineseIdea": "设计师希望突出她作品中复杂的图案和精致的工艺。",
+          "sentenceWithBlank": "The designer showcased a @ @ inspired by traditional embroidery.",
+          "fullEnglishSentence": "The designer showcased a 「detailed design」 inspired by traditional embroidery.",
+          "chineseTranslation": "设计师展示了一款受传统刺绣启发的「精细的设计」。",
+          "chinglishFix": "典型中式英语：'The designer showed a very detail design.' 纠正：避免 'very detail'，应为 'a detailed design'，突出形容词正确形式。"
+        },
+        {
+          "scene": "一名珠宝匠人在工作室向客户展示一枚手工制作的戒指，戒指上刻有复杂的花纹。",
+          "chineseIdea": "珠宝匠人希望客户注意到戒指上精美的雕刻细节。",
+          "sentenceWithBlank": "The jeweler presented a ring with a @ @ engraved on it.",
+          "fullEnglishSentence": "The jeweler presented a ring with a 「detailed pattern」 engraved on it.",
+          "chineseTranslation": "珠宝匠人展示了一枚刻有「复杂图案」的戒指。",
+          "chinglishFix": "典型中式英语：'The ring has very detailed pattern.' 纠正：应为 'a detailed pattern'，避免 'very detailed'，并注意冠词使用。"
+        }
+      ]
+    }
+  ]
+}
+```

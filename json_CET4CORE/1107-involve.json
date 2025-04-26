@@ -1,0 +1,76 @@
+```json
+{
+  "word": "involve",
+  "definitions": [
+    {
+      "meaning": "使某人或某物参与、卷入某事",
+      "usage": "指让某人或某物成为某活动、事件或情况的一部分，通常强调主动或被动的参与。",
+      "collocations": ["be involved in", "get involved with", "actively involve"],
+      "examples": [
+        {
+          "scene": "在一个社区活动中，组织者希望吸引更多年轻人参与。他们设计了一些有趣的互动环节，比如街头艺术创作和音乐表演，希望能让年轻人感到兴奋并加入。",
+          "chineseIdea": "组织者想让年轻人加入活动，觉得他们的参与能让活动更有活力。",
+          "sentenceWithBlank": "The organizers want to @ @ @ young people in the community event to make it more vibrant.",
+          "fullEnglishSentence": "The organizers want to 「be involved in」 young people in the community event to make it more vibrant.",
+          "chineseTranslation": "组织者希望年轻人「参与」社区活动，使活动更有活力。",
+          "chinglishFix": "典型中式英语：'Let young people join to the event.' 纠正：'Get young people involved in the event.'（'join' 后通常不接 'to'，且 'involved in' 更自然地表达参与。）"
+        },
+        {
+          "scene": "在一个团队项目中，经理注意到新员工小李有些害羞，不太主动参与讨论。经理决定给他分配一个具体任务，让他与团队其他成员合作完成。",
+          "chineseIdea": "经理想让小李融入团队，通过具体任务与他人的合作来提升他的参与感。",
+          "sentenceWithBlank": "The manager decided to @ @ @ Xiao Li with the team’s collaborative tasks.",
+          "fullEnglishSentence": "The manager decided to 「get involved with」 Xiao Li with the team’s collaborative tasks.",
+          "chineseTranslation": "经理决定让小李「参与」团队的协作任务。",
+          "chinglishFix": "典型中式英语：'Make Xiao Li join with the tasks.' 纠正：'Get Xiao Li involved with the tasks.'（'join with' 不常用，'involved with' 更符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "包含、需要",
+      "usage": "指某事作为必要部分包含或需要某些元素、步骤或条件，通常用于描述过程、活动或任务的构成。",
+      "collocations": ["involve doing something", "involve the use of", "involve a process"],
+      "examples": [
+        {
+          "scene": "小明在准备一个关于环境保护的学校演讲。他需要收集数据、制作幻灯片，还要练习演讲技巧。这个过程需要大量的时间和精力。",
+          "chineseIdea": "小明觉得准备演讲不仅仅是写稿子，还需要其他准备工作，比如练习和设计。",
+          "sentenceWithBlank": "Preparing the speech will @ @ @ a lot of research and practice.",
+          "fullEnglishSentence": "Preparing the speech will 「involve doing」 a lot of research and practice.",
+          "chineseTranslation": "准备演讲将「需要做」大量的研究和练习。",
+          "chinglishFix": "典型中式英语：'The speech needs to do a lot of research.' 纠正：'Preparing the speech involves doing a lot of research.'（'needs to do' 不适合描述过程，'involves doing' 更精确。）"
+        },
+        {
+          "scene": "一家公司正在开发一款新的手机应用程序。为了确保程序运行顺畅，他们需要使用一些先进的技术工具，比如云计算和数据分析软件。",
+          "chineseIdea": "公司认为开发这款应用不仅仅是写代码，还需要借助一些专业工具来完成。",
+          "sentenceWithBlank": "Developing the app will @ @ @ of advanced technological tools.",
+          "fullEnglishSentence": "Developing the app will 「involve the use of」 advanced technological tools.",
+          "chineseTranslation": "开发这款应用将「需要使用」先进的技术工具。",
+          "chinglishFix": "典型中式英语：'The app development needs using tools.' 纠正：'Developing the app involves the use of tools.'（'needs using' 语法不正确，'involves the use of' 是固定搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "牵涉、卷入（负面或复杂情况）",
+      "usage": "指某人或某物被卷入麻烦、争议或复杂情况，通常带有一定的负面含义，强调非自愿或意外的参与。",
+      "collocations": ["get involved in", "become involved in", "avoid getting involved"],
+      "examples": [
+        {
+          "scene": "小红和朋友出去玩时，偶然遇到两个人在街头争吵。她本来不想管，但其中一个人突然向她求助，让她觉得很难抽身。",
+          "chineseIdea": "小红不想掺和别人的争执，但情况让她不得不被牵扯进去。",
+          "sentenceWithBlank": "Hong tried to stay out of the argument, but she couldn’t help @ @ @ it.",
+          "fullEnglishSentence": "Hong personally couldn’t help 「getting involved in」 it.",
+          "chineseTranslation": "小红试图置身事外，但她忍不住「卷入了」争吵。",
+          "chinglishFix": "典型中式英语：'She was joined in the argument.' 纠正：'She got involved in the argument.'（'joined in' 通常指主动参与活动，'got involved in' 更适合描述被卷入。）"
+        },
+        {
+          "scene": "在一个工作项目中，团队成员因为意见不合发生了激烈争论。小王本来只负责技术部分，但争论升级后，他也被迫参与了讨论。",
+          "chineseIdea": "小王本来只想专注自己的工作，但团队的冲突让他也被牵扯进去。",
+          "sentenceWithBlank": "Wang didn’t want to take sides, but he eventually @ @ @ the heated debate.",
+          "fullEnglishSentence": "Wang didn’t want to take sides, but he eventually 「became involved in」 the heated debate.",
+          "chineseTranslation": "小王不想站队，但他最终「卷入了」激烈的争论。",
+          "chinglishFix": "典型中式英语：'He was entered into the debate.' 纠正：'He became involved in the debate.'（'entered into' 不适合描述这种情况，'became involved in' 更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```
