@@ -1,0 +1,76 @@
+```json
+{
+  "word": "steer",
+  "definitions": [
+    {
+      "meaning": "引导或驾驶（车辆、船等）",
+      "usage": "指控制车辆、船只等的行驶方向，通常用于描述物理上的操控行为，强调对方向的掌控。",
+      "collocations": ["steer the car", "steer the boat", "steer clear of"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的市中心，小明刚刚拿到驾照，第一次独自开车去公司。他需要小心地控制方向盘以避开行人和车辆。",
+          "chineseIdea": "小明需要通过转动方向盘来控制汽车的行驶方向，确保安全到达目的地。",
+          "sentenceWithBlank": "He carefully @ @ @ through the crowded streets.",
+          "fullEnglishSentence": "He carefully 「steers the car」 through the crowded streets.",
+          "chineseTranslation": "他小心地「驾驶汽车」穿过拥挤的街道。",
+          "chinglishFix": "典型中式英语：'He drive the car carefully in the street.' 纠正：'He steers the car carefully through the street.'（使用'steer'更准确地表达控制方向的动作，且'through'比'in'更适合描述穿过街道。）"
+        },
+        {
+          "scene": "在一次家庭出游中，小红和家人乘船游览湖泊。船长教她如何操作舵来改变船的方向。",
+          "chineseIdea": "小红通过转动舵来调整船的航向，体验驾驶船只的乐趣。",
+          "sentenceWithBlank": "She excitedly @ @ @ toward the center of the lake.",
+          "fullEnglishSentence": "She excitedly 「steers the boat」 toward the center of the lake.",
+          "chineseTranslation": "她兴奋地「驾驶船只」朝湖中心前进。",
+          "chinglishFix": "典型中式英语：'She drive the boat to the lake center.' 纠正：'She steers the boat toward the lake center.'（'steer'比'drive'更适合船只，且'toward'更自然地表达方向。）"
+        }
+      ]
+    },
+    {
+      "meaning": "引导或影响（人、讨论、情况等）",
+      "usage": "指通过建议、指导或影响来引导某人或某事朝特定方向发展，常用于抽象场景，如谈话、决策或行为。",
+      "collocations": ["steer the conversation", "steer someone toward", "steer away from"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理注意到讨论偏离了主题，决定通过提问将话题引回到项目计划上。",
+          "chineseIdea": "经理通过提出相关问题，引导大家重新聚焦于项目计划的讨论。",
+          "sentenceWithBlank": "The manager skillfully @ @ @ back to the project timeline.",
+          "fullEnglishSentence": "The manager skillfully 「steers the conversation」 back to the project timeline.",
+          "chineseTranslation": "经理巧妙地「引导讨论」回到项目时间表。",
+          "chinglishFix": "典型中式英语：'The manager lead the talk to the project.' 纠正：'The manager steers the conversation back to the project timeline.'（'steer'更精确地表达引导，且'conversation'和'back to'更符合语境。）"
+        },
+        {
+          "scene": "小刚的父母担心他沉迷游戏，希望通过与他沟通，引导他将注意力转向学业和兴趣爱好。",
+          "chineseIdea": "父母通过谈话和建议，试图让小刚将精力投入到更有意义的事情上。",
+          "sentenceWithBlank": "They gently @ @ @ studying and hobbies.",
+          "fullEnglishSentence": "They gently 「steer him toward」 studying and hobbies.",
+          "chineseTranslation": "他们温和地「引导他」专注于学习和兴趣爱好。",
+          "chinglishFix": "典型中式英语：'They push him to study and hobby.' 纠正：'They steer him toward studying and hobbies.'（'steer'更柔和地表达引导，'toward'更适合表示方向，且'hobbies'需用复数。）"
+        }
+      ]
+    },
+    {
+      "meaning": "避开（某事物）",
+      "usage": "通常以短语'steer clear of'出现，意为有意避开某人、某事或某种情况，以避免麻烦或危险。",
+      "collocations": ["steer clear of trouble", "steer clear of someone", "steer clear of danger"],
+      "examples": [
+        {
+          "scene": "小李刚搬到新城市，听说某个区域治安不好，决定在晚上绕开那个地方。",
+          "chineseIdea": "小李为了安全，选择避开可能有风险的区域。",
+          "sentenceWithBlank": "He decided to @ @ @ by taking a different route at night.",
+          "fullEnglishSentence": "He decided to 「steer clear of trouble」 by taking a different route at night.",
+          "chineseTranslation": "他决定通过走不同的路线「避开麻烦」。",
+          "chinglishFix": "典型中式英语：'He avoid the trouble by another road.' 纠正：'He steers clear of trouble by taking a different route.'（'steer clear of'是固定搭配，'taking a different route'更自然。）"
+        },
+        {
+          "scene": "在学校里，小美发现一个同学喜欢传播谣言，决定尽量不与她交往以免卷入是非。",
+          "chineseIdea": "小美为了避免不必要的麻烦，选择与爱说闲话的同学保持距离。",
+          "sentenceWithBlank": "She chose to @ @ @ to avoid gossip.",
+          "fullEnglishSentence": "She chose to 「steer clear of someone」 to avoid gossip.",
+          "chineseTranslation": "她选择「避开某人」以免卷入流言。",
+          "chinglishFix": "典型中式英语：'She keep away that person to not gossip.' 纠正：'She steers clear of someone to avoid gossip.'（'steer clear of'更地道，'someone'更符合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

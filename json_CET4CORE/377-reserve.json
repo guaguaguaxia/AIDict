@@ -1,0 +1,76 @@
+```json
+{
+  "word": "reserve",
+  "definitions": [
+    {
+      "meaning": "保留或预留某物以供将来使用",
+      "usage": "指为特定目的或未来使用而保存某物，通常用于资源、座位、房间等。可以用作动词或名词。",
+      "collocations": ["reserve a seat", "reserve a table", "reserve the right"],
+      "examples": [
+        {
+          "scene": "你在一家高档餐厅计划与朋友共进晚餐，由于餐厅很受欢迎，你决定提前预订一个位置。",
+          "chineseIdea": "为了确保有位置，你会提前联系餐厅，告诉他们你需要一个桌子。",
+          "sentenceWithBlank": "I called the restaurant to @ @ @ for our group tonight.",
+          "fullEnglishSentence": "I called the restaurant to 「reserve a table」 for our group tonight.",
+          "chineseTranslation": "我给餐厅打电话为我们今晚的聚会「预订了一个桌子」。",
+          "chinglishFix": "中式英语：I booked a table for tonight.（虽然book也对，但reserve更正式，适合高档餐厅） 纠正：I reserved a table for tonight."
+        },
+        {
+          "scene": "你计划去看一场热门演唱会，知道票会很快售罄，所以提前在网上预订了座位。",
+          "chineseIdea": "为了保证能坐在好位置，你会提前在购票网站上选择并锁定一个座位。",
+          "sentenceWithBlank": "I went online to @ @ @ for the concert next month.",
+          "fullEnglishSentence": "I went online to 「reserve a seat」 for the concert next month.",
+          "chineseTranslation": "我在网上为下个月的演唱会「预订了一个座位」。",
+          "chinglishFix": "中式英语：I ordered a seat for the concert.（order不适用于预订座位） 纠正：I reserved a seat for the concert."
+        }
+      ]
+    },
+    {
+      "meaning": "保持谨慎或克制，不轻易表达情感或意见",
+      "usage": "指在社交场合中保持矜持或谨慎，通常形容人的性格或行为。用作名词或动词。",
+      "collocations": ["show reserve", "maintain reserve", "break the reserve"],
+      "examples": [
+        {
+          "scene": "在公司会议上，你的新同事小李不轻易发表意见，总是静静地听别人发言。",
+          "chineseIdea": "小李性格内向，倾向于在陌生人面前保持沉默，直到熟悉环境。",
+          "sentenceWithBlank": "During the meeting, Li chose to @ @ because he was new.",
+          "fullEnglishSentence": "During the meeting, Li chose to 「show reserve」 because he was new.",
+          "chineseTranslation": "在会议中，小李因为是新人选择了「保持沉默」。",
+          "chinglishFix": "中式英语：Li was quiet to keep low profile.（low profile指低调，但不准确） 纠正：Li showed reserve during the meeting."
+        },
+        {
+          "scene": "你在朋友聚会上认识了一个新朋友，她一开始很安静，但聊到共同兴趣后开始变得健谈。",
+          "chineseIdea": "新朋友一开始不主动说话，但熟悉后会敞开心扉，展现真实的性格。",
+          "sentenceWithBlank": "After some time, she began to @ @ @ and shared her hobbies.",
+          "fullEnglishSentence": "After some time, she began to 「break the reserve」 and shared her hobbies.",
+          "chineseTranslation": "过了一会儿，她开始「打破沉默」，分享了她的爱好。",
+          "chinglishFix": "中式英语：She stopped being shy and talked.（shy不完全等同于reserve） 纠正：She broke her reserve and started talking."
+        }
+      ]
+    },
+    {
+      "meaning": "储备或后备资源",
+      "usage": "指储存起来以备不时之需的资源，如金钱、物资等。通常用作名词。",
+      "collocations": ["financial reserve", "emergency reserve", "build up a reserve"],
+      "examples": [
+        {
+          "scene": "你正在制定个人理财计划，决定每月存一部分钱以备不时之需。",
+          "chineseIdea": "为了应对突发情况，你会把一部分收入存起来，形成一个资金池。",
+          "sentenceWithBlank": "I set aside some money each month to create a @ @.",
+          "fullEnglishSentence": "I set aside some money each month to create a 「financial reserve」.",
+          "chineseTranslation": "我每个月留出一些钱来建立一个「财务储备」。",
+          "chinglishFix": "中式英语：I save money for urgent use.（urgent use不自然） 纠正：I build a financial reserve for emergencies."
+        },
+        {
+          "scene": "一家公司为了应对可能的供应链中断，决定增加库存物资。",
+          "chineseIdea": "公司希望通过储存更多物资来确保生产不会因为缺货而停止。",
+          "sentenceWithBlank": "The company decided to @ @ @ of materials to avoid shortages.",
+          "fullEnglishSentence": "The company decided to 「build up a reserve」 of materials to avoid shortages.",
+          "chineseTranslation": "公司决定「建立物资储备」以避免短缺。",
+          "chinglishFix": "中式英语：The company stored materials for backup.（backup不适用于物资储备） 纠正：The company built up a reserve of materials."
+        }
+      ]
+    }
+  ]
+}
+```

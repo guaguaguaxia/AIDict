@@ -1,0 +1,53 @@
+```json
+{
+  "word": "surf",
+  "definitions": [
+    {
+      "meaning": "在海浪上骑板运动（冲浪）",
+      "usage": "作为动词，指在海浪上使用冲浪板进行运动，通常与海洋、运动、冒险等语境相关。",
+      "collocations": ["ride the waves", "catch a wave", "go surfing"],
+      "examples": [
+        {
+          "scene": "一个阳光明媚的周末，李明和朋友们来到海南三亚的海滩，准备体验冲浪运动。海浪翻滚，气氛热烈，他们租了冲浪板，迫不及待地跳入海中。",
+          "chineseIdea": "李明想要在海浪中找到平衡，感受风和浪的节奏，享受与自然融为一体的快感。",
+          "sentenceWithBlank": "With the sun shining brightly, Li Ming was excited to @ @ @ on his first try.",
+          "fullEnglishSentence": "With the sun shining brightly, Li Ming was excited to 「ride the waves」 on his first try.",
+          "chineseTranslation": "阳光明媚，李明兴奋地第一次尝试「乘风破浪」。",
+          "chinglishFix": "典型中式英语：'play the waves' → 纠正：'ride the waves'，因为英语中描述冲浪时常用'ride'表示驾驭海浪，而非'play'。"
+        },
+        {
+          "scene": "在澳大利亚的黄金海岸，张华参加了一个冲浪夏令营。教练教他如何在合适的时机站上冲浪板，抓住海浪的节奏。",
+          "chineseIdea": "张华希望学会如何精准地抓住海浪，感受冲浪带来的速度与激情。",
+          "sentenceWithBlank": "Under the coach’s guidance, Zhang Hua learned to @ @ @ perfectly.",
+          "fullEnglishSentence": "Under the coach’s guidance, Zhang Hua learned to 「catch a wave」 perfectly.",
+          "chineseTranslation": "在教练的指导下，张华学会了完美地「抓住海浪」。",
+          "chinglishFix": "典型中式英语：'get the wave' → 纠正：'catch a wave'，因为'catch'是冲浪中用来描述抓住海浪时机的常用动词。"
+        }
+      ]
+    },
+    {
+      "meaning": "浏览（尤指在互联网上）",
+      "usage": "作为动词，指在互联网上随意浏览网页或内容，通常与网络、技术、休闲等语境相关。",
+      "collocations": ["surf the internet", "surf the web", "surf social media"],
+      "examples": [
+        {
+          "scene": "周末晚上，王芳窝在沙发上，手里拿着平板电脑，漫无目的地浏览各种网站，从新闻到美食博客，再到搞笑视频。",
+          "chineseIdea": "王芳想放松一下，通过浏览网络来了解新鲜事，或者找到一些有趣的内容打发时间。",
+          "sentenceWithBlank": "Feeling bored, Wang Fang decided to @ @ @ for some entertainment.",
+          "fullEnglishSentence": "Feeling bored, Wang Fang decided to 「surf the internet」 for some entertainment.",
+          "chineseTranslation": "感到无聊，王芳决定「浏览网络」寻找一些娱乐。",
+          "chinglishFix": "典型中式英语：'play the internet' → 纠正：'surf the internet'，因为'surf'是描述随意浏览网络的习惯用语，而非'play'。"
+        },
+        {
+          "scene": "午休时间，陈磊坐在公司休息室，用手机快速浏览社交媒体，查看朋友的动态和热门话题。",
+          "chineseIdea": "陈磊想利用短暂的休息时间，快速了解社交媒体上的最新动态，保持与朋友的联系。",
+          "sentenceWithBlank": "During his break, Chen Lei liked to @ @ @ to stay updated.",
+          "fullEnglishSentence": "During his break, Chen Lei liked to 「surf social media」 to stay updated.",
+          "chineseTranslation": "在休息时间，陈磊喜欢「浏览社交媒体」以保持更新。",
+          "chinglishFix": "典型中式英语：'look at social media' → 纠正：'surf social media'，因为'surf'更生动地描述了快速、随意浏览的行为。"
+        }
+      ]
+    }
+  ]
+}
+```
