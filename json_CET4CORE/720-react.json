@@ -1,0 +1,76 @@
+```json
+{
+  "word": "react",
+  "definitions": [
+    {
+      "meaning": "对某事或某人做出回应或反应",
+      "usage": "通常指在特定事件、情境或刺激下，迅速或自然地做出行为、情感或态度的回应，常用于描述人或群体的即时反应。",
+      "collocations": ["react to", "react with", "react by"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理提出了一个大胆的新项目计划，员工们对此表现出不同的态度。",
+          "chineseIdea": "员工们根据自己的观点和情绪，对经理的计划表现出支持、怀疑或反对等不同态度。",
+          "sentenceWithBlank": "The team @ @ the manager’s bold proposal with mixed feelings.",
+          "fullEnglishSentence": "The team 「reacted to」 the manager’s bold proposal with mixed feelings.",
+          "chineseTranslation": "团队对经理的大胆提议「做出反应」，带着复杂的情绪。",
+          "chinglishFix": "典型中式英语：'The team give reaction to the proposal.' 纠正：'The team reacted to the proposal.'（使用'react to'而非'give reaction'，后者不自然且不符合英语习惯。）"
+        },
+        {
+          "scene": "在社交媒体上，一位名人发布了一条具有争议性的帖子，网友们迅速对此发表评论。",
+          "chineseIdea": "网友们看到这条帖子后，情绪激动，纷纷通过点赞、转发或评论来表达自己的看法。",
+          "sentenceWithBlank": "Fans @ @ the celebrity’s post by flooding the comments section.",
+          "fullEnglishSentence": "Fans 「reacted by」 the celebrity’s post by flooding the comments section.",
+          "chineseTranslation": "粉丝们通过充斥评论区的方式「做出反应」，回应了这位名人的帖子。",
+          "chinglishFix": "典型中式英语：'Fans answer the post with comments.' 纠正：'Fans reacted to the post by commenting.'（'answer'不适用于回应帖子，'react by'更能体现行为反应。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在化学中，指物质之间发生化学反应",
+      "usage": "用于描述化学物质在特定条件下相互作用，生成新物质的过程，通常出现在科学或学术语境中。",
+      "collocations": ["react with", "react to form", "react under"],
+      "examples": [
+        {
+          "scene": "在化学实验室中，学生们正在进行一项实验，观察两种化学物质混合后的变化。",
+          "chineseIdea": "学生们将一种化学物质与另一种混合，观察它们是否会发生变化并生成新的化合物。",
+          "sentenceWithBlank": "Sodium @ @ chlorine to produce sodium chloride.",
+          "fullEnglishSentence": "Sodium 「reacts with」 chlorine to produce sodium chloride.",
+          "chineseTranslation": "钠与氯气「发生反应」，生成氯化钠。",
+          "chinglishFix": "典型中式英语：'Sodium and chlorine make reaction.' 纠正：'Sodium reacts with chlorine.'（'make reaction'不符合英语学术表达，'react with'是化学领域的标准搭配。）"
+        },
+        {
+          "scene": "在工业生产中，工程师们需要控制化学物质在特定条件下的反应过程。",
+          "chineseIdea": "工程师们通过调节温度和压力，确保化学物质在理想条件下发生反应，生成目标产品。",
+          "sentenceWithBlank": "The chemicals @ @ high temperatures to form a stable compound.",
+          "fullEnglishSentence": "The chemicals 「react under」 high temperatures to form a stable compound.",
+          "chineseTranslation": "这些化学物质在高温下「发生反应」，形成一种稳定的化合物。",
+          "chinglishFix": "典型中式英语：'The chemicals do reaction in high temperature.' 纠正：'The chemicals react under high temperatures.'（'do reaction'不自然，'react under'更符合科学语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "对某事产生强烈的情绪或态度（通常是负面反应）",
+      "usage": "指某人对某事感到强烈反对、不满或过激的情绪反应，常用于描述过于敏感或激烈的态度。",
+      "collocations": ["react against", "react negatively to", "overreact to"],
+      "examples": [
+        {
+          "scene": "在家庭聚会上，父母批评了孩子的职业选择，孩子因此表现出强烈的不满。",
+          "chineseIdea": "孩子觉得自己被误解，强烈反对父母的批评，甚至提高了嗓门。",
+          "sentenceWithBlank": "She @ @ her parents’ criticism of her career choice.",
+          "fullEnglishSentence": "She 「reacted against」 her parents’ criticism of her career choice.",
+          "chineseTranslation": "她对父母对自己职业选择的批评「强烈反对」。",
+          "chinglishFix": "典型中式英语：'She fight with parents’ criticism.' 纠正：'She reacted against her parents’ criticism.'（'fight with'不适用于抽象的批评，'react against'更能表达反对态度。）"
+        },
+        {
+          "scene": "在学校里，老师因为学生的小错误而严厉责骂，学生感到委屈并情绪激动。",
+          "chineseIdea": "学生觉得老师的责骂过于严厉，情绪激动，甚至有些夸张地表达自己的委屈。",
+          "sentenceWithBlank": "He @ @ the teacher’s harsh words, storming out of the classroom.",
+          "fullEnglishSentence": "He 「overreacted to」 the teacher’s harsh words, storming out of the classroom.",
+          "chineseTranslation": "他对老师的严厉言辞「反应过度」，气冲冲地离开了教室。",
+          "chinglishFix": "典型中式英语：'He too much react to teacher’s words.' 纠正：'He overreacted to the teacher’s words.'（'too much react'语法错误且不自然，'overreact to'是正确表达。）"
+        }
+      ]
+    }
+  ]
+}
+```

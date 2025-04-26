@@ -1,0 +1,53 @@
+```json
+{
+  "word": "induce",
+  "definitions": [
+    {
+      "meaning": "引起，导致（某种状态、反应或行为）",
+      "usage": "指通过某种刺激或影响使某事发生，通常用于描述引起某种结果、情感、行为或生理反应。",
+      "collocations": ["induce a response", "induce labor", "induce sleep"],
+      "examples": [
+        {
+          "scene": "在一次重要的医学会议上，医生们讨论如何帮助孕妇顺利分娩，特别是在某些紧急情况下需要加速分娩过程。",
+          "chineseIdea": "医生希望通过药物或其他方法来促使孕妇开始分娩，以确保母婴安全。",
+          "sentenceWithBlank": "The doctor decided to @ @ to ensure a safe delivery.",
+          "fullEnglishSentence": "The doctor decided to 「induce labor」 to ensure a safe delivery.",
+          "chineseTranslation": "医生决定「诱导分娩」以确保安全分娩。",
+          "chinglishFix": "典型中式英语：'Make her give birth' 纠正：'Induce labor'。中式表达过于直白，缺乏医学语境的精确性，正确的搭配能体现专业性。"
+        },
+        {
+          "scene": "一位心理学家在研究如何通过视觉刺激引发被试者的情绪反应，例如在实验中展示特定图像来观察参与者的反应。",
+          "chineseIdea": "心理学家想通过展示图片来激发被试者的某种情绪或行为反应，以研究大脑的处理机制。",
+          "sentenceWithBlank": "The images were designed to @ @ @ from the participants.",
+          "fullEnglishSentence": "The images were designed to 「induce a response」 from the participants.",
+          "chineseTranslation": "这些图片被设计来「引发反应」从参与者那里。",
+          "chinglishFix": "典型中式英语：'Make them react' 纠正：'Induce a response'。中式表达过于笼统，正确的搭配更能体现实验设计的科学性。"
+        }
+      ]
+    },
+    {
+      "meaning": "劝说，诱导（某人做某事）",
+      "usage": "指通过说服、诱惑或其他方式促使某人采取某种行动或做出决定，通常带有一定程度的引导或影响。",
+      "collocations": ["induce someone to act", "induce a decision", "induce participation"],
+      "examples": [
+        {
+          "scene": "在一家创业公司，团队领导正在尝试说服一位犹豫不决的员工加入一个高风险但潜力巨大的新项目。",
+          "chineseIdea": "领导希望通过展示项目的潜力来说服员工参与，激发他们的兴趣。",
+          "sentenceWithBlank": "The team leader’s presentation was meant to @ @ @ @ in the new project.",
+          "fullEnglishSentence": "The team leader’s presentation was meant to 「induce participation」 in the new project.",
+          "chineseTranslation": "团队领导的演讲旨在「诱导参与」新项目。",
+          "chinglishFix": "典型中式英语：'Make him join' 纠正：'Induce participation'。中式表达过于直接，忽略了说服的微妙过程，正确搭配更自然。"
+        },
+        {
+          "scene": "在一个慈善活动中，组织者试图通过分享感人的故事来鼓励观众捐款支持一项公益事业。",
+          "chineseIdea": "组织者希望通过情感诉求来引导观众做出捐款的决定。",
+          "sentenceWithBlank": "Her emotional speech was intended to @ @ @ among the audience.",
+          "fullEnglishSentence": "Her emotional speech was intended to 「induce a decision」 among the audience.",
+          "chineseTranslation": "她感人的演讲旨在「诱导决定」在观众中。",
+          "chinglishFix": "典型中式英语：'Let them decide to donate' 纠正：'Induce a decision'。中式表达冗长且不地道，正确搭配更简洁有力。"
+        }
+      ]
+    }
+  ]
+}
+```

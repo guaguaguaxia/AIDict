@@ -1,0 +1,76 @@
+```json
+{
+  "word": "tighten",
+  "definitions": [
+    {
+      "meaning": "使更牢固或更紧密",
+      "usage": "常用于描述物理上拉紧、固定或使某物更紧密的动作，如拧紧螺丝或收紧绳子。",
+      "collocations": ["tighten a screw", "tighten a rope", "tighten a belt"],
+      "examples": [
+        {
+          "scene": "在一个家庭装修场景中，张先生正在组装一个新买的书架。他发现书架有些摇晃，需要用螺丝刀来固定。",
+          "chineseIdea": "张先生想要让书架更稳固，所以他决定拧紧书架上的螺丝。",
+          "sentenceWithBlank": "To make the bookshelf more stable, Mr. Zhang used a screwdriver to @ @ @.",
+          "fullEnglishSentence": "To make the bookshelf more stable, Mr. Zhang used a screwdriver to 「tighten a screw」.",
+          "chineseTranslation": "为了让书架更稳固，张先生用螺丝刀「拧紧螺丝」。",
+          "chinglishFix": "中式英语：'make the screw more tight' → 纠正：'tighten the screw'。'Make more tight'不符合英语习惯，应使用'tighten'表示拧紧动作。"
+        },
+        {
+          "scene": "在一个露营活动中，李小姐正在搭建帐篷。风很大，她需要确保帐篷的绳子拉得足够紧，以防止帐篷被吹倒。",
+          "chineseIdea": "李小姐希望帐篷稳固，所以她用力拉紧绳子并固定在地上。",
+          "sentenceWithBlank": "To secure the tent against the wind, Ms. Li pulled @ @ @ and tied it to the ground.",
+          "fullEnglishSentence": "To secure the tent against the wind, Ms. Li pulled 「tighten a rope」 and tied it to the ground.",
+          "chineseTranslation": "为了固定帐篷以防风吹，李小姐拉「紧绳子」并把它绑在地上。",
+          "chinglishFix": "中式英语：'pull the rope tight' → 纠正：'tighten the rope'。'Pull tight'虽然有类似意思，但'tighten'更常用于表示拉紧绳子的动作。"
+        }
+      ]
+    },
+    {
+      "meaning": "加强或加严（如规则、控制等）",
+      "usage": "用于抽象场景，如加强法规、纪律或控制，通常涉及政策、规定或管理的收紧。",
+      "collocations": ["tighten regulations", "tighten security", "tighten control"],
+      "examples": [
+        {
+          "scene": "在一家公司中，由于最近发生了几次数据泄露事件，管理层决定采取更严格的措施来保护信息安全。",
+          "chineseIdea": "公司希望通过更严格的规则来防止未来的数据泄露。",
+          "sentenceWithBlank": "To prevent further data breaches, the company decided to @ @ @.",
+          "fullEnglishSentence": "To prevent further data breaches, the company decided to 「tighten regulations」.",
+          "chineseTranslation": "为了防止进一步的数据泄露，公司决定「加强法规」。",
+          "chinglishFix": "中式英语：'make regulations more strict' → 纠正：'tighten regulations'。'Make more strict'显得冗长，'tighten'更简洁且符合英语表达习惯。"
+        },
+        {
+          "scene": "在一个城市的机场，由于近期安全威胁增加，当局决定加强安检流程，以确保乘客安全。",
+          "chineseIdea": "当局希望通过更严格的安检措施来提高机场的安全性。",
+          "sentenceWithBlank": "In response to recent threats, the airport authorities decided to @ @ @.",
+          "fullEnglishSentence": "In response to recent threats, the airport authorities decided to 「tighten security」.",
+          "chineseTranslation": "为了应对最近的威胁，机场当局决定「加强安保」。",
+          "chinglishFix": "中式英语：'strengthen the security' → 纠正：'tighten security'。'Strengthen'虽然可以，但'tighten security'是更常见的固定搭配。"
+        }
+      ]
+    },
+    {
+      "meaning": "使身体或肌肉绷紧",
+      "usage": "描述身体或肌肉因紧张、压力或运动而变得更紧绷的状态。",
+      "collocations": ["tighten muscles", "tighten grip", "tighten jaw"],
+      "examples": [
+        {
+          "scene": "在健身房里，王先生正在进行重量训练。他需要用力抓紧杠铃，以确保安全地完成动作。",
+          "chineseIdea": "王先生为了稳稳地举起杠铃，必须用力抓住它。",
+          "sentenceWithBlank": "To lift the barbell safely, Mr. Wang had to @ @ @.",
+          "fullEnglishSentence": "To lift the barbell safely, Mr. Wang had to 「tighten grip」.",
+          "chineseTranslation": "为了安全地举起杠铃，王先生必须「抓紧」。",
+          "chinglishFix": "中式英语：'hold the grip tightly' → 纠正：'tighten grip'。'Hold tightly'不够地道，'tighten grip'更符合英语表达习惯。"
+        },
+        {
+          "scene": "在一个紧张的会议中，赵女士听到一个令人不安的消息，她下意识地咬紧牙关，努力保持冷静。",
+          "chineseIdea": "赵女士因为紧张而咬紧牙关，试图控制自己的情绪。",
+          "sentenceWithBlank": "Hearing the upsetting news, Ms. Zhao instinctively @ @ @ to stay calm.",
+          "fullEnglishSentence": "Hearing the upsetting news, Ms. Zhao instinctively 「tighten jaw」 to stay calm.",
+          "chineseTranslation": "听到令人不安的消息，赵女士本能地「咬紧牙关」以保持冷静。",
+          "chinglishFix": "中式英语：'make jaw tight' → 纠正：'tighten jaw'。'Make tight'不符合英语习惯，'tighten jaw'是描述咬紧牙关的正确表达。"
+        }
+      ]
+    }
+  ]
+}
+```
