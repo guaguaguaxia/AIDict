@@ -1,0 +1,76 @@
+```json
+{
+  "word": "scope",
+  "definitions": [
+    {
+      "meaning": "范围，界限",
+      "usage": "指某事物、活动或项目的范围、界限或程度，常用于描述某个领域的覆盖范围或限制。",
+      "collocations": ["within the scope of", "beyond the scope of", "scope of work"],
+      "examples": [
+        {
+          "scene": "在公司会议中，项目经理正在向团队解释新项目的任务分配和目标设定。",
+          "chineseIdea": "项目经理想表达这个项目的任务和目标是有限制的，只涵盖某些特定领域。",
+          "sentenceWithBlank": "All tasks must remain @ @ @ @ the project guidelines.",
+          "fullEnglishSentence": "All tasks must remain 「within the scope of」 the project guidelines.",
+          "chineseTranslation": "所有任务必须保持在项目指导方针的「范围内」。",
+          "chinglishFix": "典型中式英语：'All tasks must in the range of the project.' 纠正：使用 'within the scope of' 更自然，表示在某个界限或范围内。"
+        },
+        {
+          "scene": "在学术研讨会上，一位研究人员被问及他们的研究是否包括某个新兴技术。",
+          "chineseIdea": "研究人员想说明他们的研究不包括这个技术，因为它超出了研究范围。",
+          "sentenceWithBlank": "That topic is @ @ @ @ our current research.",
+          "fullEnglishSentence": "That topic is 「beyond the scope of」 our current research.",
+          "chineseTranslation": "这个话题「超出了」我们当前研究的「范围」。",
+          "chinglishFix": "典型中式英语：'That topic is out of our research range.' 纠正：使用 'beyond the scope of' 表示超出范围更符合英语表达习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "机会，可能性",
+      "usage": "指某人或某事实现目标或发展的机会、潜力，常用于描述可能性或空间。",
+      "collocations": ["scope for improvement", "scope for growth", "offer scope for"],
+      "examples": [
+        {
+          "scene": "在员工年度评估中，经理与员工讨论如何提升工作表现。",
+          "chineseIdea": "经理想表达员工的表现还有提升的潜力或空间。",
+          "sentenceWithBlank": "There is considerable @ @ @ in your performance.",
+          "fullEnglishSentence": "There is considerable 「scope for improvement」 in your performance.",
+          "chineseTranslation": "你的表现有相当大的「改进空间」。",
+          "chinglishFix": "典型中式英语：'Your performance has room to improve.' 纠正：'scope for improvement' 是更地道的表达，强调潜力或可能性。"
+        },
+        {
+          "scene": "在创业公司会议中，创始人向投资者介绍公司未来的发展潜力。",
+          "chineseIdea": "创始人想说明公司的商业模式提供了很多增长的可能性。",
+          "sentenceWithBlank": "Our business model @ @ @ significant expansion.",
+          "fullEnglishSentence": "Our business model 「offers scope for」 significant expansion.",
+          "chineseTranslation": "我们的商业模式「提供了」显著扩张的「可能性」。",
+          "chinglishFix": "典型中式英语：'Our model gives chance for expansion.' 纠正：'offers scope for' 更自然，表示提供某种机会或潜力。"
+        }
+      ]
+    },
+    {
+      "meaning": "视野，观察范围",
+      "usage": "指通过工具（如望远镜、显微镜）或比喻意义上观察或探索的范围，常用于描述视野或感知范围。",
+      "collocations": ["within the scope of", "broaden the scope of", "narrow the scope of"],
+      "examples": [
+        {
+          "scene": "在科学实验课上，老师指导学生使用显微镜观察细胞结构。",
+          "chineseIdea": "老师想让学生专注于显微镜视野内的特定细胞。",
+          "sentenceWithBlank": "Focus on the cells @ @ @ @ the microscope.",
+          "fullEnglishSentence": "Focus on the cells 「within the scope of」 the microscope.",
+          "chineseTranslation": "专注于显微镜「视野内」的细胞。",
+          "chinglishFix": "典型中式英语：'Look at cells in the microscope’s range.' 纠正：'within the scope of' 更精确地描述视野或观察范围。"
+        },
+        {
+          "scene": "在市场调研中，团队讨论如何调整调查的覆盖范围以获得更精准的数据。",
+          "chineseIdea": "团队负责人想建议缩小调研的范围以聚焦特定客户群体。",
+          "sentenceWithBlank": "We should @ @ @ @ our survey to target customers.",
+          "fullEnglishSentence": "We should 「narrow the scope of」 our survey to target customers.",
+          "chineseTranslation": "我们应该「缩小」调研的「范围」以针对特定客户。",
+          "chinglishFix": "典型中式英语：'We should reduce the range of our survey.' 纠正：'narrow the scope of' 是更地道的表达，强调聚焦或限制范围。"
+        }
+      ]
+    }
+  ]
+}
+```

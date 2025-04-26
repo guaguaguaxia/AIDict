@@ -1,0 +1,76 @@
+```json
+{
+  "word": "reception",
+  "definitions": [
+    {
+      "meaning": "接待；欢迎",
+      "usage": "指在正式或社交场合迎接、招待客人，通常涉及友好或礼貌的互动，常见于酒店、办公室或活动场景。",
+      "collocations": ["warm reception", "cold reception", "host a reception"],
+      "examples": [
+        {
+          "scene": "一位中国留学生第一次参加英国大学的迎新活动，学校为新生举办了一个欢迎会，学生们感受到热情的氛围。",
+          "chineseIdea": "学校希望通过热情的欢迎让新生感到宾至如归，融入新环境。",
+          "sentenceWithBlank": "The university gave the new students a @ @ to make them feel at home.",
+          "fullEnglishSentence": "The university gave the new students a 「warm reception」 to make them feel at home.",
+          "chineseTranslation": "大学为新生举办了「热情的欢迎」，让他们感到宾至如归。",
+          "chinglishFix": "典型中式英语：'The school very warm welcome new students.' 纠正：'The university gave the new students a warm reception.'"
+        },
+        {
+          "scene": "一位中国商务人士访问外国公司，期待友好的接待，但对方态度冷淡，让他感到失望。",
+          "chineseIdea": "商务访问中，接待方的态度直接影响合作氛围，冷淡的态度可能让人感到不受重视。",
+          "sentenceWithBlank": "The visiting team was disappointed by the @ @ from the host company.",
+          "fullEnglishSentence": "The visiting team was disappointed by the 「cold reception」 from the host company.",
+          "chineseTranslation": "访问团队对东道主公司「冷淡的接待」感到失望。",
+          "chinglishFix": "典型中式英语：'The company give us not friendly welcome.' 纠正：'The company gave us a cold reception.'"
+        }
+      ]
+    },
+    {
+      "meaning": "前台；接待处",
+      "usage": "指建筑物（如酒店、办公室）中用于接待来访者的区域，通常有工作人员处理登记、询问等事务。",
+      "collocations": ["reception desk", "reception area", "check in at reception"],
+      "examples": [
+        {
+          "scene": "一位中国游客入住伦敦的酒店，需要到前台办理入住手续，工作人员微笑着协助他。",
+          "chineseIdea": "酒店的前台是服务第一线，友好的态度能提升客户体验。",
+          "sentenceWithBlank": "Guests are required to @ @ @ @ before heading to their rooms.",
+          "fullEnglishSentence": "Guests are required to 「check in at reception」 before heading to their rooms.",
+          "chineseTranslation": "客人需要在「前台登记」后才能前往房间。",
+          "chinglishFix": "典型中式英语：'You must go to front desk to register.' 纠正：'You must check in at reception.'"
+        },
+        {
+          "scene": "一位中国员工到新公司的总部报到，被告知需在前台领取访客证。",
+          "chineseIdea": "公司前台不仅是接待区域，还负责安全管理，如发放访客证。",
+          "sentenceWithBlank": "All visitors must report to the @ @ to obtain a pass.",
+          "fullEnglishSentence": "All visitors must report to the 「reception desk」 to obtain a pass.",
+          "chineseTranslation": "所有访客必须到「前台」领取通行证。",
+          "chinglishFix": "典型中式英语：'Please go to front table to get your card.' 纠正：'Please go to the reception desk to get your pass.'"
+        }
+      ]
+    },
+    {
+      "meaning": "接收；信号",
+      "usage": "指无线电、电视或手机信号的接收质量，常见于技术或通信领域。",
+      "collocations": ["poor reception", "good reception", "lose reception"],
+      "examples": [
+        {
+          "scene": "一位中国学生在英国乡村旅行，想用手机导航，但发现信号很差，无法加载地图。",
+          "chineseIdea": "在偏远地区，信号接收质量会影响手机的正常使用。",
+          "sentenceWithBlank": "I couldn’t use my phone in the countryside because of @ @.",
+          "fullEnglishSentence": "I couldn’t use my phone in the countryside because of 「poor reception」.",
+          "chineseTranslation": "我在乡下无法使用手机，因为「信号很差」。",
+          "chinglishFix": "典型中式英语：'My phone has no signal in village.' 纠正：'I got poor reception in the countryside.'"
+        },
+        {
+          "scene": "一位中国游客在伦敦市中心用手机视频通话，信号很好，通话清晰。",
+          "chineseIdea": "城市中心的信号接收通常很好，适合视频通话或在线活动。",
+          "sentenceWithBlank": "The video call was clear thanks to @ @ in the city center.",
+          "fullEnglishSentence": "The video call was clear thanks to 「good reception」 in the city center.",
+          "chineseTranslation": "视频通话很清晰，因为市中心的「信号很好」。",
+          "chinglishFix": "典型中式英语：'City has strong signal for my call.' 纠正：'I had good reception in the city for my call.'"
+        }
+      ]
+    }
+  ]
+}
+```

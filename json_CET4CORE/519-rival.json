@@ -1,0 +1,53 @@
+```json
+{
+  "word": "rival",
+  "definitions": [
+    {
+      "meaning": "竞争对手；与某人或某事物争夺同一目标的人或事物",
+      "usage": "指在竞争中试图超越或击败对方的人、团队或公司，常用于商业、体育、学术等场景。",
+      "collocations": ["fierce rival", "main rival", "business rival"],
+      "examples": [
+        {
+          "scene": "在科技行业，两家大型公司正在争夺智能手机市场的领先地位，彼此激烈竞争。",
+          "chineseIdea": "描述两家公司在市场上的对抗，强调他们的竞争关系和努力超越对方的决心。",
+          "sentenceWithBlank": "Apple and Samsung have been @ @ for years, constantly innovating to capture more market share.",
+          "fullEnglishSentence": "Apple and Samsung have been 「fierce rivals」 for years, constantly innovating to capture more market share.",
+          "chineseTranslation": "苹果和三星多年来一直是「激烈竞争对手」，不断创新以抢占更多市场份额。",
+          "chinglishFix": "典型中式英语：'Apple and Samsung are enemy companies.' 纠正：'Enemy' 带有敌对情绪，不适合描述商业竞争。应使用 'Apple and Samsung are fierce rivals' 来表达竞争关系。"
+        },
+        {
+          "scene": "在一场国际象棋锦标赛中，两位顶尖选手争夺冠军头衔，他们的比赛吸引了全球观众。",
+          "chineseIdea": "强调两位棋手在棋盘上的较量，突出他们的实力相当和竞争的紧张感。",
+          "sentenceWithBlank": "Carlsen considers Nakamura his @ @ in the chess world, as their matches are always intense.",
+          "fullEnglishSentence": "Carlsen considers Nakamura his 「main rival」 in the chess world, as their matches are always intense.",
+          "chineseTranslation": "卡尔森认为中村是他在国际象棋界的「主要竞争对手」，因为他们的比赛总是非常激烈。",
+          "chinglishFix": "典型中式英语：'Nakamura is Carlsen’s compete person.' 纠正：'Compete person' 不是英语表达，正确表达为 'Nakamura is Carlsen’s main rival' 来表示竞争对手。"
+        }
+      ]
+    },
+    {
+      "meaning": "匹敌；与某人或某事物在能力、质量或成就上相当",
+      "usage": "指某人或某事物在特定方面能与另一个相媲美，常用于比较实力、品质或表现。",
+      "collocations": ["rival in quality", "rival in popularity", "rival in skill"],
+      "examples": [
+        {
+          "scene": "在汽车行业，一家新兴电动车公司推出了一款新车型，其性能可以与传统豪华品牌媲美。",
+          "chineseIdea": "描述新车型在性能上的卓越表现，强调它与老牌品牌的平等地位。",
+          "sentenceWithBlank": "The new electric car can @ @ @ with Tesla’s models, offering similar range and features.",
+          "fullEnglishSentence": "The new electric car can 「rival in quality」 with Tesla’s models, offering similar range and features.",
+          "chineseTranslation": "这款新型电动车在「品质上可以媲美」特斯拉的车型，提供相似的续航里程和功能。",
+          "chinglishFix": "典型中式英语：'The new car is same good as Tesla.' 纠正：'Same good' 不符合英语语法，正确表达为 'The new car can rival Tesla in quality' 来表示品质上的匹敌。"
+        },
+        {
+          "scene": "一位年轻歌手发行了首张专辑，其音乐风格和舞台表现力让人联想到一位传奇歌手。",
+          "chineseIdea": "突出年轻歌手在音乐领域的潜力，强调她的表现与前辈不相上下。",
+          "sentenceWithBlank": "Her debut album is starting to @ @ @ with Beyoncé’s early work, gaining huge attention.",
+          "fullEnglishSentence": "Her debut album is starting to 「rival in popularity」 with Beyoncé’s early work, gaining huge attention.",
+          "chineseTranslation": "她的首张专辑开始在「受欢迎程度上可以媲美」碧昂丝的早期作品，获得了巨大关注。",
+          "chinglishFix": "典型中式英语：'Her album is popular like Beyoncé.' 纠正：'Popular like' 表达模糊且不地道，正确表达为 'Her album rivals Beyoncé’s in popularity' 来突出受欢迎程度的比较。"
+        }
+      ]
+    }
+  ]
+}
+```
