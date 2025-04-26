@@ -1,0 +1,76 @@
+```json
+{
+  "word": "review",
+  "definitions": [
+    {
+      "meaning": "重新检查或评估某事物",
+      "usage": "指对某事物进行仔细检查、评估或回顾，通常为了确保准确性、质量或改进。",
+      "collocations": ["conduct a review", "undergo a review", "annual review"],
+      "examples": [
+        {
+          "scene": "在一所大学里，教授们正在准备下学期的课程计划。他们需要检查现有课程大纲，确保内容符合最新学术标准。",
+          "chineseIdea": "教授们想要仔细评估课程内容，确保它们是最新的，并且适合学生需求。",
+          "sentenceWithBlank": "The faculty decided to @ @ @ of the curriculum to incorporate recent research findings.",
+          "fullEnglishSentence": "The faculty decided to 「conduct a review」 of the curriculum to incorporate recent research findings.",
+          "chineseTranslation": "教职员工决定「进行审查」课程大纲，以纳入最新的研究成果。",
+          "chinglishFix": "中式英语：'Check the curriculum again.' 纠正：'Conduct a review of the curriculum.'（'check again'显得不够正式，且未体现系统性评估的含义。）"
+        },
+        {
+          "scene": "一家公司正在进行年度绩效评估，员工需要与经理讨论过去一年的工作表现。",
+          "chineseIdea": "员工希望通过评估了解自己的工作表现，并获得改进建议。",
+          "sentenceWithBlank": "Every employee must @ @ @ to discuss their performance with the manager.",
+          "fullEnglishSentence": "Every employee must 「undergo a review」 to discuss their performance with the manager.",
+          "chineseTranslation": "每位员工必须「接受审查」以与经理讨论他们的工作表现。",
+          "chinglishFix": "中式英语：'Have a check with the manager.' 纠正：'Undergo a review with the manager.'（'have a check'不准确，未能表达正式评估的过程。）"
+        }
+      ]
+    },
+    {
+      "meaning": "写评论或评价",
+      "usage": "指对书籍、电影、产品等进行书面或口头的评论，通常表达意见或判断。",
+      "collocations": ["write a review", "post a review", "favorable review"],
+      "examples": [
+        {
+          "scene": "一位美食爱好者在网上分享自己对一家新餐厅的体验，描述菜品和服务。",
+          "chineseIdea": "美食爱好者想通过文字分享自己的用餐感受，帮助其他人决定是否去这家餐厅。",
+          "sentenceWithBlank": "She decided to @ @ @ about the new restaurant on a food blog.",
+          "fullEnglishSentence": "She decided to 「write a review」 about the new restaurant on a food blog.",
+          "chineseTranslation": "她决定在美食博客上「写评论」关于这家新餐厅。",
+          "chinglishFix": "中式英语：'Write some comments about the restaurant.' 纠正：'Write a review about the restaurant.'（'comments'更随意，未能体现评论的结构性和完整性。）"
+        },
+        {
+          "scene": "一位顾客在网上购买了一款耳机后，觉得音质很好，想在购物网站上分享自己的看法。",
+          "chineseIdea": "顾客希望通过评价让其他买家了解这款耳机的优点。",
+          "sentenceWithBlank": "He was so impressed that he decided to @ @ @ on the shopping website.",
+          "fullEnglishSentence": "He was so impressed that he decided to 「post a review」 on the shopping website.",
+          "chineseTranslation": "他非常满意，决定在购物网站上「发布评论」。",
+          "chinglishFix": "中式英语：'Put some opinions on the website.' 纠正：'Post a review on the website.'（'put opinions'不自然，且未体现评论的正式发布行为。）"
+        }
+      ]
+    },
+    {
+      "meaning": "复习或温习",
+      "usage": "指为了学习或考试而重新温习知识、材料或笔记。",
+      "collocations": ["review notes", "review for a test", "thorough review"],
+      "examples": [
+        {
+          "scene": "一名高中生即将在下周参加期末考试，他正在整理数学笔记，准备复习重点内容。",
+          "chineseIdea": "学生希望通过重新看笔记来巩固知识，确保考试时能记住关键公式。",
+          "sentenceWithBlank": "He spent the weekend @ @ @ to prepare for the math exam.",
+          "fullEnglishSentence": "He spent the weekend 「reviewing notes」 to prepare for the math exam.",
+          "chineseTranslation": "他整个周末都在「复习笔记」以准备数学考试。",
+          "chinglishFix": "中式英语：'Look at notes again.' 纠正：'Review notes.'（'look at again'显得随意，未能体现系统性复习的过程。）"
+        },
+        {
+          "scene": "一名大学生在准备英语口语考试，她需要练习对话并复习相关词汇。",
+          "chineseIdea": "大学生希望通过温习确保自己能在考试中流利表达。",
+          "sentenceWithBlank": "She set aside two hours each day to @ @ @ @ to improve her speaking skills.",
+          "fullEnglishSentence": "She set aside two hours each day to 「review for a test」 to improve her speaking skills.",
+          "chineseTranslation": "她每天留出两小时来「为考试复习」以提高口语能力。",
+          "chinglishFix": "中式英语：'Study for the test again.' 纠正：'Review for a test.'（'study again'不够具体，未能突出复习的针对性。）"
+        }
+      ]
+    }
+  ]
+}
+```

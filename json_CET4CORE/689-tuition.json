@@ -1,0 +1,53 @@
+```json
+{
+  "word": "tuition",
+  "definitions": [
+    {
+      "meaning": "学校或大学为教学提供的服务所收取的费用",
+      "usage": "指学生为接受教育（通常是高等教育或私立教育）而支付的费用，通常与学费相关，常见于正式或学术语境。",
+      "collocations": ["pay tuition", "cover tuition", "tuition fees"],
+      "examples": [
+        {
+          "scene": "一位中国留学生小李在美国大学注册课程，收到学校发来的账单，需要支付一学期的学费。",
+          "chineseIdea": "小李需要为他的大学教育支付费用，以确保能继续上课和获得学位。",
+          "sentenceWithBlank": "To continue his studies, Xiao Li had to @ his semester fees before the deadline.",
+          "fullEnglishSentence": "To continue his studies, Xiao Li had to 「pay tuition」 before the deadline.",
+          "chineseTranslation": "为了继续学业，小李必须在截止日期前「支付学费」。",
+          "chinglishFix": "典型中式英语：'He needs to give money for school.' 纠正：'He needs to pay tuition for his education.'"
+        },
+        {
+          "scene": "小王正在申请奖学金，希望能减轻家庭的经济负担，因为大学的费用很高。",
+          "chineseIdea": "小王希望通过奖学金来支付部分或全部的学费，以专注于学业。",
+          "sentenceWithBlank": "The scholarship helped Xiao Wang @ his university expenses.",
+          "fullEnglishSentence": "The scholarship helped Xiao Wang 「cover tuition」 for his university expenses.",
+          "chineseTranslation": "奖学金帮助小王「支付学费」以应对大学开支。",
+          "chinglishFix": "典型中式英语：'The scholarship pays his school money.' 纠正：'The scholarship covers his tuition.'"
+        }
+      ]
+    },
+    {
+      "meaning": "私人教学或辅导，通常是一对一或小班制的指导",
+      "usage": "指为特定学科或技能提供的个性化教学，通常由私人教师或机构提供，强调指导的过程。",
+      "collocations": ["receive tuition", "private tuition", "offer tuition"],
+      "examples": [
+        {
+          "scene": "小张数学成绩不好，父母为他请了一位家教，每周两次课来提高他的成绩。",
+          "chineseIdea": "小张通过额外的辅导来增强自己的数学能力，以应对考试。",
+          "sentenceWithBlank": "To improve his math skills, Xiao Zhang began to @ from a skilled tutor.",
+          "fullEnglishSentence": "To improve his math skills, Xiao Zhang began to 「receive tuition」 from a skilled tutor.",
+          "chineseTranslation": "为了提高数学技能，小张开始从一位熟练的家教那里「接受辅导」。",
+          "chinglishFix": "典型中式英语：'He takes extra study from a teacher.' 纠正：'He receives tuition from a tutor.'"
+        },
+        {
+          "scene": "一位英语老师在课余时间为准备雅思考试的学生提供一对一的口语训练。",
+          "chineseIdea": "老师通过个性化的课程帮助学生提高英语口语能力，以应对考试。",
+          "sentenceWithBlank": "The teacher decided to @ in English speaking for IELTS candidates.",
+          "fullEnglishSentence": "The teacher decided to 「offer tuition」 in English speaking for IELTS candidates.",
+          "chineseTranslation": "老师决定为雅思考生「提供英语口语辅导」。",
+          "chinglishFix": "典型中式英语：'She teaches extra English for students.' 纠正：'She offers tuition in English for students.'"
+        }
+      ]
+    }
+  ]
+}
+```

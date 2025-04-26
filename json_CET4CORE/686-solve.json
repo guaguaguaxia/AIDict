@@ -1,0 +1,53 @@
+```json
+{
+  "word": "solve",
+  "definitions": [
+    {
+      "meaning": "找到问题的答案或解决方法",
+      "usage": "指通过思考、分析或行动找到问题的解决方案，常用于数学问题、谜题、实际问题等场景。",
+      "collocations": ["solve a problem", "solve a puzzle", "solve a mystery"],
+      "examples": [
+        {
+          "scene": "小明在数学课上遇到一道复杂的代数题，老师要求学生们独立完成。他花了20分钟分析题目，最终找到了正确的答案。",
+          "chineseIdea": "小明通过一步步推导，成功找到了数学题的解法，感到很有成就感。",
+          "sentenceWithBlank": "After hours of thinking, Xiaoming finally @ @ @.",
+          "fullEnglishSentence": "After hours of thinking, Xiaoming finally 「solved a problem」.",
+          "chineseTranslation": "经过数小时的思考，小明终于「解决了一个问题」。",
+          "chinglishFix": "典型中式英语：'He finished the problem.' 纠正：'He solved the problem.'（'finish'通常指完成任务，而'solve'强调找到问题的答案）"
+        },
+        {
+          "scene": "周末，小红和朋友们一起玩密室逃脱游戏。他们需要破解一个复杂的密码锁才能进入下一个房间。",
+          "chineseIdea": "小红通过观察线索和团队合作，成功破解了密码，打开了锁。",
+          "sentenceWithBlank": "With teamwork, Xiaohong 「@ @ @」 to unlock the door.",
+          "fullEnglishSentence": "With teamwork, Xiaohong 「solved a puzzle」 to unlock the door.",
+          "chineseTranslation": "通过团队合作，小红「解决了一个谜题」来打开门。",
+          "chinglishFix": "典型中式英语：'She opened the puzzle.' 纠正：'She solved the puzzle.'（'open'指物理打开，而'solve'指破解谜题）"
+        }
+      ]
+    },
+    {
+      "meaning": "处理或解决（复杂或棘手的情况）",
+      "usage": "指通过行动或策略处理复杂的情况或冲突，如社会问题、技术问题或人际关系问题。",
+      "collocations": ["solve a crisis", "solve a conflict", "solve an issue"],
+      "examples": [
+        {
+          "scene": "公司面临严重的供应链中断问题，经理召集团队开会，制定了一个新的物流计划来应对。",
+          "chineseIdea": "经理通过快速决策和资源调配，成功缓解了供应链危机。",
+          "sentenceWithBlank": "The manager’s quick decisions helped @ @ @ in the company.",
+          "fullEnglishSentence": "The manager’s quick decisions helped 「solve a crisis」 in the company.",
+          "chineseTranslation": "经理的快速决策帮助「解决了一场危机」。",
+          "chinglishFix": "典型中式英语：'He fixed the crisis.' 纠正：'He solved the crisis.'（'fix'更偏向修理物理物品，而'solve'更适合抽象问题）"
+        },
+        {
+          "scene": "小李和同事在项目分配上发生了争执，导致团队气氛紧张。最终，他们通过坦诚沟通达成了共识。",
+          "chineseIdea": "小李通过冷静对话和妥协，成功化解了与同事之间的矛盾。",
+          "sentenceWithBlank": "Through honest communication, Xiao Li 「@ @ @」 with his colleague.",
+          "fullEnglishSentence": "Through honest communication, Xiao Li 「solved a conflict」 with his colleague.",
+          "chineseTranslation": "通过坦诚的沟通，小李「解决了一场冲突」。",
+          "chinglishFix": "典型中式英语：'He ended the conflict.' 纠正：'He solved the conflict.'（'end'指终止，而'solve'强调通过处理解决问题）"
+        }
+      ]
+    }
+  ]
+}
+```
