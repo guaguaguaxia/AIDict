@@ -1,0 +1,53 @@
+```json
+{
+  "word": "stereotype",
+  "definitions": [
+    {
+      "meaning": "对某类人或事物固定的、过于简化的看法或形象，通常带有偏见",
+      "usage": "通常用作名词，指对特定群体或事物的不准确或片面的刻板印象，可能带有负面含义。也可作动词，表示将某人或某事归类为刻板印象。",
+      "collocations": ["challenge a stereotype", "perpetuate a stereotype", "break a stereotype"],
+      "examples": [
+        {
+          "scene": "在一个国际学生交流会上，来自不同国家的学生讨论彼此的文化。一位中国学生提到，很多人认为亚洲人数学很好，但她想说明这并不是所有亚洲人都擅长的领域。",
+          "chineseIdea": "她想表达，很多人对亚洲人有固定的看法，但她希望通过自己的经历改变这种看法。",
+          "sentenceWithBlank": "She wanted to @ @ @ about Asian students excelling in math by sharing her struggles with the subject.",
+          "fullEnglishSentence": "She wanted to 「challenge a stereotype」 about Asian students excelling in math by sharing her struggles with the subject.",
+          "chineseTranslation": "她想通过分享自己在数学上的困难来「挑战一种刻板印象」，即亚洲学生擅长数学。",
+          "chinglishFix": "典型中式英语：'She want to against the fixed idea of Asian good at math.' 纠正：'She wants to challenge the stereotype that Asians are good at math.'"
+        },
+        {
+          "scene": "在一场关于性别平等的校园讲座中，演讲者提到社会如何通过广告和媒体强化某些性别角色的固定观念，比如女性应该温柔、男性应该强硬。",
+          "chineseIdea": "演讲者希望指出，媒体的宣传让人们对性别角色的错误观念持续存在。",
+          "sentenceWithBlank": "The speaker criticized how media continues to @ @ @ of women as nurturing and men as dominant.",
+          "fullEnglishSentence": "The speaker criticized how media continues to 「perpetuate a stereotype」 of women as nurturing and men as dominant.",
+          "chineseTranslation": "演讲者批评媒体如何继续「延续一种刻板印象」，即女性应该温柔，男性应该强势。",
+          "chinglishFix": "典型中式英语：'Media always keep the wrong idea of women and men.' 纠正：'Media perpetuates the stereotype of women as nurturing and men as dominant.'"
+        }
+      ]
+    },
+    {
+      "meaning": "作为动词，将某人或某事归类为某种固定的形象或模式",
+      "usage": "用作动词时，表示根据刻板印象对某人或某事进行分类，通常带有负面含义，强调过于简单化的判断。",
+      "collocations": ["stereotype as", "stereotype someone as", "avoid stereotyping"],
+      "examples": [
+        {
+          "scene": "在一家科技公司的新员工培训中，经理提醒团队不要因为员工的背景或外貌而对他们的能力产生先入为主的判断。",
+          "chineseIdea": "经理希望团队不要因为一个人的外貌或文化背景就认为他们适合或不适合某些工作。",
+          "sentenceWithBlank": "The manager urged the team to @ @ people @ programmers based on their appearance or nationality.",
+          "fullEnglishSentence": "The manager urged the team to 「avoid stereotyping」 people 「as」 programmers based on their appearance or nationality.",
+          "chineseTranslation": "经理敦促团队「避免将人们刻板化」为程序员，仅仅因为他们的外貌或国籍。",
+          "chinglishFix": "典型中式英语：'Don’t think people as programmer by their look.' 纠正：'Avoid stereotyping people as programmers based on their appearance.'"
+        },
+        {
+          "scene": "在一节社会学课堂上，学生们讨论为什么某些职业，比如护士，总是被认为是女性的工作，而工程师被认为是男性的工作。",
+          "chineseIdea": "学生们想表达，社会倾向于将某些职业与特定性别联系起来，这种看法限制了个人选择。",
+          "sentenceWithBlank": "The discussion highlighted how society tends to @ nurses @ women and engineers @ men.",
+          "fullEnglishSentence": "The discussion highlighted how society tends to 「stereotype」 nurses 「as」 women and engineers 「as」 men.",
+          "chineseTranslation": "讨论强调了社会如何倾向于将护士「刻板化为」女性，将工程师「刻板化为」男性。",
+          "chinglishFix": "典型中式英语：'Society always think nurse is woman and engineer is man.' 纠正：'Society tends to stereotype nurses as women and engineers as men.'"
+        }
+      ]
+    }
+  ]
+}
+```
