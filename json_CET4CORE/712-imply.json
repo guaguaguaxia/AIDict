@@ -1,0 +1,53 @@
+```json
+{
+  "word": "imply",
+  "definitions": [
+    {
+      "meaning": "暗示，暗指（通过间接的方式表达某事，而非直接说明）",
+      "usage": "常用于表达某人通过语言、行为或情境间接传递某种意思，通常需要听者或读者自行推断。常见于正式或非正式对话、写作中。",
+      "collocations": ["imply something about", "imply a connection", "imply a meaning"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理正在讨论新项目的进展。员工们注意到经理在提到项目时语气有些保留，似乎在暗示某些问题，但没有明说。",
+          "chineseIdea": "经理想让大家知道项目可能存在困难，但不想直接批评团队，而是通过语气和措辞让大家自己体会。",
+          "sentenceWithBlank": "Her cautious tone seemed to @ @ @ the project’s challenges.",
+          "fullEnglishSentence": "Her cautious tone seemed to 「imply something about」 the project’s challenges.",
+          "chineseTranslation": "她谨慎的语气似乎「暗示了」项目的挑战。",
+          "chinglishFix": "典型中式英语：Her tone is suggesting the project has problems. 纠正：Her tone implies something about the project’s challenges.（‘suggest’直接表达建议或提议，而‘imply’更适合暗示）"
+        },
+        {
+          "scene": "在朋友聚会上，小明分享了他最近买了一辆新车，但没有直接说车很贵，而是提到了一些高端品牌的功能，间接让大家觉得这车不便宜。",
+          "chineseIdea": "小明想让朋友知道他的新车很高级，但不想显得炫耀，所以通过描述功能来传递这个信息。",
+          "sentenceWithBlank": "His description of the car’s features seemed to @ @ @ its high cost.",
+          "fullEnglishSentence": "His description of the car’s features seemed to 「imply a meaning」 about its high cost.",
+          "chineseTranslation": "他对汽车功能的描述似乎「暗示了」其高昂的成本。",
+          "chinglishFix": "典型中式英语：He is meaning the car is expensive. 纠正：His description implies a meaning about the car’s high cost.（‘mean’通常表示直接意图，而‘imply’更适合间接表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "必然包含，必然导致（逻辑上表示某事是另一事的结果或前提）",
+      "usage": "多用于正式语境，如学术写作、逻辑分析或法律讨论中，表示某事物逻辑上包含或导致另一事物。",
+      "collocations": ["imply a need for", "imply the existence of", "imply a consequence"],
+      "examples": [
+        {
+          "scene": "在一场关于环境保护的学术会议上，教授正在讲解减少碳排放的重要性。他提到，减少排放需要更严格的法规。",
+          "chineseIdea": "教授想说明，采取环保措施必然要求政府制定更严格的政策，这是逻辑上的必然结果。",
+          "sentenceWithBlank": "Reducing emissions will @ @ @ stricter regulations.",
+          "fullEnglishSentence": "Reducing emissions will 「imply a need for」 stricter regulations.",
+          "chineseTranslation": "减少排放将「必然需要」更严格的法规。",
+          "chinglishFix": "典型中式英语：Reducing emissions needs stricter laws. 纠正：Reducing emissions implies a need for stricter regulations.（‘need’直接表达需求，而‘imply’更适合逻辑上的包含关系）"
+        },
+        {
+          "scene": "在法庭上，律师正在辩护，指出被告的行为表明了某种特定意图的存在，这在法律上可能导致更重的判决。",
+          "chineseIdea": "律师想通过分析被告的行为，说明这些行为在逻辑上指向某种意图的存在，从而影响判决。",
+          "sentenceWithBlank": "The defendant’s actions @ @ @ a specific intent.",
+          "fullEnglishSentence": "The defendant’s actions 「imply the existence of」 a specific intent.",
+          "chineseTranslation": "被告的行为「必然表明」某种特定意图的存在。",
+          "chinglishFix": "典型中式英语：The actions show there is intent. 纠正：The actions imply the existence of a specific intent.（‘show’直接展示，而‘imply’更适合逻辑推导）"
+        }
+      ]
+    }
+  ]
+}
+```

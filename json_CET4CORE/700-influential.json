@@ -1,0 +1,53 @@
+```json
+{
+  "word": "influential",
+  "definitions": [
+    {
+      "meaning": "Having the power to affect decisions or opinions due to authority, position, or reputation",
+      "usage": "Describes a person, group, or entity that can shape others' decisions or opinions because of their recognized authority, status, or impact in a specific field.",
+      "collocations": ["highly influential", "influential figure", "influential role"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的年会上，首席执行官发表了一场关于人工智能未来的演讲，吸引了众多行业专家的关注。",
+          "chineseIdea": "这位首席执行官因其专业知识和行业地位，能够引导听众对人工智能的看法。",
+          "sentenceWithBlank": "Her speech at the conference established her as a @ figure in the tech industry.",
+          "fullEnglishSentence": "Her speech at the conference established her as an 「influential figure」 in the tech industry.",
+          "chineseTranslation": "她在大会上的演讲使她成为科技行业中的一个「有影响力的人物」。",
+          "chinglishFix": "Chinglish: She is a very influence person in tech. Correction: She is a highly influential figure in the tech industry."
+        },
+        {
+          "scene": "在一所大学的历史系，一位教授因其出版的书籍而广受尊重，学生们经常引用他的观点。",
+          "chineseIdea": "这位教授因其学术成就，能够显著影响学生们的历史研究方向。",
+          "sentenceWithBlank": "The professor’s books have made him @ in shaping modern historical thought.",
+          "fullEnglishSentence": "The professor’s books have made him 「highly influential」 in shaping modern historical thought.",
+          "chineseTranslation": "教授的书籍使他在塑造现代历史思想方面「极具影响力」。",
+          "chinglishFix": "Chinglish: His books give him big influence. Correction: His books have made him highly influential."
+        }
+      ]
+    },
+    {
+      "meaning": "Having a significant impact on the development or outcome of something",
+      "usage": "Refers to ideas, events, or works that have played a key role in shaping trends, movements, or results in a particular context.",
+      "collocations": ["influential factor", "influential work", "influential event"],
+      "examples": [
+        {
+          "scene": "在一次关于城市规划的会议上，专家们讨论了绿色建筑如何改变了现代建筑设计。",
+          "chineseIdea": "绿色建筑的概念对建筑行业的可持续发展产生了深远影响。",
+          "sentenceWithBlank": "The concept of green building has been an @ in promoting sustainable architecture.",
+          "fullEnglishSentence": "The concept of green building has been an 「influential factor」 in promoting sustainable architecture.",
+          "chineseTranslation": "绿色建筑的概念在推动可持续建筑方面是一个「重要的影响因素」。",
+          "chinglishFix": "Chinglish: Green building is a big influence for architecture. Correction: Green building is an influential factor in architecture."
+        },
+        {
+          "scene": "在一个文学研讨会上，学者们讨论了一本小说如何改变了人们对社会不公的看法。",
+          "chineseIdea": "这本小说因其深刻的社会评论，显著影响了公众对社会正义的认知。",
+          "sentenceWithBlank": "The novel is considered an @ in raising awareness about social justice.",
+          "fullEnglishSentence": "The novel is considered an 「influential work」 in raising awareness about social justice.",
+          "chineseTranslation": "这部小说被认为是在提升社会正义意识方面的一部「有影响力的作品」。",
+          "chinglishFix": "Chinglish: This novel has much influence on social justice. Correction: This novel is an influential work in raising social justice awareness."
+        }
+      ]
+    }
+  ]
+}
+```

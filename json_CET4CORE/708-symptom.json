@@ -1,0 +1,53 @@
+```json
+{
+  "word": "symptom",
+  "definitions": [
+    {
+      "meaning": "A physical or mental feature that is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient",
+      "usage": "Used to describe observable signs or manifestations of an illness or medical condition, often reported by the patient or observed by a doctor",
+      "collocations": ["show symptoms", "experience symptoms", "common symptom"],
+      "examples": [
+        {
+          "scene": "一位年轻女性在感冒后感到持续的喉咙痛和疲倦，她向医生描述自己的状况。",
+          "chineseIdea": "描述身体不适的表现，比如喉咙痛、发烧或疲倦等，通常是为了让医生了解病情。",
+          "sentenceWithBlank": "She went to the doctor because she was @ @ of a cold, such as a sore throat and fatigue.",
+          "fullEnglishSentence": "She went to the doctor because she was 「showing symptoms」 of a cold, such as a sore throat and fatigue.",
+          "chineseTranslation": "她去看医生，因为她「表现出感冒的症状」，比如喉咙痛和疲倦。",
+          "chinglishFix": "Chinglish: 'She has cold's symptom like throat pain.' Correction: 'She is showing symptoms of a cold, such as a sore throat.'"
+        },
+        {
+          "scene": "一位中年男性在工作压力大时感到胸闷和焦虑，他怀疑自己可能有健康问题。",
+          "chineseIdea": "描述某些不寻常的身体或心理感受，可能与健康问题相关，希望引起注意。",
+          "sentenceWithBlank": "He visited a specialist after @ @ like chest tightness and anxiety for weeks.",
+          "fullEnglishSentence": "He visited a specialist after 「experiencing symptoms」 like chest tightness and anxiety for weeks.",
+          "chineseTranslation": "他在「经历胸闷和焦虑的症状」数周后去看专科医生。",
+          "chinglishFix": "Chinglish: 'He feel symptom of chest heavy.' Correction: 'He has been experiencing symptoms like chest tightness.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A sign or indication of something, often used in a non-medical context to indicate an underlying issue or condition",
+      "usage": "Used to describe evidence or indicators of a broader problem or situation, not necessarily related to health",
+      "collocations": ["symptom of a problem", "early symptom", "visible symptom"],
+      "examples": [
+        {
+          "scene": "一家公司发现员工士气低落，频繁出现迟到和生产力下降的现象。",
+          "chineseIdea": "描述某些现象可能是更深层问题的表现，比如管理不善或组织问题。",
+          "sentenceWithBlank": "Low morale and frequent tardiness were @ @ @ in the company.",
+          "fullEnglishSentence": "Low morale and frequent tardiness were 「symptoms of a problem」 in the company.",
+          "chineseTranslation": "低落的士气和频繁的迟到是公司「问题的表现」。",
+          "chinglishFix": "Chinglish: 'Tardiness is company problem symptom.' Correction: 'Tardiness is a symptom of a problem in the company.'"
+        },
+        {
+          "scene": "一位老师注意到学生在课堂上注意力不集中，成绩开始下滑。",
+          "chineseIdea": "描述某些行为或表现可能预示着潜在的问题，比如学习困难或家庭压力。",
+          "sentenceWithBlank": "The student's lack of focus was an @ @ of deeper issues.",
+          "fullEnglishSentence": "The student's lack of focus was an 「early symptom」 of deeper issues.",
+          "chineseTranslation": "学生注意力不集中是更深层问题的「早期表现」。",
+          "chinglishFix": "Chinglish: 'No focus is symptom for student problem.' Correction: 'Lack of focus is an early symptom of deeper issues.'"
+        }
+      ]
+    }
+  ]
+}
+```
