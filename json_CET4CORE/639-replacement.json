@@ -1,0 +1,53 @@
+```json
+{
+  "word": "replacement",
+  "definitions": [
+    {
+      "meaning": "用新的或不同的东西代替旧的或损坏的东西",
+      "usage": "指用新的物品、部件或人来代替原有的，通常因为原有物品损坏、丢失或不再适合。",
+      "collocations": ["replacement part", "replacement cost", "replacement player"],
+      "examples": [
+        {
+          "scene": "你在一家汽车修理厂，你的汽车引擎的一个部件坏了，技师建议更换一个新的部件。",
+          "chineseIdea": "你想表达需要一个新的部件来代替坏掉的旧部件，以确保汽车正常运行。",
+          "sentenceWithBlank": "The mechanic said we need a @ @ for the engine.",
+          "fullEnglishSentence": "The mechanic said we need a 「replacement part」 for the engine.",
+          "chineseTranslation": "技师说我们需要一个「替换部件」来修引擎。",
+          "chinglishFix": "典型中式英语：'We need a new part to change the old one.' 纠正：'We need a replacement part for the engine.'（直接使用'replacement part'更自然，避免冗长的'change the old one'）"
+        },
+        {
+          "scene": "你在保险公司处理汽车事故的理赔，保险公司需要估算修理费用。",
+          "chineseIdea": "你想说明保险公司会根据更换损坏部件的费用来计算赔偿金额。",
+          "sentenceWithBlank": "The insurance company will cover the @ @ of the damaged bumper.",
+          "fullEnglishSentence": "The insurance company will cover the 「replacement cost」 of the damaged bumper.",
+          "chineseTranslation": "保险公司将承担损坏保险杠的「替换费用」。",
+          "chinglishFix": "典型中式英语：'The cost to change the bumper.' 纠正：'The replacement cost of the bumper.'（'replacement cost'是固定搭配，指替换的费用）"
+        }
+      ]
+    },
+    {
+      "meaning": "代替某人担任某个角色或职位",
+      "usage": "指在某人离开后，另一个人接替其职责或位置，常用于工作、运动团队等场景。",
+      "collocations": ["replacement worker", "replacement teacher", "replacement candidate"],
+      "examples": [
+        {
+          "scene": "你在一家公司工作，听说一名同事因为休产假需要有人暂时接替她的工作。",
+          "chineseIdea": "你想表达公司正在寻找一个临时员工来代替这位同事。",
+          "sentenceWithBlank": "The company is hiring a @ @ to cover her duties during her maternity leave.",
+          "fullEnglishSentence": "The company is hiring a 「replacement worker」 to cover her duties during her maternity leave.",
+          "chineseTranslation": "公司正在招聘一名「替换工作者」来在她的产假期间承担她的职责。",
+          "chinglishFix": "典型中式英语：'A worker to instead her.' 纠正：'A replacement worker.'（'replacement worker'是正确搭配，避免'instead'的误用）"
+        },
+        {
+          "scene": "你是一个学校的家长，听说孩子的数学老师因为生病需要休息一个月，学校已经找了人来接替。",
+          " quantifyIdea": "你想告诉其他家长，学校已经安排了一位新的老师来代替原来的老师。",
+          "sentenceWithBlank": "The school has found a @ @ for the math class this month.",
+          "fullEnglishSentence": "The school has found a 「replacement teacher」 for the math class this month.",
+          "chineseTranslation": "学校已经为这个月的数学课找到了一位「替换老师」。",
+          "chinglishFix": "典型中式英语：'A new teacher to change the old teacher.' 纠正：'A replacement teacher.'（使用'replacement teacher'更简洁自然）"
+        }
+      ]
+    }
+  ]
+}
+```

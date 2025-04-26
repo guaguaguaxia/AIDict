@@ -1,0 +1,53 @@
+```json
+{
+  "word": "responsibility",
+  "definitions": [
+    {
+      "meaning": "义务或职责，需要完成某事或对某事负责",
+      "usage": "指一个人或群体因角色、职位或道德要求而需要承担的任务或义务，常用于描述对工作、家庭或社会的职责。",
+      "collocations": ["take on a responsibility", "sense of responsibility", "fulfill a responsibility"],
+      "examples": [
+        {
+          "scene": "一个年轻人在公司中被提升为团队负责人，需要管理项目进度和团队成员的工作。",
+          "chineseIdea": "他意识到自己必须承担更多的任务，确保项目按时完成，同时激励团队成员。",
+          "sentenceWithBlank": "As a new team leader, he had to @ @ @ to ensure the project's success.",
+          "fullEnglishSentence": "As a new team leader, he had to 「take on a responsibility」 to ensure the project's success.",
+          "chineseTranslation": "作为新任团队负责人，他必须「承担职责」以确保项目的成功。",
+          "chinglishFix": "典型中式英语：'He must carry the duty.' 纠正：'He must take on the responsibility.' 原因：'carry the duty' 听起来不自然，英语中更常用 'take on' 来表达主动承担职责。"
+        },
+        {
+          "scene": "一个大学生在准备期末考试时，意识到自己需要对自己的学习成果负责。",
+          "chineseIdea": "他觉得自己有义务认真复习，因为成绩直接影响未来机会。",
+          "sentenceWithBlank": "He developed a strong @ @ @ to study diligently for his exams.",
+          "fullEnglishSentence": "He developed a strong 「sense of responsibility」 to study diligently for his exams.",
+          "chineseTranslation": "他培养了强烈的「责任感」来认真复习考试。",
+          "chinglishFix": "典型中式英语：'He has a duty feeling to study.' 纠正：'He has a sense of responsibility to study.' 原因：'duty feeling' 不是英语中的自然表达，'sense of responsibility' 是固定搭配。"
+        }
+      ]
+    },
+    {
+      "meaning": "责任归属，表示某人或某事是某结果的原因",
+      "usage": "用于指明某人或某事应对某一事件或结果负责，常出现在讨论事故、错误或后果时。",
+      "collocations": ["bear responsibility", "accept responsibility", "shift responsibility"],
+      "examples": [
+        {
+          "scene": "一家公司因产品质量问题引发客户投诉，管理层需要站出来承认错误。",
+          "chineseIdea": "管理层明白他们必须承认问题出自他们的决策，而不是推卸给员工。",
+          "sentenceWithBlank": "The management had to @ @ for the defective products.",
+          "fullEnglishSentence": "The management had to 「accept responsibility」 for the defective products.",
+          "chineseTranslation": "管理层必须「承担责任」因为产品有缺陷。",
+          "chinglishFix": "典型中式英语：'They must take the blame.' 纠正：'They must accept responsibility.' 原因：'take the blame' 更强调被责怪，而 'accept responsibility' 更中性，强调主动承认责任。"
+        },
+        {
+          "scene": "在一次交通事故中，司机试图将事故原因归咎于路况，而非自己的疏忽。",
+          "chineseIdea": "司机想把事故的责任推到外部因素上，以减轻自己的过错。",
+          "sentenceWithBlank": "The driver tried to @ @ onto the poor road conditions.",
+          "fullEnglishSentence": "The driver tried to 「shift responsibility」 onto the poor road conditions.",
+          "chineseTranslation": "司机试图将「责任推卸」到糟糕的路况上。",
+          "chinglishFix": "典型中式英语：'He pushed the fault to the road.' 纠正：'He shifted responsibility onto the road.' 原因：'push the fault' 不是常见表达，'shift responsibility' 是更自然的搭配。"
+        }
+      ]
+    }
+  ]
+}
+```

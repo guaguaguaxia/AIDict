@@ -1,0 +1,53 @@
+```json
+{
+  "word": "skyrocket",
+  "definitions": [
+    {
+      "meaning": "快速上升，急剧增加（通常指价格、数量或程度）",
+      "usage": "用作不及物动词，表示某事物（通常是价格、数量或程度）以极快的速度上升或激增，常用于描述经济、数据或现象的突然增长。",
+      "collocations": ["prices skyrocket", "costs skyrocket", "demand skyrockets", "popularity skyrockets"],
+      "examples": [
+        {
+          "scene": "在中国的电商平台上，双十一购物节期间，某些热门商品（如电子产品或限量版服饰）的价格会在短时间内因为供不应求而迅速上涨。",
+          "chineseIdea": "描述一种商品的价格在特定事件或热潮中突然大幅上涨的情况。",
+          "sentenceWithBlank": "During the shopping festival, @ @ due to overwhelming demand.",
+          "fullEnglishSentence": "During the shopping festival, 「prices skyrocket」 due to overwhelming demand.",
+          "chineseTranslation": "在购物节期间，由于需求旺盛，「价格暴涨」。",
+          "chinglishFix": "典型中式英语：'Prices raise very fast.' 纠正：'Prices skyrocket.'（'Raise'需接宾语，且语气不够生动，'skyrocket'更能体现急剧上升的动态感。）"
+        },
+        {
+          "scene": "在中国的一线城市，房地产市场火热时，房价会在短时间内快速攀升，尤其是在新政策发布或区域开发热潮后。",
+          "chineseIdea": "描述房地产市场中房价因外部因素（如政策或区域发展）而迅速上涨的情况。",
+          "sentenceWithBlank": "After the new infrastructure announcement, @ @ in the area.",
+          "fullEnglishSentence": "After the new infrastructure announcement, 「costs skyrocket」 in the area.",
+          "fullEnglishSentence": "在新的基础设施公告发布后，该地区的「成本暴涨」。",
+          "chinglishFix": "典型中式英语：'Costs go up quickly.' 纠正：'Costs skyrocket.'（'Go up'过于平淡，'skyrocket'更能突出速度和幅度。）"
+        }
+      ]
+    },
+    {
+      "meaning": "（物体）如火箭般直冲天空",
+      "usage": "用作不及物动词，描述物体（通常是火箭、烟花等）以极快的速度向上冲入天空，常用于描述物理运动或比喻性场景。",
+      "collocations": ["fireworks skyrocket", "rockets skyrocket", "projectiles skyrocket"],
+      "examples": [
+        {
+          "scene": "在中国春节期间，城市和乡村的夜空中会绽放各种烟花，特别是在除夕夜，烟花会以极快的速度冲向天空，照亮整个夜空。",
+          "chineseIdea": "描述烟花在节日庆典中快速升空，带来视觉震撼的场景。",
+          "sentenceWithBlank": "During the Spring Festival, @ @ into the night sky, creating a spectacular display.",
+          "fullEnglishSentence": "During the Spring Festival, 「fireworks skyrocket」 into the night sky, creating a spectacular display.",
+          "chineseTranslation": "在春节期间，「烟花冲天」，在夜空中形成壮观的景象。",
+          "chinglishFix": "典型中式英语：'Fireworks fly to the sky.' 纠正：'Fireworks skyrocket.'（'Fly to the sky'缺乏动感，'skyrocket'更能体现快速上升的视觉效果。）"
+        },
+        {
+          "scene": "在中国航天事业蓬勃发展的情况下，长征系列火箭发射时，火箭会以极高的速度冲向太空，象征着科技的进步。",
+          "chineseIdea": "描述火箭发射时快速冲向天空，体现科技力量的场景。",
+          "sentenceWithBlank": "At the launch site, @ @ into orbit with incredible speed.",
+          "fullEnglishSentence": "At the launch site, 「rockets skyrocket」 into orbit with incredible speed.",
+          "chineseTranslation": "在发射场，「火箭冲天」进入轨道，速度惊人。",
+          "chinglishFix": "典型中式英语：'Rockets go up to space.' 纠正：'Rockets skyrocket.'（'Go up'过于简单，'skyrocket'更能突出速度和震撼感。）"
+        }
+      ]
+    }
+  ]
+}
+```

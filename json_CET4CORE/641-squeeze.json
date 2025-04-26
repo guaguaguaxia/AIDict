@@ -1,0 +1,76 @@
+```json
+{
+  "word": "squeeze",
+  "definitions": [
+    {
+      "meaning": "用力压或紧握某物以使其变形、释放液体或占据更小空间",
+      "usage": "通常指用手或其他工具施加压力，使某物被压缩、变形或从中提取液体，常用于描述物理动作，如挤压水果、牙膏或人群。",
+      "collocations": ["squeeze the juice", "squeeze tightly", "squeeze through", "squeeze out"],
+      "examples": [
+        {
+          "scene": "在一个热闹的农贸市场，你正在挑选新鲜的橙子。你决定买一些橙子回家榨汁。你拿起一个橙子，轻轻用力感受它的质地，然后开始榨汁。",
+          "chineseIdea": "通过用力压橙子，让里面的汁液流出来，用于制作饮料。",
+          "sentenceWithBlank": "She grabbed an orange and began to @ @ @ to make fresh juice.",
+          "fullEnglishSentence": "She grabbed an orange and began to 「squeeze the juice」 to make fresh juice.",
+          "chineseTranslation": "她拿起一个橙子，开始「榨汁」来制作新鲜果汁。",
+          "chinglishFix": "典型中式英语：She pressed the orange to get juice. 纠正：She squeezed the orange to extract the juice.（‘press’不够具体，‘squeeze’更贴合榨汁的动作）"
+        },
+        {
+          "scene": "你在一个拥挤的地铁站，列车刚到站，人群蜂拥而至。你需要穿过人群才能到达对面的出口。",
+          "chineseIdea": "在狭窄或拥挤的空间中努力移动身体，穿过障碍。",
+          "sentenceWithBlank": "He had to @ @ @ the crowd to reach the exit.",
+          "fullEnglishSentence": "He had to 「squeeze through」 the crowd to reach the exit.",
+          "chineseTranslation": "他不得不「挤过」人群到达出口。",
+          "chinglishFix": "典型中式英语：He walked through the crowd hardly. 纠正：He squeezed through the crowd.（‘walk through’不体现拥挤的努力，‘squeeze through’更准确）"
+        }
+      ]
+    },
+    {
+      "meaning": "在有限的时间、空间或资源中安排或塞入某事",
+      "usage": "指在时间紧迫或空间有限的情况下，勉强安排某事，常用于时间管理、空间利用或资源分配的语境。",
+      "collocations": ["squeeze in", "squeeze into", "squeeze out"],
+      "examples": [
+        {
+          "scene": "你是一个忙碌的学生，课程表已经排满，但你的朋友邀请你参加一个晚上的聚会。你看了看日程，决定调整计划，挤出时间参加。",
+          "chineseIdea": "在繁忙的日程中腾出一点时间去做某件事。",
+          "sentenceWithBlank": "I’m so busy, but I can @ @ a quick coffee with you this afternoon.",
+          "fullEnglishSentence": "I’m so busy, but I can 「squeeze in」 a quick coffee with you this afternoon.",
+          "chineseTranslation": "我很忙，但我今天下午可以「挤出时间」和你喝杯咖啡。",
+          "chinglishFix": "典型中式英语：I can find some time to drink coffee with you. 纠正：I can squeeze in a coffee with you.（‘find some time’太平淡，‘squeeze in’更能体现时间紧张）"
+        },
+        {
+          "scene": "你正在收拾行李去旅行，但行李箱已经装满了。你想再带一件喜欢的夹克，于是努力把夹克塞进箱子。",
+          "chineseIdea": "将某物强行塞进一个几乎没有空间的地方。",
+          "sentenceWithBlank": "The suitcase was full, but she managed to @ @ @ her favorite jacket.",
+          "fullEnglishSentence": "The suitcase was full, but she managed to 「squeeze into」 her favorite jacket.",
+          "chineseTranslation": "行李箱已经满了，但她设法「塞进了」她最喜欢的夹克。",
+          "chinglishFix": "典型中式英语：She put the jacket into the suitcase with difficulty. 纠正：She squeezed the jacket into the suitcase.（‘put into’缺乏空间紧张的含义，‘squeeze into’更生动）"
+        }
+      ]
+    },
+    {
+      "meaning": "通过施压迫使某人或某事退出或失去机会",
+      "usage": "常用于描述在竞争或经济环境中，通过压力使某人或某物被排除在外，带有比喻意味。",
+      "collocations": ["squeeze out", "squeeze from"],
+      "examples": [
+        {
+          "scene": "你在一个小型创业公司工作，市场竞争非常激烈。一家大公司通过低价策略逐渐抢占了市场份额，你的公司逐渐被挤出市场。",
+          "chineseIdea": "通过竞争或压力迫使某人或某物失去原来的位置或机会。",
+          "sentenceWithBlank": "The big corporation managed to @ @ @ smaller businesses in the market.",
+          "fullEnglishSentence": "The big corporation managed to 「squeeze out」 smaller businesses in the market.",
+          "chineseTranslation": "这家大公司设法「挤出了」市场上的小企业。",
+          "chinglishFix": "典型中式英语：The big company pushed out small companies. 纠正：The big company squeezed out smaller businesses.（‘push out’不够贴切，‘squeeze out’更能体现竞争压力）"
+        },
+        {
+          "scene": "你参加了一个小组项目，但由于团队人数有限，领导决定减少成员。你因为经验较少，可能会被排除在外。",
+          "chineseIdea": "通过竞争或选择，迫使某人离开某个群体或机会。",
+          "sentenceWithBlank": "Due to budget cuts, they had to @ @ @ some team members.",
+          "fullEnglishSentence": "Due to budget cuts, they had to 「squeeze out」 some team members.",
+          "chineseTranslation": "由于预算削减，他们不得不「挤掉」一些团队成员。",
+          "chinglishFix": "典型中式英语：They removed some team members. 纠正：They squeezed out some team members.（‘remove’过于中性，‘squeeze out’更能体现被迫离开的含义）"
+        }
+      ]
+    }
+  ]
+}
+```

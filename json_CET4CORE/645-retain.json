@@ -1,0 +1,76 @@
+```json
+{
+  "word": "retain",
+  "definitions": [
+    {
+      "meaning": "继续持有或保持（某物）",
+      "usage": "指在一段时间内继续持有、保持或不失去某物，通常用于描述保留财产、权利、记忆、地位等抽象或具体的事物。",
+      "collocations": ["retain control", "retain possession", "retain memory"],
+      "examples": [
+        {
+          "scene": "一家公司的高层会议中，讨论如何在竞争激烈的市场中保持主导地位。",
+          "chineseIdea": "公司希望继续掌握市场的主导权，不被竞争对手抢走。",
+          "sentenceWithBlank": "The CEO emphasized the need to @ @ of the market to ensure long-term success.",
+          "fullEnglishSentence": "The CEO emphasized the need to 「retain control」 of the market to ensure long-term success.",
+          "chineseTranslation": "首席执行官强调需要「保持控制」市场以确保长期成功。",
+          "chinglishFix": "典型中式英语：'keep the control of market' 纠正：'retain control of the market'，因为'retain control'是更自然的搭配，且'retain'强调持续持有。"
+        },
+        {
+          "scene": "一名员工在公司改组后担心自己的职位是否能保住。",
+          "chineseIdea": "员工希望在公司变动中继续保住自己的工作岗位。",
+          "sentenceWithBlank": "She worked hard to @ @ of her role during the company’s restructuring.",
+          "fullEnglishSentence": "She worked hard to 「retain possession」 of her role during the company’s restructuring.",
+          "chineseTranslation": "她努力工作以在公司重组期间「保住」自己的职位。",
+          "chinglishFix": "典型中式英语：'keep my job position' 纠正：'retain possession of my role'，'retain possession'更正式且符合语境，强调维持所有权或地位。"
+        }
+      ]
+    },
+    {
+      "meaning": "留住或维持（人或服务）",
+      "usage": "指通过努力或支付费用继续保持与某人或某项服务的联系，例如留住客户、员工或专业服务（如律师）。",
+      "collocations": ["retain customers", "retain employees", "retain a lawyer"],
+      "examples": [
+        {
+          "scene": "一家零售公司在节假日推出促销活动，希望吸引并留住更多消费者。",
+          "chineseIdea": "公司希望通过优惠活动让消费者继续选择他们的品牌。",
+          "sentenceWithBlank": "The store introduced loyalty programs to @ @ for the upcoming season.",
+          "fullEnglishSentence": "The store introduced loyalty programs to 「retain customers」 for the upcoming season.",
+          "chineseTranslation": "这家商店推出忠诚计划以在即将到来的季节「留住客户」。",
+          "chinglishFix": "典型中式英语：'keep customers coming back' 纠正：'retain customers'，因为'retain customers'是商业语境中更专业、更常见的表达。"
+        },
+        {
+          "scene": "一名面临法律纠纷的商人需要聘请专业律师来处理案件。",
+          "chineseIdea": "商人希望雇佣一位经验丰富的律师来帮助他打赢官司。",
+          "sentenceWithBlank": "He decided to @ @ @ to handle the complex legal case.",
+          "fullEnglishSentence": "He decided to 「retain a lawyer」 to handle the complex legal case.",
+          "chineseTranslation": "他决定「聘请一位律师」来处理复杂的法律案件。",
+          "chinglishFix": "典型中式英语：'hire a lawyer to keep' 纠正：'retain a lawyer'，因为'retain a lawyer'是法律语境中标准的正式表达，强调持续的服务关系。"
+        }
+      ]
+    },
+    {
+      "meaning": "吸收或保留（物质）",
+      "usage": "在科学或技术语境中，指物质或系统吸收或保持某些成分，如水分、热量或营养。",
+      "collocations": ["retain moisture", "retain heat", "retain nutrients"],
+      "examples": [
+        {
+          "scene": "一名园艺爱好者在选择土壤时，考虑如何让植物更好地生长。",
+          "chineseIdea": "希望土壤能锁住水分，让植物根部保持湿润。",
+          "sentenceWithBlank": "This type of soil is ideal because it can @ @ for longer periods.",
+          "fullEnglishSentence": "This type of soil is ideal because it can 「retain moisture」 for longer periods.",
+          "chineseTranslation": "这种土壤很理想，因为它能「保持水分」更长时间。",
+          "chinglishFix": "典型中式英语：'hold water for long' 纠正：'retain moisture'，因为'retain moisture'是园艺和科学语境中的标准表达，强调吸收和维持。"
+        },
+        {
+          "scene": "一位厨师在选择炊具时，希望锅具能够更好地保温。",
+          "chineseIdea": "希望锅具能长时间保持食物的温度。",
+          "sentenceWithBlank": "Cast iron pans are great because they @ @ effectively.",
+          "fullEnglishSentence": "Cast iron pans are great because they 「retain heat」 effectively.",
+          "chineseTranslation": "铸铁锅很棒，因为它们能有效地「保持热量」。",
+          "chinglishFix": "典型中式英语：'keep the heat long' 纠正：'retain heat'，因为'retain heat'是烹饪和物理语境中更精确的表达。"
+        }
+      ]
+    }
+  ]
+}
+```
