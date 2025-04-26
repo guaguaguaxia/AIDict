@@ -1,0 +1,53 @@
+```json
+{
+  "word": "simplify",
+  "definitions": [
+    {
+      "meaning": "使某事物更简单或更容易理解",
+      "usage": "常用于描述将复杂的过程、概念或信息变得更清晰、更容易被理解或操作。通常出现在技术、教育、设计或日常交流的语境中。",
+      "collocations": ["simplify a process", "simplify a concept", "simplify instructions"],
+      "examples": [
+        {
+          "scene": "在一间科技公司的会议室里，产品经理正在向团队解释如何改进用户体验。他们注意到用户在使用新开发的应用程序时感到困惑，因为界面功能太多，操作复杂。",
+          "chineseIdea": "产品经理希望通过减少不必要的步骤和选项，让用户更容易上手使用应用程序。",
+          "sentenceWithBlank": "To improve user experience, we need to @ @ @ for new users.",
+          "fullEnglishSentence": "To improve user experience, we need to 「simplify a process」 for new users.",
+          "chineseTranslation": "为了提升用户体验，我们需要为新用户「简化流程」。",
+          "chinglishFix": "典型中式英语：'Make the process more simple.' 纠正：'Simplify the process.'（英语中通常直接用'simplify'，而非'make...more simple'，后者显得冗余。）"
+        },
+        {
+          "scene": "在一所小学的课堂上，老师正在向学生介绍分数的基本概念。学生们对分数的定义感到困惑，老师决定用更直观的例子来讲解。",
+          "chineseIdea": "老师希望通过用生活中的例子（如切披萨）来让学生更容易理解分数的概念。",
+          "sentenceWithBlank": "The teacher used real-life examples to @ @ @ for young students.",
+          "fullEnglishSentence": "The teacher used real-life examples to 「simplify a concept」 for young students.",
+          "chineseTranslation": "老师用现实生活中的例子来为小学生「简化概念」。",
+          "chinglishFix": "典型中式英语：'Make the concept easy.' 纠正：'Simplify the concept.'（'make...easy'不符合英语习惯，'simplify'更自然且准确。）"
+        }
+      ]
+    },
+    {
+      "meaning": "减少或去除不必要的部分，使某事物更简洁",
+      "usage": "常用于描述精简设计、内容或结构，去掉多余的元素以突出核心。通常出现在写作、设计或生活方式的语境中。",
+      "collocations": ["simplify a design", "simplify a lifestyle", "simplify a text"],
+      "examples": [
+        {
+          "scene": "一位室内设计师正在与客户讨论如何重新装修客厅。客户希望空间看起来更整洁、更现代，而不是堆满装饰品。",
+          "chineseIdea": "设计师建议通过减少家具和装饰，突出简约美学，让客厅更现代化。",
+          "sentenceWithBlank": "The designer proposed to @ @ @ by using minimal furniture.",
+          "fullEnglishSentence": "The designer proposed to 「simplify a design」 by using minimal furniture.",
+          "chineseTranslation": "设计师建议通过使用最少的家具来「简化设计」。",
+          "chinglishFix": "典型中式英语：'Make the design more simple.' 纠正：'Simplify the design.'（英语中直接用'simplify'，避免冗余表达。）"
+        },
+        {
+          "scene": "一位大学生正在为学校的杂志撰写文章，但初稿内容过于冗长，编辑建议他删减不必要的部分，让文章更简洁有力。",
+          "chineseIdea": "编辑希望通过删掉多余的描述和重复的内容，让文章更清晰、更吸引读者。",
+          "sentenceWithBlank": "The editor advised the writer to @ @ @ by cutting redundant descriptions.",
+          "fullEnglishSentence": "The editor advised the writer to 「simplify a text」 by cutting redundant descriptions.",
+          "chineseTranslation": "编辑建议作者通过删减多余的描述来「简化文本」。",
+          "chinglishFix": "典型中式英语：'Make the text shorter.' 纠正：'Simplify the text.'（'shorten'仅指长度，而'simplify'强调清晰和简洁。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "spare",
+  "definitions": [
+    {
+      "meaning": "多余的，未使用的",
+      "usage": "形容词，指某物是额外的、未被使用的，或可以用来替换的，通常用于描述物品、时间或资源。",
+      "collocations": ["spare time", "spare room", "spare parts"],
+      "examples": [
+        {
+          "scene": "小明在周末完成了所有工作，下午没有任何安排，决定利用这段时间做点自己喜欢的事情。",
+          "chineseIdea": "想表达有空闲的时间可以用来放松或做兴趣爱好。",
+          "sentenceWithBlank": "I have some @ @ this afternoon, so I’m going to read a book.",
+          "fullEnglishSentence": "I have some 「spare time」 this afternoon, so I’m going to read a book.",
+          "chineseTranslation": "我今天下午有些「空闲时间」，所以打算读一本书。",
+          "chinglushFix": "典型中式英语：'I have some free time this afternoon.' 纠正：虽然'free time'也可，但'spare time'更强调时间是额外可用的，适合计划做某事。"
+        },
+        {
+          "scene": "小红刚搬进新家，发现房子比她需要的空间大，决定把多余的房间用作兴趣空间。",
+          "chineseIdea": "想表达家里有一个额外的房间可以用来做其他用途。",
+          "sentenceWithBlank": "We have a @ @ in our new house, so we’re turning it into a study.",
+          "fullEnglishSentence": "We have a 「spare room」 in our new house, so we’re turning it into a study.",
+          "chineseTranslation": "我们新家有一个「多余的房间」，所以我们把它改成了书房。",
+          "chinglushFix": "典型中式英语：'We have an extra room.' 纠正：'extra room'可接受，但'spare room'是更自然的搭配，特指家中未使用的房间。"
+        }
+      ]
+    },
+    {
+      "meaning": "节约，节省",
+      "usage": "动词，指在金钱、资源或情感等方面尽量少用，以避免浪费。",
+      "collocations": ["spare no effort", "spare no expense", "spare a thought"],
+      "examples": [
+        {
+          "scene": "公司为了确保新产品发布会成功，投入了大量资源，毫不吝惜成本。",
+          "chineseIdea": "想表达为了某个目标不惜一切代价，投入所有资源。",
+          "sentenceWithBlank": "They @ @ @ to make the product launch a success.",
+          "fullEnglishSentence": "They 「spare no effort」 to make the product launch a success.",
+          "chineseTranslation": "他们「不遗余力」确保产品发布会成功。",
+          "chinglushFix": "典型中式英语：'They do everything to make it successful.' 纠正：'do everything'过于笼统，'spare no effort'更具体且正式，强调全力以赴。"
+        },
+        {
+          "scene": "小刚听说朋友生病了，虽然忙碌，但还是停下来一刻以表达关心。",
+          "chineseIdea": "想表达在忙碌中抽出一点时间去关心别人。",
+          "sentenceWithBlank": "Can you @ @ @ for those who are struggling right now?",
+          "fullEnglishSentence": "Can you 「spare a thought」 for those who are struggling right now?",
+          "chineseTranslation": "你能为现在正处于困境中的人「想一想」吗？",
+          "chinglushFix": "典型中式英语：'Can you think about them?' 纠正：'think about'太直接，'spare a thought'更柔和，带有情感关怀的含义。"
+        }
+      ]
+    },
+    {
+      "meaning": "饶恕，赦免",
+      "usage": "动词，指对某人免于惩罚或伤害，通常在正式或文学语境中使用。",
+      "collocations": ["spare someone’s life", "spare the details", "spare the rod"],
+      "examples": [
+        {
+          "scene": "在历史剧中，国王面对叛军首领，最终决定不处死他，而是给予宽恕。",
+          "chineseIdea": "想表达仁慈地放过某人的性命，展示宽容。",
+          "sentenceWithBlank": "The king chose to @ @ @, showing mercy to the rebel leader.",
+          "fullEnglishSentence": "The king chose to 「spare someone’s life」, showing mercy to the rebel leader.",
+          "chineseTranslation": "国王选择「饶他一命」，对叛军领袖展现了仁慈。",
+          "chinglushFix": "典型中式英语：'The king let him live.' 纠正：'let him live'虽正确，但'spare someone’s life'更具文学性和正式感，强调仁慈的决定。"
+        },
+        {
+          "scene": "小李在会议中不想过多描述项目失败的细节，只想快速说明结果。",
+          "chineseIdea": "想表达避免提及不必要的细节，保持简洁。",
+          "sentenceWithBlank": "Please @ @ @ and just tell us the outcome.",
+          "fullEnglishSentence": "Please 「spare the details」 and just tell us the outcome.",
+          "chineseTranslation": "请「省去细节」，直接告诉我们结果。",
+          "chinglushFix": "典型中式英语：'Don’t say the details.' 纠正：'don’t say the details'显得生硬，'spare the details'更自然，常见于请求简洁表达时。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "inspector",
+  "definitions": [
+    {
+      "meaning": "负责检查或监督的人，通常在官方或专业环境中确保规则、标准或质量得到遵守",
+      "usage": "指在政府机构、工厂、建筑工地或类似场所中，负责审查、验证或监督的人。常用于描述具有一定权威的职位，强调检查的正式性和专业性。",
+      "collocations": ["conduct an inspection", "quality inspector", "health and safety inspector"],
+      "examples": [
+        {
+          "scene": "在一个大型工厂中，生产线正在高速运转，工人们忙碌地组装电子产品。为了确保产品质量，公司雇佣了专业人员每天检查生产线上的产品。",
+          "chineseIdea": "需要有人来确保产品没有瑕疵，符合标准，这是一个正式的检查过程，通常由专业人员完成。",
+          "sentenceWithBlank": "The factory hired a skilled worker to @ @ @ every morning.",
+          "fullEnglishSentence": "The factory hired a skilled inspector to 「conduct an inspection」 every morning.",
+          "chineseTranslation": "工厂雇佣了一名熟练的检查员每天早上「进行检查」。",
+          "chinglishFix": "典型中式英语：'He check the factory every day.' 纠正：'He conducts an inspection of the factory every day.'（应使用正式的搭配‘conduct an inspection’，避免简单的‘check’。）"
+        },
+        {
+          "scene": "在一栋新建的办公大楼中，施工已经接近尾声。为了确保建筑符合安全法规，政府派出一名专业人员来审查建筑的结构和消防设施。",
+          "chineseIdea": "需要一名专业人员来评估建筑是否安全，确保所有设施达到标准，这是一个官方的检查行为。",
+          "sentenceWithBlank": "The government sent an experienced worker to act as a @ @ @ @ for the new building.",
+          "fullEnglishSentence": "The government sent an experienced inspector to act as a 「health and safety inspector」 for the new building.",
+          "chineseTranslation": "政府派了一名经验丰富的检查员作为新大楼的「健康与安全检查员」。",
+          "chinglishFix": "典型中式英语：'He is safety checker for building.' 纠正：'He is a health and safety inspector for the building.'（应使用正确的职位名称‘health and safety inspector’，避免不专业的‘checker’。）"
+        }
+      ]
+    },
+    {
+      "meaning": "警察中的一种头衔，通常指负责调查或巡逻的中高级警官",
+      "usage": "在英国或其他英联邦国家的警察系统中，‘inspector’是一个特定的警衔，高于普通警员但低于高级警官，负责管理案件、巡逻或调查工作。",
+      "collocations": ["chief inspector", "police inspector", "lead an investigation"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的城市警察局中，一起复杂的抢劫案需要深入调查。警局指派了一名经验丰富的警官来负责此案，协调团队并分析线索。",
+          "chineseIdea": "需要一名有经验的警官来领导案件的调查，指挥团队并确保工作顺利进行。",
+          "sentenceWithBlank": "The officer was promoted to @ @ and tasked to @ @ @ for the robbery case.",
+          "fullEnglishSentence": "The officer was promoted to 「police inspector」 and tasked to 「lead an investigation」 for the robbery case.",
+          "chineseTranslation": "这名警官被提升为「警督」，并被指派为抢劫案「领导调查」。",
+          "chinglishFix": "典型中式英语：'He is police and lead case.' 纠正：'He is a police inspector and leads the investigation.'（应明确警衔‘police inspector’并使用‘lead an investigation’的正式表达。）"
+        },
+        {
+          "scene": "在一个小镇的警察局中，一名高级警官负责监督日常巡逻和社区安全事务。他需要定期与镇上的居民沟通，处理各种治安问题。",
+          "chineseIdea": "需要一名高级警官来管理警察局的日常事务，协调巡逻并与社区保持联系。",
+          "sentenceWithBlank": "The experienced officer served as the @ @ for the small town’s police force.",
+          "fullEnglishSentence": "The experienced officer served as the 「chief inspector」 for the small town’s police force.",
+          "chineseTranslation": "这位经验丰富的警官担任小镇警察部队的「总督察」。",
+          "chinglishFix": "典型中式英语：'He is head police of town.' 纠正：'He is the chief inspector of the town’s police force.'（应使用正确的警衔‘chief inspector’，避免模糊的‘head police’。）"
+        }
+      ]
+    }
+  ]
+}
+```

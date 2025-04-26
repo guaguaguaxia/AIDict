@@ -1,0 +1,76 @@
+```json
+{
+  "word": "range",
+  "definitions": [
+    {
+      "meaning": "一系列；范围",
+      "usage": "指事物、数量或类别的一系列或范围，常用于描述从一个极端到另一个极端的连续变化或多样性。",
+      "collocations": ["a wide range of", "within the range of", "range from ... to ..."],
+      "examples": [
+        {
+          "scene": "在一家大型超市里，顾客正在挑选商品，货架上摆满了各种品牌的食品和日用品。",
+          "chineseIdea": "超市里有很多种类的商品，从便宜的到昂贵的都有，满足不同顾客的需求。",
+          "sentenceWithBlank": "The store offers @ @ @ products, catering to all budgets.",
+          "fullEnglishSentence": "The store offers 「a wide range of」 products, catering to all budgets.",
+          "chineseTranslation": "这家商店提供「各种各样的」产品，满足所有预算。",
+          "chinglishFix": "典型中式英语：'The store has many kinds products.' 纠正：'The store offers a wide range of products.'（避免直接翻译‘种类多’，使用自然的搭配‘a wide range of’）"
+        },
+        {
+          "scene": "在一场学术会议上，研究人员讨论气候变化的影响，涉及多种因素。",
+          "chineseIdea": "气候变化的影响涉及很多方面，从温度变化到生态系统破坏。",
+          "sentenceWithBlank": "The impacts of climate change @ @ @ rising sea levels @ ecosystem disruptions.",
+          "fullEnglishSentence": "The impacts of climate change 「range from ... to ...」 rising sea levels to ecosystem disruptions.",
+          "chineseTranslation": "气候变化的影响「从……到……」，从海平面上升到生态系统破坏。",
+          "chinglishFix": "典型中式英语：'Climate change affects from sea level to ecosystem.' 纠正：'The impacts of climate change range from rising sea levels to ecosystem disruptions.'（避免生硬的‘affects from’，使用‘range from ... to ...’）"
+        }
+      ]
+    },
+    {
+      "meaning": "射程；距离",
+      "usage": "指武器、设备或信号的有效距离，或某事物能够覆盖的地理范围。",
+      "collocations": ["out of range", "within range", "long-range"],
+      "examples": [
+        {
+          "scene": "在一场军事演习中，士兵们正在测试新式武器的射程。",
+          "chineseIdea": "新武器的射程有限，目标太远就无法击中。",
+          "sentenceWithBlank": "The target was @ @ @, so the weapon couldn’t hit it.",
+          "fullEnglishSentence": "The target was 「out of range」, so the weapon couldn’t hit it.",
+          "chineseTranslation": "目标「超出射程」，所以武器无法击中。",
+          "chinglishFix": "典型中式英语：'The target is too far to shoot.' 纠正：'The target was out of range.'（避免模糊的‘too far’，使用‘out of range’更精准）"
+        },
+        {
+          "scene": "在一个偏远的山区，游客发现手机信号时有时无。",
+          "chineseIdea": "在某些区域，手机信号覆盖不到，通信变得困难。",
+          "sentenceWithBlank": "The phone couldn’t connect because it was not @ @.",
+          "fullEnglishSentence": "The phone couldn’t connect because it was not 「within range」.",
+          "chineseTranslation": "手机无法连接，因为它不在「信号范围内」。",
+          "chinglishFix": "典型中式英语：'The phone has no signal.' 纠正：'The phone couldn’t connect because it was not within range.'（避免简单描述‘无信号’，使用‘within range’更符合语境）"
+        }
+      ]
+    },
+    {
+      "meaning": "山脉",
+      "usage": "指地理上的山脉，通常用于描述连绵的山地地形。",
+      "collocations": ["mountain range", "across the range", "range of hills"],
+      "examples": [
+        {
+          "scene": "一群登山爱好者在喜马拉雅山脉进行探险，欣赏壮丽的自然景观。",
+          "chineseIdea": "喜马拉雅山脉连绵不绝，景色壮观，吸引了许多探险者。",
+          "sentenceWithBlank": "The 「mountain range」 offers breathtaking views for adventurers.",
+          "fullEnglishSentence": "The 「mountain range」 offers breathtaking views for adventurers.",
+          "chineseTranslation": "这片「山脉」为冒险者提供了壮丽的景色。",
+          "chinglishFix": "典型中式英语：'The mountains are very beautiful.' 纠正：'The mountain range offers breathtaking views.'（避免泛泛的‘beautiful’，使用‘mountain range’和具体描述）"
+        },
+        {
+          "scene": "在一个旅游宣传片中，介绍某地区连绵起伏的丘陵地带。",
+          "chineseIdea": "这片丘陵地带景色优美，适合徒步和观光。",
+          "sentenceWithBlank": "The @ @ @ is perfect for hiking and sightseeing.",
+          "fullEnglishSentence": "The 「range of hills」 is perfect for hiking and sightseeing.",
+          "chineseTranslation": "这片「丘陵地带」非常适合徒步和观光。",
+          "chinglishFix": "典型中式英语：'The hills are good for walk.' 纠正：'The range of hills is perfect for hiking and sightseeing.'（避免不自然的‘good for walk’，使用‘range of hills’和更贴切的表达）"
+        }
+      ]
+    }
+  ]
+}
+```

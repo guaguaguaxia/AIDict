@@ -1,0 +1,76 @@
+```json
+{
+  "word": "image",
+  "definitions": [
+    {
+      "meaning": "图像或画面",
+      "usage": "指通过绘画、摄影、数字渲染等方式呈现的视觉表现形式，常用于描述照片、图画或屏幕上的图像。",
+      "collocations": ["digital image", "mental image", "public image"],
+      "examples": [
+        {
+          "scene": "在一个摄影展上，小明正在和朋友讨论一张黑白照片的艺术效果，强调它的清晰度和构图。",
+          "chineseIdea": "想表达这张照片通过数字化处理后呈现出非常高的清晰度。",
+          "sentenceWithBlank": "This photo has been enhanced to produce a stunning @ @.",
+          "fullEnglishSentence": "This photo has been enhanced to produce a stunning 「digital image」.",
+          "chineseTranslation": "这张照片经过增强，呈现出惊艳的「数字图像」。",
+          "chinglishFix": "典型中式英语：'This photo is very clear after digital process.' 纠正：'This photo has been enhanced to produce a stunning digital image.'"
+        },
+        {
+          "scene": "在一次冥想课程中，老师引导学员想象一个平静的湖泊，以帮助他们放松心情。",
+          "chineseIdea": "想表达通过想象一个湖泊的画面来让自己平静。",
+          "sentenceWithBlank": "Close your eyes and visualize a @ @ of a serene lake.",
+          "fullEnglishSentence": "Close your eyes and visualize a 「mental image」 of a serene lake.",
+          "chineseTranslation": "闭上眼睛，想象一个平静湖泊的「内心画面」。",
+          "chinglishFix": "典型中式英语：'Think a picture of a lake in your brain.' 纠正：'Visualize a mental image of a serene lake.'"
+        }
+      ]
+    },
+    {
+      "meaning": "形象或印象",
+      "usage": "指个人、公司或品牌在公众或他人心中的印象或声誉，常用于描述外在形象或社会认知。",
+      "collocations": ["public image", "brand image", "corporate image"],
+      "examples": [
+        {
+          "scene": "一家公司因为环保问题受到批评，公关团队正在开会讨论如何改善公司在公众中的声誉。",
+          "chineseIdea": "想表达公司需要通过慈善活动来提升公众对它的好感。",
+          "sentenceWithBlank": "The company launched a charity campaign to improve its @ @.",
+          "fullEnglishSentence": "The company launched a charity campaign to improve its 「public image」.",
+          "chineseTranslation": "公司发起了一场慈善活动，以改善其「公众形象」。",
+          "chinglishFix": "典型中式英语：'The company wants to make its face better.' 纠正：'The company aims to improve its public image.'"
+        },
+        {
+          "scene": "一家时尚品牌正在策划新品发布会，营销团队希望通过明星代言来强化品牌的奢华感。",
+          "chineseIdea": "想表达通过明星代言让品牌看起来更高端。",
+          "sentenceWithBlank": "Hiring a celebrity will strengthen the @ @ of luxury.",
+          "fullEnglishSentence": "Hiring a celebrity will strengthen the 「brand image」 of luxury.",
+          "chineseTranslation": "聘请名人代言将增强品牌的「高端形象」。",
+          "chinglishFix": "典型中式英语：'Use a star to make the brand more high.' 纠正：'Hiring a celebrity will strengthen the brand image of luxury.'"
+        }
+      ]
+    },
+    {
+      "meaning": "比喻或意象",
+      "usage": "在文学或语言表达中，指通过语言创造的生动画面或比喻，用于增强表达的感染力。",
+      "collocations": ["poetic image", "vivid image", "literary image"],
+      "examples": [
+        {
+          "scene": "在一堂文学课上，老师分析一首诗，指出诗人用秋叶来比喻生命的短暂。",
+          "chineseIdea": "想表达诗人通过秋叶的画面传递了深刻的情感。",
+          "sentenceWithBlank": "The poet uses falling leaves to create a @ @ of fleeting life.",
+          "fullEnglishSentence": "The poet uses falling leaves to create a 「poetic image」 of fleeting life.",
+          "chineseTranslation": "诗人用落叶创造了一个关于生命短暂的「诗意意象」。",
+          "chinglishFix": "典型中式英语：'The poet writes leaves to show life is short.' 纠正：'The poet uses falling leaves to create a poetic image of fleeting life.'"
+        },
+        {
+          "scene": "一位作家在描述暴风雨的场景时，想让读者感受到狂风的震撼力量。",
+          "chineseIdea": "想表达暴风雨的画面让读者感到身临其境。",
+          "sentenceWithBlank": "The description of the storm paints a @ @ in the reader’s mind.",
+          "fullEnglishSentence": "The description of the storm paints a 「vivid image」 in the reader’s mind.",
+          "chineseTranslation": "对暴风雨的描述在读者脑海中勾勒出「生动的画面」。",
+          "chinglishFix": "典型中式英语：'The storm description makes a picture in mind.' 纠正：'The description of the storm paints a vivid image in the reader’s mind.'"
+        }
+      ]
+    }
+  ]
+}
+```
