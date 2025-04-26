@@ -1,0 +1,76 @@
+```json
+{
+  "word": "fatigue",
+  "definitions": [
+    {
+      "meaning": "身体或精神上的极度疲劳",
+      "usage": "指因长时间工作、运动或精神压力导致的极度疲惫状态，通常强调身体或心理能量耗尽，难以继续活动。",
+      "collocations": ["combat fatigue", "suffer from fatigue", "chronic fatigue", "mental fatigue", "physical fatigue"],
+      "examples": [
+        {
+          "scene": "一个程序员在连续加班三天后，坐在电脑前感到头晕眼花，无法集中注意力。",
+          "chineseIdea": "他因为长时间盯着屏幕和解决复杂代码问题，感到身体和精神都极度疲惫。",
+          "sentenceWithBlank": "After three days of nonstop coding, he started to @ @ @.",
+          "fullEnglishSentence": "After three days of nonstop coding, he started to 「suffer from fatigue」.",
+          "chineseTranslation": "在连续三天不间断编程后，他开始「感到极度疲劳」。",
+          "chinglishFix": "典型中式英语：He felt very tired after coding. 纠正：He suffered from fatigue after coding, emphasizing the extreme exhaustion rather than general tiredness."
+        },
+        {
+          "scene": "一名长跑运动员在马拉松比赛后，双腿酸痛，坐在地上几乎无法起身。",
+          "chineseIdea": "运动员因长时间高强度运动，身体机能达到极限，感到筋疲力尽。",
+          "sentenceWithBlank": "After running 42 kilometers, the marathoner collapsed due to @ @.",
+          "fullEnglishSentence": "After running 42 kilometers, the marathoner collapsed due to 「physical fatigue」.",
+          "chineseTranslation": "在跑完42公里后，马拉松选手因「身体极度疲劳」而倒下。",
+          "chinglishFix": "典型中式英语：He was tired because of running. 纠正：He collapsed due to physical fatigue, highlighting the specific type and severity of exhaustion."
+        }
+      ]
+    },
+    {
+      "meaning": "材料或结构的疲劳（机械或工程领域）",
+      "usage": "指材料或结构因反复受力或使用而逐渐丧失强度，最终可能导致断裂或失效，常用于工程、航空或机械领域。",
+      "collocations": ["metal fatigue", "structural fatigue", "cause fatigue", "fatigue failure", "fatigue testing"],
+      "examples": [
+        {
+          "scene": "一名航空工程师在检查飞机机翼时，发现微小裂纹，怀疑是长期飞行导致的问题。",
+          "chineseIdea": "工程师认为机翼因反复承受飞行中的压力，材料逐渐出现疲劳现象。",
+          "sentenceWithBlank": "The inspection revealed cracks in the wing due to @ @.",
+          "fullEnglishSentence": "The inspection revealed cracks in the wing due to 「metal fatigue」.",
+          "chineseTranslation": "检查发现机翼上有裂纹，这是由于「金属疲劳」引起的。",
+          "chinglishFix": "典型中式英语：The wing was broken because of long use. 纠正：The wing showed cracks due to metal fatigue, specifying the technical cause."
+        },
+        {
+          "scene": "一座老旧桥梁在一次例行检查中被发现支撑结构出现变形，工程师建议立即维修。",
+          "chineseIdea": "桥梁因多年承受车辆重压，结构逐渐弱化，出现疲劳迹象。",
+          "sentenceWithBlank": "Years of heavy traffic had caused @ @ in the bridge’s supports.",
+          "fullEnglishSentence": "Years of heavy traffic had caused 「structural fatigue」 in the bridge’s supports.",
+          "chineseTranslation": "多年的重型交通导致桥梁支撑结构出现「结构疲劳」。",
+          "chinglishFix": "典型中式英语：The bridge was old and tired. 纠正：The bridge suffered from structural fatigue, using precise engineering terminology."
+        }
+      ]
+    },
+    {
+      "meaning": "对某事物的厌倦或失去兴趣",
+      "usage": "描述对某事物因长时间接触或重复而感到厌倦、失去兴趣或热情，通常用于心理或情感层面。",
+      "collocations": ["decision fatigue", "compassion fatigue", "battle fatigue", "fatigue with something", "aesthetic fatigue"],
+      "examples": [
+        {
+          "scene": "一名客服人员每天处理数百个客户投诉，渐渐对工作失去热情，觉得枯燥无味。",
+          "chineseIdea": "她因重复处理相似的问题，心理上对这份工作感到厌倦。",
+          "sentenceWithBlank": "Handling endless complaints led her to experience @ @.",
+          "fullEnglishSentence": "Handling endless complaints led her to experience 「compassion fatigue」.",
+          "chineseTranslation": "处理无休止的投诉让她经历了「同情疲劳」。",
+          "chinglishFix": "典型中式英语：She was tired of her job. 纠正：She suffered from compassion fatigue, emphasizing the emotional exhaustion specific to her role."
+        },
+        {
+          "scene": "一位设计师在短时间内为多个项目设计海报，渐渐觉得创意枯竭，缺乏灵感。",
+          "chineseIdea": "他因频繁输出设计作品，对创作过程感到审美疲劳。",
+          "sentenceWithBlank": "Creating posters nonstop resulted in @ @ for the designer.",
+          "fullEnglishSentence": "Creating posters nonstop resulted in 「aesthetic fatigue」 for the designer.",
+          "chineseTranslation": "不停地创作海报导致设计师出现了「审美疲劳」。",
+          "chinglishFix": "典型中式英语：He was bored with designing. 纠正：He experienced aesthetic fatigue, capturing the specific loss of creative inspiration."
+        }
+      ]
+    }
+  ]
+}
+```

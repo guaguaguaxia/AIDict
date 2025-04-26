@@ -1,0 +1,53 @@
+```json
+{
+  "word": "endanger",
+  "definitions": [
+    {
+      "meaning": "使处于危险之中；威胁某人或某物的安全",
+      "usage": "通常用作及物动词，表示通过某种行为或情况使人、动物、环境等面临风险或危险。常用于描述对生命、安全或存在的威胁。",
+      "collocations": ["endanger lives", "endanger species", "endanger safety"],
+      "examples": [
+        {
+          "scene": "在一个繁忙的城市中，政府计划在居民区附近修建一座化工厂，居民对此表示担忧，因为这可能会对他们的健康构成威胁。",
+          "chineseIdea": "担心化工厂的排放会导致空气污染，从而威胁到居民的生命安全。",
+          "sentenceWithBlank": "The new factory could @ @ @ of nearby residents.",
+          "fullEnglishSentence": "The new factory could 「endanger lives」 of nearby residents.",
+          "chineseTranslation": "新工厂可能会「危及生命」，威胁附近居民的安全。",
+          "chinglishFix": "典型中式英语：The factory may 'make danger to lives.' 纠正：The factory could endanger lives."
+        },
+        {
+          "scene": "在一场关于城市交通安全的会议上，市民们讨论如何减少超速驾驶，因为这对行人和其他司机来说非常危险。",
+          "chineseIdea": "超速驾驶可能会导致交通事故，从而威胁到其他人的生命。",
+          "sentenceWithBlank": "Speeding drivers often @ @ @ of pedestrians.",
+          "fullEnglishSentence": "Speeding drivers often 「endanger lives」 of pedestrians.",
+          "chineseTranslation": "超速驾驶者常常「危及生命」，威胁行人的安全。",
+          "chinglishFix": "典型中式英语：Speeding can 'bring danger to lives.' 纠正：Speeding can endanger lives."
+        }
+      ]
+    },
+    {
+      "meaning": "危害或威胁某事物（通常指抽象事物，如地位、声誉等）的存在或稳定",
+      "usage": "用作及物动词，表示通过某些行为或情况威胁到非生命实体的稳定或持续存在，例如事业、声誉、关系等。",
+      "collocations": ["endanger reputation", "endanger career", "endanger relationship"],
+      "examples": [
+        {
+          "scene": "一位知名演员因为在社交媒体上发表了不当言论，引发了公众的强烈批评，这可能会影响他的职业生涯。",
+          "chineseIdea": "不当言论可能会让公众对他的形象产生负面看法，从而威胁他的职业发展。",
+          "sentenceWithBlank": "His careless comments could @ @ @ in the industry.",
+          "fullEnglishSentence": "His careless comments could 「endanger reputation」 in the industry.",
+          "chineseTranslation": "他轻率的评论可能会「危害名声」，影响他在行业中的地位。",
+          "chinglishFix": "典型中式英语：His words may 'destroy his fame.' 纠正：His words could endanger his reputation."
+        },
+        {
+          "scene": "在一家公司中，一位员工因为多次违反公司政策而被警告，这可能会让他失去目前的职位。",
+          "chineseIdea": "违反政策的行为可能会让公司对他失去信任，从而威胁他的职业前景。",
+          "sentenceWithBlank": "Breaking company rules repeatedly may @ @ @ as a manager.",
+          "fullEnglishSentence": "Breaking company rules repeatedly may 「endanger career」 as a manager.",
+          "chineseTranslation": "多次违反公司规定可能会「危及职业」，影响他作为经理的职位。",
+          "chinglishFix": "典型中式英语：Breaking rules can 'hurt his job.' 纠正：Breaking rules can endanger his career."
+        }
+      ]
+    }
+  ]
+}
+```

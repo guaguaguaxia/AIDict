@@ -1,0 +1,53 @@
+```json
+{
+  "word": "equality",
+  "definitions": [
+    {
+      "meaning": "The state of being equal, especially in status, rights, or opportunities",
+      "usage": "Refers to fairness and impartiality in social, political, or economic contexts, often used in discussions about justice, human rights, or fairness between groups or individuals.",
+      "collocations": ["promote equality", "achieve equality", "gender equality", "social equality"],
+      "examples": [
+        {
+          "scene": "在一个公司内部，管理层注意到女性员工在晋升机会上似乎总是落后于男性员工。公司决定采取措施来解决这个问题。",
+          "chineseIdea": "公司希望通过培训和政策调整，确保男女员工在职业发展中有相同的机会。",
+          "sentenceWithBlank": "The company launched a program to @ @ in the workplace.",
+          "fullEnglishSentence": "The company launched a program to 「promote equality」 in the workplace.",
+          "chineseTranslation": "公司启动了一个项目，以在工作场所「促进平等」。",
+          "chinglishFix": "Chinglish: The company wants to make equal for men and women. Correct: The company aims to promote equality between men and women."
+        },
+        {
+          "scene": "在一所学校，老师们讨论如何确保所有学生无论家庭背景如何都能获得相同的学习资源。",
+          "chineseIdea": "老师们希望通过提供免费教材和课外辅导，让每个学生都有公平的学习机会。",
+          "sentenceWithBlank": "The school implemented policies to @ @ among students.",
+          "fullEnglishSentence": "The school implemented policies to 「achieve equality」 among students.",
+          "chineseTranslation": "学校实施了政策，以在学生中「实现平等」。",
+          "chinglishFix": "Chinglish: The school wants students to be same. Correct: The school aims to achieve equality among students."
+        }
+      ]
+    },
+    {
+      "meaning": "The quality of being the same in quantity, measure, or value",
+      "usage": "Used in mathematical, scientific, or logical contexts to describe identical values, quantities, or properties.",
+      "collocations": ["mathematical equality", "establish equality", "prove equality"],
+      "examples": [
+        {
+          "scene": "在一个数学课堂上，老师正在向学生们解释如何证明两个代数表达式的值相同。",
+          "chineseIdea": "老师通过逐步推导，帮助学生理解两个表达式在特定条件下是等价的。",
+          "sentenceWithBlank": "The teacher demonstrated how to @ @ between the two expressions.",
+          "fullEnglishSentence": "The teacher demonstrated how to 「establish equality」 between the two expressions.",
+          "chineseTranslation": "老师展示了如何在两个表达式之间「建立等价」。",
+          "chinglishFix": "Chinglish: The teacher showed the two expressions are same. Correct: The teacher demonstrated how to establish equality between the two expressions."
+        },
+        {
+          "scene": "在一场数学竞赛中，参赛者需要证明一个复杂的方程在两边值相等。",
+          "chineseIdea": "参赛者通过逻辑推理和计算，试图展示方程两边的值是相同的。",
+          "sentenceWithBlank": "The contestant worked to @ @ in the equation.",
+          "fullEnglishSentence": "The contestant worked to 「prove equality」 in the equation.",
+          "chineseTranslation": "参赛者努力在方程中「证明等价」。",
+          "chinglishFix": "Chinglish: The contestant proved the equation is equal. Correct: The contestant worked to prove equality in the equation."
+        }
+      ]
+    }
+  ]
+}
+```

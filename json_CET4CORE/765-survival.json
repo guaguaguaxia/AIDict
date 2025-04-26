@@ -1,0 +1,53 @@
+```json
+{
+  "word": "survival",
+  "definitions": [
+    {
+      "meaning": "继续存在或存活，尤其是在艰难或危险的情况下",
+      "usage": "指人、动物或事物在不利环境中维持生命或存在的状态，常用于描述在危机、自然灾害或极端条件下求生的行为。",
+      "collocations": ["fight for survival", "ensure survival", "key to survival"],
+      "examples": [
+        {
+          "scene": "一群登山者在暴风雪中被困在高山上，食物和水源极度匮乏，他们必须依靠有限的资源和团队合作来度过难关。",
+          "chineseIdea": "在极端环境中，人们需要通过努力和智慧来维持生命。",
+          "sentenceWithBlank": "The climbers had to @ @ @ in the brutal storm with only a tent and a few supplies.",
+          "fullEnglishSentence": "The climbers had to 「fight for survival」 in the brutal storm with only a tent and a few supplies.",
+          "chineseTranslation": "登山者们不得不在只有帐篷和少量物资的情况下，在残酷的暴风雨中「为生存而战」。",
+          "chinglishFix": "典型中式英语：They must struggle to live in the storm. 纠正：They had to fight for survival in the storm.（'struggle to live' 显得不地道，'fight for survival' 是更自然的表达。）"
+        },
+        {
+          "scene": "一个小型创业公司在竞争激烈的市场中，面临资金短缺和技术落后的挑战，管理者需要制定策略来维持公司运营。",
+          "chineseIdea": "在商业环境中，保持公司存续需要有效的管理和资源分配。",
+          "sentenceWithBlank": "The startup implemented strict budgeting to @ @ in a highly competitive industry.",
+          "fullEnglishSentence": "The startup implemented strict budgeting to 「ensure survival」 in a highly competitive industry.",
+          "chineseTranslation": "这家初创公司实施了严格的预算管理，以在高度竞争的行业中「确保生存」。",
+          "chinglishFix": "典型中式英语：The company tried to keep alive in the market. 纠正：The company worked to ensure survival in the market.（'keep alive' 用在此处不恰当，'ensure survival' 更符合商业语境。）"
+        }
+      ]
+    },
+    {
+      "meaning": "幸存，残存（指某些传统、习俗或物种的延续）",
+      "usage": "指某些文化、传统、物种或事物在时间流逝或变迁中得以保留或继续存在，常用于历史、生物学或社会学语境。",
+      "collocations": ["survival of traditions", "survival of species", "cultural survival"],
+      "examples": [
+        {
+          "scene": "在一个偏远的山村，现代化的冲击使得许多传统手工艺逐渐消失，但村民们通过举办节庆活动努力保留这些技艺。",
+          "chineseIdea": "传统文化在现代社会中需要特别的保护和传承才能延续。",
+          "sentenceWithBlank": "The village festival promotes the @ @ @ to keep ancient crafts alive.",
+          "fullEnglishSentence": "The village festival promotes the 「survival of traditions」 to keep ancient crafts alive.",
+          "chineseTranslation": "村里的节庆活动促进了「传统的延续」，以保持古老手工艺的活力。",
+          "chinglishFix": "典型中式英语：The festival helps traditions not die. 纠正：The festival promotes the survival of traditions.（'not die' 表达生硬，'survival of traditions' 更准确且地道。）"
+        },
+        {
+          "scene": "在环境保护的背景下，科学家们关注某些濒危物种的保护，例如通过建立自然保护区来防止物种灭绝。",
+          "chineseIdea": "保护濒危物种需要采取具体措施以确保它们在自然界中的延续。",
+          "sentenceWithBlank": "Conservation efforts are critical for the @ @ @ in threatened habitats.",
+          "fullEnglishSentence": "Conservation efforts are critical for the 「survival of species」 in threatened habitats.",
+          "chineseTranslation": "保护工作对于在受威胁的栖息地中「物种的存续」至关重要。",
+          "chinglishFix": "典型中式英语：We must save animals to continue. 纠正：We must protect the survival of species.（'save animals to continue' 表达模糊，'survival of species' 更专业且贴合语境。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "selfish",
+  "definitions": [
+    {
+      "meaning": "关心自己的利益或幸福，缺乏对他人的考虑",
+      "usage": "形容一个人在行为或态度上优先考虑自己的需求、欲望或利益，而忽视他人的感受或需要。通常带有负面含义，暗示缺乏慷慨或同理心。",
+      "collocations": ["act in a selfish way", "selfish behavior", "selfish motives"],
+      "examples": [
+        {
+          "scene": "在一个团队项目中，大家需要共同努力完成一份报告。有一个成员总是只关注自己的部分，拒绝帮助其他同事，即使他已经完成了自己的任务。",
+          "chineseIdea": "这种行为让人觉得他只顾自己，不愿意为团队的整体成功付出额外努力，显得缺乏合作精神。",
+          "sentenceWithBlank": "He always @ @ @ @ @, refusing to share his resources with the team.",
+          "fullEnglishSentence": "He always 「acts in a selfish way」, refusing to share his resources with the team.",
+          "chineseTranslation": "他总是「以自私的方式行事」，拒绝与团队分享他的资源。",
+          "chinglishFix": "中式英语：He is very self-thinking. 纠正：He is very selfish or He always acts in a selfish way."
+        },
+        {
+          "scene": "在一个家庭聚会上，弟弟总是抢走所有的点心，不愿意和妹妹分享，即使妹妹很想要一块蛋糕。",
+          "chineseIdea": "弟弟的行为让人觉得他只考虑自己的满足，完全不顾妹妹的感受，显得很不体贴。",
+          "sentenceWithBlank": "His @ @ upset everyone at the party.",
+          "fullEnglishSentence": "His 「selfish behavior」 upset everyone at the party.",
+          "chineseTranslation": "他的「自私行为」让派对上的每个人都很不高兴。",
+          "chinglishFix": "中式英语：He behaves very ego. 纠正：He exhibits selfish behavior or He is very selfish."
+        }
+      ]
+    },
+    {
+      "meaning": "以自我为中心，关注自身感受或利益",
+      "usage": "强调一个人在决策或行动时主要考虑自己的利益，通常不考虑对他人的影响。可以用于描述性格特质或特定行为，语气可能比第一个含义稍轻，但仍带批评意味。",
+      "collocations": ["selfish attitude", "selfish decision", "selfish tendencies"],
+      "examples": [
+        {
+          "scene": "在一次朋友聚会中，有人提议去一家昂贵的餐厅，但其中一个朋友明知其他人预算有限，仍然坚持要去，因为他自己很喜欢那家餐厅的菜。",
+          "chineseIdea": "这种态度让人觉得他只考虑自己的喜好，完全不顾朋友们的经济情况，显得有些以自我为中心。",
+          "sentenceWithBlank": "His @ @ made it hard for others to enjoy the outing.",
+          "fullEnglishSentence": "His 「selfish attitude」 made it hard for others to enjoy the outing.",
+          "chineseTranslation": "他的「自私态度」让其他人难以享受这次聚会。",
+          "chinglishFix": "中式英语：His thinking is very self. 纠正：His attitude is very selfish or He has a selfish attitude."
+        },
+        {
+          "scene": "在公司分配年终奖金时，经理决定给自己分配更高的比例，尽管团队的贡献是集体努力的结果。",
+          "chineseIdea": "经理的决定让人觉得他只关心自己的利益，完全忽视了团队的共同努力，显得很不公平。",
+          "sentenceWithBlank": "The manager’s @ @ disappointed the entire team.",
+          "fullEnglishSentence": "The manager’s 「selfish decision」 disappointed the entire team.",
+          "chineseTranslation": "经理的「自私决定」让整个团队感到失望。",
+          "chinglishFix": "中式英语：He made a very self decision. 纠正：He made a selfish decision or His decision was very selfish."
+        }
+      ]
+    }
+  ]
+}
+```
