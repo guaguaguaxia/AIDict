@@ -1,0 +1,53 @@
+```json
+{
+  "word": "emphasize",
+  "definitions": [
+    {
+      "meaning": "突出或强调某事的重要性",
+      "usage": "用于表达某事需要特别关注或优先考虑，常用于演讲、写作或对话中以突出观点。",
+      "collocations": ["place emphasis on", "lay stress on", "highlight the importance of"],
+      "examples": [
+        {
+          "scene": "一位老师在课堂上向学生讲解如何准备期末考试，特别提到时间管理的重要性。",
+          "chineseIdea": "老师想让学生明白，合理安排时间是考试成功的关键。",
+          "sentenceWithBlank": "The teacher @ @ @ time management to ensure students succeed in their exams.",
+          "fullEnglishSentence": "The teacher 「places emphasis on」 time management to ensure students succeed in their exams.",
+          "chineseTranslation": "老师「特别强调」时间管理，以确保学生在考试中取得成功。",
+          "chinglishFix": "典型中式英语：'The teacher very stress time management.' 纠正：'The teacher places emphasis on time management.'"
+        },
+        {
+          "scene": "公司经理在团队会议上讨论新项目，提醒大家关注客户反馈。",
+          "chineseIdea": "经理希望团队优先考虑客户的需求和意见。",
+          "sentenceWithBlank": "The manager @ @ @ customer feedback during the project planning.",
+          "fullEnglishSentence": "The manager 「lays stress on」 customer feedback during the project planning.",
+          "chineseTranslation": "经理在项目规划中「特别强调」客户反馈。",
+          "chinglishFix": "典型中式英语：'The manager very focus customer feedback.' 纠正：'The manager lays stress on customer feedback.'"
+        }
+      ]
+    },
+    {
+      "meaning": "通过语言、语气或行动使某事物更明显",
+      "usage": "常用于通过语调、措辞或行为突出某一点，常见于口语或非正式场合。",
+      "collocations": ["stress the need for", "underline the value of", "draw attention to"],
+      "examples": [
+        {
+          "scene": "一位医生在社区健康讲座上向居民讲解预防流感的重要性，特别提到疫苗接种。",
+          "chineseIdea": "医生希望居民意识到接种疫苗是预防流感的关键措施。",
+          "sentenceWithBlank": "The doctor @ @ @ vaccination in preventing flu outbreaks.",
+          "fullEnglishSentence": "The doctor 「stresses the need for」 vaccination in preventing flu outbreaks.",
+          "chineseTranslation": "医生「强调了」疫苗接种在预防流感爆发中的必要性。",
+          "chinglishFix": "典型中式英语：'The doctor say vaccination is very important.' 纠正：'The doctor stresses the need for vaccination.'"
+        },
+        {
+          "scene": "一位环保活动家在集会上呼吁大家关注塑料污染问题，特别提到减少一次性塑料。",
+          "chineseIdea": "活动家希望通过演讲让大家注意到减少塑料使用的重要性。",
+          "sentenceWithBlank": "The activist @ @ @ reducing single-use plastics in her speech.",
+          "fullEnglishSentence": "The activist 「draws attention to」 reducing single-use plastics in her speech.",
+          "chineseTranslation": "活动家在演讲中「强调了」减少一次性塑料的重要性。",
+          "chinglishFix": "典型中式英语：'The activist talk about reduce plastics is important.' 纠正：'The activist draws attention to reducing single-use plastics.'"
+        }
+      ]
+    }
+  ]
+}
+```

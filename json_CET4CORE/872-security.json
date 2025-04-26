@@ -1,0 +1,76 @@
+```json
+{
+  "word": "security",
+  "definitions": [
+    {
+      "meaning": "安全，保护免受危险或威胁的状态",
+      "usage": "指物理、情感或环境的保护，强调免受伤害、危险或损失的状态，常用于描述个人、团体或国家的安全保障。",
+      "collocations": ["national security", "personal security", "enhance security", "security measures"],
+      "examples": [
+        {
+          "scene": "在一个国际机场，旅客需要通过安检才能登机。安检人员正在检查行李，确保没有危险物品。",
+          "chineseIdea": "为了保护旅客免受潜在威胁，机场采取严格的检查流程。",
+          "sentenceWithBlank": "The airport has implemented strict @ @ to protect passengers.",
+          "fullEnglishSentence": "The airport has implemented strict 「security measures」 to protect passengers.",
+          "chineseTranslation": "机场实施了严格的「安全措施」来保护乘客。",
+          "chinglishFix": "典型中式英语：'The airport makes strict safety check to protect people.' 纠正：'The airport implements strict security measures to protect passengers.'（避免直接翻译‘安全检查’，使用更自然的搭配‘security measures’）"
+        },
+        {
+          "scene": "一个国家正在讨论如何应对外部威胁，政府决定增加军事预算。",
+          "chineseIdea": "政府希望通过加强防御来确保国家的稳定和安全。",
+          "sentenceWithBlank": "The government is investing heavily to protect @ @.",
+          "fullEnglishSentence": "The government is investing heavily to protect 「national security」.",
+          "chineseTranslation": "政府正在大力投资以保护「国家安全」。",
+          "chinglishFix": "典型中式英语：'The government spends money for country safety.' 纠正：'The government is investing heavily to protect national security.'（使用‘national security’而非泛泛的‘safety’）"
+        }
+      ]
+    },
+    {
+      "meaning": "金融上的担保或保障",
+      "usage": "指在金融或经济背景下，作为债务偿还保证的资产或抵押品，也可指股票、债券等金融工具。",
+      "collocations": ["financial security", "government securities", "debt security", "provide security"],
+      "examples": [
+        {
+          "scene": "一个人正在申请银行贷款，银行要求提供抵押品以降低风险。",
+          "chineseIdea": "银行需要确保贷款人能够偿还债务，因此要求额外的担保。",
+          "sentenceWithBlank": "The bank required the borrower to @ @ to ensure repayment.",
+          "fullEnglishSentence": "The bank required the borrower to 「provide security」 to ensure repayment.",
+          "chineseTranslation": "银行要求借款人「提供担保」以确保还款。",
+          "chinglishFix": "典型中式英语：'The bank asks for a promise to pay back.' 纠正：'The bank required the borrower to provide security to ensure repayment.'（使用‘provide security’而非模糊的‘promise’）"
+        },
+        {
+          "scene": "一位投资者正在研究债券市场，希望购买稳定的金融产品。",
+          "chineseIdea": "投资者想通过购买政府发行的债券来获得稳定的回报。",
+          "sentenceWithBlank": "She decided to invest in @ @ for a safer return.",
+          "fullEnglishSentence": "She decided to invest in 「government securities」 for a safer return.",
+          "chineseTranslation": "她决定投资「政府债券」以获得更安全的回报。",
+          "chinglishFix": "典型中式英语：'She buys government papers for safe money.' 纠正：'She decided to invest in government securities for a safer return.'（使用‘government securities’而非‘papers’）"
+        }
+      ]
+    },
+    {
+      "meaning": "安全感，稳定感",
+      "usage": "指心理上或情感上的稳定和保障感，通常与生活、工作或关系的稳定性相关。",
+      "collocations": ["job security", "emotional security", "sense of security", "offer security"],
+      "examples": [
+        {
+          "scene": "一位员工在公司工作了十年，担心裁员会影响自己的生活。",
+          "chineseIdea": "员工希望公司能提供长期的稳定工作以维持生活。",
+          "sentenceWithBlank": "The company’s new policy aims to provide employees with greater @ @.",
+          "fullEnglishSentence": "The company’s new policy aims to provide employees with greater 「job security」.",
+          "chineseTranslation": "公司的新政策旨在为员工提供更大的「工作保障」。",
+          "chinglishFix": "典型中式英语：'The company gives safe work to employees.' 纠正：'The company’s new policy aims to provide employees with greater job security.'（使用‘job security’而非‘safe work’）"
+        },
+        {
+          "scene": "一位年轻人在新城市生活，感到孤独，渴望建立亲密关系。",
+          "chineseIdea": "他希望通过建立深厚的关系来获得内心的平静和归属感。",
+          "sentenceWithBlank": "Building strong relationships helped him find a @ @ @.",
+          "fullEnglishSentence": "Building strong relationships helped him find a 「sense of security」.",
+          "chineseTranslation": "建立牢固的关系帮助他找到一种「安全感」。",
+          "chinglishFix": "典型中式英语：'He feels safe with good friends.' 纠正：'Building strong relationships helped him find a sense of security.'（使用‘sense of security’而非简单的‘safe’）"
+        }
+      ]
+    }
+  ]
+}
+```
