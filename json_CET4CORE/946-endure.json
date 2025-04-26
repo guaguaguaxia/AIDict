@@ -1,0 +1,53 @@
+```json
+{
+  "word": "endure",
+  "definitions": [
+    {
+      "meaning": "承受或忍受（困难、痛苦或不愉快的事物）",
+      "usage": "指在面对困难、痛苦或挑战时坚持承受，通常带有一种坚韧或忍耐的含义，常用于描述人或事物在逆境中的持续。",
+      "collocations": ["endure hardship", "endure pain", "endure suffering", "endure criticism"],
+      "examples": [
+        {
+          "scene": "一位登山者在攀登珠穆朗玛峰时，面对极端寒冷和缺氧的恶劣环境，仍然坚持前行，展现了惊人的毅力。",
+          "chineseIdea": "在极端环境下坚持不懈，勇敢面对身体和精神的双重考验。",
+          "sentenceWithBlank": "She managed to @ @ despite the freezing temperatures and thin air.",
+          "fullEnglishSentence": "She managed to 「endure hardship」 despite the freezing temperatures and thin air.",
+          "chineseTranslation": "尽管气温极低且空气稀薄，她仍设法「忍受艰辛」。",
+          "chinglishFix": "中式英语：She bear the hard environment. 纠正：She endured the harsh conditions."
+        },
+        {
+          "scene": "一位运动员在比赛中受伤，但为了团队的荣誉，他咬牙坚持完成比赛。",
+          "chineseIdea": "在身体疼痛的情况下，依然选择坚持完成任务，体现责任感。",
+          "sentenceWithBlank": "He continued the race, choosing to @ @ rather than give up.",
+          "fullEnglishSentence": "He continued the race, choosing to 「endure pain」 rather than give up.",
+          "chineseTranslation": "他继续比赛，选择「忍受痛苦」而不是放弃。",
+          "chinglishFix": "中式英语：He tolerate the pain to finish. 纠正：He endured the pain to finish."
+        }
+      ]
+    },
+    {
+      "meaning": "持续或持久（某事物长时间存在或保持）",
+      "usage": "指某事物（如关系、传统、品质等）能够长时间维持或存在，通常带有一种稳定性或持久性的含义。",
+      "collocations": ["endure friendship", "endure legacy", "endure reputation", "endure tradition"],
+      "examples": [
+        {
+          "scene": "两位老朋友虽然分隔两地，但通过书信和偶尔见面，他们的友谊跨越了数十年。",
+          "chineseIdea": "友谊在时间和距离的考验下依然保持牢固。",
+          "sentenceWithBlank": "Their @ @ has lasted for over thirty years despite living in different countries.",
+          "fullEnglishSentence": "Their 「endure friendship」 has lasted for over thirty years despite living in different countries.",
+          "chineseTranslation": "他们的「持久友谊」尽管身处不同国家，仍持续了三十多年。",
+          "chinglishFix": "中式英语：Their friendship keep long time. 纠正：Their friendship has endured for a long time."
+        },
+        {
+          "scene": "一个家族经营的餐馆因其独特的菜肴和优良的服务，在小镇上屹立了三代。",
+          "chineseIdea": "家族企业的声誉因品质而得以长久维持。",
+          "sentenceWithBlank": "The restaurant’s @ @ continues to attract customers after decades.",
+          "fullEnglishSentence": "The restaurant’s 「endure reputation」 continues to attract customers after decades.",
+          "chineseTranslation": "这家餐厅的「持久声誉」在几十年后仍吸引着顾客。",
+          "chinglishFix": "中式英语：The restaurant’s name last long. 纠正：The restaurant’s reputation has endured."
+        }
+      ]
+    }
+  ]
+}
+```
