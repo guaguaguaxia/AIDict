@@ -1,0 +1,30 @@
+```json
+{
+  "word": "disservice",
+  "definitions": [
+    {
+      "meaning": "有害的行为或行动，通常是无意中对某人或某事造成不利影响",
+      "usage": "指通过行动或疏忽对某人或某事造成损害，通常带有无意或好心办坏事的含义。常见于批评某行为或决定对他人利益的负面影响。",
+      "collocations": ["do a disservice to", "great disservice", "serious disservice"],
+      "examples": [
+        {
+          "scene": "在一所学校里，老师为了让课堂更有趣，决定只教学生简单的英文歌曲，而不是系统的语法和词汇。学生们虽然很开心，但他们的英语水平没有实质性提高，家长们开始抱怨。",
+          "chineseIdea": "老师的本意是让学习变得有趣，但实际上这种教学方式限制了学生的英语发展，是一种误导。",
+          "sentenceWithBlank": "By focusing only on songs, the teacher @ @ @ the students' language development.",
+          "fullEnglishSentence": "By focusing only on songs, the teacher 「did a disservice to」 the students' language development.",
+          "chineseTranslation": "通过只专注于歌曲，老师「对学生语言发展造成了损害」。",
+          "chinglishFix": "典型中式英语：'The teacher made a bad influence to students' learning.' 纠正：'The teacher did a disservice to the students’ learning.'（'make a bad influence'不够地道，'do a disservice'更准确表达无意中的损害）"
+        },
+        {
+          "scene": "在一个团队项目中，经理为了保护一位新员工的自信心，总是夸大他的贡献，而忽略了其他团队成员的努力。这让团队士气低落，其他成员感到不公平。",
+          "chineseIdea": "经理的本意是鼓励新人，但这种做法实际上损害了整个团队的合作精神。",
+          "sentenceWithBlank": "By overpraising the new employee, the manager did a @ @ to the team's morale.",
+          "fullEnglishSentence": "By overpraising the new employee, the manager did a 「great disservice」 to the team's morale.",
+          "chineseTranslation": "通过过度表扬新员工，经理「对团队士气造成了重大损害」。",
+          "chinglishFix": "典型中式英语：'The manager hurt the team’s spirit.' 纠正：'The manager did a great disservice to the team’s morale.'（'hurt the spirit'显得模糊，'do a great disservice'更具体且正式）"
+        }
+      ]
+    }
+  ]
+}
+```

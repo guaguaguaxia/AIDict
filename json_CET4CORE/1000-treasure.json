@@ -1,0 +1,76 @@
+```json
+{
+  "word": "treasure",
+  "definitions": [
+    {
+      "meaning": "珍贵的物品或财富，通常指隐藏或珍藏的金银财宝",
+      "usage": "用作可数或不可数名词，指贵重物品、珠宝或财富，常用于描述具有物质价值的珍藏品，带有冒险或浪漫的色彩。",
+      "collocations": ["hidden treasure", "buried treasure", "find treasure"],
+      "examples": [
+        {
+          "scene": "一群孩子在暑假期间，决定去村子附近的老房子探险。他们听说那里曾住过一位富有的商人，传说他把财富藏在了某处。孩子们带着铲子和地图，兴奋地挖掘着后院。",
+          "chineseIdea": "孩子们梦想发现传说中的金银财宝，想象自己找到一箱金币或珠宝，改变生活。",
+          "sentenceWithBlank": "The kids spent all summer searching for @ @ in the old mansion’s backyard.",
+          "fullEnglishSentence": "The kids spent all summer searching for 「hidden treasure」 in the old mansion’s backyard.",
+          "chineseTranslation": "孩子们整个夏天都在老宅的后院寻找「隐藏的财宝」。",
+          "chinglishFix": "典型中式英语：'The kids look for treasure hidden.' 纠正：'The kids are searching for hidden treasure.'（注意搭配和语序，'hidden treasure'是固定表达，动词'search for'更自然。）"
+        },
+        {
+          "scene": "在一部冒险电影中，主人公是一位考古学家，他在沙漠中发现了一座古墓。根据古老的地图，他相信墓中藏有法老的珍贵文物。",
+          "chineseIdea": "主人公希望找到古代的珍宝，比如黄金面具或珠宝，这些物品不仅有经济价值，还有历史意义。",
+          "sentenceWithBlank": "The archaeologist uncovered @ @ in the ancient tomb after years of research.",
+          "fullEnglishSentence": "The archaeologist uncovered 「buried treasure」 in the ancient tomb after years of research.",
+          "chineseTranslation": "考古学家经过多年研究，在古墓中发现了「埋藏的财宝」。",
+          "chinglishFix": "典型中式英语：'He found treasure buried in tomb.' 纠正：'He uncovered buried treasure in the ancient tomb.'（'buried treasure'是固定搭配，'uncover'比'find'更适合考古场景。）"
+        }
+      ]
+    },
+    {
+      "meaning": "非常珍视的人或事物，通常带有情感价值",
+      "usage": "用作可数名词或不可数名词，指被深爱或高度重视的人、事物或品质，常用于表达亲密或珍视的情感。",
+      "collocations": ["national treasure", "real treasure", "cherish as a treasure"],
+      "examples": [
+        {
+          "scene": "一位老人在社区活动中分享他与妻子的故事。他们结婚50年，经历了无数风雨，他总是称妻子为他生命中最珍贵的人。",
+          "chineseIdea": "老人把妻子视为无价之宝，因为她陪伴他走过人生，给予支持和爱。",
+          "sentenceWithBlank": "He always said his wife was a @ @ in his life.",
+          "fullEnglishSentence": "He always said his wife was a 「real treasure」 in his life.",
+          "chineseTranslation": "他总是说他的妻子是他生命中的「真正珍宝」。",
+          "chinglishFix": "典型中式英语：'My wife is my treasure.' 纠正：'My wife is a real treasure.'（'real treasure'更强调情感上的珍贵，且更符合英语表达习惯。）"
+        },
+        {
+          "scene": "在一个博物馆的开幕式上，馆长向观众介绍一件古代陶器，称其为国家的文化遗产，象征着民族的历史和智慧。",
+          "chineseIdea": "馆长认为这件文物不仅是艺术品，更是国家文化的象征，值得所有人珍视。",
+          "sentenceWithBlank": "The curator described the ancient vase as a @ @ to the nation.",
+          "fullEnglishSentence": "The curator described the ancient vase as a 「national treasure」 to the nation.",
+          "chineseTranslation": "馆长将这件古 vase 描述为国家的「国宝」。",
+          "chinglishFix": "典型中式英语：'This vase is treasure of nation.' 纠正：'This vase is a national treasure.'（'national treasure'是固定搭配，冠词'a'不可省略。）"
+        }
+      ]
+    },
+    {
+      "meaning": "动词，表示珍视或珍藏某物",
+      "usage": "用作动词，指非常珍爱某物或某人，通常带有深厚的情感，强调小心保存或高度重视。",
+      "collocations": ["treasure a memory", "treasure a moment", "treasure forever"],
+      "examples": [
+        {
+          "scene": "一位母亲在整理旧物时，找到女儿小时候画的一幅画。虽然画得很简单，但对她来说，这幅画承载了珍贵的回忆。",
+          "chineseIdea": "母亲非常珍视这幅画，因为它让她想起女儿小时候的快乐时光。",
+          "sentenceWithBlank": "She will always @ @ of her daughter’s first drawing.",
+          "fullEnglishSentence": "She will always 「treasure a memory」 of her daughter’s first drawing.",
+          "chineseTranslation": "她将永远「珍视一段回忆」，关于女儿的第一幅画。",
+          "chinglishFix": "典型中式英语：'I treasure my daughter’s drawing memory.' 纠正：'I treasure the memory of my daughter’s drawing.'（'treasure a memory'是固定搭配，需明确宾语结构。）"
+        },
+        {
+          "scene": "一对情侣在海边度过了一个浪漫的夜晚，彼此承诺会永远记住这个特别的时刻。他们手牵手，许下心愿。",
+          "chineseIdea": "他们希望将这个浪漫的夜晚当作人生中最珍贵的时刻，永远铭记。",
+          "sentenceWithBlank": "They promised to @ @ from that night by the sea.",
+          "fullEnglishSentence": "They promised to 「treasure a moment」 from that night by the sea.",
+          "chineseTranslation": "他们承诺要「珍视一刻」，来自那个海边的夜晚。",
+          "chinglishFix": "典型中式英语：'We treasure this night moment.' 纠正：'We treasure the moment from that night.'（'treasure a moment'是固定搭配，介词'from'使语义更清晰。）"
+        }
+      ]
+    }
+  ]
+}
+```

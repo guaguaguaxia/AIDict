@@ -1,0 +1,76 @@
+```json
+{
+  "word": "shock",
+  "definitions": [
+    {
+      "meaning": "突如其来的强烈冲击或惊讶（情感上的震撼）",
+      "usage": "指由于意外、令人不安或出乎意料的事件而引起的强烈情绪反应，通常用于描述惊讶、震惊或难以置信的感觉。",
+      "collocations": ["in shock", "culture shock", "electric shock"],
+      "examples": [
+        {
+          "scene": "一位年轻人刚刚得知自己的大学申请被所有顶尖学校拒绝，他感到非常失落和意外。",
+          "chineseIdea": "他因为这个坏消息感到非常震惊，像是被雷击中一样，整个人都呆住了。",
+          "sentenceWithBlank": "He was @ @ after hearing the rejection news from all his dream schools.",
+          "fullEnglishSentence": "He was 「in shock」 after hearing the rejection news from all his dream schools.",
+          "chineseTranslation": "他在听到所有梦想学校的拒绝消息后「震惊不已」。",
+          "chinglishFix": "典型中式英语：'He was very shock.' 纠正：'He was in shock.' 或 'He was shocked.'"
+        },
+        {
+          "scene": "一位中国留学生刚到美国，面对完全不同的生活方式和社交习惯，感到很不适应。",
+          "chineseIdea": "她觉得自己像是进入了一个完全陌生的世界，所有的文化差异让她感到困惑和不安。",
+          "sentenceWithBlank": "Moving to a new country caused her to experience @ @.",
+          "fullEnglishSentence": "Moving to a new country caused her to experience 「culture shock」.",
+          "chineseTranslation": "搬到一个新国家让她经历了「文化冲击」。",
+          "chinglishFix": "典型中式英语：'She felt culture shocking.' 纠正：'She experienced culture shock.'"
+        }
+      ]
+    },
+    {
+      "meaning": "物理上的冲击或电击",
+      "usage": "指物理上的突然撞击或电流通过身体引起的反应，常用于描述电击或机械冲击。",
+      "collocations": ["electric shock", "shock absorber", "shock wave"],
+      "examples": [
+        {
+          "scene": "一位电工在修理电路时不小心触碰了裸露的电线，身体被电了一下。",
+          "chineseIdea": "他因为触碰电线而感到一阵强烈的刺痛，整个人都抖了一下。",
+          "sentenceWithBlank": "The electrician received an @ @ while working on the wiring.",
+          "fullEnglishSentence": "The electrician received an 「electric shock」 while working on the wiring.",
+          "chineseTranslation": "电工在修理电线时受到了「电击」。",
+          "chinglishFix": "典型中式英语：'He was shocked by electricity.' 纠正：'He received an electric shock.'"
+        },
+        {
+          "scene": "一辆汽车行驶在崎岖的山路上，车身的减震器帮助减少颠簸带来的不适。",
+          "chineseIdea": "汽车在不平坦的路上行驶时，减震器吸收了大部分的震动，让乘客感觉更舒适。",
+          "sentenceWithBlank": "The car’s @ @ helped smooth out the bumpy ride.",
+          "fullEnglishSentence": "The car’s 「shock absorber」 helped smooth out the bumpy ride.",
+          "chineseTranslation": "汽车的「减震器」帮助缓解了颠簸的行驶体验。",
+          "chinglishFix": "典型中式英语：'The car’s shock reducer worked well.' 纠正：'The car’s shock absorber worked well.'"
+        }
+      ]
+    },
+    {
+      "meaning": "震惊或令人不安的事物（某件出乎意料的事件或消息）",
+      "usage": "指某件令人震惊或意外的事件、消息，通常带有负面或令人不安的含义。",
+      "collocations": ["come as a shock", "shock to the system", "shock tactics"],
+      "examples": [
+        {
+          "scene": "一位员工突然听说公司将要裁员，而自己也在裁员名单上，感到非常意外。",
+          "chineseIdea": "这个消息对他来说完全是个晴天霹雳，他从未想到自己会失去这份工作。",
+          "sentenceWithBlank": "The news of the layoffs @ @ @ to him.",
+          "fullEnglishSentence": "The news of the layoffs 「came as a shock」 to him.",
+          "chineseTranslation": "裁员的消息对他来说「令人震惊」。",
+          "chinglishFix": "典型中式英语：'The news shocked him a lot.' 纠正：'The news came as a shock to him.'"
+        },
+        {
+          "scene": "一位年轻人因为长期不健康的生活方式被诊断出健康问题，这让他开始重新审视自己的习惯。",
+          "chineseIdea": "这个诊断结果让他意识到自己需要改变生活方式，否则健康会继续恶化。",
+          "sentenceWithBlank": "The diagnosis was a @ @ @, prompting him to change his lifestyle.",
+          "fullEnglishSentence": "The diagnosis was a 「shock to the system」, prompting him to change his lifestyle.",
+          "chineseTranslation": "这个诊断结果对他来说是「一次重大冲击」，促使他改变生活方式。",
+          "chinglishFix": "典型中式英语：'The diagnosis was a big shock for his body.' 纠正：'The diagnosis was a shock to the system.'"
+        }
+      ]
+    }
+  ]
+}
+```
