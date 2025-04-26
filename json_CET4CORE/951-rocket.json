@@ -1,0 +1,76 @@
+```json
+{
+  "word": "rocket",
+  "definitions": [
+    {
+      "meaning": "一种用于航天或军事的推进装置，通常指火箭或导弹",
+      "usage": "指一种通过喷射气体产生推力以高速移动的装置，常用于描述航天器、导弹或烟花等。可以用作名词，表示物理物体；也可用作动词，表示快速上升或激增。",
+      "collocations": ["launch a rocket", "space rocket", "rocket into orbit"],
+      "examples": [
+        {
+          "scene": "在一个航天发射基地，工程师们正在为一次重要的太空任务做准备。现场充满了紧张和期待的气氛，因为这是国家首次尝试将卫星送入轨道。",
+          "chineseIdea": "描述一个航天器被发射进入太空的过程，强调技术和壮观的场面。",
+          "sentenceWithBlank": "The team worked tirelessly to @ @ @ before the deadline.",
+          "fullEnglishSentence": "The team worked tirelessly to 「launch a rocket」 before the deadline.",
+          "chineseTranslation": "团队不懈努力，以在截止日期前「发射火箭」。",
+          "chinglishFix": "典型中式英语：'Send a rocket to sky.' 纠正：'Launch a rocket into space.' 说明：'send to sky' 过于直译且不准确，'launch' 是航天领域的专业动词，'into space' 更符合语境。"
+        },
+        {
+          "scene": "在一个科技博物馆，孩子们围绕着一个巨大的模型，导游正在讲解人类如何探索宇宙。孩子们对模型的细节着迷，想象自己是宇航员。",
+          "chineseIdea": "描述一个用于探索宇宙的航天器，突出科技感和探索精神。",
+          "sentenceWithBlank": "The exhibit featured a model of a @ @ used in the moon mission.",
+          "fullEnglishSentence": "The exhibit featured a model of a 「space rocket」 used in the moon mission.",
+          "chineseTranslation": "展览展示了一个用于登月任务的「太空火箭」模型。",
+          "chinglishFix": "典型中式英语：'Rocket for space.' 纠正：'Space rocket.' 说明：'for space' 语法正确但不地道，'space rocket' 是固定搭配，简洁且专业。"
+        }
+      ]
+    },
+    {
+      "meaning": "快速上升或激增，常用于描述价格、销量、声誉等",
+      "usage": "用作动词，表示某事物以极快的速度增长或提升，常见于商业、体育或娱乐领域。也可作名词，指快速成功的人或事物。",
+      "collocations": ["rocket to fame", "prices rocket", "rocket to success"],
+      "examples": [
+        {
+          "scene": "在一个娱乐新闻发布会上，记者们争相报道一位新晋歌手如何因一首热门歌曲而迅速走红。粉丝们在社交媒体上疯狂转发她的视频。",
+          "chineseIdea": "描述一个人因某件事迅速成名，强调速度和影响力。",
+          "sentenceWithBlank": "The young singer @ @ @ after her viral hit song.",
+          "fullEnglishSentence": "The young singer 「rocketed to fame」 after her viral hit song.",
+          "chineseTranslation": "这位年轻歌手在她的热门歌曲走红后「迅速成名」。",
+          "chinglishFix": "典型中式英语：'She become famous very fast.' 纠正：'She rocketed to fame.' 说明：'become famous very fast' 虽可理解，但缺乏英语母语者的表达力度，'rocket to fame' 是更生动且地道的搭配。"
+        },
+        {
+          "scene": "在一个经济论坛上，分析师们讨论由于全球需求激增，某些商品的价格在短时间内大幅上涨。听众们对市场趋势表现出浓厚兴趣。",
+          "chineseIdea": "描述市场价格因供需变化而快速上涨，突出经济现象。",
+          "sentenceWithBlank": "Due to high demand, the cost of raw materials @ @ this quarter.",
+          "fullEnglishSentence": "Due to high demand, the cost of raw materials 「rocketed」 this quarter.",
+          "chineseTranslation": "由于需求旺盛，本季度原材料成本「激增」。",
+          "chinglishFix": "典型中式英语：'Price go up very much.' 纠正：'Prices rocketed.' 说明：'go up very much' 过于简单且不正式，'rocket' 作为动词更能体现价格剧烈上涨的动态感。"
+        }
+      ]
+    },
+    {
+      "meaning": "一种蔬菜，特指芝麻菜（arugula）",
+      "usage": "用作名词，指一种带有辛辣味道的绿叶蔬菜，常用于沙拉或烹饪中，尤其在西餐中常见。",
+      "collocations": ["rocket salad", "fresh rocket", "rocket leaves"],
+      "examples": [
+        {
+          "scene": "在一个高档餐厅，服务员向客人推荐一道清爽的沙拉，里面搭配了新鲜的蔬菜和特制酱料，吸引了注重健康的食客。",
+          "chineseIdea": "描述一道以某种蔬菜为主的健康菜品，强调清新和美味。",
+          "sentenceWithBlank": "The chef prepared a delicious @ @ with goat cheese and walnuts.",
+          "fullEnglishSentence": "The chef prepared a delicious 「rocket salad」 with goat cheese and walnuts.",
+          "chineseTranslation": "厨师准备了一道美味的「芝麻菜沙拉」，搭配山羊奶酪和核桃。",
+          "chinglishFix": "典型中式英语：'Vegetable salad with spicy leaf.' 纠正：'Rocket salad.' 说明：'spicy leaf' 试图直译但不准确，'rocket salad' 是标准英文名称，指具体的芝麻菜沙拉。"
+        },
+        {
+          "scene": "在一个农贸市场，摊主向顾客介绍当季的新鲜蔬菜，特别推荐一种带有独特口感的绿叶菜，适合家庭烹饪。",
+          "chineseIdea": "描述一种新鲜采摘的蔬菜，突出其品质和用途。",
+          "sentenceWithBlank": "The vendor recommended adding @ @ to the pasta dish for extra flavor.",
+          "fullEnglishSentence": "The vendor recommended adding 「fresh rocket」 to the pasta dish for extra flavor.",
+          "chineseTranslation": "摊主建议在意大利面中加入「新鲜芝麻菜」以增添风味。",
+          "chinglishFix": "典型中式英语：'Put green leaf in pasta.' 纠正：'Add fresh rocket to the pasta.' 说明：'green leaf' 过于笼统，'fresh rocket' 明确指芝麻菜，且搭配 'add' 更符合烹饪语境。"
+        }
+      ]
+    }
+  ]
+}
+```

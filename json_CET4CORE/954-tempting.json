@@ -1,0 +1,53 @@
+```json
+{
+  "word": "tempting",
+  "definitions": [
+    {
+      "meaning": "吸引人的，有诱惑力的（描述某事物让人想要尝试或拥有）",
+      "usage": "通常用作形容词，描述某事物因其吸引力而让人产生欲望，常用于食物、提议、机会等场景。",
+      "collocations": ["a tempting offer", "tempting food", "tempting prospect", "tempting deal"],
+      "examples": [
+        {
+          "scene": "你走进一家咖啡店，柜台上摆满了刚出炉的甜点，巧克力蛋糕散发着浓郁的香气，奶油装饰精致，看起来非常诱人。你犹豫是否要买一块。",
+          "chineseIdea": "你被蛋糕的外观和香味吸引，内心挣扎是否要打破节食计划。",
+          "sentenceWithBlank": "The chocolate cake on display was so @ @ that I couldn’t resist ordering a slice.",
+          "fullEnglishSentence": "The chocolate cake on display was so 「tempting food」 that I couldn’t resist ordering a slice.",
+          "chineseTranslation": "展示柜上的巧克力蛋糕是如此「诱人的食物」，我忍不住点了一块。",
+          "chinglishFix": "中式英语：'The cake looks very attract me.' 纠正：'The cake looks very tempting.'（避免直接翻译'吸引我'，用'tempting'更自然。）"
+        },
+        {
+          "scene": "你在网上购物，看到一个限时折扣的广告，促销一个你一直想要的电子产品，价格非常划算，但你预算有限。",
+          "chineseIdea": "你觉得这个折扣很吸引人，但担心花太多钱会影响其他计划。",
+          "sentenceWithBlank": "The online store had @ @ @ that made me consider buying the gadget immediately.",
+          "fullEnglishSentence": "The online store had 「a tempting offer」 that made me consider buying the gadget immediately.",
+          "chineseTranslation": "网店有一个「诱人的优惠」，让我考虑立刻购买那个电子产品。",
+          "chinglishFix": "中式英语：'The discount is very seduction.' 纠正：'The discount is very tempting.'（'seduction'不适用于描述优惠，'tempting'更贴切。）"
+        }
+      ]
+    },
+    {
+      "meaning": "引诱的，诱惑的（指故意吸引某人做某事，带有一点负面含义）",
+      "usage": "用作形容词，描述某事物或行为有意吸引他人去做某事，可能涉及道德或理智的挣扎，常用于描述诱惑性的行为或选择。",
+      "collocations": ["tempting fate", "tempting choice", "tempting path"],
+      "examples": [
+        {
+          "scene": "你和朋友在山上徒步，天气开始变差，但你们距离山顶很近。朋友建议继续前行，尽管你知道这可能不安全。",
+          "chineseIdea": "你觉得继续前行很吸引人，但担心这是在冒险。",
+          "sentenceWithBlank": "Ignoring the storm warnings and climbing higher seemed like @ @, but I knew it was risky.",
+          "fullEnglishSentence": "Ignoring the storm warnings and climbing higher seemed like 「tempting fate」, but I knew it was risky.",
+          "chineseTranslation": "无视风暴警告继续攀登似乎是「在冒险」，但我知道这很危险。",
+          "chinglishFix": "中式英语：'Climbing higher is challenge fate.' 纠正：'Climbing higher is tempting fate.'（'challenge fate'不地道，'tempting fate'是固定表达。）"
+        },
+        {
+          "scene": "你在公司工作，同事提议你们偷偷提前下班去酒吧，因为老板不在。提议听起来很有趣，但你担心被发现。",
+          "chineseIdea": "你被提前下班的提议吸引，但知道这可能会违反规定。",
+          "sentenceWithBlank": "Skipping work early for drinks was @ @, but I didn’t want to risk getting caught.",
+          "fullEnglishSentence": "Skipping work early for drinks was 「a tempting choice」, but I didn’t want to risk getting caught.",
+          "chineseTranslation": "提前下班去喝酒是一个「诱人的选择」，但我不想冒险被抓。",
+          "chinglishFix": "中式英语：'Leaving early is very attract choice.' 纠正：'Leaving early is a tempting choice.'（'attract choice'语法错误，'tempting choice'更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "feasible",
+  "definitions": [
+    {
+      "meaning": "可能的；可行的（指某事在现有条件下能够实现或完成）",
+      "usage": "通常用于描述计划、方法、建议或解决方案在实际操作中是可行的，常用于正式或技术性语境。",
+      "collocations": ["technically feasible", "economically feasible", "feasible solution"],
+      "examples": [
+        {
+          "scene": "一家科技公司正在讨论开发一款新型智能手机。他们需要评估是否能在预算和时间内完成。",
+          "chineseIdea": "团队想确认新产品的开发在技术和经济上是否可行。",
+          "sentenceWithBlank": "After reviewing the resources, the team concluded that the project was @ @.",
+          "fullEnglishSentence": "After reviewing the resources, the team concluded that the project was 「technically feasible」.",
+          "chineseTranslation": "在审查了资源后，团队得出结论，该项目在「技术上可行」。",
+          "chinglishFix": "典型中式英语：'The project can do technically.' 纠正：'The project is technically feasible.'"
+        },
+        {
+          "scene": "一个城市规划委员会在讨论建造一座新桥梁的可能性，预算是一个关键因素。",
+          "chineseIdea": "委员会需要确认新桥梁的建设在经济上是否可行。",
+          "sentenceWithBlank": "The committee determined that building the bridge was @ @ due to the high costs.",
+          "fullEnglishSentence": "The committee determined that building the bridge was not 「economically feasible」 due to the high costs.",
+          "chineseTranslation": "委员会认定，由于成本高，建桥在「经济上不可行」。",
+          "chinglishFix": "典型中式英语：'Build bridge no money enough.' 纠正：'Building the bridge is not economically feasible.'"
+        }
+      ]
+    },
+    {
+      "meaning": "合理的；适当的（指某事在特定情境下是可接受或适合的）",
+      "usage": "用于描述某建议、行动或选择在特定情况下是合理或适合的，通常带有主观判断。",
+      "collocations": ["feasible option", "feasible approach", "feasible plan"],
+      "examples": [
+        {
+          "scene": "一个学生在准备大学申请时，考虑是否申请多所顶尖大学。",
+          "chineseIdea": "学生想选择一个既省时又有可能成功的申请策略。",
+          "sentenceWithBlank": "Applying to ten universities might not be a @ @ for her limited time.",
+          "fullEnglishSentence": "Applying to ten universities might not be a 「feasible option」 for her limited time.",
+          "chineseTranslation": "申请十所大学对她有限的时间来说可能不是一个「可行的选择」。",
+          "chinglishFix": "典型中式英语：'Apply ten schools not good.' 纠正：'Applying to ten universities is not a feasible option.'"
+        },
+        {
+          "scene": "一家小型企业在制定年度营销策略时，讨论如何在有限预算下推广产品。",
+          "chineseIdea": "企业希望找到一个适合资源限制的营销方式。",
+          "sentenceWithBlank": "The manager proposed a @ @ that focused on social media campaigns.",
+          "fullEnglishSentence": "The manager proposed a 「feasible approach」 that focused on social media campaigns.",
+          "chineseTranslation": "经理提出了一个「可行的方法」，专注于社交媒体宣传。",
+          "chinglishFix": "典型中式英语：'We use social media is ok.' 纠正：'A feasible approach is to focus on social media campaigns.'"
+        }
+      ]
+    }
+  ]
+}
+```
