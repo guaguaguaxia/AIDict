@@ -1,0 +1,76 @@
+```json
+{
+  "word": "schedule",
+  "definitions": [
+    {
+      "meaning": "安排或计划的时间表",
+      "usage": "指制定或遵循一个时间表，用于安排活动、会议、课程等，通常与固定的时间点或期限相关。常用于正式或半正式的语境，如工作、学习或旅行。",
+      "collocations": ["set a schedule", "follow a schedule", "tight schedule", "daily schedule", "flexible schedule"],
+      "examples": [
+        {
+          "scene": "一个大学生在开学第一周需要规划自己的课程和社团活动时间。她坐在宿舍的书桌前，打开笔记本电脑，开始整理每周的安排。",
+          "chineseIdea": "她想要确保每门课、社团活动和自习时间都能合理分配，避免时间冲突，同时留出休息时间。",
+          "sentenceWithBlank": "She spent the evening @ @ @ to organize her classes and club activities.",
+          "fullEnglishSentence": "She spent the evening 「setting a schedule」 to organize her classes and club activities.",
+          "chineseTranslation": "她花了一个晚上「制定时间表」来安排课程和社团活动。",
+          "chinglishFix": "典型中式英语：She 'make a time table' for her classes. 纠正：Use 'set a schedule' instead of 'make a time table' for natural English."
+        },
+        {
+          "scene": "一位项目经理在公司会议上向团队说明项目的进展。他提到因为客户需求的变化，团队需要严格遵守时间安排。",
+          "chineseIdea": "他希望团队能按照既定的时间表推进工作，确保项目按时完成。",
+          "sentenceWithBlank": "The team must @ @ @ to meet the project deadlines.",
+          "fullEnglishSentence": "The team must 「follow a schedule」 to meet the project deadlines.",
+          "chineseTranslation": "团队必须「遵循时间表」以满足项目截止日期。",
+          "chinglishFix": "典型中式英语：The team must 'obey the time plan'. 纠正：Use 'follow a schedule' instead of 'obey the time plan' for natural expression."
+        }
+      ]
+    },
+    {
+      "meaning": "日程安排或行程",
+      "usage": "指某人或某事的具体行程安排，通常与旅行、会议或活动相关。强调的是事件的具体时间和顺序，常用于描述较短期的计划。",
+      "collocations": ["busy schedule", "travel schedule", "meeting schedule", "event schedule", "packed schedule"],
+      "examples": [
+        {
+          "scene": "一位商务人士在出差前与助理确认未来一周的行程。他需要知道每个会议的时间和地点，以便做好准备。",
+          "chineseIdea": "他希望了解所有会议和活动的具体时间安排，确保出差期间高效工作。",
+          "sentenceWithBlank": "He reviewed his @ @ to prepare for the week-long business trip.",
+          "fullEnglishSentence": "He reviewed his 「meeting schedule」 to prepare for the week-long business trip.",
+          "chineseTranslation": "他审视了「会议日程」以准备为期一周的商务旅行。",
+          "chinglishFix": "典型中式英语：He checked his 'meeting time table'. 纠正：Use 'meeting schedule' instead of 'meeting time table' for a more natural term."
+        },
+        {
+          "scene": "一位音乐节的组织者在活动开始前与志愿者确认当天的活动安排。她需要确保每个表演和摊位的时间都清晰。",
+          "chineseIdea": "她想让志愿者知道每个活动的时间和顺序，确保音乐节顺利进行。",
+          "sentenceWithBlank": "She shared the @ @ with the volunteers to ensure smooth operations.",
+          "fullEnglishSentence": "She shared the 「event schedule」 with the volunteers to ensure smooth operations.",
+          "chineseTranslation": "她与志愿者分享了「活动日程」以确保顺利运作。",
+          "chinglishFix": "典型中式英语：She gave the 'activity time list' to volunteers. 纠正：Use 'event schedule' instead of 'activity time list' for clarity and naturalness."
+        }
+      ]
+    },
+    {
+      "meaning": "预定或安排（动词）",
+      "usage": "作为动词，意为安排某事在特定时间发生，常用于会议、预约、活动等。强调主动安排的行为，通常与具体的活动或事件搭配。",
+      "collocations": ["schedule a meeting", "schedule an appointment", "schedule a call", "schedule a visit", "schedule a session"],
+      "examples": [
+        {
+          "scene": "一位医生在医院的办公室里接到患者的电话，患者希望尽快安排一次检查。医生打开电脑查看自己的日程。",
+          "chineseIdea": "医生需要为患者安排一个合适的时间进行检查，同时确保不与其他预约冲突。",
+          "sentenceWithBlank": "The doctor offered to @ @ @ for the patient next week.",
+          "fullEnglishSentence": "The doctor offered to 「schedule an appointment」 for the patient next week.",
+          "chineseTranslation": "医生提出为患者「安排一次预约」在下周。",
+          "chinglishFix": "典型中式英语：The doctor will 'book a time' for the patient. 纠正：Use 'schedule an appointment' instead of 'book a time' for professional contexts."
+        },
+        {
+          "scene": "一位经理在与海外客户沟通时，需要安排一次视频会议。他通过邮件与客户确认合适的时间。",
+          "chineseIdea": "他希望找到一个双方都方便的时间进行讨论，确保沟通顺畅。",
+          "sentenceWithBlank": "He proposed to @ @ @ with the client to discuss the contract.",
+          "fullEnglishSentence": "He proposed to 「schedule a call」 with the client to discuss the contract.",
+          "chineseTranslation": "他提议与客户「安排一次通话」以讨论合同。",
+          "chinglishFix": "典型中式英语：He suggested to 'fix a call time' with the client. 纠正：Use 'schedule a call' instead of 'fix a call time' for natural phrasing."
+        }
+      ]
+    }
+  ]
+}
+```

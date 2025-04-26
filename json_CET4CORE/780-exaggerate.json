@@ -1,0 +1,53 @@
+```json
+{
+  "word": "exaggerate",
+  "definitions": [
+    {
+      "meaning": "To make something seem larger, more important, better, or worse than it really is",
+      "usage": "This meaning is often used when someone describes something in a way that is not entirely truthful, amplifying details to create a stronger impression. It can be used in both positive and negative contexts, such as boasting, storytelling, or expressing emotions.",
+      "collocations": ["exaggerate the truth", "exaggerate the importance", "exaggerate the problem"],
+      "examples": [
+        {
+          "scene": "在一个朋友聚会上，小明分享他在最近一次旅行中的经历。他想让故事听起来更激动人心，于是稍微夸大了他在山上遇到的危险。",
+          "chineseIdea": "为了让听众觉得故事更吸引人，小明故意把危险的程度描述得比实际情况更严重。",
+          "sentenceWithBlank": "He tends to @ @ @ when he talks about his adventures.",
+          "fullEnglishSentence": "He tends to 「exaggerate the truth」 when he talks about his adventures.",
+          "chineseTranslation": "他在讲述自己的冒险经历时，往往会「夸大事实」。",
+          "chinglishFix": "Chinglish: He always makes the truth bigger when talking about adventures.\nCorrected: He tends to exaggerate the truth when talking about his adventures."
+        },
+        {
+          "scene": "在公司会议上，李经理为了强调项目的重要性，向团队描述了客户对项目的期望。她稍微夸大了客户的需求，以激励团队更加努力。",
+          "chineseIdea": "李经理希望通过突出项目的重要性来调动团队的积极性，因此在描述客户期望时加入了一些夸张的成分。",
+          "sentenceWithBlank": "She often @ @ @ to motivate her team.",
+          "fullEnglishSentence": "She often 「exaggerates the importance」 to motivate her team.",
+          "chineseTranslation": "她经常「夸大重要性」来激励她的团队。",
+          "chinglishFix": "Chinglish: She always makes the importance too big to encourage the team.\nCorrected: She often exaggerates the importance to motivate her team."
+        }
+      ]
+    },
+    {
+      "meaning": "To describe something in an overly dramatic or extreme way",
+      "usage": "This meaning is commonly used when someone uses overly strong language or emotions to describe a situation, often to gain attention or sympathy. It is frequently seen in casual conversations or complaints.",
+      "collocations": ["exaggerate the situation", "exaggerate the difficulty", "exaggerate the impact"],
+      "examples": [
+        {
+          "scene": "小红在和朋友聊天时，抱怨她最近的工作压力。她说她每天都忙得没有时间吃饭，虽然实际上她只是偶尔加班。",
+          "chineseIdea": "小红希望朋友能同情她的处境，所以把工作的忙碌程度描述得比实际情况更夸张。",
+          "sentenceWithBlank": "She always @ @ @ when she talks about her workload.",
+          "fullEnglishSentence": "She always 「exaggerates the situation」 when she talks about her workload.",
+          "chineseTranslation": "她在谈论工作量时，总是「夸大情况」。",
+          "chinglishFix": "Chinglish: She always describes the situation too much when talking about work.\nCorrected: She always exaggerates the situation when talking about her workload."
+        },
+        {
+          "scene": "在学校里，小刚向老师解释他为什么没有完成作业。他说他家里的电脑坏了，作业完全没办法做，尽管其实他只是忘了保存文件。",
+          "chineseIdea": "小刚为了避免被责骂，试图通过夸大问题的严重性来让老师理解他的处境。",
+          "sentenceWithBlank": "He tends to @ @ @ to avoid trouble.",
+          "fullEnglishSentence": "He tends to 「exaggerate the difficulty」 to avoid trouble.",
+          "chineseTranslation": "他往往会「夸大困难」来避免麻烦。",
+          "chinglishFix": "Chinglish: He always makes the difficulty bigger to escape problems.\nCorrected: He tends to exaggerate the difficulty to avoid trouble."
+        }
+      ]
+    }
+  ]
+}
+```
