@@ -1,0 +1,53 @@
+```json
+{
+  "word": "retailer",
+  "definitions": [
+    {
+      "meaning": "从事零售业务的公司或个人，通常从批发商或制造商处购买商品，然后直接出售给消费者以供个人使用。",
+      "usage": "指在商业环境中，将商品以小批量直接卖给最终消费者的实体，常用于描述商店、电商平台或个体商家。常见于商业、经济学和日常购物相关的语境。",
+      "collocations": ["online retailer", "major retailer", "specialty retailer"],
+      "examples": [
+        {
+          "scene": "小明在网上购物，想买一双新运动鞋。他发现一个专门卖运动装备的网站，价格合理，品牌齐全。",
+          "chineseIdea": "小明想找一个专门提供运动相关商品的卖家，注重商品种类和便捷的购物体验。",
+          "sentenceWithBlank": "The @ @ offers a wide range of athletic shoes at competitive prices.",
+          "fullEnglishSentence": "The 「online retailer」 offers a wide range of athletic shoes at competitive prices.",
+          "chineseTranslation": "这家「在线零售商」提供多种运动鞋，价格具有竞争力。",
+          "chinglishFix": "典型中式英语：'The internet shop sell many shoes.' 纠正：'The online retailer sells a variety of shoes.'（避免直译“网店”，使用更自然的'retailer'，并注意动词单复数一致。）"
+        },
+        {
+          "scene": "李女士在市中心逛街，看到一家大型连锁店，里面有各种时尚服饰和家居用品，吸引了很多顾客。",
+          "chineseIdea": "李女士想去一个大型的、知名度高的商店，购买日常生活所需的多种商品。",
+          "sentenceWithBlank": "This @ @ is known for its extensive selection of clothing and home goods.",
+          "fullEnglishSentence": "This 「major retailer」 is known for its extensive selection of clothing and home goods.",
+          "chineseTranslation": "这家「大型零售商」以其丰富的服装和家居用品选择而闻名。",
+          "chinglishFix": "典型中式英语：'This big shop has many things to buy.' 纠正：'This major retailer offers a wide range of products.'（避免“big shop”这种模糊表达，改用'major retailer'，并用更自然的词汇描述商品种类。）"
+        }
+      ]
+    },
+    {
+      "meaning": "在特定行业中，将产品或服务直接销售给最终用户的中间商，通常强调其在供应链中的角色。",
+      "usage": "在供应链或行业分析的语境中，指从生产商或批发商处获取产品并将其出售给消费者的环节，常用于描述分销网络中的角色。常见于商业分析、物流和行业报告。",
+      "collocations": ["authorized retailer", "exclusive retailer", "local retailer"],
+      "examples": [
+        {
+          "scene": "张先生想买一部最新款的智能手机，他选择去品牌官方指定的商店，因为那里保证正品且有售后服务。",
+          "chineseIdea": "张先生希望从一个经过品牌认证的卖家那里购买产品，以确保质量和可靠性。",
+          "sentenceWithBlank": "You can purchase the latest model from an @ @ to ensure authenticity.",
+          "fullEnglishSentence": "You can purchase the latest model from an 「authorized retailer」 to ensure authenticity.",
+          "chineseTranslation": "你可以从一家「授权零售商」购买最新型号，以确保正品。",
+          "chinglishFix": "典型中式英语：'Buy phone from official shop.' 纠正：'Purchase the phone from an authorized retailer.'（避免“official shop”这种不精确的表达，改用'authorized retailer'，并使用更正式的'purchase'。）"
+        },
+        {
+          "scene": "王小姐喜欢支持本地经济，她选择在社区的小商店购买手工艺品，而不是去大商场。",
+          "chineseIdea": "王小姐想通过购买本地商品来支持附近的小型商家，促进社区经济发展。",
+          "sentenceWithBlank": "Buying from a @ @ helps support the community’s economy.",
+          "fullEnglishSentence": "Buying from a 「local retailer」 helps support the community’s economy.",
+          "chineseTranslation": "从「本地零售商」购买有助于支持社区经济。",
+          "chinglishFix": "典型中式英语：'Buy things from near shop is good.' 纠正：'Purchasing from a local retailer benefits the community.'（避免“near shop”这种不自然的表达，改用'local retailer'，并使用更贴切的'benefits'。）"
+        }
+      ]
+    }
+  ]
+}
+```

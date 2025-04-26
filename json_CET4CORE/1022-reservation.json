@@ -1,0 +1,76 @@
+```json
+{
+  "word": "reservation",
+  "definitions": [
+    {
+      "meaning": "预订或预约（如酒店、餐厅、机票等）",
+      "usage": "指提前为某项服务或资源（如座位、房间、票务）进行安排或预留，通常用于正式或半正式场合。",
+      "collocations": ["make a reservation", "cancel a reservation", "confirm a reservation"],
+      "examples": [
+        {
+          "scene": "你计划和朋友去一家高档餐厅庆祝生日，但这家餐厅非常受欢迎，需要提前安排座位。",
+          "chineseIdea": "为了确保有位置，你决定提前联系餐厅进行预订。",
+          "sentenceWithBlank": "I need to @ @ @ for a party of four at 7 PM this Saturday.",
+          "fullEnglishSentence": "I need to 「make a reservation」 for a party of four at 7 PM this Saturday.",
+          "chineseTranslation": "我需要为周六晚上7点四人聚会「预订座位」。",
+          "chinglishFix": "中式英语：I want to book a seat for four people. 纠正：'Book' 更常用于非正式场合或书籍、票务等；餐厅通常用 'make a reservation'。"
+        },
+        {
+          "scene": "你临时改变计划，无法去预订好的餐厅用餐，因此需要通知餐厅取消安排。",
+          "chineseIdea": "为了避免占用座位，你决定取消之前的预订。",
+          "sentenceWithBlank": "I called the restaurant to @ @ @ because we can’t make it tonight.",
+          "fullEnglishSentence": "I called the restaurant to 「cancel a reservation」 because we can’t make it tonight.",
+          "chineseTranslation": "我打电话给餐厅「取消预订」，因为我们今晚去不了。",
+          "chinglishFix": "中式英语：I want to delete my booking. 纠正：'Delete' 不用于预订场景；正确表达是 'cancel a reservation'。"
+        }
+      ]
+    },
+    {
+      "meaning": "保留意见或疑虑",
+      "usage": "表示对某事持有怀疑、不完全同意或犹豫的态度，通常用于正式或学术性讨论中。",
+      "collocations": ["have reservations about", "express reservations about", "voice reservations about"],
+      "examples": [
+        {
+          "scene": "在公司会议中，团队讨论一个新项目计划，但你觉得预算分配不够合理，因此对计划持怀疑态度。",
+          "chineseIdea": "你想表达自己对计划的不完全认同，但又不想直接反对。",
+          "sentenceWithBlank": "I @ @ @ the new budget plan due to its unclear allocation.",
+          "fullEnglishSentence": "I 「have reservations about」 the new budget plan due to its unclear allocation.",
+          "chineseTranslation": "我对新的预算计划「持保留意见」，因为它的分配不够清晰。",
+          "chinglishFix": "中式英语：I have doubts to the plan. 纠正：'Doubts' 后面通常接 'about'，且 'have reservations about' 更正式、更常见。"
+        },
+        {
+          "scene": "你的朋友推荐你投资一个新兴公司，但你对公司的盈利模式不放心，因此在讨论时表达了疑虑。",
+          "chineseIdea": "你想礼貌地说明自己对投资的不确定态度。",
+          "sentenceWithBlank": "She tried to convince me, but I had to @ @ @ the company’s business model.",
+          "fullEnglishSentence": "She tried to convince me, but I had to 「express reservations about」 the company’s business model.",
+          "chineseTranslation": "她试图说服我，但我不得不对公司的商业模式「表达疑虑」。",
+          "chinglishFix": "中式英语：I’m not sure for this company. 纠正：'Not sure' 过于口语化且不准确；应使用 'express reservations about' 来表示正式的保留意见。"
+        }
+      ]
+    },
+    {
+      "meaning": "保留地或保护区（如为特定群体或用途保留的土地）",
+      "usage": "指为特定群体（如原住民）或用途（如自然保护）保留的区域，多用于美国英语，常见于历史或社会背景讨论。",
+      "collocations": ["live on a reservation", "visit a reservation", "establish a reservation"],
+      "examples": [
+        {
+          "scene": "你在美国旅行，计划参观一个原住民文化遗址，了解到这些遗址位于专门的保留地。",
+          "chineseIdea": "你想了解更多关于原住民生活区域的信息，并计划亲自探访。",
+          "sentenceWithBlank": "Many Native Americans still @ @ @ in the Southwest.",
+          "fullEnglishSentence": "Many Native Americans still 「live on a reservation」 in the Southwest.",
+          "chineseTranslation": "许多原住民仍然在西南部的「保留地」上生活。",
+          "chinglishFix": "中式英语：They live in a reserved place. 纠正：'Reserved place' 不准确且不地道；应使用 'live on a reservation'。"
+        },
+        {
+          "scene": "你在研究美国历史，了解到政府在19世纪为原住民划定了特定区域。",
+          "chineseIdea": "你想描述政府为原住民设立这些区域的历史背景。",
+          "sentenceWithBlank": "The government @ @ @ for Native American tribes in the 1800s.",
+          "fullEnglishSentence": "The government 「established a reservation」 for Native American tribes in the 1800s.",
+          "chineseTranslation": "政府在19世纪为原住民部落「设立了保留地」。",
+          "chinglishFix": "中式英语：The government built a reservation. 纠正：'Built' 不适用于设立保留地；正确表达是 'established a reservation'。"
+        }
+      ]
+    }
+  ]
+}
+```

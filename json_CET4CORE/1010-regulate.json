@@ -1,0 +1,53 @@
+```json
+{
+  "word": "regulate",
+  "definitions": [
+    {
+      "meaning": "控制或管理某事物，通常通过规则或法律使其有序",
+      "usage": "指通过制定规则、法律或政策来控制或管理某项活动、行业或行为，确保其符合标准或秩序。常用于政府、机构或系统对经济、行业或社会行为的监管。",
+      "collocations": ["regulate the market", "regulate activities", "regulate behavior"],
+      "examples": [
+        {
+          "scene": "在中国，一家大型科技公司正在快速扩张，政府担心其可能垄断市场，影响消费者权益。相关部门决定出台新政策来规范该公司的运营。",
+          "chineseIdea": "政府希望通过法律手段控制科技公司的市场行为，确保公平竞争。",
+          "sentenceWithBlank": "The government introduced new laws to @ @ @.",
+          "fullEnglishSentence": "The government introduced new laws to 「regulate the market」.",
+          "chineseTranslation": "政府出台了新法律来「规范市场」。",
+          "chinglishFix": "典型中式英语：'The government makes laws to control market.' 纠正：'Control' 过于泛泛且不正式，'regulate' 更准确地表达通过规则管理的意思。应改为：'The government introduced laws to regulate the market.'"
+        },
+        {
+          "scene": "在一所学校，学生们在课间活动时过于吵闹，影响了其他班级的学习。学校决定制定新的行为准则来约束学生的课间行为。",
+          "chineseIdea": "学校希望通过规则让学生在课间活动时更有秩序。",
+          "sentenceWithBlank": "The school implemented rules to @ @.",
+          "fullEnglishSentence": "The school implemented rules to 「regulate behavior」.",
+          "chineseTranslation": "学校实施了规则来「规范行为」。",
+          "chinglishFix": "典型中式英语：'The school makes rules to manage student behavior.' 纠正：'Manage' 在此语境下不够贴切，'regulate' 更能体现通过规则约束行为。应改为：'The school implemented rules to regulate behavior.'"
+        }
+      ]
+    },
+    {
+      "meaning": "调整或控制某事物，使其达到适当的水平或状态",
+      "usage": "指调整某事物（如温度、速度、情绪等）的状态或水平，使其保持在适宜的范围内。常用于描述对物理、机械或生理状态的控制。",
+      "collocations": ["regulate temperature", "regulate speed", "regulate emotions"],
+      "examples": [
+        {
+          "scene": "在一个炎热的夏天，小明新买了一台智能空调。这台空调可以根据房间的温度自动调整，提供舒适的环境。",
+          "chineseIdea": "空调通过感知环境温度来自动调整制冷效果，保持房间凉爽。",
+          "sentenceWithBlank": "The smart air conditioner can @ @ to keep the room comfortable.",
+          "fullEnglishSentence": "The smart air conditioner can 「regulate temperature」 to keep the room comfortable.",
+          "chineseTranslation": "智能空调可以「调节温度」以保持房间舒适。",
+          "chinglishFix": "典型中式英语：'The air conditioner controls temperature.' 纠正：'Control' 显得过于强制，'regulate' 更能体现精确调整的含义。应改为：'The air conditioner regulates temperature.'"
+        },
+        {
+          "scene": "小红最近因为工作压力大，情绪波动频繁。她开始练习冥想，帮助自己更好地管理情绪。",
+          "chineseIdea": "通过冥想，小红希望能够更好地控制自己的情绪，保持平静。",
+          "sentenceWithBlank": "Meditation helps her @ @ during stressful times.",
+          "fullEnglishSentence": "Meditation helps her 「regulate emotions」 during stressful times.",
+          "chineseTranslation": "冥想帮助她在压力大的时候「调节情绪」。",
+          "chinglishFix": "典型中式英语：'Meditation helps her control her feelings.' 纠正：'Control' 听起来过于强硬，'regulate' 更适合表达平稳调整情绪。应改为：'Meditation helps her regulate emotions.'"
+        }
+      ]
+    }
+  ]
+}
+```
