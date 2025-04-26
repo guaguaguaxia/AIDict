@@ -1,0 +1,76 @@
+```json
+{
+  "word": "save",
+  "definitions": [
+    {
+      "meaning": "保留或储存某物以备将来使用",
+      "usage": "指将金钱、时间、资源等保留下来，避免浪费或用于未来，通常用于财务、时间管理或资源管理的语境。",
+      "collocations": ["save money", "save time", "save energy"],
+      "examples": [
+        {
+          "scene": "小明是一个大学生，每个月从兼职工作中赚一些钱。他希望在毕业后能有一笔存款，所以他会把一部分收入存进银行。",
+          "chineseIdea": "小明想通过减少不必要的开支，把一部分收入保留下来，以备未来旅行或紧急情况使用。",
+          "sentenceWithBlank": "By cutting down on eating out, Xiao Ming was able to @ @ each month.",
+          "fullEnglishSentence": "By cutting down on eating out, Xiao Ming was able to 「save money」 each month.",
+          "chineseTranslation": "通过减少外出就餐，小明每个月都能「省钱」。",
+          "chinglishFix": "典型中式英语：Xiao Ming wants to 'keep money' every month. 纠正：'Keep money' 不自然，应改为 'save money'，表示存钱或省钱。"
+        },
+        {
+          "scene": "小红在一家公司做行政工作，她发现通过使用新的办公软件，可以减少重复工作，从而提高效率。",
+          "chineseIdea": "小红希望通过优化工作流程，减少不必要的时间浪费，让工作更高效。",
+          "sentenceWithBlank": "Using the new software, Xiao Hong could @ @ on routine tasks.",
+          "fullEnglishSentence": "Using the new software, Xiao Hong could 「save time」 on routine tasks.",
+          "chineseTranslation": "使用新软件，小红能在日常任务上「节省时间」。",
+          "chinglishFix": "典型中式英语：Xiao Hong wants to 'spare time' for work. 纠正：'Spare time' 通常指空闲时间，应改为 'save time'，表示节省时间。"
+        }
+      ]
+    },
+    {
+      "meaning": "从危险或伤害中保护或解救",
+      "usage": "指通过行动使人或物免受危险、损失或伤害，常用于描述紧急情况下的救援或保护行为。",
+      "collocations": ["save a life", "save someone from", "save the day"],
+      "examples": [
+        {
+          "scene": "在一个暴风雨的夜晚，海岸救援队接到求救信号，一艘渔船被困在巨浪中，船员生命危在旦夕。",
+          "chineseIdea": "救援队希望通过迅速行动，保护渔船上的船员免受生命危险。",
+          "sentenceWithBlank": "The coast guard worked tirelessly to @ @ @ in the storm.",
+          "fullEnglishSentence": "The coast guard worked tirelessly to 「save a life」 in the storm.",
+          "chineseTranslation": "海岸救援队不懈努力，在风暴中「救人一命」。",
+          "chinglishFix": "典型中式英语：The team wants to 'rescue a life'. 纠正：'Rescue a life' 不常见且略显生硬，'save a life' 是更自然的表达，指救命。"
+        },
+        {
+          "scene": "公司的一个重要项目因为技术问题差点失败，但小李提出了一个关键的解决方案，避免了项目的彻底失败。",
+          "chineseIdea": "小李希望通过自己的技术专长，解决问题并让项目顺利完成。",
+          "sentenceWithBlank": "Li's quick thinking helped @ @ @ when the project was at risk.",
+          "fullEnglishSentence": "Li's quick thinking helped 「save the day」 when the project was at risk.",
+          "chineseTranslation": "小李的快速思考在项目面临风险时「挽救局面」。",
+          "chinglishFix": "典型中式英语：Li helped 'fix the situation'. 纠正：'Fix the situation' 过于笼统，'save the day' 是更生动且地道的表达，意为扭转局面。"
+        }
+      ]
+    },
+    {
+      "meaning": "在计算机中存储数据",
+      "usage": "指在电子设备上将文件、数据等存储到存储介质中，以防止数据丢失，常用于技术相关的语境。",
+      "collocations": ["save a file", "save changes", "save data"],
+      "examples": [
+        {
+          "scene": "小刚在写一篇重要的论文，写到一半时电脑突然卡顿，他赶紧点击保存按钮，以免之前的工作丢失。",
+          "chineseIdea": "小刚希望通过及时存储文件，保护自己的劳动成果不被意外丢失。",
+          "sentenceWithBlank": "To avoid losing his work, Xiao Gang quickly clicked to @ @ @.",
+          "fullEnglishSentence": "To avoid losing his work, Xiao Gang quickly clicked to 「save a file」.",
+          "chineseTranslation": "为了避免工作丢失，小刚赶紧点击「保存文件」。",
+          "chinglishFix": "典型中式英语：Xiao Gang wants to 'store the file'. 纠正：'Store the file' 不常用于指保存文件，'save a file' 是更准确的计算机术语。"
+        },
+        {
+          "scene": "小美在编辑一张照片，她调整了亮度和对比度后，决定将修改后的版本保存下来。",
+          "chineseIdea": "小美希望保留她对照片的编辑成果，以便后续使用。",
+          "sentenceWithBlank": "After editing the photo, Xiao Mei chose to @ @ before closing the app.",
+          "fullEnglishSentence": "After editing the photo, Xiao Mei chose to 「save changes」 before closing the app.",
+          "chineseTranslation": "编辑照片后，小美选择在关闭应用前「保存更改」。",
+          "chinglishFix": "典型中式英语：Xiao Mei wants to 'keep the changes'. 纠正：'Keep the changes' 不够具体，'save changes' 是更贴合技术场景的表达。"
+        }
+      ]
+    }
+  ]
+}
+```

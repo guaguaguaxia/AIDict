@@ -1,0 +1,53 @@
+```json
+{
+  "word": "transfer",
+  "definitions": [
+    {
+      "meaning": "将某物从一个地方或人移到另一个地方或人",
+      "usage": "常用于描述物理或抽象事物的移动，如金钱、文件、人员、权利等，通常涉及从一方移交到另一方。",
+      "collocations": ["transfer money", "transfer data", "transfer ownership"],
+      "examples": [
+        {
+          "scene": "你在银行里，想要把账户里的钱转到朋友的账户上，以帮助他支付一笔紧急费用。",
+          "chineseIdea": "你希望通过银行系统将资金从你的账户移动到另一个账户。",
+          "sentenceWithBlank": "I need to @ @ to my friend's account to help with his emergency.",
+          "fullEnglishSentence": "I need to 「transfer money」 to my friend's account to help with his emergency.",
+          "chineseTranslation": "我需要「转账」到我朋友的账户来帮助他应对紧急情况。",
+          "chinglishFix": "典型中式英语：'I want to move money to my friend.' 纠正：'I want to transfer money to my friend's account.'（'move' 过于笼统，'transfer' 更精确且常用于金融场景）"
+        },
+        {
+          "scene": "你在公司内部网络中，需要将一个大文件从你的电脑发送到同事的电脑上。",
+          "chineseIdea": "你希望通过网络将电子文件从一台设备移动到另一台设备。",
+          "sentenceWithBlank": "Please @ @ to my colleague's computer for the project.",
+          "fullEnglishSentence": "Please 「transfer data」 to my colleague's computer for the project.",
+          "chineseTranslation": "请将数据「传输」到我同事的电脑上以用于项目。",
+          "chinglishFix": "典型中式英语：'Send data to his computer.' 纠正：'Transfer data to his computer.'（'send' 更通用，'transfer' 更强调数据从一处到另一处的移动）"
+        }
+      ]
+    },
+    {
+      "meaning": "改变位置、角色或状态（如工作、学习或交通工具的转换）",
+      "usage": "常用于描述人或事物从一个地方、职位、学校或交通工具转换到另一个，通常涉及某种正式或半正式的过程。",
+      "collocations": ["transfer to another school", "transfer to a new department", "transfer to another flight"],
+      "examples": [
+        {
+          "scene": "你是一名大学生，因为家庭搬迁，你需要从现在的大学转到另一所大学继续学业。",
+          "chineseIdea": "你希望从一所学校切换到另一所学校以继续学习。",
+          "sentenceWithBlank": "Due to my family’s relocation, I have to @ @ @ to continue my studies.",
+          "fullEnglishSentence": "Due to my family’s relocation, I have to 「transfer to another school」 to continue my studies.",
+          "chineseTranslation": "由于家庭搬迁，我必须「转到另一所学校」继续学业。",
+          "chinglishFix": "典型中式英语：'I want to change school.' 纠正：'I want to transfer to another school.'（'change' 不够正式，'transfer' 更常用于学术场景）"
+        },
+        {
+          "scene": "你在机场，因为原航班取消，你需要改乘另一架飞机到达目的地。",
+          "chineseIdea": "你希望从一架飞机切换到另一架飞机以完成旅行。",
+          "sentenceWithBlank": "Because my flight was canceled, I need to @ @ @ to reach my destination.",
+          "fullEnglishSentence": "Because my flight was canceled, I need to 「transfer to another flight」 to reach my destination.",
+          "chineseTranslation": "因为我的航班被取消，我需要「转乘另一架飞机」到达目的地。",
+          "chinglishFix": "典型中式英语：'I need to change flight.' 纠正：'I need to transfer to another flight.'（'change' 在航空场景中不如 'transfer' 精确）"
+        }
+      ]
+    }
+  ]
+}
+```

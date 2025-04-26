@@ -1,0 +1,53 @@
+```json
+{
+  "word": "tailor",
+  "definitions": [
+    {
+      "meaning": "裁缝；为客户制作或修改衣服的人",
+      "usage": "指从事服装制作或调整的专业人员，通常根据客户的身材和需求定制或修改衣物。",
+      "collocations": ["tailor a suit", "tailor a dress", "tailor to fit"],
+      "examples": [
+        {
+          "scene": "一位男士走进一家高端服装店，希望为自己即将参加的婚礼定制一套合身的西装。他与店员讨论了款式、面料和细节。",
+          "chineseIdea": "需要一套完全符合自己身材和风格的西装，确保在重要场合看起来得体。",
+          "sentenceWithBlank": "The shop assistant recommended a skilled craftsman to @ @ @ for the wedding.",
+          "fullEnglishSentence": "The shop assistant recommended a skilled craftsman to 「tailor a suit」 for the wedding.",
+          "chineseTranslation": "店员推荐了一位熟练的匠人来为婚礼「定制一套西装」。",
+          "chinglishFix": "典型中式英语：'Make a suit for me.' 纠正：'Tailor a suit to my measurements.'"
+        },
+        {
+          "scene": "一位女士买了一件礼服，但肩膀部分略宽，她找到一位专业人士帮忙调整，确保礼服完美贴合。",
+          "chineseIdea": "希望礼服能完全贴合身形，展现最佳效果。",
+          "sentenceWithBlank": "She asked the professional to @ @ @ her new gown.",
+          "fullEnglishSentence": "She asked the professional to 「tailor to fit」 her new gown.",
+          "chineseTranslation": "她请专业人士将她的新礼服「调整到合身」。",
+          "chinglishFix": "典型中式英语：'Fix the dress smaller.' 纠正：'Tailor the dress to fit properly.'"
+        }
+      ]
+    },
+    {
+      "meaning": "调整或定制某事物以适应特定需求",
+      "usage": "用作动词，泛指根据特定情况或需求修改、调整某事物，如服务、计划或产品。",
+      "collocations": ["tailor to needs", "tailor a solution", "tailor an approach"],
+      "examples": [
+        {
+          "scene": "一家公司正在为不同国家的客户开发营销策略，营销团队需要根据每个市场的文化和消费者习惯调整内容。",
+          "chineseIdea": "希望营销策略能贴合当地客户的需求，提升吸引力。",
+          "sentenceWithBlank": "The marketing team worked to @ @ @ of local customers in each region.",
+          "fullEnglishSentence": "The marketing team worked to 「tailor to needs」 of local customers in each region.",
+          "chineseTranslation": "营销团队努力「根据当地客户的需求」进行调整。",
+          "chinglishFix": "典型中式英语：'Change the plan for customers.' 纠正：'Tailor the plan to customers’ needs.'"
+        },
+        {
+          "scene": "一位老师发现学生们的学习进度不同，决定为每个学生设计个性化的学习计划。",
+          "chineseIdea": "想让教学内容更适合每个学生的水平和兴趣。",
+          "sentenceWithBlank": "The teacher decided to @ @ @ for each student’s learning pace.",
+          "fullEnglishSentence": "The teacher decided to 「tailor an approach」 for each student’s learning pace.",
+          "chineseTranslation": "老师决定为每个学生的学习进度「定制一种方法」。",
+          "chinglishFix": "典型中式英语：'Make teaching different for students.' 纠正：'Tailor the teaching approach to individual students.'"
+        }
+      ]
+    }
+  ]
+}
+```
