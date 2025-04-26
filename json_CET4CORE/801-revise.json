@@ -1,0 +1,53 @@
+```json
+{
+  "word": "revise",
+  "definitions": [
+    {
+      "meaning": "修改或订正（文本、计划等），以提高其质量或准确性",
+      "usage": "通常用于书面内容（如文章、书籍、报告）或计划、政策的修改，强调通过检查和调整使内容更完善。",
+      "collocations": ["revise a draft", "revise a plan", "revise a manuscript"],
+      "examples": [
+        {
+          "scene": "一名大学生正在准备期末论文，提交初稿后，导师建议她对内容进行调整以提高逻辑性和清晰度。",
+          "chineseIdea": "学生需要重新审视自己的论文，修改不够清晰的部分，确保论点更有说服力。",
+          "sentenceWithBlank": "She spent the weekend @ @ @ to address her advisor’s feedback.",
+          "fullEnglishSentence": "She spent the weekend 「revising a draft」 to address her advisor’s feedback.",
+          "chineseTranslation": "她整个周末都在「修改初稿」，以回应导师的反馈。",
+          "chinglishFix": "典型中式英语：'She changed her paper.' 纠正：'Change' 过于笼统，缺少修改以提升质量的含义。应使用 'She revised her draft.' 以突出系统性修改。"
+        },
+        {
+          "scene": "一家公司正在制定年度营销策略，但市场环境发生变化，管理层决定重新调整策略。",
+          "chineseIdea": "公司需要重新评估原计划，调整不符合市场趋势的部分，使其更具竞争力。",
+          "sentenceWithBlank": "The team met to @ @ @ in light of new market trends.",
+          "fullEnglishSentence": "The team met to 「revise a plan」 in light of new market trends.",
+          "chineseTranslation": "团队开会「修改计划」，以适应新的市场趋势。",
+          "chinglishFix": "典型中式英语：'They changed the plan.' 纠正：'Change' 缺乏具体修改过程的含义。应使用 'They revised the plan.' 以体现系统性调整。"
+        }
+      ]
+    },
+    {
+      "meaning": "复习（功课或知识），为考试或评估做准备",
+      "usage": "常用于学生为考试准备时，强调通过重温学习内容以巩固知识。",
+      "collocations": ["revise for an exam", "revise notes", "revise a topic"],
+      "examples": [
+        {
+          "scene": "一名高中生即将参加高考，距离考试还有一个月，他每天晚上都在宿舍复习数学。",
+          "chineseIdea": "学生需要系统地回顾数学知识，确保熟悉公式和解题方法，为考试做好准备。",
+          "sentenceWithBlank": "He stayed up late every night to @ @ @.",
+          "fullEnglishSentence": "He stayed up late every night to 「revise for an exam」.",
+          "chineseTranslation": "他每晚熬夜「复习考试」。",
+          "chinglishFix": "典型中式英语：'He reviewed for the exam.' 纠正：'Review' 更强调浏览，而 'revise' 强调深入巩固。应使用 'He revised for the exam.' 以突出系统复习。"
+        },
+        {
+          "scene": "一名大学生在期末考试前，发现自己的课堂笔记有些凌乱，决定整理并重新复习重点内容。",
+          "chineseIdea": "学生需要整理笔记，重新梳理知识点，确保考试时能快速回忆。",
+          "sentenceWithBlank": "She spent hours @ @ @ to prepare for the final.",
+          "fullEnglishSentence": "She spent hours 「revising notes」 to prepare for the final.",
+          "chineseTranslation": "她花了几个小时「复习笔记」来准备期末考试。",
+          "chinglishFix": "典型中式英语：'She looked at her notes.' 纠正：'Look at' 仅表示浏览，缺乏深入学习的含义。应使用 'She revised her notes.' 以体现系统复习。"
+        }
+      ]
+    }
+  ]
+}
+```

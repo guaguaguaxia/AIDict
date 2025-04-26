@@ -1,0 +1,76 @@
+```json
+{
+  "word": "reproduce",
+  "definitions": [
+    {
+      "meaning": "复制或再现某事物，通常指通过技术手段生成相同的副本",
+      "usage": "常用于描述通过印刷、摄影、录音等方式复制文件、图像或声音，也可指生物学中细胞或组织的再生。",
+      "collocations": ["reproduce a document", "reproduce an image", "reproduce a sound"],
+      "examples": [
+        {
+          "scene": "在一家小型印刷店中，店员正在帮助一位顾客将一份重要的合同复印多份，以便分发给不同的部门。顾客强调需要每一份副本都清晰且与原件一致。",
+          "chineseIdea": "通过机器复制一份文件，确保副本与原件完全相同。",
+          "sentenceWithBlank": "The shop assistant was asked to @ @ @ for the client’s meeting.",
+          "fullEnglishSentence": "The shop assistant was asked to 「reproduce a document」 for the client’s meeting.",
+          "chineseTranslation": "店员被要求为客户的会议「复制一份文件」。",
+          "chinglishFix": "典型中式英语：'Copy one document again.' 纠正：'Reproduce a document' 或 'Make a copy of the document.'"
+        },
+        {
+          "scene": "一位摄影爱好者在暗房中冲洗胶片，希望将拍摄的风景照片制作成多份高质量的打印件，分享给朋友。",
+          "chineseIdea": "通过技术手段制作出与原始照片相同的图像副=副本。",
+          "sentenceWithBlank": "He spent hours in the darkroom to @ @ @ for his portfolio.",
+          "fullEnglishSentence": "He spent hours in the darkroom to 「reproduce an image」 for his portfolio.",
+          "chineseTranslation": "他在暗房里花了几个小时「复制一张图片」以用于他的作品集。",
+          "chinglishFix": "典型中式英语：'Print the photo again.' 纠正：'Reproduce an image' 或 'Make a print of the image.'"
+        }
+      ]
+    },
+    {
+      "meaning": "生物学上指生物体繁殖或产生后代",
+      "usage": "用于描述动物、植物或微生物通过自然或人工方式产生新个体，常出现在生物学或农业语境中。",
+      "collocations": ["reproduce sexually", "reproduce asexually", "reproduce offspring"],
+      "examples": [
+        {
+          "scene": "在一堂生物课上，老师向学生解释蜜蜂如何通过交配和产卵来繁殖后代，以维持蜂群的存续。",
+          "chineseIdea": "生物通过自然过程产生新的个体以延续种群。",
+          "sentenceWithBlank": "The teacher explained how bees @ @ to sustain the colony.",
+          "fullEnglishSentence": "The teacher explained how bees 「reproduce sexually」 to sustain the colony.",
+          "chineseTranslation": "老师解释了蜜蜂如何「有性繁殖」以维持蜂群。",
+          "chinglishFix": "典型中式英语：'Bees make babies.' 纠正：'Bees reproduce sexually' 或 'Bees produce offspring.'"
+        },
+        {
+          "scene": "在一个农业实验站，研究人员正在研究如何通过无性繁殖技术让某种珍稀植物生成新的植株，以保护其种群。",
+          "chineseIdea": "通过非自然交配的方式让植物生成新的个体。",
+          "sentenceWithBlank": "The researchers studied how the rare plant could @ @ to preserve its population.",
+          "fullEnglishSentence": "The researchers studied how the rare plant could 「reproduce asexually」 to preserve its population.",
+          "chineseTranslation": "研究人员研究了这种珍稀植物如何「无性繁殖」以保护其种群。",
+          "chinglishFix": "典型中式英语：'The plant grows new plants.' 纠正：'The plant reproduces asexually' 或 'The plant produces new individuals.'"
+        }
+      ]
+    },
+    {
+      "meaning": "重现或模仿某事物，通常指重复实验、现象或结果",
+      "usage": "常用于科学实验、艺术创作或技术领域，指重复或再现某一过程、实验结果或效果。",
+      "collocations": ["reproduce a result", "reproduce an experiment", "reproduce a pattern"],
+      "examples": [
+        {
+          "scene": "在一所大学实验室中，研究生尝试重复导师的实验，以验证之前得出的化学反应结果是否可靠。",
+          "chineseIdea": "通过重复实验来确认结果是否一致。",
+          "sentenceWithBlank": "The student worked tirelessly to @ @ @ in the lab.",
+          "fullEnglishSentence": "The student worked tirelessly to 「reproduce a result」 in the lab.",
+          "chineseTranslation": "学生不懈努力在实验室中「重现一个结果」。",
+          "chinglishFix": "典型中式英语：'Do the result again.' 纠正：'Reproduce a result' 或 'Verify the result.'"
+        },
+        {
+          "scene": "一位艺术家试图在画布上重现她在海边看到的日落景象，希望捕捉同样的色彩和氛围。",
+          "chineseIdea": "通过创作模仿自然景象，尽可能还原其效果。",
+          "sentenceWithBlank": "She carefully mixed colors to @ @ @ from her memory.",
+          "fullEnglishSentence": "She carefully mixed colors to 「reproduce a pattern」 from her memory.",
+          "chineseTranslation": "她小心地调配颜色，以「重现一个图案」从她的记忆中。",
+          "chinglishFix": "典型中式英语：'Paint the sunset again.' 纠正：'Reproduce a pattern' 或 'Recreate the scene.'"
+        }
+      ]
+    }
+  ]
+}
+```

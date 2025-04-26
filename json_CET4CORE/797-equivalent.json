@@ -1,0 +1,53 @@
+```json
+{
+  "word": "equivalent",
+  "definitions": [
+    {
+      "meaning": "相等的，相当的（指价值、数量、功能等方面相等或相似）",
+      "usage": "用作形容词或名词，表示某事物在价值、效果、意义或功能上与另一事物相当，常用于比较两个不同但可互换的事物。",
+      "collocations": ["roughly equivalent", "equivalent to", "direct equivalent"],
+      "examples": [
+        {
+          "scene": "在超市购物时，你注意到两种品牌的牛奶价格不同，但营养成分几乎一样，你想表达它们的价值相等。",
+          "chineseIdea": "想说明两种牛奶虽然品牌不同，但在营养和用途上是一样的。",
+          "sentenceWithBlank": "These two brands of milk are @ @ in terms of nutritional value.",
+          "fullEnglishSentence": "These two brands of milk are 「roughly equivalent」 in terms of nutritional value.",
+          "chineseTranslation": "这两种品牌的牛奶在营养价值上「大致相当」。",
+          "chinglishFix": "典型中式英语：'This milk and that milk is same value.' 纠正：应避免直接用'same'，而是用「roughly equivalent」来表达相等的概念，且注意语法结构。"
+        },
+        {
+          "scene": "在工作中，你需要将一份文件的页数从A4纸转换为A3纸，并解释两种纸张的总面积相当。",
+          "chineseIdea": "想说明A4纸的页数乘以2后，和A3纸的页数在面积上是相等的。",
+          "sentenceWithBlank": "Two A4 pages are @ @ one A3 page in terms of total area.",
+          "fullEnglishSentence": "Two A4 pages are 「equivalent to」 one A3 page in terms of total area.",
+          "chineseTranslation": "两页A4纸在总面积上「相当于」一页A3纸。",
+          "chinglishFix": "典型中式英语：'Two A4 equal one A3.' 纠正：应使用「equivalent to」来表达等同关系，并注意完整的句子结构。"
+        }
+      ]
+    },
+    {
+      "meaning": "等价物，对等物（指可以替代某事物的东西）",
+      "usage": "用作名词，表示某事物在功能或作用上可以替代另一事物，常用于描述没有直接对应物但功能相似的替代品。",
+      "collocations": ["exact equivalent", "closest equivalent", "cultural equivalent"],
+      "examples": [
+        {
+          "scene": "你在和外国朋友讨论中国文化，提到春节时吃饺子，想说明西方文化中没有完全一样的节日。",
+          "chineseIdea": "想表达春节的饺子在西方文化中没有完全一样的食物，但可以用类似的节日食物来类比。",
+          "sentenceWithBlank": "There’s no @ @ for dumplings during the Spring Festival in Western culture.",
+          "fullEnglishSentence": "There’s no 「exact equivalent」 for dumplings during the Spring Festival in Western culture.",
+          "chineseTranslation": "西方文化中没有春节饺子的「完全等价物」。",
+          "chinglishFix": "典型中式英语：'Dumpling has no same thing in West.' 纠正：应使用「exact equivalent」来表达没有完全相同的替代物，并注意语法和流畅性。"
+        },
+        {
+          "scene": "你在学习英语时，试图找到中文成语‘亡羊补牢’在英语中的对应表达。",
+          "chineseIdea": "想说明英语中没有直接对应的成语，但可以用类似的谚语来表达。",
+          "sentenceWithBlank": "The English proverb ‘to lock the stable door after the horse has bolted’ is the @ @ to the Chinese idiom ‘亡羊补牢’.",
+          "fullEnglishSentence": "The English proverb ‘to lock the stable door after the horse has bolted’ is the 「closest equivalent」 to the Chinese idiom ‘亡羊补牢’.",
+          "chineseTranslation": "英语谚语‘马跑了才锁马厩’是中文成语‘亡羊补牢’的「最接近的等价物」。",
+          "chinglishFix": "典型中式英语：'This idiom same as Chinese one.' 纠正：应使用「closest equivalent」来表达最接近的对应物，并提供具体的例子。"
+        }
+      ]
+    }
+  ]
+}
+```

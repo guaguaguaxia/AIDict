@@ -1,0 +1,76 @@
+```json
+{
+  "word": "reward",
+  "definitions": [
+    {
+      "meaning": "作为对某人努力、成就或行为的回报而给予的金钱、物品或其他好处",
+      "usage": "通常指因某人完成某事、表现出色或做出贡献而给予的物质或非物质回报，常用于工作、竞赛或激励场景。",
+      "collocations": ["reap the rewards", "receive a reward", "offer a reward"],
+      "examples": [
+        {
+          "scene": "一位员工在公司项目中表现出色，领导决定给予他奖金以表彰他的努力。",
+          "chineseIdea": "员工因工作努力而获得经济上的回报，体现公司对优秀表现的认可。",
+          "sentenceWithBlank": "After months of hard work, she was thrilled to @ @ @ for her contributions to the project.",
+          "fullEnglishSentence": "After months of hard work, she was thrilled to 「reap the rewards」 for her contributions to the project.",
+          "chineseTranslation": "在几个月的努力工作后，她很高兴因项目贡献而「获得回报」。",
+          "chinglishFix": "典型中式英语：She got reward for her hard work. 纠正：She reaped the rewards for her hard work.（使用正确的搭配和动词形式）"
+        },
+        {
+          "scene": "一名学生在数学竞赛中获得第一名，学校颁发了一笔奖学金。",
+          "chineseIdea": "学生因学术成就获得奖励，体现努力带来的正面结果。",
+          "sentenceWithBlank": "Winning the math competition allowed him to @ @ @ from the school.",
+          "fullEnglishSentence": "Winning the math competition allowed him to 「receive a reward」 from the school.",
+          "chineseTranslation": "赢得数学竞赛让他从学校「获得奖励」。",
+          "chinglishFix": "典型中式英语：He was given reward. 纠正：He received a reward.（使用正确的动词搭配，避免省略冠词）"
+        }
+      ]
+    },
+    {
+      "meaning": "对某行为的激励或报偿，通常指抽象的回报，如满足感或成就感",
+      "usage": "指通过某活动或行为获得的非物质回报，常用于描述个人成就、情感满足或长期努力的结果。",
+      "collocations": ["find rewarding", "prove rewarding", "feel rewarded"],
+      "examples": [
+        {
+          "scene": "一位志愿者在社区帮助老人后，内心感到非常充实和满足。",
+          "chineseIdea": "通过无私的奉献，志愿者感受到内心的满足，这是对自己善行的回报。",
+          "sentenceWithBlank": "Helping the elderly in the community made her @ @.",
+          "fullEnglishSentence": "Helping the elderly in the community made her 「feel rewarded」.",
+          "chineseTranslation": "在社区帮助老人让她感到「很有回报」。",
+          "chinglishFix": "典型中式英语：She felt reward. 纠正：She felt rewarded.（注意使用正确的形容词形式）"
+        },
+        {
+          "scene": "一位老师花费大量时间辅导学生，看到学生进步后感到非常值得。",
+          "chineseIdea": "老师通过付出努力，看到学生的成长，感到自己的工作很有意义。",
+          "sentenceWithBlank": "Seeing her students improve made teaching @ @ for her.",
+          "fullEnglishSentence": "Seeing her students improve made teaching 「prove rewarding」 for her.",
+          "chineseTranslation": "看到学生进步让她的教学工作「很有回报」。",
+          "chinglishFix": "典型中式英语：Teaching is reward for her. 纠正：Teaching proved rewarding for her.（使用正确的动词和形容词搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "悬赏，用于寻找失物、抓捕罪犯等的报酬",
+      "usage": "指为激励他人提供信息或帮助而公开承诺的报酬，通常与警方、失物招领等场景相关。",
+      "collocations": ["post a reward", "claim a reward", "announce a reward"],
+      "examples": [
+        {
+          "scene": "一位市民丢失了珍贵的宠物狗，决定在社区贴出告示，承诺给予找到者一笔报酬。",
+          "chineseIdea": "通过提供报酬激励他人帮助找回失物，体现悬赏的实际用途。",
+          "sentenceWithBlank": "She decided to @ @ @ for anyone who found her missing dog.",
+          "fullEnglishSentence": "She decided to 「post a reward」 for anyone who found her missing dog.",
+          "chineseTranslation": "她决定为找到她失踪的狗的人「张贴悬赏」。",
+          "chinglishFix": "典型中式英语：She gave a reward poster. 纠正：She posted a reward.（使用正确的动词和搭配）"
+        },
+        {
+          "scene": "警方为抓捕一名逃犯发布通告，承诺给予提供线索者一笔奖金。",
+          "chineseIdea": "通过悬赏激励公众提供线索，帮助警方破案。",
+          "sentenceWithBlank": "The police encouraged citizens to @ @ @ for information leading to the suspect’s arrest.",
+          "fullEnglishSentence": "The police encouraged citizens to 「claim a reward」 for information leading to the suspect’s arrest.",
+          "chineseTranslation": "警方鼓励市民为提供嫌犯被捕线索「领取悬赏」。",
+          "chinglishFix": "典型中式英语：People can take reward. 纠正：People can claim a reward.（使用正确的动词claim）"
+        }
+      ]
+    }
+  ]
+}
+```

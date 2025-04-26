@@ -1,0 +1,53 @@
+```json
+{
+  "word": "feedback",
+  "definitions": [
+    {
+      "meaning": "对某人或某事的表现、产品或服务的评论、意见或建议，通常是为了改进或评估",
+      "usage": "通常用作不可数名词，指对工作、产品、服务或表现的评价、建议或反应。常见于工作、教育、客户服务和产品开发等场景。",
+      "collocations": ["provide feedback", "receive feedback", "give feedback", "constructive feedback", "positive feedback", "negative feedback"],
+      "examples": [
+        {
+          "scene": "在一场公司会议后，经理希望了解员工对新项目计划的看法。",
+          "chineseIdea": "经理想知道员工对新项目的意见，以便改进计划。",
+          "sentenceWithBlank": "After the meeting, the manager asked the team to @ @ on the proposed project plan.",
+          "fullEnglishSentence": "After the meeting, the manager asked the team to 「provide feedback」 on the proposed project plan.",
+          "chineseTranslation": "会议结束后，经理要求团队对提议的项目计划「提供反馈」。",
+          "chinglishFix": "典型中式英语：'Give some opinions about the plan.' 纠正：'Provide feedback on the plan.'（'Opinions' 更主观且不一定有改进目的，而 'feedback' 更专业且常用于改进或评估。）"
+        },
+        {
+          "scene": "一位老师在批改学生作文后，给学生一些具体的建议，帮助他们提高写作。",
+          "chineseIdea": "老师希望通过具体的建议，让学生知道写作中的优点和需要改进的地方。",
+          "sentenceWithBlank": "The teacher took time to @ @ to each student about their essays.",
+          "fullEnglishSentence": "The teacher took time to 「give feedback」 to each student about their essays.",
+          "chineseTranslation": "老师花时间对每位学生的作文「给予反馈」。",
+          "chinglishFix": "典型中式英语：'Tell students how to improve their essays.' 纠正：'Give feedback to students on their essays.'（'Tell' 缺乏反馈的专业性和双向性，'feedback' 更适合正式的评价场景。）"
+        }
+      ]
+    },
+    {
+      "meaning": "电子或机械系统中，输出的一部分被返回到输入端以调节或控制系统的过程",
+      "usage": "用作不可数名词，常见于技术、工程或科学领域，指系统自我调节的过程，如电路、自动控制系统或生物系统中。",
+      "collocations": ["feedback loop", "negative feedback", "positive feedback", "control feedback"],
+      "examples": [
+        {
+          "scene": "一位工程师在设计一个自动温控系统时，需要确保系统能根据温度变化自我调节。",
+          "chineseIdea": "工程师希望系统能通过返回的温度数据来调整加热或冷却。",
+          "sentenceWithBlank": "The thermostat uses a @ @ to maintain a stable room temperature.",
+          "fullEnglishSentence": "The thermostat uses a 「feedback loop」 to maintain a stable room temperature.",
+          "chineseTranslation": "恒温器使用一个「反馈循环」来保持稳定的室温。",
+          "chinglishFix": "典型中式英语：'The system returns data to control temperature.' 纠正：'The system uses a feedback loop to control temperature.'（'Returns data' 过于笼统，'feedback loop' 是技术领域的标准术语。）"
+        },
+        {
+          "scene": "在研究生物系统中，科学家观察到某种激素如何通过调节机制维持身体平衡。",
+          "chineseIdea": "科学家想描述激素如何通过返回信号来控制分泌量。",
+          "sentenceWithBlank": "The body relies on @ @ to regulate hormone levels effectively.",
+          "fullEnglishSentence": "The body relies on 「negative feedback」 to regulate hormone levels effectively.",
+          "chineseTranslation": "身体依靠「负反馈」来有效调节激素水平。",
+          "chinglishFix": "典型中式英语：'The body uses signals to control hormones.' 纠正：'The body uses negative feedback to regulate hormones.'（'Signals' 过于模糊，'negative feedback' 是生物学中的专业术语。）"
+        }
+      ]
+    }
+  ]
+}
+```
