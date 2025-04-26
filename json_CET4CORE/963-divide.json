@@ -1,0 +1,76 @@
+```json
+{
+  "word": "divide",
+  "definitions": [
+    {
+      "meaning": "将整体分割成若干部分",
+      "usage": "指将某物或某整体物理或抽象地分成较小的部分，通常强调均等或明确划分。",
+      "collocations": ["divide into", "divide among", "divide by"],
+      "examples": [
+        {
+          "scene": "在一个家庭聚会上，妈妈烤了一个大蛋糕，准备分给孩子们吃。每个人都期待能得到一块。",
+          "chineseIdea": "妈妈需要把蛋糕切成均匀的几份，确保每个孩子都能得到一块。",
+          "sentenceWithBlank": "She decided to @ @ four equal parts to share with the children.",
+          "fullEnglishSentence": "She decided to 「divide into」 four equal parts to share with the children.",
+          "chineseTranslation": "她决定将蛋糕「分成」四等份与孩子们分享。",
+          "chinglishFix": "典型中式英语：She cut the cake to four parts. 纠正：She divided the cake into four parts.（‘cut to’不自然，‘divide into’更符合分割成份的语境）"
+        },
+        {
+          "scene": "在一个团队项目中，经理需要将任务分配给组员，确保每个人都有明确的工作。",
+          "chineseIdea": "经理要把任务平均分配给团队中的每个成员。",
+          "sentenceWithBlank": "The manager chose to @ @ the team members based on their skills.",
+          "fullEnglishSentence": "The manager chose to 「divide among」 the team members based on their skills.",
+          "chineseTranslation": "经理选择根据成员的技能将任务「分配给」团队成员。",
+          "chinglishFix": "典型中式英语：The manager gave tasks to team members equally. 纠正：The manager divided the tasks among the team members.（‘gave to equally’缺乏分配的明确性，‘divide among’更精准）"
+        }
+      ]
+    },
+    {
+      "meaning": "在数学中进行除法运算",
+      "usage": "指在数学运算中，将一个数除以另一个数以得到商，通常用于计算或教学场景。",
+      "collocations": ["divide by", "divide evenly", "divide into"],
+      "examples": [
+        {
+          "scene": "在数学课上，老师教学生如何进行除法运算，用简单的例子帮助他们理解。",
+          "chineseIdea": "老师用一个数字除以另一个数字来展示除法的基本概念。",
+          "sentenceWithBlank": "The teacher showed how to @ @ 4 to get the quotient.",
+          "fullEnglishSentence": "The teacher showed how to 「divide by」 4 to get the quotient.",
+          "chineseTranslation": "老师展示了如何「除以」4来得到商。",
+          "chinglishFix": "典型中式英语：The teacher taught us to use 12 divide 4. 纠正：The teacher taught us to divide 12 by 4.（‘use divide’语法错误，‘divide by’是正确搭配）"
+        },
+        {
+          "scene": "在一次预算规划中，财务人员需要计算每人分摊的费用。",
+          "chineseIdea": "财务人员需要将总费用除以人数，得出每人应支付的金额。",
+          "sentenceWithBlank": "They needed to @ @ 5 to calculate the cost per person.",
+          "fullEnglishSentence": "They needed to 「divide by」 5 to calculate the cost per person.",
+          "chineseTranslation": "他们需要「除以」5来计算每人的费用。",
+          "chinglishFix": "典型中式英语：They calculated the cost by divide 100 to 5. 纠正：They divided 100 by 5 to calculate the cost.（‘by divide to’语法混乱，‘divide by’更清晰）"
+        }
+      ]
+    },
+    {
+      "meaning": "造成分歧或分离",
+      "usage": "指在观点、意见或群体之间产生分歧或对立，通常用于描述社会、情感或政治场景。",
+      "collocations": ["divide over", "divide on", "divide between"],
+      "examples": [
+        {
+          "scene": "在一个社区会议上，居民们针对是否建造新公园展开激烈争论，意见不一。",
+          "chineseIdea": "居民们因为对新公园的态度不同而产生了分歧。",
+          "sentenceWithBlank": "The community was @ @ the issue of building a new park.",
+          "fullEnglishSentence": "The community was 「divided over」 the issue of building a new park.",
+          "chineseTranslation": "社区在建造新公园的问题上「产生了分歧」。",
+          "chinglishFix": "典型中式英语：The community had different opinions about the park. 纠正：The community was divided over the park issue.（‘had different opinions’太平淡，‘divided over’更能体现对立）"
+        },
+        {
+          "scene": "在一个家庭中，兄弟姐妹因为遗产分配问题产生了矛盾。",
+          "chineseIdea": "遗产分配让家庭成员之间出现了隔阂。",
+          "sentenceWithBlank": "The family was @ @ how to distribute the inheritance.",
+          "fullEnglishSentence": "The family was 「divided on」 how to distribute the inheritance.",
+          "chineseTranslation": "家庭在如何分配遗产的问题上「产生了分歧」。",
+          "chinglishFix": "典型中式英语：The family argued about the inheritance. 纠正：The family was divided on the inheritance issue.（‘argued about’仅指争吵，‘divided on’更强调分歧）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "financial",
+  "definitions": [
+    {
+      "meaning": "与金钱、财务或资金管理相关的",
+      "usage": "通常用作形容词，描述与个人、企业或政府的金钱事务、投资、预算或财务状况相关的事物。",
+      "collocations": ["financial planning", "financial crisis", "financial support"],
+      "examples": [
+        {
+          "scene": "一位年轻人正在与理财顾问讨论如何规划未来的储蓄和投资。",
+          "chineseIdea": "年轻人希望通过合理安排收入和支出，确保未来的经济安全，比如买房或退休。",
+          "sentenceWithBlank": "The advisor emphasized the importance of @ @ for long-term stability.",
+          "fullEnglishSentence": "The advisor emphasized the importance of 「financial planning」 for long-term stability.",
+          "chineseTranslation": "顾问强调了「财务规划」对于长期稳定性的重要性。",
+          "chinglishFix": "典型中式英语：'Make a money plan for future.' 纠正：'Engage in financial planning for the future.'"
+        },
+        {
+          "scene": "一家公司因市场动荡导致资金链断裂，员工们在会议中讨论应对措施。",
+          "chineseIdea": "公司面临严重的经济困境，需要采取紧急措施来度过难关。",
+          "sentenceWithBlank": "The company is struggling to recover from a severe @ @.",
+          "fullEnglishSentence": "The company is struggling to recover from a severe 「financial crisis」.",
+          "chineseTranslation": "公司正努力从严重的「财务危机」中恢复。",
+          "chinglishFix": "典型中式英语：'Company has money problem.' 纠正：'The company is facing a financial crisis.'"
+        }
+      ]
+    },
+    {
+      "meaning": "与提供资金或经济援助相关的",
+      "usage": "用作形容词，描述为某人或某事提供金钱支持的行为或资源。",
+      "collocations": ["financial aid", "financial backing", "financial assistance"],
+      "examples": [
+        {
+          "scene": "一名大学生正在申请奖学金，以支付高昂的学费。",
+          "chineseIdea": "学生希望通过获得资助来减轻学费的经济负担。",
+          "sentenceWithBlank": "She applied for @ @ to cover her tuition fees.",
+          "fullEnglishSentence": "She applied for 「financial aid」 to cover her tuition fees.",
+          "chineseTranslation": "她申请了「经济援助」来支付学费。",
+          "chinglishFix": "典型中式英语：'She asked for money help.' 纠正：'She applied for financial aid.'"
+        },
+        {
+          "scene": "一家初创企业正在与投资者谈判，以获得资金支持新项目。",
+          "chineseIdea": "创业者需要资金来推动产品开发和市场推广。",
+          "sentenceWithBlank": "The startup secured @ @ from a venture capital firm.",
+          "fullEnglishSentence": "The startup secured 「financial backing」 from a venture capital firm.",
+          "chineseTranslation": "这家初创公司从一家风险投资公司获得了「资金支持」。",
+          "chinglishFix": "典型中式英语：'They got money support.' 纠正：'They secured financial backing.'"
+        }
+      ]
+    }
+  ]
+}
+```

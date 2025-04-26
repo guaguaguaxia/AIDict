@@ -1,0 +1,76 @@
+```json
+{
+  "word": "derive",
+  "definitions": [
+    {
+      "meaning": "从某处获得或得出（某物），如信息、知识、乐趣等",
+      "usage": "常用于描述从特定来源（如经验、数据、活动等）中获取某种抽象或具体的东西，强调来源和结果之间的联系。",
+      "collocations": ["derive benefit from", "derive pleasure from", "derive inspiration from"],
+      "examples": [
+        {
+          "scene": "一位年轻的设计师在参观博物馆时，看到古代艺术品，感受到强烈的创作冲动。",
+          "chineseIdea": "设计师从古代艺术品中获得了灵感，激发了新的设计想法。",
+          "sentenceWithBlank": "She @ @ @ the intricate patterns of ancient pottery.",
+          "fullEnglishSentence": "She 「derived inspiration from」 the intricate patterns of ancient pottery.",
+          "chineseTranslation": "她从古代陶器的复杂图案中「获得了灵感」。",
+          "chinglishFix": "典型中式英语：She got inspiration from the pottery. 纠正：'Got'显得过于口语且笼统，'derived inspiration from'更正式且准确地表达了从来源中提取灵感的过程。"
+        },
+        {
+          "scene": "一位学生通过参加志愿者活动，感受到帮助他人的快乐。",
+          "chineseIdea": "学生从志愿者活动中体会到了满足感和快乐。",
+          "sentenceWithBlank": "He @ @ @ helping others in the community.",
+          "fullEnglishSentence": "He 「derived pleasure from」 helping others in the community.",
+          "chineseTranslation": "他从帮助社区中的其他人中「获得了快乐」。",
+          "chinglishFix": "典型中式英语：He felt happy from helping others. 纠正：'Felt happy'缺乏从来源中提取的含义，'derived pleasure from'更精确地表达了从活动中获得快乐的过程。"
+        }
+      ]
+    },
+    {
+      "meaning": "起源于，追溯到（某事物）",
+      "usage": "常用于描述某事物（如语言、传统、名称等）的起源或历史根源，强调追溯到某个具体来源。",
+      "collocations": ["derive from", "be derived from", "derive its name from"],
+      "examples": [
+        {
+          "scene": "一位历史老师在课堂上讲解英语单词的起源，提到许多词汇来自拉丁语。",
+          "chineseIdea": "老师解释某个单词的词根可以追溯到古老的拉丁语。",
+          "sentenceWithBlank": "Many English words @ @ Latin.",
+          "fullEnglishSentence": "Many English words 「are derived from」 Latin.",
+          "chineseTranslation": "许多英语单词「源自」拉丁语。",
+          "chinglishFix": "典型中式英语：Many words come from Latin. 纠正：'Come from'较为口语且缺乏学术感，'are derived from'更正式且强调历史渊源。"
+        },
+        {
+          "scene": "一位导游在介绍一个小镇的名字时，提到它与一条河流有关。",
+          "chineseIdea": "导游说明小镇的名字来源于附近的一条河流。",
+          "sentenceWithBlank": "The town @ @ @ the nearby river.",
+          "fullEnglishSentence": "The town 「derives its name from」 the nearby river.",
+          "chineseTranslation": "这个小镇的名字「源自」旁边的河流。",
+          "chinglishFix": "典型中式英语：The town’s name is from the river. 纠正：'Is from'过于简单，'derives its name from'更具体地表达了名称的起源。"
+        }
+      ]
+    },
+    {
+      "meaning": "在数学或科学中，通过推理或计算从某公式或数据中得出（结果）",
+      "usage": "常用于学术或技术场景，描述通过逻辑推导或计算从已知条件中得出新结论或公式。",
+      "collocations": ["derive an equation", "derive a formula", "derive a result"],
+      "examples": [
+        {
+          "scene": "一位物理学教授在课堂上展示如何从基本定律推导出新的公式。",
+          "chineseIdea": "教授通过计算从牛顿定律中得出一个新的运动方程。",
+          "sentenceWithBlank": "The professor @ @ @ using Newton’s laws.",
+          "fullEnglishSentence": "The professor 「derived an equation」 using Newton’s laws.",
+          "chineseTranslation": "教授使用牛顿定律「推导出了一个方程」。",
+          "chinglishFix": "典型中式英语：The professor found an equation from Newton’s laws. 纠正：'Found'不准确，'derived an equation'更专业地表达了通过推导得到公式的过程。"
+        },
+        {
+          "scene": "一位数据分析师在研究报告中展示如何从实验数据中得出结论。",
+          "chineseIdea": "分析师通过分析实验数据计算出了一个关键结果。",
+          "sentenceWithBlank": "She @ @ @ from the experimental data.",
+          "fullEnglishSentence": "She 「derived a result」 from the experimental data.",
+          "chineseTranslation": "她从实验数据中「得出了一个结果」。",
+          "chinglishFix": "典型中式英语：She got a result from the data. 纠正：'Got'过于泛泛，'derived a result'更精确地表达了通过分析得出的过程。"
+        }
+      ]
+    }
+  ]
+}
+```

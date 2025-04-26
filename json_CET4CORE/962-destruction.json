@@ -1,0 +1,53 @@
+```json
+{
+  "word": "destruction",
+  "definitions": [
+    {
+      "meaning": "毁坏；破坏（某物的物理结构或存在）",
+      "usage": "指通过外力或自然力量导致某物的损坏或完全消失，通常用于描述建筑物、自然环境或其他有形物体的毁坏。",
+      "collocations": ["cause destruction", "widespread destruction", "complete destruction"],
+      "examples": [
+        {
+          "scene": "一场强烈的地震袭击了一个沿海城市，许多房屋倒塌，道路裂开，城市的基础设施遭受严重破坏。",
+          "chineseIdea": "描述自然灾害对城市造成的巨大破坏，强调物理结构的毁坏。",
+          "sentenceWithBlank": "The earthquake @ @ in the coastal city, leaving thousands homeless.",
+          "fullEnglishSentence": "The earthquake 「caused destruction」 in the coastal city, leaving thousands homeless.",
+          "chineseTranslation": "地震在沿海城市「造成了破坏」，导致数千人无家可归。",
+          "chinglishFix": "典型中式英语：The earthquake made destruction to the city. 纠正：The earthquake caused destruction in the city.（‘make destruction’不符合英语习惯，正确搭配是‘cause destruction’）"
+        },
+        {
+          "scene": "一场森林大火席卷了国家公园，烧毁了数千公顷的树林，野生动物的栖息地被彻底摧毁。",
+          "chineseIdea": "描述火灾对自然环境的毁灭性影响，突出生态系统的丧失。",
+          "sentenceWithBlank": "The wildfire led to @ @ of the national park’s ecosystem.",
+          "fullEnglishSentence": "The wildfire led to 「widespread destruction」 of the national park’s ecosystem.",
+          "chineseTranslation": "野火导致国家公园生态系统「广泛的破坏」。",
+          "chinglishFix": "典型中式英语：The fire destroyed widely the park. 纠正：The wildfire led to widespread destruction of the park.（‘destroyed widely’语序和表达不自然，‘widespread destruction’是固定搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "毁灭；消灭（抽象概念，如关系、希望或系统）",
+      "usage": "指对无形事物（如关系、计划、信心等）的彻底摧毁或终结，常用于描述某种抽象事物的崩溃或失效。",
+      "collocations": ["bring about destruction", "mutual destruction", "economic destruction"],
+      "examples": [
+        {
+          "scene": "两个商业伙伴因为长期的争吵和不信任，决定结束合作关系，他们之间的信任完全破裂。",
+          "chineseIdea": "描述人际关系因为矛盾而彻底瓦解，强调信任的丧失。",
+          "sentenceWithBlank": "Their constant arguments @ @ of their partnership.",
+          "fullEnglishSentence": "Their constant arguments 「brought about destruction」 of their partnership.",
+          "chineseTranslation": "他们不断的争吵「导致了合作关系的毁灭」。",
+          "chinglishFix": "典型中式英语：Their arguments destroyed their partnership’s destruction. 纠正：Their arguments brought about the destruction of their partnership.（‘destroyed destruction’重复且不自然，‘bring about destruction’更符合语感）"
+        },
+        {
+          "scene": "一家公司因为管理不善和市场竞争，陷入了严重的财务危机，最终导致破产。",
+          "chineseIdea": "描述经济体系或企业因为内部问题而崩溃，突出财务的毁灭。",
+          "sentenceWithBlank": "Poor management resulted in the @ @ of the company.",
+          "fullEnglishSentence": "Poor management resulted in the 「economic destruction」 of the company.",
+          "chineseTranslation": "管理不善导致了公司的「经济毁灭」。",
+          "chinglishFix": "典型中式英语：The company was destroyed economically. 纠正：Poor management led to the economic destruction of the company.（‘destroyed economically’不地道，‘economic destruction’是更自然的表达）"
+        }
+      ]
+    }
+  ]
+}
+```
