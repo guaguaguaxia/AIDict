@@ -1,0 +1,76 @@
+```json
+{
+  "word": "instrument",
+  "definitions": [
+    {
+      "meaning": "乐器",
+      "usage": "指可以用来演奏音乐的工具或设备，如钢琴、吉他、小提琴等，通常用于描述音乐表演或学习音乐的场景。",
+      "collocations": ["play an instrument", "learn an instrument", "master an instrument"],
+      "examples": [
+        {
+          "scene": "在一个安静的周末下午，小明坐在家里，阳光洒在木地板上，他决定开始练习一种新的乐器，希望能为朋友的生日派对准备一首特别的曲子。",
+          "chineseIdea": "小明想要通过学习一种乐器来表达自己的情感，并且希望能在朋友面前展示自己的才华。",
+          "sentenceWithBlank": "He decided to @ @ @ to prepare a special song for his friend's birthday.",
+          "fullEnglishSentence": "He decided to 「play an instrument」 to prepare a special song for his friend's birthday.",
+          "chineseTranslation": "他决定「演奏一种乐器」来为朋友的生日准备一首特别的曲子。",
+          "chinglishFix": "中式英语：He wants to play music with instrument. 纠正：He wants to play an instrument to make music."
+        },
+        {
+          "scene": "在学校的音乐教室里，老师正在鼓励学生们尝试不同的乐器，以发现他们真正感兴趣的音乐方向。",
+          "chineseIdea": "老师希望通过让学生接触乐器，激发他们对音乐的热情，并帮助他们找到适合自己的表达方式。",
+          "sentenceWithBlank": "The teacher encouraged the students to @ @ @ to find their musical passion.",
+          "fullEnglishSentence": "The teacher encouraged the students to 「learn an instrument」 to find their musical passion.",
+          "chineseTranslation": "老师鼓励学生们「学习一种乐器」来找到他们的音乐激情。",
+          "chinglishFix": "中式英语：Teacher let students study instrument. 纠正：The teacher encouraged students to learn an instrument."
+        }
+      ]
+    },
+    {
+      "meaning": "工具；仪器",
+      "usage": "指用于特定目的的设备或工具，特别是在科学、医疗或技术领域，如手术刀、显微镜等，常用于描述专业或技术性工作。",
+      "collocations": ["use an instrument", "calibrate an instrument", "handle an instrument"],
+      "examples": [
+        {
+          "scene": "在医院的手术室里，医生们正在为一场复杂的手术做准备，他们需要确保所有的工具都经过严格消毒并且能够精准操作。",
+          "chineseIdea": "医生需要依靠专业的工具来完成手术，确保手术过程安全且高效。",
+          "sentenceWithBlank": "The surgeon needed to @ @ @ with precision during the operation.",
+          "fullEnglishSentence": "The surgeon needed to 「use an instrument」 with precision during the operation.",
+          "chineseTranslation": "外科医生需要在手术中「使用一种工具」以确保精准。",
+          "chinglishFix": "中式英语：Doctor use tool for operation. 纠正：The doctor uses an instrument for the operation."
+        },
+        {
+          "scene": "在一个科学实验室中，研究人员正在调整设备以确保实验数据的准确性，他们需要定期检查和维护这些精密的仪器。",
+          "chineseIdea": "研究人员希望通过调整仪器来保证实验结果的可靠性，这对科学研究至关重要。",
+          "sentenceWithBlank": "The researchers had to @ @ @ to ensure accurate results.",
+          "fullEnglishSentence": "The researchers had to 「calibrate an instrument」 to ensure accurate results.",
+          "chineseTranslation": "研究人员需要「校准一种仪器」以确保结果的准确性。",
+          "chinglishFix": "中式英语：Scientists adjust machine for experiment. 纠正：Scientists calibrate an instrument for the experiment."
+        }
+      ]
+    },
+    {
+      "meaning": "手段；途径",
+      "usage": "指实现某目标或目的的工具、方法或媒介，常用于抽象或比喻意义，如法律、政策等，通常出现在正式或学术性语境中。",
+      "collocations": ["serve as an instrument", "act as an instrument", "use as an instrument"],
+      "examples": [
+        {
+          "scene": "在一次国际会议上，外交官们讨论如何通过合作协议来促进全球和平，他们认为这些协议是解决冲突的重要工具。",
+          "chineseIdea": "外交官希望通过签署协议来推动和平，这被视为一种有效的手段。",
+          "sentenceWithBlank": "The agreement was designed to @ @ @ @ of peace.",
+          "fullEnglishSentence": "The agreement was designed to 「serve as an instrument」 of peace.",
+          "chineseTranslation": "该协议被设计为「作为一种和平的手段」。",
+          "chinglishFix": "中式英语：Agreement is tool for peace. 纠正：The agreement serves as an instrument of peace."
+        },
+        {
+          "scene": "在学校的教育改革中，校长提出通过新的课程设计来提升学生的创造力，强调课程是实现教育目标的关键。",
+          "chineseIdea": "校长认为课程改革是提升学生能力的重要途径，可以帮助学生更好地发展。",
+          "sentenceWithBlank": "The new curriculum was intended to @ @ @ @ for fostering creativity.",
+          "fullEnglishSentence": "The new curriculum was intended to 「act as an instrument」 for fostering creativity.",
+          "chineseTranslation": "新课程旨在「作为一种培养创造力的手段」。",
+          "chinglishFix": "中式英语：Curriculum is method to improve creativity. 纠正：The curriculum acts as an instrument for fostering creativity."
+        }
+      ]
+    }
+  ]
+}
+```
