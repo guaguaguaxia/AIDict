@@ -1,0 +1,53 @@
+```json
+{
+  "word": "initiative",
+  "definitions": [
+    {
+      "meaning": "主动性；率先采取行动的能力或倾向",
+      "usage": "指某人主动开始某事或在没有他人指示的情况下采取行动的能力，常用于描述个人品质或行为，尤其在工作、社交或领导情境中。",
+      "collocations": ["take the initiative", "show initiative", "seize the initiative"],
+      "examples": [
+        {
+          "scene": "在一家科技公司的团队会议中，项目进度落后，经理希望有人能主动提出解决方案，而不是等待指示。",
+          "chineseIdea": "某人主动站出来，提出一个创新的计划来解决问题，展现领导力。",
+          "sentenceWithBlank": "She decided to @ @ @ and proposed a new strategy to meet the deadline.",
+          "fullEnglishSentence": "She decided to 「take the initiative」 and proposed a new strategy to meet the deadline.",
+          "chineseTranslation": "她决定「主动采取行动」，提出了一种新策略来满足截止日期。",
+          "chinglishFix": "典型中式英语：She active to suggest a plan. 纠正：She took the initiative to suggest a plan."
+        },
+        {
+          "scene": "在一个志愿者活动中，组织者忙碌不堪，现场有些混乱，需要有人主动协调参与者。",
+          "chineseIdea": "某人主动站出来分配任务，确保活动顺利进行。",
+          "sentenceWithBlank": "He @ @ and organized the group to streamline the event.",
+          "fullEnglishSentence": "He 「showed initiative」 and organized the group to streamline the event.",
+          "chineseTranslation": "他「展现了主动性」，组织了团队以简化活动流程。",
+          "chinglishFix": "典型中式英语：He was active to manage the team. 纠正：He showed initiative in managing the team."
+        }
+      ]
+    },
+    {
+      "meaning": "倡议；为解决某一问题或实现某一目标而提出的计划或行动",
+      "usage": "指正式提出或启动的计划、项目或运动，通常涉及集体行动或政策，常用于政治、商业或社会改革情境。",
+      "collocations": ["launch an initiative", "support an initiative", "lead an initiative"],
+      "examples": [
+        {
+          "scene": "一家公司注意到员工的工作压力过大，决定启动一个心理健康项目。",
+          "chineseIdea": "公司高管宣布一个全面的计划，旨在改善员工的心理健康。",
+          "sentenceWithBlank": "The CEO decided to @ @ @ to promote mental health among employees.",
+          "fullEnglishSentence": "The CEO decided to 「launch an initiative」 to promote mental health among employees.",
+          "chineseTranslation": "首席执行官决定「发起一项倡议」，以促进员工的心理健康。",
+          "chinglishFix": "典型中式英语：The CEO start a plan for mental health. 纠正：The CEO launched an initiative for mental health."
+        },
+        {
+          "scene": "一个非政府组织希望提高公众对气候变化的关注，决定推动一个全国性的环保活动。",
+          "chineseIdea": "组织负责人带头制定并推广一个环保计划，吸引更多人参与。",
+          "sentenceWithBlank": "She was chosen to @ @ @ aimed at raising environmental awareness.",
+          "fullEnglishSentence": "She was chosen to 「lead an initiative」 aimed at raising environmental awareness.",
+          "chineseTranslation": "她被选为「领导一项倡议」，旨在提高环保意识。",
+          "chinglishFix": "典型中式英语：She guide a project for environment. 纠正：She led an initiative for environmental awareness."
+        }
+      ]
+    }
+  ]
+}
+```

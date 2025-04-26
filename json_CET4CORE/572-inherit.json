@@ -1,0 +1,53 @@
+```json
+{
+  "word": "inherit",
+  "definitions": [
+    {
+      "meaning": "从祖先或前人那里接收财产、头衔或特征",
+      "usage": "指通过法律或遗传从父母、祖父母等前人那里获得金钱、财产、头衔或身体/性格特征，通常用于描述遗产继承或遗传特征。",
+      "collocations": ["inherit a fortune", "inherit a trait", "inherit a title"],
+      "examples": [
+        {
+          "scene": "一个年轻人得知自己的祖父去世，留给他一大笔遗产。他感到既兴奋又有些压力，因为这笔钱带来了新的责任。",
+          "chineseIdea": "年轻人突然得到一大笔钱，觉得自己既幸运又需要学会管理财富。",
+          "sentenceWithBlank": "After his grandfather’s passing, Tom was surprised to @ @ @ from him.",
+          "fullEnglishSentence": "After his grandfather’s passing, Tom was surprised to 「inherit a fortune」 from him.",
+          "chineseTranslation": "在祖父去世后，汤姆惊讶地从他那里「继承了一大笔财富」。",
+          "chinglishFix": "典型中式英语：'Tom received a big money from his grandfather.' 纠正：'Tom inherited a fortune from his grandfather.'（'receive money'不够具体，inherit更贴合遗产场景）"
+        },
+        {
+          "scene": "一个家族中有成员讨论他们的外貌特征，注意到孩子们的眼睛颜色和父亲一样，觉得这是家族遗传。",
+          "chineseIdea": "孩子的外貌特征和父亲相似，认为是家族基因的传承。",
+          "sentenceWithBlank": "Both siblings seem to have @ @ @ from their father, especially their striking blue eyes.",
+          "fullEnglishSentence": "Both siblings seem to have 「inherited a trait」 from their father, especially their striking blue eyes.",
+          "chineseTranslation": "两个兄弟姐妹似乎都从父亲那里「继承了一种特征」，特别是他们那醒目的蓝眼睛。",
+          "chinglishFix": "典型中式英语：'They got blue eyes from their father.' 纠正：'They inherited the trait of blue eyes from their father.'（'got'过于口语化，inherit更准确描述遗传）"
+        }
+      ]
+    },
+    {
+      "meaning": "接手或承担（某人的职责、问题或情况）",
+      "usage": "指接管前人留下的责任、问题或未完成的工作，通常带有一定的负担感，常见于描述新上任的人接收前任留下的局面。",
+      "collocations": ["inherit a problem", "inherit a legacy", "inherit a mess"],
+      "examples": [
+        {
+          "scene": "一位新上任的公司经理发现前任留下了许多未解决的财务问题，需要他来处理。",
+          "chineseIdea": "新经理发现自己必须面对前任留下的麻烦，感到很有压力。",
+          "sentenceWithBlank": "When Sarah became the new CEO, she was shocked to @ @ @ from her predecessor.",
+          "fullEnglishSentence": "When Sarah became the new CEO, she was shocked to 「inherit a problem」 from her predecessor.",
+          "chineseTranslation": "当莎拉成为新任首席执行官时，她震惊地从前任那里「继承了一个问题」。",
+          "chinglishFix": "典型中式英语：'Sarah got a problem from the old CEO.' 纠正：'Sarah inherited a problem from her predecessor.'（'got'不适合正式语境，inherit更贴合接手问题）"
+        },
+        {
+          "scene": "一位新当选的市长上任后，发现前任政府留下了一堆混乱的政策和未完成的项目。",
+          "chineseIdea": "新市长需要收拾前任留下的烂摊子，感到任务艰巨。",
+          "sentenceWithBlank": "The newly elected mayor had to @ @ @ left by the previous administration.",
+          "fullEnglishSentence": "The newly elected mayor had to 「inherit a mess」 left by the previous administration.",
+          "chineseTranslation": "新当选的市长不得不处理前任政府留下的「一团糟」。",
+          "chinglishFix": "典型中式英语：'The mayor received a bad situation.' 纠正：'The mayor inherited a mess.'（'receive situation'不自然，inherit a mess更符合英语习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

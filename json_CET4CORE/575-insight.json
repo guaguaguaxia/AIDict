@@ -1,0 +1,53 @@
+```json
+{
+  "word": "insight",
+  "definitions": [
+    {
+      "meaning": "对某事物的深刻理解或洞察力",
+      "usage": "指通过观察、分析或直觉对某事物本质的深入理解，常用于描述对复杂问题、情况或人的深刻认识。",
+      "collocations": ["gain insight", "provide insight", "offer insight"],
+      "examples": [
+        {
+          "scene": "一位市场分析师在公司会议上分享对消费者行为的分析，揭示了为什么某款产品在年轻人中特别受欢迎。",
+          "chineseIdea": "分析师通过研究数据，发现年轻人购买决策背后的心理动机，提出了独特的看法。",
+          "sentenceWithBlank": "Her presentation helped us @ @ into why this product appeals to younger audiences.",
+          "fullEnglishSentence": "Her presentation helped us 「gain insight」 into why this product appeals to younger audiences.",
+          "chineseTranslation": "她的演讲帮助我们「深入了解」为什么这款产品吸引年轻观众。",
+          "chinglishFix": "典型中式英语：'Her presentation let us know more why this product is popular.' 纠正：'Her presentation helped us gain insight into why this product appeals to younger audiences.'（避免使用模糊的'know more'，改为更具体的'gain insight'以体现深入理解。）"
+        },
+        {
+          "scene": "一位心理咨询师在与客户交谈后，写下对客户情绪问题的深刻观察，以帮助制定治疗计划。",
+          "chineseIdea": "咨询师通过倾听和提问，发现客户行为背后的深层原因，提供了有价值的见解。",
+          "sentenceWithBlank": "His analysis of her responses @ @ into the root causes of her anxiety.",
+          "fullEnglishSentence": "His analysis of her responses 「provided insight」 into the root causes of her anxiety.",
+          "chineseTranslation": "他对她反应的分析「提供了洞察」，揭示了她焦虑的根本原因。",
+          "chinglishFix": "典型中式英语：'His analysis explained her anxiety reasons.' 纠正：'His analysis provided insight into the root causes of her anxiety.'（避免直接的'explain reasons'，使用'provide insight'更能体现深入分析的含义。）"
+        }
+      ]
+    },
+    {
+      "meaning": "突然领悟或灵光一闪",
+      "usage": "指在思考或解决问题时，突然获得的清晰理解或新颖想法，常用于描述灵感或顿悟的时刻。",
+      "collocations": ["have an insight", "spark an insight", "moment of insight"],
+      "examples": [
+        {
+          "scene": "一位程序员在调试代码时，苦思冥想后突然想到一个全新的算法来解决问题。",
+          "chineseIdea": "程序员在反复尝试后，脑海中突然浮现一个创新的解决办法，解决了卡住的难题。",
+          "sentenceWithBlank": "While staring at the code, she @ @ @ that changed her approach entirely.",
+          "fullEnglishSentence": "While staring at the code, she 「had an insight」 that changed her approach entirely.",
+          "chineseTranslation": "在盯着代码时，她「突发灵感」，彻底改变了她的方法。",
+          "chinglishFix": "典型中式英语：'She suddenly thought a good idea.' 纠正：'She had an insight that changed her approach entirely.'（避免模糊的'thought a good idea'，使用'had an insight'更准确地表达顿悟的瞬间。）"
+        },
+        {
+          "scene": "一位作家在散步时，看到一片落叶，突然想到一个关于人生无常的故事主题。",
+          "chineseIdea": "作家被自然景象触动，灵感迸发，构思出一个深刻的故事框架。",
+          "sentenceWithBlank": "The falling leaf @ @ @ that inspired her next novel.",
+          "fullEnglishSentence": "The falling leaf 「sparked an insight」 that inspired her next novel.",
+          "chineseTranslation": "落叶「引发灵感」，启发了她的下一部小说。",
+          "chinglishFix": "典型中式英语：'The leaf gave her a new thinking.' 纠正：'The falling leaf sparked an insight that inspired her next novel.'（避免不自然的'new thinking'，使用'sparked an insight'更生动地表达灵感触发。）"
+        }
+      ]
+    }
+  ]
+}
+```
