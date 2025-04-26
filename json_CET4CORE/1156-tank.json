@@ -1,0 +1,76 @@
+```json
+{
+  "word": "tank",
+  "definitions": [
+    {
+      "meaning": "一种装甲战斗车辆，通常配备大炮和履带，用于战争",
+      "usage": "主要用于军事语境，指重型装甲车辆，常出现在战争、军事演习或历史讨论中。",
+      "collocations": ["armored tank", "military tank", "tank battalion"],
+      "examples": [
+        {
+          "scene": "在一场关于二战的纪录片放映会上，观众们讨论了盟军在诺曼底登陆中使用的装备。",
+          "chineseIdea": "想表达盟军使用了重型装甲车辆来突破德军防线。",
+          "sentenceWithBlank": "The Allies deployed @ @ to break through the German defenses.",
+          "fullEnglishSentence": "The Allies deployed 「armored tanks」 to break through the German defenses.",
+          "chineseTranslation": "盟军部署了「装甲坦克」来突破德军防线。",
+          "chinglishFix": "典型中式英语：'The Allies used many tanks cars to fight Germans.' 纠正：'Tanks' 本身指装甲战斗车辆，不需加'cars'，应直接说 'The Allies deployed armored tanks.'"
+        },
+        {
+          "scene": "在一场军事博物馆的导览中，讲解员向游客介绍了一支由多辆重型车辆组成的部队。",
+          "chineseIdea": "想说明这支部队由多辆重型装甲车辆组成。",
+          "sentenceWithBlank": "The army showcased a powerful @ @ during the parade.",
+          "fullEnglishSentence": "The army showcased a powerful 「tank battalion」 during the parade.",
+          "chineseTranslation": "军队在阅兵式上展示了一支强大的「坦克营」。",
+          "chinglishFix": "典型中式英语：'The army showed a tank group.' 纠正：英语中常用 'battalion' 表示军事单位，应说 'tank battalion' 而非 'tank group'。"
+        }
+      ]
+    },
+    {
+      "meaning": "盛放液体或气体的大型容器，通常为金属或塑料制成",
+      "usage": "用于描述储存水、燃料、气体等的容器，常出现在日常生活、工业或农业场景中。",
+      "collocations": ["water tank", "fuel tank", "storage tank"],
+      "examples": [
+        {
+          "scene": "在一个乡村的家庭中，房主正在检查屋顶上的储水设备，因为最近缺水。",
+          "chineseIdea": "想表达房主在检查用来储存雨水的容器。",
+          "sentenceWithBlank": "The homeowner checked the @ @ for leaks.",
+          "fullEnglishSentence": "The homeowner checked the 「water tank」 for leaks.",
+          "chineseTranslation": "房主检查了「水箱」是否有漏水。",
+          "chinglishFix": "典型中式英语：'The man checked the water box.' 纠正：英语中储存水的容器通常叫 'tank'，而非 'box'，应说 'water tank'。"
+        },
+        {
+          "scene": "在一个加油站，司机发现车辆的燃油容器出现了问题。",
+          "chineseIdea": "想说明司机发现车辆的燃油容器损坏了。",
+          "sentenceWithBlank": "The driver noticed a leak in the @ @.",
+          "fullEnglishSentence": "The driver noticed a leak in the 「fuel tank」.",
+          "chineseTranslation": "司机发现「油箱」有漏油现象。",
+          "chinglishFix": "典型中式英语：'The driver found the oil box broken.' 纠正：燃油容器应为 'fuel tank'，而非 'oil box'，且 'broken' 不适合描述漏油，应说 'noticed a leak'。"
+        }
+      ]
+    },
+    {
+      "meaning": "俚语，形容某事失败或表现极差",
+      "usage": "在非正式英语中，特别是在美国俚语中，用于描述某事（如电影、项目、表演）彻底失败或表现糟糕。",
+      "collocations": ["tank badly", "completely tank", "box office tank"],
+      "examples": [
+        {
+          "scene": "在一场电影讨论会上，影迷们吐槽一部新上映的大片票房惨淡。",
+          "chineseIdea": "想表达这部电影票房失败得很惨。",
+          "sentenceWithBlank": "The new blockbuster @ @ at the box office.",
+          "fullEnglishSentence": "The new blockbuster 「tanked badly」 at the box office.",
+          "chineseTranslation": "这部新大片在票房上「惨败」。",
+          "chinglishFix": "典型中式英语：'The movie failed very bad.' 纠正：英语中 'fail' 和 'very bad' 不够生动，俚语 'tank badly' 更自然，且语法上应为 'badly' 而非 'bad'。"
+        },
+        {
+          "scene": "在一家公司会议上，员工们讨论一个新产品的市场表现非常糟糕。",
+          "chineseIdea": "想说明这个新产品在市场上彻底失败了。",
+          "sentenceWithBlank": "The new product launch @ @ in the market.",
+          "fullEnglishSentence": "The new product launch 「completely tanked」 in the market.",
+          "chineseTranslation": "新产品发布在市场上「彻底失败」。",
+          "chinglishFix": "典型中式英语：'The product was no good in market.' 纠正：'No good' 过于模糊，'tank' 是更地道的俚语表达，应说 'completely tanked'。"
+        }
+      ]
+    }
+  ]
+}
+```

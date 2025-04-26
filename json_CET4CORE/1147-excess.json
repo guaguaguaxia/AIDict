@@ -1,0 +1,61 @@
+```json
+{
+  "word": "excess",
+  "definitions": [
+    {
+      "meaning": "超过必要或正常的数量或程度；过量",
+      "usage": "指某物超出所需、预期或合理范围，通常带有负面含义，如浪费或不适当。常见于描述物质、行为或情感的过多。",
+      "collocations": [
+        "in excess of",
+        "excess baggage",
+        "excess fat"
+      ],
+      "examples": [
+        {
+          "scene": "在机场办理登机手续时，行李超重需要额外付费。",
+          "chineseIdea": "旅行者打包了太多衣服和纪念品，导致行李重量超过了航空公司规定的限额。",
+          "sentenceWithBlank": "The airline charged her because her luggage was @ @ @ 20 kilograms.",
+          "fullEnglishSentence": "The airline charged her because her luggage was 「in excess of」 20 kilograms.",
+          "chineseTranslation": "航空公司向她收费，因为她的行李「超过了」20公斤。",
+          "chinglishFix": "典型中式英语：Her luggage is over 20 kilograms. 纠正：Her luggage is in excess of 20 kilograms.（‘over’在重量超限的语境中不够正式，‘in excess of’更符合航空公司的专业用语。）"
+        },
+        {
+          "scene": "在旅行中，游客因行李超重而面临额外费用。",
+          "chineseIdea": "游客携带了过多的物品，导致行李箱超出了航空公司允许的重量。",
+          "sentenceWithBlank": "She had to pay for @ @ at the check-in counter.",
+          "fullEnglishSentence": "She had to pay for 「excess baggage」 at the check-in counter.",
+          "chineseTranslation": "她不得不在值机柜台为「超重行李」付费。",
+          "chinglishFix": "典型中式英语：She paid for too heavy luggage. 纠正：She paid for excess baggage.（‘too heavy luggage’不符合英语表达习惯，‘excess baggage’是航空领域的固定搭配。）"
+        }
+      ]
+    },
+    {
+      "meaning": "过度的行为或品质；极端",
+      "usage": "指行为、情感或品质的过度，带有不节制或失去控制的含义，常用于描述不健康或不恰当的表现。",
+      "collocations": [
+        "excess enthusiasm",
+        "excess consumption",
+        "excess caution"
+      ],
+      "examples": [
+        {
+          "scene": "在团队会议中，新员工过于激动，提出了不切实际的建议。",
+          "chineseIdea": "新员工因为对工作的热情过度，表现得过于激进，忽视了实际情况。",
+          "sentenceWithBlank": "His @ @ led to unrealistic proposals during the meeting.",
+          "fullEnglishSentence": "His 「excess enthusiasm」 led to unrealistic proposals during the meeting.",
+          "chineseTranslation": "他的「过度热情」导致会议上提出了不切实际的建议。",
+          "chinglishFix": "典型中式英语：His too much enthusiasm made bad suggestions. 纠正：His excess enthusiasm led to unrealistic proposals.（‘too much enthusiasm’语法正确但语气生硬，‘excess enthusiasm’更自然且符合书面语境。）"
+        },
+        {
+          "scene": "在节食过程中，朋友因为过于小心而影响了健康。",
+          "chineseIdea": "朋友为了减肥过于谨慎，导致营养摄入不足，身体变得虚弱。",
+          "sentenceWithBlank": "Her @ @ caused her to skip essential nutrients.",
+          "fullEnglishSentence": "Her 「excess caution」 caused her to skip essential nutrients.",
+          "chineseTranslation": "她的「过度谨慎」导致她忽略了必需的营养。",
+          "chinglishFix": "典型中式英语：She is too careful so she lacks nutrients. 纠正：Her excess caution caused her to skip essential nutrients.（‘too careful’过于口语化且逻辑松散，‘excess caution’更精确地表达过度小心。）"
+        }
+      ]
+    }
+  ]
+}
+```
