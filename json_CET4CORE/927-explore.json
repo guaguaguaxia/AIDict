@@ -1,0 +1,53 @@
+```json
+{
+  "word": "explore",
+  "definitions": [
+    {
+      "meaning": "to travel through an unfamiliar area in order to learn about it",
+      "usage": "This meaning refers to physically traveling or investigating a new or unfamiliar place to discover its features, culture, or resources. It is often used in contexts of adventure, travel, or geographical discovery.",
+      "collocations": ["explore a city", "explore new territories", "explore the wilderness"],
+      "examples": [
+        {
+          "scene": "一个年轻的中国留学生刚到伦敦，决定在周末步行游览这座城市，感受它的历史和文化氛围。",
+          "chineseIdea": "想通过亲身走访了解伦敦的街道、建筑和当地生活。",
+          "sentenceWithBlank": "She spent the weekend @ @ @ to learn about its history and culture.",
+          "fullEnglishSentence": "She spent the weekend 「exploring a city」 to learn about its history and culture.",
+          "chineseTranslation": "她周末花时间「探索城市」以了解它的历史和文化。",
+          "chinglishFix": "Chinglish: She visited the city to know it. \nCorrection: She explored the city to learn about it."
+        },
+        {
+          "scene": "一群朋友计划去云南的香格里拉，徒步穿越当地的森林和山脉，寻找未被开发的自然美景。",
+          "chineseIdea": "希望通过深入自然区域，发现隐藏的美景和独特的生态。",
+          "sentenceWithBlank": "They planned to @ @ @ in search of untouched natural beauty.",
+          "fullEnglishSentence": "They planned to 「explore the wilderness」 in search of untouched natural beauty.",
+          "chineseTranslation": "他们计划「探索荒野」以寻找未被触及的自然美景。",
+          "chinglishFix": "Chinglish: They went to the wild to look. \nCorrection: They explored the wilderness to discover its beauty."
+        }
+      ]
+    },
+    {
+      "meaning": "to investigate or examine something carefully",
+      "usage": "This meaning involves studying or analyzing a subject, idea, or possibility in detail to understand it better. It is commonly used in intellectual, professional, or creative contexts.",
+      "collocations": ["explore an idea", "explore possibilities", "explore options"],
+      "examples": [
+        {
+          "scene": "一个创业团队在会议上讨论如何改进他们的产品，提出并分析各种创新点子。",
+          "chineseIdea": "希望通过讨论和分析不同的创意，找到最适合的解决方案。",
+          "sentenceWithBlank": "The team met to @ @ @ for improving their product.",
+          "fullEnglishSentence": "The team met to 「explore an idea」 for improving their product.",
+          "chineseTranslation": "团队开会「探索一个想法」以改进他们的产品。",
+          "chinglishFix": "Chinglish: They talked the idea to make product better. \nCorrection: They explored the idea to improve their product."
+        },
+        {
+          "scene": "一个大学生在选择职业道路时，考虑不同的行业和岗位，试图找到最适合自己的方向。",
+          "chineseIdea": "想通过研究和比较不同的职业选择，找到最适合自己的路径。",
+          "sentenceWithBlank": "She spent months @ @ @ to find the best career path.",
+          "fullEnglishSentence": "She spent months 「exploring options」 to find the best career path.",
+          "chineseTranslation": "她花了几个月「探索选择」以找到最佳职业道路。",
+          "chinglishFix": "Chinglish: She looked for jobs to choose. \nCorrection: She explored options to find the right career."
+        }
+      ]
+    }
+  ]
+}
+```

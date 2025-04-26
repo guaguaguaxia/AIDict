@@ -1,0 +1,62 @@
+```json
+{
+  "word": "startup",
+  "definitions": [
+    {
+      "meaning": "一家新成立的公司，通常专注于创新或技术领域，旨在快速增长",
+      "usage": "指代新兴企业，常见于商业、科技和创业语境，强调创新和快速发展的潜力。",
+      "collocations": [
+        "launch a startup",
+        "tech startup",
+        "join a startup",
+        "fund a startup"
+      ],
+      "examples": [
+        {
+          "scene": "一个年轻人在北京的咖啡馆与朋友讨论创业计划，准备成立一家公司开发人工智能应用。",
+          "chineseIdea": "想要开始一个新的商业项目，专注于技术创新，希望吸引投资并快速成长。",
+          "sentenceWithBlank": "They plan to @ @ @ in the AI industry next year.",
+          "fullEnglishSentence": "They plan to 「launch a startup」 in the AI industry next year.",
+          "chineseTranslation": "他们计划明年在人工智能行业「推出一个初创公司」。",
+          "chinglishFix": "典型中式英语：'They want to open a startup.' 纠正：'Open' 在此语境中不自然，应使用 'launch' 或 'start'，如 'They plan to launch a startup.'"
+        },
+        {
+          "scene": "一个程序员在上海参加技术展会，听到一家新公司正在招募工程师。",
+          "chineseIdea": "想要加入一家有潜力的新公司，体验创业文化并参与创新项目。",
+          "sentenceWithBlank": "She’s excited to @ @ @ to work on cutting-edge projects.",
+          "fullEnglishSentence": "She’s excited to 「join a startup」 to work on cutting-edge projects.",
+          "chineseTranslation": "她很兴奋能「加入一家初创公司」来从事尖端项目。",
+          "chinglishFix": "典型中式英语：'She wants to enter a startup.' 纠正：'Enter' 不适合描述加入公司，应使用 'join'，如 'She wants to join a startup.'"
+        }
+      ]
+    },
+    {
+      "meaning": "启动或开始某事物（尤指机器、系统或过程）的行为",
+      "usage": "指启动设备、系统或程序的动作，常见于技术或机械相关语境。",
+      "collocations": [
+        "startup process",
+        "system startup",
+        "computer startup"
+      ],
+      "examples": [
+        {
+          "scene": "一个工程师在深圳的工厂调试一台新机器，确保其顺利运行。",
+          "chineseIdea": "需要启动机器并检查整个流程是否正常，以确保生产顺利进行。",
+          "sentenceWithBlank": "The engineer monitors the @ @ to ensure everything runs smoothly.",
+          "fullEnglishSentence": "The engineer monitors the 「startup process」 to ensure everything runs smoothly.",
+          "chineseTranslation": "工程师监控「启动过程」以确保一切顺利运行。",
+          "chinglishFix": "典型中式英语：'The engineer checks the machine opening.' 纠正：'Opening' 不适合描述机器启动，应使用 'startup process'，如 'The engineer monitors the startup process.'"
+        },
+        {
+          "scene": "一个学生在广州的宿舍打开电脑，准备开始学习。",
+          "chineseIdea": "打开电脑并等待系统加载完成，以便开始使用。",
+          "sentenceWithBlank": "It takes a few seconds for the @ @ to complete.",
+          "fullEnglishSentence": "It takes a few seconds for the 「computer startup」 to complete.",
+          "chineseTranslation": "「电脑启动」需要几秒钟才能完成。",
+          "chinglishFix": "典型中式英语：'The computer opens in a few seconds.' 纠正：'Open' 不适合描述电脑启动，应使用 'startup'，如 'The computer startup takes a few seconds.'"
+        }
+      ]
+    }
+  ]
+}
+```

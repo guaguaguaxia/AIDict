@@ -1,0 +1,53 @@
+```json
+{
+  "word": "interview",
+  "definitions": [
+    {
+      "meaning": "与某人交谈以评估其适合某个职位或任务，通常为正式的招聘过程",
+      "usage": "用作名词或动词，指在招聘过程中与求职者进行的正式会谈，目的是评估其资质、经验或适合度；作为动词时，常指面试官对候选人提问。",
+      "collocations": ["conduct an interview", "attend an interview", "prepare for an interview"],
+      "examples": [
+        {
+          "scene": "一名大学毕业生正在为一家科技公司的软件工程师职位做准备。他花了很多时间研究公司背景和练习技术问题。",
+          "chineseIdea": "他希望通过展示自己的技能和经验，给面试官留下深刻印象。",
+          "sentenceWithBlank": "The HR manager will @ @ @ with the candidate tomorrow.",
+          "fullEnglishSentence": "The HR manager will 「conduct an interview」 with the candidate tomorrow.",
+          "chineseTranslation": "人力资源经理明天将与候选人「进行面试」。",
+          "chinglishFix": "典型中式英语：'Make an interview with the candidate.' 纠正：'Conduct an interview with the candidate.'（'make' 不适用于面试，应使用 'conduct' 表示正式进行。）"
+        },
+        {
+          "scene": "一位市场营销专业的学生接到了一家广告公司的面试通知。她穿着职业装，提前到达公司，准备好回答问题。",
+          "chineseIdea": "她想确保自己准时到达并展现专业形象，以便顺利通过面试。",
+          "sentenceWithBlank": "She needs to @ @ @ at 10 a.m. tomorrow.",
+          "fullEnglishSentence": "She needs to 「attend an interview」 at 10 a.m. tomorrow.",
+          "chineseTranslation": "她明天上午10点需要「参加面试」。",
+          "chinglishFix": "典型中式英语：'Join an interview.' 纠正：'Attend an interview.'（'join' 通常用于加入团体或活动，而 'attend' 更适合表示参加正式场合如面试。）"
+        }
+      ]
+    },
+    {
+      "meaning": "与某人交谈以获取信息，通常用于新闻报道或研究",
+      "usage": "用作名词或动词，指记者、研究人员等与某人进行的交谈，以收集信息、观点或故事；作为动词时，常指主动发起提问。",
+      "collocations": ["give an interview", "have an interview", "arrange an interview"],
+      "examples": [
+        {
+          "scene": "一名记者正在为报纸撰写一篇关于本地环保运动的文章。他联系了一位环保组织负责人，计划进行深入交谈。",
+          "chineseIdea": "他希望通过这次交谈了解更多关于环保项目的细节和背后的故事。",
+          "sentenceWithBlank": "The activist agreed to @ @ @ to the journalist.",
+          "fullEnglishSentence": "The activist agreed to 「give an interview」 to the journalist.",
+          "chineseTranslation": "这位活动家同意向记者「接受采访」。",
+          "chinglishFix": "典型中式英语：'Do an interview for the journalist.' 纠正：'Give an interview to the journalist.'（'do' 不常用于此语境，'give' 更自然，表示提供采访机会。）"
+        },
+        {
+          "scene": "一位研究生正在研究城市化对居民生活的影响。她联系了社区居民，希望通过交谈了解他们的真实感受。",
+          "chineseIdea": "她计划通过与多位居民交谈，收集多样化的观点来支持她的研究。",
+          "sentenceWithBlank": "She will @ @ @ with local residents next week.",
+          "fullEnglishSentence": "She will 「have an interview」 with local residents next week.",
+          "chineseTranslation": "她下周将与当地居民「进行采访」。",
+          "chinglishFix": "典型中式英语：'Make an interview with residents.' 纠正：'Have an interview with residents.'（'make' 不适用于此，'have' 表示进行交谈更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```
