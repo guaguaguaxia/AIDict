@@ -1,0 +1,53 @@
+```json
+{
+  "word": "response",
+  "definitions": [
+    {
+      "meaning": "对某事物的回答或反应，通常以言语或书面的形式表达",
+      "usage": "指口头或书面的回答，常用于正式或非正式的交流中，如回复问题、电子邮件或请求。",
+      "collocations": ["quick response", "immediate response", "positive response"],
+      "examples": [
+        {
+          "scene": "在公司会议中，经理提出了一个关于新项目的问题，希望团队成员能够迅速给出反馈。",
+          "chineseIdea": "经理期待团队成员能够迅速回答，以推动讨论继续进行。",
+          "sentenceWithBlank": "The team provided a @ @ to the manager’s question about the project timeline.",
+          "fullEnglishSentence": "The team provided a 「quick response」 to the manager’s question about the project timeline.",
+          "chineseTranslation": "团队对经理关于项目时间表的问题给出了「快速回答」。",
+          "chinglishFix": "典型中式英语：'They give a fast answer.' 纠正：'They provided a quick response.'（'answer' 更适合具体问题，而 'response' 更通用，且 'provide' 比 'give' 更正式）"
+        },
+        {
+          "scene": "在客户发送了一封询问产品详情的电子邮件后，销售代表需要迅速回复以保持客户满意度。",
+          "chineseIdea": "销售代表希望通过迅速回复来展示专业性并赢得客户信任。",
+          "sentenceWithBlank": "The sales representative sent an @ @ to the customer’s inquiry within an hour.",
+          "fullEnglishSentence": "The sales representative sent an 「immediate response」 to the customer’s inquiry within an hour.",
+          "chineseTranslation": "销售代表在一个小时内对客户的询问发送了「即时回复」。",
+          "chinglishFix": "典型中式英语：'He reply very quick.' 纠正：'He sent an immediate response.'（'reply' 是动词，需用 'response' 作名词，且 'quick' 不如 'immediate' 正式）"
+        }
+      ]
+    },
+    {
+      "meaning": "对刺激或事件的反应，通常是非语言的，如行为或生理反应",
+      "usage": "指身体、情感或行为的反应，常用于描述对外部刺激（如声音、疼痛或情感）的自然或本能反应。",
+      "collocations": ["emotional response", "physical response", "automatic response"],
+      "examples": [
+        {
+          "scene": "在观看一部感人至深的电影时，观众可能会因为剧情的转折而流泪。",
+          "chineseIdea": "观众被电影中的情感场景触动，表现出自然的泪水反应。",
+          "sentenceWithBlank": "The movie’s sad ending triggered an @ @ from the audience.",
+          "fullEnglishSentence": "The movie’s sad ending triggered an 「emotional response」 from the audience.",
+          "chineseTranslation": "电影的悲伤结局引发了观众的「情感反应」。",
+          "chinglishFix": "典型中式英语：'The movie makes people cry reaction.' 纠正：'The movie triggered an emotional response.'（'reaction' 过于泛泛，'response' 更适合具体情感，且 'trigger' 更自然）"
+        },
+        {
+          "scene": "在医院急诊室中，医生通过敲击患者的膝盖来检查其神经反射。",
+          "chineseIdea": "医生通过测试来观察患者的身体是否对刺激产生预期反应。",
+          "sentenceWithBlank": "The doctor tested the patient’s @ @ by tapping their knee.",
+          "fullEnglishSentence": "The doctor tested the patient’s 「physical response」 by tapping their knee.",
+          "chineseTranslation": "医生通过敲击患者的膝盖测试了他们的「身体反应」。",
+          "chinglishFix": "典型中式英语：'Doctor check body reaction.' 纠正：'The doctor tested the physical response.'（'reaction' 不如 'response' 精确，且需明确测试动作）"
+        }
+      ]
+    }
+  ]
+}
+```

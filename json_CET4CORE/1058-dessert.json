@@ -1,0 +1,53 @@
+```json
+{
+  "word": "dessert",
+  "definitions": [
+    {
+      "meaning": "A sweet course eaten at the end of a meal",
+      "usage": "Refers to a sweet dish, such as cake, ice cream, or fruit, typically served after the main course in Western dining culture. It is associated with indulgence or a treat to conclude a meal.",
+      "collocations": ["serve dessert", "enjoy dessert", "skip dessert", "make dessert"],
+      "examples": [
+        {
+          "scene": "在一场家庭聚会上，晚餐结束后，大家围坐在餐桌旁，期待甜点的到来。桌上摆满了刚吃完的主菜盘子，气氛轻松，孩子们兴奋地讨论着接下来会吃什么。",
+          "chineseIdea": "甜点是晚餐的完美收尾，带来满足感和愉悦，通常是甜的食物，让人感到放松和享受。",
+          "sentenceWithBlank": "After a hearty meal, the host will @ @ to satisfy everyone’s sweet tooth.",
+          "fullEnglishSentence": "After a hearty meal, the host will 「serve dessert」 to satisfy everyone’s sweet tooth.",
+          "chineseTranslation": "在一顿丰盛的晚餐后，主人会「端上甜点」来满足大家的甜食欲望。",
+          "chinglishFix": "Chinglish: 'Give dessert to eat after dinner.' Correction: 'Serve dessert after dinner.' The verb 'serve' is more natural than 'give' in this context, and 'to eat' is redundant."
+        },
+        {
+          "scene": "在一个高档餐厅里，服务员刚刚清理了主菜的盘子，递上甜点菜单。顾客们正在讨论是否要尝试餐厅的招牌甜点，或者直接喝咖啡。",
+          "chineseIdea": "甜点是可选的享受，有些人会选择吃甜点来延长用餐的愉悦，而有些人可能因为饱了或控制饮食而放弃。",
+          "sentenceWithBlank": "Feeling full, she decided to @ @ and just have coffee instead.",
+          "fullEnglishSentence": "Feeling full, she decided to 「skip dessert」 and just have coffee instead.",
+          "chineseTranslation": "感觉很饱，她决定「跳过甜点」，只喝咖啡。",
+          "chinglishFix": "Chinglish: 'Not eat dessert.' Correction: 'Skip dessert.' The verb 'skip' is idiomatic for choosing not to have something optional like dessert."
+        }
+      ]
+    },
+    {
+      "meaning": "A region that is arid or receives little rainfall, often used in geographical contexts",
+      "usage": "Refers to a dry, barren area with little vegetation, such as a sandy or rocky landscape. This meaning is less common in everyday conversation but appears in geographical, environmental, or travel contexts.",
+      "collocations": ["desert landscape", "cross the desert", "desert climate", "explore the desert"],
+      "examples": [
+        {
+          "scene": "一群探险者在计划穿越撒哈拉沙漠，他们准备了足够的水和装备，讨论着沿途可能看到的壮丽景色和挑战。",
+          "chineseIdea": "沙漠是一片干燥、荒凉的区域，通常让人联想到极端的环境和生存的挑战，但也可能有独特的自然美景。",
+          "sentenceWithBlank": "The guide explained the beauty of the @ @ to the group before the journey began.",
+          "fullEnglishSentence": "The guide explained the beauty of the 「desert landscape」 to the group before the journey began.",
+          "chineseTranslation": "导游在旅程开始前向团队讲解了「沙漠景观」的美丽。",
+          "chinglishFix": "Chinglish: 'Desert’s view.' Correction: 'Desert landscape.' The term 'landscape' is more precise and natural for describing geographical scenery."
+        },
+        {
+          "scene": "在一部纪录片中，主持人正在介绍一个团队如何用骆驼和现代设备穿越一片广袤的沙漠，强调旅途的艰难和准备的重要性。",
+          "chineseIdea": "穿越沙漠是一项需要精心计划的活动，通常象征着冒险和对自然的敬畏。",
+          "sentenceWithBlank": "The team had to prepare thoroughly to @ @ @ safely.",
+          "fullEnglishSentence": "The team had to prepare thoroughly to 「cross the desert」 safely.",
+          "chineseTranslation": "团队必须做好充分准备才能安全地「穿越沙漠」。",
+          "chinglishFix": "Chinglish: 'Walk through desert.' Correction: 'Cross the desert.' 'Cross' is the standard verb for traveling across large areas like deserts."
+        }
+      ]
+    }
+  ]
+}
+```

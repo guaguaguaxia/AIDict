@@ -1,0 +1,53 @@
+```json
+{
+  "word": "essay",
+  "definitions": [
+    {
+      "meaning": "一篇短篇议论文或散文，通常表达个人观点或探讨某一主题",
+      "usage": "指在学术或文学背景下撰写的短篇文章，通常用于表达作者的观点、分析或反思某个主题。常见于学校作业、考试或杂志文章。",
+      "collocations": ["write an essay", "submit an essay", "publish an essay"],
+      "examples": [
+        {
+          "scene": "一名中国学生在准备雅思考试，老师要求他写一篇关于环境保护的文章。他需要表达自己对减少塑料污染的看法。",
+          "chineseIdea": "学生想说明减少塑料污染的重要性，并提出一些实际的解决方法，比如使用可重复使用的袋子。",
+          "sentenceWithBlank": "For the IELTS exam, I had to @ @ @ about environmental protection, focusing on reducing plastic pollution.",
+          "fullEnglishSentence": "For the IELTS exam, I had to 「write an essay」 about environmental protection, focusing on reducing plastic pollution.",
+          "chineseTranslation": "为了雅思考试，我需要「写一篇议论文」，内容关于环境保护，重点是减少塑料污染。",
+          "chinglishFix": "中式英语：I must write a composition about environment. 纠正：In English, 'composition' is less specific and often used for general writing in school. Use 'essay' for a short, opinion-based academic piece."
+        },
+        {
+          "scene": "一名大学生在学期末需要将一篇关于人工智能伦理的文章交给教授，文章需要包含研究和个人观点。",
+          "chineseIdea": "学生想通过分析人工智能的潜在风险，表达对技术伦理的关注，并提交给教授以获得学分。",
+          "sentenceWithBlank": "I spent weeks researching AI ethics to @ @ @ to my professor before the deadline.",
+          "fullEnglishSentence": "I spent weeks researching AI ethics to 「submit an essay」 to my professor before the deadline.",
+          "chineseTranslation": "我花了几个星期研究人工智能伦理，以便在截止日期前「提交一篇议论文」给我的教授。",
+          "chinglishFix": "中式英语：I give my homework essay to professor. 纠正：'Give' is too informal and vague. Use 'submit' to indicate formally turning in academic work."
+        }
+      ]
+    },
+    {
+      "meaning": "尝试或努力做某事（较少见，文学或正式语境）",
+      "usage": "指尝试或努力完成某事，通常带有实验或探索的含义，多见于正式或文学语言中，现代英语中较少使用。",
+      "collocations": ["make an essay", "essay a solution", "essay a task"],
+      "examples": [
+        {
+          "scene": "一位历史学家在研究古代技术时，试图重新构建一种失传的工具制作方法，记录下自己的尝试过程。",
+          "chineseIdea": "历史学家想通过实验，探索古代工匠可能使用的方法，即使结果未必成功。",
+          "sentenceWithBlank": "The historian decided to @ @ @ to recreate the ancient tool-making technique.",
+          "fullEnglishSentence": "The historian decided to 「make an essay」 to recreate the ancient tool-making technique.",
+          "chineseTranslation": "历史学家决定「尝试」重新创建古代工具制作技术。",
+          "chinglishFix": "中式英语：He try to do an experiment for old tools. 纠正：'Try to do an experiment' is vague and lacks the formal tone of 'essay' in this context. Use 'make an essay' for a deliberate, exploratory attempt."
+        },
+        {
+          "scene": "一位工程师在面对复杂的设计问题时，尝试提出一个创新但未经测试的解决方案。",
+          "chineseIdea": "工程师想通过提出一个大胆的方案来解决问题，尽管不确定是否可行，但希望通过尝试获得启发。",
+          "sentenceWithBlank": "Faced with a design challenge, the engineer chose to @ @ @ to address the issue creatively.",
+          "fullEnglishSentence": "Faced with a design challenge, the engineer chose to 「essay a solution」 to address the issue creatively.",
+          "chineseTranslation": "面对设计挑战，工程师选择「尝试一个解决方案」来创造性地解决问题。",
+          "chinglishFix": "中式英语：He try a new idea to solve problem. 纠正：'Try a new idea' is too general. In formal or literary contexts, 'essay a solution' conveys a deliberate, experimental effort."
+        }
+      ]
+    }
+  ]
+}
+```
