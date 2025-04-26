@@ -1,73 +1,51 @@
-```json
 {
   "word": "riotous",
   "definitions": [
     {
-      "meaning": "喧闹的，狂欢的，充满活力的",
-      "usage": "形容场面或行为非常热闹、混乱或充满不受控制的能量，通常带有欢乐或放纵的色彩。",
-      "collocations": ["riotous laughter", "riotous party", "riotous celebration"],
+      "meaning": "喧闹的，骚乱的",
+      "usage": "形容一群人或事件非常喧闹、混乱，甚至带有暴力或失控的性质，通常用于描述狂欢、聚会或抗议等场合。",
+      "collocations": ["riotous behavior", "riotous crowd", "riotous celebration"],
       "examples": [
         {
-          "scene": "一群朋友在酒吧庆祝生日，气氛非常热烈，大家大声笑闹，桌上的酒杯碰撞，音乐震耳欲聋。",
-          "chineseIdea": "描述一种欢乐到几乎失控的场景，朋友们尽情释放情绪，笑声此起彼伏。",
-          "sentenceWithBlank": "The room was filled with @ @ as everyone shared funny stories.",
-          "fullEnglishSentence": "The room was filled with 「riotous laughter」 as everyone shared funny stories.",
-          "chineseTranslation": "房间里充满了「喧闹的笑声」，因为每个人都在分享有趣的故事。",
-          "chinglishFix": "典型中式英语：'The room has very noisy laugh.' 纠正：'The room was filled with riotous laughter.'（避免用'has'描述动态场景，'noisy laugh'不够地道，改为'riotous laughter'更生动。）"
+          "scene": "在一场大学毕业派对上，学生们喝了很多酒，音乐震耳欲聋，大家在草坪上跳舞、喊叫，甚至有人开始扔啤酒罐，场面完全失控。",
+          "chineseIdea": "描述一群年轻人因为兴奋或醉酒而表现得非常吵闹和不受控制，带有一种狂热的气氛。",
+          "sentenceWithBlank": "The students’ @ @ led to complaints from the neighbors.",
+          "fullEnglishSentence": "The students’ 「riotous behavior」 led to complaints from the neighbors.",
+          "chineseTranslation": "学生们的「喧闹行为」引发了邻居的投诉。",
+          "chinglishFix": "典型中式英语：'The students were very noisy and made troubles.' 纠正：'The students’ riotous behavior caused disturbances.'"
         },
         {
-          "scene": "大学毕业派对在校园草坪上举行，学生们跳舞、唱歌、玩游戏，现场一片欢腾，彩带和气球四处飞舞。",
-          "chineseIdea": "表达一种盛大的集体狂欢，年轻人充满活力，活动场面热闹非凡。",
-          "sentenceWithBlank": "The students threw a @ @ to mark the end of their college years.",
-          "fullEnglishSentence": "The students threw a 「riotous party」 to mark the end of their college years.",
-          "chineseTranslation": "学生们举办了一场「喧闹的派对」来庆祝大学生活的结束。",
-          "chinglishFix": "典型中式英语：'The students make a very lively party.' 纠正：'The students threw a riotous party.'（'make a party'不地道，'lively'虽正确但不够生动，'riotous'更能体现狂欢气氛。）"
+          "scene": "在一场足球比赛后，获胜队伍的粉丝们涌上街头，高唱队歌，挥舞旗帜，有人开始点燃烟花，场面变得混乱不堪。",
+          "chineseIdea": "描述一大群人因为庆祝胜利而聚集，情绪高涨，行为变得吵闹甚至有些危险。",
+          "sentenceWithBlank": "The @ @ took over the streets, chanting and setting off fireworks.",
+          "fullEnglishSentence": "The 「riotous crowd」 took over the streets, chanting and setting off fireworks.",
+          "chineseTranslation": "「喧闹的人群」占领了街道，高喊口号并燃放烟花。",
+          "chinglishFix": "典型中式英语：'The people were very excited and noisy.' 纠正：'The riotous crowd was highly spirited and disruptive.'"
         }
       ]
     },
     {
-      "meaning": "暴乱的，骚乱的",
-      "usage": "描述人群或行为涉及暴力、混乱或破坏，通常与社会动荡或抗议相关。",
-      "collocations": ["riotous mob", "riotous protest", "riotous behavior"],
+      "meaning": "丰富多彩的，奢华的",
+      "usage": "形容某事物（通常是视觉或感官体验）极其丰富、华丽或充满活力，常用于描述色彩、装饰或艺术作品。",
+      "collocations": ["riotous colors", "riotous display", "riotous imagination"],
       "examples": [
         {
-          "scene": "在一场政治抗议活动中，部分人群情绪失控，开始砸毁商店橱窗，警察出动维持秩序。",
-          "chineseIdea": "描述一种失控的群体行为，带有破坏性和暴力倾向，场面紧张。",
-          "sentenceWithBlank": "The police were called to disperse the @ @ that had gathered downtown.",
-          "fullEnglishSentence": "The police were called to disperse the 「riotous mob」 that had gathered downtown.",
-          "chineseTranslation": "警察被召来驱散聚集在市中心的「暴乱人群」。",
-          "chinglishFix": "典型中式英语：'The police come to stop the angry people.' 纠正：'The police were called to disperse the riotous mob.'（'angry people'过于模糊，'come to stop'不够正式，'riotous mob'更准确描述暴乱群体。）"
+          "scene": "在一个热带花园里，五颜六色的花朵竞相开放，红的、黄的、紫的交织在一起，蝴蝶在花丛中飞舞，令人目不暇接。",
+          "chineseIdea": "描述一个场景中色彩极其丰富，充满生机，给人强烈的视觉冲击。",
+          "sentenceWithBlank": "The garden was filled with @ @ that dazzled every visitor.",
+          "fullEnglishSentence": "The garden was filled with 「riotous colors」 that dazzled every visitor.",
+          "chineseTranslation": "花园里充满了「丰富多彩的颜色」，让每个游客都眼花缭乱。",
+          "chinglishFix": "典型中式英语：'The garden has many colors.' 纠正：'The garden is bursting with riotous colors.'"
         },
         {
-          "scene": "一场足球比赛后，输掉比赛的粉丝情绪激动，冲上街头推翻车辆，引发混乱。",
-          "chineseIdea": "表达一种因强烈情绪引发的破坏性行为，场面危险且无序。",
-          "sentenceWithBlank": "The fans’ @ @ led to several arrests and property damage.",
-          "fullEnglishSentence": "The fans’ 「riotous behavior」 led to several arrests and property damage.",
-          "chineseTranslation": "粉丝的「暴乱行为」导致了多次逮捕和财产损失。",
-          "chinglishFix": "典型中式英语：'The fans do bad things and make trouble.' 纠正：'The fans’ riotous behavior led to several arrests.'（'do bad things'和'make trouble'过于笼统，'riotous behavior'更精确且正式。）"
-        }
-      ]
-    },
-    {
-      "meaning": "丰富多彩的，绚丽的",
-      "usage": "形容事物（尤其是颜色或自然景物）极其丰富、鲜艳或引人注目，通常带有艺术或美学意味。",
-      "collocations": ["riotous colors", "riotous display", "riotous blooms"],
-      "examples": [
-        {
-          "scene": "秋天的一个花园里，各种花朵盛开，红色、黄色、紫色的花瓣交织在一起，宛如一幅画。",
-          "chineseIdea": "描述一种色彩缤纷的自然景象，视觉上令人震撼，充满生命力。",
-          "sentenceWithBlank": "The garden was alive with @ @ that dazzled every visitor.",
-          "fullEnglishSentence": "The garden was alive with 「riotous colors」 that dazzled every visitor.",
-          "chineseTranslation": "花园里充满了「绚丽的色彩」，让每个游客都眼花缭乱。",
-          "chinglishFix": "典型中式英语：'The garden has many colorful flowers.' 纠正：'The garden was alive with riotous colors.'（'has many colorful'太平淡，'riotous colors'更生动，强调色彩的丰富和震撼。）"
-        },
-        {
- Hawkins: "The festival was a 「riotous display」 of music, dance, and vibrant costumes.",
-          "chineseTranslation": "这个节日是音乐、舞蹈和「丰富多彩的表演」的盛会。",
-          "chinglishFix": "典型中式英语：'The festival has many shows.' 纠正：'The festival was a riotous display of music and dance.'（'has many shows'缺乏描述力，'riotous display'更能体现盛大和多彩的场景。）"
+          "scene": "在一场艺术展览中，一幅画作展现了奇幻的森林场景，树木、动物和光影交织在一起，充满了超现实的细节，吸引了所有观众的目光。",
+          "chineseIdea": "描述一件艺术作品或展示因为其复杂和丰富的细节而显得生动和引人注目。",
+          "sentenceWithBlank": "The painting’s @ @ captivated the audience with its vivid details.",
+          "fullEnglishSentence": "The painting’s 「riotous imagination」 captivated the audience with its vivid details.",
+          "chineseTranslation": "这幅画的「丰富想象力」以其生动的细节吸引了观众。",
+          "chinglishFix": "典型中式英语：'The painting is very beautiful and complex.' 纠正：'The painting’s riotous imagination is striking and intricate.'"
         }
       ]
     }
   ]
 }
-```

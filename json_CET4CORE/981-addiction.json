@@ -1,55 +1,51 @@
-```json
 {
   "word": "addiction",
   "definitions": [
     {
-      "meaning": "对某事物或活动的强烈依赖或无法控制的渴望，通常具有负面影响",
-      "usage": "指对某些物质（如毒品、酒精）或行为（如赌博、玩游戏）的过度依赖，常常导致身体、心理或社交问题。",
+      "meaning": "对某事物或活动的强烈且难以控制的依赖，通常带来负面影响",
+      "usage": "通常指对药物、酒精、赌博等有害事物的依赖，强调无法自控且影响生活",
       "collocations": ["struggle with addiction", "overcome addiction", "develop an addiction"],
       "examples": [
         {
-          "scene": "小明是一个大学生，最近他发现自己每天都要玩好几个小时的手机游戏，甚至影响了学习和睡眠。他觉得自己无法停下来。",
-          "chineseIdea": "小明觉得自己对手机游戏有种无法控制的依赖，觉得自己被困住了。",
-          "sentenceWithBlank": "He’s been @ @ @ for months, unable to focus on his studies.",
-          "fullEnglishSentence": "He’s been 「struggling with addiction」 for months, unable to focus on his studies.",
-          "chineseTranslation": "他好几个月都在「与依赖作斗争」，无法专注于学业。",
-          "chinglishFix": "典型中式英语：'He is addicted to play games.' 纠正：'He is struggling with an addiction to gaming.'"
+          "scene": "小明是一个大学生，最近沉迷于网络游戏，每天熬夜玩游戏，导致学业成绩下降，身体也越来越差。他的朋友们都很担心他。",
+          "chineseIdea": "小明对游戏的依赖已经到了无法自拔的地步，他的朋友想帮助他摆脱这种状态。",
+          "sentenceWithBlank": "He’s been @ @ @ for months, and it’s ruining his studies.",
+          "fullEnglishSentence": "He’s been 「struggling with addiction」 for months, and it’s ruining his studies.",
+          "chineseTranslation": "他几个月来一直在「与依赖作斗争」，这毁了他的学业。",
+          "chinglishFix": "典型中式英语：'He is addicted to games very much.' 纠正：'He’s struggling with an addiction to gaming.'"
         },
         {
-          "scene": "李女士过去几年沉迷于网络赌博，输了很多钱。她决定寻求专业帮助来改变生活。",
-          "chineseIdea": "李女士意识到自己需要战胜赌博带来的依赖，重新掌控人生。",
-          "sentenceWithBlank": "With therapy, %
-
-System: she was able to @ @ @ and start rebuilding her life.",
-          "fullEnglishSentence": "With therapy, she was able to 「overcome addiction」 and start rebuilding her life.",
-          "chineseTranslation": "通过治疗，她能够「克服依赖」，开始重建生活。",
-          "chinglishFix": "典型中式英语：'She won her addiction.' 纠正：'She overcame her addiction.'"
+          "scene": "李女士在戒酒中心接受治疗，她过去几年因为酗酒失去了工作和家庭，现在她正在努力重建生活。",
+          "chineseIdea": "李女士意识到自己的问题，并希望通过治疗彻底摆脱对酒精的依赖。",
+          "sentenceWithBlank": "With therapy, she’s working hard to @ @.",
+          "fullEnglishSentence": "With therapy, she’s working hard to 「overcome addiction」.",
+          "chineseTranslation": "通过治疗，她努力「克服依赖」。",
+          "chinglishFix": "典型中式英语：'She wants to stop her addict.' 纠正：'She’s trying to overcome her addiction.'"
         }
       ]
     },
     {
-      "meaning": "对某事物的高度热情或迷恋，通常不带有负面含义",
-      "usage": "描述对某种活动或兴趣的强烈喜爱，但通常不会导致严重后果，更多是积极或中性的表达。",
+      "meaning": "对某事物的高度迷恋或沉迷，通常无明显负面影响",
+      "usage": "指对兴趣爱好如运动、书籍、电视剧等的强烈喜爱，带有正面或中性情感",
       "collocations": ["have an addiction to", "fuel an addiction", "feed an addiction"],
       "examples": [
         {
-          "scene": "张伟是一个咖啡爱好者，每天早上他都会去咖啡店点一杯手冲咖啡，享受那种独特的香气和味道。",
-          "chineseIdea": "张伟对咖啡的热爱几乎到了痴迷的程度，他觉得这是生活中不可或缺的一部分。",
-          "sentenceWithBlank": "He jokingly says he @ @ @ to freshly brewed coffee.",
-          "fullEnglishSentence": "He jokingly says he 「has an addiction to」 freshly brewed coffee.",
-          "chineseTranslation": "他开玩笑地说他「对现煮咖啡上瘾」。",
-          "chinglishFix": "典型中式英语：'He is addict to coffee.' 纠正：'He has an addiction to coffee.'"
+          "scene": "张伟是一个电视剧迷，每天下班后都会花几个小时追最新的美剧，他甚至会熬夜看完一整季。",
+          "chineseIdea": "张伟对美剧的喜爱几乎到了痴迷的地步，他的生活围绕着看剧展开。",
+          "sentenceWithBlank": "He @ @ @ watching American TV series, staying up late every night.",
+          "fullEnglishSentence": "He 「has an addiction to」 watching American TV series, staying up late every night.",
+          "chineseTranslation": "他「沉迷于」看美剧，每晚都熬夜。",
+          "chinglishFix": "典型中式英语：'He is addict to dramas.' 纠正：'He has an addiction to watching dramas.'"
         },
         {
-          "scene": "小红最近迷上了看韩剧，每天下班后她都会追好几集，觉得剧情让人欲罢不能。",
-          "chineseIdea": "小红觉得韩剧的吸引力让她总是想看更多，满足了她对浪漫故事的渴望。",
-          "sentenceWithBlank": "Binge-watching dramas seems to @ @ @ for romance.",
-          "fullEnglishSentence": "Binge-watching dramas seems to 「feed an addiction」 for romance.",
-          "chineseTranslation": "狂看电视剧似乎在「满足对浪漫的迷恋」。",
-          "chinglishFix": "典型中式英语：'She feeds her addict to dramas.' 纠正：'She feeds her addiction to dramas.'"
+          "scene": "小红喜欢收集限量版运动鞋，每次有新款发布，她都会第一时间去排队购买，朋友们都觉得她对鞋子太痴迷了。",
+          "chineseIdea": "小红对运动鞋的热爱让她不断购买新款，这种热情驱动她的收藏行为。",
+          "sentenceWithBlank": "Her love for sneakers continues to @ @ @ with every new release.",
+          "fullEnglishSentence": "Her love for sneakers continues to 「fuel an addiction」 with every new release.",
+          "chineseTranslation": "她对运动鞋的热爱随着每款新鞋的发布不断「助长依赖」。",
+          "chinglishFix": "典型中式英语：'She addict sneakers.' 纠正：'She’s fueling an addiction to sneakers.'"
         }
       ]
     }
   ]
 }
-```

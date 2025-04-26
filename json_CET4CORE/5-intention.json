@@ -1,64 +1,51 @@
-以下是关于“intention”这个词汇的详细解析，按照您要求的JSON格式返回。我将从多个维度分析这个词，包括其主要含义、用法、常见搭配以及具体例句。
-
-```json
 {
   "word": "intention",
   "definitions": [
     {
-      "meaning": "意图；打算；计划去做某事",
-      "usage": "指一个人有意识地计划或想要做某事，通常带有明确的目的或目标。",
-      "collocations": ["have every intention of", "with the intention of", "state your intention"],
+      "meaning": "计划或目的，某人打算做某事的主观意愿",
+      "usage": "指某人内心计划或想要实现的目标，通常与主观意愿相关，常用于描述有意识的决定或目的。可以用在正式或非正式语境中，常与动词如have, declare, express等搭配。",
+      "collocations": ["have no intention of", "with the intention of", "declare one’s intention"],
       "examples": [
         {
-          "scene": "一个学生在学期开始时与朋友讨论自己的学习计划。",
-          "chineseIdea": "这个学生想要表达自己非常认真地计划在这一学期提高英语水平。",
-          "sentenceWithBlank": "I @ @ @ improving my English this semester.",
-          "fullEnglishSentence": "I 「have every intention of」 improving my English this semester.",
-          "chineseTranslation": "我「非常打算」在这一学期提高我的英语。",
-          "chinglishFix": "典型中式英语：'I very want to improve my English.' 纠正：'I have every intention of improving my English.'（'very want'不是自然表达，英语中用'intention'更准确传达决心。）"
+          "scene": "在一次朋友聚会上，小明向朋友们分享自己未来的职业规划。他明确表示不想继续目前的工作，而是想追求自己的兴趣。",
+          "chineseIdea": "小明想要表达自己完全没有继续目前工作的打算，而是希望追求自己的梦想。",
+          "sentenceWithBlank": "I @ @ @ continuing my current job; I want to pursue my passion instead.",
+          "fullEnglishSentence": "I 「have no intention of」 continuing my current job; I want to pursue my passion instead.",
+          "chineseTranslation": "我「完全没有打算」继续目前的工作，我想追求自己的兴趣。",
+          "chinglishFix": "典型中式英语：'I don’t want to continue my job.' 纠正：'I have no intention of continuing my job.'（'don’t want'显得不够正式，且没有强调主观意愿的坚决程度）"
         },
         {
-          "scene": "一个人在公司会议上解释自己提议新项目的原因。",
-          "chineseIdea": "这个人想说明自己提出这个项目是为了提升团队效率。",
-          "sentenceWithBlank": "I proposed this project @ @ @ boosting team efficiency.",
-          "fullEnglishSentence": "I proposed this project 「with the intention of」 boosting team efficiency.",
-          "chineseTranslation": "我提出这个项目「旨在」提升团队效率。",
-          "chinglishFix": "典型中式英语：'I propose this for team better.' 纠正：'I proposed this with the intention of boosting team efficiency.'（'for team better'不地道，英语中用'intention of'更清晰。）"
+          "scene": "在公司会议上，经理宣布了一个新项目，并说明了项目的目标是为了提升客户满意度。",
+          "chineseIdea": "经理想要表达这个项目是为了提升客户体验而启动的。",
+          "sentenceWithBlank": "We launched this project @ @ @ improving customer satisfaction.",
+          "fullEnglishSentence": "We launched this project 「with the intention of」 improving customer satisfaction.",
+          "chineseTranslation": "我们启动这个项目「旨在」提升客户满意度。",
+          "chinglishFix": "典型中式英语：'We start this project to improve customer satisfaction.' 纠正：'We launched this project with the intention of improving customer satisfaction.'（'to improve'显得直接，缺少表达目的的正式语气）"
         }
       ]
     },
     {
-      "meaning": "目的；意图（尤指隐藏或深层动机）",
-      "usage": "指某人行为背后的动机或目的，可能不直接表达出来，常用于正式或分析性语境。",
-      "collocations": ["true intention", "hidden intention", "declare your intention"],
+      "meaning": "意图，特指行为背后的动机或目的，可能带有某种预期结果",
+      "usage": "强调行为背后的动机，可能涉及道德或法律语境，如判断某人行为的意图。常用于描述更复杂或深层的目的，常见于书面或正式语境。",
+      "collocations": ["good intentions", "bad intentions", "act with the intention"],
       "examples": [
         {
-          "scene": "一个侦探在调查案件时，分析嫌疑人的行为。",
-          "chineseIdea": "侦探怀疑嫌疑人表面友好，实际上有其他目的。",
-          "sentenceWithBlank": "The suspect’s friendliness might hide a @ @.",
-          "fullEnglishSentence": "The suspect’s friendliness might hide a 「hidden intention」.",
-          "chineseTranslation": "嫌疑人的友好可能隐藏着「隐秘的目的」。",
-          "chinglishFix": "典型中式英语：'He friendly but have bad mind.' 纠正：'His friendliness might hide a hidden intention.'（'bad mind'不准确，英语中用'hidden intention'更贴切。）"
+          "scene": "在学校里，小红帮助同学复习功课，但她其实是想让同学对她有好感。",
+          "chineseIdea": "小红帮助同学的动机并不完全是无私的，她有自己的小算盘。",
+          "sentenceWithBlank": "She helped her classmate study, but she didn’t have @ @.",
+          "fullEnglishSentence": "She helped her classmate study, but she didn’t have 「good intentions」.",
+          "chineseTranslation": "她帮助同学复习，但她并没有「好的意图」。",
+          "chinglishFix": "典型中式英语：'She helped her classmate, but her purpose is not good.' 纠正：'She helped her classmate study, but she didn’t have good intentions.'（'purpose is not good'表达生硬，缺少英语中常见的固定搭配）"
         },
         {
-          "scene": "一位老师在课堂上要求学生明确表达自己的观点。",
-          "chineseIdea": "老师希望学生清楚地表明他们讨论问题的目的。",
-          "sentenceWithBlank": "Please @ @ @ so we understand your goal in this discussion.",
-          "fullEnglishSentence": "Please 「declare your intention」 so we understand your goal in this discussion.",
-          "chineseTranslation": "请「表明你的意图」，这样我们就能理解你在这场讨论中的目标。",
-          "chinglishFix": "典型中式英语：'You say what you want.' 纠正：'Please declare your intention.'（'say what you want'过于直白，'declare your intention'更正式且自然。）"
+          "scene": "在法庭上，律师试图证明被告的行为是有意为之，而不是意外。",
+          "chineseIdea": "律师想强调被告的行为是有明确目的的，不是无意之举。",
+          "sentenceWithBlank": "The defendant @ @ @ causing harm to the victim.",
+          "fullEnglishSentence": "The defendant 「acted with the intention」 of causing harm to the victim.",
+          "chineseTranslation": "被告「有意」对受害者造成伤害。",
+          "chinglishFix": "典型中式英语：'The defendant wanted to harm the victim.' 纠正：'The defendant acted with the intention of causing harm to the victim.'（'wanted to'过于简单，缺少法律语境中正式的意图表达）"
         }
       ]
     }
   ]
 }
-```
-
-### 解析说明：
-1. **多重含义**：我列出了“intention”的两个主要含义：一是“打算”（计划做某事），二是“目的”（深层动机）。这两种用法在英语中都很常见。
-2. **用法与搭配**：每种含义都配有三种常见搭配（collocations），如“have every intention of”、“hidden intention”等，这些搭配在实际语言使用中非常重要。
-3. **场景化例句**：每个含义提供了两个具体场景，结合日常生活或工作情境，确保例句实用且贴近真实语境。
-4. **中式英语纠正**：针对中国学习者常见的表达习惯，提供了“Chinglish”错误及其改进建议，帮助您理解自然英语的表达方式。
-5. **格式要求**：严格遵循您提供的JSON结构，使用“@”占位符表示搭配，并用「」框出完整句子中的搭配及其翻译。
-
-希望这个解析对您的英语学习有帮助！如果需要进一步调整或补充，请告诉我。

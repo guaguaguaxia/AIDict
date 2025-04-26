@@ -167,8 +167,8 @@ def get_json_data(API_KEY, start_alpha_list):
     m = 0
     for i in f.readlines():
         k = k + 1
-        if m > 5:
-            break
+        # if m > 5:
+        #     break
         word = i.strip()
         start_alpha = word[0].lower()
         if start_alpha not in used_list:
@@ -230,7 +230,7 @@ def json_to_csv(json_folder, output_csv):
                         md = hashlib.md5()
                         md.update(text.encode('utf-8'))
                         unique_id = md.hexdigest()
-                        get_voice(text, unique_id)
+                        # get_voice(text, unique_id)
                         row = {
                             'scene': example.get('scene', ''),
                             'chineseIdea': example.get('chineseIdea', ''),
@@ -242,7 +242,7 @@ def json_to_csv(json_folder, output_csv):
                         }
                         writer.writerow(row)
 
-                print(f"处理文件 {os.path.basename(json_file)} 成功")
+                # print(f"处理文件 {os.path.basename(json_file)} 成功")
 
             except Exception as e:
                 print(f"处理文件 {json_file} 时出错: {str(e)}")
@@ -308,12 +308,12 @@ if __name__ == '__main__':
     options = parser.parse_args()
     API_KEY = options.API_KEY
     START_ALPHA_LIST = options.START_ALPHA_LIST
-    get_json_data(API_KEY, START_ALPHA_LIST)
+    # get_json_data(API_KEY, START_ALPHA_LIST)
     # response = AIChat("massive","grok-3","sk-maJvHUczwYssraal7cDa6f8460E941A09a8f8cB7789b3d6a")
     # content = response['choices'][0]['message']['content']
     # print(response)
-    # remove_first_last_lines("./json_CET4CORE", ['.json'])
-    # json_to_csv("./json_CET4CORE", "1.csv")
+    remove_first_last_lines("./json_CET4CORE", ['.json'])
+    json_to_csv("./json_CET4CORE", "1.csv")
 
 
 

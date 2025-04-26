@@ -1,54 +1,51 @@
-```json
 {
   "word": "inquiry",
   "definitions": [
     {
-      "meaning": "询问，调查（指为了获取信息或了解情况而提出的问题或正式调查）",
-      "usage": "通常指正式或非正式地寻求信息，可以是口头提问、书面请求，或涉及正式调查（如学术、商业、法律等领域）。常用于描述寻求答案或真相的过程。",
-      "collocations": ["make an inquiry", "conduct an inquiry", "respond to an inquiry"],
+      "meaning": "正式的询问或调查",
+      "usage": "指对某事进行正式、系统的调查或提问，通常用于官方、法律、商业或学术场景，带有探索真相或获取信息的意图。",
+      "collocations": ["conduct an inquiry", "launch an inquiry", "make an inquiry"],
       "examples": [
         {
-          "scene": "你在一家公司工作，客户通过电子邮件询问产品的价格和交货时间。",
-          "chineseIdea": "客户想了解更多关于产品价格和送货时间的细节，希望得到清晰的答复。",
-          "sentenceWithBlank": "The customer @ @ @ about the product’s pricing and delivery schedule.",
-          "fullEnglishSentence": "The customer 「made an inquiry」 about the product’s pricing and delivery schedule.",
-          "chineseTranslation": "客户「询问了」产品的价格和交货时间表。",
-          "chinglishFix": "典型中式英语：'The customer ask about the product price.' 纠正：'Ask' 语气过于直接且不正式，应使用 'make an inquiry' 或 'inquire about' 来表达正式询问。"
-zor professionally."
+          "scene": "在一个公司内部，管理层发现最近的财务报表中有不一致的地方。为了查明原因，他们决定启动一项正式的调查。",
+          "chineseIdea": "管理层希望通过系统地检查和提问，找出财务问题背后的原因。",
+          "sentenceWithBlank": "The board decided to @ @ @ to uncover the reasons behind the financial discrepancies.",
+          "fullEnglishSentence": "The board decided to 「conduct an inquiry」 to uncover the reasons behind the financial discrepancies          discrepancies.",
+          "chineseTranslation": "董事会决定「进行调查」以查明财务差异的原因。",
+          "chinglishFix": "典型中式英语：'The board wants to do an inquiry.' 纠正：'The board decided to conduct an inquiry.'（'do' 过于口语化且不正式，'conduct' 更适合正式调查的语境。）"
         },
         {
-          "scene": "你是一名记者，正在调查一家公司的财务状况，需要从相关部门获取信息。",
-          "chineseIdea": "为了报道的准确性，你需要向相关部门正式请求相关数据或文件。",
-          "sentenceWithBlank": "The journalist @ @ @ into the company’s financial records.",
-          "fullEnglishSentence": "The journalist 「conducted an inquiry」 into the company’s financial records.",
-          "chineseTranslation": "记者「调查了」公司的财务记录。",
-          "chinglishFix": "典型中式英语：'The journalist check the company’s financial records.' 纠正：'Check' 过于口语化且不准确，正式语境中应使用 'conduct an inquiry' 或 'investigate'。"
+          "scene": "在一个政府机构中，公众对一项新政策的实施效果提出质疑，官员们决定正式启动调查以回应公众的关切。",
+          "chineseIdea": "官员们希望通过正式的程序，回应公众的疑问并获取更多信息。",
+          "sentenceWithBlank": "Due to public concerns, the government chose to @ @ @ into the policy’s effectiveness.",
+          "fullEnglishSentence": "Due to public concerns, the government chose to 「launch an inquiry」 into the policy’s effectiveness.",
+          "chineseTranslation": "由于公众的关切，政府决定「启动调查」以评估政策的有效性。",
+          "chinglishFix": "典型中式英语：'The government will open an inquiry.' 纠正：'The government will launch an inquiry.'（'open' 不常用于启动调查，'launch' 更自然。）"
         }
       ]
     },
     {
-      "meaning": "学术探究或研究（指深入的学术或科学探索）",
-      "usage": "指在学术、科学或哲学领域对某一主题或问题的系统性研究，通常涉及深入思考、分析和探索。常见于学术写作或正式讨论。",
-      "collocations": ["line of inquiry", "field of inquiry", "pursue an inquiry"],
+      "meaning": "询问或查询（通常为请求信息）",
+      "usage": "指为了获取信息或确认细节而提出的问题或请求，通常较为礼貌且常见于日常或商业交流中。",
+      "collocations": ["make an inquiry", "respond to an inquiry", "receive an inquiry"],
       "examples": [
         {
-          "scene": "你是一名研究生，正在准备一篇关于人工智能伦理的论文，需要确定研究方向。",
-          "chineseIdea": "你希望找到一个具体的研究角度，比如AI在医疗领域的伦理问题。",
-          "sentenceWithBlank": "The researcher chose ethics in medical AI as a @ @ @.",
-          "fullEnglishSentence": "The researcher chose ethics in medical AI as a 「line of inquiry」.",
-          "chineseTranslation": "研究人员选择了医疗AI伦理作为「探究方向」。",
-          "chinglishFix": "典型中式英语：'The researcher study medical AI ethics.' 纠正：'Study' 过于笼统且不具体，学术语境中应使用 'line of inquiry' 或 'area of research'。"
+          "scene": "一位客户通过电子邮件联系一家旅游公司，想了解某个旅游套餐的具体细节，比如行程安排和价格。",
+          "chineseIdea": "客户希望通过提问获取更多关于旅游套餐的具体信息。",
+          "sentenceWithBlank": "The customer called the agency to @ @ @ about the travel package details.",
+          "fullEnglishSentence": "The customer called the agency to 「make an inquiry」 about the travel package details.",
+          "chineseTranslation": "客户致电旅行社「询问」旅游套餐的细节。",
+          "chinglishFix": "典型中式英语：'The customer asked an inquiry.' 纠正：'The customer made an inquiry.'（'ask an inquiry' 语法错误，正确搭配是 'make an inquiry'。）"
         },
         {
-          "scene": "你是一名哲学教授，正在指导学生如何研究自由意志的问题。",
-          "chineseIdea": "你鼓励学生深入探索自由意志与决定论之间的关系。",
-          "sentenceWithBlank": "The professor encouraged students to @ @ @ into free will versus determinism.",
-          "fullEnglishSentence": "The professor encouraged students to 「pursue an inquiry」 into free will versus determinism.",
-          "chineseTranslation": "教授鼓励学生「探究」自由意志与决定论的关系。",
-          "chinglishFix": "典型中式英语：'The professor ask students to study free will.' 纠正：'Ask' 和 'study' 过于简单，学术语境中应使用 'pursue an inquiry' 或 'explore'。"
+          "scene": "一家公司收到一封来自潜在客户的邮件，询问他们的产品是否可以定制。销售团队需要快速回复以保持客户兴趣。",
+          "chineseIdea": "销售团队需要礼貌且专业地回答客户的提问，以建立信任。",
+          "sentenceWithBlank": "The sales team was trained to @ @ @ promptly to maintain customer satisfaction.",
+          "fullEnglishSentence": "The sales team was trained to 「respond to an inquiry」 promptly to maintain customer satisfaction.",
+          "chineseTranslation": "销售团队受过培训，能够及时「回复询问」以保持客户满意度。",
+          "chinglishFix": "典型中式英语：'The team answered the inquiry quickly.' 纠正：'The team responded to the inquiry promptly.'（'answer' 虽可行，但 'respond to' 更正式且常见于商业场景。）"
         }
       ]
     }
   ]
 }
-```

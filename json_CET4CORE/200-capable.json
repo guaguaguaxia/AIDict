@@ -1,4 +1,3 @@
-```json
 {
   "word": "capable",
   "definitions": [
@@ -8,46 +7,45 @@
       "collocations": ["capable of doing something", "capable hands", "highly capable"],
       "examples": [
         {
-          "scene": "在一家科技公司，团队正在讨论一个新项目的负责人选。张伟因其出色的编程能力和解决问题的技巧被认为是最合适的人选。",
-          "chineseIdea": "表达某人能够成功完成某项任务或处理某件事情。",
-          "sentenceWithBlank": "We believe Zhang Wei is @ @ @ the new project successfully.",
-          "fullEnglishSentence": "We believe Zhang Wei is 「capable of leading」 the new project successfully.",
-          "chineseTranslation": "我们相信张伟「能够领导」这个新项目取得成功。",
-          "chinglishFix": "典型中式英语：'Zhang Wei can do the project good.' 纠正：'Zhang Wei is capable of doing the project well.'"
+          "scene": "在公司会议中，经理需要分配一个重要项目，团队中有一位员工因其出色的组织能力和专业知识而被选中。",
+          "chineseIdea": "这位员工被认为有足够的能力独立完成复杂的项目，经理对他充满信心。",
+          "sentenceWithBlank": "We trust her to lead the project because she is @ @ @ it successfully.",
+          "fullEnglishSentence": "We trust her to lead the project because she is 「capable of doing」 it successfully.",
+          "chineseTranslation": "我们相信她能领导这个项目，因为她「有能力完成」它。",
+          "chinglishFix": "典型中式英语：She is very able to do this project. 纠正：She is capable of doing this project successfully."
         },
         {
-          "scene": "在一所学校，校长需要选择一位老师来组织年度运动会。李老师因其出色的组织能力和与学生的良好沟通被选中。",
-          "chineseIdea": "强调某人具备处理复杂事务的能力。",
-          "sentenceWithBlank":wyns: "Teacher Li is in @ @, so she can manage the school sports day efficiently.",
-          "fullEnglishSentence": "Teacher Li is in 「capable hands」, so she can manage the school sports day efficiently.",
-          "chineseTranslation": "李老师处于「有能力的人手中」，所以她能高效地管理学校运动会。",
-          "chinglishFix": "典型中式英语：'Teacher Li has ability to manage sports day.' 纠正：'Teacher Li is capable of managing the sports day.'"
+          "scene": "在学校里，老师注意到一名学生在数学竞赛中表现出色，能够解决高难度的题目。",
+          "chineseIdea": "这名学生展现了很强的数学能力，老师认为他有潜力在学术领域取得更大成就。",
+          "sentenceWithBlank": "The student proved to be @ @ in solving complex problems.",
+          "fullEnglishSentence": "The student proved to be 「highly capable」 in solving complex problems.",
+          "chineseTranslation": "这名学生在解决复杂问题时证明自己「非常有能力」。",
+          "chinglishFix": "典型中式英语：He is very strong in math. 纠正：He is highly capable in math."
         }
       ]
     },
     {
-      "meaning": "有潜力的；可能实现的",
-      "usage": "描述某事物或某人具有某种可能性或潜质，通常用于表示某事可能发生或某人可能发展出某种特质。",
-      "collocations": ["capable of becoming", "capable of achieving", "capable of great things"],
+      "meaning": "有潜力的；可以实现的",
+      "usage": "描述某事物或某人具有某种可能性或潜力，通常用于较为抽象的场景，如技术、设备或系统的能力。",
+      "collocations": ["capable of achieving", "capable of handling", "capable system"],
       "examples": [
         {
-          "scene": "在一次创业比赛中，一位年轻的学生提出了一款创新的环保产品设计，评委们认为这个想法非常有前景。",
-          "chineseIdea": "表达某事物或某人有可能发展成为更重要或更成功的事物。",
-          "sentenceWithBlank": "The judges believe her idea is @ @ @ a market-leading product.",
-          "fullEnglishSentence": "The judges believe her idea is 「capable of becoming」 a market-leading product.",
-          "chineseTranslation": "评委们相信她的想法「有可能成为」市场领先的产品。",
-          "chinglishFix": "典型中式英语：'Her idea can become a good product.' 纠正：'Her idea is capable of becoming a leading product.'"
+          "scene": "一家科技公司推出了一款新型无人机，宣传其能够在极端天气下执行任务。",
+          "chineseIdea": "这款无人机被设计得非常先进，可以应对各种挑战，吸引了客户的关注。",
+          "sentenceWithBlank": "This drone is @ @ @ tasks in harsh conditions.",
+          "fullEnglishSentence": "This drone is 「capable of handling」 tasks in harsh conditions.",
+          "chineseTranslation": "这款无人机「能够处理」恶劣条件下的任务。",
+          "chinglishFix": "典型中式英语：This drone can do tasks in bad weather. 纠正：This drone is capable of handling tasks in harsh conditions."
         },
         {
-          "scene": "一位新员工刚加入公司，虽然经验不足，但经理注意到他在团队合作和学习能力方面的潜力。",
-          "chineseIdea": "强调某人具有未来取得重大成就的可能性。",
-          "sentenceWithBlank": "Though new, he is @ @ @ in his career.",
-          "fullEnglishSentence": "Though new, he is 「capable of achieving」 success in his career.",
-          "chineseTranslation": "虽然是新人，但他「有能力实现」职业上的成功。",
-          "chinglishFix": "典型中式英语：'He can success in career.' 纠正：'He is capable of achieving success in his career.'"
+          "scene": "在医院里，医生使用一台新引进的医疗设备，能够更精准地诊断疾病。",
+          "chineseIdea": "这台设备功能强大，可以显著提高诊断的准确性，让医生对治疗更有信心。",
+          "sentenceWithBlank": "The new machine is @ @ @ more accurate results.",
+          "fullEnglishSentence": "The new machine is 「capable of achieving」 more accurate results.",
+          "chineseTranslation": "这台新机器「能够实现」更精确的结果。",
+          "chinglishFix": "典型中式英语：This machine can make better results. 纠正：This machine is capable of achieving more accurate results."
         }
       ]
     }
   ]
 }
-```

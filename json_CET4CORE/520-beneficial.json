@@ -1,53 +1,51 @@
-```json
 {
   "word": "beneficial",
   "definitions": [
     {
-      "meaning": "有利的，有益的（对某人或某事有积极影响）",
-      "usage": "通常用于描述对健康、发展、成功或幸福有积极作用的事物或行为，常见于正式或半正式语境。",
-      "collocations": ["be beneficial to", "prove beneficial", "mutually beneficial"],
+      "meaning": "对某人或某事有好处或有帮助的",
+      "usage": "常用于描述某事物、行为或情况对人、组织或环境的积极影响，通常与介词 'to' 或 'for' 搭配，表示受益的对象。",
+      "collocations": ["be beneficial to", "prove beneficial for", "mutually beneficial"],
       "examples": [
         {
-          "scene": "一位学生在准备大学入学考试时，老师建议她每天阅读英文文章以提高词汇量。",
-          "chineseIdea": "学生想通过阅读英文文章来提升自己的英语水平，认为这会对考试成绩有帮助。",
-          "sentenceWithBlank": "Reading English articles every day can @ @ @ her vocabulary and comprehension skills.",
-          "fullEnglishSentence": "Reading English articles every day can 「be beneficial to」 her vocabulary and comprehension skills.",
-          "chineseTranslation": "每天阅读英文文章可以「对她的词汇量和理解能力有益」。",
-          "chinglishFix": "典型中式英语：'Read English articles is good for her vocabulary.' 纠正：'Reading English articles is beneficial to her vocabulary.'（使用'beneficial to'更符合英语表达习惯，且语法正确。）"
+          "scene": "一位学生在选择课外活动时，考虑参加辩论俱乐部，因为他听说这对未来职业发展有帮助。",
+          "chineseIdea": "学生希望通过参加辩论来提升沟通能力和逻辑思维，这对申请大学或未来工作有积极作用。",
+          "sentenceWithBlank": "Joining the debate club can @ @ @ his future career.",
+          "fullEnglishSentence": "Joining the debate club can 「be beneficial to」 his future career.",
+          "chineseTranslation": "加入辩论俱乐部对他的未来职业「有好处」。",
+          "chinglishFix": "典型中式英语：'Join debate club is good for his job.' 纠正：'Joining the debate club is beneficial to his career.'（使用 'beneficial to' 更正式且符合英语习惯，避免简单化的 'good for'。）"
         },
         {
-          "scene": "一家公司决定为员工提供免费的健身房会员资格，以提高员工的健康水平和工作效率。",
-          "chineseIdea": "公司认为健康的员工能更高效地工作，健身房会员资格对员工和公司都有好处。",
-          "sentenceWithBlank": "Offering free gym memberships has @ @ for both employee health and productivity.",
-          "fullEnglishSentence": "Offering free gym memberships has 「proved beneficial」 for both employee health and productivity.",
-          "chineseTranslation": "提供免费健身房会员资格已被证明「对员工健康和生产力有益」。",
-          "chinglishFix": "典型中式英语：'Give free gym is good to employees.' 纠正：'Offering free gym memberships is beneficial to employees.'（使用'prove beneficial'更自然，动词形式也更准确。）"
+          "scene": "一家公司决定采用远程办公政策，员工发现这种方式提高了工作效率，同时也节省了通勤时间。",
+          "chineseIdea": "员工觉得远程办公不仅让自己更专注，还能更好地平衡工作与生活。",
+          "sentenceWithBlank": "The new remote work policy has @ @ @ employees' work-life balance.",
+          "fullEnglishSentence": "The new remote work policy has 「proved beneficial for」 employees' work-life balance.",
+          "chineseTranslation": "新的远程工作政策对员工的工作与生活平衡「证明是有益的」。",
+          "chinglishFix": "典型中式英语：'Remote work is helpful to balance.' 纠正：'Remote work has proved beneficial for balancing work and life.'（使用 'proved beneficial for' 更具体，结构更完整。）"
         }
       ]
     },
     {
-      "meaning": "互利的（双方或多方都能从中获益）",
-      "usage": "常用于描述合作、交易或关系中各方都能获得好处的场景，常见于商业或外交语境。",
-      "collocations": ["mutually beneficial", "beneficial agreement", Beneficial partnership"],
+      "meaning": "促进健康或幸福的",
+      "usage": "常用于描述对身体、心理或整体幸福感有积极作用的事物，如饮食、运动或习惯，通常与健康相关的话题搭配。",
+      "collocations": ["highly beneficial for", "particularly beneficial to", "long-term beneficial effects"],
       "examples": [
         {
-          "scene": "两家公司达成了一项合作协议，共享技术和市场资源，以扩大市场份额。",
-          "chineseIdea": "两家公司希望通过合作实现双赢，共同提升竞争力。",
-          "sentenceWithBlank": "The collaboration between the two companies has been @ @, allowing both to expand their market share.",
-          "fullEnglishSentence": "The collaboration between the two companies has been 「mutually beneficial」, allowing both to expand their market share.",
-          "chineseTranslation": "两家公司之间的合作一直是「互利的」，使双方都能扩大市场份额。",
-          "chinglishFix": "典型中式英语：'The cooperation is good for both.' 纠正：'The collaboration is mutually beneficial.'（'mutually beneficial'更精确地表达双方共同获益的概念。）"
+          "scene": "一位医生在给患者建议时，推荐每天散步30分钟，因为这对心血管健康有显著效果。",
+          "chineseIdea": "医生认为规律的运动能改善患者的健康状况，尤其是对心脏有益。",
+          "sentenceWithBlank": "Daily walks are @ @ @ heart health.",
+          "fullEnglishSentence": "Daily walks are 「highly beneficial for」 heart health.",
+          "chineseTranslation": "每天散步对心脏健康「非常有益」。",
+          "chinglishFix": "典型中式英语：'Walk every day is good to heart.' 纠正：'Daily walks are highly beneficial for heart health.'（使用 'highly beneficial for' 更贴合健康语境，语法更正确。）"
         },
         {
-          "scene": "一个城市与邻近城市签订了旅游资源共享协议，促进双方旅游业发展。",
-          "chineseIdea": "两个城市希望通过共享旅游资源吸引更多游客，带动经济增长。",
-          "sentenceWithBlank": "The tourism agreement has created a @ @ that boosts both cities' economies.",
-          "fullEnglishSentence": "The tourism agreement has created a 「beneficial partnership」 that boosts both cities' economies.",
-          "chineseTranslation": "旅游协议建立了一个「有益的伙伴关系」，促进了两个城市的经济发展。",
-          "chinglishFix": "典型中式英语：'The agreement helps both cities very much.' 纠正：'The agreement fosters a beneficial partnership for both cities.'（'beneficial partnership'更符合正式语境，且表达更地道。）"
+          "scene": "一位营养师在给客户制定饮食计划时，建议多吃富含纤维的食物，因为这对消化系统有好处。",
+          "chineseIdea": "营养师希望通过调整饮食帮助客户改善肠道健康，提升整体幸福感。",
+          "sentenceWithBlank": "Eating more fiber-rich foods is @ @ @ the digestive system.",
+          "fullEnglishSentence": "Eating more fiber-rich foods is 「particularly beneficial to」 the digestive system.",
+          "chineseTranslation": "多吃富含纤维的食物对消化系统「尤其有益」。",
+          "chinglishFix": "典型中式英语：'Eat fiber food help digestion.' 纠正：'Eating fiber-rich foods is particularly beneficial to digestion.'（使用 'particularly beneficial to' 更精确，表达更自然。）"
         }
       ]
     }
   ]
 }
-```

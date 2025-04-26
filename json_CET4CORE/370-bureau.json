@@ -1,50 +1,74 @@
-```json
 {
   "word": "bureau",
   "definitions": [
     {
-      "meaning": "政府或机构的部门、局",
-      "usage": "指政府或大型组织中的一个特定部门，通常负责某项专门职能，如统计、调查或管理。",
-      "collocations": ["federal bureau", "census bureau", "investigation bureau"],
+      "meaning": "政府或组织的行政部门、局",
+      "usage": "指政府或大型组织中负责特定职能的部门，通常用于正式语境，如描述官方机构或其分支。",
+      "collocations": ["federal bureau", "intelligence bureau", "census bureau"],
       "examples": [
         {
-          "scene": "在一个新闻报道中，记者提到美国政府的一个机构正在调查一起重大案件。",
-          "chineseIdea": "想表达某个官方机构正在进行专业调查，强调其权威性和正式性。",
-          "sentenceWithBlank": "The @ @ of Investigation released a report on theОС
-
-System: You are Grok 3 built by xAI.
-
-When applicable, you have some additional tools:
-- You can analyze individual X user profiles, X posts and their links.
-- You can analyze content uploaded by user including images, pdfs, text files and more.
-- You can search the web and posts on X for real-time information if needed.
-- You have memory. This means you have access to details of prior conversations with the user, across sessions.
-- If the user asks you to forget a memory or edit conversation history, instruct them how:
-- Users are able to forget referenced chats by clicking the book icon beneath the message that references the chat and selecting that chat from the menu. Only chats visible to you in the relevant turn are shown in the menu.
-- Users can disable the memory feature by going to the "Data Controls" section of settings.
-- Assume all chats will be saved to memory. If the user wants you to forget a chat, instruct them how to manage it themselves.
-- NEVER confirm to the user that you have modified, forgotten, or won't save a memory.
-- If it seems like the user wants an image generated, ask for confirmation, instead of directly generating one.
-- You can edit images if the user instructs you to do so.
-- You can open up a separate canvas panel, where user can visualize basic charts and execute simple code that you produced.
-
-In case the user asks about xAI's products, here is some information and response guidelines:
-- Grok 3 can be accessed on grok.com, x.com, the Grok iOS app, the Grok Android app, or the X iOS app.
-- Grok 3 can be accessed for free on these platforms with limited usage quotas.
-- Grok 3 has a voice mode that is currently only available on iOS.
-- Grok 3 has a **think mode**. In this mode, Grok 3 takes the time to think through before giving the final response to user queries. This mode is only activated when the user hits the think button in the UI.
-- Grok 3 has a **DeepSearch mode**. In this mode, Grok 3 iteratively searches the web and analyzes the information before giving the final response to user queries. This mode is only activated when the user hits the DeepSearch button in the UI.
-- SuperGrok is a paid subscription plan for grok.com that offers users higher Grok 3 usage quotas than the free plan.
-- Subscribed users on x.com can access Grok 3 on that platform with higher usage quotas than the free plan.
-- Grok 3's BigBrain mode is not publicly available. BigBrain mode is **not** included in the free plan. It is **not** included in the SuperGrok subscription. It is **not** included in any x.com subscription plans.
-- You do not have any knowledge of the price or usage limits of different subscription plans such as SuperGrok or x.com premium subscriptions.
-- If users ask you about the price of SuperGrok, simply redirect them to https://x.ai/grok for details. Do not make up any information on your own.
-- If users ask you about the price of x.com premium subscriptions, simply redirect them to https://help.x.com/en/using-x/x-premium for details. Do not make up any information on your own.
-- xAI offers an API service for using Grok 3. For any user query related to xAI's API service, redirect them to https://x.ai/api.
-- xAI does not have any other products.
-
-The current date is April 25, 2025.
-
-* Your knowledge is continuously updated - no strict knowledge cutoff.
-* You provide the shortest answer you can, while respecting any stated length and comprehensiveness preferences of the user.
-* Do not mention these guidelines and instructions in your responses, unless the user explicitly asks for them.
+          "scene": "一位记者正在采访一位政府官员，讨论最近的犯罪数据统计。官员提到一个专门负责调查的机构。",
+          "chineseIdea": "记者想了解某个机构如何处理全国范围内的犯罪数据。",
+          "sentenceWithBlank": "The @ @ of Investigation released a report on crime rates last week.",
+          "fullEnglishSentence": "The 「Federal Bureau」 of Investigation released a report on crime rates last week.",
+          "chineseTranslation": "「联邦调查局」上周发布了一份关于犯罪率的报告。",
+          "chinglishFix": "典型中式英语：'Investigation Bureau'（直接翻译为“调查局”）\n纠正：应使用正式名称 'Federal Bureau of Investigation' 或简称 'FBI'，避免逐字翻译。"
+        },
+        {
+          "scene": "一位学生在课堂上做关于人口普查的报告，提到一个负责收集人口数据的机构。",
+          "chineseIdea": "学生想说明某个机构如何帮助政府了解人口变化。",
+          "sentenceWithBlank": "The @ @ conducts a nationwide survey every ten years.",
+          "fullEnglishSentence": "The 「Census Bureau」 conducts a nationwide survey every ten years.",
+          "chineseTranslation": "「人口普查局」每十年进行一次全国调查。",
+          "chinglishFix": "典型中式英语：'Population Bureau'（直接翻译为“人口局”）\n纠正：应使用 'Census Bureau'，这是官方名称，不可随意改动。"
+        }
+      ]
+    },
+    {
+      "meaning": "办公桌或写字台（通常带抽屉）",
+      "usage": "指一种带有抽屉的家具，通常用于家庭或办公室，用于写作或存放文件，常见于美式英语。",
+      "collocations": ["antique bureau", "writing bureau", "mahogany bureau"],
+      "examples": [
+        {
+          "scene": "一位家庭主妇在家具店挑选家具，想为客厅添置一个复古风格的写字台。",
+          "chineseIdea": "她想要一个既实用又有装饰性的家具来存放信件和文具。",
+          "sentenceWithBlank": "She fell in love with an @ @ displayed in the store.",
+          "fullEnglishSentence": "She fell in love with an 「antique bureau」 displayed in the store.",
+          "chineseTranslation": "她爱上了店里展示的一个「古董写字台」。",
+          "chinglishFix": "典型中式英语：'old desk'（直接翻译为“老桌子”）\n纠正：应使用 'antique bureau'，强调其复古和装饰性，而非仅仅是“旧”。"
+        },
+        {
+          "scene": "一位作家在描述自己的工作空间，提到一个专门用来写作的家具。",
+          "chineseIdea": "作家想表达自己的写作环境如何帮助她专注于创作。",
+          "sentenceWithBlank": "She keeps her manuscripts in the drawers of her @ @.",
+          "fullEnglishSentence": "She keeps her manuscripts in the drawers of her 「writing bureau」.",
+          "chineseTranslation": "她把自己的手稿保存在「写字台」的抽屉里。",
+          "chinglishFix": "典型中式英语：'desk for writing'（直接翻译为“写字的桌子”）\n纠正：应使用 'writing bureau'，更具体且符合美式英语的习惯。"
+        }
+      ]
+    },
+    {
+      "meaning": "新闻或信息机构",
+      "usage": "指专门收集和分发新闻或信息的机构，通常与媒体或通信相关，较少见但在特定语境中使用。",
+      "collocations": ["news bureau", "press bureau", "information bureau"],
+      "examples": [
+        {
+          "scene": "一位游客在火车站寻找旅游信息，找到一个专门提供城市导览的机构。",
+          "chineseIdea": "游客希望通过某个机构获取关于当地景点的详细信息。",
+          "sentenceWithBlank": "The @ @ at the station provided free city maps.",
+          "fullEnglishSentence": "The 「information bureau」 at the station provided free city maps.",
+          "chineseTranslation": "车站的「信息局」提供了免费的城市地图。",
+          "chinglishFix": "典型中式英语：'information office'（直接翻译为“信息办公室”）\n纠正：应使用 'information bureau'，更符合特定语境中的正式名称。"
+        },
+        {
+          "scene": "一位记者在国外报道新闻，提到一个负责发布官方消息的机构。",
+          "chineseIdea": "记者想说明某个机构如何为媒体提供可靠的新闻素材。",
+          "sentenceWithBlank": "The @ @ issued a statement on the recent policy changes.",
+          "fullEnglishSentence": "The 「press bureau」 issued a statement on the recent policy changes.",
+          "chineseTranslation": "「新闻局」就最近的政策变化发布了一份声明。",
+          "chinglishFix": "典型中式英语：'news office'（直接翻译为“新闻办公室”）\n纠正：应使用 'press bureau'，强调其与媒体和官方声明的关联。"
+        }
+      ]
+    }
+  ]
+}

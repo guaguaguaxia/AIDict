@@ -1,78 +1,74 @@
-```json
 {
   "word": "impose",
   "definitions": [
     {
-      "meaning": "强加；强制实行",
-      "usage": "指将某事物（如规则、惩罚、负担等）强加于人或群体，通常带有权威或强制性，常用于描述政府、机构或个人的行为。",
+      "meaning": "强加；强制推行",
+      "usage": "指将规则、法律、税收、惩罚等强加于某人或某群体，通常带有权威或强制性，强调不一定被接受或欢迎。",
       "collocations": ["impose a fine", "impose restrictions", "impose a tax"],
       "examples": [
         {
-          "scene": "在一个繁忙的城市，市政府为了减少空气污染，决定对进入市中心的车辆收取额外的费用。这一决定引起了市民的广泛讨论。",
-          "chineseIdea": "政府通过法律或政策强制要求市民遵守某些规定，比如缴纳费用，以达到某种社会目标。",
-          "sentenceWithBlank": "The city council decided to @ @ @ on vehicles entering the downtown area to reduce pollution.",
-          "fullEnglishSentence": "The city council decided to 「impose a tax」 on vehicles entering the downtown area to reduce pollution.",
-          "chineseTranslation": "市议会决定对进入市中心的车辆「征收税款」以减少污染。",
-          "chinglishFix": "中式英语：The government force to add tax on cars. 纠正：The government imposed a tax on cars."
+          "scene": "在一个繁忙的城市，市政府为了减少交通拥堵，决定对进入市中心的车辆征收额外的费用。",
+          "chineseIdea": "政府希望通过增加费用来控制车辆数量，减少交通压力。",
+          "sentenceWithBlank": "The city council decided to @ @ @ on vehicles entering the downtown area.",
+          "fullEnglishSentence": "The city council decided to 「impose a tax」 on vehicles entering the downtown area.",
+          "chineseTranslation": "市议会决定对进入市中心的车辆「征收税费」。",
+          "chinglishFix": "典型中式英语：'The government give a tax to cars.' 纠正：'The government imposes a tax on cars.'（'give'不用于税收场景，'impose'更准确表达强制征收。）"
         },
         {
-          "scene": "一家公司因违反环保法规，被当地法院判处罚款。员工们对此议论纷纷，觉得处罚虽然严格，但也合理。",
-          "chineseIdea": "法院或权威机构对违规行为施加经济处罚，以维护法律或规范。",
-          "sentenceWithBlank": "The court chose to @ @ @ on the company for breaching environmental regulations.",
-          "fullEnglishSentence": "The court chose to 「impose a fine」 on the company for breaching environmental regulations.",
-          "chineseTranslation": "法院决定对该公司「处以罚款」，因为它违反了环保法规。",
-          "chinglishFix": "中式英语：The court give fine to the company. 纠正：The court imposed a fine on the company."
+          "scene": "一家公司因违反环保法规，被政府要求支付高额罚款。",
+          "chineseIdea": "政府通过罚款来惩罚不合规行为，强制公司改进。",
+          "sentenceWithBlank": "The authorities @ @ @ on the company for breaching environmental regulations.",
+          "fullEnglishSentence": "The authorities 「imposed a fine」 on the company for breaching environmental regulations.",
+          "chineseTranslation": "当局因公司违反环保法规而对其「处以罚款」。",
+          "chinglishFix": "典型中式英语：'The government punish the company with a fine.' 纠正：'The government imposed a fine on the company.'（'punish with'不自然，'impose a fine'是固定搭配。）"
         }
       ]
     },
     {
-      "meaning": "将某事物强加于他人（如负担、观点等）",
-      "usage": "指将某种负担、责任或观点强行施加于他人，通常带有不被欢迎或单方面的含义，常用于描述人际关系或社交场合。",
-      "collocations": ["impose a burden", "impose one's views", "impose demands"],
+      "meaning": "迫使某人接受；强加于人",
+      "usage": "指将观点、责任、负担等强加于他人，通常带有不情愿或不合适的含义，常用于描述人际关系或社会情境。",
+      "collocations": ["impose a burden", "impose one’s will", "impose obligations"],
       "examples": [
         {
-          "scene": "在一个家庭聚会上，小李试图说服大家接受他的政治观点，但他的强硬态度让其他人感到不舒服。",
-          "chineseIdea": "某人试图将自己的想法或看法强加给他人，导致对方感到压力或不快。",
-          "sentenceWithBlank": "During the family gathering, Xiao Li tried to @ @ @ on everyone, causing tension.",
-          "fullEnglishSentence": "During the family gathering, Xiao Li tried to 「impose his views」 on everyone, causing tension.",
-          "chineseTranslation": "在家庭聚会上，小李试图将「他的观点」强加于每个人，造成了紧张气氛。",
-          "chinglishFix": "中式英语：He force his ideas to others. 纠正：He imposed his views on others."
+          "scene": "在一个家庭中，父母希望孩子按照他们的意愿选择职业，忽略孩子的兴趣。",
+          "chineseIdea": "父母试图让孩子接受他们的决定，强迫孩子走他们规划的路。",
+          "sentenceWithBlank": "The parents tried to @ @ @ on their daughter by insisting she become a doctor.",
+          "fullEnglishSentence": "The parents tried to 「impose their will」 on their daughter by insisting she become a doctor.",
+          "chineseTranslation": "父母试图通过坚持让她成为医生来对女儿「强加他们的意愿」。",
+          "chinglishFix": "典型中式英语：'The parents force their idea to the daughter.' 纠正：'The parents impose their will on the daughter.'（'force idea'不地道，'impose one’s will'是正确表达。）"
         },
         {
-          "scene": "在公司项目中，经理不断要求团队加班完成额外的任务，员工们感到压力很大，觉得这些要求不合理。",
-          "chineseIdea": "领导或上级将额外的责任或任务强加给下属，使其感到负担过重。",
-          "sentenceWithBlank": "The manager continued to @ @ @ on the team, leading to widespread frustration.",
-          "fullEnglishSentence": "The manager continued to 「impose demands」 on the team, leading to widespread frustration.",
-          "chineseTranslation": "经理不断对团队「强加要求」，导致普遍的不满。",
-          "chinglishFix": "中式英语：The manager give heavy tasks to team. 纠正：The manager imposed demands on the team."
+          "scene": "在团队工作中，领导将额外的任务分配给一个已经很忙的员工。",
+          "chineseIdea": "领导不考虑员工的实际情况，强行增加工作量。",
+          "sentenceWithBlank": "The manager @ @ @ on the team member by assigning extra tasks.",
+          "fullEnglishSentence": "The manager 「imposed a burden」 on the team member by assigning extra tasks.",
+          "chineseTranslation": "经理通过分配额外的任务对团队成员「强加负担」。",
+          "chinglishFix": "典型中式英语：'The manager give more work to the employee.' 纠正：'The manager imposed a burden on the employee.'（'give work'太平淡，'impose a burden'更准确表达额外负担。）"
         }
       ]
     },
     {
       "meaning": "打扰；占用（时间、空间等）",
-      "usage": " Ascending or descending order does not affect meaning or usage. Refers to taking advantage of or inconveniencing someone by making demands on their time or resources, often with a sense of intrusion.",
-      "collocations": ["impose on someone's kindness", "impose on someone's time", "impose on hospitality"],
+      "usage": "指以某种方式占用他人的时间、资源或空间，通常带有礼貌性的歉意，常用于表达请求或感谢时的客套话。",
+      "collocations": ["impose on someone’s time", "impose on someone’s hospitality", "impose on someone’s kindness"],
       "examples": [
         {
-          "scene": "小张因临时有事需要借住朋友家几天，但担心自己会给朋友带来不便。",
- If you are ascending, the meaning is to rise or increase, often used in contexts like temperature or rank. If descending, it means to decrease or go down, as in rank or quantity. The context determines which meaning applies.
-
-          "chineseIdea": "因自身需求而占用他人的资源或时间，带有一种不想麻烦他人的心理。",
-          "sentenceWithBlank": "Zhang didn't want to @ @ @, but he had no choice but to stay at his friend's house for a few days.",
-          "fullEnglishSentence": "Zhang didn't want to 「impose on someone's hospitality」, but he had no choice but to stay at his friend's house for a few days.",
-          "chineseTranslation": "张不想「麻烦别人的好客」，但他别无选择，只能在朋友家住几天。",
-          "chinglishFix": "中式英语：Zhang not want to trouble friend's house. 纠正：Zhang didn't want to impose on his friend's hospitality."
+          "scene": "一位朋友因家里装修，请求暂时住在你的公寓几天。",
+          "chineseIdea": "朋友不想给你添麻烦，但因情况特殊需要你的帮助。",
+          "sentenceWithBlank": "I hope I’m not @ @ @ by staying at your place for a few days.",
+          "fullEnglishSentence": "I hope I’m not 「imposing on your hospitality」 by staying at your place for a few days.",
+          "chineseTranslation": "我希望住在你家几天不会「打扰你的好客」。",
+          "chinglishFix": "典型中式英语：'I don’t want to trouble your house.' 纠正：'I hope I’m not imposing on your hospitality.'（'trouble your house'不地道，'impose on hospitality'是礼貌表达。）"
         },
         {
-          "scene": "一位同事总是请求你帮忙完成她的工作，让你觉得自己的时间被占用了。",
-          "chineseIdea": "某人因频繁请求帮助而占用了你的时间或精力，让你感到不便。",
-          "sentenceWithBlank": "She kept asking for help, constantly @ @ @ with her requests.",
-          "fullEnglishSentence": "She kept asking for help, constantly 「imposing on my time」 with her requests.",
-          "chineseTranslation": "她不断请求帮助，总是「占用我的时间」。",
-          "chinglishFix": "中式英语：She always take my time for help. 纠正：She kept imposing on my time with her requests."
+          "scene": "你在工作时间请求同事帮忙审阅一份紧急报告。",
+          "chineseIdea": "你知道同事很忙，但需要他们的专业意见。",
+          "sentenceWithBlank": "I don’t want to @ @ @, but could you review this report today?",
+          "fullEnglishSentence": "I don’t want to 「impose on your time」, but could you review this report today?",
+          "chineseTranslation": "我不想「占用你的时间」，但你今天能审阅这份报告吗？",
+          "chinglishFix": "典型中式英语：'I don’t want to use your time.' 纠正：'I don’t want to impose on your time.'（'use your time'不礼貌，'impose on your time'更自然。）"
         }
       ]
     }
   ]
 }
-```

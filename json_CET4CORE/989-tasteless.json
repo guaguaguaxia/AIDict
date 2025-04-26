@@ -1,53 +1,51 @@
-```json
 {
   "word": "tasteless",
   "definitions": [
     {
       "meaning": "缺乏味道的；无味的",
-      "usage": "描述食物或饮料没有味道，可能是因为烹饪问题、质量差或缺乏调味。",
-      "collocations": ["tasteless food", "tasteless soup", "tasteless dish"],
+      "usage": "描述食物或饮料没有味道，通常因为缺乏调味或品质不佳。",
+      "collocations": ["tasteless food", "tasteless meal", "tasteless dish"],
       "examples": [
         {
-          "scene": "你在一家新开的餐厅吃饭，点了一碗鸡汤，但喝了一口后发现汤非常淡，几乎没有任何味道。你有点失望，想跟朋友吐槽。",
-          "chineseIdea": "想表达这碗汤喝起来像白开水，完全没有鸡汤该有的鲜美和香味。",
-          "sentenceWithBlank": "The chef must have forgotten the seasoning because this is just @ @.",
-          "fullEnglishSentence": "The chef must have forgotten the seasoning because this is just 「tasteless soup」.",
-          "chineseTranslation": "厨师肯定忘了放调料，因为这只是「无味的汤」。",
-          "chinglishFix": "典型中式英语：'This soup has no taste.' 纠正：'This soup is tasteless.'（用'tasteless'更简洁自然，避免冗长的'has no taste'）"
+          "scene": "你在一家新开的餐厅吃饭，点了一份炒蔬菜，但端上来的菜几乎没有盐或任何调料，吃起来像是白水煮的。",
+          "chineseIdea": "你想表达这道菜吃起来完全没有味道，像是没放任何调料。",
+          "sentenceWithBlank": "The vegetables were so @ that I couldn’t enjoy them at all.",
+          "fullEnglishSentence": "The vegetables were so 「tasteless food」 that I couldn’t enjoy them at all.",
+          "chineseTranslation": "这些蔬菜是如此「无味的食物」，我完全无法享受。",
+          "chinglishFix": "典型中式英语：'The food has no taste.' 纠正：'The food is tasteless.'（用形容词描述食物本身，而不是说‘没有味道’）"
         },
         {
-          "scene": "你在家尝试做了一道新菜，用的食材很新鲜，但忘了加盐和香料。家人吃了一口后，觉得味道很平淡。",
-          "chineseIdea想表达这道菜吃起来完全没有层次感，就像白煮的食材，缺乏吸引力。",
-          "sentenceWithBlank": "I followed the recipe, but it turned out to be a @ @.",
-          "fullEnglishSentence": "I followed the recipe, but it turned out to be a 「tasteless dish」.",
-          "chineseTranslation": "我按照食谱做的，但结果是一道「无味的菜」。",
-          "chinglishFix": "典型中式英语：'This dish is not delicious.' 纠正：'This dish is tasteless.'（'not delicious'不够具体，'tasteless'更准确描述无味）"
+          "scene": "你在家尝试做一道新菜，但忘了加关键的香料，家人吃了一口后觉得索然无味。",
+          "chineseIdea": "你想告诉家人这道菜没做好，吃起来没什么味道。",
+          "sentenceWithBlank": "Sorry, this is a bit of a @ because I forgot the spices.",
+          "fullEnglishSentence": "Sorry, this is a bit of a 「tasteless dish」 because I forgot the spices.",
+          "chineseTranslation": "抱歉，这道「无味的菜」有点失败，因为我忘了放香料。",
+          "chinglishFix": "典型中式英语：'This dish no taste.' 纠正：'This dish is tasteless.'（避免省略系动词，正确使用形容词）"
         }
       ]
     },
     {
-      "meaning": "缺乏品味的；庸俗的",
-      "usage": "描述某人的穿着、行为、装饰或言论显得粗俗、不雅或缺乏审美。",
-      "collocations": ["tasteless joke", "tasteless decoration", "tasteless outfit"],
+      "meaning": "缺乏品味的；粗俗的",
+      "usage": "描述某人的行为、穿着、装饰或言论显得低俗、不雅或缺乏审美。",
+      "collocations": ["tasteless joke", "tasteless comment", "tasteless decoration"],
       "examples": [
         {
-          "scene": "你在朋友的聚会上，有人讲了一个很不得体的笑话，涉及敏感话题，让大家觉得尴尬。你私下跟另一个朋友评论。",
-          "chineseIdea": "想表达这个笑话很低俗，不仅不好笑，还让人觉得不舒服。",
-          "sentenceWithBlank": "Why did he think it was okay to tell such a @ @ at the party?",
-          "fullEnglishSentence": "Why did he think it was okay to tell such a 「tasteless joke」 at the party?",
-          "chineseTranslation": "他为什么觉得在聚会上讲这种「庸俗的笑话」没问题？",
-          "chinglishFix": "典型中式英语：'This joke is very low.' 纠正：'This joke is tasteless.'（'low'不准确，'tasteless'更能表达庸俗或不得体）"
+          "scene": "你在朋友聚会上，有人讲了一个很不恰当的笑话，涉及敏感话题，让大家感到尴尬。",
+          "chineseIdea": "你想表达这个笑话很不合适，太粗俗了。",
+          "sentenceWithBlank": "His @ made everyone at the party uncomfortable.",
+          "fullEnglishSentence": "His 「tasteless joke」 made everyone at the party uncomfortable.",
+          "chineseTranslation": "他的「粗俗的笑话」让派对上的每个人都感到不舒服。",
+          "chinglishFix": "典型中式英语：'His joke is no taste.' 纠正：'His joke was tasteless.'（用‘tasteless’形容笑话的品质，而不是‘no taste’）"
         },
         {
-          "scene": "你去参观一个朋友的新家，发现他们客厅的装饰非常夸张，颜色搭配很刺眼，显得很没有格调。",
-          "chineseIdea": "想表达这些装饰看起来很俗气，完全没有美感，让人觉得不协调。",
-          "sentenceWithBlank": "The bright pink walls and gold statues make the room look like a @ @.",
-          "fullEnglishSentence": "The bright pink walls and gold statues make the room look like a 「tasteless decoration」.",
-          "chineseTranslation": "亮粉色的墙壁和金色雕像让房间看起来像「庸俗的装饰」。",
-          "chinglishFix": "典型中式英语：'This decoration is not beautiful.' 纠正：'This decoration is tasteless.'（'not beautiful'太笼统，'tasteless'更能表达缺乏品味）"
+          "scene": "你去参观朋友的新家，发现他们客厅的装饰品非常夸张，五颜六色的塑料花和闪光灯让人眼花缭乱。",
+          "chineseIdea": "你想礼貌地表达这些装饰看起来有点俗气，缺乏品味。",
+          "sentenceWithBlank": "The living room’s @ was a bit overwhelming for my taste.",
+          "fullEnglishSentence": "The living room’s 「tasteless decoration」 was a bit overwhelming for my taste.",
+          "chineseTranslation": "客厅的「粗俗的装饰」对我来说有点过于夸张了。",
+          "chinglishFix": "典型中式英语：'The decoration is not tasteful.' 纠正：'The decoration is tasteless.'（用‘tasteless’更直接表达缺乏品味，而非‘not tasteful’）"
         }
       ]
     }
   ]
 }
-```

@@ -1,52 +1,51 @@
-```json
 {
   "word": "leisure",
   "definitions": [
     {
       "meaning": "空闲时间，闲暇",
-      "usage": "指没有工作、职责或其他必须完成的任务时可以自由支配的时间，通常与放松或享受个人兴趣相关。",
-      "collocations": ["at one's leisure", "spend leisure time", "leisure activities"],
+      "usage": "指个人可以自由支配的时间，通常用于放松、娱乐或追求个人兴趣。与工作、职责或其他必须完成的任务相对。",
+      "collocations": ["at one's leisure", "leisure time", "leisure activities"],
       "examples": [
         {
-          "scene": "周末的下午，小明终于完成了所有的作业，决定放松一下。他坐在阳台的摇椅上，喝着咖啡，看着远处的山景，享受片刻的宁静。",
-          "chineseIdea": "小明想在没有压力的情况下，慢慢地做自己喜欢的事情，不被时间限制。",
-          "sentenceWithBlank": "He decided to read a novel @ @ @ on the balcony.",
-          "fullEnglishSentence": "He decided to read a novel 「at his leisure」 on the balcony.",
-          "chineseTranslation": "他决定在阳台上「悠闲地」读一本小说。",
-          "chinglishFix": "典型中式英语：He read a book in his free time slowly. 纠正：He read a book at his leisure."
+          "scene": "周末的午后，小明终于完成了一周的工作，决定在家里放松一下。他坐在阳台的摇椅上，阳光洒在书页上，微风轻轻吹过。",
+          "chineseIdea": "小明想利用空闲时间读一本自己喜欢的书，享受片刻的宁静。",
+          "sentenceWithBlank": "He decided to read a book @ @ @ on the balcony.",
+          "fullEnglishSentence": "He decided to read a book 「at his leisure」 on the balcony.",
+          "chineseTranslation": "他决定在阳台上「悠闲地」读一本书。",
+          "chinglishFix": "中式英语：He decided to read a book in his free time slowly. 纠正：'In his free time slowly' 不自然，改为 'at his leisure'，更符合英语表达习惯，强调悠闲的状态。"
         },
         {
-          "scene": "丽丽是一个忙碌的白领，平时工作很忙，但她喜欢在周日去公园散步，观察花草，感受大自然的美好。",
-          "chineseIdea": "丽丽希望利用空闲时间做一些轻松的活动，缓解工作的压力。",
-          "sentenceWithBlank": "She loves to @ @ @ walking in the park on Sundays.",
-          "fullEnglishSentence": "She loves to 「spend leisure time」 walking in the park on Sundays.",
- uch as walking or gardening."
+          "scene": "假期里，小红和朋友们计划去郊外露营。他们带上帐篷、烧烤架，准备在自然中度过一段轻松的时光。",
+          "chineseIdea": "小红希望通过户外活动来放松身心，享受与朋友的相处。",
+          "sentenceWithBlank": "They planned to spend their @ @ camping in the countryside.",
+          "fullEnglishSentence": "They planned to spend their 「leisure time」 camping in the countryside.",
+          "chineseTranslation": "他们计划在乡下露营，度过「闲暇时光」。",
+          "chinglishFix": "中式英语：They planned to use their free time to camp. 纠正：'Use their free time' 显得生硬，'spend their leisure time' 更自然，强调轻松的氛围。"
         }
       ]
     },
     {
-      "meaning": "悠闲的状态或方式",
-      "usage": "描述一种从容、不匆忙的生活方式或做事方式，通常带有轻松、愉悦的 connotation。",
-      "collocations": ["leisurely pace", "leisurely stroll", "in a leisurely manner"],
+      "meaning": "悠闲，从容",
+      "usage": "形容一种不匆忙、轻松的状态或方式，通常与行动或态度相关，强调从容不迫。",
+      "collocations": ["leisurely pace", "leisurely stroll", "leisurely breakfast"],
       "examples": [
         {
-          "scene": "老王退休后，搬到了乡下的一栋小房子里。每天早上，他都会沿着田间小路慢慢散步，欣赏田野的风光。",
-          "chineseIdea": "老王希望以一种不急不躁的方式生活，享受每一天的平静。",
-          "sentenceWithBlank": "He walked along the country path at a @ @.",
-          "fullEnglishSentence": "He walked along the country path at a 「leisurely pace」.",
-          "chineseTranslation": "他沿着乡间小路以「悠闲的步伐」散步。",
-          "chinglishFix": "典型中式英语：He walked slowly and relaxed. 纠正：He walked at a leisurely pace."
+          "scene": "清晨的公园里，老李退休后每天都会去散步。他不赶时间，慢慢地欣赏花草，感受清新的空气。",
+          "chineseIdea": "老李喜欢用一种慢节奏的方式开始一天，享受生活的平静。",
+          "sentenceWithBlank": "He enjoyed walking at a @ @ through the park.",
+          "fullEnglishSentence": "He enjoyed walking at a 「leisurely pace」 through the park.",
+          "chineseTranslation": "他喜欢在公园里以「悠闲的步伐」散步。",
+          "chinglishFix": "中式英语：He walked slowly and freely in the park. 纠正：'Slowly and freely' 不够地道，'at a leisurely pace' 更精准地传达从容的感觉。"
         },
         {
-          "scene": "周末的咖啡馆里，小张和朋友们坐在窗边，慢慢地喝着咖啡，聊着最近的生活琐事，时间仿佛都慢了下来。",
-          "chineseIdea": "小张希望在与朋友的交流中，保持一种轻松、不急促的氛围。",
-          "sentenceWithBlank": "They chatted @ @ @ over coffee.",
-          "fullEnglishSentence": "They chatted 「in a leisurely manner」 over coffee.",
-          "chineseTranslation": "他们在咖啡馆里「悠闲地」聊天。",
-          "chinglishFix": "典型中式英语：They talked slowly with coffee. 纠正：They chatted in a leisurely manner over coffee."
+          "scene": "周日早上，小张和家人坐在餐桌旁，喝着咖啡，吃着刚烤好的面包，聊着最近的生活琐事。",
+          "chineseIdea": "小张希望通过慢节奏的早餐时光增进家人之间的感情。",
+          "sentenceWithBlank": "They enjoyed a @ @ together as a family.",
+          "fullEnglishSentence": "They enjoyed a 「leisurely breakfast」 together as a family.",
+          "chineseTranslation": "他们一起享受了一顿「悠闲的早餐」。",
+          "chinglishFix": "中式英语：They had a slow breakfast with family. 纠正：'Slow breakfast' 不常用于此场景，'leisurely breakfast' 更贴合英语母语者的表达，突出轻松的氛围。"
         }
       ]
     }
   ]
 }
-```

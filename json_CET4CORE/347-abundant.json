@@ -1,53 +1,51 @@
-```json
 {
   "word": "abundant",
   "definitions": [
     {
-      "meaning": "数量充足的，丰富的",
-      "usage": "描述某事物在数量上非常多，常见于描述自然资源、食物、机会等具体或抽象事物，强调供应充足甚至过剩。",
+      "meaning": "数量充足或非常多的",
+      "usage": "形容某事物数量多，供应充足，通常用于自然资源、食物、机会等具体或抽象事物。",
       "collocations": ["abundant supply", "abundant resources", "abundant opportunities"],
       "examples": [
         {
-          "scene": "在一个农业展览会上，农民们展示了自己种植的大量水果和蔬菜，摊位上堆满了新鲜的农产品，吸引了许多游客。",
-          "chineseIdea": "想表达这些农产品的数量非常多，足够满足所有人的需求，甚至还有剩余。",
-          "sentenceWithBlank": "The market was filled with an @ @ of fresh fruits and vegetables.",
-          "fullEnglishSentence": "The market was filled with an 「abundant supply」 of fresh fruits and vegetables.",
-          "chineseTranslation": "市场上充满了「充足的供应」的鲜果和蔬菜。",
-          "chinglishFix": "典型中式英语：'The market has many fruits and vegetables.' 纠正：避免笼统的'many'，用'an abundant supply'更能体现数量充足且自然的表达。"
+          "scene": "在一个农业展览会上，农民们展示他们丰收的成果，摊位上摆满了各种水果和蔬菜。",
+          "chineseIdea": "想表达农产品的数量非常充足，令人印象深刻。",
+          "sentenceWithBlank": "The market was filled with an @ @ of fresh produce.",
+          "fullEnglishSentence": "The market was filled with an 「abundant supply」 of fresh produce.",
+          "chineseTranslation": "市场上充满了「充足的供应」的农产品。",
+          "chinglishFix": "典型中式英语：'The market has many fresh products.' 纠正：'The market is filled with an abundant supply of fresh produce.'（使用更自然的搭配和形容词）"
         },
         {
-          "scene": "一位学生在研究新能源技术时，发现某个地区拥有丰富的风能和太阳能，足以支持大规模的清洁能源项目。",
-          "chinese nawiąz: "想表达这个地区的自然资源非常丰富，可以用来开发可持续能源。",
-          "sentenceWithBlank": "The region is blessed with @ @ for renewable energy projects.",
-          "fullEnglishSentence": "The region is blessed with 「abundant resources」 for renewable energy projects.",
-          "chineseTranslation": "该地区拥有「丰富的资源」，适合可再生能源项目。",
-          "chinglishFix": "典型中式英语：'The region has a lot of resources.' 纠正：'a lot of'显得口语化且不够精确，'abundant resources'更正式且贴合语境。"
+          "scene": "一个年轻人在职业博览会上，发现许多公司正在招聘，提供了大量的工作岗位。",
+          "chineseIdea": "想表达求职者面对大量的工作机会，感到选择丰富。",
+          "sentenceWithBlank": "The job fair offered @ @ for young graduates.",
+          "fullEnglishSentence": "The job fair offered 「abundant opportunities」 for young graduates.",
+          "chineseTranslation": "招聘会为年轻毕业生提供了「丰富的机会」。",
+          "chinglishFix": "典型中式英语：'The job fair has many jobs.' 纠正：'The job fair offered abundant opportunities for young graduates.'（使用更贴切的搭配和词汇）"
         }
       ]
     },
     {
-      "meaning": "富足的，充裕的（生活或状态）",
-      "usage": "用于描述生活、财富或某种状态的充裕，带有一种满足或繁荣的含义，常用于较为正式或文学化的语境。",
-      "collocations": ["abundant life", "abundant wealth", "abundant joy"],
+      "meaning": "富足或充裕的（生活或状态）",
+      "usage": "描述生活、财富或某种状态的充裕，通常带有正面情感，强调富足感。",
+      "collocations": ["abundant life", "abundant harvest", "abundant wealth"],
       "examples": [
         {
-          "scene": "一位老人在回忆自己年轻时的生活时，提到尽管物质条件有限，但家人之间的爱和欢乐让他们感到非常满足。",
-          "chineseIdea": "想表达那种充满幸福和满足感的生活状态，即使物质上不富裕。",
-          "sentenceWithBlank": "Despite their simple circumstances, they lived an @ @ filled with love.",
-          "fullEnglishSentence": "Despite their simple circumstances, they lived an 「abundant life」 filled with love.",
-          "chineseTranslation": "尽管生活简朴，他们过着「富足的生活」，充满了爱。",
-          "chinglishFix": "典型中式英语：'Their life is very happy.' 纠正：'very happy'过于简单，'an abundant life'更能传达充实和满足的深层含义。"
+          "scene": "一位退休的老人回忆自己年轻时在乡村的生活，虽然物质简单但内心满足。",
+          "chineseIdea": "想表达一种简单但内心充实的生活状态。",
+          "sentenceWithBlank": "She cherished the memories of an @ @ in the countryside.",
+          "fullEnglishSentence": "She cherished the memories of an 「abundant life」 in the countryside.",
+          "chineseTranslation": "她珍惜在乡村「富足的生活」的回忆。",
+          "chinglishFix": "典型中式英语：'Her life in the countryside was very full.' 纠正：'She cherished the memories of an abundant life in the countryside.'（使用更符合英语习惯的表达）"
         },
         {
-          "scene": "在一场慈善晚会上，组织者感谢捐助者慷慨解囊，表示这些资金将为需要帮助的人带来更多的幸福和希望。",
-          "chineseIdea": "想表达捐助带来的不仅是物质帮助，还有精神上的充实和喜悦。",
-          "sentenceWithBlank": "Your generosity will bring @ @ to those in need.",
-          "fullEnglishSentence": "Your generosity will bring 「abundant joy」 to those in need.",
-          "chineseTranslation": "你的慷慨将为需要帮助的人带来「充裕的喜悦」。",
-          "chinglishFix": "典型中式英语：'Your help makes them very happy.' 纠正：'very happy'缺乏深度，'abundant joy'更能体现深刻的情感影响。"
+          "scene": "一个农场主在秋季收获时，看到田里满是成熟的庄稼，感到非常满足。",
+          "chineseIdea": "想表达庄稼收成很好，带来了满足感。",
+          "sentenceWithBlank": "The farmer was grateful for an @ @ this season.",
+          "fullEnglishSentence": "The farmer was grateful for an 「abundant harvest」 this season.",
+          "chineseTranslation": "农民为这个季节的「丰收」感到感恩。",
+          "chinglishFix": "典型中式英语：'The farmer got many crops this season.' 纠正：'The farmer was grateful for an abundant harvest this season.'（使用更自然的搭配）"
         }
       ]
     }
   ]
 }
-```
