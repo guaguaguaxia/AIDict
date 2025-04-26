@@ -1,0 +1,76 @@
+```json
+{
+  "word": "trace",
+  "definitions": [
+    {
+      "meaning": "找到或发现某人或某物的位置或踪迹",
+      "usage": "用作动词，表示通过调查、追踪或搜索找到某人或某物的下落，通常与失踪的人、物或线索相关。",
+      "collocations": ["trace the source", "trace someone’s whereabouts", "trace a call"],
+      "examples": [
+        {
+          "scene": "一位侦探在调查一起失踪案件，试图找到失踪者的下落。他通过分析手机信号和监控录像，逐步缩小搜索范围。",
+          "chineseIdea": "通过线索一步步找到某人的具体位置或去向。",
+          "sentenceWithBlank": "The detective worked tirelessly to @ @ @ of the missing person.",
+          "fullEnglishSentence": "The detective worked tirelessly to 「trace the source」 of the missing person.",
+          "chineseTranslation": "侦探不知疲倦地工作，以「追踪源头」找到失踪者的下落。",
+          "chinglishFix": "典型中式英语：'Find the source of the person.' 纠正：'Trace the source of the missing person’s whereabouts.' 中式英语常直接翻译“找来源”，忽略了英语中追踪动态位置的习惯表达。"
+        },
+        {
+          "scene": "一名记者接到匿名电话，试图查明电话的来源以确认信息可信度。她联系了电信公司请求协助。",
+          "chineseIdea": "查明某通电话的来源或发起地点。",
+          "sentenceWithBlank": "The journalist asked the phone company to @ @ @ to verify the tip.",
+          "fullEnglishSentence": "The journalist asked the phone company to 「trace a call」 to verify the tip.",
+          "chineseTranslation": "记者请求电话公司「追踪电话」以验证线索。",
+          "chinglishFix": "典型中式英语：'Find where the call comes from.' 纠正：'Trace the call.' 中式英语常冗长描述“找来源”，而英语中‘trace a call’是固定搭配，简洁明了。"
+        }
+      ]
+    },
+    {
+      "meaning": "描摹或复制某物的轮廓或图案",
+      "usage": "用作动词，表示用笔或工具沿着某物的边缘描画出其形状，常用于艺术、设计或教育场景。",
+      "collocations": ["trace a pattern", "trace an outline", "trace a drawing"],
+      "examples": [
+        {
+          "scene": "一名小学生在美术课上学习描图，老师让她用透明纸覆盖一幅画，然后沿着线条描出图案。",
+          "chineseIdea": "通过覆盖并描画，复制出图案的形状。",
+          "sentenceWithBlank": "The student used tracing paper to @ @ @ of the flower design.",
+          "fullEnglishSentence": "The student used tracing paper to 「trace a pattern」 of the flower design.",
+          "chineseTranslation": "学生使用描图纸「描摹图案」，复制了花卉设计。",
+          "chinglishFix": "典型中式英语：'Draw the pattern again.' 纠正：'Trace the pattern.' 中式英语常误用‘draw’表示描摹，而‘trace’特指沿现有线条描画。"
+        },
+        {
+          "scene": "一位建筑师在设计草图时，先用铅笔勾勒出大楼的外形轮廓，然后用细线笔描出精确的线条。",
+          "chineseIdea": "勾勒或复制某物的大致轮廓以便进一步加工。",
+          "sentenceWithBlank": "The architect carefully @ @ @ of the building on the sketch.",
+          "fullEnglishSentence": "The architect carefully 「trace an outline」 of the building on the sketch.",
+          "chineseTranslation": "建筑师小心翼翼地在草图上「描摹轮廓」，勾勒出大楼的形状。",
+          "chinglishFix": "典型中式英语：'Copy the shape of the building.' 纠正：'Trace an outline of the building.' 中式英语常使用‘copy’而忽略‘trace’在描摹轮廓时的精确含义。"
+        }
+      ]
+    },
+    {
+      "meaning": "微量或少量",
+      "usage": "用作名词，表示某事物存在的极少量或痕迹，常用于描述几乎检测不到的物质或证据。",
+      "collocations": ["trace of evidence", "trace amount", "trace element"],
+      "examples": [
+        {
+          "scene": "一名化学家在实验室分析水样，发现其中含有微量的污染物，足以影响水质。",
+          "chineseIdea": "检测到某物质的极少量，微乎其微但仍可测。",
+          "sentenceWithBlank": "The chemist found a @ @ of lead in the water sample.",
+          "fullEnglishSentence": "The chemist found a 「trace amount」 of lead in the water sample.",
+          "chineseTranslation": "化学家在水样中发现了「微量」的铅。",
+          "chinglishFix": "典型中式英语：'A little amount of lead.' 纠正：'A trace amount of lead.' 中式英语常使用‘little’表示微量，但‘trace amount’是更专业的固定表达。"
+        },
+        {
+          "scene": "一名警官在犯罪现场勘查时，发现了一点几乎看不见的血迹，可能是破案的关键。",
+          "chineseIdea": "发现某物的细微痕迹，可能成为重要线索。",
+          "sentenceWithBlank": "The officer noticed a @ @ @ at the crime scene.",
+          "fullEnglishSentence": "The officer noticed a 「trace of evidence」 at the crime scene.",
+          "chineseTranslation": "警官在犯罪现场注意到了一点「证据痕迹」。",
+          "chinglishFix": "典型中式英语：'A small evidence.' 纠正：'A trace of evidence.' 中式英语常误用‘small’修饰不可数名词，而‘trace of evidence’是正确搭配。"
+        }
+      ]
+    }
+  ]
+}
+```
