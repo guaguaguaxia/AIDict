@@ -1,0 +1,76 @@
+```json
+{
+  "word": "finance",
+  "definitions": [
+    {
+      "meaning": "管理和分配金钱或资金",
+      "usage": "指对金钱、投资、预算等资源的管理，通常用于商业、个人或政府领域。",
+      "collocations": ["manage finances", "personal finance", "corporate finance"],
+      "examples": [
+        {
+          "scene": "一位年轻的白领在家中制定每月的预算计划，确保收入能够覆盖生活开支和储蓄目标。",
+          "chineseIdea": "他希望合理规划自己的收入和支出，避免不必要的浪费，同时为未来购房存钱。",
+          "sentenceWithBlank": "She carefully @ @ to ensure her monthly expenses don’t exceed her income.",
+          "fullEnglishSentence": "She carefully 「manages her finances」 to ensure her monthly expenses don’t exceed her income.",
+          "chineseTranslation": "她小心地「管理她的财务」以确保每月的开支不超过她的收入。",
+          "chinglishFix": "典型中式英语：She manages her money very good. 纠正：She manages her finances effectively."
+        },
+        {
+          "scene": "一位大学生在咨询财务顾问，学习如何管理自己的助学贷款和兼职收入。",
+          "chineseIdea": "他想了解如何在支付学费的同时，留出一些钱用于日常生活和娱乐。",
+          "sentenceWithBlank": "He attended a workshop on @ @ to learn budgeting skills.",
+          "fullEnglishSentence": "He attended a workshop on 「personal finance」 to learn budgeting skills.",
+          "chineseTranslation": "他参加了一个关于「个人理财」的研讨会来学习预算技巧。",
+          "chinglishFix": "典型中式英语：He learns how to manage his money life. 纠正：He learns how to manage his personal finances."
+        }
+      ]
+    },
+    {
+      "meaning": "为某项活动或项目提供资金",
+      "usage": "指通过贷款、投资或其他方式为某项计划或项目提供金钱支持，常用于商业或政府语境。",
+      "collocations": ["finance a project", "secure financing", "government funding"],
+      "examples": [
+        {
+          "scene": "一家初创公司正在与银行谈判，希望获得一笔贷款来开发新产品。",
+          "chineseIdea": "他们需要资金来支持研发和市场推广，但必须说服银行他们的项目有回报潜力。",
+          "sentenceWithBlank": "The startup struggled to @ @ @ for their innovative app development.",
+          "fullEnglishSentence": "The startup struggled to 「finance a project」 for their innovative app development.",
+          "chineseTranslation": "这家初创公司努力为他们的创新应用开发「资助项目」。",
+          "chinglishFix": "典型中式英语：They want to find money for their project. 纠正：They aim to secure financing for their project."
+        },
+        {
+          "scene": "一位企业家在与投资者会面，试图为她的环保科技公司筹集资金。",
+          "chineseIdea": "她希望通过展示公司的长期潜力，吸引投资者提供必要的资金支持。",
+          "sentenceWithBlank": "She pitched her business idea to @ @ for her eco-friendly technology.",
+          "fullEnglishSentence": "She pitched her business idea to 「secure financing」 for her eco-friendly technology.",
+          "chineseTranslation": "她向投资者推介了她的商业理念，以「获得资金」支持她的环保技术。",
+          "chinglishFix": "典型中式英语：She wants to get money for her company. 纠正：She seeks to secure financing for her company."
+        }
+      ]
+    },
+    {
+      "meaning": "金融行业或学科",
+      "usage": "指研究或从事与金钱、投资、银行等相关的行业或学术领域。",
+      "collocations": ["study finance", "finance sector", "finance degree"],
+      "examples": [
+        {
+          "scene": "一位高中生在选择大学专业时，考虑是否要学习金融，因为他对投资和市场分析感兴趣。",
+          "chineseIdea": "他希望通过学习金融，掌握如何分析市场趋势和进行投资决策的技能。",
+          "sentenceWithBlank": "He decided to @ @ to pursue a career in investment banking.",
+          "fullEnglishSentence": "He decided to 「study finance」 to pursue a career in investment banking.",
+          "chineseTranslation": "他决定「学习金融」以追求投资银行的职业生涯。",
+          "chinglishFix": "典型中式英语：He wants to learn money management. 纠正：He wants to study finance."
+        },
+        {
+          "scene": "一位职场人士在金融行业工作多年后，决定攻读MBA以提升自己的职业竞争力。",
+          "chineseIdea": "她希望通过深造，获得更高的职位，进入金融行业的管理层。",
+          "sentenceWithBlank": "She enrolled in a prestigious program to earn a @ @.",
+          "fullEnglishSentence": "She enrolled in a prestigious program to earn a 「finance degree」.",
+          "chineseTranslation": "她报名参加了一个顶尖项目以获得「金融学位」。",
+          "chinglishFix": "典型中式英语：She studies for a money degree. 纠正：She is pursuing a finance degree."
+        }
+      ]
+    }
+  ]
+}
+```

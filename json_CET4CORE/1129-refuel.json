@@ -1,0 +1,61 @@
+```json
+{
+  "word": "refuel",
+  "definitions": [
+    {
+      "meaning": "为车辆、飞机等补充燃料",
+      "usage": "主要用于描述给交通工具（如汽车、飞机、船只等）添加燃料的行为，通常涉及汽油、柴油、航空燃料等。常见于描述实际操作或计划中的加油行为。",
+      "collocations": [
+        "refuel the car",
+        "refuel the plane",
+        "refuel at the station"
+      ],
+      "examples": [
+        {
+          "scene": "一位司机在长途旅行中发现汽车油箱快要空了，决定在下一个加油站停下来。他考虑时间紧迫，选择了一个高速公路旁的加油站。",
+          "chineseIdea": "司机需要给车加满油，以确保接下来的旅程不会因为缺油而中断。",
+          "sentenceWithBlank": "We need to @ @ @ before continuing our road trip.",
+          "fullEnglishSentence": "We need to 「refuel the car」 before continuing our road trip.",
+          "chineseTranslation": "我们需要在继续公路旅行之前「给车加油」。",
+          "chinglishFix": "典型中式英语：'Add oil to the car.' 纠正：'Refuel the car.'（'Add oil' 在中文中常指加油，但在英文中通常指添加机油，容易混淆。）"
+        },
+        {
+          "scene": "一架从上海飞往伦敦的国际航班在中途需要停靠某个机场，以便补充航空燃料。飞行计划中已经安排了这个停靠点。",
+          "chineseIdea": "飞机需要在飞行途中补充燃料，以确保安全抵达目的地。",
+          "sentenceWithBlank": "The pilot announced that we would @ @ @ in Dubai.",
+          "fullEnglishSentence": "The pilot announced that we would 「refuel the plane」 in Dubai.",
+          "chineseTranslation": "飞行员宣布我们将在迪拜「给飞机加油」。",
+          "chinglishFix": "典型中式英语：'Fill oil for the plane.' 纠正：'Refuel the plane.'（'Fill oil' 不符合英文中描述给飞机加油的习惯表达。）"
+        }
+      ]
+    },
+    {
+      "meaning": "为身体或精神补充能量",
+      "usage": "比喻用法，指通过饮食、休息或其他方式恢复体力或精神状态。常用于描述人在疲惫后通过某种方式重新获得活力。",
+      "collocations": [
+        "refuel with a meal",
+        "refuel with coffee",
+        "refuel after work"
+      ],
+      "examples": [
+        {
+          "scene": "一位程序员在公司连续加班了几个小时，感到非常疲惫，决定去公司食堂吃一顿丰盛的午餐来恢复精力。",
+          "chineseIdea": "程序员希望通过吃饭来补充体力，以便继续高效工作。",
+          "sentenceWithBlank": "I need to @ @ @ to stay productive this afternoon.",
+          "fullEnglishSentence": "I need to 「refuel with a meal」 to stay productive this afternoon.",
+          "chineseTranslation": "我需要「吃一顿饭补充能量」以保持下午的高效工作。",
+          "chinglishFix": "典型中式英语：'Eat food to charge energy.' 纠正：'Refuel with a meal.'（'Charge energy' 听起来不自然，英文中常用 'refuel' 来表达补充能量的比喻。）"
+        },
+        {
+          "scene": "一位学生在图书馆学习了整个上午，感到头脑昏沉，决定去咖啡店买一杯咖啡来提神。",
+          "chineseIdea": "学生希望通过喝咖啡来恢复精神状态，继续专注学习。",
+          "sentenceWithBlank": "She decided to @ @ @ to keep studying.",
+          "fullEnglishSentence": "She decided to 「refuel with coffee」 to keep studying.",
+          "chineseTranslation": "她决定「喝杯咖啡提神」以继续学习。",
+          "chinglishFix": "典型中式英语：'Drink coffee to add energy.' 纠正：'Refuel with coffee.'（'Add energy' 不够 idiomatic，'refuel' 更自然地表达恢复活力的概念。）"
+        }
+      ]
+    }
+  ]
+}
+```

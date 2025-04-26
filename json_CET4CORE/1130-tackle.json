@@ -1,0 +1,76 @@
+```json
+{
+  "word": "tackle",
+  "definitions": [
+    {
+      "meaning": "处理或解决（问题、任务等）",
+      "usage": "用作动词，表示采取行动来应对或解决某个问题、挑战或任务，通常带有主动性和努力的含义。",
+      "collocations": ["tackle a problem", "tackle an issue", "tackle a challenge"],
+      "examples": [
+        {
+          "scene": "在一个科技公司的团队会议上，项目经理注意到新产品开发过程中出现了多次延误，决定采取行动。",
+          "chineseIdea": "项目经理想主动解决延误问题，确保项目按时完成。",
+          "sentenceWithBlank": "The project manager decided to @ @ @ to ensure the product launch stays on schedule.",
+          "fullEnglishSentence": "The project manager decided to 「tackle a problem」 to ensure the product launch stays on schedule.",
+          "chineseTranslation": "项目经理决定「处理一个问题」以确保产品按时发布。",
+          "chinglishFix": "典型中式英语：'Solve the problem hardly.' 纠正：'Tackle the problem effectively.'"
+        },
+        {
+          "scene": "在一所学校，校长发现学生的数学成绩普遍下降，决定引入新的教学方法。",
+          "chineseIdea": "校长希望通过改进教学来应对学生成绩下降的挑战。",
+          "sentenceWithBlank": "The principal planned to @ @ @ by introducing innovative teaching methods.",
+          "fullEnglishSentence": "The principal planned to 「tackle an issue」 by introducing innovative teaching methods.",
+          "chineseTranslation": "校长计划通过引入创新教学方法来「解决一个问题」。",
+          "chinglishFix": "典型中式英语：'Deal the issue.' 纠正：'Tackle the issue proactively.'"
+        }
+      ]
+    },
+    {
+      "meaning": "（体育运动中）抢球或阻截",
+      "usage": "用作动词或名词，主要在体育（如橄榄球或足球）中，指通过身体接触阻止对方球员前进或抢夺球。",
+      "collocations": ["make a tackle", "attempt a tackle", "hard tackle"],
+      "examples": [
+        {
+          "scene": "在一场激烈的橄榄球比赛中，一名防守队员试图阻止对方球员的进攻。",
+          "chineseIdea": "防守队员想通过强硬的身体接触阻止对方球员前进。",
+          "sentenceWithBlank": "The defender managed to @ @ @, stopping the opponent in their tracks.",
+          "fullEnglishSentence": "The defender managed to 「make a tackle」, stopping the opponent in their tracks.",
+          "chineseTranslation": "防守队员成功「完成了一次抢截」，阻止了对方的前进。",
+          "chinglishFix": "典型中式英语：'Do a tackle.' 纠正：'Make a tackle skillfully.'"
+        },
+        {
+          "scene": "在一场足球比赛中，一名后卫试图从对方前锋脚下抢球。",
+          "chineseIdea": "后卫希望通过一次大胆的动作抢断球，阻止对方进攻。",
+          "sentenceWithBlank": "The fullback went for @ @ @ but missed the ball entirely.",
+          "fullEnglishSentence": "The fullback went for 「attempt a tackle」 but missed the ball entirely.",
+          "chineseTranslation": "后卫试图「进行一次抢截」，但完全没有碰到球。",
+          "chinglishFix": "典型中式英语：'Try a tackle.' 纠正：'Attempt a tackle confidently.'"
+        }
+      ]
+    },
+    {
+      "meaning": "工具或设备（尤指渔具或绳索）",
+      "usage": "用作名词，指一组用于特定任务的工具或设备，尤其是钓鱼或航海中使用的绳索、滑轮等。",
+      "collocations": ["fishing tackle", "rigging tackle", "sailing tackle"],
+      "examples": [
+        {
+          "scene": "一个爱好钓鱼的人在湖边准备装备，检查自己的渔具是否齐全。",
+          "chineseIdea": "钓鱼爱好者想确保所有工具都准备好，以便顺利钓鱼。",
+          "sentenceWithBlank": "He carefully organized his @ @ before heading to the lake.",
+          "fullEnglishSentence": "He carefully organized his 「fishing tackle」 before heading to the lake.",
+          "chineseTranslation": "他在前往湖边之前仔细整理了他的「渔具」。",
+          "chinglishFix": "典型中式英语：'Fishing tools.' 纠正：'Fishing tackle.'"
+        },
+        {
+          "scene": "在一艘帆船上，水手们正在检查船上的绳索和滑轮系统以确保安全航行。",
+          "chineseIdea": "水手们希望确认所有绳索设备都正常，以便应对海上挑战。",
+          "sentenceWithBlank": "The crew inspected the @ @ to ensure the ship was ready for the voyage.",
+          "fullEnglishSentence": "The crew inspected the 「rigging tackle」 to ensure the ship was ready for the voyage.",
+          "chineseTranslation": "船员们检查了「索具」以确保船只为航行做好准备。",
+          "chinglishFix": "典型中式英语：'Rope tools.' 纠正：'Rigging tackle.'"
+        }
+      ]
+    }
+  ]
+}
+```

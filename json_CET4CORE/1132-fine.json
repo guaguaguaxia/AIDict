@@ -1,0 +1,99 @@
+```json
+{
+  "word": "fine",
+  "definitions": [
+    {
+      "meaning": "高质量的；精美的",
+      "usage": "形容某事物品质优良、外观精致或工艺精细，常用于描述艺术品、食物、衣物等。",
+      "collocations": ["fine art", "fine dining", "fine wine"],
+      "examples": [
+        {
+          "scene": "你在一家画廊参观，看到一幅精美的油画，画作色彩鲜艳，细节栩栩如生。你想表达这幅画的品质极高。",
+          "chineseIdea": "我想说这幅画非常精美，工艺高超，值得收藏。",
+          "sentenceWithBlank": "This painting is a stunning piece of @ @.",
+          "fullEnglishSentence": "This painting is a stunning piece of 「fine art」.",
+          "chineseTranslation": "这幅画是一件惊艳的「精美艺术品」。",
+          "chinglishFix": "典型中式英语：This painting is very beautiful art. 纠正：This painting is a stunning piece of fine art.（避免直接用‘beautiful’，用‘fine art’更地道）"
+        },
+        {
+          "scene": "你和朋友去了一家高档餐厅，食物摆盘精致，口感绝佳。你想称赞这家餐厅的用餐体验。",
+          "chineseIdea": "我想说这家餐厅的食物和环境都非常高端，体验很棒。",
+          "sentenceWithBlank": "The restaurant offers an exceptional @ @ experience.",
+          "fullEnglishSentence": "The restaurant offers an exceptional 「fine dining」 experience.",
+          "chineseTranslation": "这家餐厅提供了一种卓越的「高档餐饮」体验。",
+          "chinglishFix": "典型中式英语：This restaurant is very high-class eating. 纠正：The restaurant offers an exceptional fine dining experience.（‘fine dining’是固定搭配，避免用‘high-class’等）"
+        }
+      ]
+    },
+    {
+      "meaning": "健康的；良好的",
+      "usage": "表示人或事物的状态良好、健康或没有问题，常用于日常对话中回答询问健康或情况。",
+      "collocations": ["feel fine", "doing fine", "everything is fine"],
+      "examples": [
+        {
+          "scene": "你生病后康复，朋友打电话关心你的身体状况，你想告诉他你已经完全好了。",
+          "chineseIdea": "我想说我现在身体很好，已经恢复了。",
+          "sentenceWithBlank": "Thanks for asking, I @ @ now.",
+          "fullEnglishSentence": "Thanks for asking, I 「feel fine」 now.",
+          "chineseTranslation": "谢谢关心，我现在「感觉很好」。",
+          "chinglishFix": "典型中式英语：I am very good now. 纠正：I feel fine now.（‘feel fine’更自然，符合日常口语习惯）"
+        },
+        {
+          "scene": "你在公司忙碌了一天，同事问你工作进展如何，你想说一切都在掌控中。",
+          "chineseIdea": "我想说我的工作进展顺利，没什么问题。",
+          "sentenceWithBlank": "Don’t worry, @ @ @ at work.",
+          "fullEnglishSentence": "Don’t worry, 「everything is fine」 at work.",
+          "chineseTranslation": "别担心，工作上「一切都很好」。",
+          "chinglishFix": "典型中式英语：My work is all good. 纠正：Everything is fine at work.（‘everything is fine’是更地道的表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "细小的；微小的",
+      "usage": "描述某事物非常小、细腻或难以察觉，常用于描述颗粒、细节或结构。",
+      "collocations": ["fine details", "fine print", "fine sand"],
+      "examples": [
+        {
+          "scene": "你在阅读一份合同，发现条款中有一些非常小的文字，难以看清。你想提醒朋友注意这些细节。",
+          "chineseIdea": "我想说合同里有些小字条款，需要仔细看。",
+          "sentenceWithBlank": "Be sure to read the @ @ in the contract carefully.",
+          "fullEnglishSentence": "Be sure to read the 「fine print」 in the contract carefully.",
+          "chineseTranslation": "一定要仔细阅读合同中的「小字条款」。",
+          "chinglishFix": "典型中式英语：Look at the small words in the contract. 纠正：Be sure to read the fine print in the contract carefully.（‘fine print’是固定表达，指合同小字）"
+        },
+        {
+          "scene": "你在海滩上散步，注意到沙子非常细腻，踩上去很舒服。你想描述这种感觉。",
+          "chineseIdea": "我想说这里的沙子很细，感觉很柔软。",
+          "sentenceWithBlank": "The beach is covered with @ @ that feels soft underfoot.",
+          "fullEnglishSentence": "The beach is covered with 「fine sand」 that feels soft underfoot.",
+          "chineseTranslation": "海滩上覆盖着「细沙」，踩上去感觉很柔软。",
+          "chinglishFix": "典型中式英语：The sand is very thin. 纠正：The beach is covered with fine sand.（‘fine sand’更准确，‘thin’不适合描述沙子）"
+        }
+      ]
+    },
+    {
+      "meaning": "可以接受的；尚可的",
+      "usage": "表示某事物虽然不完美但可以接受，常用于表达妥协或满意的语气。",
+      "collocations": ["works fine", "seems fine", "perfectly fine"],
+      "examples": [
+        {
+          "scene": "你买了一台二手电脑，虽然不是最新款，但运行正常。你想告诉朋友这台电脑还不错。",
+          "chineseIdea": "我想说这台电脑虽然旧，但用起来没问题。",
+          "sentenceWithBlank": "This old computer @ @ for my needs.",
+          "fullEnglishSentence": "This old computer 「works fine」 for my needs.",
+          "chineseTranslation": "这台旧电脑「运行良好」，满足我的需求。",
+          "chinglishFix": "典型中式英语：This computer is still OK to use. 纠正：This old computer works fine for my needs.（‘works fine’更简洁自然）"
+        },
+        {
+          "scene": "你和朋友计划周末出去玩，朋友提议去一个你不太感兴趣的地方，但你觉得也可以接受。",
+          "chineseIdea": "我想说这个计划虽然不是我最喜欢的，但也可以。",
+          "sentenceWithBlank": "Your suggestion @ @ with me.",
+          "fullEnglishSentence": "Your suggestion 「seems fine」 with me.",
+          "chineseTranslation": "你的建议对我来说「还可以」。",
+          "chinglishFix": "典型中式英语：Your idea is OK for me. 纠正：Your suggestion seems fine with me.（‘seems fine’更符合英语表达习惯）"
+        }
+      ]
+    }
+  ]
+}
+```

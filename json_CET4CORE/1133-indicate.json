@@ -1,0 +1,76 @@
+```json
+{
+  "word": "indicate",
+  "definitions": [
+    {
+      "meaning": "表明，显示，指示",
+      "usage": "用于表达某事物指向、显示或暗示某个事实、情况或意图，通常用于正式或客观的语境。",
+      "collocations": ["indicate a trend", "indicate a problem", "indicate the direction"],
+      "examples": [
+        {
+          "scene": "在一次公司会议中，经理正在分析最近的销售数据，试图向团队解释市场变化。",
+          "chineseIdea": "经理想表达销售数据的变化显示了某种市场趋势。",
+          "sentenceWithBlank": "The recent sales data @ @ @ in consumer preferences.",
+          "fullEnglishSentence": "The recent sales data 「indicate a trend」 in consumer preferences.",
+          "chineseTranslation": "最近的销售数据「表明了一种趋势」，显示了消费者偏好的变化。",
+          "chinglishFix": "典型中式英语：'The sales data show a trend.' 纠正：'Show' 更口语化，而 'indicate a trend' 更正式且常见，适合书面或专业语境。"
+        },
+        {
+          "scene": "在医院中，医生正在向患者解释检查结果，提到某些症状可能预示健康问题。",
+          "chineseIdea": "医生想说明患者的症状显示了一个潜在的健康问题。",
+          "sentenceWithBlank": "Your symptoms @ @ @ that requires further investigation.",
+          "fullEnglishSentence": "Your symptoms 「indicate a problem」 that requires further investigation.",
+          "chineseTranslation": "你的症状「表明了一个问题」，需要进一步检查。",
+          "chinglishFix": "典型中式英语：'Your symptoms mean a problem.' 纠正：'Mean' 过于主观，而 'indicate a problem' 更客观，适合医疗场景。"
+        }
+      ]
+    },
+    {
+      "meaning": "暗示，建议",
+      "usage": "用于表达某人通过语言或行为间接地建议或提示某事，常用于非正式或礼貌的交流。",
+      "collocations": ["indicate interest", "indicate agreement", "indicate a preference"],
+      "examples": [
+        {
+          "scene": "在一次朋友聚会上，大家讨论去哪里度假，有人提到对某个目的地感兴趣。",
+          "chineseIdea": "某人想通过话语表达对某个旅游目的地的兴趣。",
+          "sentenceWithBlank": "She @ @ in visiting Japan for the holidays.",
+          "fullEnglishSentence": "She 「indicated interest」 in visiting Japan for the holidays.",
+          "chineseTranslation": "她「暗示了兴趣」，想去日本度假。",
+          "chinglishFix": "典型中式英语：'She said she wants to visit Japan.' 纠正：'Said' 过于直接，而 'indicated interest' 更含蓄，符合英语表达习惯。"
+        },
+        {
+          "scene": "在工作场合，同事们讨论项目计划，有人通过点头和评论表达对某个方案的认同。",
+          "chineseIdea": "某人想通过行为和语言暗示同意某个提议。",
+          "sentenceWithBlank": "His nod and comments @ @ with the proposed plan.",
+          "fullEnglishSentence": "His nod and comments 「indicated agreement」 with the proposed plan.",
+          "chineseTranslation": "他的点头和评论「暗示了同意」提议的计划。",
+          "chinglishFix": "典型中式英语：'He agreed the plan.' 纠正：'Agreed' 需要接 'to' 或 'with'，而 'indicated agreement' 是更自然的表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "（在驾驶中）打转向灯",
+      "usage": "特指在驾驶车辆时使用转向灯来指示转弯或变道，常见于交通相关语境。",
+      "collocations": ["indicate left", "indicate right", "indicate a turn"],
+      "examples": [
+        {
+          "scene": "在繁忙的城市街道上，司机准备左转进入另一条路。",
+          "chineseIdea": "司机想通过打转向灯告知其他车辆他要左转。",
+          "sentenceWithBlank": "The driver @ @ before making the turn.",
+          "fullEnglishSentence": "The driver 「indicated left」 before making the turn.",
+          "chineseTranslation": "司机在转弯前「打了左转向灯」。",
+          "chinglishFix": "典型中式英语：'The driver opened the left signal.' 纠正：'Open the signal' 是中式表达，正确的是 'indicated left'。"
+        },
+        {
+          "scene": "在高速公路上，司机准备变道到右边车道。",
+          "chineseIdea": "司机想通过转向灯示意他要向右变道。",
+          "sentenceWithBlank": "She @ @ to merge into the right lane.",
+          "fullEnglishSentence": "She 「indicated right」 to merge into the right lane.",
+          "chineseTranslation": "她「打了右转向灯」以并入右车道。",
+          "chinglishFix": "典型中式英语：'She turned on the right light.' 纠正：'Turn on the light' 不准确，'indicated right' 是标准交通用语。"
+        }
+      ]
+    }
+  ]
+}
+```
