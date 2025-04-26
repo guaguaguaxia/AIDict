@@ -1,0 +1,76 @@
+```json
+{
+  "word": "judgement",
+  "definitions": [
+    {
+      "meaning": "The ability to make considered decisions or come to sensible conclusions",
+      "usage": "Refers to the cognitive process of evaluating information and making a decision, often involving discernment or wisdom.",
+      "collocations": ["sound judgement", "exercise judgement", "trust someone's judgement"],
+      "examples": [
+        {
+          "scene": "在公司会议中，团队需要决定是否投资一个新项目。经理希望团队成员能凭借经验和数据分析，做出明智的决定。",
+          "chineseIdea": "希望团队能够通过深思熟虑，得出一个合理的结论，而不是草率决定。",
+          "sentenceWithBlank": "The manager praised the team for their @ @ in choosing the most viable project.",
+          "fullEnglishSentence": "The manager praised the team for their 「sound judgement」 in choosing the most viable project.",
+          "chineseTranslation": "经理表扬了团队在选择最可行项目时表现出的「明智判断」。",
+          "chinglishFix": "Chinglish: 'They did a good judge.' Correct: 'They showed sound judgement.'"
+        },
+        {
+          "scene": "在一次家庭讨论中，父母需要决定是否允许孩子参加一个长途夏令营。母亲凭借对孩子性格的了解，决定是否值得冒险。",
+          "chineseIdea": "母亲需要根据自己的经验和直觉，决定是否信任孩子的独立能力。",
+          "sentenceWithBlank": "She had to @ @ to decide if her son was ready for the camp.",
+          "fullEnglishSentence": "She had to 「exercise judgement」 to decide if her son was ready for the camp.",
+          "chineseTranslation": "她需要「运用判断」来决定儿子是否准备好参加夏令营。",
+          "chinglishFix": "Chinglish: 'She used her brain to judge.' Correct: 'She exercised judgement.'"
+        }
+      ]
+    },
+    {
+      "meaning": "An opinion or conclusion formed after consideration",
+      "usage": "Refers to a specific opinion or verdict reached after evaluating evidence or circumstances, often in a formal or critical context.",
+      "collocations": ["form a judgement", "pass judgement", "reserve judgement"],
+      "examples": [
+        {
+          "scene": "在一次艺术展览中，观众们在欣赏完一幅抽象画后，试图理解画家的意图并对作品的价值发表看法。",
+          "chineseIdea": "观众希望通过观察和思考，对画作的意义和价值形成自己的看法。",
+          "sentenceWithBlank": "After studying the painting, she was hesitant to @ @ @ too quickly.",
+          "fullEnglishSentence": "After studying the painting, she was hesitant to 「form a judgement」 too quickly.",
+          "chineseTranslation": "在研究了这幅画后，她不愿太快「形成看法」。",
+          "chinglishFix": "Chinglish: 'She didn’t want to judge it fast.' Correct: 'She didn’t want to form a judgement too quickly.'"
+        },
+        {
+          "scene": "在法庭上，法官在听完双方的证词后，决定暂不立即做出裁决，而是等到更多证据出现。",
+          "chineseIdea": "法官希望在掌握更多信息之前，谨慎地推迟发表意见。",
+          "sentenceWithBlank": "The judge chose to @ @ until further evidence was presented.",
+          "fullEnglishSentence": "The judge chose to 「reserve judgement」 until further evidence was presented.",
+          "chineseTranslation": "法官选择「保留意见」，直到有更多证据提交。",
+          "chinglishFix": "Chinglish: 'The judge kept his judge.' Correct: 'The judge reserved judgement.'"
+        }
+      ]
+    },
+    {
+      "meaning": "A formal decision or ruling, especially in a legal context",
+      "usage": "Refers to an official decision made by a judge or court, often binding and authoritative.",
+      "collocations": ["deliver a judgement", "appeal a judgement", "enforce a judgement"],
+      "examples": [
+        {
+          "scene": "在一场激烈的商业诉讼中，法院终于对两家公司之间的合同纠纷作出了裁决，解决了长期的争议。",
+          "chineseIdea": "法院需要正式宣布对案件的决定，以明确双方的权利和义务。",
+          "sentenceWithBlank": "The court was expected to @ @ @ in the contract dispute case next week.",
+          "fullEnglishSentence": "The court was expected to 「deliver a judgement」 in the contract dispute case next week.",
+          "chineseTranslation": "法院预计下周将对合同纠纷案件「作出裁决」。",
+          "chinglishFix": "Chinglish: 'The court will give a judge.' Correct: 'The court will deliver a judgement.'"
+        },
+        {
+          "scene": "在一场刑事案件中，被告对法院的判决不服，决定向更高一级的法院提出上诉，希望推翻原判。",
+          "chineseIdea": "被告希望通过法律程序挑战法院的决定，以争取更有利的结果。",
+          "sentenceWithBlank": "The defendant decided to @ @ @ to seek a more favorable outcome.",
+          "fullEnglishSentence": "The defendant decided to 「appeal a judgement」 to seek a more favorable outcome.",
+          "chineseTranslation": "被告决定「上诉裁决」，以寻求更有利的结果。",
+          "chinglishFix": "Chinglish: 'He wanted to fight the judge.' Correct: 'He decided to appeal a judgement.'"
+        }
+      ]
+    }
+  ]
+}
+```

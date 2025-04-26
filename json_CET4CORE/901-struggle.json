@@ -1,0 +1,76 @@
+```json
+{
+  "word": "struggle",
+  "definitions": [
+    {
+      "meaning": "努力或奋力做某事，通常伴随着困难或阻力",
+      "usage": "指为了达成目标或克服障碍而付出的艰苦努力，常用于描述身体上或精神上的抗争。",
+      "collocations": ["struggle with", "struggle against", "struggle to"],
+      "examples": [
+        {
+          "scene": "一个中国学生在准备英语考试时，面对复杂的语法规则感到非常困难。他每天花几个小时复习，但仍然觉得进步很慢。",
+          "chineseIdea": "这个学生在努力理解和掌握英语语法，但总是觉得力不从心。",
+          "sentenceWithBlank": "He @ @ complex grammar rules every day.",
+          "fullEnglishSentence": "He 「struggles with」 complex grammar rules every day.",
+          "chineseTranslation": "他每天都在「与复杂的语法规则作斗争」。",
+          "chinglishFix": "典型中式英语：'He fights with grammar every day.' 纠正：'Fight with' 通常指与人争吵，改为 'struggle with' 表示面对困难的努力。"
+        },
+        {
+          "scene": "一位年轻的白领在公司里努力争取晋升，但她的同事竞争非常激烈，她需要加班加点来证明自己的能力。",
+          "chineseIdea": "她希望通过努力工作来对抗职场中的竞争压力。",
+          "sentenceWithBlank": "She @ @ fierce competition in her workplace.",
+          "fullEnglishSentence": "She 「struggles against」 fierce competition in her workplace.",
+          "chineseTranslation": "她在职场中「与激烈的竞争作斗争」。",
+          "chinglishFix": "典型中式英语：'She fights competition.' 纠正：'Fight' 缺少介词，改为 'struggle against' 更自然，表示对抗外部阻力。"
+        }
+      ]
+    },
+    {
+      "meaning": "挣扎或奋力摆脱束缚，通常涉及身体动作",
+      "usage": "指在物理上试图摆脱限制、束缚或危险时所做的激烈动作，常用于描述被困或被抓的情境。",
+      "collocations": ["struggle free", "struggle out of", "struggle under"],
+      "examples": [
+        {
+          "scene": "一个小孩在游泳池里不小心滑入深水区，他拼命挥动双手，试图浮出水面。",
+          "chineseIdea": "小孩在水里奋力摆脱困境，希望回到安全的地方。",
+          "sentenceWithBlank": "The child tried to @ @ the deep water.",
+          "fullEnglishSentence": "The child tried to 「struggle free」 from the deep water.",
+          "chineseTranslation": "这个孩子试图「从深水中挣扎出来」。",
+          "chinglishFix": "典型中式英语：'The child fights to get out water.' 纠正：'Fight' 不适用于描述摆脱物理束缚，改为 'struggle free' 表示从限制中解脱。"
+        },
+        {
+          "scene": "一名登山者在暴风雪中被困，背包被厚重的雪压住，他努力想从雪堆中爬出来。",
+          "chineseIdea": "登山者试图摆脱雪的重量，重新获得行动自由。",
+          "sentenceWithBlank": "The climber @ @ @ the heavy snow.",
+          "fullEnglishSentence": "The climber 「struggled out of」 the heavy snow.",
+          "chineseTranslation": "登山者「从厚重的雪中挣扎出来」。",
+          "chinglishFix": "典型中式英语：'The climber fights with snow.' 纠正：'Fight with' 显得不自然，改为 'struggle out of' 更贴合摆脱物理阻碍的语境。"
+        }
+      ]
+    },
+    {
+      "meaning": "艰难维持或生存，通常指经济或生活上的困苦",
+      "usage": "指在资源匮乏或条件艰苦的情况下，勉强维持生活或某种状态，常用于描述经济困难或生存挑战。",
+      "collocations": ["struggle financially", "struggle to survive", "struggle to make ends meet"],
+      "examples": [
+        {
+          "scene": "一个单亲妈妈在北京独自抚养两个孩子，她每天工作12小时，但仍然难以支付房租和生活费用。",
+          "chineseIdea": "她努力工作，但经济上总是捉襟见肘。",
+          "sentenceWithBlank": "The single mother @ @ despite working long hours.",
+          "fullEnglishSentence": "The single mother 「struggles financially」 despite working long hours.",
+          "chineseTranslation": "这位单亲妈妈尽管长时间工作，仍然「经济上挣扎」。",
+          "chinglishFix": "典型中式英语：'She is poor and fights money.' 纠正：'Fight money' 语义不清，改为 'struggle financially' 表示经济困难的努力。"
+        },
+        {
+          "scene": "一位刚毕业的大学生找不到稳定的工作，只能靠兼职维持生活，每个月都为房租发愁。",
+          "chineseIdea": "他努力通过零散的工作来维持基本生活，但总是入不敷出。",
+          "sentenceWithBlank": "The recent graduate @ @ @ @ every month.",
+          "fullEnglishSentence": "The recent graduate 「struggles to make ends meet」 every month.",
+          "chineseTranslation": " Watson每個月都「難以收支平衡」。",
+          "chinglishFix": "典型中式英語：'He fights to live every month.' 糾正：'Fight to live' 不夠具體，改為 'struggle to make ends meet' 表示經濟拮据的努力。"
+        }
+      ]
+    }
+  ]
+}
+```

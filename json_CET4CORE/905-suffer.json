@@ -1,0 +1,53 @@
+```json
+{
+  "word": "suffer",
+  "definitions": [
+    {
+      "meaning": "经历痛苦、折磨或不愉快的事情",
+      "usage": "指身体、精神或情感上承受痛苦、疾病、损失等，通常用于描述不愉快的经历或状态。",
+      "collocations": ["suffer from a disease", "suffer a loss", "suffer in silence"],
+      "examples": [
+        {
+          "scene": "一位中年男子因长期工作压力大，身体开始出现健康问题，去医院检查后发现患上了高血压。",
+          "chineseIdea": "描述一个人因为某种疾病而感到身体不适，生活质量下降。",
+          "sentenceWithBlank": "He has been @ @ @ @ for years, which has made daily tasks exhausting.",
+          "fullEnglishSentence": "He has been 「suffering from a disease」 for years, which has made daily tasks exhausting.",
+          "chineseTranslation": "他多年来一直「患有疾病」，这让日常任务变得非常疲惫。",
+          "chinglishFix": "中式英语：'He is sick for a long time.' 纠正：'He has been suffering from a disease for years.'（用'suffer from'更准确地表达长期疾病的痛苦，且更符合英语表达习惯）"
+        },
+        {
+          "scene": "一位年轻女性因亲人去世，情绪低落，独自承受悲伤，不愿与他人分享自己的感受。",
+          "chineseIdea": "描述一个人默默承受内心的痛苦，不对外表达。",
+          "sentenceWithBlank": "She chose to @ @ @ rather than share her grief with others.",
+          "fullEnglishSentence": "She chose to 「suffer in silence」 rather than share her grief with others.",
+          "chineseTranslation": "她选择「默默承受痛苦」，而不是与他人分享她的悲伤。",
+          "chinglishFix": "中式英语：'She is sad quietly.' 纠正：'She chose to suffer in silence.'（'suffer in silence'更能体现隐忍痛苦的含义，且是地道的英语表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "受到损害、变差或恶化",
+      "usage": "指某事物（如质量、表现、声誉等）因某些原因而下降或受到负面影响，常用于描述非人的事物。",
+      "collocations": ["suffer a decline", "suffer damage", "suffer a setback"],
+      "examples": [
+        {
+          "scene": "一家餐厅因疫情期间无法正常营业，收入大幅减少，生意变得冷清。",
+          "chineseIdea": "描述一个企业或组织因外部因素导致运营或经济状况变差。",
+          "sentenceWithBlank": "The restaurant @ @ @ during the lockdown, losing many regular customers.",
+          "fullEnglishSentence": "The restaurant 「suffered a decline」 during the lockdown, losing many regular customers.",
+          "chineseTranslation": "这家餐厅在封锁期间「生意下滑」，失去了许多常客。",
+          "chinglishFix": "中式英语：'The restaurant's business is bad.' 纠正：'The restaurant suffered a decline.'（'suffer a decline'更具体且正式，适合描述经济或运营的恶化）"
+        },
+        {
+          "scene": "一场暴风雨袭击了一个小镇，造成房屋和基础设施的严重破坏。",
+          "chineseIdea": "描述自然灾害对物体或财产造成的破坏。",
+          "sentenceWithBlank": "The town’s infrastructure @ @ @ after the massive storm.",
+          "fullEnglishSentence": "The town’s infrastructure 「suffered damage」 after the massive storm.",
+          "chineseTranslation": "小镇的基础设施在暴风雨后「遭受破坏」。",
+          "chinglishFix": "中式英语：'The town’s buildings are broken.' 纠正：'The town’s infrastructure suffered damage.'（'suffer damage'更精确地描述财产受损，且语气更正式）"
+        }
+      ]
+    }
+  ]
+}
+```

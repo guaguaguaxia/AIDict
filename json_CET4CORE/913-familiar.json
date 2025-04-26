@@ -1,0 +1,53 @@
+```json
+{
+  "word": "familiar",
+  "definitions": [
+    {
+      "meaning": "熟悉的，知道的，常见的",
+      "usage": "形容某人对某事物有了解或认识，或某事物经常被看到、听到，显得常见。",
+      "collocations": ["be familiar with", "sound familiar", "look familiar"],
+      "examples": [
+        {
+          "scene": "你正在和朋友讨论一部最近很火的电视剧。你提到剧情时，朋友表示有些内容听起来很耳熟。",
+          "chineseIdea": "朋友觉得你描述的剧情似曾相识，好像在哪里听过或看过。",
+          "sentenceWithBlank": "The plot you mentioned @ @ @ to me, but I can’t recall where I heard it.",
+          "fullEnglishSentence": "The plot you mentioned 「sounds familiar」 to me, but I can’t recall where I heard it.",
+          "chineseTranslation": "你提到的剧情对我来说「听起来很熟悉」，但我想不起在哪里听过。",
+          "chinglishFix": "中式英语：'The plot feels like I know it.' 纠正：'The plot sounds familiar to me.'（避免直接翻译‘感觉我知道’，用‘sounds familiar’表达更自然。）"
+        },
+        {
+          "scene": "你在公司培训新员工，讲解公司内部的软件系统。新员工表示对这个系统有一定了解。",
+          "chineseIdea": "新员工表示他们之前用过类似系统，因此对这个系统不算完全陌生。",
+          "sentenceWithBlank": "I @ @ @ the software because I used a similar system at my last job.",
+          "fullEnglishSentence": "I 「am familiar with」 the software because I used a similar system at my last job.",
+          "chineseTranslation": "我「熟悉」这个软件，因为我在上一份工作中用过类似的系统。",
+          "chinglishFix": "中式英语：'I know the software.' 纠正：'I am familiar with the software.'（‘know’显得过于绝对，‘be familiar with’更适合表达对某事物的了解程度。）"
+        }
+      ]
+    },
+    {
+      "meaning": "亲密的，随和的，非正式的",
+      "usage": "形容人与人之间的关系亲近、友好，或者某人的行为、语气显得轻松、不拘礼节。",
+      "collocations": ["on familiar terms", "in a familiar way", "familiar tone"],
+      "examples": [
+        {
+          "scene": "你在咖啡店偶遇一位老同学，聊了几句后，他用一种很亲切的语气跟你开玩笑。",
+          "chineseIdea": "老同学的语气轻松随意，就像你们还是天天见面的朋友一样。",
+          "sentenceWithBlank": "He spoke to me @ @ @ @, as if we’d never been apart.",
+          "fullEnglishSentence": "He spoke to me 「in a familiar way」, as if we’d never been apart.",
+          "chineseTranslation": "他用一种「亲切的方式」跟我说话，好像我们从未分开过。",
+          "chinglishFix": "中式英语：'He talked to me very close.' 纠正：'He spoke to me in a familiar way.'（‘close’不适合形容语气或交流方式，‘in a familiar way’更贴切。）"
+        },
+        {
+          "scene": "你参加一个社区活动，组织者主动跟你聊天，态度非常友好，像是认识多年的朋友。",
+          "chineseIdea": "组织者的态度让你感到很放松，仿佛你们早就认识。",
+          "sentenceWithBlank": "The event organizer and I quickly got @ @ @ @, chatting like old friends.",
+          "fullEnglishSentence": "The event organizer and I quickly got 「on familiar terms」, chatting like old friends.",
+          "chineseTranslation": "活动组织者和我很快就「关系亲近」，像老朋友一样聊天。",
+          "chinglishFix": "中式英语：'We became very familiar.' 纠正：'We got on familiar terms.'（‘became very familiar’不常用于描述关系亲近，‘on familiar terms’更自然。）"
+        }
+      ]
+    }
+  ]
+}
+```
