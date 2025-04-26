@@ -1,0 +1,53 @@
+```json
+{
+  "word": "snack",
+  "definitions": [
+    {
+      "meaning": "少量食物，通常在正餐之间食用以缓解饥饿",
+      "usage": "指在正餐之外吃的少量食物，通常是快速、方便的食物，如薯片、水果或小点心。可以用作名词或动词，强调非正式、轻便的饮食。",
+      "collocations": ["have a snack", "grab a snack", "healthy snack"],
+      "examples": [
+        {
+          "scene": "下午三点，办公室里一位员工感到肚子有点饿，但离晚餐时间还早。他决定去休息室找点东西吃。",
+          "chineseIdea": "想吃点东西来缓解饥饿，但不希望吃太多，因为晚饭快到了。",
+          "sentenceWithBlank": "I’m feeling a bit hungry, so I’ll @ @ @ before the meeting.",
+          "fullEnglishSentence": "I’m feeling a bit hungry, so I’ll 「have a snack」 before the meeting.",
+          "chineseTranslation": "我有点饿了，所以会在会议前「吃点小吃」。",
+          "chinglishFix": "中式英语：I want to eat something small. 纠正：I’ll have a snack."
+        },
+        {
+          "scene": "孩子放学回家，妈妈在厨房准备晚饭，但饭还没好，孩子嚷着饿了。妈妈递给他一些水果。",
+          "chineseIdea": "想给孩子一点吃的来暂时充饥，同时保持健康。",
+          "sentenceWithBlank": "Here, @ @ @ like an apple while dinner is cooking.",
+          "fullEnglishSentence": "Here, 「grab a snack」 like an apple while dinner is cooking.",
+          "chineseTranslation": "来，「拿点小吃」比如一个苹果，晚饭还在煮。",
+          "chinglishFix": "中式英语：Take something to eat. 纠正：Grab a snack."
+        }
+      ]
+    },
+    {
+      "meaning": "作为动词，快速吃点小食",
+      "usage": "用作动词时，表示快速、非正式地吃少量食物，通常搭配介词‘on’（snack on something）。强调动作的随意性。",
+      "collocations": ["snack on nuts", "snack on chips", "snack on fruit"],
+      "examples": [
+        {
+          "scene": "周末晚上，朋友们聚在一起看电影，桌上放着各种零食，大家边看边吃。",
+          "chineseIdea": "想一边看电影一边吃点零食，增加轻松的氛围。",
+          "sentenceWithBlank": "We were watching a movie and @ @ @ during the break.",
+          "fullEnglishSentence": "We were watching a movie and 「snacking on nuts」 during the break.",
+          "chineseTranslation": "我们在看电影，休息时「吃点坚果」。",
+          "chinglishFix": "中式英语：We eat some nuts when watching movie. 纠正：We were snacking on nuts."
+        },
+        {
+          "scene": "一位学生在图书馆复习，学习了几个小时后感到饿了，从背包里拿出一些水果干。",
+          "chineseIdea": "想在学习间隙吃点东西补充能量，但不想吃正餐。",
+          "sentenceWithBlank": "I’ve been studying for hours, so I’m @ @ @ to stay focused.",
+          "fullEnglishSentence": "I’ve been studying for hours, so I’m 「snacking on fruit」 to stay focused.",
+          "chineseTranslation": "我学了好几个小时，所以我在「吃点水果」以保持专注。",
+          "chinglishFix": "中式英语：I eat fruit when studying. 纠正：I’m snacking on fruit."
+        }
+      ]
+    }
+  ]
+}
+```
