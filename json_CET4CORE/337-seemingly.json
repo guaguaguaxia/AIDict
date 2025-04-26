@@ -1,0 +1,53 @@
+```json
+{
+  "word": "seemingly",
+  "definitions": [
+    {
+      "meaning": "表面上，看起来",
+      "usage": "用作副词，描述某事在表面上看起来是某种情况，但实际可能并非如此。常用于表达主观观察或初步判断，带有一定的不确定性。",
+      "collocations": ["seemingly endless", "seemingly impossible", "seemingly unrelated"],
+      "examples": [
+        {
+          "scene": "一位学生在图书馆里看到一堆书，觉得它们永远读不完。",
+          "chineseIdea": "学生觉得书的数量多得让人绝望，仿佛永远无法完成阅读。",
+          "sentenceWithBlank": "The stack of books on the table looked @ @.",
+          "fullEnglishSentence": "The stack of books on the table looked 「seemingly endless」.",
+          "chineseTranslation": "桌上的一堆书看起来「似乎无穷无尽」。",
+          "chinglishFix": "典型中式英语：'The books look like never finish.' 纠正：'The stack of books looks seemingly endless.'"
+        },
+        {
+          "scene": "一位工程师面对一个复杂的项目，觉得任务几乎无法完成。",
+          "chineseIdea": "工程师认为项目的技术难度极高，表面上似乎无法克服。",
+          "sentenceWithBlank": "The project appeared @ @ at first glance.",
+          "fullEnglishSentence": "The project appeared 「seemingly impossible」 at first glance.",
+          "chineseTranslation": "这个项目乍一看「似乎不可能」完成。",
+          "chinglishFix": "典型中式英语：'The project looks cannot do.' 纠正：'The project looks seemingly impossible.'"
+        }
+      ]
+    },
+    {
+      "meaning": "貌似，貌似如此",
+      "usage": "用作副词，表示某事物或情况在表面上与其他事物或情况有关联，但可能并非真正如此。常用于描述表面现象与实际之间的微妙差异。",
+      "collocations": ["seemingly unrelated", "seemingly random", "seemingly trivial"],
+      "examples": [
+        {
+          "scene": "一位侦探在调查案件时发现一些线索，表面上没有联系。",
+          "chineseIdea": "侦探觉得这些线索之间似乎没有关联，但可能隐藏着某种模式。",
+          "sentenceWithBlank": "The clues in the case were @ @ at first.",
+          "fullEnglishSentence": "The clues in the case were 「seemingly unrelated」 at first.",
+          "chineseTranslation": "案件中的线索一开始「看似毫无关联」。",
+          "chinglishFix": "典型中式英语：'The clues look no connection.' 纠正：'The clues look seemingly unrelated.'"
+        },
+        {
+          "scene": "一位老师在课堂上注意到学生的错误答案，觉得这些错误很随意。",
+          "chineseIdea": "老师认为学生的答案看起来是随机的，但可能反映了某种误解。",
+          "sentenceWithBlank": "The student's mistakes appeared @ @ during the test.",
+          "fullEnglishSentence": "The student's mistakes appeared 「seemingly random」 during the test.",
+          "chineseTranslation": "学生的错误在测试中「看似随机」。",
+          "chinglishFix": "典型中式英语：'The mistakes look like no reason.' 纠正：'The mistakes look seemingly random.'"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "retirement",
+  "definitions": [
+    {
+      "meaning": "停止工作，通常因为达到一定年龄或满足特定条件",
+      "usage": "指某人因年龄、健康或职业要求而结束职业生涯，通常与领取养老金或享受休闲生活相关。常见于描述个人职业生涯的结束阶段。",
+      "collocations": ["plan for retirement", "early retirement", "retirement savings", "retirement age"],
+      "examples": [
+        {
+          "scene": "一位50岁的公司职员在与财务顾问讨论未来的生活规划，考虑如何为晚年生活做准备。",
+          "chineseIdea": "他想知道如何安排资金，确保晚年生活无忧，同时希望了解提前退休的可能性。",
+          "sentenceWithBlank": "She’s been working with a financial advisor to @ @ @.",
+          "fullEnglishSentence": "She’s been working with a financial advisor to 「plan for retirement」.",
+          "chineseTranslation": "她一直在与财务顾问合作「规划退休生活」。",
+          "chinglishFix": "典型中式英语：'She prepares her old age.' 纠正：'She plans for her retirement.'（中式表达常忽略'plan for retirement'的固定搭配，直接用'prepare old age'显得不自然。）"
+        },
+        {
+          "scene": "一位45岁的工程师在公司获得了一份提前退休的提议，考虑是否接受。",
+          "chineseIdea": "他觉得提前退休可以让他有更多时间陪伴家人，但担心财务安全。",
+          "sentenceWithBlank": "He’s tempted to take @ @ because it would give him more time with his family.",
+          "fullEnglishSentence": "He’s tempted to take 「early retirement」 because it would give him more time with his family.",
+          "chineseTranslation": "他很想接受「提前退休」，因为这能让他有更多时间陪伴家人。",
+          "chinglishFix": "典型中式英语：'He wants to retire early.' 纠正：'He’s considering early retirement.'（中式表达常忽略'early retirement'作为固定搭配，直接用'retire early'不够正式。）"
+        }
+      ]
+    },
+    {
+      "meaning": "隐退或退出某项活动、角色或公众视野",
+      "usage": "指某人从某个特定角色、职业或公众活动中退出，不一定与年龄相关，常见于描述运动员、演员或公众人物的职业转变。",
+      "collocations": ["announce retirement", "retirement from politics", "retirement from sports"],
+      "examples": [
+        {
+          "scene": "一位著名的网球运动员在新闻发布会上宣布结束职业生涯，准备开始新的生活。",
+          "chineseIdea": "她觉得自己已经实现了职业目标，想把时间投入到公益事业中。",
+          "sentenceWithBlank": "After a successful career, she decided to @ @ from professional tennis.",
+          "fullEnglishSentence": "After a successful career, she decided to 「announce retirement」 from professional tennis.",
+          "chineseTranslation": "在成功的职业生涯后，她决定「宣布退役」从职业网球中退出。",
+          "chinglishFix": "典型中式英语：'She said she will stop playing tennis.' 纠正：'She announced her retirement from tennis.'（中式表达常忽略'announce retirement'的正式性，用'stop'显得随意。）"
+        },
+        {
+          "scene": "一位资深政治家在竞选失败后，选择退出公众视野，专注于写作回忆录。",
+          "chineseIdea": "他觉得自己已经为国家服务多年，现在想过更安静的生活。",
+          "sentenceWithBlank": "After decades of service, he chose @ @ @ to focus on writing.",
+          "fullEnglishSentence": "After decades of service, he chose 「retirement from politics」 to focus on writing.",
+          "chineseTranslation": "在几十年的服务后，他选择了「从政界隐退」来专注于写作。",
+          "chinglishFix": "典型中式英语：'He left politics.' 纠正：'He retired from politics.'（中式表达常用'leave'，但'retirement from politics'更能体现正式退出。）"
+        }
+      ]
+    }
+  ]
+}
+```

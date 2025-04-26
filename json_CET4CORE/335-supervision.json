@@ -1,0 +1,53 @@
+```json
+{
+  "word": "supervision",
+  "definitions": [
+    {
+      "meaning": "监督、管理（指对工作、项目或人员进行指导和监控）",
+      "usage": "通常用于描述在工作场所、学校或项目中，对某人或某事的进展进行观察、指导或控制，以确保任务按计划完成或符合标准。",
+      "collocations": ["under close supervision", "require supervision", "provide supervision"],
+      "examples": [
+        {
+          "scene": "在一个建筑工地上，项目经理需要确保所有工人都按照安全规范操作，防止事故发生。",
+          "chineseIdea": "项目经理需要时刻关注工人的操作，确保他们遵守安全标准。",
+          "sentenceWithBlank": "All workers must operate heavy machinery @ @ @ to ensure safety.",
+          "fullEnglishSentence": "All workers must operate heavy machinery 「under close supervision」 to ensure safety.",
+          "chineseTranslation": "所有工人必须在「密切监督」下操作重型机械以确保安全。",
+          "chinglishFix": "典型中式英语：'Workers must be watched closely to use machines.' 纠正：'Workers must operate machines under close supervision.'"
+        },
+        {
+          "scene": "在一所中学，化学实验室的老师需要指导学生进行实验，确保他们正确使用化学试剂。",
+          "chineseIdea": "老师需要确保学生在实验过程中不会因操作不当而发生危险。",
+          "sentenceWithBlank": "Students conducting experiments @ @ to avoid accidents.",
+          "fullEnglishSentence": "Students conducting experiments 「require supervision」 to avoid accidents.",
+          "chineseTranslation": "进行实验的学生「需要监督」以避免事故。",
+          "chinglishFix": "典型中式英语：'Students need someone to look at them when doing experiments.' 纠正：'Students require supervision when conducting experiments.'"
+        }
+      ]
+    },
+    {
+      "meaning": "监管、看管（指对儿童、青少年或特定群体的照顾和控制）",
+      "usage": "常用于描述对儿童、青少年或需要特别照顾的人群进行看护，确保他们的安全或行为得当。",
+      "collocations": ["adult supervision", "constant supervision", "lack of supervision"],
+      "examples": [
+        {
+          "scene": "在一个夏令营中，组织者安排了辅导员来照顾参加活动的孩子们，确保他们在户外活动时的安全。",
+          "chineseIdea": "需要有成年人时刻看护孩子们，以防止他们受伤或走失。",
+          "sentenceWithBlank": "Children at the camp must remain under @ @ to stay safe during outdoor activities.",
+          "fullEnglishSentence": "Children at the camp must remain under 「adult supervision」 to stay safe during outdoor activities.",
+          "chineseTranslation": "夏令营的孩子们必须在「成人监管」下进行户外活动以确保安全。",
+          "chinglishFix": "典型中式英语：'Kids need adults to watch them.' 纠正：'Children require adult supervision.'"
+        },
+        {
+          "scene": "在一个社区游乐场，父母们轮流看管玩耍的孩子，以防止他们发生冲突或受伤。",
+          "chineseIdea": "如果没有大人看管，孩子们可能会因为争抢玩具而打架。",
+          "sentenceWithBlank": "The playground incident occurred due to a @ @ @.",
+          "fullEnglishSentence": "The playground incident occurred due to a 「lack of supervision」.",
+          "chineseTranslation": "游乐场的事故是由于「缺乏监管」而发生的。",
+          "chinglishFix": "典型中式英语：'The accident happened because no one watched the kids.' 纠正：'The incident occurred due to a lack of supervision.'"
+        }
+      ]
+    }
+  ]
+}
+```

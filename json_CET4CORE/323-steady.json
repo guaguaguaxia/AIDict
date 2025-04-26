@@ -1,0 +1,76 @@
+```json
+{
+  "word": "steady",
+  "definitions": [
+    {
+      "meaning": "稳定的，平稳的（指物体或状态不摇晃、不变动）",
+      "usage": "形容某事物在物理上或状态上保持平衡、不摇晃或不变动，常用于描述动作、物体、进程等。",
+      "collocations": ["steady hand", "steady pace", "steady growth"],
+      "examples": [
+        {
+          "scene": "在一家咖啡店里，小明正在练习拉花艺术，他需要将牛奶缓慢而均匀地倒进咖啡中，以形成漂亮的图案。",
+          "chineseIdea": "小明希望控制手的动作，确保牛奶倒出的速度和量始终一致，不抖动。",
+          "sentenceWithBlank": "He poured the milk with a @ @ to create a perfect latte art.",
+          "fullEnglishSentence": "He poured the milk with a 「steady hand」 to create a perfect latte art.",
+          "chineseTranslation": "他用「稳定的手」倒牛奶，以制作出完美的拿铁艺术。",
+          "chinglishFix": "典型中式英语：'His hand is very stable to pour milk.' 纠正：'He poured the milk with a steady hand.'（避免直接翻译‘手很稳定’，而是用英语中自然的搭配‘steady hand’）"
+        },
+        {
+          "scene": "在一场马拉松比赛中，李华正在长跑，他不想一开始跑得太快导致体力耗尽。",
+          "chineseIdea": "李华希望保持一个均匀的速度，既不太快也不太慢，以便坚持跑到终点。",
+          "sentenceWithBlank": "She ran at a @ @ to conserve energy for the final stretch.",
+          "fullEnglishSentence": "She ran at a 「steady pace」 to conserve energy for the final stretch.",
+          "chineseTranslation": "她以「平稳的步伐」跑步，为最后冲刺保存体力。",
+          "chinglishFix": "典型中式英语：'She runs with a stable speed.' 纠正：'She ran at a steady pace.'（‘stable speed’不自然，英语中更常用‘steady pace’描述跑步速度）"
+        }
+      ]
+    },
+    {
+      "meaning": "持续的，稳定的（指事物或关系长期不变或可靠）",
+      "usage": "形容某事物或关系在长时间内保持一致、可信赖，常用于描述工作、关系、经济等。",
+      "collocations": ["steady job", "steady relationship", "steady income"],
+      "examples": [
+        {
+          "scene": "小红刚刚大学毕业，她希望找到一份稳定的工作，以便规划自己的未来。",
+          "chineseIdea": "小红想要一份可以长期做下去、不容易变动的工作，提供稳定的生活保障。",
+          "sentenceWithBlank": "She was thrilled to land a @ @ at a reputable company.",
+          "fullEnglishSentence": "She was thrilled to land a 「steady job」 at a reputable company.",
+          "chineseTranslation": "她在一家知名公司找到了一份「稳定的工作」，感到非常兴奋。",
+          "chinglishFix": "典型中式英语：'She found a stable work.' 纠正：'She landed a steady job.'（‘stable work’不常用，英语中更常用‘steady job’；‘found’在这种语境下不如‘landed’生动）"
+        },
+        {
+          "scene": "张伟和他的女朋友已经交往五年了，他们的关系非常牢固，彼此信任。",
+          "chineseIdea": "张伟希望他们的感情能够持续稳定，没有大的波折。",
+          "sentenceWithBlank": "They have maintained a @ @ for over five years.",
+          "fullEnglishSentence": "They have maintained a 「steady relationship」 for over five years.",
+          "chineseTranslation": "他们维持了超过五年的「稳定关系」。",
+          "chinglishFix": "典型中式英语：'Their love is very stable.' 纠正：'They have a steady relationship.'（‘stable love’不自然，英语中更常用‘steady relationship’描述长期稳定的恋情）"
+        }
+      ]
+    },
+    {
+      "meaning": "冷静的，沉着的（指人或行为镇定、不慌乱）",
+      "usage": "形容某人在压力或紧急情况下保持冷静、从容，常用于描述性格或行为。",
+      "collocations": ["steady nerves", "steady voice", "steady gaze"],
+      "examples": [
+        {
+          "scene": "在一场重要的演讲比赛中，小刚面对众多观众感到紧张，但他努力保持镇定。",
+          "chineseIdea": "小刚希望自己的声音不颤抖，语调平稳，以展现自信。",
+          "sentenceWithBlank": "He spoke with a @ @ despite his nervousness.",
+          "fullEnglishSentence": "He spoke with a 「steady voice」 despite his nervousness.",
+          "chineseTranslation": "尽管紧张，他还是用「平稳的声音」讲话。",
+          "chinglishFix": "典型中式英语：'His voice is very stable.' 纠正：'He spoke with a steady voice.'（‘stable voice’不自然，英语中更常用‘steady voice’描述语调平稳）"
+        },
+        {
+          "scene": "在一场紧急救援中，医生小李需要在混乱中保持冷静，以便准确判断伤者情况。",
+          "chineseIdea": "小李希望自己能在高压环境中保持沉着，不被外界干扰。",
+          "sentenceWithBlank": "She handled the crisis with @ @, saving many lives.",
+          "fullEnglishSentence": "She handled the crisis with 「steady nerves」, saving many lives.",
+          "chineseTranslation": "她以「沉着的神经」处理危机，救了许多人。",
+          "chinglishFix": "典型中式英语：'She has stable nerves.' 纠正：'She handled the crisis with steady nerves.'（‘stable nerves’不常用，‘steady nerves’是更自然的表达，且需用‘with’描述行为）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "word": "survey",
+  "definitions": [
+    {
+      "meaning": "调查；问卷调查",
+      "usage": "指通过收集信息或意见来研究某个主题，通常以问卷、访谈或观察的形式进行，常用于市场研究、学术研究或民意调查。",
+      "collocations": ["conduct a survey", "participate in a survey", "analyze survey results"],
+      "examples": [
+        {
+          "scene": "一家公司想要了解客户对新产品的满意度，决定通过在线问卷收集反馈。市场部员工设计了一份包含多项选择题的问卷，并发送给最近购买产品的客户。",
+          "chineseIdea": "通过问卷来收集客户的意见，了解他们对产品的看法，以便改进产品或服务。",
+          "sentenceWithBlank": "The marketing team decided to @ @ @ to gather feedback on the new product.",
+          "fullEnglishSentence": "The marketing team decided to 「conduct a survey」 to gather feedback on the new product.",
+          "chineseTranslation": "市场团队决定「进行一项调查」以收集新产品的反馈。",
+          "chinglishFix": "典型中式英语：'Do a survey' 纠正：'Conduct a survey'，因为'do'显得口语化且不正式，'conduct'更常用于正式或专业的调查场景。"
+        },
+        {
+          "scene": "一所大学的学生会希望了解学生对校园食堂服务的看法。他们在校园内设置了一个摊位，邀请学生填写一份关于食堂食品质量和服务的问卷。",
+          "chineseIdea": "学生通过填写问卷表达对食堂服务的意见，帮助学校改进餐饮质量。",
+          "sentenceWithBlank": "Many students were eager to @ @ @ to share their opinions about the cafeteria.",
+          "fullEnglishSentence": "Many students were eager to 「participate in a survey」 to share their opinions about the cafeteria.",
+          "chineseTranslation": "许多学生迫切希望「参与一项调查」以分享他们对食堂的看法。",
+          "chinglishFix": "典型中式英语：'Join a survey' 纠正：'Participate in a survey'，因为'join'更适合指加入一个群体或活动，而'participate'更适合表达参与某项具体任务或调查。"
+        }
+      ]
+    },
+    {
+      "meaning": "测量；勘测",
+      "usage": "指对土地、建筑物或其他物理区域进行精确的测量，通常由专业人员（如测量师）使用专业设备完成，常用于建筑、房地产或地理研究。",
+      "collocations": ["carry out a survey", "land survey", "survey the area"],
+      "examples": [
+        {
+          "scene": "一家建筑公司在开发一块新土地之前，需要确保土地的边界和地形适合建设。测量师被派往现场，使用专业设备对土地进行详细测量。",
+          "chineseIdea": "通过测量土地的边界和地形，确保建筑计划的可行性。",
+          "sentenceWithBlank": "The company hired a professional to @ @ @ before starting the construction project.",
+          "fullEnglishSentence": "The company hired a professional to 「carry out a survey」 before starting the construction project.",
+          "chineseTranslation": "公司在开始建筑项目前雇佣了一名专业人员「进行勘测」。",
+          "chinglishFix": "典型中式英语：'Make a survey' 纠正：'Carry out a survey'，因为'make'不常用于勘测场景，'carry out'更准确地表达执行某项任务。"
+        },
+        {
+          "scene": "一群地理学家在研究一座山脉的地形特征。他们使用无人机和激光测距仪来测量山脉的高度和坡度，以便绘制详细的地图。",
+          "chineseIdea": "通过测量山脉的具体地形，为研究或地图绘制提供数据支持。",
+          "sentenceWithBlank": "The team used drones to @ @ @ and collect data for the map.",
+          "fullEnglishSentence": "The team used drones to 「survey the area」 and collect data for the map.",
+          "chineseTranslation": "团队使用无人机「勘测该区域」并收集地图数据。",
+          "chinglishFix": "典型中式英语：'Check the area' 纠正：'Survey the area'，因为'check'仅表示简单的检查，而'survey'特指专业的测量或勘测。"
+        }
+      ]
+    },
+    {
+      "meaning": "审视；概览",
+      "usage": "指快速或全面地查看某事物，通常是为了形成总体印象或评估情况，常用于描述对书籍、文献、历史或数据的浏览。",
+      "collocations": ["survey the literature", "survey the situation", "brief survey"],
+      "examples": [
+        {
+          "scene": "一位研究生在写论文之前，需要阅读大量关于气候变化的学术文章。她花了一周时间快速浏览相关研究，以了解当前的研究现状。",
+          "chineseIdea": "通过快速阅读大量文献，了解某个研究领域的整体情况。",
+          "sentenceWithBlank": "She spent a week to @ @ @ before writing her thesis.",
+          "fullEnglishSentence": "She spent a week to 「survey the literature」 before writing her thesis.",
+          "chineseTranslation": "她在写论文前花了一周时间「审视文献」。",
+          "chinglishFix": "典型中式英语：'Read the literature' 纠正：'Survey the literature'，因为'read'仅表示阅读，而'survey'强调快速浏览以获取总体印象。"
+        },
+        {
+          "scene": "一位经理在会议开始前走进会议室，环顾四周，观察员工的情绪和准备情况，以便决定如何开展会议。",
+          "chineseIdea": "通过观察环境或人群，快速评估当前的情况。",
+          "sentenceWithBlank": "The manager paused to @ @ @ before starting the meeting.",
+          "fullEnglishSentence": "The manager paused to 「survey the situation」 before starting the meeting.",
+          "chineseTranslation": "经理停下来「观察情况」后才开始会议。",
+          "chinglishFix": "典型中式英语：'Look at the situation' 纠正：'Survey the situation'，因为'look at'仅表示简单的看，而'survey'带有审视和评估的含义。"
+        }
+      ]
+    }
+  ]
+}
+```
