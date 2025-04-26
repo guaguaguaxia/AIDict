@@ -1,0 +1,53 @@
+```json
+{
+  "word": "indifferent",
+  "definitions": [
+    {
+      "meaning": "缺乏兴趣或关心；漠不关心",
+      "usage": "描述某人对某事或某人没有兴趣、感情或关注，通常带有冷漠或不在乎的语气。可以用于描述态度、情感或行为。",
+      "collocations": ["indifferent to", "indifferent about", "indifferent towards"],
+      "examples": [
+        {
+          "scene": "在一个公司的团队会议上，讨论新项目的计划。同事们热情地提出建议，但小明却显得毫无兴趣，坐在角落里玩手机。",
+          "chineseIdea": "小明对新项目完全没有兴趣，觉得这个项目跟他无关，所以他表现得很冷漠。",
+          "sentenceWithBlank": "He seemed @ @ the new project, barely contributing to the discussion.",
+          "fullEnglishSentence": "He seemed 「indifferent to」 the new project, barely contributing to the discussion.",
+          "chineseTranslation": "他对新项目似乎「漠不关心」，几乎没有参与讨论。",
+          "chinglishFix": "典型中式英语：'He no care about the new project.' 纠正：'He is indifferent to the new project.' 或 'He doesn't care about the new project.'"
+        },
+        {
+          "scene": "在学校里，老师正在讲解一个复杂的数学问题，但小红心不在焉，盯着窗外发呆，对老师的讲解毫无反应。",
+          "chineseIdea": "小红对数学课的内容完全不感兴趣，觉得这些知识对她来说没用，所以她表现得很冷漠。",
+          "sentenceWithBlank": "She was @ @ the math lesson, staring out the window instead.",
+          "fullEnglishSentence": "She was 「indifferent about」 the math lesson, staring out the window instead.",
+          "chineseTranslation": "她对数学课「漠不关心」，反而盯着窗外。",
+          "chinglishFix": "典型中式英语：'She not interested about math lesson.' 纠正：'She is indifferent about the math lesson.' 或 'She isn’t interested in the math lesson.'"
+        }
+      ]
+    },
+    {
+      "meaning": "一般的；普通的；不太好也不太坏",
+      "usage": "描述某事物（通常是质量、表现或水平）平平，介于好与坏之间，没有特别突出的特点。常用于评价事物或表现。",
+      "collocations": ["indifferent quality", "indifferent performance", "indifferent result"],
+      "examples": [
+        {
+          "scene": "小刚去了一家新开的餐厅吃饭，点了一份炒饭。吃完后，他觉得味道还可以，但没什么特别的地方。",
+          "chineseIdea": "小刚觉得这家餐厅的炒饭质量一般，既不难吃也不特别美味，就是很普通。",
+          "sentenceWithBlank": "The fried rice was of @ @, neither impressive nor terrible.",
+          "fullEnglishSentence": "The fried rice was of 「indifferent quality」, neither impressive nor terrible.",
+          "chineseTranslation": "炒饭的「质量一般」，既不令人印象深刻也不难吃。",
+          "chinglishFix": "典型中式英语：'The fried rice is so-so quality.' 纠正：'The fried rice is of indifferent quality.' 或 'The fried rice is average.'"
+        },
+        {
+          "scene": "在一场学校篮球比赛中，小李作为替补上场。他投了几个球，但没有得分，也没有犯规，表现得很中规中矩。",
+          "chineseIdea": "小李在比赛中的表现很普通，没有特别出色的发挥，但也没有明显的失误。",
+          "sentenceWithBlank": "His @ @ in the game didn’t stand out, but he made no major mistakes either.",
+          "fullEnglishSentence": "His 「indifferent performance」 in the game didn’t stand out, but he made no major mistakes either.",
+          "chineseTranslation": "他在比赛中的「表现一般」，没有突出表现，但也没有重大失误。",
+          "chinglishFix": "典型中式英语：'His play in game is not good not bad.' 纠正：'His performance in the game was indifferent.' 或 'His performance was average.'"
+        }
+      ]
+    }
+  ]
+}
+```
