@@ -1,0 +1,53 @@
+```json
+{
+  "word": "substitute",
+  "definitions": [
+    {
+      "meaning": "用某物或某人代替另一物或另一人",
+      "usage": "作为名词或动词，指在某个角色、位置或功能上用一个事物或人替换另一个，通常因为原有的不可用或需要临时替代。",
+      "collocations": ["substitute teacher", "substitute for", "substitute ingredient"],
+      "examples": [
+        {
+          "scene": "在一所中学，英语老师因病请假，学校临时安排了一位代课老师来上课。",
+          "chineseIdea": "学校需要有人暂时接替生病的老师，确保课程继续进行。",
+          "sentenceWithBlank": "The school hired a @ @ to cover the English classes.",
+          "fullEnglishSentence": "The school hired a 「substitute teacher」 to cover the English classes.",
+          "chineseTranslation": "学校雇了一位「代课老师」来接管英语课。",
+          "chinglishFix": "典型中式英语：'The school found a temporary teacher.' 纠正：'Substitute teacher' 是更自然的表达，指代课老师这一特定角色。"
+        },
+        {
+          "scene": "在家里做蛋糕时，发现没有黄油，决定用椰子油来代替。",
+          "chineseIdea": "缺少某种食材时，可以用其他类似的食材来替换以完成食谱。",
+          "sentenceWithBlank": "Since we ran out of butter, we used coconut oil as a @ @.",
+          "fullEnglishSentence": "Since we ran out of butter, we used coconut oil as a 「substitute ingredient」.",
+          "chineseTranslation": "由于黄油用完了，我们用椰子油作为「替代食材」。",
+          "chinglishFix": "典型中式英语：'We used coconut oil to replace butter.' 纠正：'Substitute ingredient' 更符合英语中描述食材替换的习惯表达。"
+        }
+      ]
+    },
+    {
+      "meaning": "在体育比赛中替换上场的队员",
+      "usage": "作为名词，指在体育比赛中替换主力队员上场的替补队员；作为动词，指将一名队员换下场，换上替补队员。",
+      "collocations": ["substitute player", "substitute in", "substitute bench"],
+      "examples": [
+        {
+          "scene": "在一场足球比赛中，主力前锋在下半场感到疲惫，教练决定换上替补队员。",
+          "chineseIdea": "为了保持队伍的体力或改变比赛节奏，教练会用替补队员替换主力。",
+          "sentenceWithBlank": "The coach decided to bring on a @ @ in the second half.",
+          "fullEnglishSentence": "The coach decided to bring on a 「substitute player」 in the second half.",
+          "chineseTranslation": "教练决定在下半场换上一名「替补队员」。",
+          "chinglishFix": "典型中式英语：'The coach changed a new player.' 纠正：'Substitute player' 是体育中描述替补上场队员的专用术语。"
+        },
+        {
+          "scene": "在篮球比赛中，主力队员受伤，教练从替补席上挑选一名队员上场。",
+          "chineseIdea": "替补队员在关键时刻可以上场，填补受伤队员的空缺。",
+          "sentenceWithBlank": "When the star player got injured, the coach called someone from the @ @.",
+          "fullEnglishSentence": "When the star player got injured, the coach called someone from the 「substitute bench」.",
+          "chineseTranslation": "当主力队员受伤时，教练从「替补席」上叫了一名队员。",
+          "chinglishFix": "典型中式英语：'The coach asked a player from the bench.' 纠正：'Substitute bench' 是描述替补队员所在位置的惯用表达。"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "insecure",
+  "definitions": [
+    {
+      "meaning": "缺乏自信或安全感，感到不安或不确定的心理状态",
+      "usage": "通常用来描述一个人在社交、情感或个人能力方面感到不自信或担忧，强调内心的不安。",
+      "collocations": ["feel insecure", "insecure about", "insecure in"],
+      "examples": [
+        {
+          "scene": "小明是一个刚进入大学的新生，在课堂上他总是害怕发言，因为他觉得自己英语发音不好，担心被同学嘲笑。",
+          "chineseIdea": "小明觉得自己不够优秀，害怕在公开场合暴露自己的缺点。",
+          "sentenceWithBlank": "He often @ @ in class because he thinks his English pronunciation isn’t good enough.",
+          "fullEnglishSentence": "He often 「feels insecure」 in class because he thinks his English pronunciation isn’t good enough.",
+          "chineseTranslation": "他在课堂上常常「感到不安」，因为他觉得自己的英语发音不够好。",
+          "chinglishFix": "典型中式英语：'He is not confident in class because his English is bad.' 纠正：'He often feels insecure in class because he thinks his English pronunciation isn’t good enough.'（避免直接用'not confident'，用'feel insecure'更能表达内心的不安情绪）"
+        },
+        {
+          "scene": "小红在公司的新项目中被分配到一个重要角色，但她觉得自己经验不足，害怕无法胜任。",
+          "chineseIdea": "小红担心自己的能力不足以应对工作中的挑战。",
+          "sentenceWithBlank": "She is @ @ her ability to handle the new project.",
+          "fullEnglishSentence": "She is 「insecure about」 her ability to handle the new project.",
+          "chineseTranslation": "她对「自己处理新项目的能力感到不安」。",
+          "chinglishFix": "典型中式英语：'She has no confidence about her ability.' 纠正：'She is insecure about her ability to handle the new project.'（用'insecure about'更贴近英语表达习惯，强调具体的不安感）"
+        }
+      ]
+    },
+    {
+      "meaning": "不安全的，不稳固的，缺乏保障的",
+      "usage": "用来描述物理或抽象的事物，如物体、系统、环境等，强调其不稳定或易受威胁的状态。",
+      "collocations": ["insecure connection", "insecure environment", "insecure system"],
+      "examples": [
+        {
+          "scene": "小李在一家咖啡店用公共Wi-Fi上网，但他的手机提示网络不安全，可能会泄露个人信息。",
+          "chineseIdea": "小李担心网络连接不可靠，可能导致数据被窃取。",
+          "sentenceWithBlank": "He avoided online banking due to the @ @ @.",
+          "fullEnglishSentence": "He avoided online banking due to the 「insecure connection」.",
+          "chineseTranslation": "他避免使用网上银行，因为「网络连接不安全」。",
+          "chinglishFix": "典型中式英语：'The network is not safe.' 纠正：'The connection is insecure.'（'insecure connection'是固定搭配，特指技术上的不安全性）"
+        },
+        {
+          "scene": "一家公司最近发现他们的数据库存在漏洞，容易被黑客攻击，导致客户数据面临风险。",
+          "chineseIdea": "公司意识到他们的系统存在安全隐患，急需修复。",
+          "sentenceWithBlank": "The company upgraded their @ @ to protect customer data.",
+          "fullEnglishSentence": "The company upgraded their 「insecure system」 to protect customer data.",
+          "chineseTranslation": "公司升级了他们的「不安全系统」以保护客户数据。",
+          "chinglishFix": "典型中式英语：'The system is not safe.' 纠正：'The system is insecure.'（用'insecure system'更符合技术英语的表达，强调系统漏洞）"
+        }
+      ]
+    }
+  ]
+}
+```

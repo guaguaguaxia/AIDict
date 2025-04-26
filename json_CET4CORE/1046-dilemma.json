@@ -1,0 +1,53 @@
+```json
+{
+  "word": "dilemma",
+  "definitions": [
+    {
+      "meaning": "A situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones.",
+      "usage": "Used to describe a challenging decision-making scenario where all options have significant drawbacks, often involving moral, emotional, or practical conflicts.",
+      "collocations": ["face a dilemma", "moral dilemma", "ethical dilemma", "resolve a dilemma"],
+      "examples": [
+        {
+          "scene": "一位大学生在期末考试前夕发现自己同时被两家心仪的公司邀请参加面试，但面试时间与考试时间冲突。他必须选择是参加考试以确保学业顺利，还是参加面试以争取职业机会。",
+          "chineseIdea": "他感到左右为难，因为无论选择哪条路，都可能失去重要的机会。",
+          "sentenceWithBlank": "He was @ @ @ about whether to attend the job interview or focus on his final exam.",
+          "fullEnglishSentence": "He was 「facing a dilemma」 about whether to attend the job interview or focus on his final exam.",
+          "chineseTranslation": "他在「面临两难抉择」，是参加工作面试还是专注于期末考试。",
+          "chinglishFix": "Chinglish: He is very difficult to choose between interview and exam. Correct: He is facing a dilemma about whether to choose the interview or the exam."
+        },
+        {
+          "scene": "一位职场新人发现公司的新项目可能对环境造成负面影响。她需要在向管理层提出环保建议（可能影响职业前景）还是保持沉默（违背个人价值观）之间做出选择。",
+          "chineseIdea": "她内心挣扎，因为她希望既能坚持自己的道德立场，又不希望职业生涯受损。",
+          "sentenceWithBlank": "She grappled with a @ @ about speaking up about the project's environmental impact.",
+          "fullEnglishSentence": "She grappled with a 「moral dilemma」 about speaking up about the project's environmental impact.",
+          "chineseTranslation": "她在「道德两难」中挣扎，是否要公开讨论项目的环境影响。",
+          "chinglishFix": "Chinglish: She has a moral problem to speak or not. Correct: She is wrestling with a moral dilemma about whether to speak up or not."
+        }
+      ]
+    },
+    {
+      "meaning": "A state of indecision or perplexity, often used more loosely to describe being unsure or hesitant about what to do.",
+      "usage": "Used in less formal contexts to describe a situation where someone is uncertain or hesitant about a choice, not necessarily with severe consequences.",
+      "collocations": ["in a dilemma", "personal dilemma", "create a dilemma", "overcome a dilemma"],
+      "examples": [
+        {
+          "scene": "一位年轻女性在周末计划时，朋友们分别邀请她参加两个不同的活动：一个是户外徒步，另一个是室内派对。她很喜欢两种活动，但只能选择一个。",
+          "chineseIdea": "她犹豫不决，因为两个活动都很吸引她，但她无法同时参加。",
+          "sentenceWithBlank": "She found herself @ @ @ about whether to join the hiking trip or the party.",
+          "fullEnglishSentence": "She found herself 「in a dilemma」 about whether to join the hiking trip or the party.",
+          "chineseTranslation": "她发现自己「陷入两难」，是参加徒步旅行还是去派对。",
+          "chinglishFix": "Chinglish: She is hard to decide hiking or party. Correct: She is in a dilemma about whether to go hiking or to the party."
+        },
+        {
+          "scene": "一位程序员在选择新工作的技术栈时，面临两个选择：一个是用他熟悉的编程语言但薪水较低，另一个是学习新语言但薪水更高。他不确定哪条路更适合自己。",
+          "chineseIdea": "他感到困惑，因为两种选择各有优劣，短期和长期的收益难以权衡。",
+          "sentenceWithBlank": "He struggled to @ @ @ about choosing a familiar tech stack or learning a new one for a better salary.",
+          "fullEnglishSentence": "He struggled to 「overcome a dilemma」 about choosing a familiar tech stack or learning a new one for a better salary.",
+          "chineseTranslation": "他努力「克服两难」，是选择熟悉的技术栈还是为了更高薪水学习新的技术。",
+          "chinglishFix": "Chinglish: He cannot solve his problem of tech choice. Correct: He is trying to overcome a dilemma about his technology choice."
+        }
+      ]
+    }
+  ]
+}
+```
