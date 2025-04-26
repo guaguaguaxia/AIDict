@@ -1,0 +1,76 @@
+```json
+{
+  "word": "tremble",
+  "definitions": [
+    {
+      "meaning": "因恐惧、寒冷、激动等而轻微地抖动或颤抖",
+      "usage": "通常描述身体或物体因情绪（如恐惧、激动）或外部因素（如寒冷）而产生的轻微、不自主的抖动。常用于描述人、动物或某些物体（如树叶）。",
+      "collocations": ["tremble with fear", "tremble in the cold", "tremble with excitement"],
+      "examples": [
+        {
+          "scene": "一个寒冷的冬夜，小明站在公交车站等车，风很大，他冻得直发抖。",
+          "chineseIdea": "小明因为寒冷而身体不由自主地抖动，表现出一种无法控制的生理反应。",
+          "sentenceWithBlank": "He stood at the bus stop, @ @ @, unable to stop shaking.",
+          "fullEnglishSentence": "He stood at the bus stop, 「trembling in the cold」, unable to stop shaking.",
+          "chineseTranslation": "他站在公交车站，「冻得发抖」，无法停止颤抖。",
+          "chinglishFix": "典型中式英语：'He was cold so he trembled.' 纠正：'He was trembling in the cold.'（使用具体搭配，强调因寒冷而颤抖的状态）"
+        },
+        {
+          "scene": "小红第一次在全校面前演讲，她非常紧张，手里的讲稿都在抖。",
+          "chineseIdea": "小红因为紧张和恐惧，身体和手中的物品表现出轻微的抖动。",
+          "sentenceWithBlank": "As she spoke, she @ @ @, clutching her notes tightly.",
+          "fullEnglishSentence": "As she spoke, she 「trembled with fear」, clutching her notes tightly.",
+          "chineseTranslation": "她演讲时，「吓得发抖」，紧紧抓着讲稿。",
+          "chinglishFix": "典型中式英语：'She was afraid so she trembled.' 纠正：'She trembled with fear.'（使用搭配，表达因恐惧引起的颤抖）"
+        }
+      ]
+    },
+    {
+      "meaning": "声音因情绪激动或紧张而颤抖",
+      "usage": "描述某人说话时因激动、愤怒、悲伤等情绪导致声音不稳定，带有颤抖的感觉。通常用于描述强烈的情感表达。",
+      "collocations": ["tremble with emotion", "tremble with anger", "tremble with sorrow"],
+      "examples": [
+        {
+          "scene": "在法庭上，小刚面对不公的判决，愤怒地发表了最后陈述，声音因激动而颤抖。",
+          "chineseIdea": "小刚因愤怒和激动，声音不再平稳，带有明显的抖动，体现强烈的情绪。",
+          "sentenceWithBlank": "His voice @ @ @ as he delivered his final statement in court.",
+          "fullEnglishSentence": "His voice 「trembled with anger」 as he delivered his final statement in court.",
+          "chineseTranslation": "他的声音「气得发抖」，在法庭上发表最后陈述。",
+          "chinglishFix": "典型中式英语：'His voice was shaking because he was angry.' 纠正：'His voice trembled with anger.'（使用搭配，简洁表达情绪引起的颤抖）"
+        },
+        {
+          "scene": "在母亲的葬礼上，小丽回忆起母亲的点点滴滴，哽咽着发言，声音因悲伤而颤抖。",
+          "chineseIdea": "小丽因失去亲人的悲伤，声音无法保持平稳，带有颤抖，传递出深沉的情感。",
+          "sentenceWithBlank": "Her voice @ @ @ as she spoke about her mother’s life.",
+          "fullEnglishSentence": "Her voice 「trembled with sorrow」 as she spoke about her mother’s life.",
+          "chineseTranslation": "她的声音「悲伤得发抖」，在诉说母亲的生平。",
+          "chinglishFix": "典型中式英语：'She was sad so her voice trembled.' 纠正：'Her voice trembled with sorrow.'（使用搭配，突出悲伤引起的声音颤抖）"
+        }
+      ]
+    },
+    {
+      "meaning": "物体轻微晃动或震动",
+      "usage": "描述物体（如地面、树叶、建筑物）因风、地震或其他外力引起的轻微震动或摇晃。通常用于自然现象或物理场景。",
+      "collocations": ["tremble beneath one’s feet", "tremble in the wind", "tremble under the impact"],
+      "examples": [
+        {
+          "scene": "一场小型地震袭击了小镇，人们感到脚下的地面在轻微晃动。",
+          "chineseIdea": "地震引起地面轻微但明显的震动，让人感到不安。",
+          "sentenceWithBlank": "The ground @ @ @ as the small earthquake struck.",
+          "fullEnglishSentence": "The ground 「trembled beneath their feet」 as the small earthquake struck.",
+          "chineseTranslation": "地面「在他们脚下颤抖」，小型地震来袭。",
+          "chinglishFix": "典型中式英语：'The ground was shaking under feet.' 纠正：'The ground trembled beneath their feet.'（使用搭配，强调地面因地震的轻微震动）"
+        },
+        {
+          "scene": "秋天，公园里的树叶在微风中轻轻摇晃，发出沙沙的声音。",
+          "chineseIdea": "树叶因风吹而轻微晃动，展现出自然的动态美感。",
+          "sentenceWithBlank": "The leaves @ @ @, rustling softly.",
+          "fullEnglishSentence": "The leaves 「trembled in the wind」, rustling softly.",
+          "chineseTranslation": "树叶「在风中颤抖」，发出轻柔的沙沙声。",
+          "chinglishFix": "典型中式英语：'The leaves were moving in the wind.' 纠正：'The leaves trembled in the wind.'（使用搭配，突出树叶因风的轻微晃动）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "discover",
+  "definitions": [
+    {
+      "meaning": "找到或发现之前未知的事物",
+      "usage": "指通过探索、研究或偶然机会找到新的地方、事物或事实，通常带有惊喜或启发的感觉。",
+      "collocations": ["new species", "hidden treasure", "scientific breakthrough"],
+      "examples": [
+        {
+          "scene": "一位生物学家在热带雨林中进行野外考察，意外地观察到一种从未被记录的昆虫。",
+          "chineseIdea": "科学家在自然环境中找到了一种全新的生物，感到兴奋和好奇。",
+          "sentenceWithBlank": "During her expedition, she was thrilled to @ @ in the dense forest.",
+          "fullEnglishSentence": "During her expedition, she was thrilled to 「discover a new species」 in the dense forest.",
+          "chineseTranslation": "在她的探险中，她兴奋地在茂密的森林中「发现了一种新物种」。",
+          "chinglishFix": "典型中式英语：She finded a new animal in the forest. 纠正：She discovered a new species in the forest.（注意使用正确的动词时态和搭配，避免直接翻译‘找到’为‘find’）"
+        },
+        {
+          "scene": "一群考古学家在沙漠中挖掘时，偶然发现了一座古老城市的遗迹。",
+          "chineseIdea": "考古学家们挖掘时无意中发现了珍贵的遗迹，揭开了历史的新篇章。",
+          "sentenceWithBlank": "The team was amazed to @ @ while digging in the desert.",
+          "fullEnglishSentence": "The team was amazed to 「discover hidden treasure」 while digging in the desert.",
+          "chineseTranslation": "团队在沙漠中挖掘时惊讶地「发现了隐藏的宝藏」。",
+          "chinglishFix": "典型中式英语：They finded some old things in the desert. 纠正：They discovered hidden treasure in the desert.（避免使用‘find’和泛化的‘things’，应使用更具体的搭配）"
+        }
+      ]
+    },
+    {
+      "meaning": "了解到或发现某人的特质、事实或秘密",
+      "usage": "指通过观察、交流或调查，意识到某人或某事的真实情况或隐藏信息。",
+      "collocations": ["true identity", "dark secret", "hidden talent"],
+      "examples": [
+        {
+          "scene": "在公司团队合作项目中，一个平时安静的同事展现了惊人的领导能力。",
+          "chineseIdea": "通过共同工作，团队成员惊讶地发现同事的潜在能力。",
+          "sentenceWithBlank": "Working together, we were surprised to @ @ in our quiet colleague.",
+          "fullEnglishSentence": "Working together, we were surprised to 「discover a hidden talent」 in our quiet colleague.",
+          "chineseTranslation": "一起工作时，我们惊讶地在我们安静的同事身上「发现了一种隐藏的天赋」。",
+          "chinglishFix": "典型中式英语：We finded he is very good at leading. 纠正：We discovered a hidden talent in him.（避免直接翻译‘发现’为‘find’，并使用更自然的搭配）"
+        },
+        {
+          "scene": "一个侦探通过调查发现了一位嫌疑人隐藏的过去。",
+          "chineseIdea": "侦探通过线索挖掘，揭露了某人不想公开的秘密信息。",
+          "sentenceWithBlank": "After weeks of investigation, the detective managed to @ @ about the suspect.",
+          "fullEnglishSentence": "After weeks of investigation, the detective-managed to 「discover a dark secret」 about the suspect.",
+          "chineseTranslation": "经过数周的调查，侦探设法「发现了嫌疑人一个黑暗的秘密」。",
+          "chinglishFix": "典型中式英语：He finded the suspect has a bad thing. 纠正：He discovered a dark secret about the suspect.（避免模糊的‘bad thing’，使用更贴切的搭配）"
+        }
+      ]
+    }
+  ]
+}
+```

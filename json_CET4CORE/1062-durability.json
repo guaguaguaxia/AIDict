@@ -1,0 +1,53 @@
+```json
+{
+  "word": "durability",
+  "definitions": [
+    {
+      "meaning": "The ability of something to last or withstand wear, pressure, or damage over time",
+      "usage": "Refers to the quality of being able to endure prolonged use or harsh conditions without breaking down or deteriorating. Commonly used for physical objects like materials, products, or structures.",
+      "collocations": ["long-term durability", "ensure durability", "test durability"],
+      "examples": [
+        {
+          "scene": "一位消费者在商场选购家具，想买一张耐用的餐桌，因为家里有小孩，经常会弄脏或刮伤桌面。",
+          "chineseIdea": "消费者希望桌子能经受住小孩的日常使用，不容易损坏，保持长久的使用寿命。",
+          "sentenceWithBlank": "This oak table is designed for @ @ @, perfect for families with young children.",
+          "fullEnglishSentence": "This oak table is designed for 「long-term durability」, perfect for families with young children.",
+          "chineseTranslation": "这款橡木桌子专为「长期耐用」设计，非常适合有幼儿的家庭。",
+          "chinglishFix": "Chinglish: 'This table is very strong for long time use.' Correct: 'This table is designed for long-term durability.'"
+        },
+        {
+          "scene": "一家建筑公司在宣传他们的钢筋混凝土材料，强调其在极端天气下的稳定性。",
+          "chineseIdea": "公司想展示他们的材料在暴风雨或高温等环境下依然能保持结构完整。",
+          "sentenceWithBlank": "Our concrete undergoes rigorous testing to @ @ @ in extreme conditions.",
+          "fullEnglishSentence": "Our concrete undergoes rigorous testing to 「ensure durability」 in extreme conditions.",
+          "chineseTranslation": "我们的混凝土经过严格测试，以「确保耐用性」在极端条件下。",
+          "chinglishFix": "Chinglish: 'Our concrete is tested to be strong forever.' Correct: 'Our concrete undergoes rigorous testing to ensure durability.'"
+        }
+      ]
+    },
+    {
+      "meaning": "The ability to remain functional or effective over time, often in a non-physical sense",
+      "usage": "Used in abstract contexts, such as describing the lasting quality of relationships, systems, or concepts that remain robust despite challenges or changes.",
+      "collocations": ["sustained durability", "demonstrate durability", "enhance durability"],
+      "examples": [
+        {
+          "scene": "一位经理在公司年会上谈到团队合作的重要性，强调团队关系在面对项目压力时的稳定性。",
+          "chineseIdea": "经理想表达团队的凝聚力和信任能够经受住时间和困难的考验，保持长久的合作。",
+          "sentenceWithBlank": "Our team’s trust and collaboration show @ @ @ even under tight deadlines.",
+          "fullEnglishSentence": "Our team’s trust and collaboration show 「sustained durability」 even under tight deadlines.",
+          "chineseTranslation": "我们团队的信任与合作即使在紧张的截止日期下也能展现「持续的耐久性」。",
+          "chinglishFix": "Chinglish: 'Our team is always strong in hard times.' Correct: 'Our team’s trust and collaboration show sustained durability.'"
+        },
+        {
+          "scene": "一位经济学家在分析某国经济政策时，提到其应对金融危机的能力。",
+          "chineseIdea": "经济学家想说明该国的经济体系在面对全球经济波动时依然能保持稳定和有效。",
+          "sentenceWithBlank": "This policy framework continues to @ @ @ during global market fluctuations.",
+          "fullEnglishSentence": "This policy framework continues to 「demonstrate durability」 during global market fluctuations.",
+          "chineseTranslation": "这一政策框架在全球市场波动期间持续「展现耐久性」。",
+          "chinglishFix": "Chinglish: 'This policy is very good for long time economy.' Correct: 'This policy framework continues to demonstrate durability.'"
+        }
+      ]
+    }
+  ]
+}
+```
