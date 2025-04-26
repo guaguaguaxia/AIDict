@@ -1,0 +1,53 @@
+```json
+{
+  "word": "status",
+  "definitions": [
+    {
+      "meaning": "社会地位或身份",
+      "usage": "指一个人在社会、组织或群体中的地位、角色或身份，常用于描述等级、声望或法律上的身份。",
+      "collocations": ["social status", "marital status", "professional status"],
+      "examples": [
+        {
+          "scene": "在一个正式的社交场合，比如一场高端晚宴，宾客们可能会通过穿着、言谈举止或职业来判断彼此的身份和地位。",
+          "chineseIdea": "人们通过观察外在表现来评估对方在社会中的位置，比如财富、职业或影响力。",
+          "sentenceWithBlank": "Her elegant dress and confident demeanor clearly reflected her high @ @.",
+          "fullEnglishSentence": "Her elegant dress and confident demeanor clearly reflected her high 「social status」.",
+          "chineseTranslation": "她优雅的着装和自信的举止清楚地反映了她的高「社会地位」。",
+          "chinglishFix": "典型中式英语：'Her dress and behavior show her high position.' 纠正：'Position' 过于模糊，'social status' 更准确地表达社会地位。"
+        },
+        {
+          "scene": "在填写一份政府表格时，比如申请护照或办理婚姻登记，表格通常会要求填写个人的婚姻状况。",
+          "chineseIdea": "需要明确说明自己是单身、已婚、离异等身份，以便符合法律或行政要求。",
+          "sentenceWithBlank": "The form asked him to indicate his @ @ to proceed with the application.",
+          "fullEnglishSentence": "The form asked him to indicate his 「marital status」 to proceed with the application.",
+          "chineseTranslation": "表格要求他注明他的「婚姻状况」以继续申请。",
+          "chinglishFix": "典型中式英语：'The form asked his marriage situation.' 纠正：'Situation' 不够正式，'marital status' 是固定搭配，专指婚姻身份。"
+        }
+      ]
+    },
+    {
+      "meaning": "状态或情况",
+      "usage": "指某事物当前的状况、进展或阶段，常用于描述项目、订单、健康等具体事物的实时情况。",
+      "collocations": ["current status", "order status", "health status"],
+      "examples": [
+        {
+          "scene": "在一个电子商务平台的客服场景中，客户可能联系客服询问他们购买的商品的配送情况。",
+          "chineseIdea": "客户想知道订单是已经发货、在途中还是尚未处理，以了解最新的进展。",
+          "sentenceWithBlank": "The customer asked the support team to check the @ @ of her package.",
+          "fullEnglishSentence": "The customer asked the support team to check the 「order status」 of her package.",
+          "chineseTranslation": "客户要求客服团队检查她包裹的「订单状态」。",
+          "chinglishFix": "典型中式英语：'She asked about her package’s condition.' 纠正：'Condition' 更适合描述物理状态，'order status' 更精确地指订单的处理阶段。"
+        },
+        {
+          "scene": "在医院中，医生可能会向患者家属说明病人的健康情况，比如恢复进度或病情稳定程度。",
+          "chineseIdea": "家属希望了解病人的具体健康状况，以便决定下一步的行动或心理准备。",
+          "sentenceWithBlank": "The doctor updated the family on the patient’s @ @ after the surgery.",
+          "fullEnglishSentence": "The doctor updated the family on the patient’s 「health status」 after the surgery.",
+          "chineseTranslation": "医生在手术后向家属更新了病人的「健康状况」。",
+          "chinglishFix": "典型中式英语：'The doctor told them the patient’s body situation.' 纠正：'Body situation' 不自然，'health status' 是医疗场景中的标准表达。"
+        }
+      ]
+    }
+  ]
+}
+```

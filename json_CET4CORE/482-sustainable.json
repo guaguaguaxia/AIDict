@@ -1,0 +1,53 @@
+```json
+{
+  "word": "sustainable",
+  "definitions": [
+    {
+      "meaning": "能够长期维持或保持",
+      "usage": "指某事物能够在不耗尽资源或不造成损害的情况下长期继续存在，常用于描述环境、经济或社会系统的持久性。",
+      "collocations": ["sustainable development", "sustainable practices", "sustainable energy"],
+      "examples": [
+        {
+          "scene": "一个城市规划会议上，专家们在讨论如何平衡经济增长和环境保护。",
+          "chineseIdea": "希望城市能够在未来几十年保持繁荣，同时不破坏自然资源。",
+          "sentenceWithBlank": "The city aims to promote @ @ through green infrastructure and eco-friendly policies.",
+          "fullEnglishSentence": "The city aims to promote 「sustainable development」 through green infrastructure and eco-friendly policies.",
+          "chineseTranslation": "这座城市通过绿色基础设施和环保政策来促进「可持续发展」。",
+          "chinglishFix": "典型中式英语：'The city wants to develop sustainably.' 纠正：'The city aims to promote sustainable development.'（避免空洞的'sustainably'，使用具体搭配'sustainable development'更自然。）"
+        },
+        {
+          "scene": "一家公司正在培训员工采用更环保的工作方式。",
+          "chineseIdea": "希望员工通过改变日常工作习惯来减少资源浪费。",
+          "sentenceWithBlank": "The company encourages employees to adopt @ @ to reduce waste.",
+          "fullEnglishSentence": "The company encourages employees to adopt 「sustainable practices」 to reduce waste.",
+          "chineseTranslation": "公司鼓励员工采用「可持续实践」来减少浪费。",
+          "chinglishFix": "典型中式英语：'The company wants employees to work sustainably.' 纠正：'The company encourages employees to adopt sustainable practices.'（使用'sustainable practices'更具体，符合英语表达习惯。）"
+        }
+      ]
+    },
+    {
+      "meaning": "能够承受或支持",
+      "usage": "指某事物能够在特定条件下继续存在或被支持，通常用于描述经济、资源或个人努力的可行性。",
+      "collocations": ["sustainable growth", "sustainable income", "sustainable effort"],
+      "examples": [
+        {
+          "scene": "一家初创公司在制定未来五年的财务计划。",
+          "chineseIdea": "希望公司能够在不依赖外部资金的情况下稳步扩张。",
+          "sentenceWithBlank": "The startup is focused on achieving @ @ without relying on loans.",
+          "fullEnglishSentence": "The startup is focused on achieving 「sustainable growth」 without relying on loans.",
+          "chineseTranslation": "这家初创公司专注于实现「可持续增长」，而不依赖贷款。",
+          "chinglishFix": "典型中式英语：'The company wants to grow sustainably.' 纠正：'The startup is focused on achieving sustainable growth.'（'sustainable growth'是更具体的表达，符合商业语境。）"
+        },
+        {
+          "scene": "一个自由职业者在规划自己的工作和生活平衡。",
+          "chineseIdea": "希望通过合理安排工作量来维持稳定的收入和健康的生活方式。",
+          "sentenceWithBlank": "She is working to maintain a @ @ by balancing freelance projects.",
+          "fullEnglishSentence": "She is working to maintain a 「sustainable income」 by balancing freelance projects.",
+          "chineseTranslation": "她通过平衡自由职业项目来维持「可持续收入」。",
+          "chinglishFix": "典型中式英语：'She wants to earn money sustainably.' 纠正：'She is working to maintain a sustainable income.'（'sustainable income'更精确，符合英语中描述财务稳定性的习惯。）"
+        }
+      ]
+    }
+  ]
+}
+```

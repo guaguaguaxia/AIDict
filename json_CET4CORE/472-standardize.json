@@ -1,0 +1,53 @@
+```json
+{
+  "word": "standardize",
+  "definitions": [
+    {
+      "meaning": "使符合标准或规范；统一规格或程序",
+      "usage": "指通过制定或采用统一的标准，使某事物（如产品、流程、方法等）在质量、尺寸、性能等方面保持一致，通常用于工业、商业、教育或技术领域。",
+      "collocations": ["standardize procedures", "standardize measurements", "standardize formats"],
+      "examples": [
+        {
+          "scene": "一家跨国公司在全球范围内的分工厂需要确保生产流程一致，以提高效率和产品质量。公司决定统一所有工厂的操作步骤。",
+          "chineseIdea": "公司希望通过制定统一的流程，确保每个工厂的生产方式相同，从而减少错误并提高效率。",
+          "sentenceWithBlank": "To ensure consistency across all factories, the company decided to @ @.",
+          "fullEnglishSentence": "To ensure consistency across all factories, the company decided to 「standardize procedures」.",
+          "chineseTranslation": "为了确保所有工厂的一致性，公司决定「统一流程」。",
+          "chinglishFix": "典型中式英语：'Make all factories' procedures same.' 纠正：'Standardize procedures across all factories.'"
+        },
+        {
+          "scene": "一家软件开发公司发现不同团队使用的代码文件格式不统一，导致协作时出现问题。公司决定采用统一的编码规范。",
+          "chineseIdea": "公司希望通过统一文件格式，让所有开发者的代码风格一致，便于团队协作。",
+          "sentenceWithBlank": "The company adopted a common coding style to @ @.",
+          "fullEnglishSentence": "The company adopted a common coding style to 「standardize formats」.",
+          "chineseTranslation": "公司采用了一种通用的编码风格来「统一格式」。",
+          "chinglishFix": "典型中式英语：'Unify all code formats.' 纠正：'Standardize formats for all code.'"
+        }
+      ]
+    },
+    {
+      "meaning": "使达到某一标准水平；规范化",
+      "usage": "指通过调整或改进，使某事物达到某一既定的标准或水平，常用于教育、测试或评估领域。",
+      "collocations": ["standardize tests", "standardize criteria", "standardize performance"],
+      "examples": [
+        {
+          "scene": "一个国家的教育部门希望确保全国学生的考试成绩具有可比性，因此决定对所有学校的考试内容进行统一。",
+          "chineseIdea": "教育部门希望通过统一考试内容，确保不同地区学生的成绩可以公平比较。",
+          "sentenceWithBlank": "The education board implemented new policies to @ @.",
+          "fullEnglishSentence": "The education board implemented new policies to 「standardize tests」.",
+          "chineseTranslation": "教育委员会实施了新政策来「统一考试」。",
+          "chinglishFix": "典型中式英语：'Make all tests same.' 纠正：'Standardize tests across schools.'"
+        },
+        {
+          "scene": "一家连锁餐厅希望所有分店的服务质量一致，因此制定了详细的服务标准，要求员工严格遵守。",
+          "chineseIdea": "餐厅希望通过统一的评价标准，确保每家分店的服务水平相同。",
+          "sentenceWithBlank": "The restaurant chain introduced guidelines to @ @.",
+          "fullEnglishSentence": "The restaurant chain introduced guidelines to 「standardize criteria」.",
+          "chineseTranslation": "连锁餐厅引入了指导方针来「统一标准」。",
+          "chinglishFix": "典型中式英语：'Unify service standards.' 纠正：'Standardize criteria for service.'"
+        }
+      ]
+    }
+  ]
+}
+```
