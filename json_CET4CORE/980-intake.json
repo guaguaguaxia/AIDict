@@ -1,0 +1,76 @@
+```json
+{
+  "word": "intake",
+  "definitions": [
+    {
+      "meaning": "摄入（食物、液体、空气等）",
+      "usage": "指通过口或鼻摄入身体的物质，如食物、饮料、空气等，常用于描述饮食或呼吸行为。",
+      "collocations": ["calorie intake", "fluid intake", "air intake"],
+      "examples": [
+        {
+          "scene": "小明在健身房锻炼后，教练建议他关注饮食，确保每天摄入足够的热量以支持肌肉增长。",
+          "chineseIdea": "教练想表达小明需要控制每天吃的东西，确保热量足够。",
+          "sentenceWithBlank": "After intense workouts, you should monitor your @ @ to support muscle growth.",
+          "fullEnglishSentence": "After intense workouts, you should monitor your 「calorie intake」 to support muscle growth.",
+          "chineseTranslation": "在剧烈锻炼后，你应该监控你的「热量摄入」以支持肌肉增长。",
+          "chinglishFix": "典型中式英语：'You should control your eat calories.' 纠正：'You should monitor your calorie intake.'"
+        },
+        {
+          "scene": "医生在检查一位脱水症状的病人时，建议他增加每天喝水的量，以改善健康状况。",
+          "chineseIdea": "医生希望病人多喝水，确保身体有足够的水分。",
+          "sentenceWithBlank": "To prevent dehydration, the doctor advised increasing @ @ daily.",
+          "fullEnglishSentence": "To prevent dehydration, the doctor advised increasing 「fluid intake」 daily.",
+          "chineseTranslation": "为了防止脱水，医生建议每天增加「液体摄入」。",
+          "chinglishFix": "典型中式英语：'You need to drink more water intake.' 纠正：'You need to increase your fluid intake.'"
+        }
+      ]
+    },
+    {
+      "meaning": "吸入或进入（机械或系统的物质）",
+      "usage": "指机械、引擎或系统中吸入的物质，如空气、燃料等，常用于技术或工程语境。",
+      "collocations": ["air intake", "fuel intake", "water intake"],
+      "examples": [
+        {
+          "scene": "汽车修理厂的技师在检查一辆车的引擎时，发现空气过滤器堵塞，导致引擎性能下降。",
+          "chineseIdea": "技师想说明空气进入引擎的量不足，影响了性能。",
+          "sentenceWithBlank": "The mechanic found that a clogged filter was restricting the engine’s @ @.",
+          "fullEnglishSentence": "The mechanic found that a clogged filter was restricting the engine’s 「air intake」.",
+          "chineseTranslation": "技师发现一个堵塞的过滤器限制了引擎的「空气吸入」。",
+          "chinglishFix": "典型中式英语：'The engine’s air enter is blocked.' 纠正：'The engine’s air intake is restricted.'"
+        },
+        {
+          "scene": "工程师在设计一个新的水处理系统时，需要确保水流进入系统的速度稳定。",
+          "chineseIdea": "工程师关注水进入系统的量，以保证系统正常运行。",
+          "sentenceWithBlank": "The new system requires a steady @ @ to function efficiently.",
+          "fullEnglishSentence": "The new system requires a steady 「water intake」 to function efficiently.",
+          "chineseTranslation": "新系统需要稳定的「水流吸入」以高效运行。",
+          "chinglishFix": "典型中式英语：'The system needs stable water come in.' 纠正：'The system requires a steady water intake.'"
+        }
+      ]
+    },
+    {
+      "meaning": "接收或录取（人、物、信息等）",
+      "usage": "指机构或系统接收或吸纳的人、物或信息，如学校录取学生或组织接收新成员。",
+      "collocations": ["student intake", "data intake", "new intake"],
+      "examples": [
+        {
+          "scene": "一所大学在招生时，决定增加国际学生的比例，以提升校园的多样性。",
+          "chineseIdea": "学校希望招收更多的国际学生来增加文化多样性。",
+          "sentenceWithBlank": "The university plans to increase its @ @ to promote diversity.",
+          "fullEnglishSentence": "The university plans to increase its 「student intake」 to promote diversity.",
+          "chineseTranslation": "大学计划增加其「学生录取」以促进多样性。",
+          "chinglishFix": "典型中式英语：'The school wants to add more student enter.' 纠正：'The university plans to increase its student intake.'"
+        },
+        {
+          "scene": "一家科技公司在开发新软件时，需要处理大量的用户反馈数据以改进产品。",
+          "chineseIdea": "公司需要接收并分析大量用户数据来优化软件。",
+          "sentenceWithBlank": "The software team is optimizing the system for faster @ @ processing.",
+          "fullEnglishSentence": "The software team is optimizing the system for faster 「data intake」 processing.",
+          "chineseTranslation": "软件团队正在优化系统以加快「数据接收」处理。",
+          "chinglishFix": "典型中式英语：'The system needs to take more data in.' 纠正：'The system is optimized for faster data intake.'"
+        }
+      ]
+    }
+  ]
+}
+```

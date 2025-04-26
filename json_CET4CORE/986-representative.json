@@ -1,0 +1,53 @@
+```json
+{
+  "word": "representative",
+  "definitions": [
+    {
+      "meaning": "代表某人或某团体的人",
+      "usage": "指被选出或委派代表他人或组织发言、行事或参与某活动的人，通常用于正式或官方场合，如政治、商业或法律情境。",
+      "collocations": ["elect a representative", "company representative", "sales representative"],
+      "examples": [
+        {
+          "scene": "在一次社区会议上，居民们需要选出一位代表向市政府表达他们的意见。",
+          "chineseIdea": "社区希望选出一个能准确传达大家对新公园建设看法的发言人。",
+          "sentenceWithBlank": "The community gathered to @ @ @ to voice their concerns about the new park.",
+          "fullEnglishSentence": "The community gathered to 「elect a representative」 to voice their concerns about the new park.",
+          "chineseTranslation": "社区聚集在一起「选举一位代表」来表达他们对新公园的担忧。",
+          "chinglishFix": "典型中式英语：'Choose a person to represent.' 纠正：'Elect a representative.'（'choose' 过于笼统，'elect' 更准确地表达正式选举。）"
+        },
+        {
+          "scene": "一家科技公司派出一名员工参加行业展览，与潜在客户洽谈。",
+          "chineseIdea": "公司需要一个能专业展示产品并回答客户问题的人。",
+          "sentenceWithBlank": "The firm sent a @ @ to the trade show to meet potential clients.",
+          "fullEnglishSentence": "The firm sent a 「company representative」 to the trade show to meet potential clients.",
+          "chineseTranslation": "公司派出一名「公司代表」参加贸易展览以会见潜在客户。",
+          "chinglishFix": "典型中式英语：'Send a worker to represent company.' 纠正：'Send a company representative.'（'worker' 过于泛泛，'company representative' 更专业且具体。）"
+        }
+      ]
+    },
+    {
+      "meaning": "典型的、有代表性的",
+      "usage": "描述某事物是某类事物中具有典型特征的例子，通常用于描述能反映整体特质的样本或情况。",
+      "collocations": ["representative sample", "representative example", "representative case"],
+      "examples": [
+        {
+          "scene": "一名研究员在进行市场调查时，需要选择一组能反映目标消费者偏好的样本。",
+          "chineseIdea": "研究员希望样本能真实代表目标群体的购买习惯。",
+          "sentenceWithBlank": "The researcher selected a @ @ to reflect the preferences of the target audience.",
+          "fullEnglishSentence": "The researcher selected a 「representative sample」 to reflect the preferences of the target audience.",
+          "chineseTranslation": "研究员选择了一个「典型样本」来反映目标受众的偏好。",
+          "chinglishFix": "典型中式英语：'Typical sample.' 纠正：'Representative sample.'（'typical' 可能指普通，而 'representative' 强调能代表整体特性。）"
+        },
+        {
+          "scene": "在课堂上，老师用一个具体案例来说明某种社会现象。",
+          "chineseIdea": "老师希望这个案例能清楚展示社会问题的普遍特征。",
+          "sentenceWithBlank": "The teacher used a @ @ to illustrate the social issue.",
+          "fullEnglishSentence": "The teacher used a 「representative example」 to illustrate the social issue.",
+          "chineseTranslation": "老师使用了一个「典型例子」来阐释社会问题。",
+          "chinglishFix": "典型中式英语：'Common example.' 纠正：'Representative example.'（'common' 指普遍但缺乏代表性，'representative' 更强调典型性。）"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "word": "crucial",
+  "definitions": [
+    {
+      "meaning": "对某事或某结果的成功或达成极其重要",
+      "usage": "用作形容词，描述某事物在特定情境下对成功、结果或决策具有决定性影响。通常用于强调某事物不可或缺的重要性。",
+      "collocations": ["play a crucial role", "be of crucial importance", "crucial factor"],
+      "examples": [
+        {
+          "scene": "一家科技公司正在开发一款新产品，市场竞争激烈，产品的发布时间将决定其市场表现。",
+          "chineseIdea": "产品发布时间对市场成功至关重要，晚一步可能导致用户流失。",
+          "sentenceWithBlank": "The timing of the product launch will @ @ @ @ in determining its market success.",
+          "fullEnglishSentence": "The timing of the product launch will 「play a crucial role」 in determining its market success.",
+          "chineseTranslation": "产品发布时间将在决定其市场成功中「扮演关键角色」。",
+          "chinglishFix": "典型中式英语：'The time is very important for success.' 纠正：'The timing plays a crucial role in achieving success.'（避免直接翻译'很重要'，用更自然的搭配表达重要性）"
+        },
+        {
+          "scene": "一名学生正在准备大学入学考试，数学成绩对总分影响很大。",
+          "chineseIdea": "数学成绩对总分至关重要，因为它占总分的很大比例。",
+          "sentenceWithBlank": "Scoring well in math is @ @ @ @ for achieving a high overall grade.",
+          "fullEnglishSentence": "Scoring well in math is 「of crucial importance」 for achieving a high overall grade.",
+          "chineseTranslation": "数学考得好对获得高总分「至关重要」。",
+          "chinglishFix": "典型中式英语：'Math is very key to high score.' 纠正：'Math is of crucial importance for a high score.'（避免'key'的非自然用法，替换为更地道的表达）"
+        }
+      ]
+    },
+    {
+      "meaning": "处于关键或危急的时刻",
+      "usage": "用作形容词，描述某个时间点、决定或事件对后续发展具有重大影响，通常带有紧迫感。",
+      "collocations": ["at a crucial moment", "make a crucial decision", "crucial stage"],
+      "examples": [
+        {
+          "scene": "一场足球比赛进入最后五分钟，比分持平，球队需要抓住机会得分。",
+          "chineseIdea": "比赛的最后时刻非常关键，决定胜负的进球可能随时发生。",
+          "sentenceWithBlank": "The team needs to stay focused @ @ @ @ to secure a victory.",
+          "fullEnglishSentence": "The team needs to stay focused 「at a crucial moment」 to secure a victory.",
+          "chineseTranslation": "球队需要在「关键时刻」保持专注以确保胜利。",
+          "chinglishFix": "典型中式英语：'This time is very important for win.' 纠正：'This is a crucial moment for securing a win.'（避免直接翻译'时间很重要'，使用更贴合语境的表达）"
+        },
+        {
+          "scene": "一家初创公司正在与投资者谈判，决定是否能获得资金支持。",
+          "chineseIdea": "谈判中的决定将影响公司未来的发展方向。",
+          "sentenceWithBlank": "The CEO must @ @ @ @ that could shape the company’s future.",
+          "fullEnglishSentence": "The CEO must 「make a crucial decision」 that could shape the company’s future.",
+          "chineseTranslation": "首席执行官必须「做出关键决定」，这可能会塑造公司的未来。",
+          "chinglishFix": "典型中式英语：'The boss needs to decide very important thing.' 纠正：'The CEO needs to make a crucial decision.'（避免模糊的'very important thing'，用更精确的表达）"
+        }
+      ]
+    }
+  ]
+}
+```

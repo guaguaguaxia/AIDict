@@ -1,0 +1,53 @@
+```json
+{
+  "word": "symbolize",
+  "definitions": [
+    {
+      "meaning": "代表；象征",
+      "usage": "用作动词，表示某事物作为符号或象征来代表某种抽象概念、情感、价值观或身份。通常用于描述有深层含义的物体、行为或图像。",
+      "collocations": ["symbolize peace", "symbolize love", "symbolize freedom"],
+      "examples": [
+        {
+          "scene": "在一个国际和平会议的闭幕式上，主办方安排了一场特别的仪式。各国代表共同放飞白鸽，以表达对和平的期望。",
+          "chineseIdea": "白鸽在许多文化中被认为是和平的象征，人们通过放飞白鸽来表达对和谐与和平的向往。",
+          "sentenceWithBlank": "The release of doves at the ceremony was meant to @ @.",
+          "fullEnglishSentence": "The release of doves at the ceremony was meant to 「symbolize peace」.",
+          "chineseTranslation": "仪式上放飞鸽子是为了「象征和平」。",
+          "chinglishFix": "典型中式英语：'The doves mean peace.' 纠正：'The doves symbolize peace.' 中式英语常直接用'mean'代替更具体的'symbolize'，忽略了象征的深层含义。"
+        },
+        {
+          "scene": "在一场婚礼上，新娘和新郎交换戒指，周围的亲友为他们祝福。戒指被视为爱情和承诺的象征。",
+          "chineseIdea": "戒指不仅是装饰品，更承载了爱情和婚姻的承诺，象征着永恒的结合。",
+          "sentenceWithBlank": "Exchanging rings during the wedding is a tradition that @ @.",
+          "fullEnglishSentence": "Exchanging rings during the wedding is a tradition that 「symbolizes love」.",
+          "chineseTranslation": "婚礼上交换戒指是一项「象征爱情」的传统。",
+          "chinglishFix": "典型中式英语：'Rings show love.' 纠正：'Rings symbolize love.' 中式英语常使用'show'或'express'，而'symbolize'更能体现抽象的象征意义。"
+        }
+      ]
+    },
+    {
+      "meaning": "作为符号表示；用符号表达",
+      "usage": "用作动词，指通过特定的符号、记号或代码来表示某种具体的信息或概念，常用于数学、科学、语言学或技术领域。",
+      "collocations": ["symbolize a concept", "symbolize a variable", "symbolize an idea"],
+      "examples": [
+        {
+          "scene": "在一堂数学课上，老师在黑板上写下各种符号，向学生解释如何用字母表示未知数。",
+          "chineseIdea": "在数学中，字母和符号被用来代表抽象的概念，比如未知数或变量，以简化问题。",
+          "sentenceWithBlank": "In algebra, the letter 'x' is often used to @ @ @.",
+          "fullEnglishSentence": "In algebra, the letter 'x' is often used to 「symbolize a variable」.",
+          "chineseTranslation": "在代数学中，字母'x'常被用来「表示一个变量」。",
+          "chinglishFix": "典型中式英语：'The 'x' means a variable.' 纠正：'The 'x' symbolizes a variable.' 中式英语常用'mean'，但'symbolize'更适合描述符号的代表功能。"
+        },
+        {
+          "scene": "在一个编程工作坊中，导师向学员展示如何用图标和颜色来表示代码中的不同部分，以提高代码的可读性。",
+          "chineseIdea": "在编程中，符号和图标可以用来直观地表示复杂的概念，比如函数或数据类型。",
+          "sentenceWithBlank": "In this software, a blue icon is used to @ @ @.",
+          "fullEnglishSentence": "In this software, a blue icon is used to 「symbolize a concept」.",
+          "chineseTranslation": "在这个软件中，蓝色图标被用来「表示一个概念」。",
+          "chinglishFix": "典型中式英语：'The icon is for a concept.' 纠正：'The icon symbolizes a concept.' 中式英语常用'is for'，但'symbolize'更精确地表达符号化功能。"
+        }
+      ]
+    }
+  ]
+}
+```
