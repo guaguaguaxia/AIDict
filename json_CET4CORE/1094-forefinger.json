@@ -1,0 +1,30 @@
+```json
+{
+  "word": "forefinger",
+  "definitions": [
+    {
+      "meaning": "The finger next to the thumb, also known as the index finger",
+      "usage": "Refers to the second finger of the hand, commonly used for pointing, pressing, or indicating something.",
+      "collocations": ["point with finger", "press with finger", "tap with finger"],
+      "examples": [
+        {
+          "scene": "在教室里，老师正在讲解一幅地图，学生们围在旁边听讲。老师想让大家注意到地图上的一个具体位置。",
+          "chineseIdea": "老师用手指指向地图上的某个城市，想让学生们关注这个地方。",
+          "sentenceWithBlank": "The teacher @ @ @ to show the location of Shanghai on the map.",
+          "fullEnglishSentence": "The teacher 「pointed with her finger」 to show the location of Shanghai on the map.",
+          "chineseTranslation": "老师「用手指指向」地图上上海的位置。",
+          "chinglishFix": "Chinglish: The teacher used her finger to point Shanghai on the map.\nCorrect: The teacher pointed with her finger to show the location of Shanghai on the map."
+        },
+        {
+          "scene": "在咖啡店里，一个人正在用手机点单，屏幕上的按钮需要点击确认。",
+          "chineseIdea": "他用手指轻轻按下屏幕上的确认按钮，完成订单。",
+          "sentenceWithBlank": "He @ @ @ to confirm his coffee order on the touchscreen.",
+          "fullEnglishSentence": "He 「pressed with his finger」 to confirm his coffee order on the touchscreen.",
+          "chineseTranslation": "他「用手指按下」触摸屏上的确认按钮，完成咖啡订单。",
+          "chinglishFix": "Chinglish: He used his finger to press the button on the screen.\nCorrect: He pressed with his finger to confirm his coffee order on the touchscreen."
+        }
+      ]
+    }
+  ]
+}
+```

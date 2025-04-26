@@ -1,0 +1,30 @@
+```json
+{
+  "word": "repave",
+  "definitions": [
+    {
+      "meaning": "重新铺设路面（通常指道路、停车场等）",
+      "usage": "指对已经铺设过的路面进行翻新或修复，通常涉及移除旧的路面材料（如沥青或混凝土）并铺设新的材料。常用于描述城市基础设施维护或改善交通条件。",
+      "collocations": ["repave the road", "repave the driveway", "repave the parking lot"],
+      "examples": [
+        {
+          "scene": "在一个中国的小城市，市政府决定对一条老旧的主干道进行翻新，因为路面已经坑坑洼洼，影响了车辆通行和居民出行。",
+          "chineseIdea": "为了让道路更平整，政府雇佣了施工队来重新铺设路面，改善交通状况。",
+          "sentenceWithBlank": "The city hired a construction team to @ @ @ this summer.",
+          "fullEnglishSentence": "The city hired a construction team to 「repave the road」 this summer.",
+          "chineseTranslation": "市政府雇佣了一支施工队在今年夏天「重新铺设道路」。",
+          "chinglishFix": "典型中式英语：'The city wants to repair the road again.' 纠正：'Repair' 过于笼统，且不够具体。应使用 'repave' 来准确描述重新铺设路面的行为，例如 'The city plans to repave the road.'"
+        },
+        {
+          "scene": "一位住在郊区的中国家庭发现他们家的车道因为多年的风吹雨打出现了裂缝和坑洞，决定进行翻新以提升房子的外观和实用性。",
+          "chineseIdea": "房主希望通过重新铺设车道，让车辆进出更顺畅，同时提升房子的整体美观。",
+          "sentenceWithBlank": "The homeowners decided to @ @ @ to improve their property’s curb appeal.",
+          "fullEnglishSentence": "The homeowners decided to 「repave the driveway」 to improve their property’s curb appeal.",
+          "chineseTranslation": "房主决定「重新铺设车道」以提升房产的路边吸引力。",
+          "chinglishFix": "典型中式英语：'We want to fix the driveway again.' 纠正：'Fix' 不够具体，且 'again' 可能让人误解为重复修理。应使用 'repave'，例如 'We plan to repave the driveway.'"
+        }
+      ]
+    }
+  ]
+}
+```

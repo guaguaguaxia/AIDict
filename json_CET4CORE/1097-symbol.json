@@ -1,0 +1,53 @@
+```json
+{
+  "word": "symbol",
+  "definitions": [
+    {
+      "meaning": "象征，表示某种意义的事物或标记",
+      "usage": "指代具有特定文化、情感或概念意义的事物，通常用于表达抽象概念，如国家、信仰或价值观。",
+      "collocations": ["national symbol", "cultural symbol", "symbol of peace"],
+      "examples": [
+        {
+          "scene": "在一个国际会议上，各国代表展示自己国家的标志，以表达国家认同和骄傲。",
+          "chineseIdea": "展示一个国家的重要标志，代表其历史和价值观，比如国旗或国徽。",
+          "sentenceWithBlank": "The flag is often regarded as a @ @ of the country’s unity and strength.",
+          "fullEnglishSentence": "The flag is often regarded as a 「national symbol」 of the country’s unity and strength.",
+          "chineseTranslation": "国旗常被视为国家团结与力量的「国家象征」。",
+          "chinglishFix": "典型中式英语：'The flag is the country’s symbol thing.' 纠正：'The flag is a national symbol of the country.'"
+        },
+        {
+          "scene": "在一个和平主题的艺术展上，艺术家用白色鸽子来表达对和平的渴望。",
+          "chineseIdea": "用一种广为人知的形象来传递和平的理念，比如鸽子或橄榄枝。",
+          "sentenceWithBlank": "The white dove is universally recognized as a @ @ @.",
+          "fullEnglishSentence": "The white dove is universally recognized as a 「symbol of peace」.",
+          "chineseTranslation": "白鸽被普遍认为是「和平象征」。",
+          "chinglishFix": "典型中式英语：'White dove means peace.' 纠正：'The white dove is a symbol of peace.'"
+        }
+      ]
+    },
+    {
+      "meaning": "符号，记号",
+      "usage": "指代在特定领域（如数学、科学、语言或技术）中用于表示特定意义或功能的标记。",
+      "collocations": ["mathematical symbol", "chemical symbol", "currency symbol"],
+      "examples": [
+        {
+          "scene": "在一堂数学课上，老师向学生解释如何使用特定符号来表示未知数。",
+          "chineseIdea": "用一个标记来代表数学中未知的量，比如x或y。",
+          "sentenceWithBlank": "In algebra, the letter x is often used as a @ @ to represent an unknown value.",
+          "fullEnglishSentence": "In algebra, the letter x is often used as a 「mathematical symbol」 to represent an unknown value.",
+          "chineseTranslation": "在代数中，字母x常被用作「数学符号」来表示未知值。",
+          "chinglishFix": "典型中式英语：'x is a symbol for math.' 纠正：'x is a mathematical symbol.'"
+        },
+        {
+          "scene": "在一家国际银行的网站上，用户需要选择正确的货币单位来完成交易。",
+          "chineseIdea": "用一个标记来表示某种货币，比如$表示美元。",
+          "sentenceWithBlank": "The dollar sign is a widely used @ @ in financial transactions.",
+          "fullEnglishSentence": "The dollar sign is a widely used 「currency symbol」 in financial transactions.",
+          "chineseTranslation": "美元符号是金融交易中广泛使用的「货币符号」。",
+          "chinglishFix": "典型中式英语：'Dollar sign is money symbol.' 纠正：'The dollar sign is a currency symbol.'"
+        }
+      ]
+    }
+  ]
+}
+```
