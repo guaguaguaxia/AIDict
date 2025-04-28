@@ -4,6 +4,7 @@ import csv
 import glob
 import hashlib
 import os
+import re
 import time
 
 import requests
@@ -67,13 +68,13 @@ def AIChat(word, model, api_key):
     {
       "meaning": "含义1",
       "usage": "用法描述1",
-      "collocations": ["包含此单词的常见搭配1", "包含此单词的常见搭配2", "包含此单词的常见搭配3",....],
+      "collocations": ["包含%s的常见搭配1", "包含%s的常见搭配2", "包含%s的常见搭配3",....],
       "examples": [
         {
           "scene": "详细的中文场景描述1",
           "chineseIdea": "详细的中文想法1",
           "sentenceWithBlank": "英文句子，但将常见搭配1用@替代，常见搭配有多少个单词就用多少个@，比如negotiate a contract可以用@ @ @替代",
-          "fullEnglishSentence": "完整的英文句子",
+          "fullEnglishSentence": "完整的英文句子,句子里要包含%s的常见搭配1",
           "chineseTranslation": "句子的中文翻译",
           "chinglishFix": "表达类似想法时典型的中式英语表达及其纠正"
         },
@@ -81,7 +82,7 @@ def AIChat(word, model, api_key):
           "scene": "详细的中文场景描述2",
           "chineseIdea": "详细的中文想法2",
           "sentenceWithBlank": "英文句子，但将常见搭配2用@替代，常见搭配有多少个单词就用多少个@，比如negotiate a contract可以用@ @ @替代",
-          "fullEnglishSentence": "完整的英文句子",
+          "fullEnglishSentence": "完整的英文句子,句子里要包含%s的常见搭配2",
           "chineseTranslation": "句子的中文翻译",
           "chinglishFix": "表达类似想法时典型的中式英语表达及其纠正"
         }
@@ -100,7 +101,7 @@ def AIChat(word, model, api_key):
 6. 请用「」把完整的英文句子使用的搭配框起来
 7. 请用「」把句子的中文翻译中使用的搭配框起来
 
-""" % word
+""" % (word, word,word,word,word,word)
 
     # url = "https://api.openai.com/v1/chat/completions"
     # url = "https://openkey.cloud/v1/chat/completions"
@@ -187,6 +188,7 @@ def get_json_data(API_KEY, start_alpha_list):
         try:
             m = m + 1
             response = AIChat(word, model, api_key)
+            print(response)
             content = response['choices'][0]['message']['content']
             # 创建文件
 
@@ -342,6 +344,64 @@ def text_to_speech(text, output_file):
         print(f"生成语音时发生错误: {str(e)}")
 
 
+def find_json_files_without_word_in_sentence(folder_path):
+    """
+    查找examples中fullEnglishSentence不包含word的JSON文件
+
+    Args:
+        folder_path: 要遍历的文件夹路径
+    """
+    problematic_files = []
+
+    # 遍历文件夹下的所有文件
+    for filename in os.listdir(folder_path):
+        if not filename.endswith('.json'):
+            continue
+
+        file_path = os.path.join(folder_path, filename)
+
+        try:
+            # 读取JSON文件
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+
+            word = data.get("word", "").lower()
+            if not word:
+                continue
+
+            # 获取词根部分用于检查词形变化
+            word_stem = word[:4] if len(word) > 4 else word
+            problem_found = False
+
+            for definition in data.get("definitions", []):
+                for example in definition.get("examples", []):
+                    full_sentence = example.get("fullEnglishSentence", "").lower()
+
+                    # 使用正则表达式检查是否包含单词的变体
+                    pattern = r'\b' + re.escape(word_stem) + r'[a-z]*\b'
+                    if not re.search(pattern, full_sentence):
+                        problematic_files.append(filename)
+                        problem_found = True
+                        break
+
+                if problem_found:
+                    break
+
+        except Exception as e:
+            print(f"处理文件 {filename} 时出错: {str(e)}")
+
+    # 打印有问题的文件名
+    if problematic_files:
+        print(f"找到 {len(problematic_files)} 个问题文件:")
+        for filename in problematic_files:
+            #  删除这些文件
+            os.remove(os.path.join(folder_path, filename))
+            print(f"- {filename}")
+    else:
+        print("未找到问题文件，所有例句都包含单词。")
+
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -362,13 +422,12 @@ if __name__ == '__main__':
     API_KEY = options.API_KEY
     START_ALPHA_LIST = options.START_ALPHA_LIST
     # text_to_speech("The software is designed to enhance fraud detection by analyzing transaction patterns", "output_voice/shimmer.mp3")
-    # get_json_data(API_KEY, START_ALPHA_LIST)
-    # response = AIChat("massive","grok-3","sk-maJvHUczwYssraal7cDa6f8460E941A09a8f8cB7789b3d6a")
     # content = response['choices'][0]['message']['content']
     # print(response)
+    get_json_data(API_KEY, START_ALPHA_LIST)
     # remove_first_last_lines("./json_CET4CORE", ['.json'])
-    json_to_csv("./json_CET4CORE", "1.csv")
-
+    # json_to_csv("./json_CET4CORE", "1.csv")
+    # find_json_files_without_word_in_sentence("./json_CET4CORE")
 
 
 
