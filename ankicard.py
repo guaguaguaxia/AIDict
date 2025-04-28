@@ -207,9 +207,9 @@ def json_to_csv(json_folder, output_csv):
     # 创建CSV文件并写入表头
     with open(output_csv, 'w', encoding='utf-8', newline='') as csvfile:
         fieldnames = ['scene', 'chineseIdea', 'sentenceWithBlank',
-                      'fullEnglishSentence', 'chineseTranslation', 'chinglishFix', 'audio']
+                      'fullEnglishSentence', 'chineseTranslation', 'chinglishFix', 'audio', 'word']
 
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter='|')
         writer.writeheader()
 
         # 遍历文件夹中的所有JSON文件
@@ -220,17 +220,21 @@ def json_to_csv(json_folder, output_csv):
                 with open(json_file, 'r', encoding='utf-8') as f:
                     data = json.load(f)
 
-
+                word = data.get('word', '')
                 # 遍历每个定义
                 for definition in data.get('definitions', []):
 
                     # 遍历每个例句
                     for example in definition.get('examples', []):
+                        # 判断音频文件是否存在，存在则跳过
                         text = example.get('fullEnglishSentence', '')
                         md = hashlib.md5()
                         md.update(text.encode('utf-8'))
                         unique_id = md.hexdigest()
+                        # if os.path.exists(f"./output_voice/{unique_id}.mp3"):
+                        #      continue
                         # get_voice(text, unique_id)
+                        # text_to_speech(text, f"./output_voice/{unique_id}.mp3")
                         row = {
                             'scene': example.get('scene', ''),
                             'chineseIdea': example.get('chineseIdea', ''),
@@ -238,7 +242,9 @@ def json_to_csv(json_folder, output_csv):
                             'fullEnglishSentence': text,
                             'chineseTranslation': example.get('chineseTranslation', ''),
                             'chinglishFix': example.get('chinglishFix', ''),
-                            'audio': unique_id + ".wav",
+                            'audio': unique_id + ".mp3",
+                            'word': word,
+
                         }
                         writer.writerow(row)
 
@@ -289,6 +295,53 @@ def get_voice(text, unique_id):
         print(err)
 
 
+def text_to_speech(text, output_file):
+    """
+    将文本转换为语音并保存为文件
+
+    Args:
+        text: 要转换为语音的文本
+        output_file: 输出音频文件路径
+        voice: 语音类型，如"alloy"
+        model: 模型名称，如"tts-1"
+        api_key: API密钥，如果为None则从.env文件获取
+        api_url: API端点URL
+    """
+
+    # 如果未提供API密钥，尝试从.env文件获取
+    api_key = get_env_value('tts_api_key')
+    api_url = "https://api.bltcy.ai/v1/audio/speech"
+
+    headers = {
+        'Authorization': f'Bearer {api_key}',
+        'Content-Type': 'application/json'
+    }
+
+    data = {
+        'model': "tts-1",
+        'input': text,
+        'voice': "nova"
+    }
+
+    try:
+        response = requests.post(api_url, headers=headers, json=data)
+
+        if response.status_code == 200:
+            # 确保输出目录存在
+            os.makedirs(os.path.dirname(os.path.abspath(output_file)), exist_ok=True)
+
+            # 将音频内容写入文件
+            with open(output_file, 'wb') as f:
+                f.write(response.content)
+            print(f"音频已保存到: {output_file}")
+        else:
+            print(f"API请求失败，状态码: {response.status_code}")
+            print(f"错误信息: {response.text}")
+
+    except Exception as e:
+        print(f"生成语音时发生错误: {str(e)}")
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -308,11 +361,12 @@ if __name__ == '__main__':
     options = parser.parse_args()
     API_KEY = options.API_KEY
     START_ALPHA_LIST = options.START_ALPHA_LIST
+    # text_to_speech("The software is designed to enhance fraud detection by analyzing transaction patterns", "output_voice/shimmer.mp3")
     # get_json_data(API_KEY, START_ALPHA_LIST)
     # response = AIChat("massive","grok-3","sk-maJvHUczwYssraal7cDa6f8460E941A09a8f8cB7789b3d6a")
     # content = response['choices'][0]['message']['content']
     # print(response)
-    remove_first_last_lines("./json_CET4CORE", ['.json'])
+    # remove_first_last_lines("./json_CET4CORE", ['.json'])
     json_to_csv("./json_CET4CORE", "1.csv")
 
 
