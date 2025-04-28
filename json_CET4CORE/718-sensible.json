@@ -2,48 +2,48 @@
   "word": "sensible",
   "definitions": [
     {
-      "meaning": "基于理性或实际的判断，表现出良好的判断力或常识",
-      "usage": "描述一个人、决定、行为或方法时，表示其合理、明智或符合逻辑，通常带有正面的评价。",
-      "collocations": ["make a decision", "approach to a problem", "choice for someone"],
+      "meaning": "基于理性或实际的判断，表现出良好的判断力",
+      "usage": "形容某人或某事在决策或行为上明智、合理，强调基于常识或实际考虑。",
+      "collocations": ["make a sensible decision", "a sensible approach", "sensible advice"],
       "examples": [
         {
-          "scene": "在一个公司会议中，团队需要决定是否投资一个高风险项目。小明提出了一个保守但稳妥的计划，得到了大家认可。",
-          "chineseIdea": "小明提出了一个基于数据分析和市场趋势的计划，避免了不必要的风险，展现了理性和冷静。",
-          "sentenceWithBlank": "After reviewing the risks, Xiaoming @ @ @ that prioritized stability over quick profits.",
-          "fullEnglishSentence": "After reviewing the risks, Xiaoming 「made a decision」 that prioritized stability over quick profits.",
-          "chineseTranslation": "在评估风险后，小明「做出了决定」，优先考虑稳定而非短期利润。",
-          "chinglishFix": "典型中式英语：'Xiaoming did a decision.' 纠正：'Make a decision' 是正确的搭配，动词 'make' 用于表示制定决定。"
+          "scene": "在公司会议中，团队需要决定是否投资一个高风险项目。张经理提出了一个基于数据分析的保守策略。",
+          "chineseIdea": "张经理希望团队选择一个风险低、回报稳定的方案，而不是冒险尝试不确定的项目。",
+          "sentenceWithBlank": "After reviewing the data, Zhang suggested we @ @ @ @ to avoid unnecessary risks.",
+          "fullEnglishSentence": "After reviewing the data, Zhang suggested we 「make a sensible decision」 to avoid unnecessary risks.",
+          "chineseTranslation": "在审阅数据后，张建议我们「做出明智的决定」以避免不必要的风险。",
+          "chinglishFix": "典型中式英语：'We should do a clever decision.' 纠正：'We should make a sensible decision.'（'clever' 更强调机智，而 'sensible' 强调理性判断。）"
         },
         {
-          "scene": "在家庭聚会上，父母讨论如何为孩子选择合适的课外活动。小红建议选择一个既有趣又有教育意义的活动。",
-          "chineseIdea": "小红希望孩子的课外活动不仅能激发兴趣，还能培养技能，体现了对孩子全面发展的考虑。",
-          "sentenceWithBlank": "Xiaohong suggested a @ @ @ that balanced fun and learning for the kids.",
-          "fullEnglishSentence": "Xiaohong suggested a 「choice for someone」 that balanced fun and learning for the kids.",
-          "chineseTranslation": "小红建议为孩子们选择一个「适合的选择」，兼顾乐趣和学习。",
-          "chinglishFix": "典型中式英语：'Xiaohong gave a choice.' 纠正：'Choice for someone' 更自然，表示为某人做出的合适选择。"
+          "scene": "小明在超市购物时，面对多种价格不同的牛奶品牌，他选择了性价比最高的一款。",
+          "chineseIdea": "小明不想花冤枉钱，他会比较价格和质量，选择最合理的购买方案。",
+          "sentenceWithBlank": "Instead of buying the expensive brand, Xiao Ming took @ @ @ @ and chose the affordable option.",
+          "fullEnglishSentence": "Instead of buying the expensive brand, Xiao Ming took 「a sensible approach」 and chose the affordable option.",
+          "chineseTranslation": "小明没有买昂贵的品牌，而是采取了「明智的做法」，选择了实惠的选项。",
+          "chinglishFix": "典型中式英语：'He used a smart way to buy.' 纠正：'He took a sensible approach to buying.'（'smart' 更强调聪明，而 'sensible' 强调实际合理。）"
         }
       ]
     },
     {
-      "meaning": "实际的、务实的，注重功能而非形式",
-      "usage": "通常用于描述物品、穿着或行为，强调其实用性和功能性，而不是花哨或奢侈。",
-      "collocations": ["pair of shoes", "clothing for work", "solution to a problem"],
+      "meaning": "实际的、实用的（尤指衣物、物品等）",
+      "usage": "形容物品（尤其是衣物或鞋子）舒适、实用，适合日常使用，不花哨。",
+      "collocations": ["sensible shoes", "sensible clothing", "a sensible choice"],
       "examples": [
         {
-          "scene": "小刚准备去山区徒步旅行，他需要购买一双适合长时间行走的鞋子。他在商店里试穿了多双，最终选了一双耐用的。",
-          "chineseIdea": "小刚需要鞋子能保护脚部、适合复杂地形，而不是追求时尚的外观，体现了对实用性的重视。",
-          "sentenceWithBlank": "For the hiking trip, Xiaogang chose a @ @ @ that offered great support and durability.",
-          "fullEnglishSentence": "For the hiking trip, Xiaogang chose a 「pair of shoes」 that offered great support and durability.",
-          "chineseTranslation": "为了徒步旅行，小刚选择了一「双鞋子」，提供良好的支撑和耐用性。",
-          "chinglishFix": "典型中式英语：'Xiaogang bought one shoes.' 纠正：'A pair of shoes' 是正确的表达，鞋子通常以 'pair' 为单位。"
+          "scene": "李小姐需要参加一个长途徒步活动，她在商店挑选了一双适合长时间行走的鞋子。",
+          "chineseIdea": "李小姐希望鞋子耐穿、舒适，能保护脚部，而不是只追求好看。",
+          "sentenceWithBlank": "For the hiking trip, Ms. Li picked @ @ to ensure comfort during the long walk.",
+          "fullEnglishSentence": "For the hiking trip, Ms. Li picked 「sensible shoes」 to ensure comfort during the long walk.",
+          "chineseTranslation": "为了徒步旅行，李小姐选择了「实用的鞋子」以确保长时间行走的舒适。",
+          "chinglishFix": "典型中式英语：'She bought useful shoes.' 纠正：'She bought sensible shoes.'（'useful' 强调功能性，而 'sensible' 更突出实用且适合场景。）"
         },
         {
-          "scene": "公司需要解决办公室空间不足的问题。小李提出了一个重新规划工位的方案，既节省空间又便于协作。",
-          "chineseIdea": "小李的方案不追求复杂的设计，而是直接解决空间问题，同时考虑员工的实际需求。",
-          "sentenceWithBlank": "To address the space issue, Xiaoli proposed a @ @ @ that optimized the office layout.",
-          "fullEnglishSentence": "To address the space issue, Xiaoli proposed a 「solution to a problem」 that optimized the office layout.",
-          "chineseTranslation": "为了解决空间问题，小李提出了一个「解决方案」，优化了办公室布局。",
-          "chinglishFix": "典型中式英语：'Xiaoli gave a solution.' 纠正：'Solution to a problem' 是更自然的搭配，明确问题背景。"
+          "scene": "王先生为即将到来的冬天准备衣物，他选择了一件保暖且适合日常穿着的羽绒服。",
+          "chineseIdea": "王先生想要一件既保暖又不夸张的衣服，适合上班和日常出行。",
+          "sentenceWithBlank": "To stay warm, Mr. Wang bought @ @ for the cold winter days.",
+          "fullEnglishSentence": "To stay warm, Mr. Wang bought 「sensible clothing」 for the cold winter days.",
+          "chineseTranslation": "为了保暖，王先生买了「实用的衣服」来应对寒冷的冬天。",
+          "chinglishFix": "典型中式英语：'He bought practical clothes.' 纠正：'He bought sensible clothing.'（'practical' 更强调功能，而 'sensible' 强调适合日常且合理。）"
         }
       ]
     }

@@ -3,93 +3,70 @@
   "definitions": [
     {
       "meaning": "体育教练",
-      "usage": "指指导运动员或运动团队的人，通常负责训练、战术安排和激励团队。",
-      "collocations": ["train a team", "give advice", "develop skills", "lead a squad"],
+      "usage": "指指导运动员或运动团队的人，通常负责训练、战术安排和激励队员。",
+      "collocations": ["head coach", "assistant coach", "train a team"],
       "examples": [
         {
-          "scene": "在一个热闹的篮球场上，队员们正在进行紧张的训练，准备迎接即将到来的全国锦标赛。",
-          "chineseIdea": "教练站在场边，大声指导队员如何更好地配合，同时关注每个人的技术动作。",
-          "sentenceWithBlank": "The new @ @ @ worked tirelessly to improve their performance.",
-          "fullEnglishSentence": "The new 「train a team」 worked tirelessly to improve their performance.",
-          "chineseTranslation": "新的「训练团队」不懈努力以提升他们的表现。",
-          "chinglishFix": "典型中式英语：He teach team to play better. 纠正：He trains the team to improve their performance."
+          "scene": "在一场紧张的篮球比赛前，球队在更衣室里听取指导，准备应对对手的策略。",
+          "chineseIdea": "指导者正在激励队员，告诉他们如何在比赛中发挥最佳水平。",
+          "sentenceWithBlank": "The @ @ gave a motivational speech to boost the team’s morale before the game.",
+          "fullEnglishSentence": "The 「head coach」 gave a motivational speech to boost the team’s morale before the game.",
+          "chineseTranslation": "「主教练」在比赛前发表了一场激励人心的演讲，以提升团队士气。",
+          "chinglishFix": "典型中式英语：'The coach leader said a speech to make team excited.' 纠正：'The head coach gave a motivational speech to boost the team’s morale.'"
         },
         {
-          "scene": "在一个安静的健身房里，教练正在与一名年轻选手单独交流，讨论如何改进发球技术。",
-          "chineseIdea": "教练耐心地指出选手的不足，并提出具体的改进建议。",
-          "sentenceWithBlank": "She always @ @ to her players on how to stay focused.",
-          "fullEnglishSentence": "She always 「give advice」 to her players on how to stay focused.",
-          "chineseTranslation": "她总是「给予建议」给她的队员，教他们如何保持专注。",
-          "chinglishFix": "典型中式英语：She tell players how to focus. 纠正：She gives advice to players on staying focused."
+          "scene": "在一个社区足球俱乐部，指导者正在教年轻球员如何踢任意球。",
+          "chineseIdea": "指导者通过示范和反复练习，帮助队员掌握技术。",
+          "sentenceWithBlank": "The @ @ @ worked with the young players to improve their free-kick skills.",
+          "fullEnglishSentence": "The 「assistant coach」 worked with the young players to improve their free-kick skills.",
+          "chineseTranslation": "「助理教练」与年轻球员一起训练，提高他们的任意球技术。",
+          "chinglishFix": "典型中式英语：'The help coach teach kids kick ball.' 纠正：'The assistant coach worked with the young players to improve their free-kick skills.'"
         }
       ]
     },
     {
-      "meaning": "私人辅导老师",
-      "usage": "指为学生提供学术或技能指导的个人教师，通常是一对一或小班教学。",
-      "collocations": ["tutor a student", "prepare for exams", "improve grades", "teach a subject"],
+      "meaning": "私人导师或指导者",
+      "usage": "指在学术、职业或个人发展方面提供指导的人，通常通过一对一的辅导帮助他人实现目标。",
+      "collocations": ["life coach", "career coach", "personal coach"],
       "examples": [
         {
-          "scene": "在一个安静的图书馆里，一名高中生正与辅导老师一起复习数学，准备即将到来的高考。",
-          "chineseIdea": "老师耐心地讲解复杂的数学公式，帮助学生掌握解题技巧。",
-          "sentenceWithBlank": "The @ @ @ helped her understand calculus better.",
-          "fullEnglishSentence": "The 「tutor a student」 helped her understand calculus better.",
-          "chineseTranslation": "「辅导学生」帮助她更好地理解微积分。",
-          "chinglishFix": "典型中式英语：He teach student calculus. 纠正：He tutors the student in calculus."
+          "scene": "一位职场新人感到迷茫，决定找一位专业人士帮助规划职业道路。",
+          "chineseIdea": "指导者帮助客户设定目标并制定实现目标的计划。",
+          "sentenceWithBlank": "The @ @ helped her set clear goals for her professional development.",
+          "fullEnglishSentence": "The 「career coach」 helped her set clear goals for her professional development.",
+          "chineseTranslation": "「职业教练」帮助她为职业发展设定清晰的目标。",
+          "chinglishFix": "典型中式英语：'The job teacher give her advice for work.' 纠正：'The career coach helped her set clear goals for her professional development.'"
         },
         {
-          "scene": "在一个咖啡馆里，一名大学生正在与英语口语老师练习对话，准备出国留学。",
-          "chineseIdea": "老师通过模拟真实场景，帮助学生提高流利度和自信心。",
-          "sentenceWithBlank": "He hired someone to @ @ @ to boost his speaking skills.",
-          "fullEnglishSentence": "He hired someone to 「teach a subject」 to boost his speaking skills.",
-          "chineseTranslation": "他雇了人来「教授一门学科」以提升他的口语技能。",
-          "chinglishFix": "典型中式英语：He find teacher to learn English speaking. 纠正：He hired a coach to teach him English speaking."
+          "scene": "一个人想要改变生活方式，找到一位指导者来帮助调整日常习惯。",
+          "chineseIdea": "指导者通过倾听和建议，帮助客户找到生活的平衡。",
+          "sentenceWithBlank": "Her @ @ encouraged her to prioritize self-care and mindfulness.",
+          "fullEnglishSentence": "Her 「life coach」 encouraged her to prioritize self-care and mindfulness.",
+          "chineseTranslation": "她的「人生教练」鼓励她优先考虑自我关怀和正念。",
+          "chinglishFix": "典型中式英语：'The life teacher tell her to care herself.' 纠正：'Her life coach encouraged her to prioritize self-care and mindfulness.'"
         }
       ]
     },
     {
       "meaning": "长途巴士",
-      "usage": "指用于长途旅行的舒适型巴士，通常用于旅游或城市间的交通。",
-      "collocations": ["travel by coach", "book a seat", "take a trip", "arrive on time"],
+      "usage": "指用于长途旅行的舒适型巴士，通常比普通公交车更豪华，配备舒适的座椅和空调。",
+      "collocations": ["travel by coach", "luxury coach", "coach service"],
       "examples": [
         {
-          "scene": "在一个繁忙的汽车站，乘客们正排队登上一辆开往另一个城市的大巴。",
-          "chineseIdea": "人们选择这种交通工具因为它经济实惠且舒适。",
-          "sentenceWithBlank": "Many tourists prefer to @ @ @ to explore the countryside.",
-          "fullEnglishSentence": "Many tourists prefer to 「travel by coach」 to explore the countryside.",
-          "chineseTranslation": "许多游客更喜欢「乘坐长途巴士」去探索乡村。",
-          "chinglishFix": "典型中式英语：They sit bus to travel. 纠正：They travel by coach."
+          "scene": "一群学生计划去另一个城市参加文化节，学校安排了一辆车供他们使用。",
+          "chineseIdea": "这辆车为长途旅行提供舒适的座位和便利。",
+          "sentenceWithBlank": "The students decided to @ @ @ to save money on their trip.",
+          "fullEnglishSentence": "The students decided to 「travel by coach」 to save money on their trip.",
+          "chineseTranslation": "学生们决定「乘坐长途巴士」以节省旅行费用。",
+          "chinglishFix": "典型中式英语：'The students take big bus to go trip.' 纠正：'The students decided to travel by coach to save money on their trip.'"
         },
         {
-          "scene": "在一个旅游团的集合点，导游正在核对名单，确保所有人都登上了大巴。",
-          "chineseIdea": "提前预订座位可以确保旅途顺利，避免临时找不到位置。",
-          "sentenceWithBlank": "She had to @ @ @ early to secure a window seat.",
-          "fullEnglishSentence": "She had to 「book a seat」 early to secure a window seat.",
-          "chineseTranslation": "她得提前「预订座位」以确保有个靠窗的位置。",
-          "chinglishFix": "典型中式英语：She buy ticket for window. 纠正：She booked a seat by the window."
-        }
-      ]
-    },
-    {
-      "meaning": "指导或激励他人",
-      "usage": "作为动词，指通过建议、指导或激励帮助他人提升技能或实现目标。",
-      "collocations": ["coach someone through", "guide a team", "mentor a colleague", "support a client"],
-      "examples": [
-        {
-          "scene": "在一家公司的会议室里，一位经理正在帮助新员工适应工作环境。",
-          "chineseIdea": "经理通过分享经验和技巧，帮助新员工快速上手。",
-          "sentenceWithBlank": "He @ @ @ the new hire to adapt to the company culture.",
-          "fullEnglishSentence": "He 「coach someone through」 the new hire to adapt to the company culture.",
-          "chineseTranslation": "他「指导某人完成」新员工适应公司文化。",
-          "chinglishFix": "典型中式英语：He teach new worker company culture. 纠正：He coached the new hire through the company culture."
-        },
-        {
-          "scene": "在一个创业孵化器中，一位经验丰富的导师正在与初创团队讨论商业计划。",
-          "chineseIdea": "导师通过提出关键问题和建议，帮助团队完善他们的策略。",
-          "sentenceWithBlank": "She loves to @ @ @ to help them refine their business ideas.",
-          "fullEnglishSentence": "She loves to 「mentor a colleague」 to help them refine their business ideas.",
-          "chineseTranslation": "她喜欢「指导同事」以帮助他们完善商业想法。",
-          "chinglishFix": "典型中式英语：She help team to make better plan. 纠正：She mentors the team to refine their plan."
+          "scene": "一家旅游公司宣传他们的服务，强调车辆的舒适性和准时性。",
+          "chineseIdea": "公司提供高质量的交通工具，吸引游客选择他们的服务。",
+          "sentenceWithBlank": "The company advertised its @ @ for group tours across the country.",
+          "fullEnglishSentence": "The company advertised its 「luxury coach」 for group tours across the country.",
+          "chineseTranslation": "该公司宣传其「豪华长途巴士」用于全国团体旅游。",
+          "chinglishFix": "典型中式英语：'The company say they have fancy bus.' 纠正：'The company advertised its luxury coach for group tours across the country.'"
         }
       ]
     }

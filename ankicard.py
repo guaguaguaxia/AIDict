@@ -424,10 +424,10 @@ if __name__ == '__main__':
     # text_to_speech("The software is designed to enhance fraud detection by analyzing transaction patterns", "output_voice/shimmer.mp3")
     # content = response['choices'][0]['message']['content']
     # print(response)
-    get_json_data(API_KEY, START_ALPHA_LIST)
+    # get_json_data(API_KEY, START_ALPHA_LIST)
     # remove_first_last_lines("./json_CET4CORE", ['.json'])
     # json_to_csv("./json_CET4CORE", "1.csv")
-    # find_json_files_without_word_in_sentence("./json_CET4CORE")
+    find_json_files_without_word_in_sentence("./json_CET4CORE")
 
 
 

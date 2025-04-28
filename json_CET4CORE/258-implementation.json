@@ -3,47 +3,47 @@
   "definitions": [
     {
       "meaning": "将计划、政策或系统付诸实践或执行的过程",
-      "usage": "指将抽象的计划、策略或设计转化为实际行动或具体结果，通常用于正式或技术性语境，如政策制定、项目管理或软件开发。",
-      "collocations": ["carry out a plan", "put into practice", "roll out a strategy"],
+      "usage": "指将抽象的计划、策略或想法转化为具体的行动或实际操作，通常用于正式或技术性场景，如政策制定、项目管理或软件开发。",
+      "collocations": ["implement a plan", "implement a policy", "implement a system"],
       "examples": [
         {
-          "scene": "一家科技公司正在推出新的客户管理系统，项目经理需要确保所有部门都能顺利过渡到新系统。",
-          "chineseIdea": "项目经理需要将新系统的计划变成实际操作，确保各部门能够使用新系统。",
-          "sentenceWithBlank": "The project manager worked hard to @ @ @ to ensure a smooth transition.",
-          "fullEnglishSentence": "The project manager worked hard to 「carry out a plan」 to ensure a smooth transition.",
-          "chineseTranslation": "项目经理努力「执行计划」，以确保顺利过渡。",
-          "chinglishFix": "典型中式英语：'The manager do the plan.' 纠正：'The manager carries out the plan.'（中文直译为“做计划”，但英文中“执行计划”用carry out更自然。）"
+          "scene": "一家公司正在推出新的环保政策，希望减少碳排放。管理层需要确保这项政策在所有部门得到执行。",
+          "chineseIdea": "公司需要把环保的理念变成实际的行动，比如调整生产流程或引入节能设备。",
+          "sentenceWithBlank": "The company worked hard to @ @ @ across all departments to reduce emissions.",
+          "fullEnglishSentence": "The company worked hard to 「implement a plan」 across all departments to reduce emissions.",
+          "chineseTranslation": "公司努力在所有部门「实施一项计划」以减少排放。",
+          "chinglishFix": "典型中式英语：'The company do a plan to reduce emissions.' 纠正：'The company implements a plan to reduce emissions.'（动词使用错误，且缺少搭配'implement'）"
         },
         {
-          "scene": "政府宣布了一项新的环保政策，并指定了一个委员会来监督其在全国范围内的执行。",
-          "chineseIdea": "政府希望将环保政策从纸面上的规定变成实际行动，减少污染。",
-          "sentenceWithBlank": "The committee was tasked with @ @ @ to reduce pollution nationwide.",
-          "fullEnglishSentence": "The committee was tasked with 「put into practice」 to reduce pollution nationwide.",
-          "chineseTranslation": "委员会被指派「付诸实践」，以在全国范围内减少污染。",
-          "chinglishFix": "典型中式英语：'The committee make the policy real.' 纠正：'The committee puts the policy into practice.'（中文“让政策变成现实”在英文中更常用put into practice表达。）"
+          "scene": "一个城市政府决定改善公共交通系统，计划增加公交车数量并优化路线。",
+          "chineseIdea": "政府需要把这个交通改善的想法变成现实，比如购买新车辆和调整时间表。",
+          "sentenceWithBlank": "The city council decided to @ @ @ to improve public transportation.",
+          "fullEnglishSentence": "The city council decided to 「implement a policy」 to improve public transportation.",
+          "chineseTranslation": "市议会决定「实施一项政策」来改善公共交通。",
+          "chinglishFix": "典型中式英语：'The council make a policy for transportation.' 纠正：'The council implements a policy to improve transportation.'（'make'不适用于政策执行，且句式不自然）"
         }
       ]
     },
     {
-      "meaning": "在计算机领域中，指将设计或算法转化为可运行的程序或系统的过程",
-      "usage": "主要用于技术性语境，描述将理论设计或算法转化为实际代码或软件系统的过程，常出现在编程、软件工程等领域。",
-      "collocations": ["develop a system", "deploy a solution", "build an application"],
+      "meaning": "在技术领域中，将设计或规范转化为实际可用的产品或系统的过程",
+      "usage": "常用于描述软件开发、工程或技术项目中将理论设计变为可操作的系统或工具的过程。",
+      "collocations": ["implement a solution", "implement a strategy", "implement a feature"],
       "examples": [
         {
-          "scene": "一家初创公司正在开发一款新的移动应用，程序员团队需要将设计师的原型转化为实际的应用程序。",
-          "chineseIdea": "程序员需要把设计图变成一个可以实际运行的手机应用。",
-          "sentenceWithBlank": "The developers spent months @ @ @ based on the prototype.",
-          "fullEnglishSentence": "The developers spent months 「building an application」 based on the prototype.",
-          "chineseTranslation": "开发人员花了几个月时间「构建应用程序」，基于原型。",
-          "chinglishFix": "典型中式英语：'The developers make the application.' 纠正：'The developers build the application.'（中文“制作应用”在技术语境中更常用build来表达。）"
+          "scene": "一家科技公司正在开发一款新的手机应用程序，程序员需要将设计团队的原型变成实际的功能。",
+          "chineseIdea": "程序员需要把设计图变成用户可以实际使用的功能，比如添加支付功能或搜索功能。",
+          "sentenceWithBlank": "The development team worked to @ @ @ to improve user experience.",
+          "fullEnglishSentence": "The development team worked to 「implement a feature」 to improve user experience.",
+          "chineseTranslation": "开发团队努力「实现一个功能」以提升用户体验。",
+          "chinglishFix": "典型中式英语：'The team add a feature to the app.' 纠正：'The team implements a feature in the app.'（'add'不如'implement'准确，且缺少介词'in'）"
         },
         {
-          "scene": "一家公司需要将其老旧的库存管理系统升级，IT团队被要求推出一个更高效的解决方案。",
-          "chineseIdea": "IT团队需要将新的库存管理方案转化为实际可用的系统。",
-          "sentenceWithBlank": "The IT team was responsible for @ @ @ to improve efficiency.",
-          "fullEnglishSentence": "The IT team was responsible for 「deploying a solution」 to improve efficiency.",
-          "chineseTranslation": "IT团队负责「部署解决方案」，以提高效率。",
-          "chinglishFix": "典型中式英语：'The team put the solution.' 纠正：'The team deployed the solution.'（中文“放置解决方案”在英文中用deploy更贴合技术语境。）"
+          "scene": "一家制造公司引入了新的自动化生产线，工程师需要确保新系统能够顺利运行。",
+          "chineseIdea": "工程师需要把自动化的设计方案变成实际的生产线，确保机器能够正常工作。",
+          "sentenceWithBlank": "The engineers were tasked with @ @ @ to streamline production.",
+          "fullEnglishSentence": "The engineers were tasked with 「implementing a solution」 to streamline production.",
+          "chineseTranslation": "工程师们被要求「实施一个解决方案」来优化生产流程。",
+          "chinglishFix": "典型中式英语：'The engineers do a solution for production.' 纠正：'The engineers implement a solution to streamline production.'（'do'不适用于解决方案，且句式不地道）"
         }
       ]
     }

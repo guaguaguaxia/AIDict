@@ -3,47 +3,47 @@
   "definitions": [
     {
       "meaning": "研究生（指在大学完成本科学习后继续深造的学生）",
-      "usage": "通常指在大学攻读硕士或博士学位的学生，强调学术研究或专业深造。",
-      "collocations": ["pursue a degree", "enroll in a program", "conduct research"],
+      "usage": "通常用作名词，指在大学取得学士学位后继续攻读硕士或博士学位的学生，也可指相关课程或学习阶段。",
+      "collocations": ["postgraduate degree", "postgraduate studies", "postgraduate student"],
       "examples": [
         {
-          "scene": "小明刚刚从一所知名大学本科毕业，他决定继续深造以提升自己的专业能力。他在网上查找了许多大学的硕士课程，最终选择了一所海外名校。",
-          "chineseIdea": "小明想通过进一步学习来获得更高的学历和专业知识。",
-          "sentenceWithBlank": "After completing his bachelor’s, Xiao Ming decided to @ @ @ at a prestigious university abroad.",
-          "fullEnglishSentence": "After completing his bachelor’s, Xiao Ming decided to 「pursue a degree」 at a prestigious university abroad.",
-          "chineseTranslation": "在完成本科后，小明决定在国外一所知名大学「攻读学位」。",
-          "chinglishFix": "中式英语：'Xiao Ming wants to read a degree.' 纠正：'Xiao Ming wants to pursue a degree.'（'read' 不能用于表示攻读学位，正确动词是 'pursue' 或 'study for'。）"
+          "scene": "一位刚完成本科学习的学生在与导师讨论未来的学术规划。",
+          "chineseIdea": "学生想了解继续深造的好处和申请流程。",
+          "sentenceWithBlank": "She is considering pursuing a @ @ to specialize in artificial intelligence.",
+          "fullEnglishSentence": "She is considering pursuing a 「postgraduate degree」 to specialize in artificial intelligence.",
+          "chineseTranslation": "她正在考虑攻读「研究生学位」以专攻人工智能。",
+          "chinglishFix": "典型中式英语：'She wants to read a postgraduate degree.' 纠正：'Read' 不适用于学位，应使用 'pursue' 或 'study for'，如 'She wants to pursue a postgraduate degree.'"
         },
         {
-          "scene": "丽丽在国内一所大学完成了本科学习，她对自己的专业领域充满热情，决定申请一个研究型硕士课程，以便更深入地探索学术问题。",
-          "chineseIdea": "丽丽希望通过研究生学习深入研究自己感兴趣的领域。",
-          "sentenceWithBlank": "Lili was eager to @ @ @ to dive deeper into her field of interest.",
-          "fullEnglishSentence": "Lili was eager to 「enroll in a program」 to dive deeper into her field of interest.",
-          "chineseTranslation": "丽丽迫不及待地「注册一个课程」以更深入地研究她感兴趣的领域。",
-          "chinglishFix": "中式英语：'Lili wants to join a program.' 纠正：'Lili wants to enroll in a program.'（'join' 通常用于社团或组织，学术课程更常用 'enroll in'。）"
+          "scene": "一位学生在学术会议上介绍自己的身份和研究方向。",
+          "chineseIdea": "学生希望表明自己正在进行更高层次的学习。",
+          "sentenceWithBlank": "As a @ @, he is researching sustainable energy solutions.",
+          "fullEnglishSentence": "As a 「postgraduate student」, he is researching sustainable energy solutions.",
+          "chineseTranslation": "作为一名「研究生」，他正在研究可持续能源解决方案。",
+          "chinglishFix": "典型中式英语：'He is a postgraduate.' 纠正：'Postgraduate' 单独使用不够具体，应明确身份，如 'He is a postgraduate student.'"
         }
       ]
     },
     {
-      "meaning": "研究生的（形容与研究生阶段相关的活动、课程或身份）",
-      "usage": "作为形容词，用于描述与研究生教育相关的事物，如课程、研究或学生身份。",
-      "collocations": ["level course", "research project", "study program"],
+      "meaning": "研究生的（形容词，描述与研究生阶段相关的事物）",
+      "usage": "用作形容词，修饰与研究生教育或课程相关的内容，如课程、项目或资格。",
+      "collocations": ["postgraduate course", "postgraduate research", "postgraduate program"],
       "examples": [
         {
-          "scene": "张教授在一所大学工作，他负责教授一门专门为硕士和博士学生设计的课程，内容非常深入且需要大量学术背景知识。",
-          "chineseIdea": "张教授希望通过这门课程帮助学生掌握高级学术技能。",
-          "sentenceWithBlank": "Professor Zhang teaches a challenging @ @ @ designed for advanced students.",
-          "fullEnglishSentence": "Professor Zhang teaches a challenging 「level course」 designed for advanced students.",
-          "chineseTranslation": "张教授教授一门为高级学生设计的具有挑战性的「级别课程」。",
-          "chinglishFix": "中式英语：'This is a high class course.' 纠正：'This is a high-level course.'（'high class' 指社会阶层或品质，学术上应使用 'high-level' 或 'advanced'。）"
+          "scene": "一所大学在招生网站上宣传其学术项目。",
+          "chineseIdea": "大学希望吸引有志于深造的学生报名。",
+          "sentenceWithBlank": "The university offers a highly regarded @ @ in data science.",
+          "fullEnglishSentence": "The university offers a highly regarded 「postgraduate course」 in data science.",
+          "chineseTranslation": "这所大学提供一门备受推崇的「研究生课程」，专注于数据科学。",
+          "chinglishFix": "典型中式英语：'The university has a postgraduate lesson.' 纠正：'Lesson' 不适用于学术项目，应使用 'course' 或 'program'，如 'The university offers a postgraduate course.'"
         },
         {
-          "scene": "小红在研究生阶段加入了一个跨国研究团队，参与一项关于环境保护的学术项目，这让她有机会与全球专家合作。",
-          "chineseIdea": "小红希望通过参与学术项目积累研究经验并扩展国际视野。",
-          "sentenceWithBlank": "Hong joined an international @ @ @ to gain hands-on experience in environmental studies.",
-          "fullEnglishSentence": "Hong joined an international 「research project」 to gain hands-on experience in environmental studies.",
-          "chineseTranslation": "小红加入了一个国际「研究项目」，以在环境研究领域获得实践经验。",
-          "chinglishFix": "中式英语：'Hong entered a study project.' 纠正：'Hong joined a research project.'（'enter' 不适用于加入项目，正确表达是 'join' 或 'participate in'。）"
+          "scene": "一位教授在向学生介绍实验室的科研机会。",
+          "chineseIdea": "教授希望鼓励学生参与高级研究项目。",
+          "sentenceWithBlank": "Our lab provides opportunities for @ @ in renewable energy.",
+          "fullEnglishSentence": "Our lab provides opportunities for 「postgraduate research」 in renewable energy.",
+          "chineseTranslation": "我们的实验室为「研究生研究」提供可再生能源领域的机会。",
+          "chinglishFix": "典型中式英语：'We do postgraduate study in our lab.' 纠正：'Study' 过于笼统，学术语境中更常用 'research'，如 'We conduct postgraduate research.'"
         }
       ]
     }

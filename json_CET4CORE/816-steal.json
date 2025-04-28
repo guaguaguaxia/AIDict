@@ -2,71 +2,48 @@
   "word": "steal",
   "definitions": [
     {
-      "meaning": "偷偷拿走他人的财物",
-      "usage": "指未经允许拿走属于他人的东西，通常带有偷偷摸摸或不道德的含义，常用于描述盗窃行为。",
-      "collocations": ["steal money", "steal a glance", "steal someone's heart"],
+      "meaning": "未经允许拿走他人的财物",
+      "usage": "指偷窃行为，通常涉及秘密地拿走不属于自己的东西，带有非法的含义。常用于描述小规模的偷窃行为，如偷钱包、商店商品等。",
+      "collocations": ["steal money", "steal a glance", "steal the show"],
       "examples": [
         {
-          "scene": "在一个拥挤的火车站，小明看到一个年轻人趁人不注意，从一个女士的包里拿走了钱包。",
-          "chineseIdea": "小明觉得这个行为非常不道德，因为那个人偷偷拿了不属于自己的东西。",
-          "sentenceWithBlank": "The thief managed to @ @ from the woman's bag without anyone noticing.",
-          "fullEnglishSentence": "The thief managed to 「steal money」 from the woman's bag without anyone noticing.",
-          "chineseTranslation": "小偷设法从那个女人的包里「偷了钱」，没有人注意到。",
-          "chinglishFix": "典型中式英语：He take money from her bag secretly. 纠正：He stole money from her bag without anyone noticing.（应使用'stole'表示偷窃行为，并避免直接翻译‘秘密地拿’）"
+          "scene": "在一个拥挤的火车站，一个年轻人看到地上有一个钱包，趁没人注意，他偷偷捡起来放进自己的口袋。",
+          "chineseIdea": "年轻人想不劳而获，悄悄拿走不属于自己的东西。",
+          "sentenceWithBlank": "He couldn't resist the temptation and decided to @ @ from the lost wallet.",
+          "fullEnglishSentence": "He couldn't resist the temptation and decided to 「steal money」 from the lost wallet.",
+          "chineseTranslation": "他抵不住诱惑，决定从丢失的钱包里「偷钱」。",
+          "chinglishFix": "中式英语：He take money from the wallet secretly. 纠正：He stole money from the wallet."
         },
         {
-          "scene": "在咖啡店里，小红偷偷看了一眼坐在对面的帅气男生，发现他也在看她。",
-          "chineseIdea": "小红想要不被察觉地快速看一眼对方，表达一种害羞或好奇的情绪。",
-          "sentenceWithBlank": "She couldn't help but @ @ @ at the handsome guy across the table.",
-          "fullEnglishSentence": "She couldn't help but 「steal a glance」 at the handsome guy across the table.",
-          "chineseTranslation": "她忍不住「偷瞄了一眼」对面桌子上的帅气男生。",
-          "chinglishFix": "典型中式英语：She secretly look at the boy. 纠正：She stole a glance at the boy.（应使用'steal a glance'这一固定搭配，而不是直接翻译‘秘密看’）"
+          "scene": "在一场热闹的表演中，一个新演员凭借出色的表现吸引了所有观众的注意力，完全盖过了其他演员的风头。",
+          "chineseIdea": "新演员的表现非常突出，让观众的目光都集中在自己身上。",
+          "sentenceWithBlank": "The new actor was so impressive that he managed to @ @ @ at the performance.",
+          "fullEnglishSentence": "The new actor was so impressive that he managed to 「steal the show」 at the performance.",
+          "chineseTranslation": "这位新演员表现得太出色了，他在表演中「抢尽风头」。",
+          "chinglishFix": "中式英语：He take all the attention. 纠正：He stole the show."
         }
       ]
     },
     {
-      "meaning": "赢得某人的喜爱或心动",
-      "usage": "比喻性地表示通过魅力或行为让某人对自己产生好感或爱意，常用于浪漫语境。",
-      "collocations": ["steal someone's heart", "steal the show"],
+      "meaning": "偷偷地或快速地移动或获取",
+      "usage": "指以隐秘或快速的方式移动、看一眼或获取某物，通常不涉及非法行为，而是描述一种轻巧或不引人注意的动作。",
+      "collocations": ["steal a glance", "steal a kiss", "steal a moment"],
       "examples": [
         {
-          "scene": "在一场学校舞会上，小刚用他的幽默和舞技吸引了全场目光，尤其是小丽的目光。",
-          "chineseIdea": "小刚的表现让小丽对他产生了好感，仿佛他完全赢得了她的心。",
-          "sentenceWithBlank": "With his charming dance moves, he managed to @ @ @ at the prom.",
-          "fullEnglishSentence": "With his charming dance moves, he managed to 「steal someone's heart」 at the prom.",
-          "chineseTranslation": "凭借他迷人的舞步，他在舞会上成功「赢得了某人的心」。",
-          "chinglishFix": "典型中式英语：He get her heart with dancing. 纠正：He stole her heart with his dancing.（应使用'steal someone's heart'这一浪漫表达，而不是‘get heart’）"
+          "scene": "在一个安静的图书馆里，两个学生隔着书架偷偷对视，不想被其他人发现。",
+          "chineseIdea": "学生想快速看对方一眼，但又不想引起注意。",
+          "sentenceWithBlank": "While pretending to read, she tried to @ @ @ at her friend across the room.",
+          "fullEnglishSentence": "While pretending to read, she tried to 「steal a glance」 at her friend across the room.",
+          "chineseTranslation": "她假装读书时，试图「偷瞄一眼」对面的朋友。",
+          "chinglishFix": "中式英语：She secretly look at her friend. 纠正：She stole a glance at her friend."
         },
         {
-          "scene": "在一场才艺表演中，小明的精彩吉他独奏让观众惊叹，所有的注意力都集中在他身上。",
-          "chineseIdea": "小明的表演非常出色，吸引了所有人的关注，盖过了其他表演者。",
-          "sentenceWithBlank": "His guitar solo was so impressive that he completely @ @ @.",
-          "fullEnglishSentence": "His guitar solo was so impressive that he completely 「stole the show」.",
-          "chineseTranslation": "他的吉他独奏太精彩了，完全「抢了风头」。",
-          "chinglishFix": "典型中式英语：He take all the attention. 纠正：He stole the show.（应使用'steal the show'这一固定表达，而不是直接翻译‘拿走注意力’）"
-        }
-      ]
-    },
-    {
-      "meaning": "悄悄或偷偷地移动",
-      "usage": "描述某人或某物以不引人注意的方式移动，通常带有隐秘或小心翼翼的含义。",
-      "collocations": ["steal away", "steal into"],
-      "examples": [
-        {
-          "scene": "深夜，小明不想吵醒家人，悄悄地从客厅溜回自己的房间。",
-          "chineseIdea": "小明希望不被发现，蹑手蹑脚地离开客厅，避免发出声音。",
-          "sentenceWithBlank": "Not wanting to wake anyone, he decided to @ @ to his room.",
-          "fullEnglishSentence": "Not wanting to wake anyone, he decided to 「steal away」 to his room.",
-          "chineseTranslation": "不想吵醒任何人，他决定「悄悄溜回」自己的房间。",
-          "chinglishFix": "典型中式英语：He go to his room quietly. 纠正：He stole away to his room.（应使用'steal away'表示悄悄离开，而不是简单描述‘安静地去’）"
-        },
-        {
-          "scene": "在一个安静的图书馆里，小红小心翼翼地走进一个无人角落，开始阅读。",
-          "chineseIdea": "小红希望不引起别人注意，悄悄地进入一个隐蔽的地方。",
-          "sentenceWithBlank": "She quietly @ @ the secluded corner of the library.",
-          "fullEnglishSentence": "She quietly 「stole into」 the secluded corner of the library.",
-          "chineseTranslation": "她悄悄地「溜进」了图书馆的僻静角落。",
-          "chinglishFix": "典型中式英语：She go into the corner silently. 纠正：She stole into the corner.（应使用'steal into'表示悄悄进入，而不是‘go silently’）"
+          "scene": "在一场忙碌的家庭聚会上，一对情侣趁着大家不注意，悄悄在角落里亲吻了一下。",
+          "chineseIdea": "情侣想在不被发现的情况下，快速地表达亲密。",
+          "sentenceWithBlank": "When no one was looking, he leaned in to @ @ @ from his partner.",
+          "fullEnglishSentence": "When no one was looking, he leaned in to 「steal a kiss」 from his partner.",
+          "chineseTranslation": "当没人注意时，他凑过去从伴侣那里「偷吻了一下」。",
+          "chinglishFix": "中式英语：He give a kiss secretly. 纠正：He stole a kiss."
         }
       ]
     }

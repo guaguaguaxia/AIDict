@@ -2,48 +2,48 @@
   "word": "routinely",
   "definitions": [
     {
-      "meaning": "以规律或习惯的方式进行，强调某事按固定时间或程序发生",
-      "usage": "通常作为副词，用于描述动作或事件的规律性，常与表示日常或重复动作的动词搭配，出现在句子的谓语部分或句末。",
-      "collocations": ["perform a task", "conduct inspections", "check equipment", "attend meetings"],
+      "meaning": "作为常规或习惯的一部分，定期或反复发生",
+      "usage": "用作副词，描述某事按固定计划或习惯定期进行，通常带有机械性或无特殊情况的含义。",
+      "collocations": ["perform a task", "check equipment", "attend meetings", "update software"],
       "examples": [
         {
-          "scene": "在一个大型制造工厂中，工人每天早上都会对机器进行检查，以确保生产线的正常运行。这是工厂的固定流程，早已成为工人日常工作的一部分。",
-          "chineseIdea": "每天按时检查设备是工人的习惯动作，体现了一种规律性。",
-          "sentenceWithBlank": "The workers @ @ @ before starting the production line each morning.",
-          "fullEnglishSentence": "The workers 「perform a task」 before starting the production line each morning.",
-          "chineseTranslation": "工人们每天早上在启动生产线之前「执行一项任务」。",
-          "chinglishFix": "中式英语：The workers every day do a task before start production line. 纠正：The workers routinely perform a task before starting the production line each morning."
+          "scene": "在一个大型制造工厂中，工人每天早上都会对机器进行检查，以确保生产线正常运行。这是他们工作流程中不可或缺的一部分。",
+          "chineseIdea": "每天按部就班地完成某项工作，像是例行公事，没有任何意外或变化。",
+          "sentenceWithBlank": "The workers @ @ @ to ensure the machines are in good condition.",
+          "fullEnglishSentence": "The workers 「perform a task」 routinely to ensure the machines are in good condition.",
+          "chineseTranslation": "工人们「执行任务」以常规方式确保机器状态良好。",
+          "chinglishFix": "典型中式英语：The workers every day do task. 纠正：The workers routinely perform a task."
         },
         {
-          "scene": "在一家物流公司，安全经理每周都会对仓库进行检查，以确保所有设备和货物符合安全标准。这是公司的标准操作流程。",
-          "chineseIdea": "安全检查是每周固定进行的活动，体现了一种制度化的规律性。",
-          "sentenceWithBlank": "The safety manager @ @ each week to ensure compliance with regulations.",
-          "fullEnglishSentence": "The safety manager 「conducts inspections」 each week to ensure compliance with regulations.",
-          "chineseTranslation": "安全经理每周「进行检查」以确保符合规定。",
-          "chinglishFix": "中式英语：The safety manager every week make inspections. 纠正：The safety manager routinely conducts inspections each week."
+          "scene": "在一家科技公司中，IT部门每周都会对公司的服务器和电脑进行检查，以防止潜在的故障。",
+          "chineseIdea": "定期检查设备是工作职责的一部分，像是每周固定的例行工作。",
+          "sentenceWithBlank": "The IT team @ @ to prevent system failures.",
+          "fullEnglishSentence": "The IT team 「checks equipment」 routinely to prevent system failures.",
+          "chineseTranslation": "IT团队「检查设备」以常规方式防止系统故障。",
+          "chinglishFix": "典型中式英语：The IT team every week check machine. 纠正：The IT team routinely checks equipment."
         }
       ]
     },
     {
-      "meaning": "以常规或常见的方式进行，强调某事是标准做法或司空见惯",
-      "usage": "作为副词，描述某事是标准或常见的做法，常用于强调某行为在特定领域或情境中是惯例，常见于正式或技术性语境。",
-      "collocations": ["use a method", "follow procedures", "apply a technique", "administer tests"],
+      "meaning": "以常规或标准的方式，通常不带特殊性或创新性",
+      "usage": "用作副词，强调某事以常规、标准或预期的方式完成，带有普通或缺乏新意的含义。",
+      "collocations": ["handle requests", "process applications", "follow procedures", "deal with issues"],
       "examples": [
         {
-          "scene": "在一所中学，老师们在期末考试前会对学生进行模拟测试，以帮助他们熟悉考试形式。这种做法在学校中非常普遍。",
-          "chineseIdea": "模拟测试是学校为了准备学生而采用的常规方法，体现了教育的标准流程。",
-          "sentenceWithBlank": "Teachers @ @ @ to prepare students for final exams.",
-          "fullEnglishSentence": "Teachers 「administer tests」 to prepare students for final exams.",
-          "chineseTranslation": "老师们「进行测试」以帮助学生准备期末考试。",
-          "chinglishFix": "中式英语：Teachers always give tests for students to prepare exams. 纠正：Teachers routinely administer tests to prepare students for final exams."
+          "scene": "在一家银行的客户服务部门，员工每天都会处理大量的贷款申请，按照固定的流程和标准操作。",
+          "chineseIdea": "处理事务时完全按照既定规则和流程，没有任何额外的变化或创新。",
+          "sentenceWithBlank": "The bank staff @ @ @ in accordance with standard protocols.",
+          "fullEnglishSentence": "The bank staff 「process applications」 routinely in accordance with standard protocols.",
+          "chineseTranslation": "银行员工「处理申请」以常规方式遵循标准协议。",
+          "chinglishFix": "典型中式英语：The bank staff every day do applications. 纠正：The bank staff routinely process applications."
         },
         {
-          "scene": "在一家软件开发公司，程序员在发布新版本前会对代码进行标准化审查，以确保代码质量。这种审查是开发过程中的常见步骤。",
-          "chineseIdea": "代码审查是软件开发中普遍采用的常规做法，体现了行业标准。",
-          "sentenceWithBlank": "The developers @ @ @ to ensure code quality before release.",
-          "fullEnglishSentence": "The developers 「follow procedures」 to ensure code quality before release.",
-          "chineseTranslation": "开发者们「遵循流程」以确保发布前的代码质量。",
-          "chinglishFix": "中式英语：The developers every time do procedures for code quality. 纠正：The developers routinely follow procedures to ensure code quality."
+          "scene": "在一个政府办公室中，职员每天需要处理市民提交的各种请求，例如证件更新或投诉处理，全部按照标准流程。",
+          "chineseIdea": "工作内容固定且重复，完全按照既定程序处理，没有任何例外。",
+          "sentenceWithBlank": "The clerks @ @ @ as part of their daily duties.",
+          "fullEnglishSentence": "The clerks 「handle requests」 routinely as part of their daily duties.",
+          "chineseTranslation": "职员们「处理请求」以常规方式作为日常职责的一部分。",
+          "chinglishFix": "典型中式英语：The clerks every day manage requests. 纠正：The clerks routinely handle requests."
         }
       ]
     }

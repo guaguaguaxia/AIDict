@@ -2,48 +2,48 @@
   "word": "radically",
   "definitions": [
     {
-      "meaning": "根本地，彻底地；指从根本上改变或以极端的方式发生变化",
-      "usage": "常用于描述某事物在本质、结构或方法上的重大变革，通常带有显著或革命性的含义。",
-      "collocations": ["change something", "transform society", "different approach"],
+      "meaning": "在根本上，彻底地，表示某种改变或差异是深刻且全面的",
+      "usage": "通常用作副词，修饰动词或形容词，强调某事在本质上发生了重大改变或与众不同。常用于描述观念、方法、政策等的根本性转变。",
+      "collocations": ["change something", "different from", "transform the way"],
       "examples": [
         {
-          "scene": "一家传统制造公司决定采用全自动化的生产流程，以应对市场竞争。这需要从根本上调整他们的生产方式。",
-          "chineseIdea": "公司希望通过彻底改变生产方式来提升效率，摆脱传统的低效模式。",
-          "sentenceWithBlank": "The company decided to @ @ their production methods to stay competitive.",
-          "fullEnglishSentence": "The company decided to 「change something」 their production methods to stay competitive.",
-          "chineseTranslation": "公司决定「改变某些方面」生产方法以保持竞争力。",
-          "chinglishFix": "典型中式英语：'They want to change their production very much.' 纠正：'They aim to radically change their production methods.'"
+          "scene": "在一场关于公司未来发展的会议上，管理层讨论如何应对市场竞争。CEO提出需要彻底改变现有的商业模式，以适应快速变化的科技环境。",
+          "chineseIdea": "CEO认为公司需要一种全新的策略，彻底颠覆过去的运营方式，才能在市场上保持竞争力。",
+          "sentenceWithBlank": "The CEO proposed to @ @ our business model to stay competitive.",
+          "fullEnglishSentence": "The CEO proposed to 「change something」 radically our business model to stay competitive.",
+          "chineseTranslation": "CEO提议「彻底改变」我们的商业模式以保持竞争力。",
+          "chinglishFix": "典型中式英语：'We need to change our business model very much.' 纠正：'We need to radically change our business model.'（'very much' 过于笼统，无法表达根本性改变的深度）"
         },
         {
-          "scene": "一位环保主义者在社区演讲，倡导彻底改变人们的生活方式以减少碳足迹。",
-          "chineseIdea": "通过根本改变生活习惯，比如减少开车、节约能源，来保护环境。",
-          "sentenceWithBlank": "Her speech inspired the community to adopt a @ @ to environmental protection.",
-          "fullEnglishSentence": "Her speech inspired the community to adopt a 「different approach」 to environmental protection.",
-          "chineseTranslation": "她的演讲激励社区采取「不同的方式」来保护环境。",
-          "chinglishFix": "典型中式英语：'We must change our life to save environment.' 纠正：'We need to radically adopt a different approach to save the environment.'"
+          "scene": "在大学课堂上，教授讨论现代教育与传统教育的区别，强调技术如何改变了学习方式。学生们对此展开热烈讨论。",
+          "chineseIdea": "学生们认为现代教育方式与过去完全不同，尤其是在线学习和互动平台的普及。",
+          "sentenceWithBlank": "Modern education is @ @ traditional methods due to technology.",
+          "fullEnglishSentence": "Modern education is 「different from」 radically traditional methods due to technology.",
+          "chineseTranslation": "现代教育因技术而「与传统方法截然不同」。",
+          "chinglishFix": "典型中式英语：'Modern education is very different with traditional methods.' 纠正：'Modern education is radically different from traditional methods.'（'different with' 是错误的介词搭配，应为 'different from'）"
         }
       ]
     },
     {
-      "meaning": "极端地，激进地；指以非常大胆或非常规的方式行事",
-      "usage": "常用于描述观点、行为或政策上大胆、激进的立场，通常带有一定的争议性或突破性。",
-      "collocations": ["oppose the policy", "innovative ideas", "challenge norms"],
+      "meaning": "极端地，激进地，指以非常大胆或极端的态度进行行动或思考",
+      "usage": "用作副词，修饰与政治、社会运动或个人行为相关的动词，强调某种行动或观点的极端性或激进性。",
+      "collocations": ["oppose the government", "advocate for change", "challenge the status quo"],
       "examples": [
         {
-          "scene": "一群年轻的设计师在时尚界提出大胆的理念，试图打破传统的审美标准。",
-          "chineseIdea": "他们希望通过极端的创新设计，挑战现有的时尚规则，吸引关注。",
-          "sentenceWithBlank": "Their collection was designed to @ @ in the fashion industry.",
-          "fullEnglishSentence": "Their collection was designed to 「challenge norms」 in the fashion industry.",
-          "chineseTranslation": "他们的系列设计旨在「挑战规范」时尚行业。",
-          "chinglishFix": "典型中式英语：'They want to change fashion very extreme.' 纠正：'They aim to radically challenge norms in fashion.'"
+          "scene": "在一个关于气候变化的论坛上，年轻活动家们激烈争论如何推动政策改革。一些人主张采取更激进的抗议方式。",
+          "chineseIdea": "活动家们认为需要通过极端手段迫使政府采取行动，比如大规模游行或直接干预。",
+          "sentenceWithBlank": "Some activists chose to @ @ @ to demand climate action.",
+          "fullEnglishSentence": "Some activists chose to 「oppose the government」 radically to demand climate action.",
+          "chineseTranslation": "一些活动家选择「激进地反对政府」以要求气候行动。",
+          "chinglishFix": "典型中式英语：'They against the government strongly.' 纠正：'They radically oppose the government.'（'against' 用法不准确，'strongly' 缺乏激进的含义）"
         },
         {
-          "scene": "一位政治活动家公开反对政府的新政策，认为它对公众利益有害。",
-          "chineseIdea": "他以激进的方式表达反对，希望引起公众对政策问题的关注。",
-          "sentenceWithBlank": "He @ @ because he believed it was unjust.",
-          "fullEnglishSentence": "He 「oppose the policy」 because he believed it was unjust.",
-          "chineseTranslation": "他「反对政策」，因为他认为它不公平。",
-          "chinglishFix": "典型中式英语：'He against the policy very strong.' 纠正：'He radically opposed the policy with strong arguments.'"
+          "scene": "在社交媒体上，一位博主发布了一篇关于性别平等的文章，呼吁彻底改变社会观念。她的观点引发了广泛争议。",
+          "chineseIdea": "博主希望通过大胆的言论，激励人们重新思考性别平等的现状，推动根本性的社会变革。",
+          "sentenceWithBlank": "Her article aimed to @ @ @ to spark a global conversation.",
+          "fullEnglishSentence": "Her article aimed to 「challenge the status quo」 radically to spark a global conversation.",
+          "chineseTranslation": "她的文章旨在「激进地挑战现状」以引发全球对话。",
+          "chinglishFix": "典型中式英语：'She wants to change the situation extremely.' 纠正：'She aims to radically challenge the status quo.'（'change the situation extremely' 表达模糊，缺乏针对性）"
         }
       ]
     }

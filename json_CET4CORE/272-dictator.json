@@ -2,48 +2,48 @@
   "word": "dictator",
   "definitions": [
     {
-      "meaning": "一个拥有绝对权力，通常通过武力或非民主手段统治国家的人",
-      "usage": "通常用于描述政治领导者，强调其独裁统治和对权力的集中控制，常带有负面含义。",
-      "collocations": ["seize power", "impose a regime", "suppress dissent"],
+      "meaning": "拥有绝对权力并以独裁方式统治国家或组织的领导人",
+      "usage": "指一个国家的统治者，通常以压制异议、集中权力和限制自由为特征，常用于政治或历史语境。",
+      "collocations": ["ruthless dictator", "military dictator", "overthrow a dictator"],
       "examples": [
         {
-          "scene": "在历史课上，老师讲述了一个国家如何在20世纪初陷入混乱，随后一位领导人通过军事政变上台，建立了独裁统治。",
-          "chineseIdea": "描述一个领导人通过非正常手段获得最高权力，并掌控国家。",
-          "sentenceWithBlank": "The military leader managed to @ @ after a violent coup.",
-          "fullEnglishSentence": "The military leader managed to 「seize power」 after a violent coup.",
-          "chineseTranslation": "这位军事领导人通过暴力政变成功「夺取权力」。",
-          "chinglishFix": "典型中式英语：'He got the power by force.' 纠正：'He seized power through a coup.'（'got'过于笼统，'seize power'更准确地表达通过武力获取权力）"
+          "scene": "在一个历史课堂上，老师正在讲解20世纪的独裁政权，学生们讨论某位领导人如何通过暴力手段控制国家。",
+          "chineseIdea": "描述一个冷酷无情的领导人如何通过镇压反对派来维持权力。",
+          "sentenceWithBlank": "The country suffered under the rule of a @ @, who silenced all opposition.",
+          "fullEnglishSentence": "The country suffered under the rule of a 「ruthless dictator」, who silenced all opposition.",
+          "chineseTranslation": "这个国家在一个「冷酷无情的独裁者」的统治下饱受苦难，他压制了所有反对声音。",
+          "chinglishFix": "中式英语：'He is a very cruel leader.' 纠正：'He is a ruthless dictator.'（使用更贴切的词汇'ruthless dictator'来形容独裁者的冷酷和专制）"
         },
         {
-          "scene": "在新闻报道中，记者描述了一位领导人通过控制媒体和军队，强行建立了一种严格的统治模式。",
-          "chineseIdea": "强调领导人通过强制手段建立某种统治体系。",
-          "sentenceWithBlank": "The new ruler moved quickly to @ @ @ that silenced all opposition.",
-          "fullEnglishSentence": "The new ruler moved quickly to 「impose a regime」 that silenced all opposition.",
-          "chineseTranslation": "新统治者迅速「强加了一种政权」，压制了所有反对声音。",
-          "chinglishFix": "典型中式英语：'He made a new government.' 纠正：'He imposed a regime.'（'made'无法体现强制性，'impose a regime'更贴合独裁者强行建立统治的语境）"
+          "scene": "在一部关于革命的电影中，民众聚集在广场上，抗议一个通过军队掌控国家的领导人。",
+          "chineseIdea": "描述一个依靠军事力量维持统治的领导人面临民众的起义。",
+          "sentenceWithBlank": "The 「military dictator」 was finally overthrown after years of oppression.",
+          "fullEnglishSentence": "The 「military dictator」 was finally overthrown after years of oppression.",
+          "chineseTranslation": "在多年的压迫之后，这个「军事独裁者」终于被推翻。",
+          "chinglishFix": "中式英语：'The army leader was defeated.' 纠正：'The military dictator was overthrown.'（'military dictator'更准确地描述了军事独裁者的身份，'overthrown'更符合推翻政权的情境）"
         }
       ]
     },
     {
-      "meaning": "在非政治语境中，指某人以专横或控制欲强的方式支配他人",
-      "usage": "常用于比喻性描述某人在特定环境中（例如工作、家庭或团队中）表现出过度控制的行为，带有批评意味。",
-      "collocations": ["act like a dictator", "rule with an iron fist", "dominate the conversation"],
+      "meaning": "在非政治语境中，指对某事或某人具有绝对控制权的人",
+      "usage": "通常以比喻的方式使用，指某人在特定情境中表现出类似独裁者的控制欲或支配行为，常用于家庭、职场或社交场合。",
+      "collocations": ["benevolent dictator", "act like a dictator", "little dictator"],
       "examples": [
         {
-          "scene": "在公司会议中，一位经理总是打断别人的发言，强行决定所有事项，让团队成员感到压抑。",
-          "chineseIdea": "描述一个人在团队中表现得过于强势，完全掌控局面。",
-          "sentenceWithBlank": "The manager tends to @ @ @ @ during meetings, leaving no room for discussion.",
-          "fullEnglishSentence": "The manager tends to 「act like a dictator」 during meetings, leaving no room for discussion.",
-          "chineseTranslation": "这位经理在会议中倾向于「表现得像独裁者」，不给讨论留下任何空间。",
-          "chinglishFix": "典型中式英语：'He is very strong in meetings.' 纠正：'He acts like a dictator in meetings.'（'strong'表达模糊，'act like a dictator'更生动且准确地描述控制欲强的行为）"
+          "scene": "在一个家庭聚会上，母亲总是决定所有活动安排，从晚餐菜单到娱乐项目，孩子们私下抱怨她过于强势。",
+          "chineseIdea": "描述一个在家庭中以仁慈但专制的方式掌控一切的人。",
+          "sentenceWithBlank": "Mom runs the household like a @ @, always making decisions with love but no debate.",
+          "fullEnglishSentence": "Mom runs the household like a 「benevolent dictator」, always making decisions with love but no debate.",
+          "chineseTranslation": "妈妈像一个「仁慈的独裁者」一样管理家庭，总是充满爱意但不容商量的做出决定。",
+          "chinglishFix": "中式英语：'Mom is very strong in family.' 纠正：'Mom acts like a benevolent dictator in the family.'（'benevolent dictator'更生动地表达了仁慈但专制的特质）"
         },
         {
-          "scene": "在家庭聚会上，一个人总是决定大家吃什么、玩什么，其他人只能听从。",
-          "chineseIdea": "强调某人在群体中以高压方式掌控决策。",
-          "sentenceWithBlank": "She always @ @ @ @ @, making everyone follow her plans.",
-          "fullEnglishSentence": "She always 「rules with an iron fist」, making everyone follow her plans.",
-          "chineseTranslation": "她总是「以铁腕统治」，让每个人都遵循她的计划。",
-          "chinglishFix": "典型中式英语：'She controls everything.' 纠正：'She rules with an iron fist.'（'controls'过于普通，'rule with an iron fist'更生动，强调专横的控制）"
+          "scene": "在一个小组项目中，一个成员总是主导讨论，强迫其他人接受他的想法，团队成员对此感到不满。",
+          "chineseIdea": "描述一个人在团队中表现出过于控制的行为，像个小独裁者。",
+          "sentenceWithBlank": "He’s such a @ @ in group projects, always insisting on his own ideas.",
+          "fullEnglishSentence": "He’s such a 「little dictator」 in group projects, always insisting on his own ideas.",
+          "chineseTranslation": "他在小组项目中真是个「小独裁者」，总是坚持自己的想法。",
+          "chinglishFix": "中式英语：'He always wants to control everything.' 纠正：'He acts like a little dictator.'（'little dictator'更形象地表达了非正式场合中的控制行为）"
         }
       ]
     }

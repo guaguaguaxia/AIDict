@@ -2,48 +2,48 @@
   "word": "evolution",
   "definitions": [
     {
-      "meaning": "生物学上的进化，指物种通过遗传变异和自然选择随时间逐渐变化的过程",
-      "usage": "通常用于描述生物学中物种的起源和变化，常与自然选择、遗传、适应等概念相关联。",
-      "collocations": ["natural selection", "genetic mutation", "species adaptation"],
+      "meaning": "生物学上的进化，物种随时间逐渐变化的过程",
+      "usage": "在生物学语境中，指通过自然选择、基因突变等机制，物种在世代中发生遗传特征的变化，常用于描述生命的起源和发展。",
+      "collocations": ["theory of evolution", "process of evolution", "biological evolution"],
       "examples": [
         {
-          "scene": "在一所大学的生物学课堂上，教授正在讲解达尔文的理论，学生们讨论物种如何随着时间变化。",
-          "chineseIdea": "我想表达物种如何通过环境压力和遗传变化逐渐形成新的特性。",
-          "sentenceWithBlank": "The theory of @ @ explains how species evolve over time through survival of the fittest.",
-          "fullEnglishSentence": "The theory of 「natural selection」 explains how species evolve over time through survival of the fittest.",
-          "chineseTranslation": "「自然选择」的理论解释了物种如何通过适者生存随时间演变。",
-          "chinglishFix": "典型中式英语：'Species change by nature choose.' 纠正：'Species evolve through natural selection.'"
+          "scene": "一位生物学老师在课堂上向学生解释达尔文的理论，强调物种如何适应环境。",
+          "chineseIdea": "老师想通过一个经典的科学理论，说明生物如何随着时间改变特征以生存。",
+          "sentenceWithBlank": "The @ @ @ explains how species adapt to their environments over millions of years.",
+          "fullEnglishSentence": "The 「theory of evolution」 explains how species adapt to their environments over millions of years.",
+          "chineseTranslation": "「进化论」解释了物种如何在数百万年间适应环境。",
+          "chinglishFix": "典型中式英语：'Evolution theory say species change.' 纠正：'The theory of evolution explains how species adapt.'"
         },
         {
-          "scene": "在动物园的讲解活动中，导游向游客介绍某种鸟类的羽毛颜色如何因环境变化而不同。",
-          "chineseIdea": "我想说明这种鸟类的羽毛颜色变化是由于基因的变化导致的。",
-          "sentenceWithBlank": "The bird’s vibrant colors are a result of @ @ over generations.",
-          "fullEnglishSentence": "The bird’s vibrant colors are a result of 「genetic mutation」 over generations.",
-          "chineseTranslation": "这种鸟类鲜艳的颜色是世代「基因突变」的结果。",
-          "chinglishFix": "典型中式英语：'Bird color change by gene change.' 纠正：'The bird’s colors evolved due to genetic mutations.'"
+          "scene": "一位科学家在纪录片中讨论鸟类翅膀的形成，提到自然选择的作用。",
+          "chineseIdea": "科学家想表达鸟类特征如何通过长期的自然过程形成，以适应飞行需求。",
+          "sentenceWithBlank": "The @ @ @ shows how birds developed wings to survive in diverse habitats.",
+          "fullEnglishSentence": "The 「process of evolution」 shows how birds developed wings to survive in diverse habitats.",
+          "chineseTranslation": "「进化的过程」展示了鸟类如何发展出翅膀以在不同栖息地生存。",
+          "chinglishFix": "典型中式英语：'Birds evolve wings by evolution process.' 纠正：'The process of evolution enabled birds to develop wings.'"
         }
       ]
     },
     {
-      "meaning": "事物逐渐发展和改进的过程，常用于描述技术、思想或社会结构的变迁",
-      "usage": "常用于非生物学语境，指某事物（如技术、观念、文化等）随时间逐步发展和完善的过程。",
-      "col alapján": ["technological advancement", "cultural shift", "social change"],
+      "meaning": "事物或系统的逐步发展和改进",
+      "usage": "在非生物学语境中，指观念、技术、社会结构等随时间逐步变化或完善的过程，常用于描述事物如何变得更复杂或高效。",
+      "collocations": ["cultural evolution", "technological evolution", "evolution of ideas"],
       "examples": [
         {
-          "scene": "在科技公司的产品发布会上，发言人介绍智能手机从按键手机到触屏设备的变迁。",
-          "chineseIdea": "我想表达智能手机的功能和设计如何随时间显著改进。",
-          "sentenceWithBlank": "The @ @ of smartphones has transformed how we communicate.",
-          "fullEnglishSentence": "The 「technological advancement」 of smartphones has transformed how we communicate.",
-          "chineseTranslation": "智能手机的「技术进步」改变了我们的沟通方式。",
-          "chinglishFix": "典型中式英语：'Smartphone become better by technology.' 纠正：'Smartphones have evolved through technological advancements.'"
+          "scene": "一位历史学家在讲座中分析人类社会的变迁，强调文化如何塑造现代社会。",
+          "chineseIdea": "历史学家想说明文化习俗如何随时间发展，影响人类行为和价值观。",
+          "sentenceWithBlank": "The @ @ has shaped how communities value education and cooperation.",
+          "fullEnglishSentence": "The 「cultural evolution」 has shaped how communities value education and cooperation.",
+          "chineseTranslation": "「文化进化」塑造了社区如何重视教育和合作。",
+          "chinglishFix": "典型中式英语：'Culture evolution make society better.' 纠正：'Cultural evolution has influenced societal values.'"
         },
         {
-          "scene": "在历史课上，老师讲解过去几十年间社会对环境保护态度的变化。",
-          "chineseIdea": "我想说明人们对环境保护的看法如何随时间变得更加重视。",
-          "sentenceWithBlank": "The @ @ in public attitudes has led to stronger environmental policies.",
-          "fullEnglishSentence": "The 「cultural shift」 in public attitudes has led to stronger environmental policies.",
-          "chineseTranslation": "公众态度的「文化转变」促成了更严格的环境政策。",
-          "chinglishFix": "典型中式英语：'People’s mind change to protect environment.' 纠正：'A cultural shift in attitudes has driven stronger environmental policies.'"
+          "scene": "一位工程师在科技展会上介绍智能手机的发展历程，展示技术进步。",
+          "chineseIdea": "工程师想突出手机从简单通信工具到多功能设备的转变过程。",
+          "sentenceWithBlank": "The @ @ has transformed phones into powerful computing devices.",
+          "fullEnglishSentence": "The 「technological evolution」 has transformed phones into powerful computing devices.",
+          "chineseTranslation": "「技术进化」将手机转变成了强大的计算设备。",
+          "chinglishFix": "典型中式英语：'Technology evolution change phone.' 纠正：'Technological evolution has revolutionized phones.'"
         }
       ]
     }

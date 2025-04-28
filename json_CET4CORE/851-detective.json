@@ -2,48 +2,48 @@
   "word": "detective",
   "definitions": [
     {
-      "meaning": "调查犯罪案件的专业人员，通常为警察或私家侦探",
-      "usage": "指从事调查犯罪、收集证据、解决案件的人，可以是警方的刑侦人员或独立的私家侦探。",
-      "collocations": ["solve a case", "investigate a crime", "follow a lead"],
+      "meaning": "专门调查犯罪案件并寻找线索的专业人员",
+      "usage": "指在警察部门或其他机构中负责调查犯罪、收集证据、破案的人，通常与刑事案件相关。",
+      "collocations": ["private detective", "detective work", "detective story"],
       "examples": [
         {
-          "scene": "在一个繁忙的都市警察局里，警官们正在讨论一起复杂的盗窃案件。一名经验丰富的人员被指派负责这个案件，因为他以敏锐的观察力闻名。",
-          "chineseIdea": "这个人通过分析线索和证据，最终破解了案件，让罪犯无处遁形。",
-          "sentenceWithBlank": "The experienced officer was able to @ @ @ by analyzing the clues left at the crime scene.",
-          "fullEnglishSentence": "The experienced officer was able to 「solve a case」 by analyzing the clues left at the crime scene.",
-          "chineseTranslation": "这位经验丰富的警官通过分析犯罪现场的线索，成功「破了一个案子」。",
-          "chinglishFix": "典型中式英语：'He finished the case.' 纠正：'He solved the case.'（'finish'通常不用于表示破案，'solve'更自然。）"
+          "scene": "一个富有的商人怀疑自己的生意伙伴在暗中挪用公司资金，但他没有证据直接报警，于是决定雇佣一个专业人士来调查。",
+          "chineseIdea": "需要一个能秘密调查、收集证据的人来帮他查清真相。",
+          "sentenceWithBlank": "He hired a @ @ to uncover the financial discrepancies in his company.",
+          "fullEnglishSentence": "He hired a 「private detective」 to uncover the financial discrepancies in his company.",
+          "chineseTranslation": "他雇佣了一个「私家侦探」来揭露公司财务中的不一致之处。",
+          "chinglishFix": "中式英语：He found a secret police to check the money problem. 纠正：He hired a private detective to investigate the financial issues."
         },
         {
-          "scene": "一名私家侦探受雇于一位富有的商人，调查公司内部的财务丑闻。他花了数周时间追踪线索，伪装身份，获取关键证据。",
-          "chineseIdea": "他深入挖掘，追踪每一条可能的线索，试图揭露隐藏的犯罪行为。",
-          "sentenceWithBlank": "The private investigator spent weeks @ @ @ to uncover the truth behind the scandal.",
-          "fullEnglishSentence": "The private investigator spent weeks 「investigating a crime」 to uncover the truth behind the scandal.",
-          "chineseTranslation": "这位私家侦探花了数周时间「调查一宗犯罪」，以揭露丑闻背后的真相。",
-          "chinglishFix": "典型中式英语：'He checked the crime.' 纠正：'He investigated the crime.'（'check'过于笼统，'investigate'更准确地表达深入调查。）"
+          "scene": "在一个下雨的夜晚，一位年轻女子在咖啡馆读一本悬疑小说，书中主角是一位聪明绝顶的调查者，破解了一个复杂的谋杀案。",
+          "chineseIdea": "她被书中描述的破案过程和主角的智慧深深吸引，觉得这样的故事非常刺激。",
+          "sentenceWithBlank": "She was engrossed in a @ @ about a brilliant investigator solving a murder case.",
+          "fullEnglishSentence": "She was engrossed in a 「detective story」 about a brilliant investigator solving a murder case.",
+          "chineseTranslation": "她沉迷于一个关于一位出色调查者破解谋杀案的「侦探故事」。",
+          "chinglishFix": "中式英语：She liked reading a police book. 纠正：She enjoyed reading a detective story."
         }
       ]
     },
     {
-      "meaning": "形容词，描述与侦探工作或调查相关的特性",
-      "usage": "作为形容词，用于描述与调查、侦查或解决谜团相关的事物或技能，通常出现在正式或专业语境中。",
-      "collocations": ["detective work", "detective skills", "detective story"],
+      "meaning": "侦探小说或影视剧中的虚构角色",
+      "usage": "指在文学、电影或电视中虚构的侦探形象，通常具有敏锐的观察力和推理能力，常出现在悬疑或犯罪题材的作品中。",
+      "collocations": ["famous detective", "detective series", "crime detective"],
       "examples": [
         {
-          "scene": "在一所大学的历史系，学生们被要求分析一份古老的手稿，找出其来源和真实性。教授称这种分析需要细致的调查能力。",
-          "chineseIdea": "学生们需要像侦探一样，通过线索拼凑出历史真相。",
-          "sentenceWithBlank": "Uncovering the manuscript’s origin required meticulous @ @.",
-          "fullEnglishSentence": "Uncovering the manuscript’s origin required meticulous 「detective work」.",
-          "chineseTranslation": "揭开手稿来源需要细致的「侦探工作」。",
-          "chinglishFix": "典型中式英语：'It needs detective job.' 纠正：'It requires detective work.'（'job'过于口语且不准确，'work'更适合描述这类专业活动。）"
+          "scene": "一个青少年在周末和朋友讨论一部新上映的电视剧，剧中的主角是一个穿着风衣、总能发现别人忽略的线索的破案高手。",
+          "chineseIdea": "他们觉得这个角色很酷，因为他总能用逻辑破解复杂的案件。",
+          "sentenceWithBlank": "They admired the @ @ in the new TV show for his sharp mind and cool demeanor.",
+          "fullEnglishSentence": "They admired the 「famous detective」 in the new TV show for his sharp mind and cool demeanor.",
+          "chineseTranslation": "他们钦佩新电视剧中那个「著名侦探」，因为他头脑敏锐、举止酷炫。",
+          "chinglishFix": "中式英语：They liked the clever police in the show. 纠正：They admired the famous detective in the show."
         },
         {
-          "scene": "在一场文学俱乐部的讨论中，成员们分享了自己喜欢的悬疑小说。他们特别提到了一种故事类型，充满了复杂的案件和聪明的推理。",
-          "chineseIdea": "这种故事以扣人心弦的案件和逻辑推理吸引读者。",
-          "sentenceWithBlank": "The club members enjoyed reading a gripping @ @ about a clever investigator.",
-          "fullEnglishSentence": "The club members enjoyed reading a gripping 「detective story」 about a clever investigator.",
-          "chineseTranslation": "俱乐部成员喜欢读关于一位聪明调查者的扣人心弦的「侦探故事」。",
-          "chinglishFix": "典型中式英语：'They read detective book.' 纠正：'They read a detective story.'（'book'过于宽泛，'story'更具体且常用于描述这类文学作品。）"
+          "scene": "一位母亲在陪孩子看一部动画片，片中的主角是一个会说话的动物，专门帮助小镇居民解决各种神秘事件。",
+          "chineseIdea": "她觉得这个角色很有趣，因为它用幽默的方式教孩子们如何观察和思考。",
+          "sentenceWithBlank": "Her kids loved the @ @ featuring a talking dog solving mysteries.",
+          "fullEnglishSentence": "Her kids loved the 「detective series」 featuring a talking dog solving mysteries.",
+          "chineseTranslation": "她的孩子们喜欢那个以会说话的狗破解神秘事件的「侦探系列」。",
+          "chinglishFix": "中式英语：The kids liked the animal police cartoon. 纠正：The kids loved the detective series cartoon."
         }
       ]
     }

@@ -2,48 +2,48 @@
   "word": "abruptly",
   "definitions": [
     {
-      "meaning": "突然地，出其不意地（指动作、变化或事件发生得很快且没有预兆）",
-      "usage": "用作副词，修饰动词，描述动作或变化发生的方式，通常带有意外或中断的含义。常见于描述突然停止、中断或快速转变的场景。",
-      "collocations": ["stop short", "change direction", "end a conversation", "leave a place"],
+      "meaning": "突然地，毫无预兆地（指动作、变化或事件发生得非常突然，缺乏过渡或准备）",
+      "usage": "通常用作副词，修饰动词，表示动作或状态的快速、意外发生，常用于描述中断、停止、转向等行为。常见于叙述性文本或对话中，强调突然性。",
+      "collocations": ["stop short", "turn away", "change the subject"],
       "examples": [
         {
-          "scene": "在一个繁忙的咖啡店里，小明正在和朋友热烈地讨论最近的电影。突然，他的手机响了，他不得不中断对话去接电话。",
-          "chineseIdea": "小明本来聊得很开心，但因为电话突然响起，他不得不立刻停下来，这种停顿让人感到有点意外。",
-          "sentenceWithBlank": "He was talking excitedly when he had to @ @ to answer his phone.",
-          "fullEnglishSentence": "He was talking excitedly when he had to 「stop short」 to answer his phone.",
-          "chineseTranslation": "他正聊得起劲时，突然不得不「停下来」去接电话。",
-          "chinglishFix": "典型中式英语：'He suddenly stopped to talk to answer the phone.' 纠正：'Suddenly' 修饰整个句子不够准确，且 'stopped to talk' 语义不清。应使用 'stop short' 表示突然中断动作。"
+          "scene": "在一个热闹的咖啡馆里，小明和朋友正在热烈讨论周末的计划。突然，朋友接到一个紧急电话，脸色一变，立即结束了谈话。",
+          "chineseIdea": "朋友因为突发情况不得不立刻停止正在进行的讨论，表现出一种毫无预兆的中断。",
+          "sentenceWithBlank": "The conversation @ @ when his phone rang.",
+          "fullEnglishSentence": "The conversation 「stopped short」 abruptly when his phone rang.",
+          "chineseTranslation": "当他的电话响起时，谈话「突然停止」了。",
+          "chinglishFix": "典型中式英语：'The talk suddenly stopped.' 纠正：'The conversation stopped short abruptly.'（'suddenly stopped' 虽然语法正确，但不如 'stopped short abruptly' 地道，缺少搭配的自然感。）"
         },
         {
-          "scene": "在一个团队会议中，小红正在向大家讲解项目进展。突然，经理插话，改变了话题，让她有点措手不及。",
-          "chineseIdea": "小红本来在按部就班地讲，但经理突然把话题转向另一个方向，这种转变让人觉得有点突兀。",
-          "sentenceWithBlank": "She was explaining the project when the manager @ @ to discuss a new topic.",
-          "fullEnglishSentence": "She was explaining the project when the manager 「changed direction」 to discuss a new topic.",
-          "chineseTranslation": "她正在解释项目时，经理突然「改变方向」去讨论一个新话题。",
-          "chinglishFix": "典型中式英语：'The manager suddenly changed the topic.' 纠正：'Change the topic' 虽然正确，但 'change direction' 在描述讨论或思路转向时更自然且地道。"
+          "scene": "在公司会议上，小红正在向同事们介绍她的项目计划，但经理突然插话，提出了一个完全不同的话题，让她措手不及。",
+          "chineseIdea": "经理毫无征兆地转移了话题，打破了原来的讨论节奏。",
+          "sentenceWithBlank": "The manager @ @ @ to discuss budget issues instead.",
+          "fullEnglishSentence": "The manager 「changed the subject」 abruptly to discuss budget issues instead.",
+          "chineseTranslation": "经理「突然改变话题」，转而讨论预算问题。",
+          "chinglishFix": "典型中式英语：'The manager suddenly talked about another topic.' 纠正：'The manager changed the subject abruptly.'（'talked about another topic' 显得生硬，'change the subject' 是更自然的表达。）"
         }
       ]
     },
     {
-      "meaning": "唐突地，粗鲁地（指说话或行为方式显得不礼貌或缺乏过渡）",
-      "usage": "用作副词，修饰动词，描述说话或行为的语气、态度，通常带有不友善或缺乏考虑的含义。常见于描述对话或互动中显得生硬或无礼的场景。",
-      "collocations": ["cut someone off", "dismiss a question", "interrupt a speech", "reject an offer"],
+      "meaning": "唐突地，粗鲁地（指说话或行为方式显得不礼貌或缺乏考虑，令人感到不适）",
+      "usage": "用作副词，修饰说话或行为相关的动词，强调语气或举止的直接、粗鲁，常见于描述社交场合中的不恰当行为。",
+      "collocations": ["cut someone off", "speak out", "walk away"],
       "examples": [
         {
-          "scene": "在一次朋友聚会上，小刚正在分享他最近的旅行经历，但小丽突然打断他，开始讲自己的故事，让气氛有点尴尬。",
-          "chineseIdea": "小刚本来想把故事讲完，但小丽直接插话，这种打断让人觉得有点不礼貌。",
-          "sentenceWithBlank": "He was sharing his story when she @ @ @ to talk about her own experience.",
-          "fullEnglishSentence": "He was sharing his story when she 「cut him off」 to talk about her own experience.",
-          "chineseTranslation": "他正在分享他的故事时，她「打断了他」开始讲自己的经历。",
-          "chinglishFix": "典型中式英语：'She suddenly stopped him to talk.' 纠正：'Stop' 不够具体，'cut someone off' 更准确地表达了粗鲁打断的含义。"
+          "scene": "在一次家庭聚会上，小刚正在分享他最近的旅行经历，但他的堂兄突然打断了他的话，开始讲自己的故事。",
+          "chineseIdea": "堂兄不顾礼貌，直接打断小刚的叙述，让气氛有些尴尬。",
+          "sentenceWithBlank": "His cousin @ @ @ to talk about his own trip.",
+          "fullEnglishSentence": "His cousin 「cut him off」 abruptly to talk about his own trip.",
+          "chineseTranslation": "他的堂兄「突然打断他」，开始讲自己的旅行。",
+          "chinglishFix": "典型中式英语：'His cousin suddenly stopped him talking.' 纠正：'His cousin cut him off abruptly.'（'stopped him talking' 不地道，'cut him off' 是更自然的表达。）"
         },
         {
-          "scene": "在一次客户会议中，客户提出一个建议，但销售代表小王觉得这个建议不现实，直接拒绝，没有任何缓冲，让客户有点不悦。",
-          "chineseIdea": "小王觉得客户的建议不合适，但他的拒绝方式太直接，缺乏礼貌的过渡，显得有点生硬。",
-          "sentenceWithBlank": "The client made a suggestion, but he @ @ @ without explanation.",
-          "fullEnglishSentence": "The client made a suggestion, but he 「rejected an offer」 without explanation.",
-          "chineseTranslation": "客户提出了一个建议，但他「拒绝了提议」没有解释。",
-          "chinglishFix": "典型中式英语：'He refused the suggestion suddenly.' 纠正：'Refuse' 过于笼统，'reject an offer' 在正式场合更常见，且搭配更自然。"
+          "scene": "在学校走廊上，小丽向同学询问作业的事宜，但对方似乎心情不好，直接转身离开，没有任何解释。",
+          "chineseIdea": "同学的突然离开显得很不礼貌，让小丽感到困惑和不舒服。",
+          "sentenceWithBlank": "Her classmate @ @ without saying a word.",
+          "fullEnglishSentence": "Her classmate 「walked away」 abruptly without saying a word.",
+          "chineseTranslation": "她的同学「突然走开」，一句话也没说。",
+          "chinglishFix": "典型中式英语：'Her classmate suddenly left.' 纠正：'Her classmate walked away abruptly.'（'suddenly left' 虽然可理解，但 'walked away abruptly' 更能体现唐突的行为。）"
         }
       ]
     }

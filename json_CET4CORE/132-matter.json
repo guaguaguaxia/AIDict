@@ -2,71 +2,71 @@
   "word": "matter",
   "definitions": [
     {
-      "meaning": "物质；材料；东西",
-      "usage": "指物理世界中的有形物质或构成某物的材料，常用于科学或日常描述物体。",
-      "collocations": ["organic matter", "solid matter", "raw material"],
+      "meaning": "物质，材料",
+      "usage": "指构成宇宙的物理物质，或某物由什么构成。",
+      "collocations": ["organic matter", "particulate matter", "gray matter"],
       "examples": [
         {
-          "scene": "在一个科学课堂上，老师正在向学生解释自然界中的物质组成，比如土壤中的成分。",
-          "chineseIdea": "想表达土壤中包含一些可以分解的天然物质，帮助植物生长。",
-          "sentenceWithBlank": "The soil is rich in @ @, which helps plants grow.",
-          "fullEnglishSentence": "The soil is rich in 「organic matter」, which helps plants grow.",
-          "chineseTranslation": "土壤富含「有机物质」，有助于植物生长。",
-          "chinglishFix": "典型中式英语：The soil has many organic things. 纠正：The soil is rich in organic matter."
+          "scene": "在一个环保研讨会上，讲者正在讨论土壤质量对农业的影响，强调自然成分的重要性。",
+          "chineseIdea": "土壤中的天然成分对植物生长至关重要，需要关注这些成分的保护。",
+          "sentenceWithBlank": "The soil’s @ @ is crucial for sustainable farming.",
+          "fullEnglishSentence": "The soil’s 「organic matter」 is crucial for sustainable farming.",
+          "chineseTranslation": "土壤中的「有机物质」对可持续农业至关重要。",
+          "chinglishFix": "典型中式英语：'The soil’s organic things are important for farming.' 纠正：'Organic things' 应改为 'organic matter'，因为后者是描述土壤成分的专有名词。"
         },
         {
-          "scene": "在一家工厂里，经理正在讨论生产新产品的材料选择。",
-          "chineseIdea": "想说明他们需要坚固的材料来制造耐用的产品。",
-          "sentenceWithBlank": "We need @ @ to produce durable products.",
-          "fullEnglishSentence": "We need 「solid matter」 to produce durable products.",
-          "chineseTranslation": "我们需要「固体材料」来生产耐用的产品。",
-          "chinglishFix": "典型中式英语：We need strong things to make products. 纠正：We need solid matter to produce durable products."
+          "scene": "在城市规划会议上，专家讨论空气污染问题，特别是细小颗粒对健康的影响。",
+          "chineseIdea": "空气中的细小颗粒会导致呼吸系统疾病，需采取措施减少。",
+          "sentenceWithBlank": "Reducing @ @ in the air can improve public health.",
+          "fullEnglishSentence": "Reducing 「particulate matter」 in the air can improve public health.",
+          "chineseTranslation": "减少空气中的「颗粒物质」可以改善公众健康。",
+          "chinglishFix": "典型中式英语：'The small dust in air is bad for health.' 纠正：'Small dust' 应改为 'particulate matter'，因为这是描述空气污染物的专业术语。"
         }
       ]
     },
     {
-      "meaning": "事情；问题；情况",
-      "usage": "指需要处理或讨论的事件、问题或情况，常用于正式或日常对话中。",
-      "collocations": ["urgent matter", "private matter", "serious issue"],
+      "meaning": "问题，事情",
+      "usage": "指需要处理或讨论的事件、情况或问题。",
+      "collocations": ["pressing matter", "urgent matter", "serious matter"],
       "examples": [
         {
-          "scene": "在公司会议中，经理需要解决一个突发问题，召集团队讨论。",
-          "chineseIdea": "想表达这是一个需要立即处理的重要问题。",
-          "sentenceWithBlank": "This is an @ @ that requires immediate attention.",
-          "fullEnglishSentence": "This is an 「urgent matter」 that requires immediate attention.",
-          "chineseTranslation": "这是一个「紧急事项」，需要立即处理。",
-          "chinglishFix": "典型中式英语：This is a hurry thing. 纠正：This is an urgent matter."
+          "scene": "在公司会议中，经理正在分配任务，强调某些问题需要立即解决。",
+          "chineseIdea": "有些问题非常重要，必须优先处理以避免延误。",
+          "sentenceWithBlank": "We need to address this @ @ immediately.",
+          "fullEnglishSentence": "We need to address this 「pressing matter」 immediately.",
+          "chineseTranslation": "我们需要立即处理这个「紧急问题」。",
+          "chinglishFix": "典型中式英语：'This is a hurry thing to solve.' 纠正：'Hurry thing' 应改为 'pressing matter'，因为后者是表达紧急情况的常用搭配。"
         },
         {
-          "scene": "朋友之间聊天时，有人提到不想公开讨论的个人问题。",
-          "chineseIdea": "想说明这是一个私人的、不希望被他人知道的事情。",
-          "sentenceWithBlank": "I’d rather not discuss it; it’s a @ @.",
-          "fullEnglishSentence": "I’d rather not discuss it; it’s a 「private matter」.",
-          "chineseTranslation": "我不想讨论这件事，这是一个「私人问题」。",
-          "chinglishFix": "典型中式英语：This is my own thing. 纠正：This is a private matter."
+          "scene": "在家庭聚会上，父母与孩子讨论未来的教育计划，认为这是一个需要认真对待的话题。",
+          "chineseIdea": "教育规划是一个重要的问题，需要全家人共同讨论。",
+          "sentenceWithBlank": "Your education is a @ @ that we need to discuss.",
+          "fullEnglishSentence": "Your education is a 「serious matter」 that we need to discuss.",
+          "chineseTranslation": "你的教育是一个「严肃问题」，我们需要讨论。",
+          "chinglishFix": "典型中式英语：'Your education is a big thing.' 纠正：'Big thing' 应改为 'serious matter'，因为后者更能表达需要认真对待的情况。"
         }
       ]
     },
     {
-      "meaning": "重要性；关系",
-      "usage": "用于表达某事是否重要或有影响，常出现在否定句或疑问句中，如‘it doesn’t matter’。",
-      "collocations": ["no matter", "make a difference", "of importance"],
+      "meaning": "重要性，关系",
+      "usage": "用于表达某事是否重要，通常出现在否定句或疑问句中，如 'It doesn’t matter' 或 'What’s the matter?'。",
+      "collocations": ["no matter", "make a difference", "what’s the matter"],
       "examples": [
         {
-          "scene": "在餐厅点餐时，朋友问你想吃什么，你表示不在乎具体选择。",
-          "chineseIdea": "想表达无论选什么都可以，没什么区别。",
-          "sentenceWithBlank": "It’s @ @ what we eat; I’m fine with anything.",
-          "fullEnglishSentence": "It’s 「no matter」 what we eat; I’m fine with anything.",
-          "chineseTranslation": "我们吃什么都「无所谓」，我什么都可以。",
-          "chinglishFix": "典型中式英语：I don’t care what to eat. 纠正：It’s no matter what we eat."
+          "scene": "在咖啡店里，朋友们在讨论周末计划，有人提议更改地点，但另一个朋友表示无所谓。",
+          "chineseIdea": "地点不重要，只要大家能聚在一起就好。",
+          "sentenceWithBlank": "It’s @ @ where we go, as long as we’re together.",
+          "fullEnglishSentence": "It’s 「no matter」 where we go, as long as we’re together.",
+          "chineseTranslation": "去哪里「无所谓」，只要我们在一起就好。",
+          "chinglishFix": "典型中式英语：'It’s not important where we go.' 纠正：'Not important' 应改为 'no matter'，因为后者是表达无关紧要的习惯用语。"
         },
         {
-          "scene": "在团队项目中，同事问你的建议是否会影响最终结果。",
-          "chineseIdea": "想说明你的建议可能会对结果产生一些影响。",
-          "sentenceWithBlank": "Your input will @ @ @ in the final outcome.",
-          "fullEnglishSentence": "Your input will 「make a difference」 in the final outcome.",
-          "chineseTranslation": "你的意见会在最终结果中「产生影响」。",
-          "chinglishFix": "典型中式英语：Your idea will change the result. 纠正：Your input will make a difference."
+          "scene": "在学校里，老师注意到一个学生看起来很沮丧，主动询问发生了什么。",
+          "chineseIdea": "想知道学生为什么情绪低落，是否有什么问题。",
+          "sentenceWithBlank": "@ @ @ with you? You seem upset.",
+          "fullEnglishSentence": "「What’s the matter」 with you? You seem upset.",
+          "chineseTranslation": "你「怎么了」？你看起来很沮丧。",
+          "chinglishFix": "典型中式英语：'What’s wrong thing with you?' 纠正：'Wrong thing' 应改为 'the matter'，因为 'What’s the matter' 是询问问题的固定表达。"
         }
       ]
     }

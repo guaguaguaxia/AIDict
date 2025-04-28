@@ -2,48 +2,48 @@
   "word": "statistics",
   "definitions": [
     {
-      "meaning": "The science of collecting, analyzing, interpreting, and presenting numerical data",
-      "usage": "Refers to the academic discipline or field of study involving methods for handling data, often used in research, business, or policy-making.",
-      "collocations": ["collect data", "analyze results", "interpret findings"],
+      "meaning": "数据的收集、分析、解释和呈现",
+      "usage": "指对数据的系统性研究，通常用于描述、总结或推断现象的规律，常出现在学术、商业、政策制定等领域。",
+      "collocations": ["collect statistics", "analyze statistics", "present statistics"],
       "examples": [
         {
-          "scene": "一个市场研究团队在分析消费者行为，他们需要处理大量的问卷调查数据。",
-          "chineseIdea": "团队需要从问卷中整理出有用的信息，比如消费者的购买习惯。",
-          "sentenceWithBlank": "The team worked hard to @ @ from the surveys to understand customer preferences.",
-          "fullEnglishSentence": "The team worked hard to 「collect data」 from the surveys to understand customer preferences.",
-          "chineseTranslation": "团队努力从调查中「收集数据」以了解客户偏好。",
-          "chinglishFix": "Chinglish: 'They want to get data from surveys.' Correct: 'They aim to 「collect data」 from surveys.'"
+          "scene": "一家公司正在评估新产品的市场表现，市场部经理需要整理销售数据以了解消费者偏好。",
+          "chineseIdea": "经理希望通过整理和研究销售数据，找出哪些产品更受欢迎，以便调整营销策略。",
+          "sentenceWithBlank": "The marketing team needs to @ @ to understand consumer preferences.",
+          "fullEnglishSentence": "The marketing team needs to 「collect statistics」 to understand consumer preferences.",
+          "chineseTranslation": "营销团队需要「收集数据」以了解消费者偏好。",
+          "chinglishFix": "典型中式英语：'Gather data'（直接翻译“收集数据”）\n纠正：'Collect statistics'（更专业，符合统计学语境）"
         },
         {
-          "scene": "一位科学家在实验室中完成实验后，需要对实验结果进行深入研究。",
-          "chineseIdea": "科学家希望通过数据分析找出实验的关键结论。",
-          "sentenceWithBlank": "After the experiment, she used software to @ @ to identify key trends.",
-          "fullEnglishSentence": "After the experiment, she used software to 「analyze results」 to identify key trends.",
-          "chineseTranslation": "实验后，她使用软件「分析结果」以识别关键趋势。",
-          "chinglishFix": "Chinglish: 'She checked the experiment’s data.' Correct: 'She 「analyzed results」 from the experiment.'"
+          "scene": "一位研究员在实验室中整理实验结果，试图找出某种药物对不同年龄组的效果差异。",
+          "chineseIdea": "研究员希望通过分析实验数据，确定药物是否对特定人群更有效。",
+          "sentenceWithBlank": "The researcher will @ @ to determine the drug's effectiveness across age groups.",
+          "fullEnglishSentence": "The researcher will 「analyze statistics」 to determine the drug's effectiveness across age groups.",
+          "chineseTranslation": "研究员将「分析数据」以确定药物在不同年龄组中的有效性。",
+          "chinglishFix": "典型中式英语：'Study data'（直接翻译“研究数据”）\n纠正：'Analyze statistics'（更精确，强调统计分析）"
         }
       ]
     },
     {
-      "meaning": "Numerical data or figures that represent information",
-      "usage": "Refers to the actual numbers or data sets themselves, often presented as results or summaries in reports or discussions.",
-      "collocations": ["provide figures", "report numbers", "publish data"],
+      "meaning": "统计数字或数据本身",
+      "usage": "指具体的数据或数字，通常以复数形式出现，用于描述某现象的量化结果，常用于新闻、报告或日常对话。",
+      "collocations": ["cite statistics", "reliable statistics", "misleading statistics"],
       "examples": [
         {
-          "scene": "一个政府部门发布了一份关于全国人口增长的年度报告。",
-          "chineseIdea": "报告中需要展示具体的数字来说明人口变化的趋势。",
-          "sentenceWithBlank": "The annual report was released to @ @ on population growth.",
-          "fullEnglishSentence": "The annual report was released to 「provide figures」 on population growth.",
-          "chineseTranslation": "年度报告发布以「提供数据」说明人口增长情况。",
-          "chinglishFix": "Chinglish: 'The report gives population data.' Correct: 'The report 「provides figures」 on population growth.'"
+          "scene": "一名记者在撰写关于气候变化的文章时，引用了全球气温上升的数据。",
+          "chineseIdea": "记者想通过引用权威数据，让读者相信气候变化的严重性。",
+          "sentenceWithBlank": "The journalist will @ @ to highlight the severity of climate change.",
+          "fullEnglishSentence": "The journalist will 「cite statistics」 to highlight the severity of climate change.",
+          "chineseTranslation": "记者将「引用数据」以强调气候变化的严重性。",
+          "chinglishFix": "典型中式英语：'Use data'（直接翻译“使用数据”）\n纠正：'Cite statistics'（更正式，符合新闻报道语境）"
         },
         {
-          "scene": "一家公司在年度股东大会上分享了去年的销售业绩。",
-          "chineseIdea": "公司希望通过具体的销售数字让股东了解业绩表现。",
-          "sentenceWithBlank": "During the meeting, the CEO presented slides to @ @ on sales performance.",
-          "fullEnglishSentence": "During the meeting, the CEO presented slides to 「report numbers」 on sales performance.",
-          "chineseTranslation": "在会议中，首席执行官展示了幻灯片以「报告数字」说明销售业绩。",
-          "chinglishFix": "Chinglish: 'The CEO showed sales data.' Correct: 'The CEO 「reported numbers」 on sales performance.'"
+          "scene": "一位老师在课堂上讨论手机使用对青少年注意力的影响，提到了一些不可靠的调查结果。",
+          "chineseIdea": "老师想提醒学生不要盲目相信网上的一些数据，因为它们可能有误导性。",
+          "sentenceWithBlank": "The teacher warned that @ @ can confuse students about the real impact of smartphone use.",
+          "fullEnglishSentence": "The teacher warned that 「misleading statistics」 can confuse students about the real impact of smartphone use.",
+          "chineseTranslation": "老师警告说，「误导性数据」可能会让学生对智能手机使用的真实影响感到困惑。",
+          "chinglishFix": "典型中式英语：'Wrong data'（直接翻译“错误数据”）\n纠正：'Misleading statistics'（更贴切，强调数据可能故意或无意误导）"
         }
       ]
     }

@@ -3,70 +3,47 @@
   "definitions": [
     {
       "meaning": "A violent disturbance of the peace by a crowd",
-      "usage": "Refers to a situation where a group of people behaves violently in a public place, often as a form of protest or reaction to an event.",
-      "collocations": ["break out in", "spark a", "quell a", "incite a"],
+      "usage": "Refers to a chaotic and often violent public disorder involving a group of people, typically in protest or out of unrest. It can describe events ranging from street protests to large-scale civil unrest.",
+      "collocations": ["cause a riot", "spark a riot", "quell a riot"],
       "examples": [
         {
-          "scene": "在一个大城市，足球比赛后，输掉比赛的粉丝因为不满裁判的判罚，开始在街头聚集，推翻车辆并与警察发生冲突。",
-          "chineseIdea": "描述一种由于某种事件引发的大规模、暴力且混乱的公众骚动。",
-          "sentenceWithBlank": "After the controversial match, the city @ @ @ chaos as angry fans clashed with police.",
-          "fullEnglishSentence": "After the controversial match, the city 「broke out in」 chaos as angry fans clashed with police.",
-          "chineseTranslation": "在具有争议性的比赛后，城市「爆发了」混乱，因为愤怒的粉丝与警察发生冲突。",
-          "chinglishFix": "Chinglish: 'The city happened a chaos.' Correction: 'The city broke out in chaos.' 'Happen' is not used for describing outbreaks of disorder; 'break out in' is the natural collocation."
+          "scene": "在一个大城市中，足球比赛结束后，输掉比赛的粉丝们情绪激动，聚集在市中心，开始砸毁商店橱窗并与警察发生冲突。",
+          "chineseIdea": "描述一群人因为不满比赛结果而引发混乱，破坏公共秩序的行为。",
+          "sentenceWithBlank": "The fans' anger @ @ @ in the city center after the match.",
+          "fullEnglishSentence": "The fans' anger 「caused a riot」 in the city center after the match.",
+          "chineseTranslation": "球迷的愤怒在比赛后「引发了骚乱」在市中心。",
+          "chinglishFix": "Chinglish: 'The fans very angry make a chaos.' Correction: 'The fans' anger caused a riot.'"
         },
         {
-          "scene": "在一个小镇，因为政府决定关闭当地唯一的工厂，愤怒的工人聚集在市政厅前，点燃垃圾桶并试图冲进大楼。",
-          "chineseIdea": "描述一种由社会或经济不满引发的暴力抗议行为。",
-          "sentenceWithBlank": "The mayor's decision to close the factory @ @ @ among the workers, leading to violent protests.",
-          "fullEnglishSentence": "The mayor's decision to close the factory 「sparked a」 among the workers, leading to violent protests.",
-          "chineseTranslation": "市长关闭工厂的决定「引发了」工人中的暴力抗议。",
-          "chinglishFix": "Chinglish: 'The decision caused a riot.' Correction: 'The decision sparked a riot.' 'Cause' is too general; 'spark' conveys the sudden ignition of unrest."
+          "scene": "在一个政治集会上，抗议者对政府新政策不满，开始向警察投掷石块，局面迅速失控。",
+          "chineseIdea": "描述抗议活动因为情绪激化而演变成暴力冲突。",
+          "sentenceWithBlank": "The controversial policy @ @ @ among the protesters.",
+          "fullEnglishSentence": "The controversial policy 「sparked a riot」 among the protesters.",
+          "chineseTranslation": "这项有争议的政策在抗议者中「引发了骚乱」。",
+          "chinglishFix": "Chinglish: 'The policy make people riot.' Correction: 'The policy sparked a riot among the protesters.'"
         }
       ]
     },
     {
       "meaning": "An impressively large or varied display of something",
-      "usage": "Used to describe an abundance or vivid display of something, often colors, sounds, or emotions, in a positive or neutral context.",
-      "collocations": ["a riot of", "burst into a"],
+      "usage": "Used figuratively to describe an abundance or overwhelming presence of something, often positive or vibrant, such as colors, sounds, or emotions. Commonly used in artistic or descriptive contexts.",
+      "collocations": ["a riot of colors", "a riot of emotions", "a riot of sounds"],
       "examples": [
         {
-          "scene": "在一个春天的花园里，各种颜色的花朵竞相开放，红的、黄的、紫的，构成了一幅令人叹为观止的画面。",
-          "chineseIdea": "描述一种色彩或事物的丰富和多样，令人印象深刻。",
-          "sentenceWithBlank": "The garden was @ @ @ colors, with flowers blooming in every shade imaginable.",
-          "fullEnglishSentence": "The garden was 「a riot of」 colors, with flowers blooming in every shade imaginable.",
-          "chineseTranslation": "花园「五彩缤纷」，各种颜色的花朵盛开，令人难以想象。",
-          "chinglishFix": "Chinglish: 'The garden has many colors.' Correction: 'The garden was a riot of colors.' 'Has many colors' is too plain; 'a riot of' captures the vivid abundance."
+          "scene": "在一个春天的花园里，各种鲜花竞相开放，红的、黄的、紫的，构成了一幅绚丽多彩的画面。",
+          "chineseIdea": "描述自然界中色彩丰富、令人震撼的景象。",
+          "sentenceWithBlank": "The garden was alive with @ @ @ @ in full bloom.",
+          "fullEnglishSentence": "The garden was alive with 「a riot of colors」 in full bloom.",
+          "chineseTranslation": "花园里生机勃勃，盛开的花朵构成「一片色彩缤纷」。",
+          "chinglishFix": "Chinglish: 'The garden has many colors.' Correction: 'The garden was alive with a riot of colors.'"
         },
         {
-          "scene": "在一个热闹的音乐节上，乐队突然开始演奏一首节奏强烈的歌曲，观众的情绪被点燃，纷纷跳跃和欢呼。",
-          "chineseIdea": "描述一种情感或能量的突然爆发，充满活力。",
-          "sentenceWithBlank": "When the band started playing, the crowd @ @ @ cheers and excitement.",
-          "fullEnglishSentence": "When the band started playing, the crowd 「burst into a」 cheers and excitement.",
-          "chineseTranslation": "当乐队开始演奏时，人群「爆发出一阵」欢呼和兴奋。",
-          "chinglishFix": "Chinglish: 'The crowd shouted loudly.' Correction: 'The crowd burst into a riot of cheers.' 'Shouted loudly' lacks the sense of collective energy; 'burst into a riot' conveys the sudden surge."
-        }
-      ]
-    },
-    {
-      "meaning": "A very amusing or entertaining person or thing",
-      "usage": "Informally used to describe someone or something that is extremely funny or entertaining.",
-      "collocations": ["be a", "absolute"],
-      "examples": [
-        {
-          "scene": "在一个家庭聚会上，小明模仿各种电影明星的表演，逗得大家捧腹大笑，成了当晚的焦点。",
-          "chineseIdea": "描述一个人因其幽默或娱乐性而成为关注的中心。",
-          "sentenceWithBlank": "Xiao Ming’s impressions at the party were so funny that everyone said he @ @ @.",
-          "fullEnglishSentence": "Xiao Ming’s impressions at the party were so funny that everyone said he 「was a」 riot.",
-          "chineseTranslation": "小明在派对上的模仿表演太搞笑了，大家都说他「真是个」活宝。",
-          "chinglishFix": "Chinglish: 'He is very funny person.' Correction: 'He was a riot.' 'Very funny person' is correct but bland; 'be a riot' is a vivid, idiomatic expression."
-        },
-        {
-          "scene": "在一个综艺节目中，一位参赛者的夸张动作和幽默回答让观众和主持人都笑得停不下来。",
-          "chineseIdea": "描述某人或某事因极具娱乐性而让人捧腹。",
-          "sentenceWithBlank": "The contestant’s antics on the show were an @ @, keeping the audience in stitches.",
-          "fullEnglish trasparente": "The contestant’s antics on the show were an 「absolute」 riot, keeping the audience in stitches.",
-          "chineseTranslation": "参赛者在节目中的滑稽动作「绝对是」个笑料，让观众笑得停不下来。",
-          "chinglishFix": "Chinglish: 'He made everyone laugh a lot.' Correction: 'He was an absolute riot.' 'Laugh a lot' is vague; 'absolute riot' emphasizes the overwhelming humor."
+          "scene": "在一场音乐会上，乐队演奏的旋律与观众的欢呼声交织在一起，营造出一种令人兴奋的氛围。",
+          "chineseIdea": "描述声音的多样性和强烈的情感冲击。",
+          "sentenceWithBlank": "The concert was filled with @ @ @ @ from the band and the crowd.",
+          "fullEnglishSentence": "The concert was filled with 「a riot of sounds」 from the band and the crowd.",
+          "chineseTranslation": "音乐会充满了来自乐队和观众的「各种声音交织」。",
+          "chinglishFix": "Chinglish: 'The concert very noisy.' Correction: 'The concert was filled with a riot of sounds.'"
         }
       ]
     }

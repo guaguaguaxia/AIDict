@@ -3,70 +3,70 @@
   "definitions": [
     {
       "meaning": "使数量、程度或规模变小",
-      "usage": "指通过行动或措施减少某物的数量、程度、规模或强度，常用于描述成本、浪费、风险等具体或抽象事物的减少。",
-      "collocations": ["cut costs", "lower emissions", "decrease risk", "minimize waste"],
+      "usage": "常用于描述数量、规模、程度等的减少，如减少费用、数量、风险等，通常搭配to/by表示减少到的程度或减少的量。",
+      "collocations": ["reduce costs", "reduce risk", "reduce stress", "reduce emissions"],
       "examples": [
         {
-          "scene": "一家制造公司正在召开年度会议，讨论如何在不影响产品质量的情况下降低生产成本。财务总监提出了一些节约措施，比如优化供应链和减少能源消耗。",
-          "chineseIdea": "公司希望通过改进流程来减少开支，同时保持产品竞争力。",
-          "sentenceWithBlank": "By optimizing the supply chain, the company was able to @ @ significantly.",
-          "fullEnglishSentence": "By optimizing the supply chain, the company was able to 「cut costs」 significantly.",
-          "chineseTranslation": "通过优化供应链，公司能够显著「降低成本」。",
-          "chinglishFix": "典型中式英语：'make costs less' → 纠正：'cut costs' 或 'reduce costs'，因为 'make less' 不常用于描述成本减少，且听起来不自然。"
+          "scene": "一家公司正在讨论如何在不影响产品质量的情况下降低生产费用。财务经理提出了一些节约措施。",
+          "chineseIdea": "希望通过优化流程或减少浪费来降低开支。",
+          "sentenceWithBlank": "By optimizing our supply chain, we can @ @ significantly.",
+          "fullEnglishSentence": "By optimizing our supply chain, we can 「reduce costs」 significantly.",
+          "chineseTranslation": "通过优化供应链，我们可以显著「降低成本」。",
+          "chinglishFix": "典型中式英语：'make costs lower'，纠正为：'reduce costs'，因为'reduce'更简洁且为常用搭配。"
         },
         {
-          "scene": "一位环保倡导者在社区活动中分享如何通过改变生活习惯来减少碳足迹，比如使用公共交通和减少一次性塑料制品。",
-          "chineseIdea": "个人可以通过环保行为来减少对环境的负面影响。",
-          "sentenceWithBlank": "Using reusable bags can help @ @ from daily activities.",
-          "fullEnglishSentence": "Using reusable bags can help 「lower emissions」 from daily activities.",
-          "chineseTranslation": "使用可重复使用的袋子可以帮助「降低日常活动中的排放」。",
-          "chinglishFix": "典型中式英语：'decrease pollution' → 纠正：'lower emissions'，因为 'emissions' 更具体地指代碳排放，且是环保语境中的常见搭配。"
+          "scene": "一位医生在与患者讨论如何改善健康状况，建议通过放松技巧来缓解日常压力。",
+          "chineseIdea": "通过冥想或运动来减轻心理负担。",
+          "sentenceWithBlank": "Practicing mindfulness daily can help you @ @ effectively.",
+          "fullEnglishSentence": "Practicing mindfulness daily can help you 「reduce stress」 effectively.",
+          "chineseTranslation": "每天练习正念可以帮助你有效「减轻压力」。",
+          "chinglishFix": "典型中式英语：'decrease stress'，纠正为：'reduce stress'，因为'reduce stress'是更自然的搭配。"
         }
       ]
     },
     {
-      "meaning": "使某人或某物处于较低的状态或条件",
-      "usage": "指通过某种方式使某人或某物的地位、状态或价值降低，通常带有负面含义，如降低某人的地位或使某物贬值。",
-      "collocations": ["bring someone to tears", "reduce to rubble", "lower status"],
+      "meaning": "使某物简化为某种状态或形式",
+      "usage": "指将复杂的事物简化为更简单的形式，或将某物降级到某种状态，常用于抽象概念，如问题、情况等，搭配to表示简化的结果。",
+      "collocations": ["reduce to ashes", "reduce to tears", "reduce to rubble"],
       "examples": [
         {
-          "scene": "在一部剧情电影中，主人公因遭受不公待遇而情绪崩溃，在朋友的安慰下泪流满面，表现出脆弱的一面。",
-          "chineseIdea": "不公平的遭遇让主人公情绪失控，变得非常脆弱。",
-          "sentenceWithBlank": "The unfair treatment @ @ @ in front of everyone.",
-          "fullEnglishSentence": "The unfair treatment 「brought her to tears」 in front of everyone.",
-          "chineseTranslation": "不公平的待遇让她在众人面前「泪流满面」。",
-          "chinglishFix": "典型中式英语：'make her cry' → 纠正：'bring someone to tears'，因为后者是更生动、更常见的英语表达，尤其在描述情绪崩溃时。"
+          "scene": "一场大火席卷了一座历史建筑，消防员无法控制火势，最终建筑被彻底摧毁。",
+          "chineseIdea": "火灾将整个建筑烧成了灰烬。",
+          "sentenceWithBlank": "The fire was so intense that it @ @ @ in just a few hours.",
+          "fullEnglishSentence": "The fire was so intense that it 「reduced to ashes」 in just a few hours.",
+          "chineseTranslation": "火势太猛烈，只用几个小时就将其「烧成灰烬」。",
+          "chinglishFix": "典型中式英语：'burn to nothing'，纠正为：'reduce to ashes'，因为'reduce to ashes'是描述火灾后果的习惯表达。"
         },
         {
-          "scene": "一场突如其来的地震摧毁了小镇，曾经繁华的街道变成了一片废墟，居民们不得不重建家园。",
-          "chineseIdea": "自然灾害让原本热闹的地方变得面目全非。",
-          "sentenceWithBlank": "The earthquake @ @ @ in just a few minutes.",
-          "fullEnglishSentence": "The earthquake 「reduced the town to rubble」 in just a few minutes.",
-          "chineseTranslation": "地震在几分钟内将小镇「化为废墟」。",
-          "chinglishFix": "典型中式英语：'destroy to pieces' → 纠正：'reduce to rubble'，因为 'rubble' 具体指建筑物的残骸，且是描述灾害后场景的习惯表达。"
+          "scene": "在一场激烈的争论中，一个人因为情绪失控而开始哭泣。",
+          "chineseIdea": "争吵让对方情绪崩溃，泪流满面。",
+          "sentenceWithBlank": "Her harsh words @ @ @ during the argument.",
+          "fullEnglishSentence": "Her harsh words 「reduced to tears」 during the argument.",
+          "chineseTranslation": "她尖刻的话语在争论中使其「泪流满面」。",
+          "chinglishFix": "典型中式英语：'make her cry'，纠正为：'reduce to tears'，因为'reduce to tears'更生动且为固定表达。"
         }
       ]
     },
     {
-      "meaning": "简化或浓缩",
-      "usage": "指将复杂的事物简化为更简单的形式，或将某物浓缩到更小的体积或更本质的内容，如简化问题或浓缩液体。",
-      "collocations": ["simplify an issue", "condense information", "boil down to"],
+      "meaning": "在烹饪中使液体浓缩",
+      "usage": "在烹饪语境中，指通过加热使液体蒸发以浓缩味道，常用于描述酱汁或汤的制作过程。",
+      "collocations": ["reduce sauce", "reduce broth", "reduce liquid"],
       "examples": [
         {
-          "scene": "在一场学术研讨会上，演讲者试图将复杂的经济理论讲解得通俗易懂，以便非专业观众也能理解核心概念。",
-          "chineseIdea": "演讲者希望将复杂的理论变得简单明了，让听众抓住重点。",
-          "sentenceWithBlank": "The speaker tried to @ @ for the general audience.",
-          "fullEnglishSentence": "The speaker tried to 「simplify the issue」 for the general audience.",
-          "chineseTranslation": "演讲者试图为普通观众「简化这个问题」。",
-          "chinglishFix": "典型中式英语：'make the issue easy' → 纠正：'simplify the issue'，因为 'simplify' 是更准确、更专业的表达，且 'make easy' 听起来过于口语化。"
+          "scene": "一位厨师在厨房里准备一道法式菜肴，需要将酱汁加热以提升风味。",
+          "chineseIdea": "通过煮沸让酱汁变得更浓稠，味道更浓郁。",
+          "sentenceWithBlank": "Simmer the mixture for 10 minutes to @ @ properly.",
+          "fullEnglishSentence": "Simmer the mixture for 10 minutes to 「reduce sauce」 properly.",
+          "chineseTranslation": "将混合物小火煮10分钟以适当地「浓缩酱汁」。",
+          "chinglishFix": "典型中式英语：'make sauce thicker'，纠正为：'reduce sauce'，因为'reduce'在烹饪中是专业术语。"
         },
         {
-          "scene": "一位学生在准备考试时，将厚厚的课本内容总结成几页重点笔记，以便更高效地复习。",
-          "chineseIdea": "学生希望把大量信息压缩成简洁的笔记来提高学习效率。",
-          "sentenceWithBlank": "She managed to @ @ into a few pages of notes.",
-          "fullEnglishSentence": "She managed to 「condense the information」 into a few pages of notes.",
-          "chineseTranslation": "她设法将「信息浓缩」成几页笔记。",
-          "chinglishFix": "典型中式英语：'shorten the information' → 纠正：'condense the information'，因为 'condense' 更准确地描述将内容压缩且保留核心的过程。"
+          "scene": "一位家庭主妇在准备鸡汤时，想让汤的味道更浓郁。",
+          "chineseIdea": "通过长时间熬煮让汤汁减少，味道更突出。",
+          "sentenceWithBlank": "Boil the stock gently to @ @ for a richer flavor.",
+          "fullEnglishSentence": "Boil the stock gently to 「reduce broth」 for a richer flavor.",
+          "chineseTranslation": "轻轻煮沸高汤以「浓缩汤汁」，获得更浓郁的味道。",
+          "chinglishFix": "典型中式英语：'cook soup less'，纠正为：'reduce broth'，因为'reduce broth'是烹饪中的标准表达。"
         }
       ]
     }

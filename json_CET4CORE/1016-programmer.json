@@ -2,48 +2,49 @@
   "word": "programmer",
   "definitions": [
     {
-      "meaning": "从事编写、测试和维护计算机程序代码的人",
-      "usage": "指计算机领域中负责开发软件、应用程序或系统的人，通常需要掌握编程语言和逻辑思维能力。",
+      "meaning": "编写计算机程序的人",
+      "usage": "指从事软件开发、编写和维护计算机代码的专业人士，通常需要掌握编程语言和技术知识。",
       "collocations": ["write code", "debug software", "develop applications", "work on projects"],
       "examples": [
         {
-          "scene": "在一个科技公司的办公室里，团队正在开发一款新的手机应用程序。每个人都在自己的电脑前专注地工作，敲击键盘的声音此起彼伏。",
-          "chineseIdea": "描述一个人在为一个项目编写代码，强调他们的专注和技术能力。",
-          "sentenceWithBlank": "She spent hours @ @ to ensure the app ran smoothly.",
-          "fullEnglishSentence": "She spent hours 「writing code」 to ensure the app ran smoothly.",
-          "chineseTranslation": "她花了几个小时「编写代码」以确保应用程序运行顺畅。",
-          "chinglishFix": "典型中式英语：'She write program very hard.' 纠正：'She worked hard on writing code.'"
+          "scene": "在一个科技公司的开放式办公室里，团队正在为新产品开发软件，成员们围坐在电脑前讨论代码逻辑。",
+          "chineseIdea": "某人正在专注于创建计算机指令，以确保软件功能正常运行。",
+          "sentenceWithBlank": "She spends hours every day @ @ to create efficient algorithms.",
+          "fullEnglishSentence": "She spends hours every day 「writing code」 to create efficient algorithms.",
+          "chineseTranslation": "她每天花几个小时「编写代码」来创建高效的算法。",
+          "chinglishFix": "典型中式英语：She every day write computer instruction. 纠正：She writes code every day to develop software."
         },
         {
-          "scene": "在家里，一个自由职业者在深夜赶工，为客户开发一个网站，屏幕上满是代码。",
-          "chineseIdea": "描述一个人独自修复软件中的问题，突出他们的耐心和细致。",
-          "sentenceWithBlank": "He stayed up late @ @ to fix the website's issues.",
-          "fullEnglishSentence": "He stayed up late 「debugging software」 to fix the website's issues.",
-          "chineseTranslation": "他熬夜「调试软件」以修复网站的问题。",
-          "chinglishFix": "典型中式英语：'He fix program until midnight.' 纠正：'He debugged the software until midnight.'"
+          "scene": "在深夜的家里，一个人对着电脑屏幕，试图找出软件中的错误，旁边放着一杯咖啡。",
+          "chineseIdea": "某人正在检查和修复软件中的问题，以确保程序顺利运行。",
+          "sentenceWithBlank": "He stayed up late to @ @ for the new app.",
+          "fullEnglishSentence": "He stayed up late to 「debug software」 for the new app.",
+          "chineseTranslation": "他熬夜「调试软件」为新应用做准备。",
+          "chinglishFix": "典型中式英语：He fix program mistake at night. 纠正：He debugs software at night."
         }
       ]
     },
+-
     {
-      "meaning": "安排或规划某事的人（如活动或事件）",
-      "usage": "在非技术语境中，指负责组织或安排活动、课程或事件的人，通常用于描述规划者或协调者。",
-      "collocations": ["plan events", "organize schedules", "coordinate activities"],
+      "meaning": "安排或规划活动的人（较少见）",
+      "usage": "在某些语境中，指负责组织或安排活动、行程等的人，通常与事件或电视节目相关，但此用法在现代英语中较少见。",
+      "collocations": ["schedule events", "plan activities"],
       "examples": [
         {
-          "scene": "在一个社区中心，志愿者们正在筹备一个大型节日庆典，包括表演、游戏和餐饮。",
-          "chineseIdea": "描述一个人在为社区活动安排日程，强调他们的组织能力。",
-          "sentenceWithBlank": "She worked tirelessly to @ @ for the festival.",
-          "fullEnglishSentence": "She worked tirelessly to 「plan events」 for the festival.",
-          "chineseTranslation": "她不知疲倦地「策划活动」以准备节日。",
-          "chinglishFix": "典型中式英语：'She make plan for festival.' 纠正：'She planned events for the festival.'"
+          "scene": "在一个社区中心的会议室里，团队正在讨论下个月的文化节活动安排。",
+          "chineseIdea": "某人正在制定活动的时间表，确保一切按计划进行。",
+          "sentenceWithBlank": "She was hired to @ @ for the festival.",
+          "fullEnglishSentence": "She was hired to 「schedule events」 for the festival.",
+          "chineseTranslation": "她被雇来为节日「安排活动」。",
+          "chinglishFix": "典型中式英语：She make time for festival. 纠正：She schedules events for the festival."
         },
         {
-          "scene": "在一所学校里，老师们正在为新学期的课程表做准备，确保每个班级的时间安排合理。",
-          "chineseIdea": "描述一个人在协调课程安排，突出他们的逻辑性和条理性。",
-          "sentenceWithBlank": "He was responsible for @ @ to avoid conflicts.",
-          "fullEnglishSentence": "He was responsible for 「organizing schedules」 to avoid conflicts.",
-          "chineseTranslation": "他负责「组织日程」以避免冲突。",
-          "chinglishFix": "典型中式英语：'He arrange time for school.' 纠正：'He organized schedules for the school.'"
+          "scene": "在电视台的办公室里，团队正在规划新季度的节目内容和播出时间。",
+          "chineseIdea": "某人正在组织节目的内容和顺序，以吸引观众。",
+          "sentenceWithBlank": "He worked hard to @ @ for the new TV season.",
+          "fullEnglishSentence": "He worked hard to 「plan activities」 for the new TV season.",
+          "chineseTranslation": "他努力「策划活动」为新电视季做准备。",
+          "chinglishFix": "典型中式英语：He arrange TV program. 纠正：He plans activities for the TV program."
         }
       ]
     }

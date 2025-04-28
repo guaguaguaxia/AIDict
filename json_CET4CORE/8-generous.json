@@ -2,71 +2,71 @@
   "word": "generous",
   "definitions": [
     {
-      "meaning": "愿意给予或分享，表现出对他人的慷慨",
-      "usage": "描述一个人在金钱、时间或资源上乐于给予他人，通常带有无私或仁慈的含义。",
-      "collocations": ["make a donation", "offer help", "give freely"],
+      "meaning": "愿意给予比预期更多的金钱、时间或资源",
+      "usage": "描述一个人在物质或时间上乐于分享或给予，通常带有正面、赞赏的含义，常见于描述性格或行为。",
+      "collocations": ["be generous with", "generous amount of", "generous donation"],
       "examples": [
         {
-          "scene": "在一个社区活动中，志愿者们正在为当地的慈善机构筹款。每个人都带来了食物、衣物或现金来支持这个活动。",
-          "chineseIdea": "一个人主动拿出自己的钱来帮助需要的人，表现出一种无私的品质。",
-          "sentenceWithBlank": "She decided to @ @ @ to the charity event to support the local shelter.",
-          "fullEnglishSentence": "She decided to 「make a donation」 to the charity event to support the local shelter.",
-          "chineseTranslation": "她决定为慈善活动「捐款」以支持当地的庇护所。",
-          "chinglishFix": "典型中式英语：She give money to charity. 纠正：She made a donation to the charity."
+          "scene": "在一个朋友聚会上，小明主动提出请大家吃饭，尽管他自己最近经济并不宽裕。他的朋友们都觉得他非常大方。",
+          "chineseIdea": "小明愿意花钱请客，表现出一种无私和乐于分享的态度。",
+          "sentenceWithBlank": "He @ @ @ his money when it comes to treating his friends.",
+          "fullEnglishSentence": "He 「is generous with」 his money when it comes to treating his friends.",
+          "chineseTranslation": "他在请朋友吃饭时「很舍得花钱」。",
+          "chinglishFix": "典型中式英语：'He very generous to spend money for friends.' 纠正：'He is very generous with his money when treating friends.'"
         },
         {
-          "scene": "在一个工作场所，团队成员因项目截止日期临近而感到压力很大。一位同事主动提出加班来协助完成任务。",
-          "chineseIdea": "一个人愿意花自己的时间来帮助同事完成工作，体现出团队精神。",
-          "sentenceWithBlank": "He always @ @ to his teammates when they’re overwhelmed with work.",
-          "fullEnglishSentence": "He always 「offers help」 to his teammates when they’re overwhelmed with work.",
-          "chineseTranslation": "他总是在队友工作不堪重负时「提供帮助」。",
-          "chinglishFix": "典型中式英语：He give help to his team. 纠正：He offers help to his team."
+          "scene": "在公司的一次慈善活动中，李经理捐了一大笔钱给当地的孤儿院，大家都对他的善举赞不绝口。",
+          "chineseIdea": "李经理愿意为慈善事业贡献大量金钱，体现出慷慨的行为。",
+          "sentenceWithBlank": "She made a @ @ @ to the local orphanage.",
+          "fullEnglishSentence": "She made a 「generous donation」 to the local orphanage.",
+          "chineseTranslation": "她向当地孤儿院做了「慷慨的捐款」。",
+          "chinglishFix": "典型中式英语：'She give big money to orphanage.' 纠正：'She made a generous donation to the orphanage.'"
         }
       ]
     },
     {
-      "meaning": "数量或程度很大，超出预期",
-      "usage": "描述某事物（如食物、奖励或空间）在数量或规模上非常充足，甚至超过正常或预期。",
-      "collocations": ["large portion", "ample space", "substantial amount"],
+      "meaning": "数量或程度超出预期，丰富或充足",
+      "usage": "用于描述某事物（如食物、空间、时间等）数量充足或超过正常预期，常用于中性或正面语境。",
+      "collocations": ["generous portion of", "generous amount of", "generous helping of"],
       "examples": [
         {
-          "scene": "在一家餐馆，服务员端上来一大盘食物，顾客惊讶于食物的分量远远超过他们的预期。",
-          "chineseIdea": "食物分量很大，让人觉得物超所值。",
-          "sentenceWithBlank": "The restaurant served a @ @ of pasta that was more than enough for two people.",
-          "fullEnglishSentence": "The restaurant served a 「large portion」 of pasta that was more than enough for two people.",
-          "chineseTranslation": "这家餐厅提供了一「大份」意大利面，足够两个人吃。",
-          "chinglishFix": "典型中式英语：The restaurant give big food. 纠正：The restaurant served a large portion of food."
+          "scene": "在一家新开的餐厅，小红点了一份沙拉，结果服务员端上来一大盘，远超她的预期，她觉得非常满意。",
+          "chineseIdea": "餐厅提供的沙拉份量非常多，超出了小红的预期，给她一种物超所值的感觉。",
+          "sentenceWithBlank": "The restaurant served a @ @ @ salad that surprised her.",
+          "fullEnglishSentence": "The restaurant served a 「generous portion of」 salad that surprised her.",
+          "chineseTranslation": "餐厅提供了一「大份的」沙拉，让她感到惊讶。",
+          "chinglishFix": "典型中式英语：'The restaurant give a lot salad.' 纠正：'The restaurant served a generous portion of salad.'"
         },
         {
-          "scene": "一个家庭搬进了一栋新房子，发现客厅的空间非常宽敞，可以容纳很多家具和活动。",
-          "chineseIdea": "房子的空间很大，给人一种舒适和自由的感觉。",
-          "sentenceWithBlank": "The new apartment has @ @ for a big sofa and a dining table.",
-          "fullEnglishSentence": "The new apartment has 「ample space」 for a big sofa and a dining table.",
-          "chineseTranslation": "新公寓有「充足的空间」放置一个大沙发和餐桌。",
-          "chinglishFix": "典型中式英语：The apartment has big space. 纠正：The apartment has ample space."
+          "scene": "小刚去朋友家做客，朋友的妈妈端上来一大盘饺子，足够每个人吃得很饱，大家都觉得很开心。",
+          "chineseIdea": "朋友的妈妈准备了非常多的饺子，确保每个人都能吃饱，展现了热情好客。",
+          "sentenceWithBlank": "His mother offered a @ @ @ dumplings to everyone.",
+          "fullEnglishSentence": "His mother offered a 「generous helping of」 dumplings to everyone.",
+          "chineseTranslation": "他妈妈给大家提供了「一大份的」饺子。",
+          "chinglishFix": "典型中式英语：'His mother give many dumplings.' 纠正：'His mother offered a generous helping of dumplings.'"
         }
       ]
     },
     {
       "meaning": "宽容或仁慈，不苛刻",
-      "usage": "描述一个人在评价他人或处理事情时表现出宽容、仁慈或不苛求的态度。",
-      "collocations": ["kind words", "forgiving attitude", "lenient approach"],
+      "usage": "描述某人对他人态度宽厚、仁慈或不苛求，常用于描述精神上的慷慨或对他人的理解。",
+      "collocations": ["generous spirit", "be generous in", "generous praise"],
       "examples": [
         {
-          "scene": "在一个课堂上，学生因误解题目而答错了问题，老师没有批评，而是鼓励他继续尝试。",
-          "chineseIdea": "老师对学生的错误表现出理解和鼓励，而不是责骂。",
-          "sentenceWithBlank": "The teacher used @ @ to encourage the student despite his mistake.",
-          "fullEnglishSentence": "The teacher used 「kind words」 to encourage the student despite his mistake.",
-          "chineseTranslation": "老师用「善意的语言」鼓励学生，尽管他犯了错误。",
-          "chinglishFix": "典型中式英语：The teacher say good words to student. 纠正：The teacher used kind words to encourage the student."
+          "scene": "在团队项目中，小丽的组员犯了一个错误，但她没有责骂，而是耐心地指导他们改进，同事们都很感激她的宽容。",
+          "chineseIdea": "小丽对组员的错误表现出理解和宽容，而不是批评，体现出她的大度。",
+          "sentenceWithBlank": "She @ @ @ judging her teammates’ mistakes.",
+          "fullEnglishSentence": "She 「is generous in」 judging her teammates’ mistakes.",
+          "chineseTranslation": "她在「评价」队友的错误时很宽容。",
+          "chinglishFix": "典型中式英语：'She very kind to teammates’ mistakes.' 纠正：'She is generous in judging her teammates’ mistakes.'"
         },
         {
-          "scene": "在一次家庭聚会上，孩子不小心打翻了饮料，父母没有生气，而是温和地处理了这件事。",
-          "chineseIdea": "父母对孩子的过失表现出宽容，体现出仁慈的态度。",
-          "sentenceWithBlank": "Her parents took a @ @ when she spilled juice on the table.",
-          "fullEnglishSentence": "Her parents took a 「lenient approach」 when she spilled juice on the table.",
-          "chineseTranslation": "她的父母在她把果汁洒在桌上时采取了「宽容的态度」。",
-          "chinglishFix": "典型中式英语：Her parents not angry when she spill juice. 纠正：Her parents took a lenient approach when she spilled juice."
+          "scene": "在学校的演讲比赛后，老师对每个参赛者的表现都给予了高度评价，即使有些学生表现得并不完美。",
+          "chineseIdea": "老师愿意给予学生充分的鼓励和认可，体现出一种宽厚的态度。",
+          "sentenceWithBlank": "The teacher gave @ @ @ to all the participants.",
+          "fullEnglishSentence": "The teacher gave 「generous praise」 to all the participants.",
+          "chineseTranslation": "老师对所有参赛者都给予了「高度的赞扬」。",
+          "chinglishFix": "典型中式英语：'Teacher say good words to everyone.' 纠正：'The teacher gave generous praise to all the participants.'"
         }
       ]
     }

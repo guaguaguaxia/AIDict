@@ -3,47 +3,28 @@
   "definitions": [
     {
       "meaning": "毫无疑问地；肯定地",
-      "usage": "用作副词，表示对某事完全确定或没有争议，通常放在句首、句中或句末以强调肯定的语气。常见于正式或半正式语境，也可在日常对话中表达强烈的确信。",
-      "collocations": ["prove to be", "the best choice", "a significant impact"],
+      "usage": "用作副词，表示对某事物的确定性或不容置疑，通常放在句首、句中或句末，强调说话者的确信态度，常用于正式或半正式语境。",
+      "collocations": [
+        "be undoubtedly true",
+        "undoubtedly the best",
+        "will undoubtedly lead to"
+      ],
       "examples": [
         {
-          "scene": "在公司会议中，经理需要向团队强调新策略的效果，以增强团队信心。",
-          "chineseIdea": "经理想表达新策略肯定会带来好的结果，语气需要坚定且有说服力。",
-          "sentenceWithBlank": "This new strategy will @ @ @ highly effective in the coming months.",
-          "fullEnglishSentence": "This new strategy will 「prove to be」 highly effective in the coming months.",
-          "chineseTranslation": "这个新策略在未来几个月无疑会「被证明是」非常有效的。",
-          "chinglishFix": "典型中式英语：'This strategy sure is effective.' 纠正：避免使用'sure'这种模糊的口语表达，应使用'undoubtedly'以增强语气和正式感，如'This strategy will undoubtedly prove to be effective.'"
+          "scene": "在一场学术会议上，研究人员正在讨论一项新技术的突破性成果。他们一致认为，这项技术在未来将显著改变行业标准。",
+          "chineseIdea": "研究人员想表达这项技术的优势是毋庸置疑的，并且它在行业中的地位无可替代。",
+          "sentenceWithBlank": "The impact of this technology @ @ @ in the coming years.",
+          "fullEnglishSentence": "The impact of this technology 「will undoubtedly lead to」 significant changes in the coming years.",
+          "chineseTranslation": "这项技术的影响「将毫无疑问地导致」未来几年显著的变化。",
+          "chinglishFix": "典型中式英语：This technology no doubt will lead to changes. 纠正：This technology will undoubtedly lead to changes.（避免使用'no doubt'，因为它语气较弱，undoubtedly更正式且强调确定性。）"
         },
         {
-          "scene": "朋友之间讨论一部新电影，某人强烈推荐这部电影，认为它是近期的最佳选择。",
-          "chineseIdea": "想表达这部电影绝对是最好的，没有任何争议，语气热情且肯定。",
-          "sentenceWithBlank": "This movie is @ @ @ among all the releases this year.",
-          "fullEnglishSentence": "This movie is 「the best choice」 among all the releases this year.",
-          "chineseTranslation": "这部电影无疑是今年所有上映电影中「最佳的选择」。",
-          "chinglishFix": "典型中式英语：'This movie very good.' 纠正：避免简单堆砌形容词，应使用'undoubtedly'和具体搭配，如'This movie is undoubtedly the best choice.'"
-        }
-      ]
-    },
-    {
-      "meaning": "显然地；毋庸置疑地",
-      "usage": "用作副词，强调某事显而易见或无需进一步讨论，常用于描述众所周知或广为接受的事实。语气较客观，常见于书面语或分析性语境。",
-      "collocations": ["a major challenge", "an essential factor", "a remarkable achievement"],
-      "examples": [
-        {
-          "scene": "在一篇关于气候变化的学术文章中，作者需要指出某种现象是主要问题。",
-          "chineseIdea": "作者想强调气候变化的影响是显而易见的挑战，语气需学术且客观。",
-          "sentenceWithBlank": "Climate change remains @ @ @ in global policy discussions.",
-          "fullEnglishSentence": "Climate change remains 「a major challenge」 in global policy discussions.",
-          "chineseTranslation": "气候变化在全球政策讨论中无疑是「一个主要的挑战」。",
-          "chinglishFix": "典型中式英语：'Climate change is very challenge.' 纠正：避免直接翻译'很挑战'，应使用正确的名词形式和搭配，如'Climate change is undoubtedly a major challenge.'"
-        },
-        {
-          "scene": "在公司年度报告中，高管需要总结某项目的成功，以彰显其价值。",
-          "chineseIdea": "高管想表达这个项目的成功是显而易见的成就，语气需正式且令人信服。",
-          "sentenceWithBlank": "The project’s completion is @ @ @ for our company.",
-          "fullEnglishSentence": "The project’s completion is 「a remarkable achievement」 for our company.",
-          "chineseTranslation": "项目的完成对我们公司来说无疑是「一个显著的成就」。",
-          "chinglishFix": "典型中式英语：'This project finish is great success.' 纠正：避免逐字翻译和语法错误，应使用'undoubtedly'和正确搭配，如'The project’s completion is undoubtedly a remarkable achievement.'"
+          "scene": "在一场电影节的颁奖典礼上，主持人介绍一位获奖导演，强调这位导演的作品在过去十年中一直是行业标杆。",
+          "chineseIdea": "主持人想表达这位导演的成就无可争议，是业内最顶尖的。",
+          "sentenceWithBlank": "This director is @ @ @ in our industry.",
+          "fullEnglishSentence": "This director is 「undoubtedly the best」 in our industry.",
+          "chineseTranslation": "这位导演「无疑是业内最好的」。",
+          "chinglishFix": "典型中式英语：This director is no question the best. 纠正：This director is undoubtedly the best.（'no question'不符合英语习惯，undoubtedly更自然。）"
         }
       ]
     }

@@ -2,48 +2,48 @@
   "word": "courageous",
   "definitions": [
     {
-      "meaning": "具有勇气，勇敢地面对危险、困难或恐惧",
-      "usage": "形容一个人在面对威胁、挑战或不确定性时表现出无畏和坚定的品质，常用于描述行为或性格特质。",
-      "collocations": ["act of bravery", "stand up to", "face danger"],
+      "meaning": "具有勇气，勇敢的",
+      "usage": "描述某人在面对恐惧、危险或困难时表现出无畏或坚定的品质，常用于赞扬个人或群体的行为。",
+      "collocations": ["act with courage", "show courage", "demonstrate courage"],
       "examples": [
         {
-          "scene": "一位消防员在火灾现场冲进燃烧的建筑物救人，周围的人都为他的无畏行为感到震撼。",
-          "chineseIdea": "在紧急情况下，一个人不顾自身安危，果断采取行动，展现出无私和勇敢。",
-          "sentenceWithBlank": "The firefighter’s @ @ @ saved the trapped family from the burning house.",
-          "fullEnglishSentence": "The firefighter’s 「act of bravery」 saved the trapped family from the burning house.",
-          "chineseTranslation": "消防员的「勇敢行为」救出了被困在燃烧房屋中的一家人。",
-          "chinglishFix": "典型中式英语：'He is very brave to save people.' 纠正：'His act of bravery in saving people was remarkable.'（更具体地描述行为，强调勇气的结果）"
+          "scene": "一位消防员在火灾现场不顾个人安危冲进燃烧的建筑物救人，周围的人都为他的行为感到震撼。",
+          "chineseIdea": "在紧急情况下，愿意冒着生命危险去帮助他人，展现出无私和坚定的品质。",
+          "sentenceWithBlank": "The firefighter @ @ @ by rushing into the burning building to save the trapped family.",
+          "fullEnglishSentence": "The firefighter 「acted with courage」 by rushing into the burning building to save the trapped family.",
+          "chineseTranslation": "消防员通过冲进燃烧的建筑物救出被困的家庭「表现出了勇气」。",
+          "chinglishFix": "中式英语：He very brave to save people. 纠正：He acted with great courage to save people."
         },
         {
-          "scene": "一名年轻女性在公司会议上公开反对不公平的政策，尽管她知道这可能会影响她的职业前景。",
-          "chineseIdea": "在面对权威或潜在风险时，坚定地表达自己的观点，维护正义。",
-          "sentenceWithBlank": "She was praised for her decision to @ @ @ the unfair corporate policy.",
-          "fullEnglishSentence": "She was praised for her decision to 「stand up to」 the unfair corporate policy.",
-          "chineseTranslation": "她因决定「对抗」不公平的公司政策而受到赞扬。",
-          "chinglishFix": "典型中式英语：'She is brave to oppose the policy.' 纠正：'She courageously stood up to the unfair policy.'（使用更自然的搭配，突出行动的勇气）"
+          "scene": "一位年轻的学生在学校会议上公开反对不公平的政策，尽管知道可能会遭到批评或排斥。",
+          "chineseIdea": "在面对可能的负面后果时，仍然坚持自己的信念并公开表达意见。",
+          "sentenceWithBlank": "The student @ @ by speaking out against the unfair policy in front of the entire school.",
+          "fullEnglishSentence": "The student 「showed courage」 by speaking out against the unfair policy in front of the entire school.",
+          "chineseTranslation": "这位学生通过在全校面前公开反对不公平的政策「展现了勇气」。",
+          "chinglishFix": "中式英语：She is brave to say her opinion. 纠正：She showed courage by expressing her opinion."
         }
       ]
     },
     {
-      "meaning": "大胆创新，敢于尝试新事物或冒险",
-      "usage": "描述某人在思想、创意或行动上敢于突破常规，尝试未知领域，带有冒险精神。",
-      "collocations": ["take risks", "bold move", "venture into"],
+      "meaning": "大胆的，敢于尝试新事物",
+      "usage": "描述某人在决策或行动中敢于冒险或尝试新方法，通常带有创新或突破的含义。",
+      "collocations": ["make a courageous decision", "take a courageous step", "pursue a courageous vision"],
       "examples": [
         {
-          "scene": "一位年轻创业者在没有任何经验的情况下，辞去稳定的工作，创立了一家科技公司。",
-          "chineseIdea": "为了追求梦想，愿意放弃安全的选择，勇敢迈向未知的领域。",
-          "sentenceWithBlank": "Her decision to @ @ in starting her own company inspired many.",
-          "fullEnglishSentence": "Her decision to 「take risks」 in starting her own company inspired many.",
-          "chineseTranslation": "她决定在创业中「冒险」激励了许多人。",
-          "chinglishFix": "典型中式英语：'She is brave to start a company.' 纠正：'Her courageous decision to take risks and start a company was inspiring.'（强调冒险的行动和结果）"
+          "scene": "一位创业者在经济不稳定的时期决定辞去稳定的工作，创立一家以环保为主题的公司。",
+          "chineseIdea": "愿意放弃安全的选择，追求一个有风险但有意义的目标。",
+          "sentenceWithBlank": "The entrepreneur @ @ @ @ by launching an eco-friendly startup during a recession.",
+          "fullEnglishSentence": "The entrepreneur 「made a courageous decision」 by launching an eco-friendly startup during a recession.",
+          "chineseTranslation": "这位创业者通过在经济衰退期间创立一家环保初创公司「做出了大胆的决定」。",
+          "chinglishFix": "中式英语：He is brave to start new business. 纠正：He made a courageous decision to start a new business."
         },
         {
-          "scene": "一位艺术家尝试将传统中国水墨画与现代数字艺术结合，创造出全新的艺术形式。",
-          "chineseIdea": "在艺术创作中不拘泥于传统，敢于探索新的可能性。",
-          "sentenceWithBlank": "His choice to @ @ the unknown territory of digital art was groundbreaking.",
-          "fullEnglishSentence": "His choice to 「venture into」 the unknown territory of digital art was groundbreaking.",
-          "chineseTranslation": "他选择「冒险进入」数字艺术的未知领域具有开创性。",
-          "chinglishFix": "典型中式英语：'He is brave to try new art.' 纠正：'His courageous venture into new artistic territories was innovative.'（使用更具体的搭配，突出创新性）"
+          "scene": "一位艺术家决定放弃传统的绘画风格，尝试一种全新的、实验性的艺术形式，尽管可能会不被市场接受。",
+          "chineseIdea": "愿意挑战常规，追求独特的创意表达，即使可能面临失败。",
+          "sentenceWithBlank": "The artist @ @ @ @ by experimenting with an unconventional art form.",
+          "fullEnglishSentence": "The artist 「took a courageous step」 by experimenting with an unconventional art form.",
+          "chineseTranslation": "这位艺术家通过尝试一种非传统的艺术形式「迈出了大胆的一步」。",
+          "chinglishFix": "中式英语：She brave to try new art. 纠正：She took a courageous step to try a new art form."
         }
       ]
     }
