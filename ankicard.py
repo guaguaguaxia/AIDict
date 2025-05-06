@@ -100,15 +100,16 @@ def AIChat(word, model, api_key):
 5. 请在提供例句时，尽量选择日常实际使用中的例子，而不仅仅是简单的语料库搜索结果。
 6. 请用「」把完整的英文句子使用的搭配框起来
 7. 请用「」把句子的中文翻译中使用的搭配框起来
+8. 保证fullEnglishSentence中包含这个词汇
 
-""" % (word, word,word,word,word,word)
+""" % (word, word, word, word, word, word)
 
     # url = "https://api.openai.com/v1/chat/completions"
     # url = "https://openkey.cloud/v1/chat/completions"
     url = "https://api.bltcy.ai/v1/chat/completions"
     # url = "https://apis.bltcy.ai/v1/chat/completions"
 
-
+    print(questions)
     headers = {
         'Content-Type': 'application/json',
         # 填写OpenKEY生成的令牌/KEY，注意前面的 Bearer 要保留，并且和 KEY 中间有一个空格。
@@ -177,11 +178,11 @@ def get_json_data(API_KEY, start_alpha_list):
             continue
         if len(word) == 0:
             continue
-        print(f"第 {k} 个单词：{word}")
+        # print(f"第 {k} 个单词：{word}")
         # 判断是否存在
         try:
             with open(f"./json_CET4CORE/{str(k) + '-' + word}.json", 'r') as file:
-                print(f"文件 {str(k) + '-' + word}.json 已存在，跳过")
+                # print(f"文件 {str(k) + '-' + word}.json 已存在，跳过")
                 continue
         except FileNotFoundError:
             pass
@@ -375,11 +376,19 @@ def find_json_files_without_word_in_sentence(folder_path):
 
             for definition in data.get("definitions", []):
                 for example in definition.get("examples", []):
-                    full_sentence = example.get("fullEnglishSentence", "").lower()
-
-                    # 使用正则表达式检查是否包含单词的变体
-                    pattern = r'\b' + re.escape(word_stem) + r'[a-z]*\b'
-                    if not re.search(pattern, full_sentence):
+                    full_sentence = example.get("fullEnglishSentence", "")
+                    # 提取「」之间的内容
+                    match = re.search(r'「(.*?)」', full_sentence)
+                    if match:
+                        quoted_content = match.group(1).lower()
+                        # 检查引号中的内容是否包含单词或其变体
+                        pattern = r'\b' + re.escape(word_stem) + r'[a-z]*\b'
+                        if not re.search(pattern, quoted_content):
+                            problematic_files.append(filename)
+                            problem_found = True
+                            break
+                    else:
+                        # 如果句子中没有「」，也视为问题文件
                         problematic_files.append(filename)
                         problem_found = True
                         break
@@ -424,10 +433,10 @@ if __name__ == '__main__':
     # text_to_speech("The software is designed to enhance fraud detection by analyzing transaction patterns", "output_voice/shimmer.mp3")
     # content = response['choices'][0]['message']['content']
     # print(response)
-    # get_json_data(API_KEY, START_ALPHA_LIST)
+    get_json_data(API_KEY, START_ALPHA_LIST)
     # remove_first_last_lines("./json_CET4CORE", ['.json'])
     # json_to_csv("./json_CET4CORE", "1.csv")
-    find_json_files_without_word_in_sentence("./json_CET4CORE")
+    # find_json_files_without_word_in_sentence("./json_CET4CORE")
 
 
 

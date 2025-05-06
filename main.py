@@ -216,7 +216,7 @@ if __name__ == '__main__':
     API_KEY = options.API_KEY
     FILETXTNAME = options.FILETXTNAME
 
-    getAIExplain("sk-xYjSTR4bSd3sUSb6478542AcC7Df4964A2Db867cB81d1d3c", FILETXTNAME)
+    getAIExplain(API_KEY, FILETXTNAME)
     # get_exists_txt_file()
     # remove_duplicates("./aidict-web/all_word.txt", "./aidict-web/all_word.txt")
 
